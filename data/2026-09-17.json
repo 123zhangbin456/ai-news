@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "updatedAt": "2026-09-17T11:49:47+08:00",
+  "updatedAt": "2026-09-17T11:51:37+08:00",
   "items": [
     {
       "id": "80f8e5beaba21391",
@@ -329,6 +329,29 @@
         "NVIDIA"
       ],
       "confidence": 0.33,
+      "score": 46,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "bd07e9a9297c3780",
+      "title": "Qwen 3.8 27b is a amazing model, for the first time I see a local model found its own away to open a browser and test",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wii0qe/qwen_38_27b_is_a_amazing_model_for_the_first_time",
+      "summary": "I was testing this quantization IQ3_XXS from GSQ-RCO with PI. It is a heavy quantization case, the model is in IQ3_XXS and KV cache in (Q4_0, Q4_0). I asked it to make the flight simulator, using that popular prompt. For my surprise, when I…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T10:57:15+08:00",
+      "fetchedAt": "2026-09-17T11:51:31+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
       "score": 46,
       "related": [],
       "pushed": false
@@ -694,6 +717,30 @@
       "category": "其他",
       "keywords": [],
       "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f0ac1672da549200",
+      "title": "折叠屏还在比大小，努比亚已经在抢另一个入口",
+      "url": "https://leiphone.com/category/industrynews/x3BzRX7YdnnxEOzL.html",
+      "summary": "今年9月，手机行业最显眼的变化之一仍然是折叠。华为继续做三折叠，苹果也终于拿出了自己的折叠屏手机。厂商还在研究一个熟悉的问题：怎样在有限的机身里，装进更大的屏幕。另一种变化，发生在屏幕里面。大模型开始离开聊天框，进入手机系统。过去，查资料、订票、安排日程，都要用户自己找App，一步步操作；现在，AI开始尝试接手其中一部分工作。折叠屏改变的是手机的形态，Agent改变的则可能是人使用手机的方式。过去的语音助手更像遥控器，比如“打开相机”，只对应一个动作。Agent面对的，是一连…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "publishedAt": "2026-09-17T09:50:00+08:00",
+      "fetchedAt": "2026-09-17T11:51:31+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "助手",
+        "app"
+      ],
+      "confidence": 0.5,
       "score": 38,
       "related": [],
       "pushed": false
