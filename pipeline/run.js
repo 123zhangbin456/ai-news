@@ -255,6 +255,9 @@ async function pushRealtime(config, opts, candidates) {
   }
   await markPushed(sent, 'ai');
 }
+
+/** 早上 6 点：把整夜攒的一次性给出 */
+async function pushDigest(config, opts, now, _rules) {
   const pending = await loadUnpushed(30);
   const sorted = pending.sort((a, b) => {
     if (a.source.type === 'paper' !== (b.source.type === 'paper')) {
@@ -283,8 +286,8 @@ async function pushRealtime(config, opts, candidates) {
   const ok = await send(card, { ...opts, label: 'AI 晨报' });
   if (ok) {
     // 晨报是汇总推送，未挤进卡片的条目也算已处理，否则明天会重复出现
-    await markPushed(pending.map((i) => i.id));
-    await markDigestSent();
+    await markPushed(pending.map((i) => i.id), 'ai');
+    await markDigestSent('ai');
   }
 }
 

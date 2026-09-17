@@ -16,7 +16,7 @@
     "morning": "node pipeline/run.js --mode=morning",
     "policy": "node pipeline/run-policy.js",
     "policy:dry": "node pipeline/run-policy.js --dry-run",
-    "test": "node --test \"pipeline/__tests__/*.test.js\"",
+    "test": "node --test pipeline/__tests__/*.test.js",
     "test-push": "node scripts/test-push.js",
     "test-interpret": "node scripts/test-interpret.js",
     "backfill-interpret": "node scripts/backfill-interpret.js",
