@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "updatedAt": "2026-09-17T14:09:39+08:00",
+  "updatedAt": "2026-09-17T14:37:30+08:00",
   "items": [
     {
       "id": "80f8e5beaba21391",
@@ -929,6 +929,40 @@
       "pushed": false
     },
     {
+      "id": "57dd0cc73353ce5b",
+      "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+      "summary": "Article URL: https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html Comments URL: https://news.ycombinator.com/item?id=49735410 Points: 104 # Comments: 8",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T09:39:47+08:00",
+      "fetchedAt": "2026-09-17T14:37:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 发布 v4.1 Flash，主打 KV Cache 压缩极限",
+        "takeaway": "DeepSeek 新模型把 KV Cache 压缩推到极限，直接关系到长上下文推理的显存与成本。",
+        "bullets": [
+          "DeepSeek 推出 v4.1 Flash，核心卖点是 KV Cache 压缩能力",
+          "KV Cache 是长上下文推理的主要显存瓶颈，压缩可降本",
+          "消息在 Hacker News 获 104 分，讨论热度中等",
+          "具体压缩率与效果需看原文技术博客细节"
+        ],
+        "generatedAt": "2026-09-17T14:37:30+08:00"
+      }
+    },
+    {
       "id": "820302cd7e31e085",
       "title": "AI手机2.0，豆包这次“学乖”了",
       "url": "https://tmtpost.com/8142454.html",
@@ -1731,6 +1765,27 @@
         "开放"
       ],
       "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "aaf8cb94619d3843",
+      "title": "对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
+      "url": "https://ifanr.com/1680321",
+      "summary": "「个人化」智能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "publishedAt": "2026-09-17T14:06:44+08:00",
+      "fetchedAt": "2026-09-17T14:37:23+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 30,
       "related": [],
       "pushed": false
