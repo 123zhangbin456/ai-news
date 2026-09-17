@@ -15,6 +15,7 @@
     "night": "node pipeline/run.js --mode=night",
     "morning": "node pipeline/run.js --mode=morning",
     "test": "node --test \"pipeline/__tests__/*.test.js\"",
+    "test-push": "node scripts/test-push.js",
     "serve": "node scripts/serve.js"
   },
   "dependencies": {
