@@ -158,7 +158,7 @@ async function main() {
     lang: item.source.lang,
     domain: 'tech',
     topic: 'ai',
-    publishedAt: item.publishedAt ? isoBeijing(new Date(item.publishedAt)) : isoBeijing(now),
+    publishedAt: isoBeijing(item.publishedAt ? new Date(item.publishedAt) : now),
     fetchedAt: isoBeijing(now),
     category: item.category,
     keywords: item.keywords,
@@ -293,5 +293,6 @@ async function pushDigest(config, opts, now, _rules) {
 
 main().catch((err) => {
   log.error(`运行中断：${err.message}`);
+  if (err?.stack) console.error(err.stack);
   process.exitCode = 1;
 });

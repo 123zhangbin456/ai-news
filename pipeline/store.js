@@ -67,7 +67,7 @@ export async function saveDay(key, day, topic = 'ai') {
   await writeJSON(p.day(key), { ...day, date: key, topic, updatedAt: isoBeijing() });
 }
 
-const dayOf = (item) => dayKey(item.publishedAt ? new Date(item.publishedAt) : new Date());
+const dayOf = (item) => dayKey(item.publishedAt || item.fetchedAt || new Date());
 
 export async function appendItems(items, topic = 'ai') {
   const groups = new Map();

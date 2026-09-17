@@ -12,6 +12,23 @@ const TZ = 'Asia/Shanghai';
 
 /* ---------- 时间：全部以北京时间为准 ---------- */
 
+/** 把各种脏输入收成有效 Date；解析失败则回退，避免 Intl 抛 Invalid time value */
+export function asDate(value, fallback = new Date()) {
+  if (value == null || value === '') return fallback;
+  if (value instanceof Date) {
+    return Number.isNaN(value.getTime()) ? fallback : value;
+  }
+  // 纯数字时间戳（秒/毫秒）以字符串出现时，Date 构造会失败
+  if (typeof value === 'string' && /^\d{10,13}$/.test(value.trim())) {
+    const n = Number(value.trim());
+    const ms = value.trim().length <= 10 ? n * 1000 : n;
+    const d = new Date(ms);
+    return Number.isNaN(d.getTime()) ? fallback : d;
+  }
+  const d = new Date(value);
+  return Number.isNaN(d.getTime()) ? fallback : d;
+}
+
 const partsOf = (date) =>
   Object.fromEntries(
     new Intl.DateTimeFormat('en-CA', {
@@ -20,7 +37,7 @@ const partsOf = (date) =>
       hour: '2-digit', minute: '2-digit', second: '2-digit',
       hour12: false,
     })
-      .formatToParts(date)
+      .formatToParts(asDate(date))
       .filter((p) => p.type !== 'literal')
       .map((p) => [p.type, p.value])
   );
@@ -49,7 +66,7 @@ export function displayTime(date = new Date()) {
 }
 
 export function hoursAgo(date, now = new Date()) {
-  return (now.getTime() - new Date(date).getTime()) / 3_600_000;
+  return (asDate(now).getTime() - asDate(date, asDate(now)).getTime()) / 3_600_000;
 }
 
 /* ---------- 文件读写 ---------- */

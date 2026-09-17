@@ -67,7 +67,7 @@ export function buildItemCard(item) {
       elements: [
         {
           tag: 'plain_text',
-          content: `${item.source?.name ?? item.sourceName ?? ''} · ${displayTime(new Date(item.publishedAt))} · 重要度 ${item.score}`,
+          content: `${item.source?.name ?? item.sourceName ?? ''} · ${displayTime(item.publishedAt || item.fetchedAt || new Date())} · 重要度 ${item.score}`,
         },
       ],
     }
@@ -120,7 +120,7 @@ export function buildPolicyCard(item) {
         elements: [
           {
             tag: 'plain_text',
-            content: `${item.source?.name ?? '中国政府网'} · ${displayTime(new Date(item.publishedAt))} · 仅公开信息索引`,
+            content: `${item.source?.name ?? '中国政府网'} · ${displayTime(item.publishedAt || item.fetchedAt || new Date())} · 仅公开信息索引`,
           },
         ],
       },
