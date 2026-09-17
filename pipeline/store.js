@@ -119,6 +119,33 @@ export async function markPushed(ids) {
   }
 }
 
+/** 按 id 合并字段（用于写入 interpret 等后补信息） */
+export async function patchItems(patches) {
+  if (!patches?.length) return;
+  const byId = new Map(patches.map((p) => [p.id, p]));
+  const keys = [];
+  for (let i = 0; i < 16; i++) {
+    keys.push(dayKey(new Date(Date.now() - i * 86_400_000)));
+  }
+
+  for (const key of keys) {
+    const day = await loadDay(key);
+    let touched = false;
+    for (const item of day.items) {
+      const patch = byId.get(item.id);
+      if (!patch) continue;
+      Object.assign(item, patch);
+      touched = true;
+      byId.delete(item.id);
+    }
+    if (touched) {
+      day.items.sort((a, b) => (b.score ?? 0) - (a.score ?? 0));
+      await saveDay(key, day);
+    }
+    if (byId.size === 0) break;
+  }
+}
+
 /* ---------- 索引与历史标题 ---------- */
 
 /** 前端首屏读这个文件决定有哪些日期可选 */

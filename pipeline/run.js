@@ -6,10 +6,11 @@ import { fetchAll, checkSources } from './fetch.js';
 import { dedupe } from './dedupe.js';
 import { passesAiFilter, enrich, paperRank, scoreItem } from './classify.js';
 import {
-  loadSeen, saveSeen, appendItems, loadUnpushed, markPushed,
+  loadSeen, saveSeen, appendItems, loadUnpushed, markPushed, patchItems,
   rebuildIndex, loadRecentTitles, digestSentToday, markDigestSent,
 } from './store.js';
 import { buildItemCard, buildDigestCard, buildHealthCard, send } from './notify.js';
+import { interpretItems, ensureInterpreted } from './interpret.js';
 
 const ARXIV_STORE_CAP = 20;   // 每次运行最多入库的论文数，防止 450 篇淹没其他新闻
 const REALTIME_CAP = 8;       // 单次实时推送上限，避免突发新闻刷屏
@@ -177,13 +178,16 @@ async function main() {
     return;
   }
 
-  /* 5. 入库 */
-  const touchedDays = await appendItems(enriched);
-  await saveSeen(seen, enriched.map((i) => i.id));
-  await rebuildIndex(rules, [...new Set([...touchedDays, dayKey(now)])]);
-  if (enriched.length) log.ok(`已写入 ${enriched.length} 条到 ${touchedDays.join('、')}`);
+  /* 5. 中文解读（达分解读线的新条目；无 Key 时自动跳过） */
+  const interpreted = await interpretItems(enriched, config);
 
-  /* 6. 推送 */
+  /* 6. 入库 */
+  const touchedDays = await appendItems(interpreted);
+  await saveSeen(seen, interpreted.map((i) => i.id));
+  await rebuildIndex(rules, [...new Set([...touchedDays, dayKey(now)])]);
+  if (interpreted.length) log.ok(`已写入 ${interpreted.length} 条到 ${touchedDays.join('、')}`);
+
+  /* 7. 推送 */
   const notifyOpts = {
     webhook: process.env.FEISHU_WEBHOOK,
     secret: process.env.FEISHU_SECRET,
@@ -194,7 +198,7 @@ async function main() {
   if (mode === 'night') {
     log.step('静默期，已入库不推送。');
   } else if (mode === 'morning') {
-    await pushDigest(config, notifyOpts, now);
+    await pushDigest(config, notifyOpts, now, rules);
   } else {
     // 本轮新条目 + 未推送存量（Cursor 回看 14 天，其余 24 小时），合并去重后一起推
     const generalBacklog = await loadUnpushed(24);
@@ -203,7 +207,7 @@ async function main() {
       .map((i) => withFreshCursorScore(i, rules, now))
       .filter((i) => isPushable(i, config));
     const pool = new Map();
-    for (const item of [...enriched, ...backlog]) pool.set(item.id, item);
+    for (const item of [...interpreted, ...backlog]) pool.set(item.id, item);
     await pushRealtime(config, notifyOpts, [...pool.values()]);
   }
 
@@ -214,9 +218,19 @@ async function main() {
   log.step('完成。');
 }
 
+/** 推送前补齐解读，并把结果写回 data，网页端也能看到 */
+async function withInterpretPersisted(items, config) {
+  const done = await ensureInterpreted(items, config);
+  const patches = done
+    .filter((i) => i.interpret?.headline)
+    .map((i) => ({ id: i.id, interpret: i.interpret }));
+  if (patches.length) await patchItems(patches);
+  return done;
+}
+
 /** 白天：只推重要度达标的，且不含论文；Cursor 分类用更低门槛 */
 async function pushRealtime(config, opts, candidates) {
-  const picked = candidates
+  let picked = candidates
     .filter((i) => isPushable(i, config))
     .sort((a, b) => b.score - a.score)
     .slice(0, REALTIME_CAP);
@@ -226,10 +240,12 @@ async function pushRealtime(config, opts, candidates) {
     return;
   }
 
+  picked = await withInterpretPersisted(picked, config);
+
   log.step(`实时推送 ${picked.length} 条`);
   const sent = [];
   for (const item of picked) {
-    const ok = await send(buildItemCard(item), { ...opts, label: item.title });
+    const ok = await send(buildItemCard(item), { ...opts, label: item.interpret?.headline || item.title });
     if (ok) sent.push(item.id);
     await sleep(300); // 飞书机器人限流
   }
@@ -237,7 +253,7 @@ async function pushRealtime(config, opts, candidates) {
 }
 
 /** 早上 6 点：把整夜攒的一次性给出 */
-async function pushDigest(config, opts, now) {
+async function pushDigest(config, opts, now, _rules) {
   const pending = await loadUnpushed(30);
   const sorted = pending.sort((a, b) => {
     if (a.source.type === 'paper' !== (b.source.type === 'paper')) {
@@ -249,7 +265,13 @@ async function pushDigest(config, opts, now) {
   // 论文单独限额，不占用普通新闻的位置
   const papers = sorted.filter((i) => i.source.type === 'paper').slice(0, config.arxiv.maxPerDigest);
   const news = sorted.filter((i) => i.source.type !== 'paper');
-  const digest = [...news, ...papers];
+  let digest = [...news, ...papers].slice(0, config.digestMaxItems);
+
+  // 晨报里展示的条目补解读（控制数量，避免一次烧太多额度）
+  digest = await withInterpretPersisted(digest, {
+    ...config,
+    maxInterpretPerRun: Math.min(config.digestMaxItems, config.maxInterpretPerRun ?? 25),
+  });
 
   log.step(`晨报：${digest.length} 条（新闻 ${news.length}，论文 ${papers.length}）`);
   const card = buildDigestCard(digest, {

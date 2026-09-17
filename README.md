@@ -95,6 +95,12 @@ Android 用 Chrome 打开 → 菜单 → 安装应用。
 源包括官方 Changelog、Blog、论坛 Announcements / Guides、Reddit r/cursor。
 嫌吵可把 `pipeline/config.json` 里的 `cursorPushThreshold` 调高。
 
+**中文解读**——配置 GitHub Secret `DEEPSEEK_API_KEY` 后，重要条目会生成中文标题、一句话结论和要点，
+飞书推送与网页优先展示解读，原文链接仍保留。
+
+**中文解读**——配置 GitHub Secret `DEEPSEEK_API_KEY` 后，重要条目会生成中文标题、一句话结论和要点，
+飞书推送与网页优先展示解读，原文链接仍保留。
+
 ## 本地开发
 
 ```bash

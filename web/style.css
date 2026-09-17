@@ -186,6 +186,48 @@ body {
   overflow: hidden;
 }
 
+.card-bullets {
+  margin: 8px 0 0;
+  padding-left: 1.1em;
+  font-size: 12.5px;
+  color: var(--text-dim);
+  line-height: 1.55;
+}
+.card-bullets li { margin: 2px 0; }
+
+.card-original {
+  margin: 8px 0 0;
+  font-size: 11.5px;
+  color: var(--text-dim);
+  opacity: 0.75;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.card-bullets {
+  margin: 8px 0 0;
+  padding-left: 1.1em;
+  font-size: 12.5px;
+  color: var(--text-dim);
+  line-height: 1.55;
+}
+.card-bullets li { margin: 2px 0; }
+
+.card-original {
+  margin: 8px 0 0;
+  font-size: 11.5px;
+  color: var(--text-dim);
+  opacity: 0.75;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
 .related {
   margin-top: 10px;
   border-top: 1px dashed var(--border);

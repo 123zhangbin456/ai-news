@@ -20,11 +20,25 @@ const esc = (s) => String(s ?? '').replace(/[[\]]/g, '');
 
 const headerColor = (score) => (score >= 80 ? 'red' : score >= 65 ? 'orange' : 'blue');
 
-/** 白天实时推送：一条新闻一张卡片 */
+/** 白天实时推送：优先展示中文解读，原文作补充 */
 export function buildItemCard(item) {
   const icon = ICONS[item.category] ?? '📰';
-  const lines = [`**${esc(item.title)}**`];
-  if (item.summary) lines.push('', esc(item.summary).slice(0, 180));
+  const interp = item.interpret;
+  const lines = [];
+
+  if (interp?.headline) {
+    lines.push(`**${esc(interp.headline)}**`);
+    if (interp.takeaway) lines.push('', esc(interp.takeaway));
+    if (interp.bullets?.length) {
+      lines.push('', ...interp.bullets.map((b) => `· ${esc(b)}`));
+    }
+    if (item.title && item.title !== interp.headline) {
+      lines.push('', `原文：${esc(item.title)}`);
+    }
+  } else {
+    lines.push(`**${esc(item.title)}**`);
+    if (item.summary) lines.push('', esc(item.summary).slice(0, 180));
+  }
 
   const elements = [
     { tag: 'div', text: { tag: 'lark_md', content: lines.join('\n') } },
@@ -85,7 +99,9 @@ export function buildDigestCard(items, { dateLabel, maxItems }) {
     const icon = ICONS[category] ?? '📰';
     const lines = group.map((item) => {
       const flag = item.score >= 80 ? ' 🔥' : '';
-      return `· [${esc(item.title)}](${item.url})${flag}\n  ${esc(item.source?.name ?? item.sourceName ?? '')}`;
+      const title = item.interpret?.headline || item.title;
+      const tip = item.interpret?.takeaway ? `\n  ${esc(item.interpret.takeaway)}` : '';
+      return `· [${esc(title)}](${item.url})${flag}${tip}\n  ${esc(item.source?.name ?? item.sourceName ?? '')}`;
     });
     elements.push({
       tag: 'div',

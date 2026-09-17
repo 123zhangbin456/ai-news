@@ -132,8 +132,24 @@
               <span>${esc(relativeTime(i.publishedAt))}</span>
               <span class="${scoreClass(i.score)}">${i.score}</span>
             </div>
-            <h2 class="card-title">${esc(i.title)}</h2>
-            ${i.summary ? `<p class="card-summary">${esc(i.summary)}</p>` : ''}
+            <h2 class="card-title">${esc(i.interpret?.headline || i.title)}</h2>
+            ${
+              i.interpret?.takeaway
+                ? `<p class="card-summary">${esc(i.interpret.takeaway)}</p>`
+                : i.summary
+                  ? `<p class="card-summary">${esc(i.summary)}</p>`
+                  : ''
+            }
+            ${
+              i.interpret?.bullets?.length
+                ? `<ul class="card-bullets">${i.interpret.bullets.map((b) => `<li>${esc(b)}</li>`).join('')}</ul>`
+                : ''
+            }
+            ${
+              i.interpret?.headline && i.title && i.title !== i.interpret.headline
+                ? `<p class="card-original">${esc(i.title)}</p>`
+                : ''
+            }
           </a>
           ${related}
         </article>`;
