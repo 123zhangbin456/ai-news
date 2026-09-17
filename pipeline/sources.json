@@ -1,0 +1,229 @@
+{
+  "_说明": {
+    "type": "ai = AI 专属源，全量收录；general = 综合源，必须命中 AI 关键词才收录；paper = 论文源，特殊限流",
+    "weight": "来源权重 1-5，影响重要度打分和同事件合并时保留哪一条。5=官方一手，4=一线媒体，3=二线媒体，2=社区，1=论文预印本",
+    "enabled": "设为 false 即停用该源，不用删除",
+    "增删源": "直接改这个文件即可，不需要动代码。改完用 npm run check 验证新源是否可用"
+  },
+
+  "sources": [
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "url": "https://openai.com/blog/rss.xml",
+      "type": "ai",
+      "weight": 5,
+      "lang": "en",
+      "enabled": true,
+      "note": "全量历史 730KB，依赖条件请求避免重复下载"
+    },
+    {
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/rss.xml",
+      "type": "ai",
+      "weight": 5,
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "type": "ai",
+      "weight": 4,
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "id": "simonwillison",
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/atom/everything/",
+      "type": "ai",
+      "weight": 4,
+      "lang": "en",
+      "enabled": true,
+      "note": "业内高质量个人博客，对新模型的实测第一手"
+    },
+    {
+      "id": "importai",
+      "name": "Import AI",
+      "url": "https://importai.substack.com/feed",
+      "type": "ai",
+      "weight": 4,
+      "lang": "en",
+      "enabled": true,
+      "note": "Jack Clark 周报，更新频率低但质量高"
+    },
+    {
+      "id": "techcrunch-ai",
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "type": "ai",
+      "weight": 4,
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "id": "theverge-ai",
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "type": "ai",
+      "weight": 4,
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "id": "mit-techreview",
+      "name": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "type": "ai",
+      "weight": 4,
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "id": "synced",
+      "name": "Synced 机器之心",
+      "url": "https://syncedreview.com/feed/",
+      "type": "ai",
+      "weight": 4,
+      "lang": "en",
+      "enabled": true,
+      "note": "机器之心英文站。中文站 RSS 已停止维护，这是唯一可用入口"
+    },
+    {
+      "id": "arstechnica-ai",
+      "name": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/feed/",
+      "type": "ai",
+      "weight": 3,
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "id": "wired-ai",
+      "name": "Wired AI",
+      "url": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "type": "ai",
+      "weight": 3,
+      "lang": "en",
+      "enabled": true
+    },
+
+    {
+      "id": "qbitai",
+      "name": "量子位",
+      "url": "https://www.qbitai.com/feed",
+      "type": "ai",
+      "weight": 4,
+      "lang": "zh",
+      "enabled": true,
+      "note": "目前唯一仍提供 RSS 的中文 AI 垂直媒体"
+    },
+    {
+      "id": "infoq-ai",
+      "name": "InfoQ 中国",
+      "url": "https://www.infoq.cn/feed/ai",
+      "type": "ai",
+      "weight": 3,
+      "lang": "zh",
+      "enabled": true
+    },
+
+    {
+      "id": "leiphone",
+      "name": "雷锋网",
+      "url": "https://www.leiphone.com/feed",
+      "type": "general",
+      "weight": 3,
+      "lang": "zh",
+      "enabled": true
+    },
+    {
+      "id": "tmtpost",
+      "name": "钛媒体",
+      "url": "https://www.tmtpost.com/feed",
+      "type": "general",
+      "weight": 2,
+      "lang": "zh",
+      "enabled": true
+    },
+    {
+      "id": "ifanr",
+      "name": "爱范儿",
+      "url": "https://www.ifanr.com/feed",
+      "type": "general",
+      "weight": 2,
+      "lang": "zh",
+      "enabled": true
+    },
+    {
+      "id": "oschina",
+      "name": "开源中国",
+      "url": "https://www.oschina.net/news/rss",
+      "type": "general",
+      "weight": 2,
+      "lang": "zh",
+      "enabled": true
+    },
+    {
+      "id": "solidot",
+      "name": "Solidot",
+      "url": "https://www.solidot.org/index.rss",
+      "type": "general",
+      "weight": 2,
+      "lang": "zh",
+      "enabled": true
+    },
+    {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "url": "https://hnrss.org/frontpage?points=100",
+      "type": "general",
+      "weight": 2,
+      "lang": "en",
+      "enabled": true,
+      "note": "只取 100 分以上的高分帖"
+    },
+    {
+      "id": "localllama",
+      "name": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/.rss",
+      "type": "general",
+      "weight": 2,
+      "lang": "en",
+      "enabled": true,
+      "note": "开源模型社区风向。Reddit 偶尔限流，失败属正常"
+    },
+
+    {
+      "id": "arxiv-ai",
+      "name": "arXiv cs.AI",
+      "url": "http://export.arxiv.org/rss/cs.AI",
+      "type": "paper",
+      "weight": 1,
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "id": "arxiv-cl",
+      "name": "arXiv cs.CL",
+      "url": "http://export.arxiv.org/rss/cs.CL",
+      "type": "paper",
+      "weight": 1,
+      "lang": "en",
+      "enabled": true
+    }
+  ],
+
+  "_已确认失效": [
+    { "name": "机器之心中文站", "url": "https://www.jiqizhixin.com/rss", "reason": "返回 HTML，RSS 已停止维护" },
+    { "name": "36氪", "url": "https://36kr.com/feed", "reason": "返回 HTML" },
+    { "name": "虎嗅", "url": "https://www.huxiu.com/rss/0.xml", "reason": "连接失败" },
+    { "name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/", "reason": "Cloudflare 拦截，429" },
+    { "name": "Anthropic", "url": "https://www.anthropic.com/news", "reason": "官方未提供 RSS" },
+    { "name": "Meta AI", "url": "https://ai.meta.com/blog/", "reason": "官方未提供 RSS" },
+    { "name": "The Batch", "url": "https://www.deeplearning.ai/the-batch/", "reason": "官方未提供 RSS" }
+  ]
+}

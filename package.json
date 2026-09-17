@@ -1,0 +1,23 @@
+{
+  "name": "ai-news-push",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "每日 AI 新闻自动聚合、分类、飞书推送，附 PWA 阅读端",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node pipeline/run.js",
+    "dry": "node pipeline/run.js --dry-run",
+    "check": "node pipeline/run.js --check-sources",
+    "daytime": "node pipeline/run.js --mode=daytime",
+    "night": "node pipeline/run.js --mode=night",
+    "morning": "node pipeline/run.js --mode=morning",
+    "test": "node --test \"pipeline/__tests__/*.test.js\"",
+    "serve": "node scripts/serve.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  }
+}

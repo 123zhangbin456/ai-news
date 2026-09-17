@@ -1,0 +1,195 @@
+{
+  "_说明": {
+    "改法": "分错类了？找到对应分类，加两个关键词进去，或者把误命中的词删掉 / 调低权重。改完 npm run dry 立刻看效果，不用重启任何东西。",
+    "zh": "中文关键词按子串匹配，出现即命中",
+    "en": "英文关键词按单词边界匹配，不区分大小写。这样 'agent' 不会命中 'agenda'",
+    "权重": "数字越大表示该词对这个分类的指示性越强。各分类累加得分，最高者胜出",
+    "标题加成": "命中标题的权重是命中摘要的 2 倍"
+  },
+
+  "aiFilter": {
+    "_说明": "只对 type=general 的综合源生效。命中任意一个才进入流水线，否则丢弃",
+    "zh": [
+      "AI", "人工智能", "大模型", "语言模型", "生成式", "AIGC", "机器学习", "深度学习",
+      "神经网络", "多模态", "智能体", "具身智能", "自动驾驶", "算力", "大语言模型",
+      "OpenAI", "开源模型", "微调", "推理模型", "提示词", "向量数据库", "AI 芯片",
+      "文生图", "文生视频", "数字人", "语音合成", "机器人"
+    ],
+    "en": [
+      "AI", "artificial intelligence", "machine learning", "deep learning", "LLM", "LLMs",
+      "neural network", "generative", "multimodal", "transformer", "GPT", "ChatGPT",
+      "Claude", "Gemini", "Llama", "Mistral", "Qwen", "DeepSeek", "OpenAI", "Anthropic",
+      "Hugging Face", "diffusion", "Midjourney", "Sora", "copilot", "agentic", "RAG",
+      "fine-tune", "fine-tuning", "inference", "embedding", "chatbot", "AGI"
+    ]
+  },
+
+  "categories": [
+    {
+      "name": "模型发布",
+      "icon": "🚀",
+      "desc": "新模型、版本更新、能力升级",
+      "zh": {
+        "发布": 3, "推出": 3, "上线": 2, "开放": 2, "新模型": 4, "升级": 2,
+        "正式版": 3, "内测": 2, "公测": 2, "多模态": 2, "上下文窗口": 3,
+        "参数量": 3, "文生视频": 3, "文生图": 3, "语音模型": 3, "推理模型": 3
+      },
+      "en": {
+        "release": 3, "releases": 3, "launch": 3, "launches": 3, "unveil": 3, "unveils": 3,
+        "introducing": 4, "debut": 2, "announce": 2, "announces": 2, "preview": 2,
+        "GPT": 2, "Claude": 2, "Gemini": 2, "Llama": 2, "Mistral": 2, "Qwen": 2,
+        "DeepSeek": 2, "Sora": 2, "multimodal": 2, "flagship": 2, "rollout": 2
+      }
+    },
+    {
+      "name": "研究论文",
+      "icon": "📄",
+      "desc": "论文、评测、技术突破",
+      "zh": {
+        "论文": 4, "研究": 2, "实验": 2, "基准": 3, "评测": 3, "榜单": 3,
+        "预印本": 4, "综述": 3, "提出了": 2, "新方法": 2, "架构": 2, "实证": 3
+      },
+      "en": {
+        "paper": 4, "papers": 4, "arxiv": 5, "benchmark": 3, "benchmarks": 3,
+        "SOTA": 4, "state-of-the-art": 3, "study": 1, "research": 1, "empirical": 3,
+        "evaluation": 2, "ablation": 4, "preprint": 4, "findings": 2
+      }
+    },
+    {
+      "name": "产品应用",
+      "icon": "📱",
+      "desc": "产品上线、功能更新、落地案例",
+      "zh": {
+        "产品": 2, "功能": 2, "应用": 2, "集成": 3, "接入": 3, "落地": 3,
+        "客户": 2, "案例": 2, "助手": 2, "上架": 3, "订阅": 3, "定价": 3,
+        "收费": 3, "会员": 2, "用户数": 3, "日活": 3
+      },
+      "en": {
+        "product": 2, "feature": 2, "features": 2, "integration": 3, "integrates": 3,
+        "app": 2, "subscription": 3, "pricing": 3, "customers": 2, "enterprise": 2,
+        "copilot": 2, "assistant": 2, "users": 2, "adoption": 3, "deploy": 2,
+        "tool": 2, "tools": 2, "advertising": 3, "ads": 3, "available": 2,
+        "brings": 2, "adds": 2, "update": 2, "updates": 2, "workflow": 3
+      }
+    },
+    {
+      "name": "融资并购",
+      "icon": "💰",
+      "desc": "融资、收购、估值、IPO",
+      "zh": {
+        "融资": 5, "轮融资": 5, "估值": 4, "收购": 5, "并购": 5, "投资": 3,
+        "上市": 4, "IPO": 5, "亿美元": 3, "亿元": 3, "独角兽": 4, "领投": 4, "股权": 3
+      },
+      "en": {
+        "funding": 5, "raises": 5, "raised": 4, "valuation": 4, "acquire": 5,
+        "acquires": 5, "acquisition": 5, "merger": 4, "IPO": 5, "investment": 3,
+        "investors": 3, "seed round": 5, "series": 3, "billion": 2, "stake": 3
+      }
+    },
+    {
+      "name": "算力芯片",
+      "icon": "🔌",
+      "desc": "芯片、算力、数据中心",
+      "zh": {
+        "芯片": 4, "算力": 4, "显卡": 3, "英伟达": 4, "数据中心": 4, "集群": 3,
+        "制程": 4, "晶圆": 4, "服务器": 2, "能耗": 3, "训练成本": 3, "国产芯片": 4
+      },
+      "en": {
+        "chip": 4, "chips": 4, "GPU": 4, "GPUs": 4, "NVIDIA": 3, "TPU": 4,
+        "H100": 5, "H200": 5, "B200": 5, "Blackwell": 5, "datacenter": 4,
+        "data center": 4, "data centers": 4, "semiconductor": 4, "compute": 2,
+        "cluster": 3, "AMD": 3, "TSMC": 4, "wafer": 4
+      }
+    },
+    {
+      "name": "政策监管",
+      "icon": "⚖️",
+      "desc": "法规、合规、诉讼、版权",
+      "zh": {
+        "监管": 5, "法案": 5, "法规": 4, "合规": 4, "诉讼": 5, "起诉": 5,
+        "版权": 4, "隐私": 3, "禁令": 5, "审查": 3, "备案": 4, "伦理": 3,
+        "反垄断": 5, "罚款": 4, "治理": 3, "对齐": 3, "风险": 2, "滥用": 4
+      },
+      "en": {
+        "regulation": 5, "regulatory": 4, "lawsuit": 5, "sues": 5, "sued": 5,
+        "copyright": 4, "privacy": 3, "ban": 4, "banned": 4, "policy": 2,
+        "compliance": 4, "antitrust": 5, "court": 3, "legislation": 5, "fined": 4,
+        "safety": 4, "alignment": 4, "misalignment": 5, "misuse": 4, "guardrail": 4,
+        "auditor": 5, "auditors": 5, "audit": 4, "disclose": 4, "transparency": 3
+      }
+    },
+    {
+      "name": "开源工具",
+      "icon": "🛠",
+      "desc": "开源项目、框架、数据集",
+      "zh": {
+        "开源": 5, "权重": 3, "数据集": 4, "框架": 3, "工具链": 4, "插件": 3,
+        "开放权重": 5, "代码库": 4, "教程": 2, "部署": 2
+      },
+      "en": {
+        "open-source": 5, "open source": 5, "github": 4, "weights": 3,
+        "dataset": 4, "datasets": 4, "framework": 3, "SDK": 4, "toolkit": 4,
+        "library": 3, "repo": 4, "apache": 3, "self-hosted": 4
+      }
+    },
+    {
+      "name": "行业观点",
+      "icon": "💬",
+      "desc": "访谈、趋势、人事变动",
+      "zh": {
+        "访谈": 4, "观点": 3, "评论": 2, "趋势": 3, "预测": 3, "解读": 3,
+        "离职": 4, "加入": 3, "任命": 4, "创始人": 3, "裁员": 4, "内部信": 4, "专访": 4
+      },
+      "en": {
+        "interview": 4, "opinion": 3, "essay": 3, "analysis": 2, "trend": 3,
+        "predicts": 3, "hires": 3, "joins": 3, "resign": 4, "departs": 4,
+        "CEO": 2, "founder": 2, "layoff": 4, "layoffs": 4, "memo": 3,
+        "says": 2, "explains": 3, "warns": 3, "argues": 3, "review": 3, "critics": 3
+      }
+    }
+  ],
+
+  "entityWords": {
+    "_说明": "主角权重。一条新闻重不重要，很大程度取决于主角是谁——OpenAI 发东西和某小公司发东西不是一个量级。只影响打分，不影响分类。命中标题算满分，命中摘要减半，最多累计前 3 个",
+    "zh": {
+      "英伟达": 7, "阿里": 5, "腾讯": 5, "字节": 6, "百度": 5, "华为": 6,
+      "通义": 8, "豆包": 7, "文心": 7, "智谱": 7, "月之暗面": 7, "阶跃": 6, "商汤": 5
+    },
+    "en": {
+      "OpenAI": 10, "Anthropic": 10, "Claude": 10, "ChatGPT": 9, "GPT": 9,
+      "Gemini": 10, "DeepMind": 9, "Llama": 8, "DeepSeek": 9, "Qwen": 8,
+      "Mistral": 7, "Grok": 8, "xAI": 8, "Sora": 9, "Midjourney": 7,
+      "NVIDIA": 7, "Google": 5, "Meta": 6, "Microsoft": 5, "Apple": 5, "Amazon": 4,
+      "Hugging Face": 6, "Perplexity": 6, "Copilot": 6, "Cursor": 6, "Kimi": 7, "MiniMax": 6
+    }
+  },
+
+  "signalWords": {
+    "_说明": "高信号词，只影响重要度打分，不影响分类。命中标题加满分，命中摘要减半",
+    "zh": {
+      "发布": 6, "开源": 8, "融资": 8, "收购": 8, "突破": 7, "首个": 7,
+      "超越": 6, "重磅": 6, "史上": 5, "刷新": 6, "登顶": 7, "免费": 5,
+      "全面开放": 7, "正式": 4, "官宣": 6
+    },
+    "en": {
+      "introducing": 8, "launches": 7, "releases": 6, "open-source": 8,
+      "acquires": 8, "funding": 7, "breakthrough": 7, "first": 5,
+      "outperforms": 6, "beats": 6, "surpasses": 6, "free": 4,
+      "now available": 6, "generally available": 6, "state-of-the-art": 6
+    }
+  },
+
+  "paperBoost": {
+    "_说明": "arXiv 论文的额外排序依据，只用于决定晨报里放哪 5 篇",
+    "institutions": {
+      "OpenAI": 10, "DeepMind": 10, "Google": 7, "Meta": 7, "Anthropic": 10,
+      "Microsoft": 6, "NVIDIA": 6, "Stanford": 6, "MIT": 6, "Berkeley": 6,
+      "Tsinghua": 6, "清华": 6, "北大": 6, "Peking": 6, "CMU": 5, "Alibaba": 5, "Qwen": 6
+    },
+    "hasCodeLink": 8,
+    "hotTopics": {
+      "agent": 5, "reasoning": 6, "RLHF": 5, "distillation": 4, "quantization": 4,
+      "long context": 5, "multimodal": 5, "world model": 6, "scaling law": 6
+    }
+  }
+}

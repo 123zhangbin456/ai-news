@@ -1,0 +1,33 @@
+{
+  "timezone": "Asia/Shanghai",
+
+  "pushThreshold": 60,
+  "_pushThreshold": "重要度达到此分数才在白天实时推送，其余攒到晨报。嫌吵就调高（如 75），想多收就调低（如 45）。",
+
+  "maxAgeHours": 48,
+  "_maxAgeHours": "超过此时长的旧闻直接丢弃，防止某些源回填历史内容时刷屏。",
+
+  "fetchConcurrency": 6,
+  "fetchTimeoutMs": 20000,
+
+  "titleSimilarityThreshold": 0.62,
+  "_titleSimilarityThreshold": "标题相似度超过此值视为同一事件并合并。调高则合并更保守。",
+
+  "seenRetentionDays": 30,
+  "sourceFailAlertDays": 3,
+  "_sourceFailAlertDays": "某个源连续失败这么多天后，才在飞书提醒一次，避免网络抖动造成噪音。",
+
+  "arxiv": {
+    "enabled": true,
+    "maxPerDigest": 5,
+    "neverPushRealtime": true
+  },
+
+  "digestMaxItems": 40,
+  "_digestMaxItems": "晨报单次最多包含的条目数，超出部分只在网页端可见。",
+
+  "notifyRetry": {
+    "attempts": 3,
+    "backoffMs": [1000, 3000, 9000]
+  }
+}

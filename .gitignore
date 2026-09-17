@@ -1,0 +1,8 @@
+node_modules/
+_site/
+.DS_Store
+*.log
+
+# data/ 整个目录都要提交：它既是数据库也是前端的 API。
+# http-cache.json 记的是各源的 ETag，跨运行保留才能让增量抓取生效，
+# seen.json 记的是去重指纹，丢了会导致旧闻重新推送一遍。
