@@ -17,6 +17,7 @@
     "test": "node --test \"pipeline/__tests__/*.test.js\"",
     "test-push": "node scripts/test-push.js",
     "test-interpret": "node scripts/test-interpret.js",
+    "backfill-interpret": "node scripts/backfill-interpret.js",
     "serve": "node scripts/serve.js"
   },
   "dependencies": {

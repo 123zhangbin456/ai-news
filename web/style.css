@@ -158,6 +158,12 @@ body {
   color: var(--text);
 }
 
+.chip-interpret {
+  background: color-mix(in srgb, var(--accent) 18%, var(--surface-hi));
+  color: var(--accent);
+  font-weight: 600;
+}
+
 .score {
   margin-left: auto;
   font-variant-numeric: tabular-nums;

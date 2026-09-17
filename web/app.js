@@ -127,6 +127,7 @@
           <a class="card" href="${esc(i.url)}" target="_blank" rel="noopener">
             <div class="card-meta">
               <span class="chip">${esc(i.category)}</span>
+              ${i.interpret?.headline ? '<span class="chip chip-interpret">中文解读</span>' : ''}
               <span>${esc(i.source?.name ?? '')}</span>
               <span>·</span>
               <span>${esc(relativeTime(i.publishedAt))}</span>
