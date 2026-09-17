@@ -114,9 +114,10 @@ async function main() {
     `同事件合并 ${stats.merged} 条 → 新增 ${fresh.length} 条`
   );
 
-  // 晨报推的是整夜攒下的存量，这一刻有没有新增无关紧要，不能在这里提前退出
-  if (fresh.length === 0 && newlyBroken.length === 0 && mode !== 'morning') {
-    log.step('没有新内容，结束。');
+  // 晨报和白天推送都可能要处理"已入库但还没推过"的存量；
+  // 没有新增也不能提前退出，否则 webhook 配晚了的高分新闻会永远卡在库里。
+  if (fresh.length === 0 && newlyBroken.length === 0 && mode === 'night') {
+    log.step('静默期且没有新内容，结束。');
     return;
   }
 
@@ -175,7 +176,14 @@ async function main() {
   } else if (mode === 'morning') {
     await pushDigest(config, notifyOpts, now);
   } else {
-    await pushRealtime(config, notifyOpts, enriched);
+    // 本轮新条目 + 过去 24 小时内达标却还没推过的存量，合并去重后一起推
+    const backlog = (await loadUnpushed(24)).filter(
+      (i) => i.score >= config.pushThreshold &&
+        !(config.arxiv.neverPushRealtime && i.source?.type === 'paper')
+    );
+    const pool = new Map();
+    for (const item of [...enriched, ...backlog]) pool.set(item.id, item);
+    await pushRealtime(config, notifyOpts, [...pool.values()]);
   }
 
   if (newlyBroken.length) {
