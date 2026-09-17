@@ -1,0 +1,34 @@
+{
+  "_说明": "大类 → 二级主题。前端按这个渲染；流水线按 topic.id 分目录存数据。",
+  "brand": "每日简报",
+  "domains": [
+    {
+      "id": "tech",
+      "name": "数据科技",
+      "icon": "💻",
+      "topics": [
+        {
+          "id": "ai",
+          "name": "AI",
+          "icon": "🤖",
+          "channel": "ai",
+          "desc": "AI 新闻聚合、分类与中文解读"
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "name": "国家政策",
+      "icon": "🏛",
+      "topics": [
+        {
+          "id": "migrant",
+          "name": "农民工",
+          "icon": "👷",
+          "channel": "policy",
+          "desc": "公开的农民工相关政策索引，仅跳转官网原文，不做解读"
+        }
+      ]
+    }
+  ]
+}

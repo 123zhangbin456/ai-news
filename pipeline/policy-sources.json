@@ -1,0 +1,48 @@
+{
+  "_合规说明": [
+    "只使用政府网站主动提供的公开 RSS / 公开栏目，不登录、不绕过反爬、不镜像正文或附件。",
+    "抓取前检查 robots.txt；被 Disallow 的路径直接跳过。",
+    "请求低频（建议每天 1～2 次），使用可识别的个人聚合 User-Agent。",
+    "本地只保存标题、时间、官方 URL、来源名称；推送用于跳转原文，不构成政策全文转载。",
+    "本模块不能替代官方权威文本；如有疑义以政府网站原文为准。"
+  ],
+
+  "topic": "migrant",
+  "domain": "policy",
+  "interpret": false,
+  "pushAllNew": true,
+  "_pushAllNew": "匹配到的公开政策通常很少，有新增就推送标题+链接，不做重要度筛选。",
+
+  "userAgent": "PersonalDigestBot/1.0 (+https://github.com/123zhangbin456/ai-news; personal non-commercial public-info aggregator)",
+  "fetchTimeoutMs": 20000,
+  "maxAgeDays": 180,
+  "_maxAgeDays": "官方 RSS 里重要文件会留很久；窗口过短会导致几乎收不到。只存标题和链接，不存正文。",
+
+  "keywords": [
+    "农民工",
+    "进城务工",
+    "外出务工",
+    "务工人员",
+    "农民工工资",
+    "根治欠薪",
+    "欠薪",
+    "工资支付",
+    "工资支付保障",
+    "随迁子女",
+    "返乡创业",
+    "劳务品牌",
+    "新就业群体"
+  ],
+  "_keywords": "标题命中任一关键词才收录。刻意保持聚焦，避免把所有就业政策都拉进来。",
+
+  "sources": [
+    {
+      "id": "gov-cn-pushinfo",
+      "name": "中国政府网",
+      "url": "https://www.gov.cn/pushinfo/v150203/rss.xml",
+      "type": "official_rss",
+      "enabled": true,
+      "note": "中国政府网官方 RSS（原创推荐/政策动态）。只读公开订阅源，不解析正文页。"
+    }
+  ]
+}

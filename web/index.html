@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>AI 日报</title>
+<title>每日简报</title>
 
 <meta name="theme-color" content="#0b0d12">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="AI 日报">
+<meta name="apple-mobile-web-app-title" content="每日简报">
 <link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="icons/icon-180.png">
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
@@ -20,7 +20,7 @@
 
 <header class="header">
   <div class="header-row">
-    <h1 class="brand">AI 日报</h1>
+    <h1 class="brand" id="brand">每日简报</h1>
     <div class="header-actions">
       <select id="date-select" class="date-select" aria-label="选择日期"></select>
       <button id="refresh" class="icon-btn" aria-label="刷新">
@@ -30,12 +30,15 @@
       </button>
     </div>
   </div>
+  <nav id="domains" class="tabs domain-tabs" aria-label="大类"></nav>
+  <nav id="topics" class="tabs topic-tabs" aria-label="主题"></nav>
   <nav id="tabs" class="tabs" aria-label="分类"></nav>
 </header>
 
 <main id="list" class="list" aria-live="polite"></main>
 
 <footer id="footer" class="footer"></footer>
+<p class="legal" id="legal"></p>
 
 <script src="app.js"></script>
 </body>

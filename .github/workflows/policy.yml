@@ -1,30 +1,18 @@
-name: AI 新闻流水线
+name: 政策索引（农民工）
 
-# cron 一律是 UTC，北京时间 = UTC + 8。
-# 具体推不推、推什么由 run.js 按北京时间自行判断（auto 模式），
-# 所以这里只负责"在该醒的时候唤醒它"，不用把时段逻辑抄两遍。
+# 稳妥低频：每天北京时间 09:00 / 18:00 各一次。
+# 只读中国政府网官方 RSS + 关键词过滤，不抓正文、不解读。
 on:
   schedule:
-    - cron: '0 22 * * *'             # 北京 06:00  晨报
-    - cron: '30 22 * * *'            # 北京 06:30
-    - cron: '0,30 23 * * *'          # 北京 07:00 / 07:30
-    - cron: '*/30 0-12 * * *'        # 北京 08:00 – 20:30，每 30 分钟
-    - cron: '0 13,15,17,19,21 * * *' # 北京 21:00 / 23:00 / 01:00 / 03:00 / 05:00，静默入库
+    - cron: '0 1 * * *'   # 北京 09:00
+    - cron: '0 10 * * *'  # 北京 18:00
   workflow_dispatch:
-    inputs:
-      mode:
-        description: 运行模式
-        type: choice
-        default: auto
-        options: [auto, daytime, night, morning]
 
 permissions:
   contents: write
   pages: write
   id-token: write
 
-# 半小时一跑，偶尔会撞上上一轮还没结束。排队而不是取消，
-# 取消会让那一轮已抓取但未提交的数据丢失。
 concurrency:
   group: ai-news-pipeline
   cancel-in-progress: false
@@ -34,20 +22,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: npm
-
       - run: npm ci
 
-      - name: 抓取、分类、推送
+      - name: 抓取公开政策索引并推送
         env:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
           FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-        run: node pipeline/run.js --mode=${{ inputs.mode || 'auto' }}
+        run: node pipeline/run-policy.js
 
       - name: 提交数据变更
         run: |
@@ -58,22 +43,19 @@ jobs:
             echo '本轮无数据变化，跳过提交'
             exit 0
           fi
-          git commit -m "data: $(date -u '+%Y-%m-%d %H:%M UTC')"
-          # 并发运行可能让远端已经前进了，重试几次而不是直接失败
+          git commit -m "data(policy): $(date -u '+%Y-%m-%d %H:%M UTC')"
           for i in 1 2 3; do
             if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push; then
               exit 0
             fi
             sleep $((i * 5))
           done
-          echo '数据提交失败'
           exit 1
 
       - name: 组装站点
         run: |
           mkdir -p _site/data
           cp -r web/. _site/
-          # AI 数据仍在 data/ 根目录；政策主题在 data/policy/
           cp data/catalog.json _site/data/ 2>/dev/null || true
           cp data/index.json _site/data/ 2>/dev/null || true
           cp data/20*.json   _site/data/ 2>/dev/null || true

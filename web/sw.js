@@ -1,5 +1,5 @@
 // 版本号变化时旧缓存整体作废。改了前端文件记得改这里，否则用户可能拿到旧版界面。
-const VERSION = 'v2';
+const VERSION = 'v3';
 const SHELL_CACHE = `shell-${VERSION}`;
 const DATA_CACHE = `data-${VERSION}`;
 const DATA_KEEP = 8; // 缓存最近 8 天，够离线翻一周

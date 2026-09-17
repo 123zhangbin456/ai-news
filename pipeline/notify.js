@@ -13,6 +13,7 @@ function sign(secret, timestamp) {
 const ICONS = {
   Cursor: '⌨️', 模型发布: '🚀', 研究论文: '📄', 产品应用: '📱', 融资并购: '💰',
   算力芯片: '🔌', 政策监管: '⚖️', 开源工具: '🛠', 行业观点: '💬', 其他: '📰',
+  政策公开: '📜',
 };
 
 // 飞书卡片里 [] 会破坏 markdown 链接语法
@@ -79,6 +80,51 @@ export function buildItemCard(item) {
       title: { tag: 'plain_text', content: `${icon} ${item.category}` },
     },
     elements,
+  };
+}
+
+/**
+ * 政策索引推送：只给标题 + 官方来源 + 跳转按钮。
+ * 不做解读、不贴正文，避免接近转载。
+ */
+export function buildPolicyCard(item) {
+  const kw = item.keywords?.length ? `命中词：${item.keywords.join('、')}` : '';
+  const lines = [
+    `**${esc(item.title)}**`,
+    '',
+    '这是公开政策的索引提醒，请点击下方按钮在官网阅读原文。',
+  ];
+  if (kw) lines.push('', kw);
+
+  return {
+    config: { wide_screen_mode: true },
+    header: {
+      template: 'turquoise',
+      title: { tag: 'plain_text', content: '🏛 国家政策 · 农民工' },
+    },
+    elements: [
+      { tag: 'div', text: { tag: 'lark_md', content: lines.join('\n') } },
+      {
+        tag: 'action',
+        actions: [
+          {
+            tag: 'button',
+            text: { tag: 'plain_text', content: '打开政府网站原文' },
+            url: item.url,
+            type: 'primary',
+          },
+        ],
+      },
+      {
+        tag: 'note',
+        elements: [
+          {
+            tag: 'plain_text',
+            content: `${item.source?.name ?? '中国政府网'} · ${displayTime(new Date(item.publishedAt))} · 仅公开信息索引`,
+          },
+        ],
+      },
+    ],
   };
 }
 

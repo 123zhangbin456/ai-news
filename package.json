@@ -14,6 +14,8 @@
     "daytime": "node pipeline/run.js --mode=daytime",
     "night": "node pipeline/run.js --mode=night",
     "morning": "node pipeline/run.js --mode=morning",
+    "policy": "node pipeline/run-policy.js",
+    "policy:dry": "node pipeline/run-policy.js --dry-run",
     "test": "node --test \"pipeline/__tests__/*.test.js\"",
     "test-push": "node scripts/test-push.js",
     "test-interpret": "node scripts/test-interpret.js",

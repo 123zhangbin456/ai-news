@@ -1,35 +1,48 @@
 import { join } from 'node:path';
 import { DATA_DIR, readJSON, writeJSON, dayKey, isoBeijing, hoursAgo } from './util.js';
 
-const SEEN_PATH = join(DATA_DIR, 'seen.json');
-const INDEX_PATH = join(DATA_DIR, 'index.json');
-const STATE_PATH = join(DATA_DIR, 'state.json');
-const dayPath = (key) => join(DATA_DIR, `${key}.json`);
+const CATALOG_PATH = join(DATA_DIR, 'catalog.json');
 
-/* ---------- 运行状态 ---------- */
+/** AI 沿用根目录 data/；其他主题进 data/<domain>/<topic>/ */
+export function pathsFor(topic = 'ai') {
+  if (!topic || topic === 'ai') {
+    return {
+      topic: 'ai',
+      seen: join(DATA_DIR, 'seen.json'),
+      index: join(DATA_DIR, 'index.json'),
+      state: join(DATA_DIR, 'state.json'),
+      day: (key) => join(DATA_DIR, `${key}.json`),
+    };
+  }
+  // migrant → data/policy/migrant/
+  const domain = topic === 'migrant' ? 'policy' : topic;
+  const base = join(DATA_DIR, domain, topic);
+  return {
+    topic,
+    seen: join(base, 'seen.json'),
+    index: join(base, 'index.json'),
+    state: join(base, 'state.json'),
+    day: (key) => join(base, `${key}.json`),
+  };
+}
 
-/**
- * 定时任务可能延迟触发、也可能被手动重跑，光看时间判断会重复发晨报。
- * 记下最后一次发晨报的日期作为幂等依据。
- */
-export async function digestSentToday() {
-  const state = (await readJSON(STATE_PATH, {})) ?? {};
+export async function digestSentToday(topic = 'ai') {
+  const p = pathsFor(topic);
+  const state = (await readJSON(p.state, {})) ?? {};
   return state.lastDigestDay === dayKey();
 }
 
-export async function markDigestSent() {
-  const state = (await readJSON(STATE_PATH, {})) ?? {};
-  await writeJSON(STATE_PATH, { ...state, lastDigestDay: dayKey(), lastDigestAt: isoBeijing() });
+export async function markDigestSent(topic = 'ai') {
+  const p = pathsFor(topic);
+  const state = (await readJSON(p.state, {})) ?? {};
+  await writeJSON(p.state, { ...state, lastDigestDay: dayKey(), lastDigestAt: isoBeijing() });
 }
 
-/* ---------- URL 指纹表 ---------- */
-
-/** seen.json 形如 { "a3f8c1d2": "2026-09-17" }，滚动保留 N 天 */
-export async function loadSeen(retentionDays) {
-  const raw = (await readJSON(SEEN_PATH, {})) ?? {};
+export async function loadSeen(retentionDays, topic = 'ai') {
+  const p = pathsFor(topic);
+  const raw = (await readJSON(p.seen, {})) ?? {};
   const cutoff = new Date(Date.now() - retentionDays * 86_400_000);
   const cutoffKey = dayKey(cutoff);
-
   const kept = {};
   for (const [id, day] of Object.entries(raw)) {
     if (day >= cutoffKey) kept[id] = day;
@@ -37,27 +50,26 @@ export async function loadSeen(retentionDays) {
   return kept;
 }
 
-export async function saveSeen(seen, newIds) {
+export async function saveSeen(seen, newIds, topic = 'ai') {
+  const p = pathsFor(topic);
   const today = dayKey();
   for (const id of newIds) seen[id] = today;
-  await writeJSON(SEEN_PATH, seen);
+  await writeJSON(p.seen, seen);
 }
 
-/* ---------- 按天的数据文件 ---------- */
-
-export async function loadDay(key) {
-  return (await readJSON(dayPath(key), null)) ?? { date: key, updatedAt: null, items: [] };
+export async function loadDay(key, topic = 'ai') {
+  const p = pathsFor(topic);
+  return (await readJSON(p.day(key), null)) ?? { date: key, updatedAt: null, items: [], topic };
 }
 
-export async function saveDay(key, day) {
-  await writeJSON(dayPath(key), { ...day, date: key, updatedAt: isoBeijing() });
+export async function saveDay(key, day, topic = 'ai') {
+  const p = pathsFor(topic);
+  await writeJSON(p.day(key), { ...day, date: key, topic, updatedAt: isoBeijing() });
 }
 
-/** 一条新闻归属哪一天，以发布时间的北京日期为准 */
 const dayOf = (item) => dayKey(item.publishedAt ? new Date(item.publishedAt) : new Date());
 
-/** 写入新条目，按发布日期分派到对应的天文件 */
-export async function appendItems(items) {
+export async function appendItems(items, topic = 'ai') {
   const groups = new Map();
   for (const item of items) {
     const key = dayOf(item);
@@ -66,27 +78,21 @@ export async function appendItems(items) {
   }
 
   for (const [key, group] of groups) {
-    const day = await loadDay(key);
+    const day = await loadDay(key, topic);
     const existing = new Set(day.items.map((i) => i.id));
     day.items.push(...group.filter((i) => !existing.has(i.id)));
     day.items.sort((a, b) => (b.score ?? 0) - (a.score ?? 0));
-    await saveDay(key, day);
+    await saveDay(key, day, topic);
   }
   return [...groups.keys()];
 }
 
-/* ---------- 推送状态 ---------- */
-
-/** 取出还没推送过的条目。withinHours 决定回看几天的数据文件。 */
-export async function loadUnpushed(withinHours = 30) {
+export async function loadUnpushed(withinHours = 30, topic = 'ai') {
   const dayCount = Math.max(2, Math.ceil(withinHours / 24) + 1);
-  const keys = [];
-  for (let i = 0; i < dayCount; i++) {
-    keys.push(dayKey(new Date(Date.now() - i * 86_400_000)));
-  }
   const out = [];
-  for (const key of keys) {
-    const day = await loadDay(key);
+  for (let i = 0; i < dayCount; i++) {
+    const key = dayKey(new Date(Date.now() - i * 86_400_000));
+    const day = await loadDay(key, topic);
     for (const item of day.items) {
       if (!item.pushed && hoursAgo(item.fetchedAt ?? item.publishedAt) <= withinHours) {
         out.push(item);
@@ -96,17 +102,12 @@ export async function loadUnpushed(withinHours = 30) {
   return out;
 }
 
-export async function markPushed(ids) {
+export async function markPushed(ids, topic = 'ai') {
   if (ids.length === 0) return;
   const idSet = new Set(ids);
-  // 多扫一些天，覆盖 Cursor 补录的跨周条目
-  const keys = [];
   for (let i = 0; i < 16; i++) {
-    keys.push(dayKey(new Date(Date.now() - i * 86_400_000)));
-  }
-
-  for (const key of keys) {
-    const day = await loadDay(key);
+    const key = dayKey(new Date(Date.now() - i * 86_400_000));
+    const day = await loadDay(key, topic);
     let touched = false;
     for (const item of day.items) {
       if (idSet.has(item.id) && !item.pushed) {
@@ -115,21 +116,16 @@ export async function markPushed(ids) {
         touched = true;
       }
     }
-    if (touched) await saveDay(key, day);
+    if (touched) await saveDay(key, day, topic);
   }
 }
 
-/** 按 id 合并字段（用于写入 interpret 等后补信息） */
-export async function patchItems(patches) {
+export async function patchItems(patches, topic = 'ai') {
   if (!patches?.length) return;
   const byId = new Map(patches.map((p) => [p.id, p]));
-  const keys = [];
   for (let i = 0; i < 16; i++) {
-    keys.push(dayKey(new Date(Date.now() - i * 86_400_000)));
-  }
-
-  for (const key of keys) {
-    const day = await loadDay(key);
+    const key = dayKey(new Date(Date.now() - i * 86_400_000));
+    const day = await loadDay(key, topic);
     let touched = false;
     for (const item of day.items) {
       const patch = byId.get(item.id);
@@ -140,21 +136,19 @@ export async function patchItems(patches) {
     }
     if (touched) {
       day.items.sort((a, b) => (b.score ?? 0) - (a.score ?? 0));
-      await saveDay(key, day);
+      await saveDay(key, day, topic);
     }
     if (byId.size === 0) break;
   }
 }
 
-/* ---------- 索引与历史标题 ---------- */
-
-/** 前端首屏读这个文件决定有哪些日期可选 */
-export async function rebuildIndex(rules, recentDayKeys) {
-  const index = (await readJSON(INDEX_PATH, null)) ?? { days: [], categories: [] };
+export async function rebuildIndex(rules, recentDayKeys, topic = 'ai') {
+  const p = pathsFor(topic);
+  const index = (await readJSON(p.index, null)) ?? { days: [], categories: [] };
   const byDate = new Map(index.days.map((d) => [d.date, d]));
 
   for (const key of recentDayKeys) {
-    const day = await loadDay(key);
+    const day = await loadDay(key, topic);
     const categories = {};
     for (const item of day.items) {
       categories[item.category] = (categories[item.category] ?? 0) + 1;
@@ -163,21 +157,62 @@ export async function rebuildIndex(rules, recentDayKeys) {
   }
 
   const days = [...byDate.values()].sort((a, b) => b.date.localeCompare(a.date)).slice(0, 180);
+  const cats = rules?.categories
+    ? [...rules.categories.map((c) => ({ name: c.name, icon: c.icon })), { name: '其他', icon: '📰' }]
+    : [{ name: '政策公开', icon: '📜' }, { name: '其他', icon: '📰' }];
+
   const payload = {
     updatedAt: isoBeijing(),
-    categories: [...rules.categories.map((c) => ({ name: c.name, icon: c.icon })), { name: '其他', icon: '📰' }],
+    topic,
+    categories: cats,
     days,
   };
-  await writeJSON(INDEX_PATH, payload);
+  await writeJSON(p.index, payload);
   return payload;
 }
 
-/** 供去重比对：最近几天已收录的标题 */
-export async function loadRecentTitles(days = 3) {
+export async function loadRecentTitles(days = 3, topic = 'ai') {
   const titles = [];
   for (let i = 0; i < days; i++) {
-    const day = await loadDay(dayKey(new Date(Date.now() - i * 86_400_000)));
+    const day = await loadDay(dayKey(new Date(Date.now() - i * 86_400_000)), topic);
     for (const item of day.items) titles.push(item.title);
   }
   return titles;
+}
+
+/** 汇总各主题索引，供前端首屏切换大类/二级主题 */
+export async function rebuildCatalog(domainsConfig) {
+  const topics = {};
+  for (const domain of domainsConfig.domains ?? []) {
+    for (const topic of domain.topics ?? []) {
+      const p = pathsFor(topic.id);
+      const index = (await readJSON(p.index, null)) ?? { days: [], categories: [] };
+      topics[topic.id] = {
+        domainId: domain.id,
+        name: topic.name,
+        icon: topic.icon,
+        channel: topic.channel,
+        updatedAt: index.updatedAt ?? null,
+        categories: index.categories ?? [],
+        days: index.days ?? [],
+      };
+    }
+  }
+
+  const catalog = {
+    updatedAt: isoBeijing(),
+    brand: domainsConfig.brand ?? '每日简报',
+    domains: domainsConfig.domains,
+    topics,
+  };
+  await writeJSON(CATALOG_PATH, catalog);
+  // 兼容旧前端：根 index 仍指向 AI
+  if (topics.ai) {
+    await writeJSON(join(DATA_DIR, 'index.json'), {
+      updatedAt: topics.ai.updatedAt,
+      categories: topics.ai.categories,
+      days: topics.ai.days,
+    });
+  }
+  return catalog;
 }

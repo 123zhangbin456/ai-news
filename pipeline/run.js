@@ -7,7 +7,7 @@ import { dedupe } from './dedupe.js';
 import { passesAiFilter, enrich, paperRank, scoreItem } from './classify.js';
 import {
   loadSeen, saveSeen, appendItems, loadUnpushed, markPushed, patchItems,
-  rebuildIndex, loadRecentTitles, digestSentToday, markDigestSent,
+  rebuildIndex, loadRecentTitles, digestSentToday, markDigestSent, rebuildCatalog,
 } from './store.js';
 import { buildItemCard, buildDigestCard, buildHealthCard, send } from './notify.js';
 import { interpretItems, ensureInterpreted } from './interpret.js';
@@ -87,6 +87,7 @@ async function main() {
   const config = await readJSON(join(PIPELINE_DIR, 'config.json'));
   const rules = await readJSON(join(PIPELINE_DIR, 'rules.json'));
   const { sources } = await readJSON(join(PIPELINE_DIR, 'sources.json'));
+  const domains = await readJSON(join(PIPELINE_DIR, 'domains.json'));
 
   if (args.checkOnly) return runCheck(sources, config);
 
@@ -155,6 +156,8 @@ async function main() {
       type: item.source.type,
     },
     lang: item.source.lang,
+    domain: 'tech',
+    topic: 'ai',
     publishedAt: item.publishedAt ? isoBeijing(new Date(item.publishedAt)) : isoBeijing(now),
     fetchedAt: isoBeijing(now),
     category: item.category,
@@ -185,6 +188,7 @@ async function main() {
   const touchedDays = await appendItems(interpreted);
   await saveSeen(seen, interpreted.map((i) => i.id));
   await rebuildIndex(rules, [...new Set([...touchedDays, dayKey(now)])]);
+  await rebuildCatalog(domains);
   if (interpreted.length) log.ok(`已写入 ${interpreted.length} 条到 ${touchedDays.join('、')}`);
 
   /* 7. 推送 */
@@ -224,7 +228,7 @@ async function withInterpretPersisted(items, config) {
   const patches = done
     .filter((i) => i.interpret?.headline)
     .map((i) => ({ id: i.id, interpret: i.interpret }));
-  if (patches.length) await patchItems(patches);
+  if (patches.length) await patchItems(patches, 'ai');
   return done;
 }
 
@@ -249,11 +253,8 @@ async function pushRealtime(config, opts, candidates) {
     if (ok) sent.push(item.id);
     await sleep(300); // 飞书机器人限流
   }
-  await markPushed(sent);
+  await markPushed(sent, 'ai');
 }
-
-/** 早上 6 点：把整夜攒的一次性给出 */
-async function pushDigest(config, opts, now, _rules) {
   const pending = await loadUnpushed(30);
   const sorted = pending.sort((a, b) => {
     if (a.source.type === 'paper' !== (b.source.type === 'paper')) {
