@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "updatedAt": "2026-09-17T16:56:56+08:00",
+  "updatedAt": "2026-09-17T21:57:29+08:00",
   "items": [
     {
       "id": "80f8e5beaba21391",
@@ -42,6 +42,41 @@
       }
     },
     {
+      "id": "9f10e3d15cd433aa",
+      "title": "刚刚，唐杰发布智谱RSI首个成果",
+      "url": "https://qbitai.com/2026/09/491357.html",
+      "summary": "GLM已经开始参与构建GLM了",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T16:28:23+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 65,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "智谱发布RSI首个成果：GLM开始参与构建GLM",
+        "takeaway": "唐杰发布智谱RSI首个成果，GLM已参与自身构建，或指向模型自我进化新路径。",
+        "bullets": [
+          "唐杰发布智谱RSI首个成果，GLM开始参与构建GLM",
+          "RSI通常指递归自我改进，即模型参与优化自身",
+          "若成立，意味着智谱在模型自进化方向迈出一步"
+        ],
+        "generatedAt": "2026-09-17T21:57:19+08:00"
+      }
+    },
+    {
       "id": "928144225ccb7d4b",
       "title": "Claude comes for Gemini with its own take on Docs and Slides",
       "url": "https://theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
@@ -77,6 +112,42 @@
       }
     },
     {
+      "id": "6bf22bb7c7b58a77",
+      "title": "Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
+      "summary": "A new coalition that includes Google, Nvidia, Anthropic and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T21:38:33+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA",
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 62,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌英伟达Anthropic联手，为数据中心寻找100GW电网容量",
+        "takeaway": "科技巨头联合成立Emerald AI，目标释放100GW电网容量，缓解AI算力扩张的电力瓶颈。",
+        "bullets": [
+          "谷歌、英伟达、Anthropic等组成联盟，推动Emerald AI项目。",
+          "目标为新建数据中心找到100GW电网容量，相当于百座核电机组。",
+          "此举意在解决AI算力激增带来的电力供应紧张问题。"
+        ],
+        "generatedAt": "2026-09-17T21:57:19+08:00"
+      }
+    },
+    {
       "id": "858d9ee27e4f3ea7",
       "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
       "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent",
@@ -109,6 +180,42 @@
           "警告称有意义的监督需要透明度、独立性，并最终依赖监管。"
         ],
         "generatedAt": "2026-09-17T14:54:53+08:00"
+      }
+    },
+    {
+      "id": "148b3dc10bec055f",
+      "title": "JimuReport v2.5.3 安全加固专项发布，免费开源的 AI 报表工具",
+      "url": "https://oschina.net/news/502553",
+      "summary": "项目介绍真正的 AI 报表来了，一句话描述需求，AI 自动生成报表与数据大屏，支持对话式修改报表；同时提供类 Excel 拖拽设计器，兼容 30 余种数据源，轻松应对各类复杂报表场景积木报表是一款免费的数据可视化报表工具，集报表、打印、大屏、仪表盘于一体，像搭积木一样完全在线设计。分两大模块：JimuRep...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T17:55:08+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.4,
+      "score": 58,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "JimuReport v2.5.3 发布：AI 报表工具安全加固专项更新",
+        "takeaway": "免费开源 AI 报表工具 JimuReport 推出安全加固版本，支持一句话生成报表与对话式修改。",
+        "bullets": [
+          "v2.5.3 为安全加固专项发布，重点修复安全问题",
+          "支持一句话描述需求，AI 自动生成报表与数据大屏",
+          "提供对话式修改报表与类 Excel 拖拽设计器",
+          "兼容 30 余种数据源，集报表、打印、大屏、仪表盘于一体"
+        ],
+        "generatedAt": "2026-09-17T21:57:19+08:00"
       }
     },
     {
@@ -211,6 +318,77 @@
       }
     },
     {
+      "id": "180f2b832706cdfd",
+      "title": "华为发布全球首个采用NPO的超节点——昇腾960超节点",
+      "url": "https://oschina.net/news/502544/hc-ascend960-supernode",
+      "summary": "今日，华为全联接大会2026在上海启幕，华为副董事长、轮值董事长汪涛发表题为“智启新未来，打造智能世界的硅基黑土地”的主题演讲，发布全球首个采用NPO技术的超节点——昇腾960超节点，加速十万亿规模的大模型训练和推理。华为副董事长、轮值董事长汪涛发表主题演讲华为AI战略的核心是算力，坚持硬件变现，聚焦做好A...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T16:09:07+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0.33,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "华为发布全球首个NPO超节点昇腾960",
+        "takeaway": "华为在全联接大会2026推出昇腾960超节点，主打十万亿级大模型训练推理",
+        "bullets": [
+          "华为副董事长汪涛在2026全联接大会发布昇腾960超节点",
+          "该超节点为全球首个采用NPO技术，面向超大规模模型",
+          "华为AI战略以算力为核心，坚持硬件变现路线"
+        ],
+        "generatedAt": "2026-09-17T21:57:20+08:00"
+      }
+    },
+    {
+      "id": "d948201731fa3ac0",
+      "title": "Qwen Next 3.8 / Claude Opus level local model - What to buy in order to deploy?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wipju7/qwen_next_38_claude_opus_level_local_model_what",
+      "summary": "Hey Reddit. This is a post asking for advice / user experience. The goal is simple: deploy a small private server for a developer to run a harness that rivals/beats Claude Opus (in perf/intelligence, not necessarily speed). I believe the mo…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T17:50:46+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude",
+        "Qwen"
+      ],
+      "confidence": 0.5,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "本地部署对标 Claude Opus 的 Qwen Next 3.8，该买什么硬件？",
+        "takeaway": "Reddit 用户求教：想搭私有服务器跑接近 Claude Opus 水平的本地模型，该配什么硬件。",
+        "bullets": [
+          "发帖者目标是部署小型私有服务器，让开发者跑出性能对标甚至超越 Claude Opus 的本地模型",
+          "关注点在智能/性能而非推理速度，说明更看重模型能力而非响应快慢",
+          "帖子来自 r/LocalLLaMA，属于求硬件选购与部署经验的咨询，尚无具体配置结论"
+        ],
+        "generatedAt": "2026-09-17T21:57:20+08:00"
+      }
+    },
+    {
       "id": "29b48237ac8b2eae",
       "title": "Your AI agents can now control your Google Home devices",
       "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices",
@@ -309,6 +487,41 @@
           "由 InfoQ 中国报道，具体参数与开放方式待原文披露"
         ],
         "generatedAt": "2026-09-17T16:17:30+08:00"
+      }
+    },
+    {
+      "id": "aa5aa382ae8dfa42",
+      "title": "Claude Code团队讲究啊，这都往外说",
+      "url": "https://qbitai.com/2026/09/491596.html",
+      "summary": "工程师的核心永远是Problem Solving。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T19:56:13+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Code团队分享：工程师核心永远是解决问题",
+        "takeaway": "Anthropic的Claude Code团队罕见对外分享工程理念，强调问题解决能力比工具本身更关键。",
+        "bullets": [
+          "Claude Code团队公开谈工程文化，称核心是Problem Solving",
+          "该团队负责Anthropic旗下AI编程工具Claude Code",
+          "对开发者而言，工具迭代快，但解决问题能力才是长期壁垒"
+        ],
+        "generatedAt": "2026-09-17T21:57:20+08:00"
       }
     },
     {
@@ -446,6 +659,42 @@
           "市场反馈表明Agent能力比视频生成更重要"
         ],
         "generatedAt": "2026-09-17T16:17:30+08:00"
+      }
+    },
+    {
+      "id": "82dfebdc2e36c3f4",
+      "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
+      "url": "https://qbitai.com/2026/09/491391.html",
+      "summary": "文档和PPT都能做了",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T17:07:25+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "上线",
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude双入口合并，原生Office功能上线",
+        "takeaway": "Anthropic将Claude双入口合并并推出原生Office支持，文档和PPT都能做，硅谷AI办公竞争升温。",
+        "bullets": [
+          "Claude合并双入口，用户访问更统一。",
+          "新增原生Office功能，支持文档和PPT制作。",
+          "硅谷AI办公大战开启，竞争加剧。"
+        ],
+        "generatedAt": "2026-09-17T21:57:21+08:00"
       }
     },
     {
@@ -616,6 +865,43 @@
       }
     },
     {
+      "id": "8687b81166a2028b",
+      "title": "独家丨前腾讯混元预训练负责人姚星丞，加入Thinking Machines Lab",
+      "url": "https://leiphone.com/category/industrynews/xfxXxO3233YuLZEJ.html",
+      "summary": "雷峰网独家获悉，腾讯混元大语言模型预训练负责人姚星丞，近日已加入北美创业公司Thinking Machines Lab。据知情人士透露，Thinking Machines Lab此次给姚星丞开出的薪资，明显高于其在腾讯的收入。而姚星丞在腾讯的年薪包，大约在数千万元人民币区间。此前，姚星丞曾被传将加入Meta，如今靴子落地，他最终选择了这家由OpenAI前CTO Mira Murati创办的AI公司。姚星丞今年7月从腾讯离职，主要负责腾讯混元大语言模型的预训练工作，是过去一年腾…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T15:52:00+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "离职",
+        "加入"
+      ],
+      "confidence": 0.7,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "前腾讯混元预训练负责人姚星丞加入Thinking Machines Lab",
+        "takeaway": "腾讯混元核心预训练负责人姚星丞离职后加入Mira Murati创办的Thinking Machines Lab，获更高薪资。",
+        "bullets": [
+          "姚星丞今年7月从腾讯离职，曾负责混元大语言模型预训练。",
+          "新东家Thinking Machines Lab由OpenAI前CTO Mira Murati创办。",
+          "其薪资明显高于腾讯，此前年薪包达数千万元人民币。",
+          "此前曾传将加入Meta，最终选择这家北美AI创业公司。"
+        ],
+        "generatedAt": "2026-09-17T21:57:21+08:00"
+      }
+    },
+    {
       "id": "936e865b9c6a4cdb",
       "title": "Apple might make servers again to cash in on the AI rush",
       "url": "https://theverge.com/tech/996321/apple-servers-ai-nvidia",
@@ -679,6 +965,109 @@
           "这是首次观察到本地模型自主采取浏览器验证行为。"
         ],
         "generatedAt": "2026-09-17T14:55:00+08:00"
+      }
+    },
+    {
+      "id": "4bce8df04a13dd86",
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls",
+      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T21:46:16+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 助手 Instinct 与 Meta Muse 双双新增打电话功能",
+        "takeaway": "两款竞品 AI 助手同时获得拨打电话能力，可代用户订餐厅、取消订阅，语音代理竞争升温。",
+        "bullets": [
+          "Instinct 和 Meta 的 Muse 均新增拨打电话功能，用户可让助手代打电话。",
+          "典型场景包括预订餐厅和取消订阅，直接替代用户与商家沟通。",
+          "两大竞品同步升级，表明 AI 语音代理正从聊天走向实际任务执行。"
+        ],
+        "generatedAt": "2026-09-17T21:57:22+08:00"
+      }
+    },
+    {
+      "id": "a4c8976a8960a3d9",
+      "title": "独家丨BAT 天价挖 Gemini 大牛，可惜都挖错了",
+      "url": "https://leiphone.com/category/industrynews/dXtXNwFL1snjR35X.html",
+      "summary": "据雷峰网独家获悉，一位 Google Gemini 的预训练专家，于近期已加入国内某互联网大厂。该研究员在 Google 的职级或是 L7- L8，接近总监级别，长期在英国工作，入职后主要从事预训练相关工作，也经常往返国内出差。一位知情人士看来，这可能是国内大厂这一轮争抢 Gemini 人才以来，第一次真正“找对了人”。上述人士告诉雷峰网，此前多家大厂均从 Gemini 引入过人才，但部分人选并未触及核心。他们之中，或只参与预/后训练边缘环节，或是只从事管理工作，职责却并不覆…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T16:02:00+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 0.25,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "BAT 天价挖角 Gemini 大牛，这次终于挖对人了",
+        "takeaway": "国内大厂首次挖到 Gemini 核心预训练专家，此前多轮抢人大多未触及核心。",
+        "bullets": [
+          "一位 Google Gemini 预训练专家近期加入国内某互联网大厂，职级或达 L7-L8。",
+          "该研究员长期在英国工作，入职后主攻预训练，常往返国内出差。",
+          "知情人士称，此前大厂从 Gemini 挖的人多只参与边缘环节或纯管理，未触核心。"
+        ],
+        "generatedAt": "2026-09-17T21:57:23+08:00"
+      }
+    },
+    {
+      "id": "2ec75802279f9a15",
+      "title": "We built an open-source GPU profiler you point an AI agent at, instead of reading traces yourself",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wisllu/we_built_an_opensource_gpu_profiler_you_point_an",
+      "summary": "We've been tuning vLLM/SGLang/llama.cpp setups for a long time and got tired of the profiling part: nsys trace, open the GUI, squint, change a flag, repeat. The profilers assume a human is looking at the timeline. These days the thing doing…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T20:27:14+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 0.2,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开源 GPU 分析器：让 AI 代理替你看性能轨迹",
+        "takeaway": "新开源工具把 GPU 性能分析交给 AI 代理，省去人工读 nsys 轨迹的重复劳动。",
+        "bullets": [
+          "面向 vLLM、SGLang、llama.cpp 等推理框架的调优场景",
+          "传统流程需人工打开 nsys GUI 看时间线、改参数、反复试",
+          "该工具假设分析者不是人而是 AI 代理，可直接对接"
+        ],
+        "generatedAt": "2026-09-17T21:57:23+08:00"
       }
     },
     {
@@ -747,6 +1136,79 @@
           "针对语音 Agent 响应延迟痛点，或提升对话式 AI 体验"
         ],
         "generatedAt": "2026-09-17T16:17:32+08:00"
+      }
+    },
+    {
+      "id": "8505faabac3fd231",
+      "title": "九识建成首个L4万卡集群，无人驾驶进入多模态大模型新范式",
+      "url": "https://leiphone.com/category/industrynews/sOtgTcXitH6C7vAT.html",
+      "summary": "一家做无人车的公司，为什么需要一万多张GPU？ 9月10日，九识CEO孔旗在广州宣布战略升级为“城市级物理AI”。一周后的9月17日，CTO庄立首次披露支撑这次升级的底层能力：九识已建成业内首个L4级万卡集群，算力集群总规模近1.5万卡。九识也成为首个建成万卡集群的L4团队。而万卡算力的背后，是一个正在从百亿级迈向千亿级的九识APEX多模态基座大模型。无人驾驶下半场：迈入多模态大模型新范式在智能驾驶圈子里，长期存在一个顽固的偏见：载人自动驾驶是高科技，城市货运无人车，AI壁垒…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T18:14:00+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力",
+        "集群",
+        "GPU"
+      ],
+      "confidence": 0.57,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "九识建成首个L4万卡集群，押注多模态大模型",
+        "takeaway": "无人车公司九识自建近1.5万卡算力集群，训练千亿级多模态大模型，L4竞争转向算力与基座模型。",
+        "bullets": [
+          "九识CEO孔旗宣布战略升级为城市级物理AI，CTO庄立披露已建成业内首个L4级万卡集群，总规模近1.5万卡。",
+          "该集群支撑九识APEX多模态基座大模型，参数规模正从百亿级迈向千亿级。",
+          "九识成为首个建成万卡集群的L4团队，无人驾驶竞争进入多模态大模型新范式。"
+        ],
+        "generatedAt": "2026-09-17T21:57:23+08:00"
+      }
+    },
+    {
+      "id": "025ff9c8c3b9b49b",
+      "title": "安芯启程｜安芯724北京基地正式投产",
+      "url": "https://leiphone.com/category/industrynews/KOCAotOwioun3Los.html",
+      "summary": "2026年9月16日，柒贰肆安芯技术服务有限公司（简称“安芯724”）北京基地投产活动暨品牌发布会在北京市昌平区未来星科能源谷智造产业园举行。安芯724北京基地正式投产，此举标志着安芯724在GPU及AI算力设备全生命周期服务领域进入体系化运营新阶段。昌平区、未来科学城集团、昌平职业学校、北京科技职业学院等有关单位领导及合作伙伴出席活动，共同见证基地启幕与品牌发布。活动当天上午，安芯724举行内部开业仪式。随着舞狮、点睛及剪彩仪式完成，北京基地正式启幕。董事长邱长海在致辞中表…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T17:44:00+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力",
+        "GPU"
+      ],
+      "confidence": 0.63,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "安芯724北京基地投产，布局GPU算力全生命周期服务",
+        "takeaway": "安芯724北京基地正式投产，标志其GPU及AI算力设备服务进入体系化运营阶段。",
+        "bullets": [
+          "2026年9月16日，安芯724北京基地在昌平未来星科能源谷投产。",
+          "业务聚焦GPU及AI算力设备全生命周期服务。",
+          "昌平区、未来科学城集团及多所院校领导出席见证。"
+        ],
+        "generatedAt": "2026-09-17T21:57:24+08:00"
       }
     },
     {
@@ -951,6 +1413,42 @@
       }
     },
     {
+      "id": "ed3b6837009e613c",
+      "title": "Intel releases OpenVINO 2026.4",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wipkd2/intel_releases_openvino_20264",
+      "summary": "UPDATE https://github.com/ggml-org/llama.cpp/pull/29009 MERGED More Gen AI coverage and frameworks integrations to minimize code changes New models supported: On CPU: Gemma-3n On CPU, GPU: Kokoro-82M, Qwen3-VL-4B with eagle3, Qwen3-ASR, Mus…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T17:51:35+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "releases",
+        "Llama"
+      ],
+      "confidence": 0.5,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Intel 发布 OpenVINO 2026.4，新增多款模型支持",
+        "takeaway": "Intel 更新推理工具包，扩展生成式 AI 模型与框架集成，降低代码改动成本。",
+        "bullets": [
+          "新增 CPU 支持 Gemma-3n，CPU/GPU 支持 Kokoro-82M、Qwen3-VL-4B 等模型",
+          "强化生成式 AI 覆盖与框架集成，减少代码改动",
+          "相关 llama.cpp PR 已合并，便于本地部署"
+        ],
+        "generatedAt": "2026-09-17T21:57:24+08:00"
+      }
+    },
+    {
       "id": "92a9d3c2529bea86",
       "title": "亚马逊 CTO 要来中国了，说实话，这比泛滥的 AI 发布会值得关注",
       "url": "https://infoq.cn/article/5PVJPjNlo2g1XKl90u1F",
@@ -1085,6 +1583,41 @@
           "讨论指向下一次模型“逃逸”事件的责任归属问题。"
         ],
         "generatedAt": "2026-09-17T16:56:54+08:00"
+      }
+    },
+    {
+      "id": "d02ffa13f0f752ed",
+      "title": "AI办公之外，百度智能云为何盯上「产业智能体操作系统」？",
+      "url": "https://leiphone.com/category/industrynews/oZjAyDmVEtf8iH76.html",
+      "summary": "“整个下半年，就看AI办公圈谁能杀出重围了”。一位大模型从业者对雷峰网表示。从五月开始，各个互联网大厂争相出场，写字楼电梯间、机场候机室，到处都是Workbuddy、千问办公、豆包工作、百度搭子的内容。但办公大战打得再热闹，顶多算是一道前菜。早在2025年，微软的Work Trend Index就提出过，AI进入企业分三步：帮员工做得更快、成为团队里的“数字同事”、直接执行完整的业务流程。对照这个坐标，眼下的办公之争，其实还停在前两步。真正难的是第三步——那意味着AI要进入销…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T16:15:00+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "trend"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "百度智能云押注产业智能体操作系统，办公大战只是前菜",
+        "takeaway": "大厂AI办公混战仍停留在辅助个人和团队阶段，百度智能云转向更难的企业级智能体操作系统。",
+        "bullets": [
+          "Workbuddy、千问办公、豆包工作、百度搭子等产品扎堆，办公赛道竞争白热化",
+          "微软Work Trend Index将AI进企业分为三步，办公之争只走到前两步",
+          "第三步是AI直接执行业务流程，百度智能云据此押注产业智能体操作系统"
+        ],
+        "generatedAt": "2026-09-17T21:57:25+08:00"
       }
     },
     {
@@ -1452,6 +1985,74 @@
       }
     },
     {
+      "id": "49d5d62267a514da",
+      "title": "Inside the suddenly explosive world of AI safety",
+      "url": "https://theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+      "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T19:30:00+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI安全圈突掀风暴：顶尖研究者闭门复盘重大网安事件",
+        "takeaway": "美国顶尖AI安全研究者齐聚伯克利闭门“作战室”，复盘一起高关注度网络安全事件，AI安全议题骤然升温。",
+        "bullets": [
+          "加州伯克利一栋无标识建筑内，全美顶尖AI安全研究者闭门召开“作战室”会议。",
+          "会议聚焦一起高关注度网络安全事件，具体细节尚未公开。",
+          "事件凸显AI安全风险正从理论走向现实，监管压力或进一步加大。"
+        ],
+        "generatedAt": "2026-09-17T21:57:25+08:00"
+      }
+    },
+    {
+      "id": "2292e4b22efc25c2",
+      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+      "url": "https://qbitai.com/2026/09/491649.html",
+      "summary": "构建个体专属AI助理",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T20:03:24+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "vivo 谈 AI 手机：从会回答到会办事，打造专属助理",
+        "takeaway": "vivo 提出 AI 手机应进化成能办事的专属助理，而非仅会回答的聊天工具。",
+        "bullets": [
+          "vivo 认为 AI 手机的关键是从问答转向执行任务。",
+          "目标是构建个体专属 AI 助理，提供个性化服务。",
+          "这反映手机厂商正探索 AI 落地的新方向。"
+        ],
+        "generatedAt": "2026-09-17T21:57:26+08:00"
+      }
+    },
+    {
       "id": "e299907abf117783",
       "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
       "url": "https://theverge.com/entertainment/996499/ai-odyssey-movie-review",
@@ -1551,6 +2152,72 @@
           "手机 AI 正从被动响应走向主动服务"
         ],
         "generatedAt": "2026-09-17T16:56:54+08:00"
+      }
+    },
+    {
+      "id": "d24413eb4f3b1f65",
+      "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
+      "url": "https://qbitai.com/2026/09/491522.html",
+      "summary": "他要和这一代最富有想象力的年轻人一起，去创造一个新的图形学。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T17:42:12+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "图形学宗师童欣加盟Meshy，要做“AI for Fun”头号玩家",
+        "takeaway": "图形学专家童欣加入Meshy，将携手年轻人探索AI与图形学结合的新方向。",
+        "bullets": [
+          "童欣是图形学领域资深专家，此次加盟Meshy引发关注。",
+          "Meshy定位“AI for Fun”，童欣希望与年轻一代创造新图形学。",
+          "此举或推动AI在图形学与娱乐领域的创新应用。"
+        ],
+        "generatedAt": "2026-09-17T21:57:26+08:00"
+      }
+    },
+    {
+      "id": "b4f70229d11eb358",
+      "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
+      "url": "https://qbitai.com/2026/09/491454.html",
+      "summary": "中国电信，TeleAgent",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T17:39:19+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "中国电信推出通用Agent，IDC实测排名前三",
+        "takeaway": "央企中国电信入局通用Agent赛道，实测成绩亮眼，或改变国内AI Agent竞争格局。",
+        "bullets": [
+          "中国电信发布通用Agent产品TeleAgent",
+          "在IDC实测中直接杀进前三名",
+          "央企背景或加速AI Agent在行业场景落地"
+        ],
+        "generatedAt": "2026-09-17T21:57:27+08:00"
       }
     },
     {
@@ -1702,6 +2369,77 @@
       "pushed": false
     },
     {
+      "id": "70ee676c03adb3e8",
+      "title": "智谱创始人唐杰清华开课：教室站满人、但课程内容“劝退”学生",
+      "url": "https://oschina.net/news/502554",
+      "summary": "智谱创始人、清华大学教授唐杰在清华开的机器学习课，开课第一天就把教室挤爆了——112 人的教室站满了学生。这课全名叫\"高级机器学习\"，可唐杰在讲台上抛出的判断，明显不是传统机器学习课的味道：AGI、ASI 会是模型接下来的主要目标，Chat 这一仗基本打完了，2026 年该干的是把智能往上推，让模型自己记忆、自己进化、...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T19:05:20+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "创始人"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "智谱创始人唐杰清华开课：教室爆满，内容却“劝退”学生",
+        "takeaway": "唐杰在清华的机器学习课爆满，但他直言Chat之战已结束，2026年要攻AGI/ASI。",
+        "bullets": [
+          "唐杰在清华开“高级机器学习”，112人教室站满学生。",
+          "他判断Chat这一仗基本打完，AGI、ASI是模型下一步目标。",
+          "2026年重点转向让模型自己记忆、自己进化。"
+        ],
+        "generatedAt": "2026-09-17T21:57:28+08:00"
+      }
+    },
+    {
+      "id": "b4c9aa380906d916",
+      "title": "China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wirvb0/chinas_huawei_says_ai_chip_demand_outstrips",
+      "summary": "submitted by /u/sunychoudhary [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T19:53:40+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip",
+        "NVIDIA"
+      ],
+      "confidence": 0.71,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "华为称AI芯片供不应求，加速挑战英伟达",
+        "takeaway": "华为AI芯片需求超过供应，显示其正加大力度挑战英伟达在AI算力市场的主导地位。",
+        "bullets": [
+          "华为表示AI芯片需求超出供应能力",
+          "此举被视为对英伟达的挑战升级",
+          "消息来自Reddit的LocalLLaMA社区讨论"
+        ],
+        "generatedAt": "2026-09-17T21:57:28+08:00"
+      }
+    },
+    {
       "id": "d200db485db2e845",
       "title": "Quoting Mustafa Suleyman",
       "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman",
@@ -1802,6 +2540,41 @@
           "昇腾获 PyTorch 官方支持，降低开发者迁移成本，完善生态。"
         ],
         "generatedAt": "2026-09-17T16:56:55+08:00"
+      }
+    },
+    {
+      "id": "66c87bc9295f19f8",
+      "title": "端侧AI之战正式打响",
+      "url": "https://tmtpost.com/8143618.html",
+      "summary": "端侧AI商业化加速，企业聚焦轻量模型与硬件开发，智能硬件迎来升级浪潮。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T19:34:30+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "升级"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "端侧AI之战正式打响：轻量模型与硬件成焦点",
+        "takeaway": "端侧AI商业化提速，企业转向轻量模型与硬件开发，智能硬件迎来升级浪潮。",
+        "bullets": [
+          "端侧AI商业化加速，企业聚焦轻量模型与硬件开发",
+          "智能硬件迎来升级浪潮，竞争正式打响",
+          "模型发布与硬件结合成为新趋势"
+        ],
+        "generatedAt": "2026-09-17T21:57:28+08:00"
       }
     },
     {
@@ -2148,6 +2921,31 @@
         "Cursor"
       ],
       "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "117e699cfc132822",
+      "title": "AndroidLife: Can an AI agent survive a day in the life of a real user? Qwen3.8-27b run: 56.7% SR",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wis5p0/androidlife_can_an_ai_agent_survive_a_day_in_the",
+      "summary": "I let AI run my phone 60 real tasks, back to back, on the OnePlus I use every day - Best text model still failed 43% of them - Peak chip temp 98.2 C - 69% of the battery gone The benchmark is AndroidLife, and this is the first of 11 models,…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T20:06:57+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip"
+      ],
+      "confidence": 0.25,
       "score": 34,
       "related": [],
       "pushed": false
@@ -2768,6 +3566,177 @@
       "pushed": false
     },
     {
+      "id": "9a84ba5adbea732f",
+      "title": "万亿市场背后，AI数据基础设施的竞赛已经开始",
+      "url": "https://tmtpost.com/8143760.html",
+      "summary": "模型能力快速逼近应用需求的同时，数据正在成为企业AI规模化落地的新瓶颈。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T19:36:15+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "应用",
+        "落地"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5e68929d4c57eb66",
+      "title": "机器人企业还没拿到“大结果”",
+      "url": "https://tmtpost.com/8143738.html",
+      "summary": "一边失血，一边前行。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T19:36:11+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "48a4c08a9e311864",
+      "title": "机器人开始制造机器人了？万台产能背后残酷大考才刚开始",
+      "url": "https://tmtpost.com/8143691.html",
+      "summary": "10 分钟下线一台人形机器人，可是量产不等于商业化通关。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T19:34:40+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b66cea560e34f3e8",
+      "title": "当AI开始算账：一家算力企业的“智企”实践样本丨2026 ITValue Summit 数字价值年会",
+      "url": "https://tmtpost.com/8143846.html",
+      "summary": "刘宏云的发言里，最有个性的一个判断是：企业架构正在迎来换代。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T18:41:29+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 0.75,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3ef5d9553eae1941",
+      "title": "宠物AI硬件，最天然的“钉子”，最难验证的答案",
+      "url": "https://tmtpost.com/8143737.html",
+      "summary": "宠物不会说话，让主人产生了理解它的需求；同样因为宠物不会说话，没有人能轻易证明AI的解释究竟对不对。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T18:02:58+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0e982d38dab970e2",
+      "title": "今年上线的微短剧逾九成是 AI 剧",
+      "url": "https://solidot.org/story?sid=85408",
+      "summary": "陈奕龙有 20 年出演影视剧的经验，由于工作机会日益减少，他在 8 月与一家 AI 工作室签约，授权对方使用其面部肖像。陈奕龙的工作就是坐在摄像机前，根据导演的指令做出不同面部表情——如无表情凝视、怒视或惊讶。这家工作室将利用 AI 技术，以陈奕龙的面部图像为基础生成虚拟数字人，让其主演一部由 AI 生成的电影。现年 38 岁陈奕龙说道，“如果你无法战胜它，那就加入它。”雇佣陈奕龙的是总部位于深圳的 Feixiang Universe 工作室，创始人 Sun Wei 表示，之…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T18:31:46+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "加入",
+        "创始人"
+      ],
+      "confidence": 0.33,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "45bf15b5fa575fd5",
+      "title": "How to structure multi-project .cursorrules to avoid composer prompt bloat and context drift",
+      "url": "https://forum.cursor.com/t/how-to-structure-multi-project-cursorrules-to-avoid-composer-prompt-bloat-and-context-drift/171999",
+      "summary": "As codebases grow, many developers dump every single architecture standard, coding convention, and linter requirement into a single monolithic `.cursorrules` file. While this seems convenient initially, it quickly triggers two severe issues…",
+      "source": {
+        "id": "cursor-guides",
+        "name": "Cursor 论坛指南",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T18:24:29+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "6c3aabdc873f538f",
       "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
       "url": "https://arxiv.org/abs/2609.16338",
@@ -2786,6 +3755,29 @@
         "arxiv"
       ],
       "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "96e95b323f03d32f",
+      "title": "GLM Built Its Own Inference Infrastructure",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "summary": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure Comments URL: https://news.ycombinator.com/item?id=49737922 Points: 168 # Comments: 130",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-17T16:27:09+08:00",
+      "fetchedAt": "2026-09-17T21:57:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 29,
       "related": [],
       "pushed": false
