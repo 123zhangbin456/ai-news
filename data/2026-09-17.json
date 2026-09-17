@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "updatedAt": "2026-09-17T11:57:27+08:00",
+  "updatedAt": "2026-09-17T12:02:15+08:00",
   "items": [
     {
       "id": "80f8e5beaba21391",
@@ -28,7 +28,8 @@
       "confidence": 0.92,
       "score": 74,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-09-17T12:02:15+08:00"
     },
     {
       "id": "928144225ccb7d4b",
@@ -52,7 +53,8 @@
       "confidence": 0.5,
       "score": 62,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-09-17T12:02:15+08:00"
     },
     {
       "id": "858d9ee27e4f3ea7",
@@ -1056,6 +1058,30 @@
       "pushed": false
     },
     {
+      "id": "dc87bbe8bd00b3b7",
+      "title": "\"If I Had to Buy Just ONE: Galaxy S26 Ultra\": Auditing AI-Generated Product Recommendations",
+      "url": "https://arxiv.org/abs/2609.18729",
+      "summary": "arXiv:2609.18729v1 Announce Type: cross Abstract: Consumers increasingly use AI chatbots for advice on what to buy. With companies like OpenAI and Google monetising their AI through advertising, this raises difficult questions about the bia…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T12:00:00+08:00",
+      "fetchedAt": "2026-09-17T12:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 33,
+      "paperRank": 17,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "94de400409cd8e97",
       "title": "从概率生成到稳定交付：AIGC专业内容生产的工程化挑战",
       "url": "https://infoq.cn/video/bj4Q9E2PBJfUWIRZkutu",
@@ -1094,6 +1120,54 @@
       "keywords": [],
       "confidence": 0,
       "score": 32,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "36f0ccf4739753d5",
+      "title": "Reasoning through Evolution: Automatic Meta-path Discovery for LLM-based Fake News Detection",
+      "url": "https://arxiv.org/abs/2609.18597",
+      "summary": "arXiv:2609.18597v1 Announce Type: new Abstract: Propagation structures provide crucial evidence for fake news detection, yet existing approaches primarily rely on supervised GNN-based models, which require substantial labeled data and exhib…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T12:00:00+08:00",
+      "fetchedAt": "2026-09-17T12:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 31,
+      "paperRank": 13,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a25593a2db18fca8",
+      "title": "Lexara-RF: Reference-Free Metrics for Evaluating Conversational Visual Analytics Agents",
+      "url": "https://arxiv.org/abs/2609.17842",
+      "summary": "arXiv:2609.17842v1 Announce Type: cross Abstract: Conversational visual analytics (CVA) agents powered by large language models generate visualizations and natural-language explanations from open-ended queries. Evaluating these multimodal o…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T12:00:00+08:00",
+      "fetchedAt": "2026-09-17T12:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 31,
+      "paperRank": 10,
       "related": [],
       "pushed": false
     },
@@ -1431,6 +1505,366 @@
       ],
       "confidence": 1,
       "score": 27,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "219d31607c0e9950",
+      "title": "How to Compress KV Cache in RL Post-Training? Shadow Mask Distillation for Memory-Efficient Alignment",
+      "url": "https://arxiv.org/abs/2605.06850",
+      "summary": "arXiv:2605.06850v2 Announce Type: replace-cross Abstract: Reinforcement Learning (RL) has emerged as a crucial paradigm for unlocking the advanced reasoning capabilities of Large Language Models (LLMs), encompassing frameworks like RLHF and…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T12:00:00+08:00",
+      "fetchedAt": "2026-09-17T12:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 15,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4e7e8acdb3ffe484",
+      "title": "Collaborative Memory for Multi-Agent VLM Systems",
+      "url": "https://arxiv.org/abs/2609.17921",
+      "summary": "arXiv:2609.17921v1 Announce Type: new Abstract: Vision-language model (VLM) agents combine specialized perception, tools, and reasoning to address complex visual tasks. In multi-agent settings, different agents inspect different image regio…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T12:00:00+08:00",
+      "fetchedAt": "2026-09-17T12:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e0c7a2addbc45af3",
+      "title": "Anchoring What Matters: A Dual-Level Learning Framework for Visually-Grounded Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2609.18057",
+      "summary": "arXiv:2609.18057v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has significantly improved the reasoning capabilities of large vision-language models (LVLMs). However, standard on-policy RLVR algorithms…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T12:00:00+08:00",
+      "fetchedAt": "2026-09-17T12:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2199e129c6d0a87b",
+      "title": "Designing Agentic AI Workflow Portfolios under Imperfect Selection and Compute Cost",
+      "url": "https://arxiv.org/abs/2609.18126",
+      "summary": "arXiv:2609.18126v1 Announce Type: new Abstract: Agentic AI systems often approach the same task through multiple workflows that differ in reasoning strategy, verification structure, and compute cost. A natural deployment policy is to use th…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T12:00:00+08:00",
+      "fetchedAt": "2026-09-17T12:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "daf8f01ca28c103f",
+      "title": "WFM: Wiki Foundation Model for Complex Agentic Reasoning",
+      "url": "https://arxiv.org/abs/2609.18182",
+      "summary": "arXiv:2609.18182v1 Announce Type: new Abstract: Real-world agents fundamentally require persistent non-parametric knowledge for dynamic reasoning, i.e., long-term memory and retrieval-augmented generation. While graphs have shown reliable a…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T12:00:00+08:00",
+      "fetchedAt": "2026-09-17T12:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8bee34b8044f5691",
+      "title": "Disentangling Long-Term Memory via Latent Neuro-Symbolic Reasoning",
+      "url": "https://arxiv.org/abs/2609.18461",
+      "summary": "arXiv:2609.18461v1 Announce Type: new Abstract: Personalized agents are required to reason over long-term history interactions to infer both explicit preferences and implicit behavioral evidence. While early flat retrieval methods score mem…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T12:00:00+08:00",
+      "fetchedAt": "2026-09-17T12:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "bca7701eeca28402",
+      "title": "Recursive Reasoning or Statistical Extrapolation? In-Context Learning in Multi-Agent Interdependent Decision-Making",
+      "url": "https://arxiv.org/abs/2609.18591",
+      "summary": "arXiv:2609.18591v1 Announce Type: new Abstract: In-context learning (ICL) enables large language model (LLM) agents to improve decisions using interaction history, yet it remains unclear whether such improvement reflects refined internal re…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T12:00:00+08:00",
+      "fetchedAt": "2026-09-17T12:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1e6b9839efdde0d1",
+      "title": "Lost in Perception: Isolating Perceptual and Reasoning Failures in Multimodal Physics and Geometry Reasoning",
+      "url": "https://arxiv.org/abs/2609.18991",
+      "summary": "arXiv:2609.18991v1 Announce Type: new Abstract: Multimodal LLMs report strong performance on scientific reasoning benchmarks, yet most treat perception and reasoning as a single measurable process. We introduce a five-task diagnostic experi…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T12:00:00+08:00",
+      "fetchedAt": "2026-09-17T12:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2f27f0a8fdf4264e",
+      "title": "Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents",
+      "url": "https://arxiv.org/abs/2609.17708",
+      "summary": "arXiv:2609.17708v1 Announce Type: cross Abstract: Reliable confidence estimation is increasingly central to the trustworthy deployment of language models: a calibrated estimate of the probability that an output is correct decides what to sh…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T12:00:00+08:00",
+      "fetchedAt": "2026-09-17T12:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "fecf60ffac5c9ae3",
+      "title": "SurgRAW: Multi-Agent Workflow with Chain of Thought Reasoning for Robotic Surgical Video Analysis",
+      "url": "https://arxiv.org/abs/2503.10265",
+      "summary": "arXiv:2503.10265v3 Announce Type: replace Abstract: Robotic-assisted surgery (RAS) is central to modern surgery, driving the need for intelligent systems with accurate scene understanding. Most existing surgical AI methods rely on isolated,…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T12:00:00+08:00",
+      "fetchedAt": "2026-09-17T12:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2ecddc42df04d934",
+      "title": "Bridging the Gap in Ophthalmic AI: MM-Retinal-Reason Dataset and OphthaReason Model toward Dynamic Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2508.16129",
+      "summary": "arXiv:2508.16129v5 Announce Type: replace Abstract: Multimodal large language models (MLLMs) have recently demonstrated remarkable reasoning abilities under reinforcement learning (RL) paradigm. However, most existing multimodal medical rea…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T12:00:00+08:00",
+      "fetchedAt": "2026-09-17T12:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "fda88bc6add846d6",
+      "title": "Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents",
+      "url": "https://arxiv.org/abs/2607.19190",
+      "summary": "arXiv:2607.19190v4 Announce Type: replace-cross Abstract: Real-to-sim conversion for robotic interaction with objects remains labor-intensive because it requires more than visual reconstruction: a streamlined real2sim process must recover s…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T12:00:00+08:00",
+      "fetchedAt": "2026-09-17T12:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0d4525661c4949da",
+      "title": "Does Moral Reasoning Training Help or Hurt? Red-Teaming RL-Trained Ethical Agents with Persona Attacks",
+      "url": "https://arxiv.org/abs/2609.17552",
+      "summary": "arXiv:2609.17552v1 Announce Type: new Abstract: Moral-reward RL can make language-model agents more cooperative, but whether that alignment survives adversarial persona pressure is unknown. Such attacks are realistic: retrieved context, too…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T12:00:00+08:00",
+      "fetchedAt": "2026-09-17T12:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f901ef5562d2124d",
+      "title": "Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2412.16555",
+      "summary": "arXiv:2412.16555v4 Announce Type: replace Abstract: Large language models (LLMs) are widely applied in various fields of society due to their powerful reasoning, understanding, and generation capabilities. However, the security issues assoc…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T12:00:00+08:00",
+      "fetchedAt": "2026-09-17T12:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e10953edae03a21c",
+      "title": "Hypothesis-Driven Autonomous Materials Synthesis with Multimodal LLM Agents",
+      "url": "https://arxiv.org/abs/2609.18598",
+      "summary": "arXiv:2609.18598v1 Announce Type: cross Abstract: Self-driving laboratories can explore synthesis conditions autonomously, but their decision-making layer is typically a black-box optimizer, and the output is a set of optimized samples, wit…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "publishedAt": "2026-09-17T12:00:00+08:00",
+      "fetchedAt": "2026-09-17T12:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 10,
       "related": [],
       "pushed": false
     }
