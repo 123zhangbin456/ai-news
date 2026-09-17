@@ -58,10 +58,25 @@ export function classify(item, rules) {
     return { category: '研究论文', keywords: ['arXiv'], confidence: 1 };
   }
 
+  // Cursor 专属源（Changelog / 公告 / Reddit）一律进「Cursor」类，不跟其他关键词抢
+  if (item.source?.type === 'cursor') {
+    return { category: 'Cursor', keywords: ['Cursor'], confidence: 1 };
+  }
+
   const title = item.title ?? '';
   const summary = item.summary ?? '';
   const titleLower = title.toLowerCase();
   const summaryLower = summary.toLowerCase();
+
+  // 其他源里明确提到 Cursor IDE / cursor.com 的，优先归到 Cursor
+  const cursorHint =
+    hitEn(titleLower, 'cursor ide') ||
+    hitEn(titleLower, 'cursor.com') ||
+    hitEn(titleLower, 'anysphere') ||
+    hitZh(title, 'Cursor');
+  if (cursorHint) {
+    return { category: 'Cursor', keywords: ['Cursor'], confidence: 0.9 };
+  }
 
   let best = null;
   let runnerUp = 0;

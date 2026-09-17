@@ -4,8 +4,14 @@
   "pushThreshold": 60,
   "_pushThreshold": "重要度达到此分数才在白天实时推送，其余攒到晨报。嫌吵就调高（如 75），想多收就调低（如 45）。",
 
+  "cursorPushThreshold": 40,
+  "_cursorPushThreshold": "「Cursor」分类单独降低推送门槛，避免漏掉版本更新和官方公告。",
+
   "maxAgeHours": 48,
   "_maxAgeHours": "超过此时长的旧闻直接丢弃，防止某些源回填历史内容时刷屏。",
+
+  "cursorMaxAgeHours": 336,
+  "_cursorMaxAgeHours": "Cursor 专属源放宽到 14 天，方便首次接入时把近期 Changelog 补进来。",
 
   "fetchConcurrency": 6,
   "fetchTimeoutMs": 20000,

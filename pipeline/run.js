@@ -14,6 +14,17 @@ import { buildItemCard, buildDigestCard, buildHealthCard, send } from './notify.
 const ARXIV_STORE_CAP = 20;   // 每次运行最多入库的论文数，防止 450 篇淹没其他新闻
 const REALTIME_CAP = 8;       // 单次实时推送上限，避免突发新闻刷屏
 
+/** Cursor 分类用更低门槛，其余用全局阈值 */
+function pushFloor(item, config) {
+  if (item.category === 'Cursor') return config.cursorPushThreshold ?? 40;
+  return config.pushThreshold;
+}
+
+function isPushable(item, config) {
+  if (config.arxiv.neverPushRealtime && item.source?.type === 'paper') return false;
+  return item.score >= pushFloor(item, config);
+}
+
 /* ---------- 参数与模式 ---------- */
 
 function parseArgs(argv) {
@@ -84,7 +95,10 @@ async function main() {
   const activeSources = new Set(sources.filter((s) => s.enabled !== false).map((s) => s.id));
   let pool = raw.filter((item) => {
     if (!activeSources.has(item.source.id)) return false;
-    if (item.publishedAt && hoursAgo(item.publishedAt, now) > config.maxAgeHours) return false;
+    const maxAge = item.source.type === 'cursor'
+      ? (config.cursorMaxAgeHours ?? config.maxAgeHours)
+      : config.maxAgeHours;
+    if (item.publishedAt && hoursAgo(item.publishedAt, now) > maxAge) return false;
     if (item.source.type === 'paper' && !config.arxiv.enabled) return false;
     return passesAiFilter(item, rules);
   });
@@ -177,10 +191,7 @@ async function main() {
     await pushDigest(config, notifyOpts, now);
   } else {
     // 本轮新条目 + 过去 24 小时内达标却还没推过的存量，合并去重后一起推
-    const backlog = (await loadUnpushed(24)).filter(
-      (i) => i.score >= config.pushThreshold &&
-        !(config.arxiv.neverPushRealtime && i.source?.type === 'paper')
-    );
+    const backlog = (await loadUnpushed(24)).filter((i) => isPushable(i, config));
     const pool = new Map();
     for (const item of [...enriched, ...backlog]) pool.set(item.id, item);
     await pushRealtime(config, notifyOpts, [...pool.values()]);
@@ -193,16 +204,15 @@ async function main() {
   log.step('完成。');
 }
 
-/** 白天：只推重要度达标的，且不含论文 */
+/** 白天：只推重要度达标的，且不含论文；Cursor 分类用更低门槛 */
 async function pushRealtime(config, opts, candidates) {
   const picked = candidates
-    .filter((i) => i.score >= config.pushThreshold)
-    .filter((i) => !(config.arxiv.neverPushRealtime && i.source.type === 'paper'))
+    .filter((i) => isPushable(i, config))
     .sort((a, b) => b.score - a.score)
     .slice(0, REALTIME_CAP);
 
   if (picked.length === 0) {
-    log.step(`没有达到 ${config.pushThreshold} 分的内容，本轮不打扰。`);
+    log.step(`没有达到推送线的内容（AI≥${config.pushThreshold} / Cursor≥${config.cursorPushThreshold ?? 40}），本轮不打扰。`);
     return;
   }
 

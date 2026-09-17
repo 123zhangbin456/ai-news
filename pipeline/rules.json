@@ -20,11 +20,26 @@
       "neural network", "generative", "multimodal", "transformer", "GPT", "ChatGPT",
       "Claude", "Gemini", "Llama", "Mistral", "Qwen", "DeepSeek", "OpenAI", "Anthropic",
       "Hugging Face", "diffusion", "Midjourney", "Sora", "copilot", "agentic", "RAG",
-      "fine-tune", "fine-tuning", "inference", "embedding", "chatbot", "AGI"
+      "fine-tune", "fine-tuning", "inference", "embedding", "chatbot", "AGI",
+      "Cursor", "cursor.com", "Anysphere"
     ]
   },
 
   "categories": [
+    {
+      "name": "Cursor",
+      "icon": "⌨️",
+      "desc": "Cursor 编辑器：版本更新、官方公告、社区技巧",
+      "zh": {
+        "Cursor": 5, "光标编辑器": 5
+      },
+      "en": {
+        "Cursor IDE": 6, "cursor.com": 6, "Anysphere": 6,
+        "Cursor Changelog": 6, "Cursor Blog": 5,
+        "Background Agent": 4, "Cloud Agent": 4, "Bugbot": 4,
+        "Composer": 3, ".cursor": 3
+      }
+    },
     {
       "name": "模型发布",
       "icon": "🚀",
@@ -160,7 +175,7 @@
       "Gemini": 10, "DeepMind": 9, "Llama": 8, "DeepSeek": 9, "Qwen": 8,
       "Mistral": 7, "Grok": 8, "xAI": 8, "Sora": 9, "Midjourney": 7,
       "NVIDIA": 7, "Google": 5, "Meta": 6, "Microsoft": 5, "Apple": 5, "Amazon": 4,
-      "Hugging Face": 6, "Perplexity": 6, "Copilot": 6, "Cursor": 6, "Kimi": 7, "MiniMax": 6
+      "Hugging Face": 6, "Perplexity": 6, "Copilot": 6, "Cursor": 8, "Anysphere": 7, "Kimi": 7, "MiniMax": 6
     }
   },
 
@@ -175,7 +190,8 @@
       "introducing": 8, "launches": 7, "releases": 6, "open-source": 8,
       "acquires": 8, "funding": 7, "breakthrough": 7, "first": 5,
       "outperforms": 6, "beats": 6, "surpasses": 6, "free": 4,
-      "now available": 6, "generally available": 6, "state-of-the-art": 6
+      "now available": 6, "generally available": 6, "state-of-the-art": 6,
+      "changelog": 7, "shipping": 5
     }
   },
 

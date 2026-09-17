@@ -1,6 +1,6 @@
 {
   "_说明": {
-    "type": "ai = AI 专属源，全量收录；general = 综合源，必须命中 AI 关键词才收录；paper = 论文源，特殊限流",
+    "type": "ai = AI 专属源，全量收录；general = 综合源，必须命中 AI 关键词才收录；paper = 论文源，特殊限流；cursor = Cursor 专属源，强制归入「Cursor」分类",
     "weight": "来源权重 1-5，影响重要度打分和同事件合并时保留哪一条。5=官方一手，4=一线媒体，3=二线媒体，2=社区，1=论文预印本",
     "enabled": "设为 false 即停用该源，不用删除",
     "增删源": "直接改这个文件即可，不需要动代码。改完用 npm run check 验证新源是否可用"
@@ -195,6 +195,57 @@
       "lang": "en",
       "enabled": true,
       "note": "开源模型社区风向。Reddit 偶尔限流，失败属正常"
+    },
+
+    {
+      "id": "cursor-changelog",
+      "name": "Cursor Changelog",
+      "url": "https://www.cursor.com/changelog/rss.xml",
+      "type": "cursor",
+      "weight": 5,
+      "lang": "en",
+      "enabled": true,
+      "note": "官方版本更新，一手来源"
+    },
+    {
+      "id": "cursor-blog",
+      "name": "Cursor Blog",
+      "url": "https://www.cursor.com/atom.xml",
+      "type": "cursor",
+      "weight": 4,
+      "lang": "en",
+      "enabled": true,
+      "note": "官方博客，更新频率低于 Changelog"
+    },
+    {
+      "id": "cursor-announcements",
+      "name": "Cursor 论坛公告",
+      "url": "https://forum.cursor.com/c/announcements.rss",
+      "type": "cursor",
+      "weight": 4,
+      "lang": "en",
+      "enabled": true,
+      "note": "只收 Announcements 分区，避免 Bug Reports 刷屏"
+    },
+    {
+      "id": "cursor-guides",
+      "name": "Cursor 论坛指南",
+      "url": "https://forum.cursor.com/c/guides.rss",
+      "type": "cursor",
+      "weight": 2,
+      "lang": "en",
+      "enabled": true,
+      "note": "社区技巧与配置指南"
+    },
+    {
+      "id": "cursor-reddit",
+      "name": "r/cursor",
+      "url": "https://www.reddit.com/r/cursor/.rss",
+      "type": "cursor",
+      "weight": 2,
+      "lang": "en",
+      "enabled": true,
+      "note": "Reddit 社区风向，偶尔 403/429 属正常"
     },
 
     {

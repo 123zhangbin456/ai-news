@@ -29,6 +29,26 @@ test('论文源强制归入研究论文，不参与关键词竞争', () => {
   assert.equal(classify(paper, rules).category, '研究论文');
 });
 
+test('Cursor 专属源强制归入 Cursor 类', () => {
+  const item = make('Start from scratch, without a repo', { type: 'cursor', weight: 5 });
+  assert.equal(classify(item, rules).category, 'Cursor');
+});
+
+test('其他源标题明确提到 Cursor IDE 时归入 Cursor', () => {
+  assert.equal(classify(make('Cursor IDE adds background agents'), rules).category, 'Cursor');
+  assert.equal(classify(make('Anysphere raises a new round'), rules).category, 'Cursor');
+});
+
+test('官方 Cursor 更新能越过 Cursor 推送线（40 分）', () => {
+  const item = make('Cursor Projects now available', {
+    type: 'cursor',
+    weight: 5,
+    hoursOld: 1,
+    summary: 'Introducing Projects in the Cursor Changelog',
+  });
+  assert.ok(scoreItem(item, rules) >= 40, `实际得分 ${scoreItem(item, rules)}`);
+});
+
 test('英文按单词边界匹配，不会被词的一部分误命中', () => {
   // "banned" 是政策监管词，但 "abandoned" 不该命中
   const result = classify(make('A long abandoned research direction returns'), rules);

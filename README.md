@@ -91,6 +91,10 @@ Android 用 Chrome 打开 → 菜单 → 安装应用。
 
 **某个源挂了**——连续三天抓不到时会在飞书提醒一次。把 `enabled` 改成 `false` 即可停用，不用删。
 
+**Cursor 相关**——已单独成类「Cursor」，推送门槛默认 40 分（普通 AI 新闻是 60）。
+源包括官方 Changelog、Blog、论坛 Announcements / Guides、Reddit r/cursor。
+嫌吵可把 `pipeline/config.json` 里的 `cursorPushThreshold` 调高。
+
 ## 本地开发
 
 ```bash
