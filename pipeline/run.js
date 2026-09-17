@@ -4,7 +4,7 @@ import {
 } from './util.js';
 import { fetchAll, checkSources } from './fetch.js';
 import { dedupe } from './dedupe.js';
-import { passesAiFilter, enrich, paperRank } from './classify.js';
+import { passesAiFilter, enrich, paperRank, scoreItem } from './classify.js';
 import {
   loadSeen, saveSeen, appendItems, loadUnpushed, markPushed,
   rebuildIndex, loadRecentTitles, digestSentToday, markDigestSent,
@@ -23,6 +23,12 @@ function pushFloor(item, config) {
 function isPushable(item, config) {
   if (config.arxiv.neverPushRealtime && item.source?.type === 'paper') return false;
   return item.score >= pushFloor(item, config);
+}
+
+/** Cursor 存量按当前规则重算分，避免旧分在衰减策略改过之后一直卡在线以下 */
+function withFreshCursorScore(item, rules, now) {
+  if (item.category !== 'Cursor' && item.source?.type !== 'cursor') return item;
+  return { ...item, score: scoreItem(item, rules, now) };
 }
 
 /* ---------- 参数与模式 ---------- */
@@ -190,8 +196,12 @@ async function main() {
   } else if (mode === 'morning') {
     await pushDigest(config, notifyOpts, now);
   } else {
-    // 本轮新条目 + 过去 24 小时内达标却还没推过的存量，合并去重后一起推
-    const backlog = (await loadUnpushed(24)).filter((i) => isPushable(i, config));
+    // 本轮新条目 + 未推送存量（Cursor 回看 14 天，其余 24 小时），合并去重后一起推
+    const generalBacklog = await loadUnpushed(24);
+    const cursorBacklog = await loadUnpushed(config.cursorMaxAgeHours ?? 336);
+    const backlog = [...generalBacklog, ...cursorBacklog]
+      .map((i) => withFreshCursorScore(i, rules, now))
+      .filter((i) => isPushable(i, config));
     const pool = new Map();
     for (const item of [...enriched, ...backlog]) pool.set(item.id, item);
     await pushRealtime(config, notifyOpts, [...pool.values()]);

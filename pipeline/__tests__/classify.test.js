@@ -49,6 +49,15 @@ test('官方 Cursor 更新能越过 Cursor 推送线（40 分）', () => {
   assert.ok(scoreItem(item, rules) >= 40, `实际得分 ${scoreItem(item, rules)}`);
 });
 
+test('一周前的官方 Cursor Changelog 仍能越过 40 分线', () => {
+  const item = make('Cursor Projects', {
+    type: 'cursor',
+    weight: 5,
+    hoursOld: 168,
+  });
+  assert.ok(scoreItem(item, rules) >= 40, `实际得分 ${scoreItem(item, rules)}`);
+});
+
 test('英文按单词边界匹配，不会被词的一部分误命中', () => {
   // "banned" 是政策监管词，但 "abandoned" 不该命中
   const result = classify(make('A long abandoned research direction returns'), rules);

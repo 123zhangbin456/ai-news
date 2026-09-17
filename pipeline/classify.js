@@ -154,7 +154,13 @@ export function scoreItem(item, rules, now = new Date()) {
   const entityScore = Math.min(25, sum(collectHits(rules.entityWords, title, summary).slice(0, 3)));
 
   const age = item.publishedAt ? hoursAgo(item.publishedAt, now) : 24;
-  const freshScore = age <= 3 ? 20 : age >= 48 ? 0 : 20 * (1 - (age - 3) / 45);
+  let freshScore;
+  if (item.source?.type === 'cursor') {
+    // Cursor 专属源按 14 天衰减，否则一周前的官方 Changelog 补录时新鲜度已归零，过不了 40 分线
+    freshScore = age <= 24 ? 20 : age >= 336 ? 0 : 20 * (1 - (age - 24) / 312);
+  } else {
+    freshScore = age <= 3 ? 20 : age >= 48 ? 0 : 20 * (1 - (age - 3) / 45);
+  }
 
   return Math.max(0, Math.min(100, Math.round(sourceScore + signalScore + entityScore + freshScore)));
 }

@@ -77,9 +77,13 @@ export async function appendItems(items) {
 
 /* ---------- 推送状态 ---------- */
 
-/** 取出还没推送过的条目，跨天文件扫描（夜里攒的会落在前一天） */
+/** 取出还没推送过的条目。withinHours 决定回看几天的数据文件。 */
 export async function loadUnpushed(withinHours = 30) {
-  const keys = [dayKey(new Date(Date.now() - 86_400_000)), dayKey()];
+  const dayCount = Math.max(2, Math.ceil(withinHours / 24) + 1);
+  const keys = [];
+  for (let i = 0; i < dayCount; i++) {
+    keys.push(dayKey(new Date(Date.now() - i * 86_400_000)));
+  }
   const out = [];
   for (const key of keys) {
     const day = await loadDay(key);
@@ -95,7 +99,11 @@ export async function loadUnpushed(withinHours = 30) {
 export async function markPushed(ids) {
   if (ids.length === 0) return;
   const idSet = new Set(ids);
-  const keys = [dayKey(new Date(Date.now() - 86_400_000)), dayKey()];
+  // 多扫一些天，覆盖 Cursor 补录的跨周条目
+  const keys = [];
+  for (let i = 0; i < 16; i++) {
+    keys.push(dayKey(new Date(Date.now() - i * 86_400_000)));
+  }
 
   for (const key of keys) {
     const day = await loadDay(key);
