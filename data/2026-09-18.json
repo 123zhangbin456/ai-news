@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "updatedAt": "2026-09-18T07:46:57+08:00",
+  "updatedAt": "2026-09-18T08:32:19+08:00",
   "items": [
     {
       "id": "230ed032b0167d3f",
@@ -73,6 +73,42 @@
         "generatedAt": "2026-09-18T01:23:33+08:00"
       },
       "pushedAt": "2026-09-18T07:46:57+08:00"
+    },
+    {
+      "id": "6f739dfd6abb685e",
+      "title": "早报｜赛力斯回应「问界撤出华为门店」/豆包座舱助手发布/罗永浩否认为钟薛高重启造势",
+      "url": "https://ifanr.com/1680525",
+      "summary": "· OpenAI 将定期披露模型异常行为，首批公开 6 份报告 · 华为昇腾 960 提前至明年一季度推出，超节点扩至 4096 卡 · 恒大汽车退出汽车制造，上半年转向电池贸易 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T08:04:28+08:00",
+      "fetchedAt": "2026-09-18T08:32:09+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "推出"
+      ],
+      "confidence": 0.56,
+      "score": 57,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI将定期披露模型异常行为，首批公开6份报告",
+        "takeaway": "OpenAI承诺定期公开模型异常行为报告，首批6份，提升AI透明度。",
+        "bullets": [
+          "OpenAI将定期披露模型异常行为，首批公开6份报告。",
+          "华为昇腾960提前至明年一季度推出，超节点扩至4096卡。",
+          "恒大汽车退出汽车制造，上半年转向电池贸易。"
+        ],
+        "generatedAt": "2026-09-18T08:32:18+08:00"
+      }
     },
     {
       "id": "9688f7ffdee83383",
@@ -689,6 +725,74 @@
       "pushedAt": "2026-09-18T07:46:57+08:00"
     },
     {
+      "id": "170a7e1a5b5021b4",
+      "title": "Be alert: targeted attacks on prominent Rustaceans",
+      "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans",
+      "summary": "Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to …",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T07:59:19+08:00",
+      "fetchedAt": "2026-09-18T08:32:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "警惕：Rust 知名开发者与热门 crate 所有者遭定向攻击",
+        "takeaway": "Rust 安全团队警告，有人正针对 rust-lang 成员和热门 crate 维护者发起持续攻击。",
+        "bullets": [
+          "Adam Harvey 与 crates 安全团队联合发出警告，称攻击仍在进行中。",
+          "目标包括 rust-lang 组织成员及热门 crate 的所有者。",
+          "攻击者疑似试图通过定向手段获取账户或代码库控制权。",
+          "Rust 生态维护者需提高警惕，检查账户与发布流程安全。"
+        ],
+        "generatedAt": "2026-09-18T08:32:18+08:00"
+      }
+    },
+    {
+      "id": "5326b23f1259ac99",
+      "title": "How To Write With An LLM",
+      "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm",
+      "summary": "How To Write With An LLM Thomas Ptacek on using LLMs as copyeditors, not as writing assistants: Rule Number One: You may not use a single word an LLM suggests to you. [...] I think that as a form of intellectual personal protective equipmen…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T07:37:27+08:00",
+      "fetchedAt": "2026-09-18T08:32:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用 LLM 写作的正确姿势：当校对，别当代笔",
+        "takeaway": "Thomas Ptacek 提出用 LLM 做文字编辑而非写作助手，核心规则是绝不直接采用 LLM 建议的任何一个词。",
+        "bullets": [
+          "Thomas Ptacek 主张把 LLM 当 copyeditor，而不是写作助手",
+          "第一条规则：不能使用 LLM 建议给你的任何一个词",
+          "他认为这是一种智力上的个人防护装备",
+          "Simon Willison 转发了这一观点"
+        ],
+        "generatedAt": "2026-09-18T08:32:19+08:00"
+      }
+    },
+    {
       "id": "5fa2e472f99805e7",
       "title": "Even the king of England has his hesitations about AI",
       "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai",
@@ -1126,6 +1230,80 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-09-18T07:46:57+08:00"
+    },
+    {
+      "id": "389fe86ea3144c8a",
+      "title": "一位CIO的自我革命：AI三年，从内部重构到外部生长",
+      "url": "https://tmtpost.com/8141973.html",
+      "summary": "这是一场跑进业务深处的 AI 变革。三年间，蒋林泉以 RIDE 推动 28 类数字员工上岗，以 Half-Stack 重塑产研组织，以 AI Native 推动公司业务系统向智能体开放。最终，内部跑通的能力汇聚长成面向外部的「睿系列」AI 产品家族。从业务落地、研发效能、系统开放到产品输出，一家企业和它的 CIO，都在这条路径上换了样子。这篇 CIO 特稿，试图通过一路的变革思考来解构: 一套企业 AI 转型的完整答案，如何一步步跑出来。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T08:00:00+08:00",
+      "fetchedAt": "2026-09-18T08:32:09+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "产品",
+        "落地"
+      ],
+      "confidence": 0.6,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4e5bd47d62f12dc9",
+      "title": "Sex, AI, and the Apocalypse",
+      "url": "https://iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse",
+      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49746654 Points: 124 # Comments: 105",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T05:15:52+08:00",
+      "fetchedAt": "2026-09-18T08:32:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "bc4d9876dcccb2a2",
+      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+      "url": "https://arxiv.org/abs/2609.18842",
+      "summary": "Article URL: https://arxiv.org/abs/2609.18842 Comments URL: https://news.ycombinator.com/item?id=49743483 Points: 102 # Comments: 29",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T24:55:14+08:00",
+      "fetchedAt": "2026-09-18T08:32:09+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "weights"
+      ],
+      "confidence": 0.17,
+      "score": 28,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
