@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "updatedAt": "2026-09-18T19:54:39+08:00",
+  "updatedAt": "2026-09-18T23:14:49+08:00",
   "items": [
     {
       "id": "230ed032b0167d3f",
@@ -37,6 +37,48 @@
         "generatedAt": "2026-09-18T07:46:50+08:00"
       },
       "pushedAt": "2026-09-18T07:46:57+08:00"
+    },
+    {
+      "id": "58d1c7f5bb661945",
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T22:00:14+08:00",
+      "fetchedAt": "2026-09-18T23:14:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 65,
+      "related": [
+        {
+          "title": "Researchers used Claude to hack OpenAI",
+          "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai",
+          "source": "Ars Technica AI"
+        }
+      ],
+      "pushed": false,
+      "interpret": {
+        "headline": "安全研究员用 Claude 攻破 OpenAI 系统",
+        "takeaway": "研究员借 Anthropic 的 Claude 入侵 OpenAI，接管员工账号并访问内部代码库，事后上报漏洞。",
+        "bullets": [
+          "安全研究员利用 Claude 发现并利用 OpenAI 系统漏洞",
+          "成功接管员工账号，进入内部代码仓库",
+          "事后向 OpenAI 报告了这些漏洞",
+          "事件凸显 AI 模型被用于攻击的潜在风险"
+        ],
+        "generatedAt": "2026-09-18T23:14:45+08:00"
+      }
     },
     {
       "id": "6ea1fc49fe3ef252",
@@ -330,6 +372,43 @@
       "pushedAt": "2026-09-18T07:46:57+08:00"
     },
     {
+      "id": "4461ff8116029a40",
+      "title": "China’s mysterious AI company Naive AI is valued at over $1.4 billion and could release its first open-source llm model as early as this month.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wjr9ip/chinas_mysterious_ai_company_naive_ai_is_valued",
+      "summary": "According to people familiar with the matter, Naive AI, an AI startup founded in February this year by Tsinghua University professor Dai Jifeng, has completed three funding rounds totaling $400 million, bringing its valuation to more than $…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T22:09:25+08:00",
+      "fetchedAt": "2026-09-18T23:14:23+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "funding",
+        "valuation",
+        "billion"
+      ],
+      "confidence": 0.23,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "清华教授戴继峰创办的 Naive AI 估值超 14 亿美元，或本月发首个开源大模型",
+        "takeaway": "成立仅数月的中国 AI 初创 Naive AI 已完成 4 亿美元融资，估值超 14 亿美元，并可能本月发布首个开源大模型。",
+        "bullets": [
+          "Naive AI 由清华大学教授戴继峰于今年 2 月创立，已完成三轮融资共 4 亿美元。",
+          "公司估值超过 14 亿美元，成为又一家快速跻身独角兽行列的中国 AI 初创。",
+          "知情人士称其首个开源大模型最早可能于本月发布，引发社区关注。"
+        ],
+        "generatedAt": "2026-09-18T23:14:45+08:00"
+      }
+    },
+    {
       "id": "8c9415c95afc40d6",
       "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
       "url": "https://theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
@@ -621,6 +700,42 @@
           "资金将用于产品研发迭代，并探索AI运动科技公司方向。"
         ],
         "generatedAt": "2026-09-18T19:54:30+08:00"
+      }
+    },
+    {
+      "id": "3b46cc3cd87554be",
+      "title": "Multi-hour llama.cpp optimization experiments on Qwen MoE models, patches, benchmarks, and reproduction guides",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wjnyq0/multihour_llamacpp_optimization_experiments_on",
+      "summary": "I had Astra run a multi-hour investigation into speeding up local MoE inference while keeping the model weights and quantization unchanged. The experiments covered Qwen3.6-35B-A3B and Qwen3.8 Flash-Next. Some workloads showed substantial ga…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T19:46:32+08:00",
+      "fetchedAt": "2026-09-18T23:14:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 0.25,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 针对 Qwen MoE 模型的数小时优化实验与补丁",
+        "takeaway": "有人用 Astra 对 Qwen MoE 本地推理做了数小时优化，不改权重和量化，部分负载提速明显。",
+        "bullets": [
+          "实验覆盖 Qwen3.6-35B-A3B 与 Qwen3.8 Flash-Next 两款 MoE 模型",
+          "在保持模型权重和量化不变的前提下优化 llama.cpp 推理速度",
+          "部分工作负载获得显著加速，并附补丁、基准与复现指南"
+        ],
+        "generatedAt": "2026-09-18T23:14:45+08:00"
       }
     },
     {
@@ -1779,6 +1894,208 @@
       }
     },
     {
+      "id": "d67392c986c1fddf",
+      "title": "The Creative Spirit of Who Framed Roger Rabbit",
+      "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit",
+      "summary": "The Creative Spirit of Who Framed Roger Rabbit I love Who Framed Roger Rabbit , the 1988 movie by Robert Zemeckis. I haven't watched it in quite a few years, and Cypress Frankenfeld just pointed out this sequence from early in the movie: It…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T22:36:41+08:00",
+      "fetchedAt": "2026-09-18T23:14:23+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Simon Willison 重温《谁陷害了兔子罗杰》的创意精神",
+        "takeaway": "科技博主 Simon Willison 分享对 1988 年电影《谁陷害了兔子罗杰》的喜爱，并提及朋友指出的早期片段。",
+        "bullets": [
+          "Simon Willison 表示自己非常喜欢这部罗伯特·泽米吉斯执导的 1988 年电影。",
+          "他提到已多年未看，朋友 Cypress Frankenfeld 指出了片中早期的一个片段。",
+          "该片段的具体内容未在摘要中详述，但引发了 Willison 对电影创意的感慨。"
+        ],
+        "generatedAt": "2026-09-18T23:14:46+08:00"
+      }
+    },
+    {
+      "id": "19ad4fea449452cd",
+      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026",
+      "summary": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T23:00:00+08:00",
+      "fetchedAt": "2026-09-18T23:14:23+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Robinhood 高管将在 TechCrunch Disrupt 2026 谈如何赢得现代金融消费者",
+        "takeaway": "Robinhood 的 Abhishek Fatehpuria 将登台 TechCrunch Disrupt 2026，分享赢得现代金融消费者的策略。",
+        "bullets": [
+          "Robinhood 高管 Abhishek Fatehpuria 确认出席 TechCrunch Disrupt 2026。",
+          "演讲主题聚焦如何赢得现代金融消费者。",
+          "9 月 25 日前注册可省最多 200 美元。"
+        ],
+        "generatedAt": "2026-09-18T23:14:46+08:00"
+      }
+    },
+    {
+      "id": "de43352a546a4c9f",
+      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026",
+      "summary": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T22:00:00+08:00",
+      "fetchedAt": "2026-09-18T23:14:23+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "investors"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "TechCrunch Disrupt 2026 参展报名今日截止",
+        "takeaway": "今天是预订 Disrupt 2026 展位的最后一天，错过需再等一年，适合想曝光融资的初创公司。",
+        "bullets": [
+          "TechCrunch Disrupt 2026 将于 10 月 13 至 15 日举行，参展报名 9 月 18 日截止。",
+          "现场预计汇聚超 1 万名创始人、投资人及科技高管，是初创公司寻求曝光和融资的重要场合。",
+          "尚未预订展位的团队需在今日内完成，否则将失去本届展会直接展示的机会。"
+        ],
+        "generatedAt": "2026-09-18T23:14:46+08:00"
+      }
+    },
+    {
+      "id": "ea39e5a09b3300f9",
+      "title": "具身智能技术路线尚未定型，基础设施却先收敛",
+      "url": "https://qbitai.com/2026/09/492238.html",
+      "summary": "从一次成功到一万次稳定执行，具身智能还缺什么？",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T21:16:33+08:00",
+      "fetchedAt": "2026-09-18T23:14:23+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "具身智能路线未定，基础设施却先收敛",
+        "takeaway": "具身智能技术路线尚未统一，但底层基础设施已开始收敛，行业正从单次成功转向万次稳定执行。",
+        "bullets": [
+          "具身智能技术路线尚未定型，行业仍在探索不同方向。",
+          "基础设施却先收敛，意味着底层工具和平台趋于一致。",
+          "从一次成功到一万次稳定执行，是当前面临的核心挑战。"
+        ],
+        "generatedAt": "2026-09-18T23:14:47+08:00"
+      }
+    },
+    {
+      "id": "6d370c505eb8ebd9",
+      "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
+      "url": "https://qbitai.com/2026/09/492175.html",
+      "summary": "LimiX让模型理解数据背后的因果机制",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T20:22:47+08:00",
+      "fetchedAt": "2026-09-18T23:14:23+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AGI新战场：谷歌亚马逊激战，中国LimiX-2连赢",
+        "takeaway": "中国团队LimiX-2在AGI新战场中脱颖而出，让模型理解数据背后的因果机制。",
+        "bullets": [
+          "谷歌、亚马逊等巨头在AGI领域展开激烈竞争。",
+          "中国团队LimiX-2在竞争中连续获胜，引发关注。",
+          "其核心能力是让模型理解数据背后的因果机制。"
+        ],
+        "generatedAt": "2026-09-18T23:14:48+08:00"
+      }
+    },
+    {
+      "id": "26a56a3ea32c20ae",
+      "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+      "url": "https://wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already",
+      "summary": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T23:00:00+08:00",
+      "fetchedAt": "2026-09-18T23:14:23+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI行业若遵循自身研究，早该暂停了",
+        "takeaway": "Anthropic CEO称安全取决于理解AI思维，但现有证据令人不安，行业或应暂停。",
+        "bullets": [
+          "Anthropic CEO强调AI安全的关键是理解AI如何思考",
+          "目前关于AI思维的研究证据令人担忧",
+          "若行业认真对待自身研究，可能已该暂停开发"
+        ],
+        "generatedAt": "2026-09-18T23:14:48+08:00"
+      }
+    },
+    {
       "id": "5fa2e472f99805e7",
       "title": "Even the king of England has his hesitations about AI",
       "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai",
@@ -2698,6 +3015,77 @@
       "pushed": false
     },
     {
+      "id": "b4d9cd3f4e59d42c",
+      "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+      "url": "https://wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race",
+      "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T23:00:08+08:00",
+      "fetchedAt": "2026-09-18T23:14:23+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "investors"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 政治行动委员会豪掷近百万美元，介入南达科他州参议院选举",
+        "takeaway": "与 AI 实验室和投资者关联的 PAC 在深红州南达科他州参议院选举中投入近百万美元，金额超过当地居民捐款，显示 AI 行业正加大政治影响力。",
+        "bullets": [
+          "南达科他州参议院席位传统上属共和党，但 AI 相关 PAC 已投入近 100 万美元。",
+          "这些 PAC 与 AI 实验室和投资者有关，花费超过该州实际居民捐款总额。",
+          "此举表明 AI 行业正通过政治行动委员会介入选举，以影响科技政策走向。"
+        ],
+        "generatedAt": "2026-09-18T23:14:49+08:00"
+      }
+    },
+    {
+      "id": "c416e937cbb14a39",
+      "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
+      "url": "https://wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream",
+      "summary": "The satirical collaboration between a creative studio and the music producer behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data centers.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T21:30:00+08:00",
+      "fetchedAt": "2026-09-18T23:14:23+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center",
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "数据中心毛绒玩偶Bezzy：可爱外表下尖叫真实机房噪音",
+        "takeaway": "创意工作室与音乐制作人合作推出讽刺玩偶，用真实数据中心噪音提醒人们算力背后的环境代价。",
+        "bullets": [
+          "Bezzy由创意工作室与Big Data音乐制作人联手打造，外形可爱却会发出刺耳的数据中心噪音。",
+          "玩偶内置真实数据中心录音，以黑色幽默方式揭示AI算力扩张带来的噪音污染问题。",
+          "该作品引发对数据中心环境影响的关注，适合科技从业者与环保人士讨论。"
+        ],
+        "generatedAt": "2026-09-18T23:14:49+08:00"
+      }
+    },
+    {
       "id": "1f9edf137c60f164",
       "title": "浏览器 AI 助手新增定时任务、页面调试工具与侧边栏作用域模式",
       "url": "https://oschina.net/news/502557",
@@ -2766,6 +3154,31 @@
       "category": "模型发布",
       "keywords": [
         "发布"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9143778216cee3dd",
+      "title": "Question: UkisAI Swift Ternary Bonsai 2 27B?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wjocnh/question_ukisai_swift_ternary_bonsai_2_27b",
+      "summary": "Hey community, Jovan from UkisAI here, We're the team behind Swift Qwen3.8 27B, the Qwen model with token usage and overthinking error improvements Our estimate is that we can make a great improvement to Bonsai 2, as our testing indicates t…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T20:04:55+08:00",
+      "fetchedAt": "2026-09-18T23:14:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
       ],
       "confidence": 1,
       "score": 34,
