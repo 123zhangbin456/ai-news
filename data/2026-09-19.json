@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "updatedAt": "2026-09-19T06:56:11+08:00",
+  "updatedAt": "2026-09-19T07:43:08+08:00",
   "items": [
     {
       "id": "58f2b00778858159",
@@ -71,6 +71,74 @@
         "generatedAt": "2026-09-18T19:54:28+08:00"
       },
       "pushedAt": "2026-09-19T06:56:11+08:00"
+    },
+    {
+      "id": "9d6783aa96df7a58",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "url": "https://theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T05:07:24+08:00",
+      "fetchedAt": "2026-09-19T07:42:56+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "court"
+      ],
+      "confidence": 1,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI与微软内部文件承认AI抓取或致网络「末日循环」",
+        "takeaway": "纽约时报诉讼解封文件显示，两家公司早知AI抓取会伤害网络生态，却仍继续推进。",
+        "bullets": [
+          "纽约时报诉OpenAI与微软案解封文件曝光内部警告",
+          "文件称AI抓取将引发「末日循环」，损害网络内容生态",
+          "两家公司早知风险仍推进，可能影响后续版权诉讼走向"
+        ],
+        "generatedAt": "2026-09-19T07:43:07+08:00"
+      }
+    },
+    {
+      "id": "d6d9aec5a8799aa5",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T07:13:31+08:00",
+      "fetchedAt": "2026-09-19T07:42:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 运营生物实验室，亲自做实验",
+        "takeaway": "Anthropic 一边警告 AI 可能灭绝人类，一边开生物实验室做实验，值得关注其安全承诺与行动是否一致。",
+        "bullets": [
+          "Anthropic 运营一个进行生物学实验的实验室",
+          "背景：AI 领袖常称 AI 是治愈疾病的关键",
+          "Anthropic 研究人员也曾警告 AI 可能杀死所有人"
+        ],
+        "generatedAt": "2026-09-19T07:43:07+08:00"
+      }
     },
     {
       "id": "cde89040db033110",
@@ -603,6 +671,76 @@
         "generatedAt": "2026-09-19T06:56:08+08:00"
       },
       "pushedAt": "2026-09-19T06:56:11+08:00"
+    },
+    {
+      "id": "6b49f5c4d6deac19",
+      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T07:25:01+08:00",
+      "fetchedAt": "2026-09-19T07:42:56+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raised"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "UP.Labs 更名 Vantora，融资 1 亿美元押注实体 AI",
+        "takeaway": "这家为工业企业孵化初创公司的公司获 1 亿美元融资，全面转向实体 AI。",
+        "bullets": [
+          "UP.Labs 现以 Vantora 名义运营，专注为工业企业打造初创公司。",
+          "公司完成 1 亿美元融资，将全部资源投入实体 AI 方向。",
+          "实体 AI 指将 AI 应用于工业等物理场景，而非纯软件。"
+        ],
+        "generatedAt": "2026-09-19T07:43:07+08:00"
+      }
+    },
+    {
+      "id": "b12f4df50381c465",
+      "title": "AI hallucination nearly triggers US military operation",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T07:12:32+08:00",
+      "fetchedAt": "2026-09-19T07:42:56+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "warns"
+      ],
+      "confidence": 0.67,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI幻觉险些触发美军行动，专家警告LLM不确定性",
+        "takeaway": "AI幻觉可能引发真实军事行动，凸显大模型在关键领域应用的风险。",
+        "bullets": [
+          "TechCrunch报道，AI幻觉几乎导致美军采取军事行动。",
+          "GovAI研究学者警告，军人需理解LLM固有的不确定性。",
+          "事件凸显大模型在军事等高风险场景的隐患。"
+        ],
+        "generatedAt": "2026-09-19T07:43:08+08:00"
+      }
     },
     {
       "id": "530e7dd54ec02cf2",
