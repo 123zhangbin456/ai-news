@@ -1,7 +1,48 @@
 {
   "date": "2026-09-19",
-  "updatedAt": "2026-09-19T14:43:25+08:00",
+  "updatedAt": "2026-09-19T19:38:33+08:00",
   "items": [
+    {
+      "id": "b8d80245cb6f01df",
+      "title": "【数智周报】智谱AI道歉；Anthropic被曝选定纳斯达克上市，目标10月IPO；OpenAI据悉考虑新一轮融资，估值或超1.2万亿美元",
+      "url": "https://tmtpost.com/8145775.html",
+      "summary": "（9 月 14 日-19 日）华为郭平：对于ICT业务及计算领域，华为的目标是成为英伟达；华为汪涛：10万卡以上超节点集群在2027年将成为基础配置；字节跳动CEO梁汝波：豆包、飞书与火山引擎整合后，将加大企业市场投入；英伟达黄仁勋：预计明年芯片销量约为今年两倍......",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T17:16:20+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "轮融资",
+        "估值",
+        "上市",
+        "IPO",
+        "亿美元"
+      ],
+      "confidence": 0.82,
+      "score": 67,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "AI资本周报：Anthropic拟10月IPO，OpenAI估值或超1.2万亿",
+        "takeaway": "AI头部公司密集推进上市与融资，行业资本化进入新阶段。",
+        "bullets": [
+          "Anthropic被曝选定纳斯达克，目标10月IPO",
+          "OpenAI据悉考虑新一轮融资，估值或超1.2万亿美元",
+          "智谱AI道歉，华为、字节等大厂AI布局同步推进"
+        ],
+        "generatedAt": "2026-09-19T19:38:25+08:00"
+      },
+      "pushedAt": "2026-09-19T19:38:33+08:00"
+    },
     {
       "id": "93b15eb0cb1a98a8",
       "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
@@ -286,6 +327,42 @@
       "pushedAt": "2026-09-19T06:56:11+08:00"
     },
     {
+      "id": "6de2d862e1327586",
+      "title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+      "url": "https://qbitai.com/2026/09/492476.html",
+      "summary": "CANN跨过拐点，华为补上软件生态",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T16:28:51+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "算力"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "华为汪涛：打造AI算力底座，只做好一颗芯片远远不够",
+        "takeaway": "华为强调AI算力竞争需软硬协同，CANN生态跨过拐点，正补上软件短板。",
+        "bullets": [
+          "华为汪涛指出，AI算力底座不能只靠单颗芯片，需系统化布局。",
+          "CANN作为华为AI软件栈，已跨过生态拐点，正加速补足软件生态。",
+          "此举意在挑战英伟达CUDA生态，降低对单一硬件依赖。"
+        ],
+        "generatedAt": "2026-09-19T19:38:25+08:00"
+      }
+    },
+    {
       "id": "dd7eb0ba55d9d4ba",
       "title": "Quoting Thariq Shihipar",
       "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar",
@@ -462,6 +539,41 @@
         "generatedAt": "2026-09-19T06:56:07+08:00"
       },
       "pushedAt": "2026-09-19T06:56:11+08:00"
+    },
+    {
+      "id": "beb36e27ed77da45",
+      "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+      "url": "https://qbitai.com/2026/09/492467.html",
+      "summary": "让开放模型与可负担的算力成为数学研究的共享基石",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T14:44:02+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "开放"
+      ],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "陶哲轩代表SAIR基金会启动开放数学模型计划",
+        "takeaway": "SAIR基金会发起开放数学模型计划，旨在让开放模型与可负担算力成为数学研究共享基石。",
+        "bullets": [
+          "陶哲轩代表SAIR基金会宣布计划正式启动。",
+          "目标是为数学研究提供开放模型和可负担算力。",
+          "推动数学研究共享基础设施建设。"
+        ],
+        "generatedAt": "2026-09-19T19:38:25+08:00"
+      }
     },
     {
       "id": "3aa5b5cea1964946",
@@ -956,6 +1068,107 @@
       }
     },
     {
+      "id": "1d16969da9092b4c",
+      "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
+      "url": "https://qbitai.com/2026/09/492501.html",
+      "summary": "1000万，把才华送上真正的大舞台",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T16:34:35+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "千万奖池寻找“鲸锐”：单项200万，征集最会用AI讲故事的人",
+        "takeaway": "量子位发起AI故事创作大赛，总奖池1000万，单项最高200万，寻找善用AI叙事的人才。",
+        "bullets": [
+          "总奖池1000万元，单项奖金最高200万元。",
+          "面向所有善用AI讲故事的人，由量子位主办。",
+          "旨在挖掘AI内容创作人才，推动AI叙事创新。"
+        ],
+        "generatedAt": "2026-09-19T19:38:27+08:00"
+      }
+    },
+    {
+      "id": "0790f9df9cc45e78",
+      "title": "OpenAI's Sam Altman to brief UN Security Council next week",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wkfrye/openais_sam_altman_to_brief_un_security_council",
+      "summary": "submitted by /u/johnnyApplePRNG [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T15:38:48+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 的 Sam Altman 下周将向联合国安理会作简报",
+        "takeaway": "OpenAI CEO 将向联合国安理会作简报，AI 治理议题进入最高国际安全议程。",
+        "bullets": [
+          "OpenAI CEO Sam Altman 下周向联合国安理会作简报",
+          "消息来自 r/LocalLLaMA 社区，细节尚未公布",
+          "AI 安全与治理正被提升至国际安全层面"
+        ],
+        "generatedAt": "2026-09-19T19:38:27+08:00"
+      }
+    },
+    {
+      "id": "16e38fe7dbbb38cd",
+      "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+      "url": "https://qbitai.com/2026/09/492429.html",
+      "summary": "同一预测核心，跨七类系统验证",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T14:39:32+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "预测"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+        "takeaway": "量子位报道，同一预测核心跨七类系统验证，探索AI通用理解能力。",
+        "bullets": [
+          "研究用同一预测核心测试七类系统，包括癌细胞和行星轨道。",
+          "旨在验证AI能否跨领域理解万物，而非单一任务。",
+          "若成功，将推动通用AI在科学发现中的应用。"
+        ],
+        "generatedAt": "2026-09-19T19:38:27+08:00"
+      }
+    },
+    {
       "id": "1e8dff1956a4d3d1",
       "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
       "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai",
@@ -1096,6 +1309,76 @@
           "为本地小模型落地分类场景提供可参考的实现"
         ],
         "generatedAt": "2026-09-19T14:43:22+08:00"
+      }
+    },
+    {
+      "id": "56aef8f25d5955c1",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 138 # Comments: 71",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T14:41:44+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GPT-6 Astra 破解一战德军无线电密码",
+        "takeaway": "新模型 GPT-6 Astra 完成历史密码破译任务，展示推理能力在冷门领域的新进展。",
+        "bullets": [
+          "GPT-6 Astra 成功破解一战德军无线电密码",
+          "消息来自 Hacker News，获 138 点、71 条讨论",
+          "展示大模型在历史密码分析上的推理潜力"
+        ],
+        "generatedAt": "2026-09-19T19:38:28+08:00"
+      }
+    },
+    {
+      "id": "ee510c2c38aa4089",
+      "title": "4x RTX 3090 PCIe 4.0 x16 - advice? Qwen 3.8 Next Flash?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wkj13w/4x_rtx_3090_pcie_40_x16_advice_qwen_38_next_flash",
+      "summary": "We're upgrading our server (Threadripper Pro 5955WX, 128GB 8-channel DDR4) from two RTX 3090 to four cards. Currently we're running Qwen 3.8 27b Q8 with vLLM for a few users. I'm wondering what we should do next: Keep running Qwen 3.8 27b Q…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T18:49:14+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "四卡 RTX 3090 服务器升级，该跑什么模型？",
+        "takeaway": "用户把双 3090 服务器升级到四卡，纠结继续跑 Qwen 3.8 27B 还是换新模型。",
+        "bullets": [
+          "硬件为 Threadripper Pro 5955WX、128GB 八通道内存，从两张 RTX 3090 扩到四张。",
+          "当前用 vLLM 为少量用户提供 Qwen 3.8 27B Q8 推理服务。",
+          "发帖者询问升级后该继续现有模型还是尝试 Qwen 3.8 Next Flash。"
+        ],
+        "generatedAt": "2026-09-19T19:38:28+08:00"
       }
     },
     {
@@ -1551,6 +1834,107 @@
       }
     },
     {
+      "id": "4c84d6c5416df861",
+      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+      "url": "https://wired.com/story/kernel-panic-ai-vulnerability-explosion",
+      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T19:00:00+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "available"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI放缓争论未休，安全漏洞海啸已至",
+        "takeaway": "AI实验室讨论放缓开发，但公开的聊天机器人正帮助发现大量安全漏洞，威胁已迫在眉睫。",
+        "bullets": [
+          "AI实验室正考虑行业 pact 放缓开发，但争论未定。",
+          "公开AI聊天机器人已协助发现海量安全漏洞。",
+          "漏洞激增可能对网络安全产生重大影响。"
+        ],
+        "generatedAt": "2026-09-19T19:38:28+08:00"
+      }
+    },
+    {
+      "id": "c60031507b9a97f5",
+      "title": "Mathematicians Hate AI. They Can’t Quit It",
+      "url": "https://wired.com/story/mathematicians-cant-quit-ai",
+      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T18:00:00+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "数学家厌恶AI却离不开：强大模型成领域生存威胁",
+        "takeaway": "AI对数学领域构成生存风险，但研究者因其实用性无法停止依赖，陷入矛盾。",
+        "bullets": [
+          "数学家对AI既反感又依赖，形成难以摆脱的困境。",
+          "强大AI模型对数学领域造成生存性威胁。",
+          "研究者因AI过于实用而无法停止使用。"
+        ],
+        "generatedAt": "2026-09-19T19:38:29+08:00"
+      }
+    },
+    {
+      "id": "7cb1932760a3100a",
+      "title": "Join the WIRED World Fair in Miami on November 4",
+      "url": "https://wired.com/story/join-the-wired-world-fair-in-miami-on-november-4",
+      "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T17:00:00+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "WIRED 将于 11 月 4 日在迈阿密举办世界博览会",
+        "takeaway": "WIRED 把报道中的变革性技术、人物与文化力量搬进现实，举行为期一天的线下活动。",
+        "bullets": [
+          "活动名为 WIRED World Fair，地点在迈阿密，仅限 11 月 4 日一天。",
+          "主办方 WIRED 将把其报道中的技术、人物与文化力量带到线下。",
+          "面向对科技与文化变革感兴趣的读者，提供沉浸式现场体验。"
+        ],
+        "generatedAt": "2026-09-19T19:38:30+08:00"
+      }
+    },
+    {
       "id": "8250b3078d22ce07",
       "title": "We benchmarked 24 LLMs against human writers on 475 creative writing prompts",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wjwhxc/we_benchmarked_24_llms_against_human_writers_on",
@@ -1575,6 +1959,31 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-09-19T06:56:11+08:00"
+    },
+    {
+      "id": "a9851609c6b78067",
+      "title": "How to eliminate Composer token bloat and slow response times using scoped .mdc globs",
+      "url": "https://forum.cursor.com/t/how-to-eliminate-composer-token-bloat-and-slow-response-times-using-scoped-mdc-globs/172340",
+      "summary": "If your Cursor Composer is feeling sluggish or burning through token credits rapidly, check your .cursor/rules/ configuration. A common pitfall is marking multiple .mdc files with alwaysApply: true . When you have 4–5 rules set to alwaysApp…",
+      "source": {
+        "id": "cursor-guides",
+        "name": "Cursor 论坛指南",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T19:14:10+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "31eec1d3aafd3608",
@@ -1672,6 +2081,169 @@
       "keywords": [
         "users",
         "tool"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "078898ad8cdfd230",
+      "title": "自变量机器人，还没证明自己",
+      "url": "https://tmtpost.com/8145140.html",
+      "summary": "过度标榜，不太明智。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T18:33:25+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "96bc1b2701c99dfb",
+      "title": "下一个赛道，AI手机？",
+      "url": "https://tmtpost.com/8145785.html",
+      "summary": "全民AI手机，尚未可知。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T17:35:07+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5b691db4dba2d7ec",
+      "title": "AI入侵危机的安全深思",
+      "url": "https://tmtpost.com/8145786.html",
+      "summary": "AI安全，刻不容缓。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T17:35:02+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8b6e17e6303cc5ef",
+      "title": "姚星丞之后，AI人才的中间层开始掉价",
+      "url": "https://tmtpost.com/8145649.html",
+      "summary": "AI人才的价值正在向两端集中，中间层的稀缺性开始消退。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T16:28:06+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "34cae7273783440f",
+      "title": "AI猎头魔幻一年：一单佣金300万，数百人围猎一个岗位",
+      "url": "https://tmtpost.com/8145624.html",
+      "summary": "风口之上的AI猎头赚麻了。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T16:28:00+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "643a84217e1595c2",
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 199 # Comments: 129",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T17:20:58+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e469583abee8f0ab",
+      "title": "General warning about Clore.AI",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wkgs01/general_warning_about_cloreai",
+      "summary": "Hello, I know some of us may be tempted to rent out our expensive GPUs to recoup some of the cost of self-hosting, and it should be obvious that this can be a risky decision. I decided to try hosting my rig on clore.ai briefly to see what k…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T16:37:35+08:00",
+      "fetchedAt": "2026-09-19T19:38:19+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs"
       ],
       "confidence": 1,
       "score": 30,
