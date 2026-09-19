@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "updatedAt": "2026-09-20T06:35:54+08:00",
+  "updatedAt": "2026-09-20T07:44:06+08:00",
   "items": [
     {
       "id": "0080ce44a56c3656",
@@ -112,6 +112,42 @@
         "generatedAt": "2026-09-20T06:35:50+08:00"
       },
       "pushedAt": "2026-09-20T06:35:54+08:00"
+    },
+    {
+      "id": "0f4fc67a0d8a1bd4",
+      "title": "Qwen-3.8-Flash-Next on 1x RTX 5090: TG=50 t/s, PP=2300 t/s - with FreeToken",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wl06np/qwen38flashnext_on_1x_rtx_5090_tg50_ts_pp2300_ts",
+      "summary": "I was somewhat disappointed with the performance of Qwen 3.8 Flash Next on my single RTX 5090 using llama.cpp. One issue is that llama.cpp still has no Expert Caching implemented for MoE models. There are various PRs and discussions (see he…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T06:55:28+08:00",
+      "fetchedAt": "2026-09-20T07:43:59+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen-3.8-Flash-Next 单卡 RTX 5090 实测：TG 50 t/s，PP 2300 t/s",
+        "takeaway": "用户用 FreeToken 在单张 RTX 5090 上跑 Qwen-3.8-Flash-Next，生成 50 t/s、预填充 2300 t/s，并吐槽 llama.cpp 缺 MoE 专家缓存。",
+        "bullets": [
+          "测试者称 llama.cpp 跑该模型表现令人失望，主因是尚未实现 MoE 专家缓存",
+          "改用 FreeToken 后，单张 RTX 5090 上达到 TG 50 t/s、PP 2300 t/s",
+          "相关 PR 与讨论已在社区出现，MoE 推理优化仍是关注点"
+        ],
+        "generatedAt": "2026-09-20T07:44:06+08:00"
+      }
     },
     {
       "id": "a245ccfdc0a8bc74",
@@ -454,6 +490,31 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-09-20T06:35:54+08:00"
+    },
+    {
+      "id": "a974d4eeda7578c6",
+      "title": "Trump vows to form \"AI Force,\" says he won't allow slowdown of AI development",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wl0qmv/trump_vows_to_form_ai_force_says_he_wont_allow",
+      "summary": "submitted by /u/lonelyroom-eklaghor [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T07:19:40+08:00",
+      "fetchedAt": "2026-09-20T07:43:59+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "35721eb82dbc85d4",
