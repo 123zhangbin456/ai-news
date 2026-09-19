@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "updatedAt": "2026-09-19T19:38:33+08:00",
+  "updatedAt": "2026-09-19T22:51:21+08:00",
   "items": [
     {
       "id": "b8d80245cb6f01df",
@@ -186,6 +186,41 @@
       }
     },
     {
+      "id": "29b5085b54b8632b",
+      "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
+      "url": "https://qbitai.com/2026/09/492661.html",
+      "summary": "老马想买倒闭公司数据为哪般",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T19:48:06+08:00",
+      "fetchedAt": "2026-09-19T22:51:11+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "收购"
+      ],
+      "confidence": 1,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "马斯克批量收购破产公司，盯上的是数据",
+        "takeaway": "马斯克正接连收购破产企业，目标并非资产而是数据，引发外界对其真实意图的猜测。",
+        "bullets": [
+          "马斯克近期批量收购破产公司，具体标的和金额未披露。",
+          "收购重点疑似指向这些公司的数据资产，而非传统业务。",
+          "此举可能为AI训练或旗下公司业务整合铺路，但尚无官方说明。"
+        ],
+        "generatedAt": "2026-09-19T22:51:18+08:00"
+      }
+    },
+    {
       "id": "d6d9aec5a8799aa5",
       "title": "Anthropic is operating a lab that conducts biology experiments",
       "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments",
@@ -287,6 +322,41 @@
         "generatedAt": "2026-09-19T03:21:13+08:00"
       },
       "pushedAt": "2026-09-19T06:56:11+08:00"
+    },
+    {
+      "id": "0d163ecd4e29dd1b",
+      "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+      "url": "https://qbitai.com/2026/09/492573.html",
+      "summary": "设计、前端一口气全干了，结果后端没来上班",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T19:43:12+08:00",
+      "fetchedAt": "2026-09-19T22:51:11+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 发布 27B 模型，一句话交付网页",
+        "takeaway": "通义千问新模型能一口气完成设计与前端开发，但后端能力缺席，值得关注其实际边界。",
+        "bullets": [
+          "27B 参数模型可快速生成完整网页，覆盖设计与前端环节",
+          "演示中后端部分未实现，被调侃为“后端没来上班”",
+          "模型发布自量子位报道，具体版本与能力细节待官方确认"
+        ],
+        "generatedAt": "2026-09-19T22:51:18+08:00"
+      }
     },
     {
       "id": "9f8371db2200846c",
@@ -576,6 +646,41 @@
       }
     },
     {
+      "id": "8dea5a2654e84bd4",
+      "title": "The AI regulation smackdown isn’t over",
+      "url": "https://theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding thir…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T21:00:00+08:00",
+      "fetchedAt": "2026-09-19T22:51:11+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "regulation"
+      ],
+      "confidence": 0.8,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 监管之争远未结束",
+        "takeaway": "AI 行业对监管态度出现分歧，Anthropic CEO 提议放缓 AI 发展，监管博弈持续。",
+        "bullets": [
+          "Anthropic CEO Dario Amodei 提出三步计划，包括嵌入某种机制来放缓 AI 发展。",
+          "本周初，AI 界知名人士似乎暂时支持 AI 监管。",
+          "监管之争仍在继续，各方立场可能影响未来 AI 政策走向。"
+        ],
+        "generatedAt": "2026-09-19T22:51:18+08:00"
+      }
+    },
+    {
       "id": "3aa5b5cea1964946",
       "title": "Built this yesterday with Qwen3.8-Flash-Next (NVFP4, 262K context) on a single NVIDIA DGX Spark",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wjzg4c/built_this_yesterday_with_qwen38flashnext_nvfp4",
@@ -610,6 +715,41 @@
         "generatedAt": "2026-09-19T06:56:07+08:00"
       },
       "pushedAt": "2026-09-19T06:56:11+08:00"
+    },
+    {
+      "id": "304a5898dc67632c",
+      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+      "url": "https://theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a pro…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T22:00:00+08:00",
+      "fetchedAt": "2026-09-19T22:51:11+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "antitrust"
+      ],
+      "confidence": 0.7,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 该不该拿反垄断豁免？前司法部反垄断主管开腔",
+        "takeaway": "拜登政府时期司法部反垄断负责人 Jonathan Kanter 在 Decoder 播客讨论 AI 与反垄断豁免之争。",
+        "bullets": [
+          "Kanter 曾任美国司法部反垄断部门主管，现为反垄断领域倡导者",
+          "讨论核心：AI 是否应获反垄断豁免以避免所谓生存风险",
+          "节目为商业未来系列上下两集的第一集"
+        ],
+        "generatedAt": "2026-09-19T22:51:19+08:00"
+      }
     },
     {
       "id": "eacd5d59e9e3d83b",
@@ -1131,6 +1271,105 @@
           "AI 安全与治理正被提升至国际安全层面"
         ],
         "generatedAt": "2026-09-19T19:38:27+08:00"
+      }
+    },
+    {
+      "id": "c8eff2dfdecd6468",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T21:00:00+08:00",
+      "fetchedAt": "2026-09-19T22:51:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "a16z 投资的 Vals AI 想成为 AI 基准测试的黄金标准",
+        "takeaway": "Vals AI 获 Andreessen Horowitz 投资，旨在打造中立可信的 AI 基准测试，应对模型泛滥下的评估乱象。",
+        "bullets": [
+          "Vals AI 获 a16z 投资，目标成为 AI 基准测试的权威标准。",
+          "当前 AI 模型激增，基准测试的公正性和可信度备受质疑。",
+          "Vals 希望提供更中立、可信的评估资源，影响行业评测方式。"
+        ],
+        "generatedAt": "2026-09-19T22:51:19+08:00"
+      }
+    },
+    {
+      "id": "e0608ef11b10f95c",
+      "title": "“留给人类阻止AI的时间不多了”",
+      "url": "https://qbitai.com/2026/09/492755.html",
+      "summary": "AI有可能终结我们所有人",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T19:53:12+08:00",
+      "fetchedAt": "2026-09-19T22:51:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "量子位：留给人类阻止AI的时间不多了",
+        "takeaway": "量子位发文警示AI可能终结人类，呼吁尽快行动，引发对AI风险的关注。",
+        "bullets": [
+          "量子位发文称AI有可能终结所有人",
+          "文章强调留给人类阻止AI的时间不多",
+          "该观点引发对AI安全与监管的讨论"
+        ],
+        "generatedAt": "2026-09-19T22:51:19+08:00"
+      }
+    },
+    {
+      "id": "0d667d38a69d1b80",
+      "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+      "url": "https://qbitai.com/2026/09/492550.html",
+      "summary": "AI能否提出相对论？",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T19:36:11+08:00",
+      "fetchedAt": "2026-09-19T22:51:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Nature：AI穿越1900年，抢先爱因斯坦提出光量子",
+        "takeaway": "AI能否提出相对论？这项研究让AI回到1900年，尝试重现物理学突破。",
+        "bullets": [
+          "Nature报道了一项AI实验，让AI在1900年背景下提出光量子假说。",
+          "研究旨在探索AI能否像爱因斯坦一样做出基础物理突破。",
+          "结果引发讨论：AI是否具备提出相对论等理论的能力。"
+        ],
+        "generatedAt": "2026-09-19T22:51:20+08:00"
       }
     },
     {
@@ -2244,6 +2483,31 @@
       "category": "算力芯片",
       "keywords": [
         "GPUs"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "fcd1f5df8a0e751c",
+      "title": "What are your sources for keeping up with AI learning?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wkkxl7/what_are_your_sources_for_keeping_up_with_ai",
+      "summary": "I listen to Everyday AI and AI explained where I can but very disappointed in the former as it has done a bit of a hack job on Open Source recently. What are you reading, watching, listening to? submitted by /u/Salt_Armadillo8884 [link] [co…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T20:27:34+08:00",
+      "fetchedAt": "2026-09-19T22:51:11+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open source"
       ],
       "confidence": 1,
       "score": 30,
