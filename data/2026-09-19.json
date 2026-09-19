@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "updatedAt": "2026-09-19T08:27:16+08:00",
+  "updatedAt": "2026-09-19T09:43:46+08:00",
   "items": [
     {
       "id": "93b15eb0cb1a98a8",
@@ -780,6 +780,74 @@
       }
     },
     {
+      "id": "7d23deb23af91746",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos",
+      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T09:00:00+08:00",
+      "fetchedAt": "2026-09-19T09:43:39+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "印度要求来电识别应用向电信商共享骚扰报告",
+        "takeaway": "印度新规要求来电识别应用单向向电信运营商提供骚扰报告，Truecaller 认为这等于无偿交出核心商业资产。",
+        "bullets": [
+          "印度强制来电识别应用向电信运营商提交骚扰报告",
+          "Truecaller 反对称单向共享将 proprietary 资产拱手让人",
+          "新规可能削弱第三方来电识别应用的竞争力"
+        ],
+        "generatedAt": "2026-09-19T09:43:46+08:00"
+      }
+    },
+    {
+      "id": "6295b6685860b589",
+      "title": "实测AI办公三强：豆包全能、WorkBuddy够稳、千问还得加把劲",
+      "url": "https://tmtpost.com/8145262.html",
+      "summary": "密集更新后，谁胜出了？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T09:17:51+08:00",
+      "fetchedAt": "2026-09-19T09:43:39+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "实测AI办公三强：豆包全能、WorkBuddy稳、千问待提升",
+        "takeaway": "钛媒体实测豆包、WorkBuddy、千问三款AI办公工具，密集更新后豆包表现最全面，千问仍有差距。",
+        "bullets": [
+          "钛媒体对豆包、WorkBuddy、千问进行办公场景实测对比",
+          "豆包功能全面胜出，WorkBuddy表现稳定，千问需加把劲",
+          "密集更新后，AI办公助手竞争格局初现分化"
+        ],
+        "generatedAt": "2026-09-19T09:43:46+08:00"
+      }
+    },
+    {
       "id": "530e7dd54ec02cf2",
       "title": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
       "url": "https://infoq.cn/article/AFC40lL0yaxVCDvBRFOK",
@@ -957,6 +1025,41 @@
       "pushedAt": "2026-09-19T06:56:11+08:00"
     },
     {
+      "id": "ac26d3c415a72e9d",
+      "title": "ProgramAsWeights: describe an AI function in English, compile it once, and run it locally on CPU",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wk0w5b/programasweights_describe_an_ai_function_in",
+      "summary": "With the recent interest in Jev, especially in open-source and locally executable alternatives, I wanted to share a related project we've been building at the University of Waterloo: ProgramAsWeights (PAW). The idea is simple: describe a fu…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T04:06:14+08:00",
+      "fetchedAt": "2026-09-19T09:43:39+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "滑铁卢大学开源 PAW：用英文描述函数，编译一次即可本地 CPU 运行",
+        "takeaway": "把自然语言描述的函数编译成权重，一次编译后可在本地 CPU 离线运行，为本地可执行 AI 提供新思路。",
+        "bullets": [
+          "滑铁卢大学团队发布 ProgramAsWeights（PAW），用英文描述 AI 函数，编译一次后本地 CPU 运行。",
+          "项目定位为 Jev 等开源、本地可执行方案的关联替代思路，强调离线与本地化。",
+          "对关注本地 LLM 与开源工具的开发者而言，提供了一种把自然语言函数固化为权重的路径。"
+        ],
+        "generatedAt": "2026-09-19T09:43:46+08:00"
+      }
+    },
+    {
       "id": "8250b3078d22ce07",
       "title": "We benchmarked 24 LLMs against human writers on 475 creative writing prompts",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wjwhxc/we_benchmarked_24_llms_against_human_writers_on",
@@ -1031,6 +1134,32 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-09-19T06:56:11+08:00"
+    },
+    {
+      "id": "ceb31738ec8e6ec0",
+      "title": "投资人想劝劝AI创业者，理性看待自己的估值吧",
+      "url": "https://tmtpost.com/8145076.html",
+      "summary": "泡沫破了之后，您还能穿越周期吗？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T09:25:41+08:00",
+      "fetchedAt": "2026-09-19T09:43:39+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "估值",
+        "投资"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
