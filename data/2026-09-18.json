@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "updatedAt": "2026-09-19T06:56:11+08:00",
+  "updatedAt": "2026-09-19T14:43:25+08:00",
   "items": [
     {
       "id": "230ed032b0167d3f",
@@ -486,6 +486,41 @@
         "generatedAt": "2026-09-19T24:51:14+08:00"
       },
       "pushedAt": "2026-09-19T06:56:11+08:00"
+    },
+    {
+      "id": "559b0cf1119746d2",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T20:00:00+08:00",
+      "fetchedAt": "2026-09-19T14:43:13+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing"
+      ],
+      "confidence": 0,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 发布澳大利亚青少年安全蓝图",
+        "takeaway": "OpenAI 推出六支柱路线图，旨在让 AI 对青少年更安全、更赋能。",
+        "bullets": [
+          "OpenAI 发布澳大利亚青少年安全蓝图，提出六大支柱框架。",
+          "目标是在保护青少年的同时，让他们安全使用 AI 并从中受益。",
+          "该蓝图面向澳大利亚，可能影响当地 AI 监管与产品设计。"
+        ],
+        "generatedAt": "2026-09-19T14:43:18+08:00"
+      }
     },
     {
       "id": "8c9415c95afc40d6",
@@ -3548,6 +3583,31 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-09-19T06:56:11+08:00"
+    },
+    {
+      "id": "a880a517107630b6",
+      "title": "别再让 Agent 裸连数据库了：如何用 MCP + 语义网关解决 NL2SQL 幻觉与权限失控",
+      "url": "https://oschina.net/news/502591",
+      "summary": "在 2026 年，给 AI Agent（Cursor、Claude Desktop、Dify、Coze 等）外挂一个数据库连接，已经成为很多开发者的标配操作。从简单的官方 SQLite/MySQL MCP 到各种通用客户端扩展，让大模型“直接查库”的门槛被降得极低。然而，一旦进入真实业务场景，大部分团队很快就会撞上两堵高墙： 语义幻觉严重：大模型根本不懂企业...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-18T20:54:57+08:00",
+      "fetchedAt": "2026-09-19T14:43:13+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 0.6,
+      "score": 32,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "3b9e2b029dc65841",
