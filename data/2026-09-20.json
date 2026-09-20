@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "updatedAt": "2026-09-20T20:30:32+08:00",
+  "updatedAt": "2026-09-21T24:38:57+08:00",
   "items": [
     {
       "id": "c2e8c8e4f5510d38",
@@ -257,6 +257,43 @@
       }
     },
     {
+      "id": "7777dca7dbec0b20",
+      "title": "微软花费 12 万美元 token 将 Copilot 运行时移植到 Rust 语言",
+      "url": "https://solidot.org/story?sid=85433",
+      "summary": "微软利用使用 GPT-5.6 Sol 和 Claude Opus 4.8 的 AI 智能体、历时 14.5 周，花费 12 万美元 token 将 Copilot 运行时从 TypeScript 语言移植到 Rust 语言。该项目采用逐个更新运行时模块的方式执行，共进行了 135 次发布，平均每天提交约 1.3 个 Pull Request，最终将 43 万行 TypeScript 代码转换为 80 万行可用于生产的 Rust 代码。测试显示，原 TypeScript 代码每…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T23:09:59+08:00",
+      "fetchedAt": "2026-09-21T24:38:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "GPT",
+        "Claude"
+      ],
+      "confidence": 0.43,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软用 AI 智能体花 12 万美元将 Copilot 运行时从 TypeScript 移植到 Rust",
+        "takeaway": "微软用 GPT-5.6 Sol 与 Claude Opus 4.8 智能体，14.5 周完成 43 万行代码迁移，展示 AI 大规模重构能力。",
+        "bullets": [
+          "耗时 14.5 周，token 成本 12 万美元，共 135 次发布",
+          "43 万行 TypeScript 转为 80 万行生产级 Rust 代码",
+          "平均每天约 1.3 个 PR，采用逐模块更新方式推进"
+        ],
+        "generatedAt": "2026-09-21T24:38:52+08:00"
+      }
+    },
+    {
       "id": "fcf8678845a73baf",
       "title": "沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一",
       "url": "https://leiphone.com/category/industrynews/U0o8Z4sG9l26lvTQ.html",
@@ -365,6 +402,75 @@
         "generatedAt": "2026-09-20T06:35:50+08:00"
       },
       "pushedAt": "2026-09-20T06:35:54+08:00"
+    },
+    {
+      "id": "7223a70ca4f071f7",
+      "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
+      "url": "https://qbitai.com/2026/09/493068.html",
+      "summary": "AI越来越能干，企业该怎么用",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T22:23:52+08:00",
+      "fetchedAt": "2026-09-21T24:38:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "华为首发企业AI白皮书：AI让员工更快，企业如何整体受益？",
+        "takeaway": "华为发布首份企业AI白皮书，探讨AI提升员工效率后，如何将红利转化为企业整体收益。",
+        "bullets": [
+          "华为发布首份企业AI白皮书，聚焦AI在企业中的应用。",
+          "白皮书指出AI能提升员工效率，但需解决如何让企业整体受益。",
+          "该白皮书为企业应用AI提供思路，或影响企业AI战略。"
+        ],
+        "generatedAt": "2026-09-21T24:38:52+08:00"
+      }
+    },
+    {
+      "id": "d7aa102d5f1d2259",
+      "title": "focus-llama: a llama.cpp fork implementing Declarative Attention (arXiv:2609.02737)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wli0wz/focusllama_a_llamacpp_fork_implementing",
+      "summary": "I forked llama.cpp to implement Declarative Attention (arXiv:2609.02737, Google DeepMind and KAIST AI). The model declares in its own output which context chunks it needs ), and the engine listens and restricts what the following tokens can…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T22:07:03+08:00",
+      "fetchedAt": "2026-09-21T24:38:46+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arxiv"
+      ],
+      "confidence": 0.6,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "focus-llama：llama.cpp 分支实现声明式注意力",
+        "takeaway": "开发者将 DeepMind 与 KAIST 的声明式注意力论文落地到 llama.cpp，让模型自己声明需要哪些上下文。",
+        "bullets": [
+          "作者 fork llama.cpp，实现 arXiv:2609.02737 的 Declarative Attention",
+          "模型在输出中声明所需上下文块，引擎据此限制后续 token 可见范围",
+          "论文来自 Google DeepMind 与 KAIST AI，属研究向工程复现",
+          "本地推理社区可借此尝试更可控的上下文选择机制"
+        ],
+        "generatedAt": "2026-09-21T24:38:52+08:00"
+      }
     },
     {
       "id": "12ce86c6dfa7fd59",
@@ -832,6 +938,111 @@
       }
     },
     {
+      "id": "410fb4adc82cc992",
+      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
+      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T22:00:00+08:00",
+      "fetchedAt": "2026-09-21T24:38:46+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "pricing"
+      ],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "TechCrunch Disrupt 2026 门票优惠倒计时 6 天",
+        "takeaway": "TechCrunch Disrupt 2026 门票现价将于 9 月 25 日截止，最高可省 200 美元。",
+        "bullets": [
+          "优惠截止时间为太平洋时间 9 月 25 日 23:59",
+          "已有超 1 万名创始人、投资人和科技领袖参与",
+          "当前购票最高可节省 200 美元"
+        ],
+        "generatedAt": "2026-09-21T24:38:54+08:00"
+      }
+    },
+    {
+      "id": "399e7b3f5c855b99",
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "url": "https://theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI devel…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T23:39:22+08:00",
+      "fetchedAt": "2026-09-21T24:38:46+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "特朗普称拟组建“AI部队”并任命AI主管",
+        "takeaway": "特朗普在Truth Social宣布想设AI主管领导新“AI部队”，正值各方呼吁放缓AI开发之际。",
+        "bullets": [
+          "特朗普在Truth Social发帖，称要任命“AI czar”领导新的“AI force”。",
+          "此时跨政治光谱乃至行业内部都在呼吁给AI开发踩刹车。",
+          "该表态目前仅为提议，未说明具体职能、人选或时间表。"
+        ],
+        "generatedAt": "2026-09-21T24:38:54+08:00"
+      }
+    },
+    {
+      "id": "29a85ae6e05eb178",
+      "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
+      "url": "https://qbitai.com/2026/09/492973.html",
+      "summary": "剪映Hub+剪映助手，好用",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T22:30:26+08:00",
+      "fetchedAt": "2026-09-21T24:38:46+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "助手"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "剪映发布新功能：AI生视频与AI剪辑打通",
+        "takeaway": "剪映推出Hub和助手，打破AI生成视频与AI剪辑之间的壁垒，创作流程更顺畅。",
+        "bullets": [
+          "剪映发布剪映Hub和剪映助手，整合AI生视频与AI剪辑能力。",
+          "此前AI生成视频和剪辑工具分离，剪映试图打通这一流程。",
+          "对视频创作者而言，有望减少工具切换，提升制作效率。"
+        ],
+        "generatedAt": "2026-09-21T24:38:55+08:00"
+      }
+    },
+    {
       "id": "e9b43e9bfc3b7312",
       "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
       "url": "https://qbitai.com/2026/09/492912.html",
@@ -895,6 +1106,74 @@
           "渠道快速铺开，意在上市前抢占用户关注"
         ],
         "generatedAt": "2026-09-20T20:30:28+08:00"
+      }
+    },
+    {
+      "id": "eafb06e98131618d",
+      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "url": "https://theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T20:00:00+08:00",
+      "fetchedAt": "2026-09-21T24:38:46+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raised"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "能源系统网络安全：最大威胁仍来自人类而非失控AI",
+        "takeaway": "能源系统本就脆弱，近期黑客事件引发AI威胁讨论，但人类才是主要风险源。",
+        "bullets": [
+          "能源系统长期面临网络攻击风险，且风险持续增长。",
+          "近期高调黑客事件引发AI可能‘杀死所有人类’的担忧。",
+          "专家指出，人类而非失控AI才是能源系统最大网络安全威胁。"
+        ],
+        "generatedAt": "2026-09-21T24:38:55+08:00"
+      }
+    },
+    {
+      "id": "8ab2abe8f0b58e7b",
+      "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
+      "url": "https://qbitai.com/2026/09/492946.html",
+      "summary": "AI办公这块蛋糕，中国电信可能要先切走一块了。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T20:22:41+08:00",
+      "fetchedAt": "2026-09-21T24:38:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "中国电信推全栈国产模型，一张3090就能本地跑AI办公",
+        "takeaway": "中国电信发布全栈国产AI办公方案，单张3090即可运行，瞄准企业本地部署市场。",
+        "bullets": [
+          "中国电信推出全栈国产模型，面向企业AI办公场景",
+          "仅需一张RTX 3090显卡即可本地运行，降低硬件门槛",
+          "方案强调本地部署，或推动企业数据安全与国产化替代"
+        ],
+        "generatedAt": "2026-09-21T24:38:56+08:00"
       }
     },
     {
@@ -1178,6 +1457,76 @@
           "用本地开源权重验证概念，而非依赖闭源 API"
         ],
         "generatedAt": "2026-09-20T20:30:29+08:00"
+      }
+    },
+    {
+      "id": "fc9a8f12e485244c",
+      "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen-image-2.1 Comments URL: https://news.ycombinator.com/item?id=49775499 Points: 248 # Comments: 91",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T21:09:25+08:00",
+      "fetchedAt": "2026-09-21T24:38:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阿里发布 Qwen-Image-2.1：更紧凑高效的统一图像生成模型",
+        "takeaway": "阿里通义千问推出图像生成模型 Qwen-Image-2.1，主打轻量高效与统一架构，在 Hacker News 引发热议。",
+        "bullets": [
+          "Qwen 团队发布 Qwen-Image-2.1，强调紧凑、高效、统一的图像创作能力",
+          "该消息登上 Hacker News，获 248 分、91 条评论，关注度较高",
+          "统一架构或意味着多类图像任务整合，具体能力与开源情况待官方博客披露"
+        ],
+        "generatedAt": "2026-09-21T24:38:56+08:00"
+      }
+    },
+    {
+      "id": "51cd0f49b7ec549a",
+      "title": "Qwen-Image-2.1 released!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released",
+      "summary": "Meet Qwen-Image-2.1, the most balanced and cost-effective image generation model in the Qwen-Image series! Now open weights! 🎨 A unified model for both generation and editing, delivering top-tier quality in a lightweight package. Highlight…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T21:12:41+08:00",
+      "fetchedAt": "2026-09-21T24:38:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0.25,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen-Image-2.1 发布：开源权重，生成与编辑二合一",
+        "takeaway": "阿里 Qwen 系列推出新一代图像模型，开源权重且兼顾生成与编辑，主打轻量高性价比。",
+        "bullets": [
+          "Qwen-Image-2.1 已开放权重，可在本地部署使用",
+          "单一模型同时支持图像生成与图像编辑",
+          "官方称其为系列中最均衡、最具性价比的版本"
+        ],
+        "generatedAt": "2026-09-21T24:38:57+08:00"
       }
     },
     {
@@ -1978,6 +2327,54 @@
         "算力"
       ],
       "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "aa58a19464b08448",
+      "title": "19999 元起，启元机器人想把「个人机器人」先卖进普通人的生活",
+      "url": "https://ifanr.com/1681137",
+      "summary": "比造机器人更难的，可能是给机器人找到「应用」。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T21:10:39+08:00",
+      "fetchedAt": "2026-09-21T24:38:46+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "应用"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8db36d40e65138fe",
+      "title": "I tested 9 LLMs on the exact same web-dev prompt for ~8 hours — RTX 3060 12GB results (Rate the best!)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wljzix/i_tested_9_llms_on_the_exact_same_webdev_prompt",
+      "summary": "I’ve spent basically the last 8 hours testing different models on the exact same web-development prompt, and I finally finished. The whole point of this nine-hour test was that which local model matches the frontier-level intelligence at si…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T23:26:49+08:00",
+      "fetchedAt": "2026-09-21T24:38:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 30,
       "related": [],
       "pushed": false

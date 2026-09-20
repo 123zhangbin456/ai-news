@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "updatedAt": "2026-09-20T20:30:32+08:00",
+  "updatedAt": "2026-09-21T24:38:57+08:00",
   "items": [
     {
       "id": "10f6315d35930d3e",
@@ -177,6 +177,42 @@
           "资金将用于加速大模型推理与服务平台建设"
         ],
         "generatedAt": "2026-09-20T20:30:25+08:00"
+      }
+    },
+    {
+      "id": "dcd9418407bb47e2",
+      "title": "CUDA: enable sparse fa for qwen4 by am17an · Pull Request #28770 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wlkxjw/cuda_enable_sparse_fa_for_qwen4_by_am17an_pull",
+      "summary": "Another day, another Qwen Flash Next speedup submitted by /u/jacek2023 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-21T24:03:29+08:00",
+      "fetchedAt": "2026-09-21T24:38:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 为 Qwen 启用稀疏 Flash Attention 加速",
+        "takeaway": "llama.cpp 合并新 PR，为 Qwen 模型启用稀疏 Flash Attention，本地推理速度再获提升。",
+        "bullets": [
+          "PR #28770 由 am17an 提交，为 Qwen 系列启用稀疏 Flash Attention",
+          "属于 llama.cpp 的 CUDA 后端优化，面向本地部署场景",
+          "社区持续为 Qwen 贡献加速，本地推理性能稳步改善"
+        ],
+        "generatedAt": "2026-09-21T24:38:53+08:00"
       }
     },
     {
