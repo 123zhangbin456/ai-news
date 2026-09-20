@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "updatedAt": "2026-09-20T08:12:18+08:00",
+  "updatedAt": "2026-09-20T08:41:23+08:00",
   "items": [
     {
       "id": "0080ce44a56c3656",
@@ -37,6 +37,43 @@
         "generatedAt": "2026-09-20T03:06:28+08:00"
       },
       "pushedAt": "2026-09-20T06:35:54+08:00"
+    },
+    {
+      "id": "de00c8e7cddce865",
+      "title": "Termexo v0.10.4 发布：集成 Grok Build，修复会话 Git 变更归零",
+      "url": "https://oschina.net/news/502594",
+      "summary": "Termexo v0.10.4 已发布。新版将 Grok Build 纳入现有 AI 编程终端工作台，并修复长时间使用后会话代码变更显示为 0、Git 面板变空的问题。 Grok Build 加入工作台安装并登录 Grok Build CLI 后，Termexo 可以检测它、在工作区中启动终端、列出并恢复会话，也可以在任务看板中选择 Grok Build 执行任务。它与 Claude C...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T01:18:46+08:00",
+      "fetchedAt": "2026-09-20T08:41:15+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "Claude"
+      ],
+      "confidence": 0.25,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Termexo v0.10.4 发布：集成 Grok Build 并修复 Git 变更归零",
+        "takeaway": "AI 编程终端 Termexo 新增 Grok Build 支持，同时修复会话 Git 变更显示为 0 的问题。",
+        "bullets": [
+          "Termexo v0.10.4 将 Grok Build 纳入现有 AI 编程终端工作台",
+          "安装并登录 Grok Build CLI 后，可检测、启动终端、列出并恢复会话",
+          "任务看板中也可选择 Grok Build 执行任务",
+          "修复长时间使用后会话代码变更显示为 0、Git 面板变空的问题"
+        ],
+        "generatedAt": "2026-09-20T08:41:23+08:00"
+      }
     },
     {
       "id": "4c201e6ead4467d5",
@@ -429,6 +466,42 @@
         "generatedAt": "2026-09-20T06:35:53+08:00"
       },
       "pushedAt": "2026-09-20T06:35:54+08:00"
+    },
+    {
+      "id": "2701c42072e1f82b",
+      "title": "Qwen 3.8 27B Running LIVE on a RTX 5090 to solve an Open Math Problem - Covering Design C(25,15,5)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wl18ax/qwen_38_27b_running_live_on_a_rtx_5090_to_solve",
+      "summary": "This post is a follow up to this other post where I let Qwen 3.8 run for 63 hours autonomously to try to solve the Riemann hypothesis: https://www.reddit.com/r/LocalLLaMA/comments/1wi9fau/qwen_38_27b_running_for_63_hours_on_a_rtx_3090_to/ T…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T07:41:56+08:00",
+      "fetchedAt": "2026-09-20T08:41:15+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 27B 在 RTX 5090 上实时求解开放数学难题",
+        "takeaway": "继此前 63 小时挑战黎曼猜想后，同一模型转向覆盖设计 C(25,15,5) 的开放数学问题。",
+        "bullets": [
+          "Qwen 3.8 27B 在单张 RTX 5090 上本地运行，实时尝试求解开放数学问题",
+          "目标是覆盖设计 C(25,15,5)，属于组合数学中的开放难题",
+          "这是该模型此前在 RTX 3090 上连续运行 63 小时挑战黎曼猜想的后续实验",
+          "体现本地小模型在高端消费级显卡上自主攻关数学问题的尝试"
+        ],
+        "generatedAt": "2026-09-20T08:41:22+08:00"
+      }
     },
     {
       "id": "6e4d132971e5cea3",
