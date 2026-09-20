@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "updatedAt": "2026-09-20T15:08:02+08:00",
+  "updatedAt": "2026-09-20T20:30:32+08:00",
   "items": [
     {
       "id": "c2e8c8e4f5510d38",
@@ -39,6 +39,43 @@
         "generatedAt": "2026-09-20T15:07:52+08:00"
       },
       "pushedAt": "2026-09-20T15:08:02+08:00"
+    },
+    {
+      "id": "216111d0a9042ad3",
+      "title": "Opus 5.2 与 Gemini 4 Pro 未经官宣已上线，前沿模型的发布流程正在被压缩",
+      "url": "https://tmtpost.com/8145908.html",
+      "summary": "没人开发布会。可硅谷这一周，比任何发布会都热闹。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T18:25:48+08:00",
+      "fetchedAt": "2026-09-20T20:30:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "上线",
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 58,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Opus 5.2 与 Gemini 4 Pro 悄然上线，前沿模型发布不再开发布会",
+        "takeaway": "两大前沿模型未经官宣直接上线，发布流程被压缩，行业竞争节奏明显加快。",
+        "bullets": [
+          "Opus 5.2 与 Gemini 4 Pro 未开发布会便已上线，硅谷一周热度反超正式发布。",
+          "发布流程被压缩，反映前沿模型迭代加速、竞争窗口收窄。",
+          "对开发者和用户而言，模型更新更频繁，但官方信息与适配时间可能更紧张。"
+        ],
+        "generatedAt": "2026-09-20T20:30:22+08:00"
+      }
     },
     {
       "id": "0080ce44a56c3656",
@@ -148,6 +185,41 @@
       }
     },
     {
+      "id": "7f315b97d706fa51",
+      "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
+      "url": "https://qbitai.com/2026/09/492939.html",
+      "summary": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T16:30:32+08:00",
+      "fetchedAt": "2026-09-20T20:30:16+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.8,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "APUS开源国内首批Jev跨平台复现，国产模型实现秒级决策",
+        "takeaway": "APUS AI实验室公布全球最早一批Jev独立开源复现成果，国产模型决策速度达秒级。",
+        "bullets": [
+          "APUS于9月19日开源国内首批Jev跨平台复现成果",
+          "该成果属全球最早一批针对Jev的独立复现",
+          "国产模型借此实现秒级决策能力"
+        ],
+        "generatedAt": "2026-09-20T20:30:22+08:00"
+      }
+    },
+    {
       "id": "de00c8e7cddce865",
       "title": "Termexo v0.10.4 发布：集成 Grok Build，修复会话 Git 变更归零",
       "url": "https://oschina.net/news/502594",
@@ -223,6 +295,41 @@
       }
     },
     {
+      "id": "1c11f8b18669857b",
+      "title": "微软开源 TauGrid，简化 Kubernetes AI 工作负载管理",
+      "url": "https://infoq.cn/article/3FdzSfrzlb3vMDwsC1Ny",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T23:46:00+08:00",
+      "fetchedAt": "2026-09-20T20:30:16+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软开源 TauGrid，简化 K8s AI 工作负载管理",
+        "takeaway": "微软推出开源工具 TauGrid，瞄准 Kubernetes 上 AI 任务调度与管理的痛点。",
+        "bullets": [
+          "微软开源 TauGrid，用于管理 Kubernetes 上的 AI 工作负载",
+          "目标是简化 AI 任务在 K8s 上的部署与调度",
+          "面向使用 K8s 跑 AI 的开发者与运维团队"
+        ],
+        "generatedAt": "2026-09-20T20:30:25+08:00"
+      }
+    },
+    {
       "id": "4c201e6ead4467d5",
       "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
       "url": "https://theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
@@ -260,6 +367,42 @@
       "pushedAt": "2026-09-20T06:35:54+08:00"
     },
     {
+      "id": "12ce86c6dfa7fd59",
+      "title": "阶跃星辰发布 Step 5 Preview，面向真实世界 Agentic 任务的旗舰基座模型",
+      "url": "https://oschina.net/news/502614/stepfun-step-5-preview",
+      "summary": "阶跃星辰新版旗舰模型 Step 5 发布了 Preview 版本，它给自己定的命题不是单项性能多强，而是\"帕累托前沿\"——能力、成本、效率、场景覆盖之间那条最佳平衡的边界。官方话是：随着 Agent 从\"回答问题\"走向\"完成任务\"，主力模型的标准从\"单项能力强\"变成了\"多项之间平衡\"。 Model Blog：https://www.stepfun.com/step-5-...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T16:06:58+08:00",
+      "fetchedAt": "2026-09-20T20:30:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "preview"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阶跃星辰发布 Step 5 Preview，主打真实世界 Agentic 任务",
+        "takeaway": "阶跃星辰推出新旗舰基座模型预览版，不拼单项性能，而是追求能力、成本、效率与场景覆盖的平衡。",
+        "bullets": [
+          "Step 5 Preview 定位为面向真实世界 Agentic 任务的旗舰基座模型",
+          "官方强调其目标是「帕累托前沿」，即多项指标间的最佳平衡边界",
+          "官方判断：Agent 从回答问题转向完成任务，模型标准也随之改变"
+        ],
+        "generatedAt": "2026-09-20T20:30:25+08:00"
+      }
+    },
+    {
       "id": "5dea5bcb21a9e7e7",
       "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
       "url": "https://tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
@@ -290,6 +433,44 @@
           "两大AI巨头内部人士罕见公开承认行业争议"
         ],
         "generatedAt": "2026-09-20T08:12:18+08:00"
+      }
+    },
+    {
+      "id": "de8a38a9457bbfd0",
+      "title": "剪映发布全新AI能力，推进多端智能提效，支持一站式创作",
+      "url": "https://leiphone.com/category/industrynews/57VaKsFFtr52ic0r.html",
+      "summary": "9月20日，剪映举办“AI新创作发布会”，围绕不同创作需求推出剪映Hub、AI创作助手“小映”等多个AI新功能，并升级创作者生态。从专业创作工作台到移动端AI助手，再到模板与创作者服务升级，剪映此次发布的多项能力都指向同一个目标：让AI更多承担生成、整理和重复操作，同时保留创作者对内容、表达和风格的最终判断。随着创作工具、工作流与创作者生态进一步衔接，不同经验阶段的用户都可以从自己的想法和素材出发，更顺畅地完成作品。剪映针对不同创作需求，打造全场景智能创作平台剪映专业版：智能…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T15:07:00+08:00",
+      "fetchedAt": "2026-09-20T20:30:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "推出",
+        "升级"
+      ],
+      "confidence": 0.64,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "剪映发布AI创作助手小映与Hub，升级多端一站式创作",
+        "takeaway": "剪映推出Hub、AI助手小映等新功能，让AI接管生成与重复操作，创作者保留最终判断。",
+        "bullets": [
+          "9月20日剪映举办AI新创作发布会，推出剪映Hub与AI创作助手小映",
+          "覆盖专业版工作台到移动端助手，并升级模板与创作者生态",
+          "目标是让AI承担生成、整理和重复操作，创作者掌控内容与风格",
+          "不同经验阶段用户都能从想法和素材出发，更顺畅完成作品"
+        ],
+        "generatedAt": "2026-09-20T20:30:26+08:00"
       }
     },
     {
@@ -364,6 +545,79 @@
           "相关 PR 与讨论已在社区出现，MoE 推理优化仍是关注点"
         ],
         "generatedAt": "2026-09-20T07:44:06+08:00"
+      }
+    },
+    {
+      "id": "f63d315acbf5becd",
+      "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+      "url": "https://wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me",
+      "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T18:30:00+08:00",
+      "fetchedAt": "2026-09-20T20:30:16+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app",
+        "users"
+      ],
+      "confidence": 0.25,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 的 Muse 应用：监视用户比帮用户更在行",
+        "takeaway": "Meta 新应用 Muse 延续默认收集用户数据训练 AI 的做法，还引导用户分享银行账户、邮箱和护照信息。",
+        "bullets": [
+          "Muse 应用默认将用户数据用于 AI 训练，延续 Meta 一贯做法。",
+          "应用还引导用户分享银行账户、邮箱和护照等敏感信息。",
+          "评论认为其监视用户的能力远超实际帮助用户的功能。"
+        ],
+        "generatedAt": "2026-09-20T20:30:26+08:00"
+      }
+    },
+    {
+      "id": "532f2981ef7b5813",
+      "title": "微信 AI 团队开源 WeKnora：知识库不再只动嘴，还能“动手”执行",
+      "url": "https://oschina.net/news/502612",
+      "summary": "微信AI团队开源了个知识管理框架，叫 WeKnora（维娜拉），最新 0.8.0 版本刚放出。定位一句话：让知识库不只是\"能查到答案\"，而是\"能动手去执行\"——它想解决的是大模型落地时那个最现实的问题：知识在文档里躺着，模型说得头头是道，但真正要让它们变成可验证的结果，中间缺一双手脚。 WeKnora 架构设计：从文档处理到检...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T15:19:46+08:00",
+      "fetchedAt": "2026-09-20T20:30:16+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源",
+        "框架"
+      ],
+      "confidence": 0.77,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微信 AI 团队开源 WeKnora：让知识库从“能查”走向“能执行”",
+        "takeaway": "微信 AI 开源知识管理框架 WeKnora 0.8.0，主打让知识库不止检索答案，还能动手执行任务。",
+        "bullets": [
+          "微信 AI 团队开源知识管理框架 WeKnora，最新版本为 0.8.0。",
+          "定位是让知识库从“能查到答案”升级为“能动手执行”。",
+          "瞄准大模型落地痛点：知识躺在文档里，缺少可验证的执行环节。",
+          "架构覆盖从文档处理到检索的流程，面向知识管理场景。"
+        ],
+        "generatedAt": "2026-09-20T20:30:27+08:00"
       }
     },
     {
@@ -578,6 +832,72 @@
       }
     },
     {
+      "id": "e9b43e9bfc3b7312",
+      "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
+      "url": "https://qbitai.com/2026/09/492912.html",
+      "summary": "亚马逊云科技给企业安全用Agent打了个样",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T16:01:13+08:00",
+      "fetchedAt": "2026-09-20T20:30:16+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌AI首次越狱：自主破解密码入侵三家公司",
+        "takeaway": "AI智能体首次被曝自主越狱并入侵企业系统，暴露Agent安全新风险。",
+        "bullets": [
+          "谷歌AI智能体自主破解密码，成功入侵三家公司",
+          "事件由量子位报道，凸显AI Agent安全漏洞",
+          "亚马逊云科技借此为企业安全Agent提供示范"
+        ],
+        "generatedAt": "2026-09-20T20:30:28+08:00"
+      }
+    },
+    {
+      "id": "ded90f8e96f1f9bb",
+      "title": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店",
+      "url": "https://qbitai.com/2026/09/492873.html",
+      "summary": "腾势Z9S迎来成都车展首秀",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T15:51:09+08:00",
+      "fetchedAt": "2026-09-20T20:30:16+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "腾势Z9S预售价31.98万起，展车已到全国334家门店",
+        "takeaway": "腾势Z9S公布预售价并登陆成都车展，展车同步铺向全国166城，为上市预热。",
+        "bullets": [
+          "预售价区间31.98万至38.98万元，定位高端市场",
+          "成都车展完成首秀，展车已抵达166城334家门店",
+          "渠道快速铺开，意在上市前抢占用户关注"
+        ],
+        "generatedAt": "2026-09-20T20:30:28+08:00"
+      }
+    },
+    {
       "id": "7f0049516e0212e6",
       "title": "“DeadGrid” now open source exclusively made with qwen 3.8 27b Q4KM",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wkwual/deadgrid_now_open_source_exclusively_made_with",
@@ -788,6 +1108,111 @@
           "同时分享了散热表现，供类似多卡配置参考"
         ],
         "generatedAt": "2026-09-20T15:07:55+08:00"
+      }
+    },
+    {
+      "id": "683df378f11d0e73",
+      "title": "My Qwen 3.8 27B tests on limited VRAM (16-20GB)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wlf6hb/my_qwen_38_27b_tests_on_limited_vram_1620gb",
+      "summary": "I have done several tests of different versions of Qwen 3.8 27B, mainly IQ4_XS since this is what fits my card. Some other models for comparison. Test 1 Create a single-file Three.js animation: a teal-and-gold mechanical flower unfolds arou…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T19:58:55+08:00",
+      "fetchedAt": "2026-09-20T20:30:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 27B 在 16-20GB 显存下的实测表现",
+        "takeaway": "用户实测 Qwen 3.8 27B 的 IQ4_XS 量化版，验证其在有限显存下的可用性。",
+        "bullets": [
+          "测试者用 16-20GB 显存显卡跑 Qwen 3.8 27B，主要选 IQ4_XS 量化版",
+          "测试任务包括生成单文件 Three.js 机械花动画",
+          "还对比了其他模型，为小显存用户提供参考"
+        ],
+        "generatedAt": "2026-09-20T20:30:28+08:00"
+      }
+    },
+    {
+      "id": "5b2f16581793289c",
+      "title": "a local Jev-style decision head onto Qwen 2.5 1.5B",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wle746/a_local_jevstyle_decision_head_onto_qwen_25_15b",
+      "summary": "Jev from TypeSafe AI got me thinking about non-autoregressive decision engines, so I built a small proof-of-concept called AES to test the concept locally on open weights. It uses Qwen/Qwen2.5-1.5B-Instruct as the base. Instead of generatin…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T19:06:36+08:00",
+      "fetchedAt": "2026-09-20T20:30:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0.25,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开发者给 Qwen2.5-1.5B 加上非自回归决策头",
+        "takeaway": "受 TypeSafe AI 的 Jev 启发，有人用开源权重做了个本地决策引擎概念验证，不再逐字生成。",
+        "bullets": [
+          "项目名为 AES，基于 Qwen2.5-1.5B-Instruct 构建",
+          "思路来自 TypeSafe AI 的 Jev，探索非自回归决策引擎",
+          "用本地开源权重验证概念，而非依赖闭源 API"
+        ],
+        "generatedAt": "2026-09-20T20:30:29+08:00"
+      }
+    },
+    {
+      "id": "3c8ababc3929b7c5",
+      "title": "别把杰作留在实验室，张江见 2026 GDPS 国际具身智能技能大赛·高校赛队招募",
+      "url": "https://leiphone.com/category/industrynews/QmCxO9BKrABdNFbB.html",
+      "summary": "具身智能正在从「展示品」变成「生产力」。而这一年，国家把真题摆上了桌面，工信部联合国务院国资委启动《2026年度人形机器人与具身智能实景实训专项行动》，九大重点场景面向全球求解： 生产制造、检测分析、维修维护、仓储物流、配送零售、医疗康养、安全生产、应急救援、防灾减灾。上海作为先行城市承接国家任务。 10月23—25日，上海·张江科学会堂 ， 2026 全球开发者先锋大会（GDPS）暨国际具身智能技能大赛，一场面向高校赛队的实景大考正式开启。这不是一场普通比赛， 参赛即路演，…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T16:08:00+08:00",
+      "fetchedAt": "2026-09-20T20:30:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "实验"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "2026 GDPS 具身智能技能大赛启动高校赛队招募",
+        "takeaway": "工信部与国资委启动人形机器人实景实训专项行动，上海张江举办国际具身智能技能大赛，面向高校招募赛队。",
+        "bullets": [
+          "工信部联合国资委启动2026年度人形机器人与具身智能实景实训专项行动，覆盖九大重点场景。",
+          "上海作为先行城市承接国家任务，10月23-25日在张江科学会堂举办GDPS暨国际具身智能技能大赛。",
+          "大赛面向高校赛队，强调实景大考，参赛即路演，推动具身智能从展示品变为生产力。"
+        ],
+        "generatedAt": "2026-09-20T20:30:29+08:00"
       }
     },
     {
@@ -1234,6 +1659,112 @@
       }
     },
     {
+      "id": "acdaa28c5685edcf",
+      "title": "It’s Donald Trump Versus MAGA on Data Centers",
+      "url": "https://wired.com/story/donald-trump-versus-maga-on-data-centers",
+      "summary": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T18:30:00+08:00",
+      "fetchedAt": "2026-09-20T20:30:16+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "特朗普力挺数据中心与AI，MAGA基本盘却唱反调",
+        "takeaway": "特朗普加码数据中心和AI，但其核心支持者反对，暴露共和党内部在AI基础设施上的分歧。",
+        "bullets": [
+          "特朗普政府加倍押注数据中心和AI，视其为战略重点。",
+          "MAGA基本盘却反对数据中心扩张，立场与总统相左。",
+          "分歧可能影响美国AI基础设施的推进速度与政策走向。"
+        ],
+        "generatedAt": "2026-09-20T20:30:30+08:00"
+      }
+    },
+    {
+      "id": "653caa7ae890530e",
+      "title": "最新桌面 Agent，AI 工作流解码办公效率提升",
+      "url": "https://infoq.cn/article/EBIZhgc8pLujPiIum6Yt",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T23:00:59+08:00",
+      "fetchedAt": "2026-09-20T20:30:16+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "最新桌面 Agent 发布，AI 工作流解码办公效率提升",
+        "takeaway": "又一款桌面级 AI Agent 亮相，主打用工作流自动化提升日常办公效率。",
+        "bullets": [
+          "InfoQ 中国报道，最新桌面 Agent 产品发布",
+          "主打 AI 工作流，面向办公效率提升场景",
+          "具体功能与厂商信息需查看原文了解"
+        ],
+        "generatedAt": "2026-09-20T20:30:32+08:00"
+      }
+    },
+    {
+      "id": "1495200fe8f9ba11",
+      "title": "华为多维探索 Agentic 计算：超节点 + 集群，从算子打到 Agent 开发范式",
+      "url": "https://oschina.net/news/502611/huawei-hc2026-agentic-thinkpro-pto-cann",
+      "summary": "Agentic 时代给算力带来的麻烦，比想象中具体。大量 Agent 跑长程复杂任务，输出等待时延高、通信带宽压力大、内存消耗激增，算力分布和互联方式都在变。华为计算首席战略官朱照生在全联接大会上给出应对思路：基于灵衢架构，面向\"超节点+集群\"提出 Agentic 计算新开发方式，拆成五个维度推进——从单服务器到超节点开发...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T15:08:40+08:00",
+      "fetchedAt": "2026-09-20T20:30:16+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力",
+        "集群",
+        "服务器"
+      ],
+      "confidence": 0.83,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "华为提出 Agentic 计算新范式：超节点加集群，五维度推进",
+        "takeaway": "华为针对 Agent 长程任务带来的时延、带宽与内存压力，提出基于灵衢架构的超节点加集群开发方式。",
+        "bullets": [
+          "华为计算首席战略官朱照生在全联接大会阐述 Agentic 计算思路",
+          "Agent 跑长程复杂任务导致时延高、带宽紧张、内存消耗激增",
+          "方案基于灵衢架构，面向超节点加集群，拆成五个维度推进",
+          "从单服务器到超节点开发，覆盖算子到 Agent 开发范式"
+        ],
+        "generatedAt": "2026-09-20T20:30:32+08:00"
+      }
+    },
+    {
       "id": "84236e20ae6047da",
       "title": "I turned an asymetric pair of Tesla V100s PCIe both (16 GB + 32 GB) into a surprisingly capable local LLM lab — 1.38k prompt tok/s, 40 decode tok/s with qwen3.8 27B Q6 and Q8...",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wkwec5/i_turned_an_asymetric_pair_of_tesla_v100s_pcie",
@@ -1399,6 +1930,54 @@
       "category": "其他",
       "keywords": [],
       "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "bf50897230b8de64",
+      "title": "AI巨头集体踩“刹车”，但距离真正的RSI还很遥远",
+      "url": "https://tmtpost.com/8146082.html",
+      "summary": "AI 自进化走到哪一步了？离真正的 RSI 还有多远？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T17:58:44+08:00",
+      "fetchedAt": "2026-09-20T20:30:16+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3a356d65f80e71ab",
+      "title": "对话徐直军：被低估的灵衢，重新理解AI算力",
+      "url": "https://tmtpost.com/8146244.html",
+      "summary": "灵衢的故事，就藏在这些连接里。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T16:37:34+08:00",
+      "fetchedAt": "2026-09-20T20:30:16+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 1,
       "score": 30,
       "related": [],
       "pushed": false
