@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "updatedAt": "2026-09-20T08:41:23+08:00",
+  "updatedAt": "2026-09-20T09:45:20+08:00",
   "items": [
     {
       "id": "0080ce44a56c3656",
@@ -396,6 +396,41 @@
       "pushedAt": "2026-09-20T06:35:54+08:00"
     },
     {
+      "id": "3ec6b6e4732f2eac",
+      "title": "What are you all using for long term project/conversational memory these days?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wl3828/what_are_you_all_using_for_long_term",
+      "summary": "I am trying to learn more about long-term memory and how people are handling that nowadays. Historically, I have used a mixture of paid cloud AI services (ChatGPT, Gemini, OpenRouter API) and my own local inference. However, at this point, …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T09:14:39+08:00",
+      "fetchedAt": "2026-09-20T09:45:14+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "本地大模型玩家如何做长期记忆？社区求方案",
+        "takeaway": "r/LocalLLaMA 用户发帖求教长期项目与对话记忆方案，反映本地推理玩家对记忆管理的普遍需求。",
+        "bullets": [
+          "发帖者过去混用 ChatGPT、Gemini、OpenRouter API 和本地推理",
+          "如今想了解社区当前如何处理长期记忆",
+          "帖子属经验求助，暂无具体方案或产品结论"
+        ],
+        "generatedAt": "2026-09-20T09:45:20+08:00"
+      }
+    },
+    {
       "id": "7f0049516e0212e6",
       "title": "“DeadGrid” now open source exclusively made with qwen 3.8 27b Q4KM",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wkwual/deadgrid_now_open_source_exclusively_made_with",
@@ -570,6 +605,39 @@
         "generatedAt": "2026-09-19T19:38:31+08:00"
       },
       "pushedAt": "2026-09-20T06:35:54+08:00"
+    },
+    {
+      "id": "987c5d5a9f9f2b43",
+      "title": ".NET 11 RC1 来了：C# 15 转正，联合类型却引发争议",
+      "url": "https://infoq.cn/article/mNChcSsgdSLLckYGTuSG",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T17:00:00+08:00",
+      "fetchedAt": "2026-09-20T09:45:14+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": ".NET 11 RC1 发布：C# 15 转正，联合类型引争议",
+        "takeaway": ".NET 11 首个候选版落地，C# 15 正式定型，但新引入的联合类型特性在社区引发分歧。",
+        "bullets": [
+          "InfoQ 报道，.NET 11 RC1 发布，C# 15 随之转正定型",
+          "该版本引入联合类型特性，成为社区争议焦点",
+          "争议或影响开发者对新版本特性的采纳节奏"
+        ],
+        "generatedAt": "2026-09-20T09:45:20+08:00"
+      }
     },
     {
       "id": "84236e20ae6047da",
