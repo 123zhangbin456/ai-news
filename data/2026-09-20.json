@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "updatedAt": "2026-09-20T07:44:06+08:00",
+  "updatedAt": "2026-09-20T08:12:18+08:00",
   "items": [
     {
       "id": "0080ce44a56c3656",
@@ -74,6 +74,39 @@
         "generatedAt": "2026-09-20T06:35:50+08:00"
       },
       "pushedAt": "2026-09-20T06:35:54+08:00"
+    },
+    {
+      "id": "5dea5bcb21a9e7e7",
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "url": "https://tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelatio…",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T02:21:30+08:00",
+      "fetchedAt": "2026-09-20T08:12:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软总监称AI抓取是「人类史上最大规模劳动窃取」",
+        "takeaway": "微软总监与OpenAI高管同场批评AI抓取，承认其对创作者和出版商构成生存威胁。",
+        "bullets": [
+          "微软总监将AI训练数据抓取定性为人类史上最大劳动窃取",
+          "OpenAI负责人称ChatGPT对出版商构成生存威胁",
+          "两大AI巨头内部人士罕见公开承认行业争议"
+        ],
+        "generatedAt": "2026-09-20T08:12:18+08:00"
+      }
     },
     {
       "id": "0569b33732aac776",
@@ -512,6 +545,29 @@
         "says"
       ],
       "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "84daeedcfe9bf37d",
+      "title": "Radeon RX 10800 XT can outperform the RTX 5090 by 15-25% in 4K gaming and local AI",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wl1hlj/radeon_rx_10800_xt_can_outperform_the_rtx_5090_by",
+      "summary": "https://en.gamegpu.com/news/zhelezo/radeon-rx-10800-xt-mozhet-obojti-rtx-5090-na-15-25-v-igrakh-v-v-4k-i-lokalnom-ii The more competition, the better! submitted by /u/Lumpy_Phase_9539 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T07:54:03+08:00",
+      "fetchedAt": "2026-09-20T08:12:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 30,
       "related": [],
       "pushed": false
