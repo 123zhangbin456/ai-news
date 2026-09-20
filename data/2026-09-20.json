@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "updatedAt": "2026-09-21T24:38:57+08:00",
+  "updatedAt": "2026-09-21T03:12:23+08:00",
   "items": [
     {
       "id": "c2e8c8e4f5510d38",
@@ -220,6 +220,41 @@
       }
     },
     {
+      "id": "da6a73f55326f495",
+      "title": "When i turn off Cursor Grok model, it still keeps showing up in the usage chart",
+      "url": "https://reddit.com/r/cursor/comments/1wl89y9/when_i_turn_off_cursor_grok_model_it_still_keeps",
+      "summary": "I turned off Cursor grok model since 3 weeks after it started introducing bugs which were fixed before . After repeated attempts to make it fix the regression, i gave up and turned off the model . Still i can see cursor grok getting used in…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T13:32:14+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户关闭 Cursor Grok 模型后，用量图表仍显示其被调用",
+        "takeaway": "用户停用 Grok 三周后用量图表仍显示调用，暴露 Cursor 模型开关与统计可能不同步。",
+        "bullets": [
+          "用户因 Grok 引入旧 bug 反复修复无果，选择关闭该模型。",
+          "关闭后用量图表仍显示 Grok 被使用，疑似开关未真正生效。",
+          "问题涉及 Cursor 的模型管理与用量统计，可能影响计费与信任。"
+        ],
+        "generatedAt": "2026-09-21T03:12:15+08:00"
+      }
+    },
+    {
       "id": "de00c8e7cddce865",
       "title": "Termexo v0.10.4 发布：集成 Grok Build，修复会话 Git 变更归零",
       "url": "https://oschina.net/news/502594",
@@ -434,6 +469,41 @@
           "该白皮书为企业应用AI提供思路，或影响企业AI战略。"
         ],
         "generatedAt": "2026-09-21T24:38:52+08:00"
+      }
+    },
+    {
+      "id": "9eabd8985b4663fd",
+      "title": "I've asked Grok 4.6 to change the default model to Composer 2.5 in Cursor",
+      "url": "https://reddit.com/r/cursor/comments/1wlab6d/ive_asked_grok_46_to_change_the_default_model_to",
+      "summary": "This shit ate 98k tokens and didn't even think about stopping. Model wasn't changed after all, of course Cursor team, what did you do for this previously well performed model? submitted by /u/whalemare [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T15:22:56+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户让 Grok 4.6 在 Cursor 里改默认模型，烧掉 98k token 却没改成",
+        "takeaway": "Cursor 用户吐槽 Grok 4.6 执行改默认模型任务时狂耗 98k token 却未生效，质疑模型表现下滑。",
+        "bullets": [
+          "用户要求 Grok 4.6 把 Cursor 默认模型改为 Composer 2.5",
+          "任务消耗约 98k token，模型毫无停止迹象，最终设置未变",
+          "发帖者质问 Cursor 团队对该模型做了什么，暗示性能退化"
+        ],
+        "generatedAt": "2026-09-21T03:12:16+08:00"
       }
     },
     {
@@ -1043,6 +1113,41 @@
       }
     },
     {
+      "id": "b7601b992191cdab",
+      "title": "Hitting usage limits on Codex and Claude Code.. which paid plans or setups give the most usable capacity for the money?",
+      "url": "https://reddit.com/r/cursor/comments/1wl0nyt/hitting_usage_limits_on_codex_and_claude_code",
+      "summary": "I'm on paid plans for both Codex (Pro) and Claude, and I keep hitting the same wall. The quality is great, but the 5-hour and weekly caps make sustained agentic work hard. I regularly get cut off mid-task, and at this point the limit is the…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T07:16:17+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Codex 与 Claude Code 用量上限困扰开发者，付费方案性价比引热议",
+        "takeaway": "用户反映 Codex Pro 和 Claude 付费版频繁触发 5 小时及每周上限，中断代理式开发，寻求更高性价比方案。",
+        "bullets": [
+          "用户同时订阅 Codex Pro 和 Claude 付费版，仍频繁触达用量上限。",
+          "5 小时与每周配额限制导致任务中途被切断，影响持续代理工作。",
+          "讨论聚焦哪些付费计划或配置能提供更实用的容量与性价比。"
+        ],
+        "generatedAt": "2026-09-21T03:12:20+08:00"
+      }
+    },
+    {
       "id": "e9b43e9bfc3b7312",
       "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
       "url": "https://qbitai.com/2026/09/492912.html",
@@ -1174,6 +1279,39 @@
           "方案强调本地部署，或推动企业数据安全与国产化替代"
         ],
         "generatedAt": "2026-09-21T24:38:56+08:00"
+      }
+    },
+    {
+      "id": "70ebf7f5c0ac0124",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "summary": "Article URL: https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/ Comments URL: https://news.ycombinator.com/item?id=49776729 Points: 211 # Comments: 106",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T23:18:44+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ChatGPT 通过广告收集器获知你在其他网站的行为",
+        "takeaway": "ChatGPT 被指借助广告数据收集器掌握用户站外浏览行为，隐私边界再引关注。",
+        "bullets": [
+          "消息来自 Hacker News 讨论，指向一篇关于 ChatGPT 站外追踪的文章。",
+          "核心是广告收集器把用户在其他网站的行为数据接入 ChatGPT。",
+          "讨论热度高，反映用户对 AI 产品数据来源与隐私的担忧。"
+        ],
+        "generatedAt": "2026-09-21T03:12:20+08:00"
       }
     },
     {
@@ -1527,6 +1665,152 @@
           "官方称其为系列中最均衡、最具性价比的版本"
         ],
         "generatedAt": "2026-09-21T24:38:57+08:00"
+      }
+    },
+    {
+      "id": "6f4cb187235fdfb3",
+      "title": "Top 10 Cursor Skill Repos",
+      "url": "https://reddit.com/r/cursor/comments/1wlbkza/top_10_cursor_skill_repos",
+      "summary": "submitted by /u/Chasmchas [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T16:35:40+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Reddit 网友盘点十大 Cursor 技能仓库",
+        "takeaway": "r/cursor 社区整理出 10 个 Cursor 技能仓库，帮开发者快速找到可复用的配置与提示资源。",
+        "bullets": [
+          "帖子由 r/cursor 用户 Chasmchas 发布，列出 10 个 Cursor 相关仓库",
+          "内容聚焦 Cursor 技能与配置资源，面向使用该编辑器的开发者",
+          "可作为挑选 Cursor 扩展、规则或提示库的参考清单"
+        ],
+        "generatedAt": "2026-09-21T03:12:20+08:00"
+      }
+    },
+    {
+      "id": "8f4945e844af123b",
+      "title": "Cursor Ultra was the reason I bought SuperGrok Heavy; “Other Models” then fell from $400 to $100",
+      "url": "https://reddit.com/r/cursor/comments/1wlj8z3/cursor_ultra_was_the_reason_i_bought_supergrok",
+      "summary": "I bought SuperGrok Heavy mainly for the gifted Cursor Ultra access. About one month later, the “Other Models” value/allowance was shown as $100 instead of $400. That feels like a material bait-and-switch, not a routine price adjustment: the…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T22:58:02+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor Ultra 赠送额度缩水：Other Models 从 400 美元降至 100 美元",
+        "takeaway": "用户为 Cursor Ultra 权益购买 SuperGrok Heavy，一个月后 Other Models 额度从 400 美元降到 100 美元，被质疑是诱导性变更。",
+        "bullets": [
+          "用户称买 SuperGrok Heavy 主要冲着赠送的 Cursor Ultra 权益。",
+          "约一个月后，Other Models 额度显示从 400 美元变为 100 美元。",
+          "用户认为这是实质性 bait-and-switch，而非常规价格调整。"
+        ],
+        "generatedAt": "2026-09-21T03:12:21+08:00"
+      }
+    },
+    {
+      "id": "76ffafec02975d7c",
+      "title": "What's your workflow when Cursor-generated code needs to change direction mid-project?",
+      "url": "https://reddit.com/r/cursor/comments/1wlcnlt/whats_your_workflow_when_cursorgenerated_code",
+      "summary": "Been thinking about this a lot while designing a hackathon format, and genuinely curious how this community handles it. Say you're deep into a build with Cursor, agent mode's been cranking through your codebase, context is set up, rules are…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T17:39:27+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor 项目中途转向，你的工作流跟得上吗？",
+        "takeaway": "社区热议：当 Cursor 生成的代码需要中途改变方向，开发者该如何调整工作流？",
+        "bullets": [
+          "提问者正设计黑客松赛制，想了解社区如何处理项目中途转向",
+          "场景：深度使用 Cursor 构建，agent 模式已跑通代码库，上下文和规则就绪",
+          "核心痛点：AI 生成代码后需求变更，如何高效调整而非推倒重来"
+        ],
+        "generatedAt": "2026-09-21T03:12:22+08:00"
+      }
+    },
+    {
+      "id": "234804412c81ba3b",
+      "title": "Is cursor down?",
+      "url": "https://reddit.com/r/cursor/comments/1wkw8vj/is_cursor_down",
+      "summary": "Continuously showing \"Taking Longer than Expected\" submitted by /u/ClawerClashYT [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T04:10:28+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [
+        {
+          "title": "Is cursor down",
+          "url": "https://reddit.com/r/cursor/comments/1wklxxy/is_cursor_down",
+          "source": "r/cursor"
+        }
+      ],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor 疑似服务异常：持续提示“耗时超出预期”",
+        "takeaway": "用户反馈 Cursor 持续卡在“耗时超出预期”，疑似服务端故障，值得关注是否影响日常编码。",
+        "bullets": [
+          "Reddit 用户发帖询问 Cursor 是否宕机，称界面持续显示“Taking Longer than Expected”。",
+          "该提示通常意味着请求排队或后端响应缓慢，而非本地网络问题。",
+          "若为服务端故障，可能影响代码生成、补全等核心功能，需等待官方修复。"
+        ],
+        "generatedAt": "2026-09-21T03:12:22+08:00"
       }
     },
     {
@@ -2165,6 +2449,56 @@
       "pushed": false
     },
     {
+      "id": "0ede5701f536248c",
+      "title": "18 Months of MCP Bugs, Repeated Reports, and Now a Silenced Account",
+      "url": "https://reddit.com/r/cursor/comments/1wlhj1u/18_months_of_mcp_bugs_repeated_reports_and_now_a",
+      "summary": "I've been trying to help Cursor resolve a collection of persistent MCP server issues for over 18 months. I've reported these problems approximately a dozen times and have even offered to help fix them myself. Unfortunately, the problems rem…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T21:46:35+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6319d1914d2c742d",
+      "title": "why is billing this way",
+      "url": "https://reddit.com/r/cursor/comments/1wkzcjq/why_is_billing_this_way",
+      "summary": "I paid $20.00 for Cursor Pro on 15 September 2026. The billing associate i talked to refused to refund it. The problem is not a mystery balance. Cursor ran its bot through a single task that is hard to find on the account screens and not ev…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T06:18:53+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "a974d4eeda7578c6",
       "title": "Trump vows to form \"AI Force,\" says he won't allow slowdown of AI development",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wl0qmv/trump_vows_to_form_ai_force_says_he_wont_allow",
@@ -2372,6 +2706,29 @@
       "topic": "ai",
       "publishedAt": "2026-09-20T23:26:49+08:00",
       "fetchedAt": "2026-09-21T24:38:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6b0f29268c2ffa5f",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "summary": "Article URL: https://pirateface.co/ Comments URL: https://news.ycombinator.com/item?id=49776699 Points: 261 # Comments: 99",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T23:16:07+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,

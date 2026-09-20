@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "updatedAt": "2026-09-20T06:35:54+08:00",
+  "updatedAt": "2026-09-21T03:12:23+08:00",
   "items": [
     {
       "id": "b8d80245cb6f01df",
@@ -113,6 +113,41 @@
         "generatedAt": "2026-09-19T06:56:07+08:00"
       },
       "pushedAt": "2026-09-19T06:56:11+08:00"
+    },
+    {
+      "id": "82c9f3d02d6d4dcc",
+      "title": "Cursor is ignoring my Gemini API key and defaulting to free models.",
+      "url": "https://reddit.com/r/cursor/comments/1wkgu41/cursor_is_ignoring_my_gemini_api_key_and",
+      "summary": "Hey everyone, I’m trying to rely entirely on my own Google Gemini API key to avoid hitting Cursor's free tier limits. I’ve added my API key under Settings > Models > Google , but the editor seems locked into using Cursor's built-in free mod…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T16:41:13+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 56,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor 无视用户 Gemini API Key，仍默认使用免费模型",
+        "takeaway": "用户配置自有 Gemini 密钥后，Cursor 仍走内置免费模型，可能影响成本与配额控制。",
+        "bullets": [
+          "用户在 Settings > Models > Google 添加了 Gemini API Key",
+          "Cursor 编辑器仍锁定使用内置免费模型，未调用用户密钥",
+          "问题涉及希望绕过免费层限制、完全依赖自有密钥的用户"
+        ],
+        "generatedAt": "2026-09-21T03:12:15+08:00"
+      }
     },
     {
       "id": "95675a3c801007bd",
@@ -724,6 +759,41 @@
       "pushedAt": "2026-09-20T06:35:54+08:00"
     },
     {
+      "id": "d618ca1ce859d018",
+      "title": "I think they just broke cursor completely",
+      "url": "https://reddit.com/r/cursor/comments/1wkezqe/i_think_they_just_broke_cursor_completely",
+      "summary": "Cursor has been my favorite IDE for the past 14-16 months. But after Spacex acquired it, things are going completely wrong. First of all they are biasing the auto mode to choose grok for all tasks no matter easy or hard. Now recently I am n…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T14:54:32+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户吐槽 Cursor 被收购后体验崩坏：自动模式强推 Grok",
+        "takeaway": "老用户称 Cursor 被收购后自动模式偏向 Grok，体验明显变差，引发社区不满。",
+        "bullets": [
+          "发帖者用 Cursor 14-16 个月，称被收购后问题频出",
+          "自动模式被指不分任务难度，一律优先选 Grok",
+          "用户抱怨近期体验持续恶化，社区讨论升温"
+        ],
+        "generatedAt": "2026-09-21T03:12:17+08:00"
+      }
+    },
+    {
       "id": "3aa5b5cea1964946",
       "title": "Built this yesterday with Qwen3.8-Flash-Next (NVFP4, 262K context) on a single NVIDIA DGX Spark",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wjzg4c/built_this_yesterday_with_qwen38flashnext_nvfp4",
@@ -794,6 +864,41 @@
         "generatedAt": "2026-09-19T22:51:19+08:00"
       },
       "pushedAt": "2026-09-20T06:35:54+08:00"
+    },
+    {
+      "id": "6a2cef73073b3fef",
+      "title": "Is there any way to make Cursor Grok 4.6 speak like a coherent human?",
+      "url": "https://reddit.com/r/cursor/comments/1wjy8nh/is_there_any_way_to_make_cursor_grok_46_speak",
+      "summary": "Im sure this has been discussed before but I am becoming increasingly fed up with Grok 4.6. It is useful and cheap but it uses almost like a 50s beat poetry like language to describe mundane things and for modeling it just speaks in complet…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T02:28:16+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户吐槽 Cursor 里的 Grok 4.6：说话像50年代垮掉派诗歌",
+        "takeaway": "Grok 4.6 在 Cursor 中便宜好用，但表达风格浮夸、描述日常事物时像念诗，影响建模等场景的可读性。",
+        "bullets": [
+          "r/cursor 用户发帖抱怨 Grok 4.6 语言风格不自然，像50年代垮掉派诗歌。",
+          "该模型被认为有用且便宜，但描述普通事物时过度修饰，建模输出也不够直白。",
+          "用户询问是否有办法让 Grok 4.6 说话更像连贯的人类，反映提示或配置需求。"
+        ],
+        "generatedAt": "2026-09-21T03:12:18+08:00"
+      }
     },
     {
       "id": "eacd5d59e9e3d83b",
@@ -976,6 +1081,41 @@
         "generatedAt": "2026-09-19T14:43:18+08:00"
       },
       "pushedAt": "2026-09-20T06:35:54+08:00"
+    },
+    {
+      "id": "ecbb25e37c833bbd",
+      "title": "So what happened to Cursor in the past few weeks?",
+      "url": "https://reddit.com/r/cursor/comments/1wk16qb/so_what_happened_to_cursor_in_the_past_few_weeks",
+      "summary": "Are you guys noticing that Grok just got dumber, slower and expensive? I have $60/mo subscription and I never run out and i run out within 10 days. Is this what happens when musk takes over things? People get screwed and he gets richer? the…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T04:17:33+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor 用户抱怨 Grok 模型变笨变慢变贵",
+        "takeaway": "Cursor 用户反映 Grok 模型质量下降、速度变慢且成本上升，月费 60 美元订阅额度 10 天耗尽。",
+        "bullets": [
+          "用户称 Grok 模型变笨、变慢、变贵，订阅额度消耗异常快",
+          "月费 60 美元订阅原本用不完，现在 10 天就耗尽",
+          "用户质疑与马斯克接管有关，认为用户受损而马斯克获利"
+        ],
+        "generatedAt": "2026-09-21T03:12:18+08:00"
+      }
     },
     {
       "id": "898b33c3b4a56415",
@@ -1902,6 +2042,77 @@
       "pushedAt": "2026-09-20T06:35:54+08:00"
     },
     {
+      "id": "d052fae539b69d2e",
+      "title": "The latest Cursor install is downloading a whole bunch of stuff.",
+      "url": "https://reddit.com/r/cursor/comments/1wk72po/the_latest_cursor_install_is_downloading_a_whole",
+      "summary": "I'll report back when I figure out what is going on. submitted by /u/brett1231 [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T08:17:58+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户发现最新版 Cursor 安装时下载大量内容",
+        "takeaway": "有用户反映最新 Cursor 安装过程会下载大量文件，具体原因尚未查明，值得关注。",
+        "bullets": [
+          "Reddit 用户 brett1231 发帖称最新 Cursor 安装下载了大量内容",
+          "该用户表示正在调查原因，后续会反馈",
+          "目前尚不清楚下载内容是什么，是否影响使用"
+        ],
+        "generatedAt": "2026-09-21T03:12:22+08:00"
+      }
+    },
+    {
+      "id": "7969a646bb7b1200",
+      "title": "do you need this in your vibecoding life?",
+      "url": "https://reddit.com/r/cursor/comments/1wjz3xe/do_you_need_this_in_your_vibecoding_life",
+      "summary": "I’m considering building a tool that helps developers understand the important code that AI writes for them. AI tools like Cursor, Claude Code, and Codex can generate software very quickly, but sometimes developers end up with code they can…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T02:59:56+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "有人想造工具，帮开发者看懂 AI 写的代码",
+        "takeaway": "Cursor、Claude Code 等让写码飞快，但开发者常看不懂 AI 生成的代码，有人提议做理解工具。",
+        "bullets": [
+          "发帖者考虑开发一款工具，帮开发者理解 AI 生成的重要代码",
+          "背景是 Cursor、Claude Code、Codex 能极快生成软件",
+          "问题在于开发者最终拿到自己看不懂的代码",
+          "目前只是想法征集，尚无具体产品或发布时间"
+        ],
+        "generatedAt": "2026-09-21T03:12:23+08:00"
+      }
+    },
+    {
       "id": "530e7dd54ec02cf2",
       "title": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
       "url": "https://infoq.cn/article/AFC40lL0yaxVCDvBRFOK",
@@ -2448,6 +2659,31 @@
       "pushedAt": "2026-09-20T06:35:54+08:00"
     },
     {
+      "id": "e0cb5efe0ff6ad3c",
+      "title": "Unable to complete request - blocked on non-benign request",
+      "url": "https://reddit.com/r/cursor/comments/1wknmkk/unable_to_complete_request_blocked_on_nonbenign",
+      "summary": "https://preview.redd.it/wu895zc6lhqh1.png?width=644&format=png&auto=webp&s=16f367811dd4642b72b8483980f7a6f0b2c84b33 Why would cursor block this request I am just asking to very basic coding update request. submitted by /u/arjosoer [link] [c…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T22:25:35+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "31eec1d3aafd3608",
       "title": "Is HF starting to move against abliterated models?",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wjyn95/is_hf_starting_to_move_against_abliterated_models",
@@ -2496,6 +2732,31 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-09-20T06:35:54+08:00"
+    },
+    {
+      "id": "c011a20f672c1601",
+      "title": "Pro $20 vs Pro+ $60 vs Ultra $200 - real Included Usage screenshots (token totals when bars filled)",
+      "url": "https://reddit.com/r/cursor/comments/1wjzc8n/pro_20_vs_pro_60_vs_ultra_200_real_included_usage",
+      "summary": "People keep asking which Cursor plan to pick. Here are dry numbers from MY OWN dashboard — three different plans, bars filled (or nearly filled). Screenshots attached. Important caveat: Other Models is a **dollar pool at API prices**, not a…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T03:08:02+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 32,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "38b05854d8bbd955",
@@ -2846,6 +3107,56 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-09-20T06:35:54+08:00"
+    },
+    {
+      "id": "d99d330b1f4c8b76",
+      "title": "Anyone else still running out towards the last week?",
+      "url": "https://reddit.com/r/cursor/comments/1wkedwx/anyone_else_still_running_out_towards_the_last",
+      "summary": "I even tried taking breaks, I find myself painfully slow when i write my own code. Now I just make diagrams to prepare for another coding session. I could literally code all day if it was up to me lol. submitted by /u/F1Drivatar [link] [com…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T14:20:58+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2e7121790e36716a",
+      "title": "We're having trouble connecting to the model provider. This might be temporary - please try again in a moment",
+      "url": "https://reddit.com/r/cursor/comments/1wk9owe/were_having_trouble_connecting_to_the_model",
+      "summary": "We're having trouble connecting to the model provider. This might be temporary - please try again in a moment Request ID: b93e14fd-0a30-4d7f-8b.... Do you have this problem? submitted by /u/Aggressive-Produce13 [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-19T10:20:48+08:00",
+      "fetchedAt": "2026-09-21T03:12:09+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "3c2fb59646fed648",
