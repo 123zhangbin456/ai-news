@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "updatedAt": "2026-09-21T06:50:06+08:00",
+  "updatedAt": "2026-09-21T07:39:57+08:00",
   "items": [
     {
       "id": "10f6315d35930d3e",
@@ -73,6 +73,42 @@
         "generatedAt": "2026-09-21T06:50:02+08:00"
       },
       "pushedAt": "2026-09-21T06:50:06+08:00"
+    },
+    {
+      "id": "21bfe915385d9a83",
+      "title": "【钛晨报】分类推进高校改革，中办、国办最新部署；启元机器人发布个人机器人，19999元起售；长鑫科技第五代技术平台正式量产",
+      "url": "https://tmtpost.com/8146468.html",
+      "summary": "中美经贸磋商在美国纽约开始举行；宁德时代枧下窝锂矿采矿项目日前重启环评审批程序；盛和资源澄清：控股股东不存在拟对外转让公司控股权的情形；Anthropic据悉考虑在IPO前发布新AI模型；市场监管总局明确：这类婴幼儿配方食品，不得继续销售；中国银河：节前A股市场或延续震荡与轮动行情。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-21T07:20:00+08:00",
+      "fetchedAt": "2026-09-21T07:39:51+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO",
+        "股权"
+      ],
+      "confidence": 0.54,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "启元机器人发布个人机器人，19999元起售",
+        "takeaway": "启元机器人推出个人机器人产品，起售价19999元，标志消费级机器人市场再添新玩家。",
+        "bullets": [
+          "启元机器人发布个人机器人，定价19999元起",
+          "该产品面向个人用户，具体功能未在摘要中披露",
+          "此举或推动个人机器人赛道竞争与普及"
+        ],
+        "generatedAt": "2026-09-21T07:39:57+08:00"
+      }
     },
     {
       "id": "f5936cab46851243",
@@ -721,6 +757,41 @@
         "generatedAt": "2026-09-20T20:30:31+08:00"
       },
       "pushedAt": "2026-09-21T06:50:06+08:00"
+    },
+    {
+      "id": "5ac4162572e16da1",
+      "title": "Seeing how differently people prompt LLMs is funny",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wlvv8h/seeing_how_differently_people_prompt_llms_is_funny",
+      "summary": "So my brother and I both use LLMs for coding. I've started using a local GLM 5.3 Flash instance - q4 qat. My brother uses GPT-6-Astra as his daily driver. He has mentioned repeatedly to me that his approach is to berate the AI whenever it m…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-21T07:08:04+08:00",
+      "fetchedAt": "2026-09-21T07:39:51+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "同一件事两种问法：兄弟俩用 LLM 写代码的提示词差异",
+        "takeaway": "一则 Reddit 帖子对比了本地 GLM 与 GPT 用户的提示风格差异，折射出提示词习惯的多样性。",
+        "bullets": [
+          "发帖人用本地 GLM 5.3 Flash 量化版写代码，其兄弟日常用 GPT-6-Astra",
+          "兄弟自称习惯用斥责的方式对待 AI，与发帖人风格形成反差",
+          "帖子来自 r/LocalLLaMA，讨论聚焦不同用户提示 LLM 的方式差异"
+        ],
+        "generatedAt": "2026-09-21T07:39:57+08:00"
+      }
     },
     {
       "id": "99dd97ee227e4305",
