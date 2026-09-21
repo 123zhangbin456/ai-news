@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "updatedAt": "2026-09-21T09:46:31+08:00",
+  "updatedAt": "2026-09-21T15:17:15+08:00",
   "items": [
     {
       "id": "c2e8c8e4f5510d38",
@@ -1379,6 +1379,45 @@
       "pushedAt": "2026-09-21T06:50:06+08:00"
     },
     {
+      "id": "bae80b9420d3ad8c",
+      "title": "OpenAgent v2.93 发布：单二进制自托管 AI Agent 平台，新增 Agent Hub、Casbin 工具权限与审计日志",
+      "url": "https://oschina.net/news/502624",
+      "summary": "OpenAgent 近日发布 v2.93.0。这是一个自托管的 AI Agent 平台，由 Casbin 开源社区维护，Go + React 编写，Apache 2.0 协议开源，目前在 GitHub 上有 5.6k star、658 fork。项目定位 OpenAgent 不是需要写代码编排的 Agent 框架，而是一套部署完就能直接使用的平台：配置好模型 API Key 之后，非技术人员也可以通过 We...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T22:44:32+08:00",
+      "fetchedAt": "2026-09-21T15:16:58+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源",
+        "框架",
+        "部署",
+        "github",
+        "apache"
+      ],
+      "confidence": 0.65,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAgent v2.93 发布：单二进制自托管 AI Agent 平台，新增 Agent Hub 与审计日志",
+        "takeaway": "Casbin 社区维护的开源 AI Agent 平台更新，主打免编码部署，非技术人员也能直接上手。",
+        "bullets": [
+          "由 Casbin 社区维护，Go + React 编写，Apache 2.0 开源，GitHub 5.6k star",
+          "定位开箱即用的平台，而非需要写代码编排的 Agent 框架",
+          "新增 Agent Hub、Casbin 工具权限控制与审计日志功能"
+        ],
+        "generatedAt": "2026-09-21T15:17:11+08:00"
+      }
+    },
+    {
       "id": "7f0049516e0212e6",
       "title": "“DeadGrid” now open source exclusively made with qwen 3.8 27b Q4KM",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wkwual/deadgrid_now_open_source_exclusively_made_with",
@@ -1888,6 +1927,42 @@
         "generatedAt": "2026-09-21T03:12:22+08:00"
       },
       "pushedAt": "2026-09-21T06:50:06+08:00"
+    },
+    {
+      "id": "1b7dd5f4b7216718",
+      "title": "无代码 AI 工作流引擎 FlowLong 1.2.7 发布",
+      "url": "https://oschina.net/news/502620",
+      "summary": "开源地址：https://gitee.com/aizuda/flowlong 开源地址：https://github.com/aizuda/flowlong 官网文档：https://flowlong.aizuda.com 更新日志： feat: 新增节点支持设置为办理人（仅办理节点） feat: 新增支持设置流程实例紧急程度 opt: 完善注释和说明文档 opt: 优化节点模型扩展属性提供友好的获取方式 fixed: 修复...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T20:04:23+08:00",
+      "fetchedAt": "2026-09-21T15:16:58+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源",
+        "github"
+      ],
+      "confidence": 0.33,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "无代码 AI 工作流引擎 FlowLong 1.2.7 发布",
+        "takeaway": "国产开源工作流引擎 FlowLong 更新至 1.2.7，新增办理人节点与流程紧急程度设置。",
+        "bullets": [
+          "新增节点可设为办理人，仅限办理节点使用",
+          "支持设置流程实例紧急程度，便于优先级管理",
+          "完善注释文档，优化节点模型扩展属性获取方式"
+        ],
+        "generatedAt": "2026-09-21T15:17:12+08:00"
+      }
     },
     {
       "id": "3c8ababc3929b7c5",
@@ -2939,6 +3014,33 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-09-21T06:50:06+08:00"
+    },
+    {
+      "id": "1adc0852006bd1fe",
+      "title": "ModStartBlog v11.2.0 新增可选依赖、AI 文章投递及多项安全修复",
+      "url": "https://oschina.net/news/502622",
+      "summary": "ModStart 是一个基于 Laravel 模块化极速开发框架。模块市场拥有丰富的功能应用，支持后台一键快速安装，让开发者能快的实现业务功能开发。系统完全开源，基于 Apache 2.0 开源协议。功能特性丰富的模块市场，后台一键快速安装会员模块通用且完整，支持完整的API调用大文件分片上传，进度条显示，已上传文件管理强...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-20T21:29:39+08:00",
+      "fetchedAt": "2026-09-21T15:16:58+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源",
+        "框架",
+        "apache"
+      ],
+      "confidence": 0.45,
+      "score": 29,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
