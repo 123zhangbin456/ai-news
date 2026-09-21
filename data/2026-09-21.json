@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "updatedAt": "2026-09-21T08:21:05+08:00",
+  "updatedAt": "2026-09-21T08:51:49+08:00",
   "items": [
     {
       "id": "10f6315d35930d3e",
@@ -794,6 +794,39 @@
       }
     },
     {
+      "id": "69ce745967828d2a",
+      "title": "Google's Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io/",
+      "summary": "Article URL: https://agentexecutor.io Comments URL: https://news.ycombinator.com/item?id=49780797 Points: 137 # Comments: 53",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-21T06:32:43+08:00",
+      "fetchedAt": "2026-09-21T08:51:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌开源 Agentic Orchestrator 登 Hacker News 热榜",
+        "takeaway": "谷歌推出开源智能体编排器，HN 获 137 分、53 条讨论，值得关注其多智能体调度思路。",
+        "bullets": [
+          "项目名为 Open Agentic Orchestrator，由谷歌发布并开源",
+          "在 Hacker News 上获得 137 分、53 条评论，讨论热度较高",
+          "定位为智能体编排工具，具体能力与适用场景待原文确认"
+        ],
+        "generatedAt": "2026-09-21T08:51:48+08:00"
+      }
+    },
+    {
       "id": "99dd97ee227e4305",
       "title": "I'm starting to think they pushed some update early this month which is blowing up my usage numbers",
       "url": "https://reddit.com/r/cursor/comments/1wkr3d8/im_starting_to_think_they_pushed_some_update",
@@ -840,6 +873,52 @@
         "算力"
       ],
       "confidence": 0.5,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d4cb729e35cde781",
+      "title": "120万美元的“数字领土”：全球科技巨头疯抢“.ai”域名",
+      "url": "https://tmtpost.com/8146342.html",
+      "summary": "AI时代的“圈地运动”。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-21T08:35:06+08:00",
+      "fetchedAt": "2026-09-21T08:51:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0e507c684cdf85ed",
+      "title": "用AI“复活”家人，似乎不是个好生意",
+      "url": "https://tmtpost.com/8146329.html",
+      "summary": "当公司倒闭，做好和亲人（的AI）再次告别的准备。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-21T08:19:54+08:00",
+      "fetchedAt": "2026-09-21T08:51:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 30,
       "related": [],
       "pushed": false
