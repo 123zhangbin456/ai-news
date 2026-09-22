@@ -5,6 +5,11 @@ on:
     paths-ignore: ['data/**']
   pull_request:
   workflow_dispatch:
+    inputs:
+      send_preview:
+        description: '向飞书发送新版卡片预览（新闻展开 + 源告警）'
+        type: boolean
+        default: false
 
 jobs:
   test:
@@ -17,3 +22,19 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm test
+
+  preview-cards:
+    if: ${{ github.event_name == 'workflow_dispatch' && inputs.send_preview }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+      - run: npm ci
+      - name: 发送飞书卡片预览
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
+        run: npm run test-push

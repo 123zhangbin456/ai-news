@@ -21,65 +21,135 @@ const esc = (s) => String(s ?? '').replace(/[[\]]/g, '');
 
 const headerColor = (score) => (score >= 80 ? 'red' : score >= 65 ? 'orange' : 'blue');
 
-/** 白天实时推送：优先展示中文解读，原文作补充 */
+const metaLine = (item) =>
+  `${item.source?.name ?? item.sourceName ?? ''} · ${displayTime(item.publishedAt || item.fetchedAt || new Date())} · 重要度 ${item.score}`;
+
+/** schema 2.0：打开链接的按钮 */
+function linkButton(label, url, type = 'primary') {
+  return {
+    tag: 'button',
+    text: { tag: 'plain_text', content: label },
+    type,
+    width: 'default',
+    size: 'medium',
+    behaviors: [{ type: 'open_url', default_url: url }],
+  };
+}
+
+/**
+ * 白天实时推送（卡片 JSON 2.0）：
+ * 首屏：中文标题 + 一句话结论
+ * 「展开」：要点、补充总结、原文标题
+ * 底部：阅读原文
+ */
 export function buildItemCard(item) {
   const icon = ICONS[item.category] ?? '📰';
   const interp = item.interpret;
-  const lines = [];
+  const elements = [];
 
   if (interp?.headline) {
-    lines.push(`**${esc(interp.headline)}**`);
-    if (interp.takeaway) lines.push('', esc(interp.takeaway));
+    elements.push({
+      tag: 'markdown',
+      content: `**${esc(interp.headline)}**`,
+    });
+    if (interp.takeaway) {
+      elements.push({
+        tag: 'markdown',
+        content: esc(interp.takeaway),
+      });
+    }
+
+    const foldLines = [];
     if (interp.bullets?.length) {
-      lines.push('', ...interp.bullets.map((b) => `· ${esc(b)}`));
+      foldLines.push(...interp.bullets.map((b) => `· ${esc(b)}`));
+    }
+    if (item.summary) {
+      if (foldLines.length) foldLines.push('');
+      foldLines.push(`**补充**\n${esc(item.summary).slice(0, 280)}`);
     }
     if (item.title && item.title !== interp.headline) {
-      lines.push('', `原文：${esc(item.title)}`);
+      if (foldLines.length) foldLines.push('');
+      foldLines.push(`原文标题：${esc(item.title)}`);
+    }
+
+    if (foldLines.length) {
+      elements.push({
+        tag: 'collapsible_panel',
+        expanded: false,
+        header: {
+          title: { tag: 'plain_text', content: '展开' },
+          vertical_align: 'center',
+          width: 'auto_when_fold',
+          icon: {
+            tag: 'standard_icon',
+            token: 'down-small-ccm_outlined',
+            size: '16px 16px',
+          },
+          icon_position: 'follow_text',
+          icon_expanded_angle: -180,
+        },
+        border: { color: 'grey', corner_radius: '6px' },
+        vertical_spacing: '8px',
+        padding: '8px 8px 8px 8px',
+        elements: [{ tag: 'markdown', content: foldLines.join('\n') }],
+      });
     }
   } else {
-    lines.push(`**${esc(item.title)}**`);
-    if (item.summary) lines.push('', esc(item.summary).slice(0, 180));
+    elements.push({ tag: 'markdown', content: `**${esc(item.title)}**` });
+    if (item.summary) {
+      elements.push({
+        tag: 'collapsible_panel',
+        expanded: false,
+        header: {
+          title: { tag: 'plain_text', content: '展开' },
+          vertical_align: 'center',
+          width: 'auto_when_fold',
+          icon: {
+            tag: 'standard_icon',
+            token: 'down-small-ccm_outlined',
+            size: '16px 16px',
+          },
+          icon_position: 'follow_text',
+          icon_expanded_angle: -180,
+        },
+        border: { color: 'grey', corner_radius: '6px' },
+        vertical_spacing: '8px',
+        padding: '8px 8px 8px 8px',
+        elements: [{ tag: 'markdown', content: esc(item.summary).slice(0, 400) }],
+      });
+    }
   }
-
-  const elements = [
-    { tag: 'div', text: { tag: 'lark_md', content: lines.join('\n') } },
-  ];
 
   if (item.related?.length) {
-    const also = item.related.slice(0, 3).map((r) => `· ${esc(r.source)}：[${esc(r.title)}](${r.url})`);
-    elements.push({ tag: 'div', text: { tag: 'lark_md', content: `**相关报道**\n${also.join('\n')}` } });
+    const also = item.related
+      .slice(0, 3)
+      .map((r) => `· ${esc(r.source)}：[${esc(r.title)}](${r.url})`)
+      .join('\n');
+    elements.push({ tag: 'markdown', content: `**相关报道**\n${also}` });
   }
 
-  elements.push(
-    {
-      tag: 'action',
-      actions: [
-        {
-          tag: 'button',
-          text: { tag: 'plain_text', content: '阅读原文' },
-          url: item.url,
-          type: 'primary',
-        },
-      ],
-    },
-    {
-      tag: 'note',
-      elements: [
-        {
-          tag: 'plain_text',
-          content: `${item.source?.name ?? item.sourceName ?? ''} · ${displayTime(item.publishedAt || item.fetchedAt || new Date())} · 重要度 ${item.score}`,
-        },
-      ],
-    }
-  );
+  if (item.url) {
+    elements.push(linkButton('阅读原文', item.url, 'primary'));
+  }
+
+  elements.push({
+    tag: 'markdown',
+    content: `<font color='grey'>${esc(metaLine(item))}</font>`,
+    text_size: 'notation',
+  });
 
   return {
-    config: { wide_screen_mode: true },
+    schema: '2.0',
+    config: { wide_screen_mode: true, update_multi: true },
     header: {
       template: headerColor(item.score),
       title: { tag: 'plain_text', content: `${icon} ${item.category}` },
     },
-    elements,
+    body: {
+      direction: 'vertical',
+      padding: '12px 12px 12px 12px',
+      elements,
+    },
   };
 }
 
@@ -185,20 +255,49 @@ export function buildDigestCard(items, { dateLabel, maxItems }) {
 
 /** 某个源连续多天抓不到时提醒一次，不是每次失败都吵 */
 export function buildHealthCard(broken) {
-  const lines = broken.map((b) => `· **${esc(b.name)}** — ${esc(b.error)}`);
+  const n = broken.length;
+  const byError = new Map();
+  for (const b of broken) {
+    const reason = b.error || '未知原因';
+    if (!byError.has(reason)) byError.set(reason, []);
+    byError.get(reason).push(b.name);
+  }
+
+  const blocks = [...byError.entries()].map(([reason, names]) => {
+    const list = names.map((name) => `· **${esc(name)}**`).join('\n');
+    return `${list}\n<font color='grey'>原因：${esc(reason)}</font>`;
+  });
+
   return {
     config: { wide_screen_mode: true },
     header: {
-      template: 'grey',
-      title: { tag: 'plain_text', content: '🔧 有新闻源需要检查' },
+      template: 'orange',
+      title: { tag: 'plain_text', content: `⚠️ ${n} 个新闻源异常` },
     },
     elements: [
       {
         tag: 'div',
         text: {
           tag: 'lark_md',
-          content: `以下源已连续多天抓取失败，可能已停止维护：\n${lines.join('\n')}\n\n在 \`pipeline/sources.json\` 里换个地址或把 enabled 改成 false 即可。`,
+          content: `以下源已连续多天抓取失败，建议尽快处理：\n\n${blocks.join('\n\n')}`,
         },
+      },
+      { tag: 'hr' },
+      {
+        tag: 'div',
+        text: {
+          tag: 'lark_md',
+          content: '**怎么处理**\n1. 打开 `pipeline/sources.json`\n2. 换可用的订阅地址，或把对应项的 `enabled` 设为 `false`',
+        },
+      },
+      {
+        tag: 'note',
+        elements: [
+          {
+            tag: 'plain_text',
+            content: '处理前网页与推送会暂时缺少这些源的内容',
+          },
+        ],
       },
     ],
   };
