@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "updatedAt": "2026-09-22T08:20:43+08:00",
+  "updatedAt": "2026-09-22T09:27:04+08:00",
   "items": [
     {
       "id": "438f5a3a8e833942",
@@ -2752,6 +2752,42 @@
         "generatedAt": "2026-09-21T15:17:13+08:00"
       },
       "pushedAt": "2026-09-22T06:23:10+08:00"
+    },
+    {
+      "id": "16bd9963506b8c2d",
+      "title": "全能 Go Agent 框架 covonaut v1.1.4 发布：新增工具滚动并行池、多模态读取等",
+      "url": "https://oschina.net/news/502653",
+      "summary": "covonaut 是一个面向生产环境的 Go 语言 Agent 框架，覆盖 Agent 主循环、工具调用、图编排与多协议互操作等，全部为纯 Go 实现，采用 MIT 协议。 v1.1.4 更新内容 1. 滚动工具执行池：并行与混合两档调度此前的并行执行是「一次性拉起全部调用再靠并发上限排队」，一个慢工具会长期占住槽位。本次改为单一滚动池调度：...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-21T23:25:24+08:00",
+      "fetchedAt": "2026-09-22T09:26:58+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "多模态"
+      ],
+      "confidence": 0.4,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Go Agent 框架 covonaut v1.1.4 发布：新增滚动工具并行池与多模态读取",
+        "takeaway": "纯 Go 生产级 Agent 框架 covonaut 更新，优化工具并行调度并支持多模态读取。",
+        "bullets": [
+          "covonaut 是 MIT 协议的纯 Go Agent 框架，覆盖主循环、工具调用与图编排",
+          "v1.1.4 将工具并行改为滚动池调度，避免慢工具长期占用并发槽位",
+          "新增多模态读取能力，并支持并行与混合两档调度模式"
+        ],
+        "generatedAt": "2026-09-22T09:27:04+08:00"
+      }
     },
     {
       "id": "9f4a4944e8d1bef2",
