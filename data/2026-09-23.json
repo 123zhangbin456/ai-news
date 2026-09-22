@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "updatedAt": "2026-09-23T05:44:42+08:00",
+  "updatedAt": "2026-09-23T07:54:07+08:00",
   "items": [
     {
       "id": "4a4a3fb466bb7164",
@@ -26,7 +26,7 @@
       "confidence": 0.8,
       "score": 71,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic 发布 Claude Opus 5.5，强化网络安全防护",
         "takeaway": "Anthropic 推出新模型 Claude Opus 5.5，针对近期 AI 失控黑客事件加强了安全防护。",
@@ -37,7 +37,8 @@
         ],
         "detail": "Anthropic 周二宣布推出 Claude Opus 5.5，在近期 AI 失控黑客事件后，为模型加入了更强的安全防护。官方称新版本针对若干高风险行为做了改进，以降低被滥用于网络攻击的可能。",
         "generatedAt": "2026-09-23T01:27:52+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "b31a42e189d6854f",
@@ -63,7 +64,7 @@
       "confidence": 0.8,
       "score": 69,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI 发布 GPT-6 Sol 与 Luna，成本更低、错误更少",
         "takeaway": "OpenAI 推出两款新模型 Sol 和 Luna，主打更低成本与更少错误，与 Astra 同源。",
@@ -74,7 +75,8 @@
         ],
         "detail": "OpenAI 正式推出 GPT-6 系列的两款新模型 Sol 和 Luna。官方表示，这两款模型与 Astra 同源，在降低使用成本的同时减少了错误率。目前具体性能参数和开放范围尚未披露。",
         "generatedAt": "2026-09-23T05:44:35+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "3d48e529ad7a20b1",
@@ -100,7 +102,7 @@
       "confidence": 1,
       "score": 66,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI 发布 GPT-6 Sol 与 Luna 双模型",
         "takeaway": "OpenAI 推出两款 GPT-6 新模型，以不同能力与成本组合覆盖日常办公场景。",
@@ -111,7 +113,46 @@
         ],
         "detail": "OpenAI 正式推出 GPT-6 Sol 与 Luna 两款模型，官方称它们把前沿智能带进日常工作，并在能力与成本之间提供不同取舍。目前公开信息仅限这一句介绍，具体参数、价格和上线时间尚未披露。",
         "generatedAt": "2026-09-23T05:44:35+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
+    },
+    {
+      "id": "4a34b417a0792355",
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+      "summary": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna . It's going to take a while to get a good read on a…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T07:46:41+08:00",
+      "fetchedAt": "2026-09-23T07:53:58+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT",
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 64,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Anthropic 与 OpenAI 同日发新模型，价格战再起",
+        "takeaway": "Claude Opus 5.5 与 GPT-6 Sol、GPT-6 Luna 同日发布，模型竞争白热化。",
+        "bullets": [
+          "Anthropic 发布 Claude Opus 5.5，约一小时后 OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna。",
+          "此前一天已有 Grok 4.7 和 MiMo v2.6 Flash/Pro 发布，模型更新节奏密集。",
+          "标题提到新价格战，暗示这轮发布可能伴随定价调整。"
+        ],
+        "detail": "昨天刚有 Grok 4.7 和 MiMo v2.6 Flash/Pro 亮相，今天 Anthropic 就发布了 Claude Opus 5.5，约一小时后 OpenAI 又推出 GPT-6 Sol 和 GPT-6 Luna。作者表示，要全面评估这些新模型还需要一段时间。",
+        "generatedAt": "2026-09-23T07:54:04+08:00"
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "f07639ae5e3d0a25",
@@ -136,7 +177,7 @@
       "confidence": 1,
       "score": 59,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic 发布 Opus 5.5：性能对标 Fable，价格下调",
         "takeaway": "Anthropic 推出新旗舰模型 Opus 5.5，性能号称史上最强，同时降价。",
@@ -147,7 +188,8 @@
         ],
         "detail": "Anthropic 发布了新一代旗舰模型 Opus 5.5，官方称其是“迄今测试过的最强性能模型”。该模型在性能上达到 Fable 级别，同时价格有所下调，意味着开发者能以更低成本获得顶级能力。",
         "generatedAt": "2026-09-23T01:27:52+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "f7a9a3b0af71cc65",
@@ -170,7 +212,7 @@
       "confidence": 0,
       "score": 55,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic 与 OpenAI 新模型同台：加量还降价",
         "takeaway": "前沿 AI 模型竞争进入比价阶段，两家新模型都主打性能略升、成本大降。",
@@ -181,7 +223,8 @@
         ],
         "detail": "Ars Technica 报道，Anthropic 和 OpenAI 的新模型做出相同承诺：性能只提升一点，但价格便宜很多。前沿 AI 模型竞赛已进入“货比三家”的阶段，性价比成为新焦点。",
         "generatedAt": "2026-09-23T05:44:35+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "b6b1e4118cdbb529",
@@ -206,7 +249,7 @@
       "confidence": 1,
       "score": 54,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI 为 GPT-6 升级提示缓存，提升命中率并降低成本",
         "takeaway": "GPT-6 的提示缓存能力增强，开发者可借此降低延迟和费用。",
@@ -217,7 +260,8 @@
         ],
         "detail": "OpenAI 宣布 GPT-6 改进了提示缓存功能。新版本提高了缓存命中率，并引入诊断工具、显式断点以及更多控制选项，帮助开发者减少延迟和成本。",
         "generatedAt": "2026-09-23T05:44:37+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "9071faa99f0cda7d",
@@ -243,7 +287,7 @@
       "confidence": 1,
       "score": 54,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "加拿大 BC 省起诉 OpenAI，要求为枪击案后新学校买单",
         "takeaway": "BC 省就校园枪击案起诉 OpenAI，要求其支付新学校费用并交出枪手 ChatGPT 记录。",
@@ -255,7 +299,48 @@
         ],
         "detail": "不列颠哥伦比亚省起诉 OpenAI，起因是 Tumbler Ridge 枪击案中枪手曾使用 ChatGPT。该省要求 OpenAI 支付新建学校的费用，并交出枪手相关的聊天记录。这起诉讼把 AI 平台的责任问题推到了法律前台。",
         "generatedAt": "2026-09-23T05:44:37+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
+    },
+    {
+      "id": "a7253ef8a73b0d82",
+      "title": "【钛晨报】事关轻工纺织产业发展，三部门最新部署；阿里试水千问平板，与字节押注不同的AI终端；“2026中国民营企业500强”发布",
+      "url": "https://tmtpost.com/8149326.html",
+      "summary": "速卖通上线潜力市场智能经营Agent，AI托管200多个国家地区；腾讯混元图像3.5预览版发布，腾讯云API定价0.15元/张；特斯拉宣布部分Model 3/Y车型将搭载其自研音响算法；英伟达支持的AI制药公司Iambic提交美国IPO申请；苹果新款Mac mini和Mac Studio今日上市；国家发改委：将加快推动《中华人民共和国卫星导航条例》出台实施；国家发改委发布36个项目，拟引入民间投资超150亿元；中国首部耕地保护专门立法明年施行，将在三方面下功夫；国家卫生健康委…",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T07:20:00+08:00",
+      "fetchedAt": "2026-09-23T07:53:58+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "投资",
+        "上市",
+        "IPO",
+        "亿元"
+      ],
+      "confidence": 0.6,
+      "score": 54,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "阿里试水千问平板，速卖通上线AI经营Agent",
+        "takeaway": "阿里在AI终端与跨境电商两条线同时加码，与字节的终端路线形成差异化竞争。",
+        "bullets": [
+          "阿里试水千问平板，与字节押注的AI终端路线不同",
+          "速卖通上线智能经营Agent，AI托管200多个国家地区",
+          "腾讯混元图像3.5预览版发布，API定价0.15元/张"
+        ],
+        "detail": "阿里一边试水搭载千问的平板，探索与字节不同的AI终端方向；一边让速卖通用AI Agent托管200多个国家和地区的经营。同日腾讯混元图像3.5预览版发布，API定价每张0.15元。",
+        "generatedAt": "2026-09-23T07:54:04+08:00"
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "55764e08c6695542",
@@ -280,7 +365,7 @@
       "confidence": 1,
       "score": 51,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "a16z 联手 Palantir、谷歌、Meta 创办「无作业」创业学院",
         "takeaway": "风投 a16z 推出面向年轻人的创业学院，合作方包括 Palantir、谷歌和 Meta，意在为硅谷输送创业人才。",
@@ -291,7 +376,8 @@
         ],
         "detail": "风投公司 Andreessen Horowitz（a16z）正在创办一所「学院」，目标是让年轻人有机会自己创业或加入硅谷初创公司。学院名为 Horowitz Andreessen Academy，首批有 10 家合作方，包括 Anduril、Palantir、谷歌和 Meta，并强调不布置作业。",
         "generatedAt": "2026-09-23T01:27:54+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "3a67f6fa3e511994",
@@ -317,7 +403,7 @@
       "confidence": 0.5,
       "score": 51,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "高通发布两款新手机芯片，主打端侧AI",
         "takeaway": "高通新旗舰芯片可本地运行300亿参数MoE模型，端侧AI能力再升级。",
@@ -328,7 +414,8 @@
         ],
         "detail": "高通发布了两款新的智能手机芯片，重点突出AI能力。其顶级芯片能在手机本地运行300亿参数的混合专家模型，这意味着更复杂的AI任务无需上传云端即可处理。",
         "generatedAt": "2026-09-23T05:44:37+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "2d421e0305549998",
@@ -353,7 +440,7 @@
       "confidence": 0,
       "score": 46,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Meta 承认 Muse 与 OpenClaw 相似并非巧合",
         "takeaway": "Meta 称 Muse 从零构建，但承认其 AI 助手深受 OpenClaw 启发，连工作区文件名和内容都相似。",
@@ -364,7 +451,8 @@
         ],
         "detail": "Meta 表示 Muse 是从零开始构建的，但承认这款 AI 助手“深受” OpenClaw 启发，甚至部分工作区文件名和内容都相似。这一表态证实了外界关于两者相似并非巧合的猜测。",
         "generatedAt": "2026-09-23T05:44:38+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "dfd20da099fcf7fa",
@@ -389,7 +477,7 @@
       "confidence": 1,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic 发布 Claude Opus 5.5，登顶 Hacker News 热榜",
         "takeaway": "Anthropic 推出新一代旗舰模型 Claude Opus 5.5，在开发者社区引发高热度讨论。",
@@ -401,7 +489,8 @@
         ],
         "detail": "Anthropic 上线了 Claude Opus 5.5，这是其旗舰 Opus 系列的新版本。消息发布后在 Hacker News 迅速升温，短时间内积累了两百多点赞和三百多条评论，说明开发者对新模型的能力和定位相当关注。",
         "generatedAt": "2026-09-23T01:27:58+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "454487bcfb68a922",
@@ -426,7 +515,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "特朗普称美国将AI正式更名为“超级智能”",
         "takeaway": "特朗普在联大演讲中宣称美国“正式”把人工智能改叫“超级智能”，但未说明具体政策依据。",
@@ -437,7 +526,8 @@
         ],
         "detail": "特朗普周二在联合国大会发表演讲，除抨击伊朗、全球主义者、气候变化和跨性别群体外，还声称美国现在“正式”把人工智能改名为“超级智能”。这一说法目前没有对应的官方政策或文件说明，更像演讲中的表态。",
         "generatedAt": "2026-09-23T01:28:02+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "bbd1dec964142bb2",
@@ -460,7 +550,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI 写脚本痕迹太明显？创作者被指一眼看穿",
         "takeaway": "网友吐槽用 AI 写 TikTok、YouTube 脚本极易被识破，套路化表达成明显破绽。",
@@ -472,7 +562,8 @@
         ],
         "detail": "有人吐槽说，用 AI 写 TikTok 和 YouTube 脚本其实特别容易被看出来。不只是那些常见的 AI 腔，比如“不是 X，而是 Y”、三段式排比，还有那种很怪、断断续续的节奏，都成了明显的破绽。",
         "generatedAt": "2026-09-23T05:44:38+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "2680b543c4bc1194",
@@ -497,7 +588,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Rabbit 推出云端 AI 代理，无需 R1 硬件即可使用",
         "takeaway": "曾因 R1 设备表现不佳的 Rabbit 转向软件，推出不依赖自家硬件的云端 AI 代理系统。",
@@ -508,7 +599,8 @@
         ],
         "detail": "Rabbit 曾是备受关注的 AI 硬件公司，但其 R1 设备口碑不佳。如今它推出独立的 AI 代理，运行在云端，不再绑定自家硬件。这意味着用户无需购买 R1 就能体验其 AI 服务，公司重心也从硬件转向软件。",
         "generatedAt": "2026-09-23T05:44:40+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "df5d53f03b14fbcf",
@@ -531,7 +623,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "微软捣毁AI辅助平台EvilTokens，1.2万账户遭入侵",
         "takeaway": "微软打击了一个利用AI大规模窃取账户的平台，凸显AI正被用于降低网络犯罪门槛。",
@@ -542,7 +634,8 @@
         ],
         "detail": "微软近日捣毁了一个名为EvilTokens的AI辅助平台，该平台为网络犯罪分子提供端到端工具，使大规模账户入侵变得更快、更简单。据Ars Technica报道，这一平台已导致约1.2万个账户被攻破。此次行动表明，AI技术正被滥用于降低网络攻击的门槛。",
         "generatedAt": "2026-09-23T05:44:40+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "4aebaf7d1988926e",
@@ -567,7 +660,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "苹果2.5亿美元Siri和解金开放申领，每台最高95美元",
         "takeaway": "苹果因Siri宣传误导用户达成2.5亿美元和解，符合条件的iPhone用户可在12月21日前申领最高95美元赔偿。",
@@ -578,7 +671,84 @@
         ],
         "detail": "苹果因Siri发布相关宣传被指误导消费者，同意支付2.5亿美元和解金。曾购买符合条件的iPhone且感到被误导的用户，每台设备最高可获95美元赔偿。申领通道已开放，截止日期为12月21日，需自行提交申请。",
         "generatedAt": "2026-09-23T05:44:40+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
+    },
+    {
+      "id": "04cb5c18383ab19c",
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T07:21:49+08:00",
+      "fetchedAt": "2026-09-23T07:53:58+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "founder"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "TechCrunch创始人峰会11月4日波士顿举行，议程聚焦融资、招聘与AI",
+        "takeaway": "TechCrunch公布创始人峰会议程，帮创业者少走弯路，AI是核心议题之一。",
+        "bullets": [
+          "峰会11月4日在波士顿举办，TechCrunch主办",
+          "议程围绕融资、招聘和AI三大主题展开",
+          "面向创业者，意在降低创业试错成本"
+        ],
+        "detail": "TechCrunch创始人峰会将于11月4日在波士顿举行，官方公布了活动议程。峰会聚焦融资、招聘和AI三大方向，目标是让创业者不必用最痛苦的方式去踩坑，把创业路上的难关变得更容易一些。",
+        "generatedAt": "2026-09-23T07:54:05+08:00"
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
+    },
+    {
+      "id": "e20ec45cd8a08a6c",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T05:56:43+08:00",
+      "fetchedAt": "2026-09-23T07:53:58+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raised",
+        "valuation",
+        "series"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Snorkel AI 估值翻三倍至 35 亿美元，完成 3.5 亿 E 轮融资",
+        "takeaway": "AI 训练数据需求爆发，Snorkel AI 估值一年内翻三倍，数据服务赛道持续升温。",
+        "bullets": [
+          "Snorkel AI 完成 3.5 亿美元 E 轮融资，估值达 35 亿美元",
+          "估值较上一轮翻三倍，反映 AI 训练数据需求旺盛",
+          "公司成立七年，主打数据即服务模式"
+        ],
+        "detail": "成立七年的 Snorkel AI 完成 3.5 亿美元 E 轮融资，估值升至 35 亿美元，较此前翻了三倍。这家公司提供数据即服务，帮助企业构建和标注 AI 训练数据。本轮融资显示，随着 AI 模型竞争加剧，高质量训练数据正成为关键资源。",
+        "generatedAt": "2026-09-23T07:54:05+08:00"
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "cdb477377ba30006",
@@ -603,7 +773,7 @@
       "confidence": 0,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Claude Opus 5.5 智能、性能与价格分析出炉",
         "takeaway": "Artificial Analysis 发布 Claude Opus 5.5 评测，从智能、性能到定价全面对比，引发 Hacker News 热议。",
@@ -614,7 +784,8 @@
         ],
         "detail": "评测机构 Artificial Analysis 发布了 Claude Opus 5.5 的分析页面，从智能表现、性能到定价做横向对比。该话题在 Hacker News 上获得 182 分并引发 51 条讨论，说明社区对新模型的性价比格外关注。",
         "generatedAt": "2026-09-23T05:44:41+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "18b55a6130864676",
@@ -639,7 +810,8 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "594604d160e90aa7",
@@ -664,7 +836,7 @@
       "confidence": 0.5,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Qwen Image 2.1 快速 FP8 版发布，画质惊艳",
         "takeaway": "不到 10GB 的模型能出高质量图像，本地部署门槛进一步降低。",
@@ -675,7 +847,8 @@
         ],
         "detail": "有用户在 LocalLLaMA 分享，Qwen Image 2.1 的 Fast FP8 版本画质出奇地好，而模型体积不到 10GB。他是在 Unsloth Studio 上运行的，并提醒大家更新软件才能看到这个选项。",
         "generatedAt": "2026-09-23T05:44:41+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "7536e8722434a2ee",
@@ -701,7 +874,7 @@
       "confidence": 0,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Opus 5.5 跑分 58，开源模型何时追上？",
         "takeaway": "闭源模型 Opus 5.5 在 Artificial Analysis 上得分 58，比最强开源模型高出 12 分，引发追赶时间讨论。",
@@ -712,7 +885,8 @@
         ],
         "detail": "Opus 5.5 在 Artificial Analysis 上拿到 58 分，比目前最好的开源模型 mimo 2.6 pro 高出 12 分，也比 fable 5.1 进步明显。有人讨论，如果开源模型保持两个月一迭代的速度，glm 5.5 和 qwen 4 或许能追平甚至超过得分 48 的 gpt 6 sol。",
         "generatedAt": "2026-09-23T05:44:42+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "44ea0ed4cdb2ba11",
@@ -737,7 +911,7 @@
       "confidence": 0.5,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "llama.cpp 提交 Gemma 26B A4B 闪存注意力性能调优 PR",
         "takeaway": "开发者向 llama.cpp 提交补丁，针对 Gemma 26B A4B 的 flash attention 形状做性能调优，有望提升本地推理速度。",
@@ -748,7 +922,8 @@
         ],
         "detail": "有人在 llama.cpp 仓库提交了 PR #28450，专门针对 Gemma 26B A4B 模型的 flash attention 形状做性能调优。该改动若被合并，可能让这个模型在本地推理时跑得更快。",
         "generatedAt": "2026-09-23T05:44:42+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "ddf3f0a3dcfe0fbd",
@@ -771,7 +946,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "不受控的 Agent，凭什么上生产系统？",
         "takeaway": "InfoQ 中国发文追问：缺乏可控性的 AI Agent 如何满足生产环境的可靠性要求。",
@@ -782,7 +957,8 @@
         ],
         "detail": "InfoQ 中国发布文章，标题直接抛出疑问：不受控的 Agent 凭什么上生产系统。文章聚焦 AI Agent 在企业生产环境落地时面临的可控性挑战，探讨缺乏有效约束的智能体是否具备进入正式业务系统的资格。",
         "generatedAt": "2026-09-22T20:42:21+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "afad86c6135ad203",
@@ -805,7 +981,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Jotai 3.0 发布：仅支持 ESM，移除旧构建与废弃 API",
         "takeaway": "Jotai 3.0 全面转向 ESM，清理旧构建和废弃 API，推动现代前端生态。",
@@ -816,7 +992,8 @@
         ],
         "detail": "Jotai 3.0 正式发布，新版本只提供 ESM 格式的包，不再兼容 CommonJS，同时移除了旧的构建方式和已弃用的 API。这意味着项目若升级到 3.0，需要确保构建工具支持 ESM，并检查是否使用了被移除的 API。",
         "generatedAt": "2026-09-22T20:42:22+08:00"
-      }
+      },
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "266382207085a468",
@@ -841,7 +1018,8 @@
       "confidence": 0.5,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "9b32d7f4c840c377",
@@ -866,7 +1044,34 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-09-23T07:54:07+08:00"
+    },
+    {
+      "id": "dc01d779f1a80567",
+      "title": "My local llm when I tell it to do any changes to my vLLM service",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wnn6ui/my_local_llm_when_i_tell_it_to_do_any_changes_to",
+      "summary": "better make no mistakes I've been running Qwen 3.8 Flash Next and it's a great driver for Hermes and Pi. I told it to add CUDA_DISABLE_PERF_BOOST=1 to reduce my server's idle power draw submitted by /u/ZaltyDog [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T05:51:36+08:00",
+      "fetchedAt": "2026-09-23T07:53:58+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "9818017ccdae8d26",
@@ -889,7 +1094,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "e2edaaa3fe727379",
@@ -912,7 +1118,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "0c1f08af0fbd39bb",
@@ -937,7 +1144,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
       "id": "2f2b268cae134045",
@@ -960,7 +1168,32 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-09-23T07:54:07+08:00"
+    },
+    {
+      "id": "784c43a264526c6d",
+      "title": "M5 ultra AI test results",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wnmu2l/m5_ultra_ai_test_results",
+      "summary": "So we have the results: - Prompt processing is up to 4 / 4.5 times faster than M3 ultra depending on how long the context is - tok/s is around 1.5x faster. But: the machine uses twice the power (400w vs 200w), makes more fan noise, and runs…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T05:37:18+08:00",
+      "fetchedAt": "2026-09-23T07:53:58+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-09-23T07:54:07+08:00"
     }
   ],
   "topic": "ai"
