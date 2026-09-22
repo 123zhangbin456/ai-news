@@ -9,9 +9,11 @@ export const SYSTEM_AI = `你是一名资深科技编辑，面向中文读者解
 {
   "headline": "中文标题，简洁有信息量，不超过 40 字",
   "takeaway": "一句话结论：这是什么事、为什么值得看，不超过 60 字",
-  "bullets": ["要点1", "要点2", "要点3"]
+  "bullets": ["要点1", "要点2", "要点3"],
+  "detail": "中文补充说明，把原文摘要改写成 2～3 句白话，不超过 120 字"
 }
 bullets 2～4 条，每条不超过 40 字，说清发生了什么、和谁有关、可能影响。
+detail 必须用中文；原文是英文时要翻译改写，不要照抄英文。
 若原文已是中文，headline 可微调润色，不要生硬直译。`;
 
 export const SYSTEM_MILITARY = `你是一名资深军事观察编辑，面向中文读者解读国内外军事与防务新闻。
@@ -20,9 +22,11 @@ export const SYSTEM_MILITARY = `你是一名资深军事观察编辑，面向中
 {
   "headline": "中文标题，简洁有信息量，不超过 40 字",
   "takeaway": "一句话结论：这是什么事、涉及谁、为何值得关注，不超过 60 字",
-  "bullets": ["要点1", "要点2", "要点3"]
+  "bullets": ["要点1", "要点2", "要点3"],
+  "detail": "中文补充说明，把原文摘要改写成 2～3 句白话，不超过 120 字"
 }
 bullets 2～4 条，每条不超过 40 字，说清发生了什么、相关方、可能影响。
+detail 必须用中文；原文是英文时要翻译改写，不要照抄英文。
 若原文已是中文，headline 可微调润色，不要生硬直译。`;
 
 const SYSTEM = SYSTEM_AI;
@@ -52,8 +56,15 @@ function normalizeInterpret(data) {
     .map((b) => String(b).trim())
     .filter(Boolean)
     .slice(0, 4);
+  const detail = String(data.detail ?? '').trim().slice(0, 160);
   if (!headline || !takeaway) throw new Error('解读字段不完整');
-  return { headline, takeaway, bullets, generatedAt: isoBeijing() };
+  return {
+    headline,
+    takeaway,
+    bullets,
+    ...(detail ? { detail } : {}),
+    generatedAt: isoBeijing(),
+  };
 }
 
 async function callDeepSeek(item, apiKey, timeoutMs, systemPrompt = SYSTEM) {
@@ -70,7 +81,7 @@ async function callDeepSeek(item, apiKey, timeoutMs, systemPrompt = SYSTEM) {
       body: JSON.stringify({
         model: MODEL,
         temperature: 0.3,
-        max_tokens: 500,
+        max_tokens: 700,
         messages: [
           { role: 'system', content: systemPrompt },
           {

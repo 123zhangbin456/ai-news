@@ -1,5 +1,6 @@
 import { createHmac } from 'node:crypto';
 import { displayTime, sleep, log } from './util.js';
+import { mostlyChinese } from './interpret.js';
 
 /* ---------- 飞书签名（机器人开启"签名校验"时才需要） ---------- */
 
@@ -64,9 +65,12 @@ export function buildItemCard(item) {
     if (interp.bullets?.length) {
       foldLines.push(...interp.bullets.map((b) => `· ${esc(b)}`));
     }
-    if (item.summary) {
+    // 补充只用中文：优先解读生成的 detail，其次原文已是中文的摘要；绝不贴英文原文
+    const supplement = interp.detail
+      || (item.summary && mostlyChinese(item.summary) ? item.summary.slice(0, 280) : '');
+    if (supplement) {
       if (foldLines.length) foldLines.push('');
-      foldLines.push(`**补充**\n${esc(item.summary).slice(0, 280)}`);
+      foldLines.push(`**补充**\n${esc(supplement)}`);
     }
     if (item.title && item.title !== interp.headline) {
       if (foldLines.length) foldLines.push('');

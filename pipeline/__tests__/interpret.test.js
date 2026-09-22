@@ -21,6 +21,7 @@ test('飞书卡片优先展示中文解读，要点收入展开区', () => {
       headline: 'Claude 推出文档与幻灯片能力',
       takeaway: 'Anthropic 用 Docs/Slides 对标 Gemini 办公场景。',
       bullets: ['面向办公文档创作', '与 Gemini 形成直接竞争'],
+      detail: 'Anthropic 为 Claude 增加文档与幻灯片能力，对标 Gemini 办公场景。',
     },
   });
 
@@ -30,6 +31,8 @@ test('飞书卡片优先展示中文解读，要点收入展开区', () => {
   assert.match(body, /对标 Gemini/);
   assert.match(body, /原文标题：Claude comes for Gemini/);
   assert.match(body, /补充/);
+  assert.match(body, /Anthropic 为 Claude/);
+  assert.doesNotMatch(body, /Claude is getting Docs/);
 
   const fold = card.body.elements.find((e) => e.tag === 'collapsible_panel');
   assert.ok(fold);
@@ -39,6 +42,27 @@ test('飞书卡片优先展示中文解读，要点收入展开区', () => {
   const readBtn = card.body.elements.find((e) => e.tag === 'button');
   assert.equal(readBtn?.text?.content, '阅读原文');
   assert.equal(readBtn?.behaviors?.[0]?.default_url, 'https://example.com/x');
+});
+
+test('有解读时不把英文摘要塞进补充', () => {
+  const card = buildItemCard({
+    title: 'FQ-42 delivered',
+    summary: 'Creech Air Force Base received a new FQ-42 Vengeance aircraft on Friday.',
+    category: '装备动态',
+    score: 50,
+    publishedAt: '2026-09-22T12:00:00+08:00',
+    url: 'https://example.com/m',
+    source: { name: 'Defense News' },
+    interpret: {
+      headline: '通用原子向美空军交付 FQ-42',
+      takeaway: '无人机交付克里奇基地继续测试。',
+      bullets: ['周五交付一架 FQ-42', '用于测试评估'],
+    },
+  });
+  const fold = card.body.elements.find((e) => e.tag === 'collapsible_panel');
+  const content = fold.elements[0].content;
+  assert.doesNotMatch(content, /Creech Air Force Base/);
+  assert.doesNotMatch(content, /\*\*补充\*\*/);
 });
 
 test('健康告警卡按原因分组并给出处理步骤', async () => {
