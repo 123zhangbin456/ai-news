@@ -83,11 +83,12 @@
   const scoreClass = (n) => (n >= 80 ? 'score hot' : n >= 65 ? 'score warm' : 'score');
 
   const topicMeta = () => state.catalog?.topics?.[state.topicId] ?? null;
+  const isPolicyTopic = () => topicMeta()?.channel === 'policy' || state.topicId === 'migrant';
 
-  /** AI 数据在 /data/日期.json；政策在 /data/policy/migrant/日期.json */
+  /** AI 在 /data/日期.json；其他主题在 /data/<domain>/<topic>/日期.json */
   function dayDataUrl(dateKey) {
     if (state.topicId === 'ai') return `${DATA}/${dateKey}.json`;
-    const domain = state.domainId || 'policy';
+    const domain = topicMeta()?.domainId || state.domainId || 'policy';
     return `${DATA}/${domain}/${state.topicId}/${dateKey}.json`;
   }
 
@@ -118,10 +119,9 @@
       )
       .join('');
 
-    el.legal.textContent =
-      state.topicId === 'migrant'
-        ? '本栏目仅索引政府网站公开信息，点击后跳转官网原文；不提供政策解读，也不转载正文。'
-        : '';
+    el.legal.textContent = isPolicyTopic()
+      ? '本栏目仅索引政府网站公开信息，点击后跳转官网原文；不提供政策解读，也不转载正文。'
+      : '';
   }
 
   function renderTabs() {
@@ -147,7 +147,7 @@
   }
 
   function renderList() {
-    const isPolicy = state.topicId === 'migrant';
+    const isPolicy = isPolicyTopic();
     const items = (state.day?.items ?? []).filter(
       (i) => state.category === '全部' || i.category === state.category
     );

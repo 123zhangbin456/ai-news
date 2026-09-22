@@ -1,0 +1,128 @@
+{
+  "_说明": {
+    "改法": "分错类了？找到对应分类加减关键词。改完 npm run military:dry 立刻看效果。",
+    "zh": "中文关键词按子串匹配",
+    "en": "英文关键词按单词边界匹配，不区分大小写"
+  },
+
+  "topicFilter": {
+    "_说明": "只对 type=general 的综合源生效",
+    "zh": [
+      "军事", "军方", "国防", "军工", "解放军", "台海", "航母", "战机", "导弹",
+      "军演", "演习", "海军", "陆军", "空军", "火箭军", "武警", "防务", "军备",
+      "核武器", "无人机", "战舰", "驱逐舰", "护卫舰", "战斗机", "轰炸机",
+      "北约", "俄乌", "中东", "以军", "哈马斯", "国防部", "征兵", "退役军人"
+    ],
+    "en": [
+      "military", "defense", "defence", "army", "navy", "air force", "marines",
+      "missile", "warship", "aircraft carrier", "fighter jet", "drone", "UAV",
+      "NATO", "Pentagon", "PLA", "Taiwan Strait", "Ukraine", "Russia", "Hamas",
+      "Israel", "Iran", "North Korea", "war", "conflict", "troops", "soldiers",
+      "weapons", "artillery", "submarine", "bomber", "exercise", "drill"
+    ]
+  },
+
+  "categories": [
+    {
+      "name": "装备动态",
+      "icon": "🚀",
+      "desc": "武器装备研发、列装、采购与技术进展",
+      "zh": {
+        "装备": 4, "导弹": 4, "战机": 4, "航母": 5, "战舰": 4, "驱逐舰": 4,
+        "核潜艇": 5, "无人机": 4, "列装": 4, "试射": 4, "采购": 3, "军工": 3,
+        "隐身": 3, "雷达": 3, "防空": 3
+      },
+      "en": {
+        "missile": 4, "fighter": 4, "warship": 4, "carrier": 5, "submarine": 5,
+        "drone": 4, "UAV": 4, "procurement": 4, "weapon": 3, "radar": 3,
+        "stealth": 3, "hypersonic": 5, "artillery": 3, "tank": 3
+      }
+    },
+    {
+      "name": "台海周边",
+      "icon": "🌊",
+      "desc": "台海、东海、南海及相关周边动态",
+      "zh": {
+        "台海": 6, "台湾": 4, "海峡": 3, "南海": 5, "东海": 4, "钓鱼岛": 5,
+        "解放军": 3, "围岛": 5, "巡航": 3, "海警": 4
+      },
+      "en": {
+        "Taiwan": 5, "Taiwan Strait": 6, "South China Sea": 5, "East China Sea": 4,
+        "PLA": 3, "coast guard": 3, "Senkaku": 4, "Diaoyu": 4
+      }
+    },
+    {
+      "name": "国际冲突",
+      "icon": "⚔️",
+      "desc": "战争、武装冲突、热点战场",
+      "zh": {
+        "冲突": 4, "战争": 4, "开战": 5, "空袭": 5, "交火": 5, "伤亡": 3,
+        "俄乌": 5, "乌克兰": 4, "以色列": 4, "加沙": 5, "哈马斯": 5, "中东": 3,
+        "朝鲜": 4, "袭击": 3
+      },
+      "en": {
+        "war": 4, "conflict": 4, "airstrike": 5, "invasion": 5, "Ukraine": 5,
+        "Russia": 3, "Gaza": 5, "Hamas": 5, "Israel": 3, "Iran": 3,
+        "North Korea": 4, "casualties": 3, "offensive": 4
+      }
+    },
+    {
+      "name": "防务合作",
+      "icon": "🤝",
+      "desc": "同盟、军售、联合声明与外交防务",
+      "zh": {
+        "军售": 5, "同盟": 4, "北约": 5, "联合军演": 4, "防长": 4, "国防部长": 4,
+        "访问": 2, "协议": 3, "合作": 2, "援助": 3, "制裁": 3
+      },
+      "en": {
+        "NATO": 5, "alliance": 4, "arms sale": 5, "AUKUS": 5, "QUAD": 4,
+        "defense minister": 4, "pact": 3, "sanction": 3, "aid": 3, "summit": 2
+      }
+    },
+    {
+      "name": "演习演训",
+      "icon": "🎯",
+      "desc": "军演、训练、战备与兵力调动",
+      "zh": {
+        "军演": 6, "演习": 5, "演训": 5, "训练": 3, "战备": 4, "实弹": 4,
+        "机动": 3, "集结": 3, "部署": 3
+      },
+      "en": {
+        "exercise": 5, "drill": 5, "maneuver": 4, "training": 3, "deployment": 4,
+        "readiness": 3, "live-fire": 5
+      }
+    }
+  ],
+
+  "entityWords": {
+    "_说明": "主角权重，只影响打分",
+    "zh": {
+      "解放军": 8, "中央军委": 8, "国防部": 7, "台军": 6, "美军": 7,
+      "俄军": 6, "以军": 6, "北约": 7, "日本自卫队": 5, "韩军": 4
+    },
+    "en": {
+      "Pentagon": 8, "PLA": 8, "NATO": 7, "US Navy": 6, "US Army": 6,
+      "Air Force": 5, "Marines": 5, "IDF": 6, "Hamas": 6, "Ukraine": 5,
+      "Russia": 5, "China": 4, "Taiwan": 5, "Iran": 5, "North Korea": 6
+    }
+  },
+
+  "signalWords": {
+    "_说明": "高信号词，只影响重要度",
+    "zh": {
+      "开战": 9, "宣战": 9, "核打击": 10, "试射": 8, "击落": 8, "击沉": 9,
+      "突袭": 8, "大规模": 6, "重磅": 5, "首次": 6, "正式": 4
+    },
+    "en": {
+      "invasion": 9, "airstrike": 8, "nuclear": 9, "launches": 6,
+      "shoots down": 8, "sinks": 9, "breakthrough": 6, "first": 5,
+      "escalation": 7, "ceasefire": 6
+    }
+  },
+
+  "paperBoost": {
+    "institutions": {},
+    "hasCodeLink": 0,
+    "hotTopics": {}
+  }
+}

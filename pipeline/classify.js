@@ -30,20 +30,23 @@ const hitEn = (text, word) => enRegex(word).test(text);
 export function passesAiFilter(item, rules) {
   if (item.source?.type !== 'general') return true;
 
+  const filter = rules.topicFilter ?? rules.aiFilter;
+  if (!filter?.zh || !filter?.en) return true;
+
   const title = item.title ?? '';
   const summary = item.summary ?? '';
   const titleLower = title.toLowerCase();
   const summaryLower = summary.toLowerCase();
 
   const inTitle =
-    rules.aiFilter.zh.some((w) => hitZh(title, w)) ||
-    rules.aiFilter.en.some((w) => hitEn(titleLower, w));
+    filter.zh.some((w) => hitZh(title, w)) ||
+    filter.en.some((w) => hitEn(titleLower, w));
   if (inTitle) return true;
 
-  // 按词去重再计数："AI" 同时出现在中英文两份清单里，不去重会让单个词凑够两票
+  // 按词去重再计数：同一词出现在中英文两份清单里，不去重会让单个词凑够两票
   const matched = new Set();
-  for (const w of rules.aiFilter.zh) if (hitZh(summary, w)) matched.add(w.toLowerCase());
-  for (const w of rules.aiFilter.en) if (hitEn(summaryLower, w)) matched.add(w.toLowerCase());
+  for (const w of filter.zh) if (hitZh(summary, w)) matched.add(w.toLowerCase());
+  for (const w of filter.en) if (hitEn(summaryLower, w)) matched.add(w.toLowerCase());
   return matched.size >= 2;
 }
 
@@ -58,8 +61,10 @@ export function classify(item, rules) {
     return { category: '研究论文', keywords: ['arXiv'], confidence: 1 };
   }
 
+  const hasCursor = rules.categories.some((c) => c.name === 'Cursor');
+
   // Cursor 专属源（Changelog / 公告 / Reddit）一律进「Cursor」类，不跟其他关键词抢
-  if (item.source?.type === 'cursor') {
+  if (hasCursor && item.source?.type === 'cursor') {
     return { category: 'Cursor', keywords: ['Cursor'], confidence: 1 };
   }
 
@@ -68,14 +73,16 @@ export function classify(item, rules) {
   const titleLower = title.toLowerCase();
   const summaryLower = summary.toLowerCase();
 
-  // 其他源里明确提到 Cursor IDE / cursor.com 的，优先归到 Cursor
-  const cursorHint =
-    hitEn(titleLower, 'cursor ide') ||
-    hitEn(titleLower, 'cursor.com') ||
-    hitEn(titleLower, 'anysphere') ||
-    hitZh(title, 'Cursor');
-  if (cursorHint) {
-    return { category: 'Cursor', keywords: ['Cursor'], confidence: 0.9 };
+  // 其他源里明确提到 Cursor IDE / cursor.com 的，优先归到 Cursor（仅 AI 主题）
+  if (hasCursor) {
+    const cursorHint =
+      hitEn(titleLower, 'cursor ide') ||
+      hitEn(titleLower, 'cursor.com') ||
+      hitEn(titleLower, 'anysphere') ||
+      hitZh(title, 'Cursor');
+    if (cursorHint) {
+      return { category: 'Cursor', keywords: ['Cursor'], confidence: 0.9 };
+    }
   }
 
   let best = null;

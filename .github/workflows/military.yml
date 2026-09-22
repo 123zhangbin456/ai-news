@@ -1,12 +1,21 @@
-name: 政策索引（农民工）
+name: 军事新闻流水线
 
-# 稳妥低频：每天北京时间 09:00 / 18:00 各一次。
-# 只读中国政府网官方 RSS + 关键词过滤，不抓正文、不解读。
+# 与 AI 共用并发组，避免同时改 data/ 冲突。
+# 时段略错开：整点偏后 10 分钟，减少撞车。
 on:
   schedule:
-    - cron: '0 1 * * *'   # 北京 09:00
-    - cron: '0 10 * * *'  # 北京 18:00
+    - cron: '10 22 * * *'            # 北京 06:10  晨报窗口
+    - cron: '40 22 * * *'            # 北京 06:40
+    - cron: '10,40 23 * * *'         # 北京 07:10 / 07:40
+    - cron: '10,40 0-12 * * *'       # 北京 08:10 – 20:40
+    - cron: '10 13,15,17,19,21 * * *'
   workflow_dispatch:
+    inputs:
+      mode:
+        description: 运行模式
+        type: choice
+        default: auto
+        options: [auto, daytime, night, morning]
 
 permissions:
   contents: write
@@ -28,11 +37,12 @@ jobs:
           cache: npm
       - run: npm ci
 
-      - name: 抓取公开政策索引并推送
+      - name: 抓取、分类、推送（军事）
         env:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
           FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
-        run: node pipeline/run-policy.js
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: node pipeline/run.js --topic=military --mode=${{ inputs.mode || 'auto' }}
 
       - name: 提交数据变更
         run: |
@@ -43,7 +53,7 @@ jobs:
             echo '本轮无数据变化，跳过提交'
             exit 0
           fi
-          git commit -m "data(policy): $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git commit -m "data(military): $(date -u '+%Y-%m-%d %H:%M UTC')"
           for i in 1 2 3; do
             if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push; then
               exit 0

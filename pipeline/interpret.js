@@ -3,7 +3,7 @@ import { isoBeijing, log, sleep, mapLimit } from './util.js';
 const API_URL = 'https://api.deepseek.com/chat/completions';
 const MODEL = 'deepseek-chat';
 
-const SYSTEM = `你是一名资深科技编辑，面向中文读者解读 AI / Cursor 相关新闻。
+export const SYSTEM_AI = `你是一名资深科技编辑，面向中文读者解读 AI / Cursor 相关新闻。
 根据给定的标题和摘要写解读，不要编造标题里没有的事实。
 只输出一个 JSON 对象，不要 markdown，不要代码块，字段如下：
 {
@@ -13,6 +13,19 @@ const SYSTEM = `你是一名资深科技编辑，面向中文读者解读 AI / C
 }
 bullets 2～4 条，每条不超过 40 字，说清发生了什么、和谁有关、可能影响。
 若原文已是中文，headline 可微调润色，不要生硬直译。`;
+
+export const SYSTEM_MILITARY = `你是一名资深军事观察编辑，面向中文读者解读国内外军事与防务新闻。
+根据给定的标题和摘要写解读，不要编造标题里没有的事实，不要渲染仇恨或煽动对立。
+只输出一个 JSON 对象，不要 markdown，不要代码块，字段如下：
+{
+  "headline": "中文标题，简洁有信息量，不超过 40 字",
+  "takeaway": "一句话结论：这是什么事、涉及谁、为何值得关注，不超过 60 字",
+  "bullets": ["要点1", "要点2", "要点3"]
+}
+bullets 2～4 条，每条不超过 40 字，说清发生了什么、相关方、可能影响。
+若原文已是中文，headline 可微调润色，不要生硬直译。`;
+
+const SYSTEM = SYSTEM_AI;
 
 /** 标题里中文字符占比高，视为中文内容（仍可做解读润色） */
 export function mostlyChinese(text) {
@@ -43,7 +56,7 @@ function normalizeInterpret(data) {
   return { headline, takeaway, bullets, generatedAt: isoBeijing() };
 }
 
-async function callDeepSeek(item, apiKey, timeoutMs) {
+async function callDeepSeek(item, apiKey, timeoutMs, systemPrompt = SYSTEM) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), timeoutMs);
   try {
@@ -59,7 +72,7 @@ async function callDeepSeek(item, apiKey, timeoutMs) {
         temperature: 0.3,
         max_tokens: 500,
         messages: [
-          { role: 'system', content: SYSTEM },
+          { role: 'system', content: systemPrompt },
           {
             role: 'user',
             content: [
@@ -101,6 +114,7 @@ export async function interpretItems(items, config = {}) {
   const maxPerRun = config.maxInterpretPerRun ?? 25;
   const concurrency = config.interpretConcurrency ?? 3;
   const timeoutMs = config.interpretTimeoutMs ?? 25000;
+  const systemPrompt = config.interpretSystem ?? SYSTEM;
 
   const need = items
     .filter((i) => !i.interpret?.headline)
@@ -117,7 +131,7 @@ export async function interpretItems(items, config = {}) {
 
   await mapLimit(need, concurrency, async (item) => {
     try {
-      const interpret = await callDeepSeek(item, apiKey, timeoutMs);
+      const interpret = await callDeepSeek(item, apiKey, timeoutMs, systemPrompt);
       byId.set(item.id, { ...byId.get(item.id), interpret });
       ok++;
       log.ok(`解读 ${item.title.slice(0, 40)}`);

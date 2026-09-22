@@ -14,6 +14,7 @@ const ICONS = {
   Cursor: '⌨️', 模型发布: '🚀', 研究论文: '📄', 产品应用: '📱', 融资并购: '💰',
   算力芯片: '🔌', 政策监管: '⚖️', 开源工具: '🛠', 行业观点: '💬', 其他: '📰',
   政策公开: '📜',
+  装备动态: '🚀', 台海周边: '🌊', 国际冲突: '⚔️', 防务合作: '🤝', 演习演训: '🎯',
 };
 
 // 飞书卡片里 [] 会破坏 markdown 链接语法
@@ -199,7 +200,7 @@ export function buildPolicyCard(item) {
 }
 
 /** 早上 6 点的晨报：整夜内容按分类汇总成一张长卡片 */
-export function buildDigestCard(items, { dateLabel, maxItems }) {
+export function buildDigestCard(items, { dateLabel, maxItems, title }) {
   const shown = items.slice(0, maxItems);
 
   const groups = new Map();
@@ -215,9 +216,9 @@ export function buildDigestCard(items, { dateLabel, maxItems }) {
     const icon = ICONS[category] ?? '📰';
     const lines = group.map((item) => {
       const flag = item.score >= 80 ? ' 🔥' : '';
-      const title = item.interpret?.headline || item.title;
+      const headline = item.interpret?.headline || item.title;
       const tip = item.interpret?.takeaway ? `\n  ${esc(item.interpret.takeaway)}` : '';
-      return `· [${esc(title)}](${item.url})${flag}${tip}\n  ${esc(item.source?.name ?? item.sourceName ?? '')}`;
+      return `· [${esc(headline)}](${item.url})${flag}${tip}\n  ${esc(item.source?.name ?? item.sourceName ?? '')}`;
     });
     elements.push({
       tag: 'div',
@@ -247,7 +248,7 @@ export function buildDigestCard(items, { dateLabel, maxItems }) {
     config: { wide_screen_mode: true },
     header: {
       template: 'wathet',
-      title: { tag: 'plain_text', content: `☀️ AI 晨报 · ${dateLabel}` },
+      title: { tag: 'plain_text', content: `☀️ ${title ?? 'AI 晨报'} · ${dateLabel}` },
     },
     elements,
   };

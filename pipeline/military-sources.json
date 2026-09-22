@@ -1,0 +1,141 @@
+{
+  "_说明": {
+    "type": "topic = 军事专属源，全量收录；general = 综合源，必须命中军事关键词才收录",
+    "weight": "来源权重 1-5。5=官方/一线防务媒体，4=主流国际媒体，3=综合门户",
+    "enabled": "设为 false 即停用"
+  },
+  "sources": [
+    {
+      "id": "defensenews",
+      "name": "Defense News",
+      "url": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml",
+      "type": "topic",
+      "weight": 5,
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "id": "breaking-defense",
+      "name": "Breaking Defense",
+      "url": "https://breakingdefense.com/feed/",
+      "type": "topic",
+      "weight": 5,
+      "lang": "en",
+      "enabled": false,
+      "note": "网络不稳定时关闭"
+    },
+    {
+      "id": "thewarzone",
+      "name": "The War Zone",
+      "url": "https://www.twz.com/feed",
+      "type": "topic",
+      "weight": 4,
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "id": "naval-news",
+      "name": "Naval News",
+      "url": "https://www.navalnews.com/feed/",
+      "type": "topic",
+      "weight": 4,
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "id": "defense-one",
+      "name": "Defense One",
+      "url": "https://www.defenseone.com/rss/all/",
+      "type": "topic",
+      "weight": 4,
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "id": "janes",
+      "name": "Janes",
+      "url": "https://www.janes.com/feeds/news",
+      "type": "topic",
+      "weight": 5,
+      "lang": "en",
+      "enabled": false,
+      "note": "RSS 常不可达"
+    },
+    {
+      "id": "bbc-world",
+      "name": "BBC World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "type": "general",
+      "weight": 4,
+      "lang": "en",
+      "enabled": false,
+      "note": "Actions 出网常失败，可本地再开"
+    },
+    {
+      "id": "aljazeera",
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "type": "general",
+      "weight": 3,
+      "lang": "en",
+      "enabled": false
+    },
+    {
+      "id": "scmp",
+      "name": "South China Morning Post",
+      "url": "https://www.scmp.com/rss/91/feed",
+      "type": "general",
+      "weight": 4,
+      "lang": "en",
+      "enabled": false
+    },
+    {
+      "id": "huanqiu-mil",
+      "name": "环球网军事",
+      "url": "https://rss.huanqiu.com/rss/mil.xml",
+      "type": "topic",
+      "weight": 3,
+      "lang": "zh",
+      "enabled": false,
+      "note": "已返回 HTML，停用"
+    },
+    {
+      "id": "sina-mil",
+      "name": "新浪军事",
+      "url": "https://rss.sina.com.cn/roll/mil/hot_roll.xml",
+      "type": "topic",
+      "weight": 3,
+      "lang": "zh",
+      "enabled": true
+    },
+    {
+      "id": "guancha",
+      "name": "观察者网",
+      "url": "https://www.guancha.cn/api/feed/list?tid=1",
+      "type": "general",
+      "weight": 3,
+      "lang": "zh",
+      "enabled": false,
+      "note": "404，待换地址"
+    },
+    {
+      "id": "solidot",
+      "name": "Solidot",
+      "url": "https://www.solidot.org/index.rss",
+      "type": "general",
+      "weight": 2,
+      "lang": "zh",
+      "enabled": true,
+      "note": "偶有防务科技交叉内容"
+    },
+    {
+      "id": "chinadaily-china",
+      "name": "China Daily China",
+      "url": "https://www.chinadaily.com.cn/rss/china_rss.xml",
+      "type": "general",
+      "weight": 3,
+      "lang": "en",
+      "enabled": true
+    }
+  ]
+}

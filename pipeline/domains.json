@@ -12,7 +12,10 @@
           "name": "AI",
           "icon": "🤖",
           "channel": "ai",
-          "desc": "AI 新闻聚合、分类与中文解读"
+          "desc": "AI 新闻聚合、分类与中文解读",
+          "sourcesFile": "sources.json",
+          "rulesFile": "rules.json",
+          "digestTitle": "AI 晨报"
         }
       ]
     },
@@ -27,6 +30,24 @@
           "icon": "👷",
           "channel": "policy",
           "desc": "公开的农民工相关政策索引，仅跳转官网原文，不做解读"
+        }
+      ]
+    },
+    {
+      "id": "military",
+      "name": "军事",
+      "icon": "🛡",
+      "topics": [
+        {
+          "id": "military",
+          "name": "军事",
+          "icon": "🛡",
+          "channel": "ai",
+          "desc": "国内外军事新闻聚合、分类与中文解读",
+          "sourcesFile": "military-sources.json",
+          "rulesFile": "military-rules.json",
+          "digestTitle": "军事简报",
+          "pushThreshold": 40
         }
       ]
     }

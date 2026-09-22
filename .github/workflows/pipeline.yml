@@ -73,14 +73,16 @@ jobs:
         run: |
           mkdir -p _site/data
           cp -r web/. _site/
-          # AI 数据仍在 data/ 根目录；政策主题在 data/policy/
+          # AI 数据仍在 data/ 根目录；其他主题在 data/<domain>/
           cp data/catalog.json _site/data/ 2>/dev/null || true
           cp data/index.json _site/data/ 2>/dev/null || true
           cp data/20*.json   _site/data/ 2>/dev/null || true
-          if [ -d data/policy ]; then
-            mkdir -p _site/data/policy
-            cp -r data/policy/. _site/data/policy/
-          fi
+          for d in policy military; do
+            if [ -d "data/$d" ]; then
+              mkdir -p "_site/data/$d"
+              cp -r "data/$d/." "_site/data/$d/"
+            fi
+          done
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

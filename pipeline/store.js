@@ -1,24 +1,44 @@
 import { join } from 'node:path';
-import { DATA_DIR, readJSON, writeJSON, dayKey, isoBeijing, hoursAgo } from './util.js';
+import { existsSync, readFileSync } from 'node:fs';
+import { DATA_DIR, PIPELINE_DIR, readJSON, writeJSON, dayKey, isoBeijing, hoursAgo } from './util.js';
 
 const CATALOG_PATH = join(DATA_DIR, 'catalog.json');
+
+/** topicId → domainId，来自 domains.json；读失败时用兜底表 */
+function domainIdOf(topicId) {
+  const fallback = { ai: 'tech', migrant: 'policy', military: 'military' };
+  try {
+    const path = join(PIPELINE_DIR, 'domains.json');
+    if (!existsSync(path)) return fallback[topicId] ?? topicId;
+    const cfg = JSON.parse(readFileSync(path, 'utf8'));
+    for (const d of cfg.domains ?? []) {
+      for (const t of d.topics ?? []) {
+        if (t.id === topicId) return d.id;
+      }
+    }
+  } catch {
+    /* ignore */
+  }
+  return fallback[topicId] ?? topicId;
+}
 
 /** AI 沿用根目录 data/；其他主题进 data/<domain>/<topic>/ */
 export function pathsFor(topic = 'ai') {
   if (!topic || topic === 'ai') {
     return {
       topic: 'ai',
+      domain: 'tech',
       seen: join(DATA_DIR, 'seen.json'),
       index: join(DATA_DIR, 'index.json'),
       state: join(DATA_DIR, 'state.json'),
       day: (key) => join(DATA_DIR, `${key}.json`),
     };
   }
-  // migrant → data/policy/migrant/
-  const domain = topic === 'migrant' ? 'policy' : topic;
+  const domain = domainIdOf(topic);
   const base = join(DATA_DIR, domain, topic);
   return {
     topic,
+    domain,
     seen: join(base, 'seen.json'),
     index: join(base, 'index.json'),
     state: join(base, 'state.json'),
