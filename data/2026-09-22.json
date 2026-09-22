@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "updatedAt": "2026-09-22T15:05:49+08:00",
+  "updatedAt": "2026-09-22T20:42:22+08:00",
   "items": [
     {
       "id": "0298d85b6dc9fcd0",
@@ -75,6 +75,42 @@
         "generatedAt": "2026-09-22T06:23:04+08:00"
       },
       "pushedAt": "2026-09-22T06:23:10+08:00"
+    },
+    {
+      "id": "08a8d93fdc2eaaa8",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "url": "https://technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, aft…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T19:04:51+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "别被AI炒作之夏忽悠：模型发布与安全事件齐飞",
+        "takeaway": "MIT科技评论提醒，近期AI模型宣称与安全事件密集，需冷静看待炒作。",
+        "bullets": [
+          "Anthropic称Claude Mythos找漏洞强于多数安全专家",
+          "OpenAI与Hugging Face发生黑客入侵事件",
+          "MIT科技评论警告今夏AI炒作需警惕"
+        ],
+        "detail": "过去几个月AI炒作不断。4月底，Anthropic声称其模型Claude Mythos在发现软件漏洞方面比多数安全专家更强。随后又发生了OpenAI与Hugging Face相关的黑客入侵事件。MIT科技评论提醒读者不要被这些宣传和事件冲昏头脑。",
+        "generatedAt": "2026-09-22T20:42:11+08:00"
+      }
     },
     {
       "id": "89f99430cad404f1",
@@ -184,6 +220,42 @@
           "DeepSeek 披露用国产芯片训练下一代 AI 模型"
         ],
         "generatedAt": "2026-09-22T15:05:35+08:00"
+      }
+    },
+    {
+      "id": "fee1393bf47afaba",
+      "title": "Meta 开源 Astryx：面向 Agent 的 React 设计系统",
+      "url": "https://infoq.cn/article/He6bUhlNIuPEa99GGRYC",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T23:12:00+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 1,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 开源 Astryx：面向 Agent 的 React 设计系统",
+        "takeaway": "Meta 推出面向 AI Agent 的 React 设计系统 Astryx 并开源，值得关注 Agent 前端开发的人一看。",
+        "bullets": [
+          "Meta 开源 React 设计系统 Astryx",
+          "定位面向 Agent 场景",
+          "为 Agent 界面开发提供组件基础"
+        ],
+        "detail": "Meta 开源了名为 Astryx 的 React 设计系统，主打面向 Agent 场景。目前公开信息有限，具体组件与用法需查看原文了解，但可视为 Meta 在 Agent 前端生态上的一次开源动作。",
+        "generatedAt": "2026-09-22T20:42:10+08:00"
       }
     },
     {
@@ -402,6 +474,44 @@
       "pushedAt": "2026-09-22T06:23:10+08:00"
     },
     {
+      "id": "46b500d0d99533d4",
+      "title": "Is llama.cpp meant to be slow at long context, even when you aren't using that context?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wn6vwm/is_llamacpp_meant_to_be_slow_at_long_context_even",
+      "summary": "I am trying out a few fine-tunes of Qwen 3.5 9B @ IQ4_XS @ 131K context and trying to go mostly local (free beats cheap, after all). However, it is much slower than at, say 16K context, even when I am not actually using 131K tokens in the f…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T19:29:17+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 长上下文拖慢推理？用户实测 Qwen 3.5 9B",
+        "takeaway": "用户发现 llama.cpp 在 131K 上下文设置下，即使没用到长上下文，速度也明显慢于 16K。",
+        "bullets": [
+          "用户测试 Qwen 3.5 9B IQ4_XS 量化模型",
+          "131K 上下文下速度远慢于 16K 设置",
+          "即使实际未用满长上下文也变慢",
+          "指向 llama.cpp 长上下文性能开销问题"
+        ],
+        "detail": "有用户在本地跑 Qwen 3.5 9B 的多个微调版本，量化用 IQ4_XS，上下文开到 131K。结果发现即便实际输入远没到 131K，速度也比 16K 设置慢很多，怀疑 llama.cpp 的长上下文配置本身带来额外开销。",
+        "generatedAt": "2026-09-22T20:42:11+08:00"
+      }
+    },
+    {
       "id": "10111bfe599728ba",
       "title": "美国反垄断围剿AI巨头的“假许可真收购”，英伟达被查只是第一块骨牌",
       "url": "https://tmtpost.com/8148461.html",
@@ -434,6 +544,79 @@
           "做法被指把潜在挑战者做成空壳，削弱竞争，AI创业生态或受冲击。"
         ],
         "generatedAt": "2026-09-22T15:05:35+08:00"
+      }
+    },
+    {
+      "id": "f8e0420692ce9727",
+      "title": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办中央企业发布真实业务场景需求",
+      "url": "https://qbitai.com/2026/09/493819.html",
+      "summary": "9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T16:35:24+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0.33,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "首届央企量子人才科创大赛在合肥启动，发布真实业务场景需求",
+        "takeaway": "央企首次以真实业务场景需求办量子创新大赛，推动量子技术落地产业。",
+        "bullets": [
+          "首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行",
+          "大赛面向央企真实业务场景需求，征集量子技术应用方案",
+          "旨在挖掘量子人才，推动量子科技与产业融合"
+        ],
+        "detail": "9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行。大赛由央企发布真实业务场景需求，面向量子人才征集创新应用方案，以促进量子科技在产业中的实际落地。",
+        "generatedAt": "2026-09-22T20:42:12+08:00"
+      }
+    },
+    {
+      "id": "b6909f285067e812",
+      "title": "阿里云加速构建Agentic Cloud：推出AgentCore、新一代CPFS等重磅新品",
+      "url": "https://leiphone.com/category/industrynews/HNWVHr1WinHMKzsN.html",
+      "summary": "9月22日，2026杭州云栖大会上，阿里云CTO李飞飞系统性阐述了Agentic Cloud 战略布局，阿里云将Model、Harness、Context作为核心构建场景，推出全新的云上算力底座和Agent 构建治理平台AgentCore、Agent Sandbox、新一代高性能存储CPFS等一系列新品，让 AI 真正进入生产流程、走向规模化价值创造。随着2026年Agent的爆发式增长，越来越多的智能体正跨过“问答型”的分水岭，进入自主规划、实时决策阶段，这对算力和云提出了…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T17:38:00+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出"
+      ],
+      "confidence": 0.33,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阿里云发布 AgentCore 等新品，押注 Agentic Cloud",
+        "takeaway": "阿里云在云栖大会推出 Agent 构建治理平台与新一代存储，瞄准智能体规模化落地。",
+        "bullets": [
+          "阿里云 CTO 李飞飞阐述 Agentic Cloud 战略布局",
+          "推出 AgentCore、Agent Sandbox、新一代 CPFS 等新品",
+          "以 Model、Harness、Context 为核心构建场景",
+          "应对 Agent 从问答走向自主规划带来的算力需求"
+        ],
+        "detail": "在 2026 杭州云栖大会上，阿里云 CTO 李飞飞系统介绍了 Agentic Cloud 战略，将模型、Harness 和上下文作为核心场景。为此阿里云发布了 Agent 构建治理平台 AgentCore、Agent Sandbox 以及新一代高性能存储 CPFS 等新品，希望让 AI 真正进入生产流程。随着智能体从",
+        "generatedAt": "2026-09-22T20:42:13+08:00"
       }
     },
     {
@@ -471,6 +654,42 @@
         "generatedAt": "2026-09-22T02:24:40+08:00"
       },
       "pushedAt": "2026-09-22T06:23:10+08:00"
+    },
+    {
+      "id": "46a8cb077ff0cde0",
+      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again",
+      "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T20:23:05+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO"
+      ],
+      "confidence": 0.8,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Nscale启动IPO，华尔街再考AI集中押注",
+        "takeaway": "英国AI数据中心开发商Nscale启动IPO，收入高度依赖微软和Anthropic，将检验市场对集中AI押注的接受度。",
+        "bullets": [
+          "Nscale是英国AI数据中心开发商，正式启动IPO。",
+          "其大部分收入来自微软和Anthropic两家科技巨头。",
+          "此次上市将测试华尔街对集中AI押注的兴趣。"
+        ],
+        "detail": "英国AI数据中心开发商Nscale启动IPO，其大部分收入依赖微软和Anthropic。此次上市将再次检验华尔街是否愿意为高度集中的AI押注买单。",
+        "generatedAt": "2026-09-22T20:42:12+08:00"
+      }
     },
     {
       "id": "a5a11d0ef36f08d1",
@@ -650,6 +869,42 @@
       }
     },
     {
+      "id": "47e7c73916552e61",
+      "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+      "url": "https://qbitai.com/2026/09/493865.html",
+      "summary": "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T16:49:12+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "虎鲸文娱发布“鲸锐AI”影视制作与管理平台",
+        "takeaway": "虎鲸文娱在云栖大会推出行业首个AI影视制作与管理平台，瞄准文娱产业新基建。",
+        "bullets": [
+          "9月22日云栖大会「AI+文化传媒」论坛上正式发布",
+          "定位为行业首个AI影视制作与管理平台",
+          "虎鲸文娱称其目标是打造文娱产业新基建"
+        ],
+        "detail": "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团发布了“鲸锐AI”平台。这是行业首个面向影视制作与管理的AI平台，虎鲸文娱将其定位为文娱产业的新基建。",
+        "generatedAt": "2026-09-22T20:42:14+08:00"
+      }
+    },
+    {
       "id": "9cf234d4b3e166eb",
       "title": "《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%",
       "url": "https://infoq.cn/article/vA7opkWL5WYlwYcPIdds",
@@ -786,6 +1041,42 @@
           "这是阿里对机器智能时代的最新公开判断"
         ],
         "generatedAt": "2026-09-22T15:05:38+08:00"
+      }
+    },
+    {
+      "id": "98acfe91fd30b730",
+      "title": "Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T08:00:00+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Transformers 现已支持 llama.cpp 量化模型",
+        "takeaway": "Hugging Face 的 Transformers 库可直接加载 llama.cpp 量化权重，本地推理更省显存、更易用。",
+        "bullets": [
+          "Transformers 新增对 llama.cpp 量化格式的支持",
+          "用户无需转换即可在 Python 中加载 GGUF 等量化模型",
+          "降低本地部署门槛，利好消费级显卡用户"
+        ],
+        "detail": "Hugging Face 宣布 Transformers 库现在能直接运行 llama.cpp 的量化模型。这意味着开发者不用额外转换格式，就能在 Python 环境里加载 GGUF 等量化权重，从而在普通硬件上更省显存地做本地推理。",
+        "generatedAt": "2026-09-22T20:42:14+08:00"
       }
     },
     {
@@ -1106,6 +1397,112 @@
       }
     },
     {
+      "id": "502360d3b0a69446",
+      "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
+      "url": "https://qbitai.com/2026/09/494120.html",
+      "summary": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T18:06:34+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "创始人"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
+        "takeaway": "基元律动CTO韩凯在云栖大会分享Agent进化路径，从多模型调度走向反馈闭环。",
+        "bullets": [
+          "9月22日韩凯在杭州云栖大会企业级Agent实践峰会演讲",
+          "演讲主题为《从Harness到RSI飞轮》",
+          "核心思路是从多模型调度走向反馈闭环，让Agent持续进化"
+        ],
+        "detail": "在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯带来演讲《从Harness到RSI飞轮》。他围绕多模型调度与反馈闭环，探讨企业级Agent如何实现持续进化。",
+        "generatedAt": "2026-09-22T20:42:14+08:00"
+      }
+    },
+    {
+      "id": "0e61f76756c8726b",
+      "title": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检",
+      "url": "https://qbitai.com/2026/09/494043.html",
+      "summary": "上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T18:01:53+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "SkyProduction 首发短剧质检：上传成片自动出报告",
+        "takeaway": "短剧交付前多了一道自动质检，从字幕、音画、内容底线逐集排查，降低返工风险。",
+        "bullets": [
+          "上传成片和字幕即可自动逐集质检",
+          "覆盖字幕、音画、内容底线三个维度",
+          "输出可下载、可回填的质检报告"
+        ],
+        "detail": "量子位报道，SkyProduction 抢先推出短剧质检功能。用户上传成片和字幕，系统会从字幕、音画、内容底线三个维度逐集自动检查，并生成可下载、可回填的质检报告，帮助短剧在交付前发现问题。",
+        "generatedAt": "2026-09-22T20:42:15+08:00"
+      }
+    },
+    {
+      "id": "cbea0b9513738692",
+      "title": "claude vs antigravity vs 3.827b vs flash next vs bonsai vs swift... built my own quality bench test framework using my own git history, early results are surprising and shocking.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wn4012/claude_vs_antigravity_vs_3827b_vs_flash_next_vs",
+      "summary": "A note: this entire thing is 100% human written, not even AI drafted or edited. So, enjoy. Or not. edit for a tldr that completed just after posting: ``` ┌──────────────────────────────────────────────┬─────────┐ │ config │ T1-core │ ├─────…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T16:47:35+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "framework"
+      ],
+      "confidence": 0.33,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开发者用自家 Git 历史自建 AI 质量测试框架，早期结果出人意料",
+        "takeaway": "有人拿自己的代码提交历史当测试集，横向对比 Claude、Antigravity 等多个模型，结果令人意外。",
+        "bullets": [
+          "作者用个人 Git 历史搭建质量基准，对比 Claude、Antigravity、3.827b、Flash Next、Bonsai、Swift 等模型",
+          "测试框架和内容全部由人工编写，未借助 AI 起草或编辑",
+          "早期结果被作者形容为“令人惊讶甚至震惊”，具体排名尚未完整披露"
+        ],
+        "detail": "一位开发者在 r/LocalLLaMA 分享，他用自己的 Git 提交历史作为测试集，搭建了一套代码质量基准，横向对比 Claude、Antigravity、3.827b、Flash Next、Bonsai、Swift 等多个模型。他强调内容完全人工撰写，并称早期结果出人意料。",
+        "generatedAt": "2026-09-22T20:42:16+08:00"
+      }
+    },
+    {
       "id": "fda0cb2026c7b3d1",
       "title": "AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」",
       "url": "https://qbitai.com/2026/09/493363.html",
@@ -1138,6 +1535,50 @@
           "对算力芯片行业而言，或推动从堆卡转向能力优化。"
         ],
         "generatedAt": "2026-09-22T15:05:41+08:00"
+      }
+    },
+    {
+      "id": "672e1b2738b4a70a",
+      "title": "做每个人的专属AI助理，千问加速打造Personal Agent",
+      "url": "https://leiphone.com/category/industrynews/4V3AYUarwL4RCE5O.html",
+      "summary": "9月22日，在2026年云栖大会上，千问宣布将加速打造 Personal Agent。千问产品负责人郑嗣寿表示，自去年上线以来，让每个人拥有自己的 AI 助理，始终是千问不变的目标。依托Qwen 3.8系列模型强大的Agentic能力，千问正在构建全新的Personal Agent形态，为 3 亿用户提供持续、个性化的智能服务。当天，千问公布了多项围绕 Personal Agent 的阶段性进展：在用户授权下接入健康、运动等个人数据，为健康咨询和运动规划提供更具针对性的分析；…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T16:40:00+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "产品",
+        "接入"
+      ],
+      "confidence": 0.2,
+      "score": 39,
+      "related": [
+        {
+          "title": "做每个人的专属AI助理，千问加速打造Personal Agent",
+          "url": "https://leiphone.com/category/industrynews/l4HSONbqE9vSaA4z.html",
+          "source": "雷锋网"
+        }
+      ],
+      "pushed": false,
+      "interpret": {
+        "headline": "千问云栖大会宣布加速打造 Personal Agent",
+        "takeaway": "千问要把 AI 助理做成每个人的专属形态，已覆盖 3 亿用户，并开始接入个人数据。",
+        "bullets": [
+          "9月22日云栖大会上，千问宣布加速打造 Personal Agent",
+          "产品负责人郑嗣寿称，让每人拥有自己的 AI 助理是千问不变目标",
+          "依托 Qwen 3.8 系列模型的 Agentic 能力，服务 3 亿用户",
+          "在用户授权下接入健康、运动等个人数据，提供针对性分析"
+        ],
+        "detail": "在 2026 年云栖大会上，千问宣布将加速打造 Personal Agent。产品负责人郑嗣寿表示，自去年上线以来，让每个人拥有自己的 AI 助理一直是千问的目标。千问正依托 Qwen 3.8 系列模型的 Agentic 能力构建这一新形态，为 3 亿用户提供持续、个性化的智能服务，并已在用户授权下接入健康、运动等个人",
+        "generatedAt": "2026-09-22T20:42:16+08:00"
       }
     },
     {
@@ -1209,6 +1650,44 @@
           "面向本地部署，降低显存与算力门槛"
         ],
         "generatedAt": "2026-09-22T08:20:41+08:00"
+      }
+    },
+    {
+      "id": "2f59b4e6c50cf0fa",
+      "title": "阿里巴巴下一代模型参数将扩大到 5-10 万亿规模",
+      "url": "https://solidot.org/story?sid=85450",
+      "summary": "阿里巴巴 CEO 吴泳铭在阿里云年度云栖大会上透露，该公司的千问（Qwen）团队正持续研究模型架构与数据优化，目标是完成更复杂、长周期任务，向人工智能超级智能（artificial superintelligence）前进。阿里巴巴的旗舰模型 Qwen 3.8 Max 有 2.4 万亿参数，正在训练中的 Qwen 4 将会继续扩大参数规模，未来的 Qwen 4.5 和 Qwen 5 系列将扩大至 5-10 万亿参数规模。吴泳铭表示，阿里巴巴自研的 M890 AI 超级节点能处…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T15:03:16+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "研究",
+        "架构"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阿里千问路线图：下一代模型参数冲 5-10 万亿",
+        "takeaway": "阿里云栖大会公布 Qwen 扩参计划，旗舰模型将从 2.4 万亿迈向 5-10 万亿规模。",
+        "bullets": [
+          "吴泳铭在云栖大会披露千问团队模型路线图",
+          "现役旗舰 Qwen 3.8 Max 参数为 2.4 万亿",
+          "训练中的 Qwen 4 将继续扩参，Qwen 4.5/5 达 5-10 万亿",
+          "目标指向更复杂长周期任务与超级智能"
+        ],
+        "detail": "阿里 CEO 吴泳铭在云栖大会上说，千问团队正持续研究模型架构和数据优化，目标是完成更复杂、长周期的任务，朝人工智能超级智能方向走。目前旗舰 Qwen 3.8 Max 有 2.4 万亿参数，训练中的 Qwen 4 会继续扩大，之后的 Qwen 4.5 和 Qwen 5 系列将升至 5-10 万亿参数规模。",
+        "generatedAt": "2026-09-22T20:42:17+08:00"
       }
     },
     {
@@ -1390,6 +1869,42 @@
         "generatedAt": "2026-09-22T06:23:08+08:00"
       },
       "pushedAt": "2026-09-22T06:23:10+08:00"
+    },
+    {
+      "id": "06e38e5369b88f1b",
+      "title": "Claude Status – Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "summary": "Article URL: https://status.claude.com/incidents/7g1qpkyz5gxh Comments URL: https://news.ycombinator.com/item?id=49795579 Points: 123 # Comments: 96",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T09:05:19+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude 多个模型出现错误率升高",
+        "takeaway": "Anthropic 的 Claude 状态页报告多个模型错误率异常，引发开发者关注。",
+        "bullets": [
+          "Claude 状态页显示多个模型错误率升高",
+          "事件在 Hacker News 上引发 96 条讨论",
+          "受影响用户可能遭遇请求失败或响应异常"
+        ],
+        "detail": "Anthropic 的官方状态页面发布事件通知，称 Claude 多个模型出现错误率升高的情况。该消息在 Hacker News 上获得 123 点热度，引发开发者社区讨论。目前官方尚未公布具体原因和恢复时间。",
+        "generatedAt": "2026-09-22T20:42:17+08:00"
+      }
     },
     {
       "id": "15581269ce63c13d",
@@ -1901,6 +2416,181 @@
       }
     },
     {
+      "id": "0c8ca6e3962798bc",
+      "title": "I Built AI Clones of My Coworkers. Things Got Weird",
+      "url": "https://wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack",
+      "summary": "Brian Bot loved talking about improv, while Sophie Bot wouldn’t stop calling me “big dog.” Welcome to the future of work.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T18:30:00+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "我造了同事的AI克隆，结果画风逐渐离谱",
+        "takeaway": "作者用AI克隆同事，发现它们性格夸张、行为怪异，折射出未来职场的人机互动新常态。",
+        "bullets": [
+          "作者为同事创建AI克隆，用于模拟对话或工作",
+          "克隆体性格被放大：Brian Bot爱聊即兴喜剧，Sophie Bot总叫作者“大狗”",
+          "这种技术可能改变未来团队协作和沟通方式"
+        ],
+        "detail": "作者尝试用AI克隆同事，结果这些克隆体行为古怪：一个沉迷即兴喜剧，另一个不停喊他“大狗”。这看似荒诞，却预示着未来职场中AI分身可能带来的新互动模式。",
+        "generatedAt": "2026-09-22T20:42:18+08:00"
+      }
+    },
+    {
+      "id": "70a8c9f4b889c991",
+      "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
+      "url": "https://wired.com/story/big-interview-patti-harrison",
+      "summary": "The comedian sat down with WIRED to talk about social media, AI, and getting laughs for impersonating Boston Dynamics’ robot dogs.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T18:00:00+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "喜剧演员哈里森：硅谷击碎了我的科技乌托邦梦",
+        "takeaway": "喜剧演员帕蒂·哈里森接受《连线》采访，谈社交媒体、AI，以及靠模仿波士顿动力机器狗逗笑观众。",
+        "bullets": [
+          "哈里森曾对科技乌托邦抱有幻想，如今被硅谷现实击碎",
+          "她接受《连线》采访，话题涵盖社交媒体与AI",
+          "她因模仿波士顿动力机器狗而收获笑声"
+        ],
+        "detail": "喜剧演员帕蒂·哈里森曾梦想科技能带来乌托邦，但硅谷的现实让她失望。她在接受《连线》采访时聊了社交媒体、人工智能，还提到自己靠模仿波士顿动力的机器狗来逗乐观众。",
+        "generatedAt": "2026-09-22T20:42:19+08:00"
+      }
+    },
+    {
+      "id": "8d842c38341e5283",
+      "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
+      "url": "https://wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system",
+      "summary": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something unusual.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T18:00:00+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tool",
+        "tools"
+      ],
+      "confidence": 0.5,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "思科新工具发现AI蜂群思维驱动的恶意软件",
+        "takeaway": "思科Talos推出识别AI聊天机器人恶意软件的框架，并发现异常样本，值得关注AI安全新威胁。",
+        "bullets": [
+          "思科Talos创建新框架，用于识别依赖AI聊天机器人的恶意软件和黑客工具。",
+          "该工具很快发现了一种不寻常的恶意软件，由AI蜂群思维引导，无需人类参与。",
+          "这揭示了AI可能被滥用于自动化网络攻击的新趋势。"
+        ],
+        "detail": "思科Talos的研究人员开发了一个新框架，专门识别那些利用AI聊天机器人来运作的恶意软件和黑客工具。他们很快发现了一种异常样本：该恶意软件由AI蜂群思维引导，整个过程没有人类参与。",
+        "generatedAt": "2026-09-22T20:42:19+08:00"
+      }
+    },
+    {
+      "id": "57b8b840dd043b3d",
+      "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
+      "url": "https://wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus",
+      "summary": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T17:30:00+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "新聊天机器人欲破译破损古希腊文献的秘密",
+        "takeaway": "研究者开发大语言模型，能填补莎草纸残片的缺失内容，助力还原古代生活细节。",
+        "bullets": [
+          "研究人员开发了一款大语言模型，专门用于填补古希腊莎草纸残片中的缺失文字。",
+          "该工具旨在帮助学者发现古代生活的新细节，而非单纯修复文本。",
+          "若成功，将推动古代文献研究，让破损记录更易解读。"
+        ],
+        "detail": "为挖掘古代生活的新线索，研究者训练了一个大语言模型，能自动补全破损莎草纸文献中的空缺部分。这有望帮助历史学家更完整地还原古希腊记录。",
+        "generatedAt": "2026-09-22T20:42:20+08:00"
+      }
+    },
+    {
+      "id": "137410ca4afe67e2",
+      "title": "How to Use AI With Your Privacy Intact",
+      "url": "https://wired.com/story/how-to-use-ai-with-your-privacy-intact",
+      "summary": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T17:00:00+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "privacy"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 聊天隐私指南：如何避免对话被监控",
+        "takeaway": "AI 聊天记录既私密又易被监控，本文提供保护个人隐私的实用方法。",
+        "bullets": [
+          "AI 对话内容高度个人化，却容易遭监控",
+          "用户需主动采取措施保护隐私",
+          "指南涵盖具体防护手段，降低泄露风险"
+        ],
+        "detail": "你与 AI 聊天机器人的对话非常私密，但也极易被监控。本文介绍了一些实用方法，帮助你保护自己，避免隐私泄露。",
+        "generatedAt": "2026-09-22T20:42:20+08:00"
+      }
+    },
+    {
       "id": "1d6558f4da1937dd",
       "title": "Frontier AI on Your Own Hardware",
       "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week",
@@ -1946,6 +2636,31 @@
         "产品"
       ],
       "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "82aed3c83f45daee",
+      "title": "对话 COBRA-Skills 一作卢平琛：仅用 50 个样本，重构 Agent 技能降本路线",
+      "url": "https://leiphone.com/category/private/AaUgNDfg84ayCKbE.html",
+      "summary": "当经典算法遇到 LLM，用概率预判代替盲目试错，或许才是架构演进的真正解法。作者丨张璐编辑丨马晓宁过去，智能体的技能（Skill）大多依赖人类专家手动撰写，不仅耗时费力，更难以覆盖海量复杂的真实场景。为此，借助大模型“自动化生成与优化技能”，成了让 Agent 迈向自主进化的新范式。然而，摆脱了人工编写的束缚，却撞上了高昂的 Token 账单。要验证一个自动生成的技能到底管不管用，必须让智能体带入真实任务中落地执行。每一次试错，都是实打实的 Token 消耗与多轮交互的时间成…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T15:55:00+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 0.33,
       "score": 34,
       "related": [],
       "pushed": false
@@ -2124,6 +2839,106 @@
       "pushed": false
     },
     {
+      "id": "2b08384defbda423",
+      "title": "AI概念越来越宽，行业分类为什么反而需要更细？",
+      "url": "https://tmtpost.com/8148965.html",
+      "summary": "行业分类本身不产生收益，却决定一家公司和谁比较、被放进哪个估值中枢，也决定投资者看到的\"行业平均值\"究竟意味着什么。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T17:22:55+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "估值",
+        "投资"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f4f83bcb4d3fafa8",
+      "title": "AI导购“百团大战”开打：电商十年逻辑正在被改写",
+      "url": "https://tmtpost.com/8143622.html",
+      "summary": "AI导购这门生意的终极KPI，从来不是GMV。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T17:04:33+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6a4fd5efb2acff6e",
+      "title": "光帆携手韶音，以 AI OS 破局单点功能内卷",
+      "url": "https://ifanr.com/1681475",
+      "summary": "好 AI，不必自己造。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T18:10:26+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "功能"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "02c2aee15e8c51a5",
+      "title": "让 gzip 当语言模型？压得最小的地方，就是它“觉得”最像原文的地方",
+      "url": "https://oschina.net/news/502676/gzip-lm",
+      "summary": "Nathan Barry 提出了一个脑洞实验：能不能让 gzip 当语言模型？不要神经网络、不要训练参数，就用你操作系统里那个现成的压缩器——拿语料喂进它的滑动窗口，给个正常提示词，让它在\"怎么压最省\"的驱动下继续往下生成。结果真的能出字符，虽然远谈不上通顺，但它确实\"知道\"语料里的一些东西，比作者预期的多得多。理论根...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T19:04:27+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "实验",
+        "提出了"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "015dbc4f82687be4",
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "url": "https://linear.app/now/ci-bottleneck-reworked",
@@ -2164,6 +2979,100 @@
       "topic": "ai",
       "publishedAt": "2026-09-22T10:38:27+08:00",
       "fetchedAt": "2026-09-22T15:05:29+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "51fa0122cd80f6ab",
+      "title": "成为AI原生的超级组织：让每一次工作，都成为下一次的积累｜2026 ITValue Summit数字价值年会",
+      "url": "https://tmtpost.com/8148769.html",
+      "summary": "模型能力如何变成企业自身的能力？一个人的效率提升，又如何沉淀为整个组织的积累？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T16:25:30+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "71d598a3373d62a1",
+      "title": "企业爆买AI Box",
+      "url": "https://tmtpost.com/8147846.html",
+      "summary": "AIBox是算力买断，还是买内存送处理器的营销手段?",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T15:53:24+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "481bcf6e096bcfa5",
+      "title": "自动驾驶巴士迈入“黄金年代”",
+      "url": "https://tmtpost.com/8138057.html",
+      "summary": "这场改变，已经开始。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T15:47:16+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7ee76eed29dd843a",
+      "title": "造一万台机器人，要补多少汽车工业的课？",
+      "url": "https://tmtpost.com/8148599.html",
+      "summary": "从一台走向一万台，人形机器人正在为“稳定、低成本地重复制造”补课，而汽车工业恰好有这门课的厚底子。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T15:47:15+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,

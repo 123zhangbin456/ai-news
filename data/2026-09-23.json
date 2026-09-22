@@ -1,0 +1,75 @@
+{
+  "date": "2026-09-23",
+  "updatedAt": "2026-09-22T20:42:22+08:00",
+  "items": [
+    {
+      "id": "ddf3f0a3dcfe0fbd",
+      "title": "不受控的 Agent ，凭什么上生产系统？",
+      "url": "https://infoq.cn/article/3TjH8fZziNB50Qzz9tJx",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T02:58:07+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "不受控的 Agent，凭什么上生产系统？",
+        "takeaway": "InfoQ 中国发文追问：缺乏可控性的 AI Agent 如何满足生产环境的可靠性要求。",
+        "bullets": [
+          "InfoQ 中国发文讨论 Agent 上生产系统的可控性问题",
+          "核心疑问是缺乏约束的 Agent 能否满足生产环境要求",
+          "话题指向 AI Agent 落地企业级场景的可靠性门槛"
+        ],
+        "detail": "InfoQ 中国发布文章，标题直接抛出疑问：不受控的 Agent 凭什么上生产系统。文章聚焦 AI Agent 在企业生产环境落地时面临的可控性挑战，探讨缺乏有效约束的智能体是否具备进入正式业务系统的资格。",
+        "generatedAt": "2026-09-22T20:42:21+08:00"
+      }
+    },
+    {
+      "id": "afad86c6135ad203",
+      "title": "Jotai 3.0 带来仅支持 ESM 的现代化包，摒弃旧版构建方式和已弃用 API",
+      "url": "https://infoq.cn/article/JkDJyKWiavXREdAWBvJk",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T01:31:00+08:00",
+      "fetchedAt": "2026-09-22T20:42:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Jotai 3.0 发布：仅支持 ESM，移除旧构建与废弃 API",
+        "takeaway": "Jotai 3.0 全面转向 ESM，清理旧构建和废弃 API，推动现代前端生态。",
+        "bullets": [
+          "Jotai 3.0 仅提供 ESM 包，不再支持 CommonJS。",
+          "移除旧版构建方式和已弃用 API，简化维护。",
+          "使用旧版 Jotai 的项目升级时需调整构建配置。"
+        ],
+        "detail": "Jotai 3.0 正式发布，新版本只提供 ESM 格式的包，不再兼容 CommonJS，同时移除了旧的构建方式和已弃用的 API。这意味着项目若升级到 3.0，需要确保构建工具支持 ESM，并检查是否使用了被移除的 API。",
+        "generatedAt": "2026-09-22T20:42:22+08:00"
+      }
+    }
+  ],
+  "topic": "ai"
+}
