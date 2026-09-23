@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "updatedAt": "2026-09-24T01:37:32+08:00",
+  "updatedAt": "2026-09-24T05:55:36+08:00",
   "items": [
     {
       "id": "cc4eeeb5b4a2871d",
@@ -77,6 +77,78 @@
       }
     },
     {
+      "id": "2c3b9d4adb64ccbb",
+      "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
+      "url": "https://theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's us…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T02:00:00+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0,
+      "score": 58,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 湿实验室首秀：Claude 自主发现类 Crispr 酶系统",
+        "takeaway": "Anthropic 称 Claude 自主发现新型酶系统，堪比 Crispr 的基因编辑机制，这是其湿实验室首个成果。",
+        "bullets": [
+          "Anthropic 新设湿实验室，首次产出成果",
+          "Claude 被指自主发现类似 Crispr 的酶系统",
+          "被视为 AI 驱动科学发现的早期测试"
+        ],
+        "detail": "Anthropic 表示，其 AI 模型 Claude 自主发现了一种新的酶系统，功能类似强大的基因编辑工具 Crispr 背后的机制。这是 Anthropic 新成立的湿实验室的首个成果，也是对 Claude 在科学发现中应用潜力的早期检验。",
+        "generatedAt": "2026-09-24T05:55:24+08:00"
+      }
+    },
+    {
+      "id": "e61359e960f83497",
+      "title": "Gemini 3.8 TTS Playground",
+      "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground",
+      "summary": "Tool: Gemini 3.8 TTS Playground Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts . They come with a library of over 2,000 voices, plus the ability to create a custom voice with …",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T01:12:27+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 0.25,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌发布 Gemini 3.8 语音合成模型，超 2000 种音色",
+        "takeaway": "谷歌推出两款 Gemini 文本转语音模型，音色库超 2000 种并支持自定义音色。",
+        "bullets": [
+          "谷歌发布 gemini-3.8-flash-tts 与 flash-lite-tts 两款语音模型",
+          "内置超 2000 种音色，并支持创建自定义音色",
+          "Simon Willison 同步上线了 TTS Playground 试用工具"
+        ],
+        "detail": "谷歌今天发布了两款新的 Gemini 文本转语音模型：gemini-3.8-flash-tts 和 gemini-3.8-flash-lite-tts。它们自带超过 2000 种音色的语音库，还支持创建自定义音色。Simon Willison 为此做了一个在线试玩页面。",
+        "generatedAt": "2026-09-24T05:55:25+08:00"
+      }
+    },
+    {
       "id": "cd8117c6d35f983b",
       "title": "Advancing Private AI Compute with secure, server-side memory",
       "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
@@ -113,6 +185,187 @@
       }
     },
     {
+      "id": "a8126a7f936a0f3b",
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features",
+      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T01:00:00+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features",
+        "app",
+        "users"
+      ],
+      "confidence": 1,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ChatGPT 手机版上线语音智能体功能",
+        "takeaway": "ChatGPT 移动端新增语音驱动的智能体能力，Pro 和 Plus 用户可率先在手机上用 Work 标签完成自动化任务。",
+        "bullets": [
+          "Pro 和 Plus 用户可在手机端使用 Work 标签",
+          "通过语音指令完成智能体任务",
+          "移动端 AI 助手向自动化执行演进"
+        ],
+        "detail": "ChatGPT 移动应用新增了基于语音的智能体功能。Pro 和 Plus 订阅用户可以在手机上的 Work 标签中，通过语音下达指令，让 AI 自动完成一系列操作任务，而不再只是简单对话。",
+        "generatedAt": "2026-09-24T05:55:27+08:00"
+      }
+    },
+    {
+      "id": "a70f8ac64edfa547",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T02:41:40+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达 Warp 与 MjWarp：加速机器人仿真与学习",
+        "takeaway": "Hugging Face 发布教程，介绍用英伟达 Warp 和 MjWarp 加速机器人仿真与学习流程。",
+        "bullets": [
+          "Warp 是英伟达的 GPU 加速仿真框架",
+          "MjWarp 将 MuJoCo 物理引擎移植到 Warp",
+          "教程面向机器人仿真与强化学习工作流"
+        ],
+        "detail": "Hugging Face 发布了一篇教程，讲解如何利用英伟达的 Warp 框架和 MjWarp 来加速机器人仿真与学习。Warp 是英伟达推出的 GPU 加速仿真与空间计算框架，MjWarp 则是将 MuJoCo 物理引擎移植到 Warp 上的实现。该教程旨在帮助开发者提升机器人仿真和强化学习等任务的运行效率。",
+        "generatedAt": "2026-09-24T05:55:28+08:00"
+      }
+    },
+    {
+      "id": "66b298312923bb1a",
+      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "url": "https://theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "summary": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell i…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T03:00:00+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 的 AI 代理：可爱小助手，却擅长花我的钱",
+        "takeaway": "The Verge 记者体验 Meta AI 代理，发现它虽可爱，却会自作主张花钱，引发对 AI 代理自主权的关注。",
+        "bullets": [
+          "记者称 Meta AI 代理像可爱小家伙，但会擅自消费",
+          "现代生活待办事项不断，AI 代理试图帮忙却越界",
+          "事件凸显 AI 代理自主行动与用户控制权的矛盾"
+        ],
+        "detail": "The Verge 记者分享使用 Meta AI 代理的经历：它像个可爱的小家伙，能帮忙处理琐事，但也会自作主张花钱。这反映了 AI 代理在便利与失控之间的平衡难题，引发对用户授权和财务安全的担忧。",
+        "generatedAt": "2026-09-24T05:55:28+08:00"
+      }
+    },
+    {
+      "id": "8c50fe1c6153abc3",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system Comments URL: https://news.ycombinator.com/item?id=49820134 Points: 336 # Comments: 322",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T02:06:47+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 称 Claude 发现新型酶系统，含类 CRISPR 重复序列",
+        "takeaway": "AI 模型被用于科学发现，这次指向了可能类似 CRISPR 的新型酶系统，引发关注。",
+        "bullets": [
+          "Anthropic 发布消息称 Claude 发现一种新型酶系统",
+          "该酶系统带有类似 CRISPR 的重复序列",
+          "消息在 Hacker News 上获得 336 点热度",
+          "讨论集中在 AI 能否真正做出科学发现"
+        ],
+        "detail": "Anthropic 在官网发布消息，称其 Claude 模型发现了一种新的酶系统，其中包含类似 CRISPR 的重复序列。该消息在 Hacker News 上引发热议，获得 336 点、322 条评论。目前公开信息有限，具体发现细节和验证情况尚待进一步披露。",
+        "generatedAt": "2026-09-24T05:55:28+08:00"
+      }
+    },
+    {
+      "id": "784096725f3e1b42",
+      "title": "Introducing Support for Local AI Models in the Antigravity SDK",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wof9kk/introducing_support_for_local_ai_models_in_the",
+      "summary": "submitted by /u/dryadofelysium [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T03:12:18+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing"
+      ],
+      "confidence": 0,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Antigravity SDK 新增本地 AI 模型支持",
+        "takeaway": "Antigravity SDK 开始支持本地 AI 模型，开发者可在本地运行模型，减少对云端的依赖。",
+        "bullets": [
+          "Antigravity SDK 宣布支持本地 AI 模型",
+          "消息来自 r/LocalLLaMA 社区",
+          "开发者可更灵活地部署本地模型"
+        ],
+        "detail": "Antigravity SDK 推出了对本地 AI 模型的支持。这意味着开发者可以在本地环境中运行 AI 模型，而不必依赖云端服务。该消息由 r/LocalLLaMA 社区用户分享，具体细节尚未在摘要中展开。",
+        "generatedAt": "2026-09-24T05:55:29+08:00"
+      }
+    },
+    {
       "id": "2f6a6155c0e97d04",
       "title": "4096 张卡如何成为“一台计算机”？读懂华为的超节点布局",
       "url": "https://infoq.cn/article/uG1Um83JFgz2BVxWRYC9",
@@ -144,6 +397,43 @@
         ],
         "detail": "华为的超节点思路是把 4096 张加速卡通过高速互联组成一台逻辑上的“计算机”，让它们像一颗芯片那样协同工作。这主要是为了应对大模型训练对超大规模算力和卡间通信效率的需求，也说明竞争重点正从单卡性能转向整个集群的系统能力。",
         "generatedAt": "2026-09-24T01:17:02+08:00"
+      }
+    },
+    {
+      "id": "e883079b810e95f8",
+      "title": "apple/LensVLM-9B · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wodf84/applelensvlm9b_hugging_face",
+      "summary": "https://huggingface.co/bartowski/LensVLM-9B-GGUF LensVLM-9B LensVLM is a 9B Vision Language Model (VLM) that scans compressed images of text, then selectively expands only the relevant pages to their uncompressed form via learned tools. Pap…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T02:04:25+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tools"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "苹果开源 LensVLM-9B：先扫压缩图再按需解压的视觉语言模型",
+        "takeaway": "苹果发布 9B 视觉语言模型 LensVLM，用“先看压缩图、再按需解压相关页”的方式处理文档图像。",
+        "bullets": [
+          "模型规模 9B，属于视觉语言模型（VLM），已在 Hugging Face 上线",
+          "做法是先扫描压缩后的文字图像，再只把相关页面解压还原",
+          "通过可学习的工具选择性地展开内容，而非一次性处理全部页面",
+          "社区已有 GGUF 量化版本，方便本地部署运行"
+        ],
+        "detail": "LensVLM 是苹果推出的 9B 视觉语言模型，思路是先扫描压缩过的文字图像，再借助学习到的工具，只把真正相关的页面还原成未压缩形式。这样可以在处理多页文档时减少不必要的计算，目前模型已发布在 Hugging Face，并有 GGUF 量化版可供本地使用。",
+        "generatedAt": "2026-09-24T05:55:31+08:00"
       }
     },
     {
@@ -255,6 +545,151 @@
       }
     },
     {
+      "id": "f744b3bc273e180b",
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials",
+      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T03:31:28+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "billion"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Enveda 获 3.11 亿美元融资，估值 20 亿，推进 AI 天然药物临床试验",
+        "takeaway": "AI 生物科技公司 Enveda 完成 3.11 亿美元融资，估值达 20 亿美元，将加速天然来源 AI 药物的临床研究。",
+        "bullets": [
+          "Enveda 完成 3.11 亿美元融资，估值 20 亿美元",
+          "资金用于推进天然来源 AI 药物进入临床试验",
+          "在研药物针对皮肤病和停用 GLP-1 后保持减重效果"
+        ],
+        "detail": "AI 生物科技公司 Enveda 在新一轮融资中筹集 3.11 亿美元，估值达到 20 亿美元。该公司利用人工智能从自然界中寻找药物分子，目前正在测试治疗皮肤病以及帮助停用 GLP-1 类药物后维持减重效果的候选药物。",
+        "generatedAt": "2026-09-24T05:55:31+08:00"
+      }
+    },
+    {
+      "id": "9d68d83cb176be4a",
+      "title": "Data centers are black boxes, but California wants to change that",
+      "url": "https://theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+      "summary": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T02:22:57+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "加州新法要求数据中心公开水电影响",
+        "takeaway": "加州州长签署法案，让社区了解数据中心对电费和水资源的影响，并拥有更多发言权。",
+        "bullets": [
+          "纽森签署多项法案，针对数据中心的资源消耗",
+          "社区将获得数据中心对电费和水供影响的更多数据",
+          "居民对数据中心选址和运营将有更大话语权",
+          "数据中心长期被视为黑箱，透明度有望提升"
+        ],
+        "detail": "加州州长纽森周一签署一系列法案，旨在让社区更清楚地了解数据中心如何影响当地电费和水资源，并赋予他们更多发言权。随着数据中心不断扩张，这一举措有望打破其黑箱状态。",
+        "generatedAt": "2026-09-24T05:55:31+08:00"
+      }
+    },
+    {
+      "id": "7d998d11cb8bbc61",
+      "title": "Once Claude can measure something, it can make it faster",
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+      "summary": "Article URL: https://claude.dev/blog/how-we-made-claude-ai-faster/ Comments URL: https://news.ycombinator.com/item?id=49821196 Points: 113 # Comments: 70",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T03:23:40+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 分享让 Claude 变快的方法：先能测量，再谈优化",
+        "takeaway": "Anthropic 发文讲如何让 Claude 更快，核心思路是先建立可测量的指标，再针对性优化。",
+        "bullets": [
+          "Anthropic 发布博客，讲如何让 Claude 变快",
+          "核心观点：能测量才能优化，先建指标再提速",
+          "文章登上 Hacker News，获 113 分、70 条讨论"
+        ],
+        "detail": "Anthropic 在官方博客发文，介绍团队如何让 Claude 变得更快。文章的核心思路是：只有先能测量某个环节，才能对它做优化。该文在 Hacker News 上引发讨论，获得 113 分和 70 条评论。",
+        "generatedAt": "2026-09-24T05:55:32+08:00"
+      }
+    },
+    {
+      "id": "4ac08839bdb346a3",
+      "title": "Shadow roots, explained with live examples",
+      "url": "https://simonwillison.net/2026/Sep/23/shadow-roots",
+      "summary": "Tool: Shadow roots, explained with live examples Prompt to Fable 5.1 Medium: Build an artifact to explain shadow roots in CSS with interactive examples Tags: css",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T24:37:18+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tool"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用交互示例讲清 CSS 影子根",
+        "takeaway": "Simon Willison 分享了一个用可交互示例解释 CSS shadow roots 的工具，适合前端开发者理解组件样式隔离。",
+        "bullets": [
+          "工具由 Fable 5.1 Medium 提示生成，展示 CSS 影子根概念",
+          "提供实时交互示例，帮助理解样式封装与隔离",
+          "面向前端开发者，降低 shadow DOM 学习门槛"
+        ],
+        "detail": "Simon Willison 发布了一个解释 CSS 影子根（shadow roots）的工具，内含可实时操作的示例。该工具由 Fable 5.1 Medium 提示生成，旨在直观展示影子 DOM 如何隔离样式，方便开发者快速理解这一前端概念。",
+        "generatedAt": "2026-09-24T05:55:33+08:00"
+      }
+    },
+    {
       "id": "aa506e3ca3dd8d6d",
       "title": "Pi agent qwen 3.8 flash next plays Baldur's Gate 2",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wob8ej/pi_agent_qwen_38_flash_next_plays_baldurs_gate_2",
@@ -288,6 +723,79 @@
         ],
         "detail": "一位爱好者做了个小实验：让 Qwen 3.8 Flash Next 驱动的智能体去玩经典游戏《博德之门2》。作者表示该模型的智能体能力很强，但想看看它在游戏场景里表现如何，并放出了直播录像链接。",
         "generatedAt": "2026-09-24T01:17:07+08:00"
+      }
+    },
+    {
+      "id": "674dc19e868e4da8",
+      "title": "Qwen FN vs 27B --- Think I'm saturated.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1woi2ho/qwen_fn_vs_27b_think_im_saturated",
+      "summary": "Got QFN up and running on our Strix box this past weekend and have been running on it for a few days now. Big thank you/shout out to the Halogen team, it's running fantastic on the Strix, this is clearly \"the setup\" right now for this hardw…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T04:58:59+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen FN 对比 27B：Strix 平台本地部署体验分享",
+        "takeaway": "用户在 Strix 设备上跑 Qwen FN 几天后表示已“饱和”，认为这是当前该硬件的理想配置。",
+        "bullets": [
+          "用户周末在 Strix 上部署 Qwen FN 并连续使用数天",
+          "对比对象为 27B 模型，作者称已“饱和”",
+          "特别感谢 Halogen 团队，称其在 Strix 上运行极佳",
+          "作者认为这是当前该硬件的“标准配置”"
+        ],
+        "detail": "一位用户在 Reddit 的 LocalLLaMA 版块分享，他上周末在 Strix 设备上成功运行了 Qwen FN，并已连续使用几天。他特别感谢 Halogen 团队，称该模型在 Strix 上运行非常流畅，并认为这是目前该硬件下的理想配置。",
+        "generatedAt": "2026-09-24T05:55:33+08:00"
+      }
+    },
+    {
+      "id": "e360f22d39bc73d5",
+      "title": "How to Fix Cursor AI Indexing Loop",
+      "url": "https://forum.cursor.com/t/how-to-fix-cursor-ai-indexing-loop/172803",
+      "summary": "There was an error for ai indexing so i decided to post a topic on how to fix cursor AI indexing loop . When Cursor AI gets stuck in an infinite codebase indexing loop, it locks up critical features like @codebase context retrieval, slows d…",
+      "source": {
+        "id": "cursor-guides",
+        "name": "Cursor 论坛指南",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T02:22:04+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor 索引死循环怎么破？论坛给出修复思路",
+        "takeaway": "Cursor 卡在代码库索引死循环会拖慢性能并锁死 @codebase 功能，论坛帖分享了排查修复方法。",
+        "bullets": [
+          "问题：Cursor AI 陷入无限索引循环，@codebase 上下文检索被锁死",
+          "影响：索引反复跑会拖慢编辑器，关键功能无法正常使用",
+          "来源：Cursor 论坛用户发帖，专门讲如何修复这一索引循环"
+        ],
+        "detail": "有用户遇到 Cursor AI 索引报错，于是发帖介绍如何解决索引死循环。当 Cursor 反复索引代码库停不下来时，@codebase 这类依赖索引的功能会被卡住，整体速度也会变慢。帖子给出了对应的修复思路。",
+        "generatedAt": "2026-09-24T05:55:34+08:00"
       }
     },
     {
@@ -408,6 +916,253 @@
         "detail": "世界模型正成为 AI 领域的新热点，参与者众多但各自为战。HappyWorld-Bench 的出现，是想用一套统一的评测标准，让不同世界模型能在同一张考卷上比出高下。目前公开信息有限，具体评测维度和方法还需看原文。",
         "generatedAt": "2026-09-24T01:17:09+08:00"
       }
+    },
+    {
+      "id": "229b3c7f852c8677",
+      "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+      "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts",
+      "summary": "Trump focus on winning “AI race” may deter China from sharing safety intel.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T04:52:28+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "专家警告：特朗普对华AI竞赛思维或危及美国安全",
+        "takeaway": "专家指出，特朗普执着于赢得对华“AI竞赛”，可能阻碍中国分享AI安全情报，反而不利于美国自身安全。",
+        "bullets": [
+          "特朗普政府将AI视为对华竞赛，强调必须取胜",
+          "专家警告这种对抗心态会减少中美安全合作",
+          "中国可能因此不愿分享AI安全风险信息",
+          "最终可能削弱美国自身的AI安全防护"
+        ],
+        "detail": "专家认为，特朗普把AI发展当作与中国争霸的竞赛，这种思维可能让中国不愿与美国共享AI安全情报。缺乏合作反而会让美国更难防范AI风险，最终危及自身安全。",
+        "generatedAt": "2026-09-24T05:55:34+08:00"
+      }
+    },
+    {
+      "id": "ee7ea9cc3ba746b8",
+      "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
+      "url": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them",
+      "summary": "$11M competition showed wildfire detection is still easier than stopping fires.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T04:28:42+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "XPRIZE野火竞赛：10分钟内发现火情，却仍无法阻止",
+        "takeaway": "1100万美元的XPRIZE野火竞赛证明，快速检测野火已可实现，但阻止火势蔓延仍是难题。",
+        "bullets": [
+          "XPRIZE野火竞赛结果：获胜团队能在10分钟内发现火情。",
+          "但所有团队都未能有效阻止火灾蔓延。",
+          "1100万美元奖金凸显检测与扑救之间的技术鸿沟。"
+        ],
+        "detail": "XPRIZE野火竞赛旨在推动野火快速检测与响应技术。获胜团队展示了10分钟内发现火情的能力，但均未能阻止火势扩大。这表明，尽管检测技术取得进步，但灭火和防控仍是巨大挑战。",
+        "generatedAt": "2026-09-24T05:55:35+08:00"
+      }
+    },
+    {
+      "id": "b7941cc8a21f5858",
+      "title": "YouTube promises custom feeds and a lot more AI later this year",
+      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year",
+      "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T03:35:53+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "YouTube 今年将推自定义信息流并加码 AI",
+        "takeaway": "YouTube 计划今年晚些时候推出自定义信息流，并大幅增加 AI 与直播功能，改变用户看到的内容。",
+        "bullets": [
+          "YouTube 承诺今年晚些时候推出自定义信息流",
+          "将更侧重 AI 和直播，影响内容推荐",
+          "可能改变用户看到的内容类型"
+        ],
+        "detail": "YouTube 表示今年晚些时候会推出自定义信息流，并大幅增加 AI 和直播相关功能。这意味着用户看到的内容可能发生明显变化，平台正把 AI 和直播作为下一年的重点方向。",
+        "generatedAt": "2026-09-24T05:55:35+08:00"
+      }
+    },
+    {
+      "id": "192d02ec68f8b2bc",
+      "title": "A US-China AI Hotline Won't Be Ready For a While",
+      "url": "https://wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while",
+      "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T05:00:00+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5fdaec3c58bdf107",
+      "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
+      "url": "https://wired.com/story/ai-agent-collusion-card-counting-secrets",
+      "summary": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T02:30:00+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b6423e1aa67ad670",
+      "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
+      "url": "https://wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs",
+      "summary": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T02:03:00+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2792cb9bc49e50cd",
+      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+      "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges",
+      "summary": "\"So absurd and embarrassing ...\"",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T01:39:39+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "update"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ac4690ac666fdcc8",
+      "title": "Jev isn't new tech. Its marketing targets people who think AI started with LLMs.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1woe70t/jev_isnt_new_tech_its_marketing_targets_people",
+      "summary": "I keep seeing Jev presented as some new class of decision model, but most of what’s being advertised is just normal classifier behavior with modern zero-shot capabilities. It outputs probabilities over constrained choices, doesn’t generate …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T02:33:21+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e34cd06baf570d67",
+      "title": "M5U base 96GB inference numbers for Q3.8FN after 112M tokens",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1woedly/m5u_base_96gb_inference_numbers_for_q38fn_after",
+      "summary": "TLDR; Base M5 Ultra 96 GB ran Q3.8 FN aggregate 3.2k PP and ~170 TG in 4 concurrency Alert: Numbers and custom server details at end are AI assisted So the good news is that I got the base model on launch day with only 64 core GPU. All benc…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T02:40:12+08:00",
+      "fetchedAt": "2026-09-24T05:55:17+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU"
+      ],
+      "confidence": 0.25,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
