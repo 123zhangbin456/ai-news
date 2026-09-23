@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "updatedAt": "2026-09-23T08:47:38+08:00",
+  "updatedAt": "2026-09-23T09:53:26+08:00",
   "items": [
     {
       "id": "4a4a3fb466bb7164",
@@ -823,6 +823,42 @@
       "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
+      "id": "bc56befdd6d839db",
+      "title": "推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学",
+      "url": "https://tmtpost.com/8149358.html",
+      "summary": "想跳出局部最优，就得先想好放弃什么。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T09:24:46+08:00",
+      "fetchedAt": "2026-09-23T09:53:20+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "推理芯片三路径：Groq、Cerebras与OpenAI之争",
+        "takeaway": "推理芯片赛道分化出三条路线，背后是英伟达首席科学家Bill Dally的设计取舍哲学。",
+        "bullets": [
+          "Groq、Cerebras、OpenAI代表三种推理芯片技术路径",
+          "讨论涉及英伟达首席科学家Bill Dally的设计哲学",
+          "核心观点：跳出局部最优需先明确放弃什么"
+        ],
+        "detail": "钛媒体梳理了推理芯片的三条主要路线，分别以Groq、Cerebras和OpenAI为代表，并引入英伟达首席科学家Bill Dally的设计思路作为参照。文章强调，想要跳出局部最优解，前提是先想清楚愿意放弃什么。",
+        "generatedAt": "2026-09-23T09:53:26+08:00"
+      }
+    },
+    {
       "id": "cdb477377ba30006",
       "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
       "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
@@ -858,6 +894,42 @@
         "generatedAt": "2026-09-23T05:44:41+08:00"
       },
       "pushedAt": "2026-09-23T07:54:07+08:00"
+    },
+    {
+      "id": "3cb6aaf4c83b57c4",
+      "title": "从蜜雪冰城到DeepSeek，高瓴系成大厂高管标配？",
+      "url": "https://tmtpost.com/8149163.html",
+      "summary": "高瓴为何盛产CFO？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T09:33:47+08:00",
+      "fetchedAt": "2026-09-23T09:53:20+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "高瓴系高管频出：从蜜雪冰城到DeepSeek",
+        "takeaway": "高瓴资本培养的高管正成为大厂标配，其CFO输出模式引发关注。",
+        "bullets": [
+          "蜜雪冰城、DeepSeek等公司出现高瓴系高管",
+          "高瓴被视作大厂高管的摇篮",
+          "现象背后是高瓴的人才培养与输出机制"
+        ],
+        "detail": "高瓴资本不仅投资企业，还向蜜雪冰城、DeepSeek等公司输送高管，尤其是CFO。这引发讨论：为何高瓴能持续产出大厂高管？其人才体系值得关注。",
+        "generatedAt": "2026-09-23T09:53:26+08:00"
+      }
     },
     {
       "id": "18b55a6130864676",
@@ -1157,6 +1229,40 @@
       "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
+      "id": "185ec21669b4b9c0",
+      "title": "Cloudflare 测试通过缓存转码来减少存储需求",
+      "url": "https://infoq.cn/article/izptFj6mjkyfd03qFHk9",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T17:26:00+08:00",
+      "fetchedAt": "2026-09-23T09:53:20+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cloudflare 测试缓存转码，减少存储需求",
+        "takeaway": "Cloudflare 正测试在缓存层做转码，以降低存储占用，可能影响 CDN 与媒体处理方式。",
+        "bullets": [
+          "Cloudflare 测试通过缓存转码减少存储需求",
+          "转码在缓存环节完成，而非源站或独立服务",
+          "若落地，可降低媒体存储成本与带宽压力"
+        ],
+        "detail": "据 InfoQ 中国报道，Cloudflare 正在测试一种通过缓存转码来减少存储需求的做法。简单说，就是把转码放到缓存环节处理，而不是只存原始文件。这有望降低存储开销，但具体效果和适用范围仍待观察。",
+        "generatedAt": "2026-09-23T09:53:25+08:00"
+      }
+    },
+    {
       "id": "dc01d779f1a80567",
       "title": "My local llm when I tell it to do any changes to my vLLM service",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wnn6ui/my_local_llm_when_i_tell_it_to_do_any_changes_to",
@@ -1303,6 +1409,31 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-09-23T07:54:07+08:00"
+    },
+    {
+      "id": "c8035cf89d9cd625",
+      "title": "AI智能体，正在让CPU身价暴涨",
+      "url": "https://tmtpost.com/8149352.html",
+      "summary": "过去两年，AI圈有一个几乎无人质疑的共识：GPU决定AI的上限。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T09:24:25+08:00",
+      "fetchedAt": "2026-09-23T09:53:20+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
