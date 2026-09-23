@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "updatedAt": "2026-09-23T07:54:07+08:00",
+  "updatedAt": "2026-09-23T14:49:17+08:00",
   "items": [
     {
       "id": "0298d85b6dc9fcd0",
@@ -2585,6 +2585,34 @@
       "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
+      "id": "f32ff2d5ca32ff24",
+      "title": "既不会聊天也不写代码的Jev为什么突然这么火？",
+      "url": "https://oschina.net/news/502678",
+      "summary": "最近一个由TypeSafe AI公司推出的模型叫Jev的模型突然火出了圈它和我们熟悉的GPT、Claude、Qwen等模型完全不一样，你让它给你写文章它不会、让它陪你聊天也不行；甚至让它解释为什么这么判断也不是它能做到的事。那Jev能为我们做什么呢其实非常简单那就是判断，如果一个Agent需要决定下一步是搜索网页，是查询数据库还是...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T22:47:02+08:00",
+      "fetchedAt": "2026-09-23T14:48:48+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出",
+        "GPT",
+        "Claude",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "612327c1e755573c",
       "title": "Huawei shelves global AI chip rollout as China's own demand outstrips supply — AMD and Nvidia no longer have to worry.",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wmm89l/huawei_shelves_global_ai_chip_rollout_as_chinas",
@@ -4302,6 +4330,32 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-09-23T07:54:07+08:00"
+    },
+    {
+      "id": "787e0ccdf8f16768",
+      "title": "Agent 时代，如何正确给大模型接入数据库？",
+      "url": "https://oschina.net/news/502677",
+      "summary": "很多人尝试给 Agent 接数据库，第一反应往往是拿本地脚本直连，或者找个现成的数据库 MCP 暴露 DDL 和执行接口。Demo 很容易跑通，但一旦进真实场景就会发现：大模型搞不懂缩写和数字枚举、复杂多表联查极易写错、生产账号密码暴露在客户端、甚至一条没有 WHERE 的 SQL 就能引发越权或误改。要让 Agent 真正安全、稳定地...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-22T22:11:40+08:00",
+      "fetchedAt": "2026-09-23T14:48:48+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "接入",
+        "客户"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
