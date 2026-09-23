@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "updatedAt": "2026-09-24T01:17:09+08:00",
+  "updatedAt": "2026-09-24T01:37:32+08:00",
   "items": [
     {
       "id": "4a4a3fb466bb7164",
@@ -1198,6 +1198,43 @@
         ],
         "detail": "在2026云栖大会的专题论坛上，蚂蚁密算发布了企业级可信智能云服务平台“密算一号”，并启动首批定向邀测。该平台基于密态计算，连接云上大模型、智能体和算力，让企业数据在“可用不可见、可控可计量”的前提下安全参与跨机构合作与AI应用。企业可按需申请资源，平台负责接入、权限、环境配置和结果交付，减少自行集成工作。",
         "generatedAt": "2026-09-23T20:20:55+08:00"
+      }
+    },
+    {
+      "id": "cee2ef699bfe5e07",
+      "title": "不要被 AI 炒作愚弄",
+      "url": "https://solidot.org/story?sid=85466",
+      "summary": "Anthropic 声称其模型 Claude Mythos 在发现软件漏洞上胜过大多数安全专家。随后发生了 OpenAI–Hugging Face 安全事件，此后 Anthropic（自豪）和 Meta（不情愿）也披露了各自模型的类似事件。紧接着 Anthropic 宣称其模型取得了数学领域的突破；OpenAI 也声称自己取得了数学突破。Anthropic 工程师 Jacob Coxon 在宣布离职时引发了广泛关注，他声称该公司与 OpenAI 正“冲向自我进化的超级智能，并…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T23:29:02+08:00",
+      "fetchedAt": "2026-09-24T01:37:22+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "离职"
+      ],
+      "confidence": 0.5,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "别被 AI 炒作愚弄：安全与数学突破接连被质疑",
+        "takeaway": "Anthropic、OpenAI 接连宣称安全与数学突破，但相关事件和离职工程师爆料让这些说法值得警惕。",
+        "bullets": [
+          "Anthropic 称 Claude Mythos 漏洞发现能力超多数安全专家",
+          "OpenAI–Hugging Face 安全事件后，Anthropic 与 Meta 也披露类似事件",
+          "两家公司随后又各自宣称取得数学突破",
+          "Anthropic 工程师离职时称双方正冲向自我进化的超级智能"
+        ],
+        "detail": "Anthropic 先称其模型在找软件漏洞上强过多数安全专家，随后 OpenAI 与 Hugging Face 发生安全事件，Anthropic 和 Meta 也承认自家模型出现类似问题。紧接着两家公司又先后宣称数学突破，而 Anthropic 一名工程师离职时直言，双方正冲向自我进化的超级智能。",
+        "generatedAt": "2026-09-24T01:37:31+08:00"
       }
     },
     {
@@ -3808,6 +3845,43 @@
       "score": 35,
       "related": [],
       "pushed": false
+    },
+    {
+      "id": "1101ef892d626101",
+      "title": "英国准备施压 Google 向 Android 和 Chrome 用户展示 AI 助手选择屏",
+      "url": "https://solidot.org/story?sid=85465",
+      "summary": "英国竞争监管机构 CMA 想要让 Android 和 Chrome 用户对 AI 助手和搜索引擎有更大的选择权和控制权。CMA 公布了一份提案，要求 Google 在用户首次设置 Android 手机或打开 Chrome 浏览器时，向其展示多种搜索引擎供选择，并且每年提示用户选择一个默认搜索引擎；符合技术与安全标准的 AI 助手也必须获准出现在选择屏上上。该提案目前进入公众咨询阶段，截止日期为 10 月 9 日，CMA 预计将在今年底前做出最终决定。",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T22:56:12+08:00",
+      "fetchedAt": "2026-09-24T01:37:22+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "监管"
+      ],
+      "confidence": 0.2,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英国拟要求 Google 在 Android 和 Chrome 上展示 AI 助手选择屏",
+        "takeaway": "英国 CMA 提案让用户自选默认搜索引擎和 AI 助手，Google 面临更大监管压力。",
+        "bullets": [
+          "CMA 要求 Android 首次设置和 Chrome 打开时展示搜索引擎选择屏",
+          "每年需提示用户重新选择默认搜索引擎",
+          "符合安全标准的 AI 助手也须出现在选择屏上",
+          "提案已进入公众咨询，截止 10 月 9 日，年底前定案"
+        ],
+        "detail": "英国竞争与市场管理局（CMA）公布提案，要求 Google 在用户首次设置 Android 手机或打开 Chrome 时，提供多种搜索引擎选项，并每年提醒用户重选默认引擎。同时，满足技术与安全标准的 AI 助手也要被列入选择屏。目前该提案正公开征求意见，截止 10 月 9 日，CMA 预计年底前做出最终决定。",
+        "generatedAt": "2026-09-24T01:37:31+08:00"
+      }
     },
     {
       "id": "dc01d779f1a80567",
