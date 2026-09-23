@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "updatedAt": "2026-09-23T20:21:07+08:00",
+  "updatedAt": "2026-09-24T01:17:09+08:00",
   "items": [
     {
       "id": "4a4a3fb466bb7164",
@@ -417,6 +417,43 @@
       }
     },
     {
+      "id": "914ed32ad555468d",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+      "summary": "",
+      "source": {
+        "id": "deepmind",
+        "name": "Google DeepMind",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T23:25:14+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 0,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Google DeepMind 发布 Gemini 3.8 文本转语音模型",
+        "takeaway": "Gemini 3.8 新增文本转语音能力，语音合成赛道再添一名大厂选手。",
+        "bullets": [
+          "Google DeepMind 发布 Gemini 3.8 文本转语音功能",
+          "官方以「say hello」宣告该能力正式亮相",
+          "文本转语音是语音助手、有声内容的核心能力",
+          "目前仅有发布消息，具体参数与开放范围未公布"
+        ],
+        "detail": "Google DeepMind 宣布 Gemini 3.8 具备文本转语音能力，用一句「say hello」作为发布信号。官方未同步披露音色、语言支持、延迟等技术细节，也未说明面向开发者还是普通用户的开放方式。",
+        "generatedAt": "2026-09-24T01:16:59+08:00"
+      }
+    },
+    {
       "id": "b6b1e4118cdbb529",
       "title": "Better prompt caching for GPT-6",
       "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
@@ -603,6 +640,45 @@
         ],
         "detail": "Reddit 网友称，关于 Kimi 高管被捕的传闻终于有了些依据，但实际情况更可能是被调查、面临逮捕风险或罚款。消息指 DeepSeek 与月之暗面因可能向 Anthropic 泄露数据而接受北京调查，具体细节尚未证实。",
         "generatedAt": "2026-09-23T14:49:05+08:00"
+      }
+    },
+    {
+      "id": "eb781c3c723f5632",
+      "title": "GPT-6 Sol 降价 50% 的秘密：消失的 Terra，一场模型梯队平移",
+      "url": "https://leiphone.com/category/yanxishe/gnzWAPK52Igo0DSk.html",
+      "summary": "奥圣上台，梁圣危机了么？ 作者丨高允毅编辑丨岑峰 OpenAI 也走性价比路线了？别被它的“偷梁换柱”给骗了。今早，硅谷又热闹了，迎来双雄对决。Anthropic 推出 Claude Opus 5.5，OpenAI 紧接着推出 GPT-6 Sol 与 Luna。和以往模型更新不同的是，行业的讨论点聚焦到了 “大家怎么都变便宜了”。 Claude Opus 5.5 较上一代 Opus 5，成本降低 40% ，拥有 Fable 级性能。而 GPT-6 Sol 降得更狠，性能持平 …",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T20:47:00+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出",
+        "GPT",
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GPT-6 Sol 降价 50% 背后：Terra 消失，模型梯队整体平移",
+        "takeaway": "OpenAI 发布 GPT-6 Sol 与 Luna，Sol 降价五成，实为模型梯队重新排位而非单纯让利。",
+        "bullets": [
+          "OpenAI 推出 GPT-6 Sol 与 Luna，Sol 价格直降 50%",
+          "同天 Anthropic 发布 Claude Opus 5.5，成本降 40%",
+          "原有 Terra 型号消失，被指梯队整体平移",
+          "行业讨论焦点从性能转向「怎么都变便宜了」"
+        ],
+        "detail": "OpenAI 发布 GPT-6 Sol 和 Luna，Sol 性能持平但价格砍半；同一天 Anthropic 的 Claude Opus 5.5 成本也降了 40%。文章认为 Sol 降价并非单纯让利，而是原有 Terra 型号消失、整个模型梯队向下平移的结果。",
+        "generatedAt": "2026-09-24T01:16:59+08:00"
       }
     },
     {
@@ -1197,6 +1273,43 @@
       }
     },
     {
+      "id": "ad9b5464300c8be3",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app",
+      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T22:30:00+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features",
+        "app"
+      ],
+      "confidence": 0.25,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "YouTube 为创作者推出 Studio 新 AI 功能",
+        "takeaway": "YouTube 在 Studio 应用中新增 AI 功能，帮助创作者生成创意并监测缩略图表现。",
+        "bullets": [
+          "YouTube 在 Studio 应用中推出新 AI 功能",
+          "可帮助创作者生成视频创意",
+          "可监测缩略图的表现数据"
+        ],
+        "detail": "YouTube 正在为其创作者工具 Studio 应用加入新的 AI 功能。这些功能可以帮创作者生成视频创意，还能监测缩略图的表现情况。",
+        "generatedAt": "2026-09-24T01:17:00+08:00"
+      }
+    },
+    {
       "id": "b8ccf775417893ad",
       "title": "Claude 5.5 发布，性能直逼 Fable，还要卷价格",
       "url": "https://ifanr.com/1681629",
@@ -1303,6 +1416,42 @@
         ],
         "detail": "据量子位消息，阿里通义千问（Qwen）负责人已确定由刘大一恒接任。刘大一恒与稚晖君同属“天才少年”计划同一届，此次人事变动意味着Qwen团队进入新阶段，后续模型发布与方向值得关注。",
         "generatedAt": "2026-09-23T20:20:57+08:00"
+      }
+    },
+    {
+      "id": "a4dec25709f445f4",
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T21:17:01+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达 Nemotron 3 上线说话人分离，实时多说话人 AI 可落地",
+        "takeaway": "英伟达在 Hugging Face 发布 Nemotron 3 说话人分离模型，让 AI 能实时分辨谁在说话。",
+        "bullets": [
+          "模型名为 Nemotron 3 Diarization，主打实时多说话人场景",
+          "发布渠道为 Hugging Face，开发者可直接取用",
+          "说话人分离可提升会议转写、客服质检等应用准确度"
+        ],
+        "detail": "英伟达在 Hugging Face 上推出 Nemotron 3 说话人分离（Diarization）能力，目标是帮开发者搭建能实时区分多位说话人的 AI 应用。说话人分离解决的是“谁在什么时候说了什么”，是会议记录、通话分析等场景的关键一环。",
+        "generatedAt": "2026-09-24T01:17:01+08:00"
       }
     },
     {
@@ -1528,6 +1677,42 @@
       }
     },
     {
+      "id": "f28c995c4f3c2255",
+      "title": "YouTube will let you build your own algorithm with AI",
+      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai",
+      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T22:30:00+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "YouTube 推出 AI 自定义信息流，用 Gemini 按描述生成推荐",
+        "takeaway": "YouTube 允许用户用自然语言描述想看的内容，由 Gemini 生成专属推荐流，推荐算法开始可定制。",
+        "bullets": [
+          "用户可用自己的话描述想看的视频，Gemini 据此生成个性化信息流",
+          "新功能叫自定义信息流（custom feeds），是 YouTube 推荐机制的一次变化",
+          "意味着用户能部分绕开平台原有算法，自己定义推荐逻辑"
+        ],
+        "detail": "YouTube 上线自定义信息流功能：用户用自然语言说出想看什么视频，系统调用 Gemini 围绕这个需求生成一条个性化推荐流。这相当于把部分推荐算法的控制权交给用户，不再只依赖平台默认的推荐逻辑。",
+        "generatedAt": "2026-09-24T01:17:01+08:00"
+      }
+    },
+    {
       "id": "038516e97ded22d4",
       "title": "Jev 火得一塌糊涂，但它架构没护城河：OpenAI 随时能抄",
       "url": "https://oschina.net/news/502690/will-openai-eat-jevs-lunch",
@@ -1598,6 +1783,43 @@
         ],
         "detail": "过去两年人形机器人热度堪比当年新能源汽车，融资、发布会不断，参数和演示越来越亮眼。但做出来和交到用户手里之间隔着工业化的鸿沟，目前消费级具身智能累计出货约3万台，大多通过内测、体验或企业采购流出。启元机器人称已备好货，想让启仔、远仔成为普通人下单就能带回家的硅基伙伴。",
         "generatedAt": "2026-09-23T20:20:57+08:00"
+      }
+    },
+    {
+      "id": "3c250389bd471a9f",
+      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services",
+      "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T20:00:00+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raises",
+        "raised"
+      ],
+      "confidence": 0.57,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Ema 融资 7700 万美元，AI 开始蚕食企业软件服务",
+        "takeaway": "AI 公司 Ema 获 7700 万美元新融资，累计 1.4 亿，客户含谷歌微软，显示 AI 正切入企业软件市场。",
+        "bullets": [
+          "Ema 新融资 7700 万美元，累计达 1.4 亿",
+          "企业客户超 50 家，包括谷歌和微软",
+          "AI 正逐步取代传统企业软件与服务"
+        ],
+        "detail": "Ema 是一家 AI 公司，近日完成 7700 万美元融资，累计融资额达 1.4 亿美元。其企业客户已超过 50 家，包括谷歌和微软。这表明 AI 正在进入企业软件和服务领域，可能对传统厂商造成冲击。",
+        "generatedAt": "2026-09-24T01:17:02+08:00"
       }
     },
     {
@@ -2432,6 +2654,187 @@
       }
     },
     {
+      "id": "02b2e87836a22c8f",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features",
+      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T23:19:30+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features",
+        "app",
+        "users"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "YouTube Music 推出 AI 对话式点歌功能 Ask Music",
+        "takeaway": "YouTube Music 内嵌 Ask Music，用户可用日常语言描述想听的内容，无需搜索具体歌曲或歌手。",
+        "bullets": [
+          "Ask Music 直接集成在 YouTube Music 应用中",
+          "用户可用日常语言描述想听的内容",
+          "无需再搜索具体歌曲或歌手"
+        ],
+        "detail": "YouTube Music 新增 AI 功能 Ask Music，直接内置于应用中。用户不再需要搜索具体歌曲或歌手，而是可以用日常语言描述自己想听什么，让点歌变得更像对话。",
+        "generatedAt": "2026-09-24T01:17:03+08:00"
+      }
+    },
+    {
+      "id": "a35c7e7921ad4576",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T22:30:00+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "joins"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "TechCrunch Disrupt 2026 设 StrictlyVC 专场，聚焦 AI 改写风投规则",
+        "takeaway": "TechCrunch 旗下 StrictlyVC 将在 Disrupt 2026 举办专场，讨论 AI 如何改变风险投资的玩法。",
+        "bullets": [
+          "StrictlyVC 专场将登陆 TechCrunch Disrupt 2026",
+          "主题是 AI 冲击下风投行业规则的变化",
+          "需购买 Investor Pass 才能参加这些闭门场次",
+          "9 月 25 日太平洋时间 23:59 前购票可省 200 美元"
+        ],
+        "detail": "TechCrunch 宣布，旗下活动品牌 StrictlyVC 将加入 TechCrunch Disrupt 2026，围绕 AI 给风险投资带来的变化展开讨论。想参与这些专场，需要购买 Investor Pass；在太平洋时间 9 月 25 日 23:59 前购票可省 200 美元。",
+        "generatedAt": "2026-09-24T01:17:04+08:00"
+      }
+    },
+    {
+      "id": "2798abfc79b6c258",
+      "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026",
+      "summary": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25 at 11:59 p.m. PT. Register today.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T22:00:00+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "TechCrunch Disrupt 2026 早鸟票倒计时 3 天，最高省 200 美元",
+        "takeaway": "TechCrunch Disrupt 2026 门票优惠只剩 3 天，最高省 200 美元，第二张半价，9 月 25 日截止。",
+        "bullets": [
+          "优惠截止 9 月 25 日太平洋时间晚 11:59",
+          "单张最高省 200 美元，第二张享 5 折",
+          "可与 1 万多名科技领袖现场交流"
+        ],
+        "detail": "TechCrunch Disrupt 2026 大会门票促销进入最后 3 天，单张最高可省 200 美元，第二张还能打五折。活动预计汇聚 1 万多名科技领袖，适合拓展人脉。优惠截止到 9 月 25 日太平洋时间晚 11:59，需尽快注册。",
+        "generatedAt": "2026-09-24T01:17:04+08:00"
+      }
+    },
+    {
+      "id": "86538d928c27cd1a",
+      "title": "YouTube is building AI creator tools that do almost everything for them",
+      "url": "https://theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "summary": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling cre…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T22:30:00+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tools"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "YouTube 为创作者打造几乎全自动的 AI 工具",
+        "takeaway": "YouTube 正把算法推荐逻辑变成 AI 工具，帮创作者自动完成从选题到推广的大部分工作。",
+        "bullets": [
+          "YouTube 正在开发 AI 创作工具，可自动完成创作者的大部分工作",
+          "过去创作者需费力破解算法，如今平台直接告知推荐逻辑",
+          "工具可能降低创作门槛，但也让创作者更依赖平台"
+        ],
+        "detail": "过去创作者得自己琢磨怎么让作品被更多人看到，跟算法斗智斗勇很让人头疼。现在 YouTube 越来越直接地告诉创作者该怎么做，并开发 AI 工具帮他们自动完成这些事。",
+        "generatedAt": "2026-09-24T01:17:05+08:00"
+      }
+    },
+    {
+      "id": "d97d1115ae0834c5",
+      "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+      "url": "https://wired.com/story/metas-muse-ai-agent-zero-day",
+      "summary": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T20:54:58+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "assistant"
+      ],
+      "confidence": 0.5,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 的 Muse AI 助手曝严重安全漏洞，已紧急修复",
+        "takeaway": "Muse 存在零日漏洞，攻击者可完全控制受害者 Mac，Meta 已发布修复，凸显 AI 助手的安全隐患。",
+        "bullets": [
+          "Meta 的 Muse AI 助手被曝存在零日漏洞",
+          "攻击者可借此在受害者 Mac 上为所欲为",
+          "Meta 称已发布修复，事件凸显 AI 助手风险"
+        ],
+        "detail": "Meta 承认其 AI 助手 Muse 存在一个零日漏洞，攻击者利用它能在受害者的 Mac 上执行任意操作。公司表示已发布修复程序。此事再次提醒人们，AI 助手在带来便利的同时也可能引入严重的安全隐患。",
+        "generatedAt": "2026-09-24T01:17:05+08:00"
+      }
+    },
+    {
       "id": "cdb477377ba30006",
       "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
       "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
@@ -2595,6 +2998,115 @@
         ],
         "detail": "量子位报道称，实时世界模型正进入“全科生”阶段，不再只追求单一维度的表现。PixVerse R2 率先交卷，试图同时满足实时性和通用能力两方面的需求。",
         "generatedAt": "2026-09-23T20:21:02+08:00"
+      }
+    },
+    {
+      "id": "0136a6d857a6b6fa",
+      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+      "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile",
+      "summary": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T21:00:00+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launch"
+      ],
+      "confidence": 0.67,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Spotify 在美国推出 Taste Profile，让用户用自然语言调教推荐算法",
+        "takeaway": "Spotify 向美国 Premium 用户开放 Taste Profile，可查看并改写自己的音乐推荐偏好。",
+        "bullets": [
+          "美国 Premium 用户可查看 Spotify 如何理解自己的音乐口味",
+          "支持用自然语言直接调整推荐结果",
+          "这是 Spotify 首次把推荐算法的控制权交给用户"
+        ],
+        "detail": "Spotify 在美国面向 Premium 用户上线 Taste Profile 功能。用户能直观看到平台对自己音乐口味的理解，还能用自然语言描述喜好来重塑推荐内容，让算法更贴近个人偏好。",
+        "generatedAt": "2026-09-24T01:17:06+08:00"
+      }
+    },
+    {
+      "id": "18c511d8742ebf23",
+      "title": "GPT-6 Astra has gained the ability to drive a car",
+      "url": "https://drivingbench.com/",
+      "summary": "Article URL: https://drivingbench.com/ Comments URL: https://news.ycombinator.com/item?id=49817404 Points: 160 # Comments: 127",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T23:14:22+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GPT-6 Astra 被曝具备驾驶汽车能力",
+        "takeaway": "Hacker News 热帖称 GPT-6 Astra 能开车，但来源仅为一个评测站点，真实性待验证。",
+        "bullets": [
+          "帖子标题称 GPT-6 Astra 获得驾驶汽车的能力",
+          "链接指向 drivingbench.com，疑似驾驶能力评测页面",
+          "HN 讨论热度高，160 分、127 条评论，争议不小",
+          "目前无官方确认，需谨慎看待该说法"
+        ],
+        "detail": "Hacker News 上出现一条帖子，标题称 GPT-6 Astra 已具备驾驶汽车的能力，并附上 drivingbench.com 的链接。帖子获得 160 分和 127 条评论，讨论热烈，但摘要未提供更多技术细节，也没有官方背书，实际能力与测试条件仍不明确。",
+        "generatedAt": "2026-09-24T01:17:06+08:00"
+      }
+    },
+    {
+      "id": "a877a4ca213122af",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on",
+      "summary": "Article URL: https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/ Comments URL: https://news.ycombinator.com/item?id=49814947 Points: 360 # Comments: 200",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T20:15:33+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Code 被曝仅在遥测开启时读取 AGENTS.md",
+        "takeaway": "开发者发现 Claude Code 读取项目配置文件竟与遥测开关绑定，引发对隐私与工具行为的质疑。",
+        "bullets": [
+          "有开发者发现 Claude Code 只在遥测开启时才读取 AGENTS.md 文件",
+          "该问题在 Hacker News 上引发热议，获得 360 分和 200 条评论",
+          "标题标注 fixed，暗示该行为可能已被修复或澄清"
+        ],
+        "detail": "有开发者指出，Claude Code 只有在遥测功能开启时才会读取项目中的 AGENTS.md 配置文件，这一关联让不少人怀疑工具行为是否被遥测机制左右。该帖在 Hacker News 上迅速走红，标题中的 fixed 表明问题可能已得到处理。",
+        "generatedAt": "2026-09-24T01:17:07+08:00"
       }
     },
     {
@@ -2906,6 +3418,42 @@
         ],
         "detail": "大赛由开源中国主办，主题为“开源向实”，面向全国征集开源项目。ZSvirt 作为官方合作伙伴，在智算云赛道给出命题，方向是虚拟机内部容器与智能体工作的故障诊断，专家对此进行了解读。",
         "generatedAt": "2026-09-23T20:21:04+08:00"
+      }
+    },
+    {
+      "id": "b14a3579a753f075",
+      "title": "Space Bunny is the new stealth model in OpenCode. Free to try, multimodal",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wo81si/space_bunny_is_the_new_stealth_model_in_opencode",
+      "summary": "I’m really curious to know which company released it. submitted by /u/Greney_Yunan [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T22:47:21+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "multimodal"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenCode 上线神秘新模型 Space Bunny，免费多模态",
+        "takeaway": "OpenCode 出现代号 Space Bunny 的匿名新模型，免费可试且支持多模态，但发布方未知。",
+        "bullets": [
+          "OpenCode 新增隐身模型 Space Bunny，可免费试用",
+          "该模型支持多模态，具体能力尚未公开",
+          "发布公司身份成谜，社区正猜测来源"
+        ],
+        "detail": "OpenCode 平台上线了一个名为 Space Bunny 的新模型，目前处于隐身测试状态，用户可免费体验，并且具备多模态能力。但官方没有说明是哪家公司发布的，发帖者也在好奇背后厂商是谁。",
+        "generatedAt": "2026-09-24T01:17:08+08:00"
       }
     },
     {
@@ -3333,6 +3881,33 @@
         "推出"
       ],
       "confidence": 0.33,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3b8975bffc1a3460",
+      "title": "把握AI数据中心热潮：Marvell及另外两只股票",
+      "url": "https://tmtpost.com/8151200.html",
+      "summary": "英伟达首席执行官黄仁勋在预测迈威尔将成为下一家市值达到一万亿美元的芯片公司时判断错了。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T22:00:51+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "英伟达",
+        "数据中心"
+      ],
+      "confidence": 0.81,
       "score": 33,
       "related": [],
       "pushed": false
@@ -3843,6 +4418,29 @@
         "部署"
       ],
       "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3186e672f1e7c481",
+      "title": "Stripe's Knowledge AI Platform",
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "summary": "Article URL: https://stripe.dev/blog/meet-stripes-knowledge-ai-platform Comments URL: https://news.ycombinator.com/item?id=49815982 Points: 106 # Comments: 60",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T21:38:00+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 30,
       "related": [],
       "pushed": false

@@ -1,7 +1,151 @@
 {
   "date": "2026-09-24",
-  "updatedAt": "2026-09-23T20:21:05+08:00",
+  "updatedAt": "2026-09-24T01:17:09+08:00",
   "items": [
+    {
+      "id": "cc4eeeb5b4a2871d",
+      "title": "Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%",
+      "url": "https://infoq.cn/article/jG9ksSRvpkfP20Qif8Ov",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T06:41:27+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "GPT",
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 63,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Opus 5.5 发布：一天迁移 68 万行代码，成本比 GPT-6 Astra 低 80%",
+        "takeaway": "Anthropic 新模型主打大规模代码迁移，单任务成本远低于竞品，值得开发者关注。",
+        "bullets": [
+          "Claude Opus 5.5 发布，一天内可迁移 68 万行代码",
+          "单任务成本比 GPT-6 Astra 便宜 80%",
+          "面向大规模代码迁移场景，或降低企业迁移成本"
+        ],
+        "detail": "Anthropic 推出 Claude Opus 5.5，官方称其能在一天内完成 68 万行代码的迁移。该模型单任务成本比 GPT-6 Astra 低 80%，主打大规模代码迁移场景，可能帮助企业显著降低迁移开销。",
+        "generatedAt": "2026-09-24T01:16:58+08:00"
+      }
+    },
+    {
+      "id": "7cff1964bf19497f",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T20:00:00+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 60,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Ringg 用 GPT-5.6 打造客服 AI，解决 65% 来电",
+        "takeaway": "Ringg 基于 GPT-5.6 的多语言客服代理能处理 65% 客户来电，成本比 GPT-4.1 低 90%。",
+        "bullets": [
+          "Ringg 的 AI 代理可处理高达 65% 的客户来电",
+          "覆盖语音、聊天、WhatsApp 和网页等多渠道",
+          "使用 GPT-5.6，成本比 GPT-4.1 降低 90%"
+        ],
+        "detail": "Ringg 利用 OpenAI 的 GPT-5.6 模型，构建了支持多语言的 AI 客服代理，能在语音、聊天、WhatsApp 和网页等渠道自动解决高达 65% 的客户来电。相比之前的 GPT-4.1，成本大幅下降 90%。",
+        "generatedAt": "2026-09-24T01:16:58+08:00"
+      }
+    },
+    {
+      "id": "cd8117c6d35f983b",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "source": {
+        "id": "deepmind",
+        "name": "Google DeepMind",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T24:00:57+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing"
+      ],
+      "confidence": 0,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Google DeepMind 为私有 AI 计算引入服务端安全内存",
+        "takeaway": "Google 在私有 AI 计算中加入服务端安全内存，让个人 AI 数据处理更私密。",
+        "bullets": [
+          "面向个人 AI 的私有计算新增服务端内存保护",
+          "由 Google DeepMind 发布，强调安全与隐私",
+          "可能让云端 AI 处理个人数据时更难被窥探"
+        ],
+        "detail": "Google DeepMind 宣布为 Private AI Compute 引入私密的服务端内存，用于个人 AI 场景。简单说，就是让 AI 在服务器上处理你的数据时，内存里的内容也受到保护，减少泄露风险。",
+        "generatedAt": "2026-09-24T01:16:59+08:00"
+      }
+    },
+    {
+      "id": "2f6a6155c0e97d04",
+      "title": "4096 张卡如何成为“一台计算机”？读懂华为的超节点布局",
+      "url": "https://infoq.cn/article/uG1Um83JFgz2BVxWRYC9",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T05:57:13+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "华为超节点布局：4096 张卡如何协同成一台计算机",
+        "takeaway": "华为用超节点把 4096 张加速卡连成一台逻辑计算机，探索大规模 AI 算力的系统级解法。",
+        "bullets": [
+          "华为提出超节点架构，将 4096 张卡整合为单一计算单元",
+          "核心是解决大规模 AI 训练中卡间通信与协同效率问题",
+          "该布局反映国产算力从单卡性能转向系统级集群竞争"
+        ],
+        "detail": "华为的超节点思路是把 4096 张加速卡通过高速互联组成一台逻辑上的“计算机”，让它们像一颗芯片那样协同工作。这主要是为了应对大模型训练对超大规模算力和卡间通信效率的需求，也说明竞争重点正从单卡性能转向整个集群的系统能力。",
+        "generatedAt": "2026-09-24T01:17:02+08:00"
+      }
+    },
     {
       "id": "c7ba0c67a14988ec",
       "title": "2026 年的云栖，阿里给 AI 行业递了一把新尺子",
@@ -34,6 +178,78 @@
         ],
         "detail": "在 2026 年云栖大会上，阿里巴巴发布了一项新标准，被形容为给 AI 行业递了一把新尺子。这意味着阿里试图为 AI 能力评估或行业规范提供新的参考依据。具体细节需查看原文。",
         "generatedAt": "2026-09-23T20:21:02+08:00"
+      }
+    },
+    {
+      "id": "be57f79d5784e406",
+      "title": "Even Americans who use AI every day are worried about it",
+      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it",
+      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T24:49:58+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "regulation"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "调查：天天用AI的美国人，照样对它不放心",
+        "takeaway": "TechCrunch报道，即便每天使用AI的人也对技术感到不安，且这种不安不会因接触增多而消失，公众仍支持监管。",
+        "bullets": [
+          "报告显示，日常使用AI并未消除美国人的担忧。",
+          "接触越多，不安感未必减少，监管支持率也未下降。",
+          "这意味着AI普及不会自动赢得公众信任。"
+        ],
+        "detail": "TechCrunch AI报道，一项报告指出，即使每天使用AI的美国人，也对这项技术感到担忧。报告认为，更多接触并不会化解这种不安，也不会降低公众对AI监管的支持。",
+        "generatedAt": "2026-09-24T01:17:02+08:00"
+      }
+    },
+    {
+      "id": "aa506e3ca3dd8d6d",
+      "title": "Pi agent qwen 3.8 flash next plays Baldur's Gate 2",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wob8ej/pi_agent_qwen_38_flash_next_plays_baldurs_gate_2",
+      "summary": "If like me you enjoyed classics like Baldur's Gate 2, this is a small fun experiment. For anyone interested: https://www.youtube.com/live/8FhPfRKTucw?si=PMIVdHbZ-31PNwZD Qwen 3.8 Flash Next has amazing agentic capabilities but what about pl…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T24:44:15+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 Flash Next 智能体实测：自动玩《博德之门2》",
+        "takeaway": "有开发者用 Qwen 3.8 Flash Next 驱动智能体试玩经典 RPG《博德之门2》，展示其代理能力。",
+        "bullets": [
+          "实验来自 r/LocalLLaMA 社区，作者称其为小型趣味尝试",
+          "测试对象是 Qwen 3.8 Flash Next 的智能体（agentic）能力",
+          "全程以直播形式记录，视频链接已公开"
+        ],
+        "detail": "一位爱好者做了个小实验：让 Qwen 3.8 Flash Next 驱动的智能体去玩经典游戏《博德之门2》。作者表示该模型的智能体能力很强，但想看看它在游戏场景里表现如何，并放出了直播录像链接。",
+        "generatedAt": "2026-09-24T01:17:07+08:00"
       }
     },
     {
@@ -83,6 +299,77 @@
       "score": 35,
       "related": [],
       "pushed": false
+    },
+    {
+      "id": "d66479592ce519c7",
+      "title": "从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限",
+      "url": "https://infoq.cn/article/ytHwXAq6vHzUm23RNYhk",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T06:51:41+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "对齐"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "PrismAlign 用多视角立体对齐提升文档结构化提取精度",
+        "takeaway": "InfoQ 中国报道，PrismAlign 从单目感知转向多视角立体对齐，试图重新定义文档结构化提取的精度上限。",
+        "bullets": [
+          "PrismAlign 提出多视角立体对齐方法，替代传统单目感知思路",
+          "目标场景是文档结构化提取，强调提升精度上限",
+          "该报道来自 InfoQ 中国，属于技术方案解读"
+        ],
+        "detail": "InfoQ 中国报道了一种名为 PrismAlign 的新方法，它不再依赖单目感知，而是通过多视角立体对齐来做文档结构化提取。报道称这一思路重新定义了该任务的精度上限，但摘要未给出具体技术细节或评测数据。",
+        "generatedAt": "2026-09-24T01:17:09+08:00"
+      }
+    },
+    {
+      "id": "22bedd28c1f92f84",
+      "title": "人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷",
+      "url": "https://infoq.cn/article/3rXojuNPmJANFv8iWqI8",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T06:09:09+08:00",
+      "fetchedAt": "2026-09-24T01:16:50+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "人人都在造世界模型，HappyWorld-Bench 想给出一张统一考卷",
+        "takeaway": "世界模型赛道缺少统一评测标准，HappyWorld-Bench 试图补上这块空白。",
+        "bullets": [
+          "世界模型成为热门方向，各家纷纷发布自己的模型",
+          "缺乏统一评测基准，模型能力难以横向比较",
+          "HappyWorld-Bench 提出一套统一考卷式评测方案",
+          "消息来自 InfoQ 中国，具体细节需查看原文"
+        ],
+        "detail": "世界模型正成为 AI 领域的新热点，参与者众多但各自为战。HappyWorld-Bench 的出现，是想用一套统一的评测标准，让不同世界模型能在同一张考卷上比出高下。目前公开信息有限，具体评测维度和方法还需看原文。",
+        "generatedAt": "2026-09-24T01:17:09+08:00"
+      }
     }
   ],
   "topic": "ai"
