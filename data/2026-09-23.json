@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "updatedAt": "2026-09-23T07:54:07+08:00",
+  "updatedAt": "2026-09-23T08:47:38+08:00",
   "items": [
     {
       "id": "4a4a3fb466bb7164",
@@ -418,6 +418,40 @@
       "pushedAt": "2026-09-23T07:54:07+08:00"
     },
     {
+      "id": "122c91126b73b649",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "url": "https://theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T08:17:17+08:00",
+      "fetchedAt": "2026-09-23T08:47:26+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 组建数学家顾问团，避免再陷数学声誉危机",
+        "takeaway": "OpenAI 因数学成果引发声誉危机后，成立独立小组咨询数学家，寻求更稳妥的发展路径。",
+        "bullets": [
+          "OpenAI 宣布成立独立小组，咨询人类数学家。",
+          "此前一系列数学成果引发声誉危机。",
+          "目的是找到更少灾难性的前进道路。"
+        ],
+        "detail": "OpenAI 在将一系列引人注目的数学成果变成声誉危机后，正咨询人类数学家以寻找一条不那么灾难性的前进道路。周一，该公司宣布了一个新的独立小组。",
+        "generatedAt": "2026-09-23T08:47:38+08:00"
+      }
+    },
+    {
       "id": "2d421e0305549998",
       "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
       "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence",
@@ -491,6 +525,44 @@
         "generatedAt": "2026-09-23T01:27:58+08:00"
       },
       "pushedAt": "2026-09-23T07:54:07+08:00"
+    },
+    {
+      "id": "720bdc5509213a5e",
+      "title": "早报｜GP-6 Sol发布，价格腰斩/特努斯：Siri AI不应代替人际关系/4999起，OPPO Find X10系列发布",
+      "url": "https://ifanr.com/1681566",
+      "summary": "· 第六代骁龙 8 双旗舰发布，iQOO 16、红魔 12 Pro+ 首批搭载 · Qwen Intelligence 亮相，荣耀 Magic9 系列、Robot Phone 首批搭载 · 前小米 XLA 负责人陈龙创业，研发「自进化」具身大模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T08:05:46+08:00",
+      "fetchedAt": "2026-09-23T08:47:26+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "早报：骁龙8双旗舰发布，OPPO Find X10系列4999元起",
+        "takeaway": "第六代骁龙8双旗舰芯片亮相，OPPO Find X10系列同步发布，多款新机将首批搭载。",
+        "bullets": [
+          "第六代骁龙8双旗舰发布，iQOO 16、红魔12 Pro+首批搭载",
+          "Qwen Intelligence亮相，荣耀Magic9系列、Robot Phone首批搭载",
+          "OPPO Find X10系列发布，4999元起",
+          "前小米XLA负责人陈龙创业，研发自进化具身大模型"
+        ],
+        "detail": "高通发布第六代骁龙8双旗舰芯片，iQOO 16和红魔12 Pro+将首批搭载。Qwen Intelligence同时亮相，荣耀Magic9系列和Robot Phone首批采用。OPPO Find X10系列发布，4999元起。前小米XLA负责人陈龙创业，主攻自进化具身大模型。",
+        "generatedAt": "2026-09-23T08:47:38+08:00"
+      }
     },
     {
       "id": "454487bcfb68a922",
@@ -924,6 +996,43 @@
         "generatedAt": "2026-09-23T05:44:42+08:00"
       },
       "pushedAt": "2026-09-23T07:54:07+08:00"
+    },
+    {
+      "id": "b52ec7adb0604ae3",
+      "title": "Cloud-AI Cold-Turkey: Real Dev Work with Local AI (Ornith 1.5 35b-a3b and Qwen 3.8-27b; 8GB VRAM vs 32GB VRAM)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wnkrt8/cloudai_coldturkey_real_dev_work_with_local_ai",
+      "summary": "Spent several weeks on an 'as-much-Local-AI-as-possible' regime and have been - mostly - impressed. Yes, Qwen 3.8 27b is the (rightful) star of the show (obligatory one-shot-mario-build-reddit-comment here! ). But don't underestimate what m…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-23T04:20:07+08:00",
+      "fetchedAt": "2026-09-23T08:47:26+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开发者实测：8GB 显存也能跑本地 AI 写代码",
+        "takeaway": "一位开发者用数周时间几乎完全依赖本地模型做真实开发，Qwen 3.8 27b 表现最亮眼。",
+        "bullets": [
+          "作者尝试尽可能用本地 AI 替代云端服务完成开发工作",
+          "Qwen 3.8 27b 被评价为其中最出色的模型",
+          "对比了 8GB 与 32GB 显存两种硬件条件下的实际体验",
+          "Ornith 1.5 35b-a3b 也在测试之列，表现不容小觑"
+        ],
+        "detail": "这位开发者花了几周时间，尽量把日常开发工作交给本地 AI 完成，结果整体令人满意。他认为 Qwen 3.8 27b 是当之无愧的主角，同时也提醒别低估小显存设备上的表现，并对比了 8GB 和 32GB 显存两种配置。",
+        "generatedAt": "2026-09-23T08:47:38+08:00"
+      }
     },
     {
       "id": "ddf3f0a3dcfe0fbd",
