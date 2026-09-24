@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "updatedAt": "2026-09-24T05:55:36+08:00",
+  "updatedAt": "2026-09-24T08:05:25+08:00",
   "items": [
     {
       "id": "4a4a3fb466bb7164",
@@ -1513,7 +1513,7 @@
       "confidence": 1,
       "score": 49,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Cursor 推出 Rollouts 与 Security Review 两个机器人",
         "takeaway": "Cursor 新增两个机器人，分别盯部署变更和 PR 安全漏洞，补齐代码交付最后一环。",
@@ -1524,7 +1524,8 @@
         ],
         "detail": "Cursor 在更新日志中介绍了两款新机器人，用于代码交付的最后一环。Rollouts 会在代码部署过程中持续观察每一次变更，Security Review 则针对每个拉取请求检查并报告可被利用的漏洞。",
         "generatedAt": "2026-09-24T05:55:26+08:00"
-      }
+      },
+      "pushedAt": "2026-09-24T08:05:25+08:00"
     },
     {
       "id": "b8ccf775417893ad",

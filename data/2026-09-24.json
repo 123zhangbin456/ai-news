@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "updatedAt": "2026-09-24T05:55:36+08:00",
+  "updatedAt": "2026-09-24T08:05:25+08:00",
   "items": [
     {
       "id": "cc4eeeb5b4a2871d",
@@ -27,7 +27,7 @@
       "confidence": 1,
       "score": 63,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Claude Opus 5.5 发布：一天迁移 68 万行代码，成本比 GPT-6 Astra 低 80%",
         "takeaway": "Anthropic 新模型主打大规模代码迁移，单任务成本远低于竞品，值得开发者关注。",
@@ -38,7 +38,8 @@
         ],
         "detail": "Anthropic 推出 Claude Opus 5.5，官方称其能在一天内完成 68 万行代码的迁移。该模型单任务成本比 GPT-6 Astra 低 80%，主打大规模代码迁移场景，可能帮助企业显著降低迁移开销。",
         "generatedAt": "2026-09-24T01:16:58+08:00"
-      }
+      },
+      "pushedAt": "2026-09-24T08:05:25+08:00"
     },
     {
       "id": "7cff1964bf19497f",
@@ -63,7 +64,7 @@
       "confidence": 1,
       "score": 60,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Ringg 用 GPT-5.6 打造客服 AI，解决 65% 来电",
         "takeaway": "Ringg 基于 GPT-5.6 的多语言客服代理能处理 65% 客户来电，成本比 GPT-4.1 低 90%。",
@@ -74,7 +75,8 @@
         ],
         "detail": "Ringg 利用 OpenAI 的 GPT-5.6 模型，构建了支持多语言的 AI 客服代理，能在语音、聊天、WhatsApp 和网页等渠道自动解决高达 65% 的客户来电。相比之前的 GPT-4.1，成本大幅下降 90%。",
         "generatedAt": "2026-09-24T01:16:58+08:00"
-      }
+      },
+      "pushedAt": "2026-09-24T08:05:25+08:00"
     },
     {
       "id": "2c3b9d4adb64ccbb",
@@ -113,6 +115,43 @@
       }
     },
     {
+      "id": "e8483fa4c1d3b991",
+      "title": "Anthropic says its biology lab has already found something big",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T06:17:39+08:00",
+      "fetchedAt": "2026-09-24T08:05:14+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 0.5,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 生物实验室称已有重大发现，但 Claude 未获自主权",
+        "takeaway": "Anthropic 透露其生物实验室取得重要成果，但强调人类仍全程参与，未让 Claude 自主运行。",
+        "bullets": [
+          "Anthropic 称其生物实验室已发现重大成果",
+          "但 Claude 并未在实验室中自主运行",
+          "人类研究人员仍全程参与关键环节",
+          "这回应了外界对 AI 自主科研的担忧"
+        ],
+        "detail": "Anthropic 表示，其生物实验室已经取得了某种重大发现。不过更值得关注的是，他们并没有让 Claude 在实验室里自由操作，人类至今仍留在决策回路中。",
+        "generatedAt": "2026-09-24T08:05:20+08:00"
+      }
+    },
+    {
       "id": "e61359e960f83497",
       "title": "Gemini 3.8 TTS Playground",
       "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground",
@@ -146,6 +185,42 @@
         ],
         "detail": "谷歌今天发布了两款新的 Gemini 文本转语音模型：gemini-3.8-flash-tts 和 gemini-3.8-flash-lite-tts。它们自带超过 2000 种音色的语音库，还支持创建自定义音色。Simon Willison 为此做了一个在线试玩页面。",
         "generatedAt": "2026-09-24T05:55:25+08:00"
+      }
+    },
+    {
+      "id": "31283a7047ea57ed",
+      "title": "Meta introduces camera-free AI glasses",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T07:39:44+08:00",
+      "fetchedAt": "2026-09-24T08:05:14+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 推出无摄像头 AI 眼镜，续航最长 12 小时",
+        "takeaway": "Meta 发布不带摄像头的 AI 眼镜，主打更轻便和长续航，回应隐私担忧。",
+        "bullets": [
+          "Meta 推出无摄像头版 AI 眼镜，机身更轻",
+          "官方称续航最长可达 12 小时",
+          "去掉摄像头或为缓解隐私争议"
+        ],
+        "detail": "Meta 宣布推出不带摄像头的 AI 眼镜，官方称其重量更轻，电池续航最长可达 12 小时。此前智能眼镜的摄像头常引发隐私担忧，这款产品可能意在提供更轻便、争议更小的选择。",
+        "generatedAt": "2026-09-24T08:05:20+08:00"
       }
     },
     {
@@ -220,6 +295,42 @@
         ],
         "detail": "ChatGPT 移动应用新增了基于语音的智能体功能。Pro 和 Plus 订阅用户可以在手机上的 Work 标签中，通过语音下达指令，让 AI 自动完成一系列操作任务，而不再只是简单对话。",
         "generatedAt": "2026-09-24T05:55:27+08:00"
+      }
+    },
+    {
+      "id": "544e23098ecc3702",
+      "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+      "url": "https://wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses",
+      "summary": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T07:42:44+08:00",
+      "fetchedAt": "2026-09-24T08:05:14+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "ban"
+      ],
+      "confidence": 0.5,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta Connect 发布多款智能眼镜，含首款无摄像头型号",
+        "takeaway": "Meta 推出更轻 VR 头显与首款无摄像头智能眼镜，产品线进一步细分。",
+        "bullets": [
+          "Meta Connect 大会发布多款智能眼镜新品",
+          "包括更轻薄的 VR 头显和首款无摄像头眼镜",
+          "产品线覆盖不同需求，或影响隐私争议"
+        ],
+        "detail": "在 Meta Connect 活动上，CEO 马克·扎克伯格发布了一系列新智能眼镜，包括一款更轻薄的 VR 头显，以及公司首款不带摄像头的眼镜。此举扩展了 Meta 的智能眼镜产品线，可能意在回应隐私担忧。",
+        "generatedAt": "2026-09-24T08:05:20+08:00"
       }
     },
     {
@@ -327,6 +438,44 @@
         ],
         "detail": "Anthropic 在官网发布消息，称其 Claude 模型发现了一种新的酶系统，其中包含类似 CRISPR 的重复序列。该消息在 Hacker News 上引发热议，获得 336 点、322 条评论。目前公开信息有限，具体发现细节和验证情况尚待进一步披露。",
         "generatedAt": "2026-09-24T05:55:28+08:00"
+      }
+    },
+    {
+      "id": "6d7f6123b81429ec",
+      "title": "【钛晨报】“十五五”民政工作怎么干？四大重点任务，养老排在第一位；马斯克预测未来世界：20年后可能有1000亿台人形机器人；高瓴创投原合伙人严文韬正式入职DeepSeek",
+      "url": "https://tmtpost.com/8151174.html",
+      "summary": "经合组织上调2026年全球经济增速预期至2.9%；恒生指数公司推出恒生半导体产业指数等八条新指数；中国将适度超前、系统推进新一代通信网建设，推动算力设施扩容提质；央行：9月24日将开展8000亿元MLF操作，期限为1年期；苹果出手限制“摇一摇”广告；SpaceX据悉停止猎鹰9号2028年以后预订，业内正掀起运力抢购热潮",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-24T07:20:00+08:00",
+      "fetchedAt": "2026-09-24T08:05:14+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出",
+        "DeepSeek"
+      ],
+      "confidence": 0.14,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "钛晨报：马斯克预言20年后千亿台人形机器人，高瓴合伙人入职DeepSeek",
+        "takeaway": "马斯克预测人形机器人将达千亿台，高瓴创投原合伙人严文韬加入DeepSeek，AI人才与机器人赛道热度不减。",
+        "bullets": [
+          "马斯克预测20年后全球人形机器人数量可能达1000亿台",
+          "高瓴创投原合伙人严文韬正式入职DeepSeek",
+          "经合组织上调2026年全球经济增长预期至2.9%",
+          "央行9月24日将开展8000亿元1年期MLF操作"
+        ],
+        "detail": "马斯克预测未来20年人形机器人可能达1000亿台，引发关注。同时，高瓴创投原合伙人严文韬正式入职DeepSeek，显示AI人才流动活跃。其他要闻包括经合组织上调经济预期、央行MLF操作等。",
+        "generatedAt": "2026-09-24T08:05:22+08:00"
       }
     },
     {
