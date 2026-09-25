@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "updatedAt": "2026-09-25T08:07:14+08:00",
+  "updatedAt": "2026-09-25T08:38:48+08:00",
   "items": [
     {
       "id": "91625e27c986178e",
@@ -1030,6 +1030,42 @@
       }
     },
     {
+      "id": "c2c1f2f820585a92",
+      "title": "Is Qwen Flash Next at like Q2 better than 27B at Q4?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wpgyfh/is_qwen_flash_next_at_like_q2_better_than_27b_at",
+      "summary": "I know questions like this are asked often but I didn’t see this specific one submitted by /u/Borkato [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T07:28:53+08:00",
+      "fetchedAt": "2026-09-25T08:38:42+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen Flash Next Q2 与 27B Q4 量化对比引讨论",
+        "takeaway": "社区在 r/LocalLLaMA 讨论 Qwen Flash Next 的 Q2 量化是否优于 27B 模型的 Q4 量化。",
+        "bullets": [
+          "用户 Borkato 在 r/LocalLLaMA 发帖提问",
+          "比较对象是 Qwen Flash Next Q2 与 27B Q4",
+          "该具体对比此前未被单独提出"
+        ],
+        "detail": "有用户在 r/LocalLLaMA 发帖，询问 Qwen Flash Next 的 Q2 量化版本是否比 27B 模型的 Q4 量化版本更好。发帖人表示这类问题常被讨论，但这一具体对比此前未见有人提出。",
+        "generatedAt": "2026-09-25T08:38:48+08:00"
+      }
+    },
+    {
       "id": "843daad69675ea11",
       "title": "FreedomIntelligence/HuatuoGPT-3-27B · Hugging Face",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wpaxud/freedomintelligencehuatuogpt327b_hugging_face",
@@ -1201,6 +1237,31 @@
       "fetchedAt": "2026-09-25T08:07:04+08:00",
       "category": "其他",
       "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "67554f89425ba779",
+      "title": "Is there any LLM you could say all the training data has nothing stolen?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wpi6yj/is_there_any_llm_you_could_say_all_the_training",
+      "summary": "My searches have guided me to Open-data models like OLMo and tells me I could inspect the datasets and audit it myself (which I would not know how to do) but is there any models that pride themselves on not having stolen a single line of da…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T08:27:38+08:00",
+      "fetchedAt": "2026-09-25T08:38:42+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "audit"
+      ],
       "confidence": 0,
       "score": 30,
       "related": [],
