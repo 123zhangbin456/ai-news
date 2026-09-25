@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "updatedAt": "2026-09-25T09:59:31+08:00",
+  "updatedAt": "2026-09-25T15:07:13+08:00",
   "items": [
     {
       "id": "91625e27c986178e",
@@ -473,6 +473,78 @@
       }
     },
     {
+      "id": "c27e736f539dbb19",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai",
+      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T13:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "investment"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Lightspeed 拟为印度新基金募资 2.5 亿美元，聚焦早期 AI",
+        "takeaway": "Lightspeed 首次将印度募资周期与全球基金对齐，转向更短投资期，重点押注早期 AI。",
+        "bullets": [
+          "Lightspeed 计划为印度新基金募资 2.5 亿美元",
+          "首次将印度募资周期与全球基金对齐",
+          "投资策略转向更短投资期，聚焦早期 AI"
+        ],
+        "detail": "Lightspeed 正为印度新基金募资 2.5 亿美元，这是其首次将印度募资节奏与全球基金同步，并转向更短的投资周期。该基金将重点投向早期 AI 领域。",
+        "generatedAt": "2026-09-25T15:07:09+08:00"
+      }
+    },
+    {
+      "id": "8edacea5f80c297d",
+      "title": "htmx 4.0 发布：改用 Fetch API 重写，内置 DOM Morphing Swap，并明确属性继承规则",
+      "url": "https://infoq.cn/article/kJ4EkjPLVTh9iT5yyXkM",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T22:18:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "htmx 4.0 发布：改用 Fetch API 重写，内置 DOM Morphing Swap",
+        "takeaway": "htmx 4.0 正式发布，底层改用 Fetch API 重写，并内置 DOM 变形交换与明确属性继承规则。",
+        "bullets": [
+          "htmx 4.0 底层改用 Fetch API 重写，替换原有 XHR 实现",
+          "内置 DOM Morphing Swap，页面局部更新更平滑",
+          "明确属性继承规则，减少嵌套元素行为歧义"
+        ],
+        "detail": "htmx 4.0 是一次较大版本更新：核心网络层从 XMLHttpRequest 换成 Fetch API，并内置 DOM Morphing Swap，让局部替换更自然。同时明确了属性继承规则，降低嵌套组件的行为不确定性。",
+        "generatedAt": "2026-09-25T15:07:10+08:00"
+      }
+    },
+    {
       "id": "4d3bafc74a80caea",
       "title": "Muse will apparently let you download its entire filesystem",
       "url": "https://theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
@@ -931,6 +1003,40 @@
       }
     },
     {
+      "id": "166135377d6c1dad",
+      "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
+      "url": "https://qbitai.com/2026/09/497012.html",
+      "summary": "",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T13:52:18+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "觅蜂推出机器人数据采集平台，普通人可兼职当“老师”赚外快",
+        "takeaway": "被称为“中国版Index”的觅蜂，让普通人通过采集数据教机器人，还能获得报酬。",
+        "bullets": [
+          "觅蜂推出机器人数据采集平台，定位“中国版Index”。",
+          "普通人可参与教机器人，并赚取外快。",
+          "模式类似众包，降低机器人训练数据门槛。"
+        ],
+        "detail": "觅蜂推出一个机器人数据采集平台，被称作“中国版Index”。普通人可以给机器人当老师，通过采集或标注数据来赚外快。这或许能降低机器人训练数据的获取成本。",
+        "generatedAt": "2026-09-25T15:07:09+08:00"
+      }
+    },
+    {
       "id": "e6e519e357e8cb50",
       "title": "ThinkingCap 3.8-27B vs. Swift 3.8-27B vs. Qwen 3.8-27B Benchmarks",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wp5vqr/thinkingcap_3827b_vs_swift_3827b_vs_qwen_3827b",
@@ -1063,6 +1169,79 @@
         ],
         "detail": "有用户在 r/LocalLLaMA 发帖，询问 Qwen Flash Next 的 Q2 量化版本是否比 27B 模型的 Q4 量化版本更好。发帖人表示这类问题常被讨论，但这一具体对比此前未见有人提出。",
         "generatedAt": "2026-09-25T08:38:48+08:00"
+      }
+    },
+    {
+      "id": "34ef35e761969f67",
+      "title": "Did anyone do a full bench of e.g. Qwen Flash Next IQ4 and Qwen 27b FP8? Here are some",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wpp28m/did_anyone_do_a_full_bench_of_eg_qwen_flash_next",
+      "summary": "I let Codex do some eval on Qwen 3.8 Flash Next IQ4_XS (served via vllm and r9v) and Qwen 3.8 FP8 (served via vllm and radiance). Here are the results: Benchmark Flash-Next IQ4_XS Qwen3.8 27B FP8 Result MMLU-Pro 83.8% 75.0% Flash-Next GPQA …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T14:32:06+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0.25,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen Flash Next IQ4 与 27B FP8 量化基准对比出炉",
+        "takeaway": "社区用户用 Codex 跑了 Qwen 两个量化版本的评测，IQ4_XS 在 MMLU-Pro 上反超 FP8。",
+        "bullets": [
+          "测试对象：Qwen Flash Next IQ4_XS 与 Qwen 27B FP8",
+          "分别通过 vllm 搭配 r9v、radiance 部署",
+          "MMLU-Pro 得分 83.8% 对 75.0%，IQ4 领先",
+          "GPQA 等其余项目结果在摘要中被截断"
+        ],
+        "detail": "有用户在 LocalLLaMA 分享，让 Codex 对两个 Qwen 量化模型做了评测：Flash Next IQ4_XS 用 vllm 加 r9v 部署，Qwen 3.8 27B FP8 用 vllm 加 radiance 部署。目前可见 MMLU-Pro 上 IQ4_XS 拿到 83.8%，FP8 为 75.0%",
+        "generatedAt": "2026-09-25T15:07:11+08:00"
+      }
+    },
+    {
+      "id": "bc1f18edcd126c5b",
+      "title": "CachyOS Qwen 3.8 27b on 2x 5090 vLLM",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wpinky/cachyos_qwen_38_27b_on_2x_5090_vllm",
+      "summary": "submitted by /u/piddlefaffle12 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T08:50:15+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 27B 在双 RTX 5090 上跑 vLLM",
+        "takeaway": "有用户在 CachyOS 上用两块 RTX 5090 通过 vLLM 部署 Qwen 3.8 27B，展示本地大模型推理配置。",
+        "bullets": [
+          "发帖者用双 RTX 5090 搭配 vLLM 运行 Qwen 3.8 27B",
+          "系统环境为 CachyOS，面向本地推理场景",
+          "帖子来自 r/LocalLLaMA，细节需看原帖"
+        ],
+        "detail": "Reddit 用户 piddlefaffle12 在 r/LocalLLaMA 发帖，分享在 CachyOS 系统上使用两块 RTX 5090 显卡、通过 vLLM 运行 Qwen 3.8 27B 模型的情况。帖子未提供更多性能数据，具体表现需查看原链接和评论。",
+        "generatedAt": "2026-09-25T15:07:11+08:00"
       }
     },
     {
@@ -1208,6 +1387,112 @@
       }
     },
     {
+      "id": "d2af5797d4f252ea",
+      "title": "每周下载量约 16 万，仍处 Alpha 的 TanStack Charts 为什么火了？",
+      "url": "https://infoq.cn/article/OUcL9autU0dg1BIt6bib",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T18:10:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "周下载 16 万的 TanStack Charts，Alpha 阶段为何走红",
+        "takeaway": "TanStack Charts 尚处 Alpha，周下载量已达约 16 万，值得关注其走红原因",
+        "bullets": [
+          "TanStack Charts 仍处 Alpha 阶段，周下载量约 16 万",
+          "出自 TanStack 生态，延续其工具库的社区热度",
+          "说明开发者对新图表方案有较强需求"
+        ],
+        "detail": "TanStack Charts 目前还是 Alpha 版本，但每周下载量已接近 16 万次。它来自 TanStack 生态，在正式版发布前就获得这样的采用量，反映出开发者对新的图表方案有较高兴趣。",
+        "generatedAt": "2026-09-25T15:07:11+08:00"
+      }
+    },
+    {
+      "id": "84dc26e50f6b8ae0",
+      "title": "当 Vibe Coding 撞上企业级现实：真实工程中的 AI 效能之路｜QCon上海",
+      "url": "https://infoq.cn/article/QQk3wiolU1VScH3u0P7T",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T18:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Vibe Coding 撞上企业级现实：QCon上海谈AI真实效能",
+        "takeaway": "QCon上海将探讨Vibe Coding在企业级工程中的落地难题与AI效能真实路径。",
+        "bullets": [
+          "议题聚焦Vibe Coding与企业级现实的碰撞",
+          "来自QCon上海，面向真实工程场景",
+          "讨论AI在工程中的实际效能而非概念"
+        ],
+        "detail": "InfoQ中国发布QCon上海相关议题，主题是当Vibe Coding遇上企业级现实时，真实工程中AI效能该如何落地。内容指向AI编程热潮与企业实际需求之间的落差，值得关注工程实践者。",
+        "generatedAt": "2026-09-25T15:07:13+08:00"
+      }
+    },
+    {
+      "id": "9f1986b93100d921",
+      "title": "Evaluation of OpenAI o1: Opportunities and Challenges of AGI",
+      "url": "https://arxiv.org/abs/2409.18486",
+      "summary": "arXiv:2409.18486v5 Announce Type: replace Abstract: This comprehensive study evaluates the performance of OpenAI's o1-preview large language model across a diverse array of complex reasoning tasks, spanning multiple domains, including compu…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T12:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "paperRank": 16,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "arXiv 论文评测 OpenAI o1：AGI 的机遇与挑战",
+        "takeaway": "研究系统评测 o1-preview 在多种复杂推理任务上的表现，探讨其迈向 AGI 的潜力与局限。",
+        "bullets": [
+          "评测对象为 OpenAI o1-preview 大模型",
+          "覆盖计算机等多领域复杂推理任务",
+          "论文讨论 AGI 的机遇与挑战",
+          "结果发布于 arXiv cs.CL 分类"
+        ],
+        "detail": "这篇论文对 OpenAI 的 o1-preview 大语言模型做了全面评测，任务横跨计算机等多个领域的复杂推理。研究既关注它在这些任务上的表现，也借此讨论通用人工智能（AGI）带来的机会和难题。",
+        "generatedAt": "2026-09-25T15:07:13+08:00"
+      }
+    },
+    {
       "id": "5cb60b231bb312a1",
       "title": "Qwen3.8-Flash-Next on 12GB VRAM - 65 tokens per second",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wp7zyb/qwen38flashnext_on_12gb_vram_65_tokens_per_second",
@@ -1229,6 +1514,58 @@
       ],
       "confidence": 1,
       "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cdeaed2091f10f03",
+      "title": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
+      "url": "https://arxiv.org/abs/2609.29892",
+      "summary": "arXiv:2609.29892v1 Announce Type: new Abstract: The rapid progression of large language models is extending AI from passive content generation into the active workflows of engineering and scientific discovery. This shift raises a compelling…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T12:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 33,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1491ac8472c14832",
+      "title": "NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation",
+      "url": "https://arxiv.org/abs/2606.03159",
+      "summary": "arXiv:2606.03159v3 Announce Type: replace-cross Abstract: As autonomous vehicle capabilities advance, the safe evaluation of driving policies in long-tail scenarios remains a critical bottleneck. In closed-loop simulation, the driving polic…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T12:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 32,
+      "paperRank": 12,
       "related": [],
       "pushed": false
     },
@@ -1419,6 +1756,465 @@
       "keywords": [],
       "confidence": 0,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "10c4036a19f5cce2",
+      "title": "大厂的AI战火，攻入硬件",
+      "url": "https://tmtpost.com/8152015.html",
+      "summary": "从“卖设备”到“抢控制权”。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T10:33:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "39139ee8b9a041e9",
+      "title": "AI漫剧不赚钱？好问题，我们看看八九十年代的日本动画是怎么破局的？",
+      "url": "https://tmtpost.com/8152068.html",
+      "summary": "八九十年代的日本动画产业，也曾面临和今天AI漫剧一样的困境——亏损，降本，商业化不足。然而仅仅数年后，日本动画产业就实现了整体盈利，产能翻倍；二次元从小众审美一跃成为日本国民文化代表，名利双收。他们做对了什么？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T10:30:26+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "72b3b915af8a1773",
+      "title": "四足机器人：宇树第一，智元、云深处争第二？",
+      "url": "https://tmtpost.com/8152163.html",
+      "summary": "两家机构同日发榜，同一个市场，两套数字。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T10:24:07+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2907ba2fb91d5107",
+      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+      "url": "https://arxiv.org/abs/2609.28475",
+      "summary": "arXiv:2609.28475v1 Announce Type: new Abstract: Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it remains unclear when each behavior should be trusted. We study this question on…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T12:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5936e2b31cfc0513",
+      "title": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
+      "url": "https://arxiv.org/abs/2609.28570",
+      "summary": "arXiv:2609.28570v1 Announce Type: new Abstract: Reinforcement learning (RL) is widely used to sharpen reasoning in multimodal large language models (MLLMs), yet its effect on hallucination is uneven. We trace this to two weak points in the …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T12:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "54a88db3645656e7",
+      "title": "Agent Memory with Episodic Retrieval for Financial Decision-Making",
+      "url": "https://arxiv.org/abs/2609.28771",
+      "summary": "arXiv:2609.28771v1 Announce Type: new Abstract: Large language models (LLMs) have demonstrated strong capabilities in financial analysis and reasoning, inspiring recent advances in agent-based trading frameworks. While these systems show pr…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T12:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e21f3ecbb1146663",
+      "title": "Back to the Definition: Estimating Step-Level Advantages via Trajectory Graphs for Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.28963",
+      "summary": "arXiv:2609.28963v1 Announce Type: new Abstract: Group-based reinforcement learning (RL) methods, such as GRPO and its variants, have become a leading paradigm for training reasoning and agentic large language models (LLMs). While their grou…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T12:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0a9ce8aa70b6f909",
+      "title": "Policy as Code: A Coroutine-Bridge Harness for Fast-Reasoning Reliability on CAR-bench",
+      "url": "https://arxiv.org/abs/2609.29251",
+      "summary": "arXiv:2609.29251v1 Announce Type: new Abstract: CAR-bench evaluates whether tool-using agents stay reliable under real-world uncertainty, executing every tool inside the evaluator so that each tool-result exchange is a separate agent round-…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T12:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7485de0adca45a27",
+      "title": "Is Reasoning Always Useful? Rethinking Reasoning Utility in Universal Multimodal Embeddings",
+      "url": "https://arxiv.org/abs/2609.29560",
+      "summary": "arXiv:2609.29560v1 Announce Type: new Abstract: Reasoning-enhanced universal multimodal embeddings (UME) improve heterogeneous retrieval, but plausible rationales do not necessarily produce discriminative rankings. We study this gap by comp…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T12:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7e88f78bffb00a47",
+      "title": "When Can Agents Forget Their Reasoning? ICLR for Long-Horizon Agent Context Compression",
+      "url": "https://arxiv.org/abs/2609.29875",
+      "summary": "arXiv:2609.29875v1 Announce Type: new Abstract: Long horizon language model agents continually accumulate reasoning history, increasing context length and inference cost even after earlier decisions have been executed and observed. Unlike s…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T12:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4249c59d7fbafc90",
+      "title": "HEXIS: Compiling Skills into Extended Finite State Machines",
+      "url": "https://arxiv.org/abs/2609.30123",
+      "summary": "arXiv:2609.30123v1 Announce Type: new Abstract: Agent skills provide reusable knowledge and instructions, yet agents must repeatedly infer how to apply them and which operation should follow. This couples task reasoning with control decisio…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T12:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b5e0920afd888944",
+      "title": "Beneath the Scores: Rethinking Hallucination Evaluation for Video Understanding Models",
+      "url": "https://arxiv.org/abs/2609.28991",
+      "summary": "arXiv:2609.28991v1 Announce Type: cross Abstract: Video understanding is increasingly performed by multi-stage LLM agents that separate temporal grounding, visual observation, and reasoning. Yet these stages are typically evaluated on diffe…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T12:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8836bc9cb3d8bd04",
+      "title": "Mind What Matters for Reasoning: Aligning Cross-Modal Attention via Selective Probability Mass Concentration",
+      "url": "https://arxiv.org/abs/2609.29940",
+      "summary": "arXiv:2609.29940v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) achieve strong performance on visual reasoning tasks, yet remain prone to hallucinations and over-reliance on language priors, often generating answe…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T12:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "355d00453619baff",
+      "title": "World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal",
+      "url": "https://arxiv.org/abs/2609.29964",
+      "summary": "arXiv:2609.29964v1 Announce Type: cross Abstract: General-purpose vision-language models (VLMs) bring broad knowledge and spatial reasoning to robot manipulation, yet existing systems either use them indirectly, to predict constraints or wr…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T12:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a5c548b14d5f71a3",
+      "title": "Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System",
+      "url": "https://arxiv.org/abs/2602.18640",
+      "summary": "arXiv:2602.18640v3 Announce Type: replace Abstract: Modern large-scale ranking systems operate within a sophisticated landscape of competing objectives, operational constraints, and evolving product requirements. Progress in this domain is …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T12:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e19aa5a1de2270ec",
+      "title": "Dual-Frontier: When Can an Agent Trust Its World Model?",
+      "url": "https://arxiv.org/abs/2609.26293",
+      "summary": "arXiv:2609.26293v2 Announce Type: replace Abstract: Learned world models are becoming essential to general-purpose agents: by predicting action consequences, they support planning and decision-making while reducing reliance on costly trial …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T12:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a82e81091f9d9b04",
+      "title": "IDRBench: Benchmarking the Interactive Capabilities of Deep Research Agents",
+      "url": "https://arxiv.org/abs/2601.06676",
+      "summary": "arXiv:2601.06676v3 Announce Type: replace-cross Abstract: Large Language Model (LLM)-based deep research agents perform multi-step reasoning, web exploration, and long-form report generation. In these long-horizon workflows, early deviation…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T12:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "33afc0f0fb2a9c16",
+      "title": "Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2606.31825",
+      "summary": "arXiv:2606.31825v2 Announce Type: replace-cross Abstract: Recent multimodal large language models have shown great promise in clinical image reasoning, but existing post-training pipelines remain predominantly outcome-centric, relying on fi…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T12:00:00+08:00",
+      "fetchedAt": "2026-09-25T15:06:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
       "related": [],
       "pushed": false
     }
