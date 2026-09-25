@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "updatedAt": "2026-09-26T01:40:28+08:00",
+  "updatedAt": "2026-09-26T05:55:00+08:00",
   "items": [
     {
       "id": "ae41e8c4d84d6095",
@@ -39,6 +39,40 @@
       }
     },
     {
+      "id": "fdba889df7cc1273",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s …",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T02:22:47+08:00",
+      "fetchedAt": "2026-09-26T05:54:47+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 65,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 的 Muse 抢走了 OpenAI 和 Anthropic 的 AI 风头",
+        "takeaway": "Meta 新模型 Muse 成为焦点，OpenAI 与 Anthropic 的同期发布被抢了风头。",
+        "bullets": [
+          "Meta 的 Muse 成为本周 AI 圈最大焦点",
+          "Anthropic 刚推出 Opus 5.5，OpenAI 紧随其后发布",
+          "两家原本的模型发布节奏被 Meta 打乱"
+        ],
+        "detail": "OpenAI 和 Anthropic 高层此前谈论“控制前沿节奏”，如今两家在同一周密集发布模型：Anthropic 先推出 Opus 5.5，OpenAI 随后跟上。但 Meta 的 Muse 一出，直接抢走了这场发布周的全部关注。",
+        "generatedAt": "2026-09-26T05:54:53+08:00"
+      }
+    },
+    {
       "id": "2bee7780f07a323e",
       "title": "Google tests letting Gemini call businesses for you",
       "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners",
@@ -74,6 +108,79 @@
         ],
         "detail": "谷歌宣布正在测试一项新功能，让 Gemini 代替用户给商家打电话。该功能将率先面向美国地区、付费订阅 Gemini 的 Pixel 11 用户开放。这意味着 AI 助手正从回答问题扩展到实际代办事务。",
         "generatedAt": "2026-09-25T01:22:18+08:00"
+      }
+    },
+    {
+      "id": "26c3af8439861c7f",
+      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T05:36:20+08:00",
+      "fetchedAt": "2026-09-26T05:54:47+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "court"
+      ],
+      "confidence": 0.33,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "法院裁定特朗普政府可将Anthropic列入黑名单",
+        "takeaway": "法官支持政府因Anthropic拒绝开放Claude功能而将其排除在合作之外，AI军事应用争议升级。",
+        "bullets": [
+          "法院裁定特朗普政府有权将Anthropic列入黑名单",
+          "起因是Anthropic拒绝为军事用途启用Claude特定功能",
+          "法官称过度受限的AI模型可能导致军事行动失败"
+        ],
+        "detail": "美国法院裁定，特朗普政府可以因Anthropic拒绝为军事用途启用Claude功能而将其列入黑名单。法官认为，过度受限的AI模型可能导致军事行动失败。这一裁决凸显了AI公司在军事合作与安全限制之间的两难处境。",
+        "generatedAt": "2026-09-26T05:54:53+08:00"
+      }
+    },
+    {
+      "id": "1039751cf18e004a",
+      "title": "4-5 days replacing Claude w Qwen 3.8 Next",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wq7e74/45_days_replacing_claude_w_qwen_38_next",
+      "summary": "Hi, human here with rambling thoughts to share. Feel free to skip Overall, I don’t feel like I’m missing much; if anything. On my hardware(M1 ultra w 128Gb) it’s probably not as fast as Claude but I’ve been using opencode for research and o…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T04:44:10+08:00",
+      "fetchedAt": "2026-09-26T05:54:47+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude",
+        "Qwen"
+      ],
+      "confidence": 0.88,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户用 Qwen 3.8 Next 替代 Claude 四五天后的体验分享",
+        "takeaway": "一位 M1 Ultra 128GB 用户实测用 Qwen 3.8 Next 替换 Claude 数日，整体感觉没有明显缺失。",
+        "bullets": [
+          "用户在自己的 M1 Ultra 128GB 设备上运行 Qwen 3.8 Next",
+          "速度可能不如 Claude，但整体体验没有明显落差",
+          "用户用 opencode 做研究等任务，属于个人实测分享"
+        ],
+        "detail": "这位用户在 r/LocalLLaMA 分享，自己用 Qwen 3.8 Next 替代 Claude 已有四五天。在 M1 Ultra 128GB 的硬件上，速度可能不如 Claude，但整体上并不觉得缺了什么，期间还用 opencode 做研究等任务。",
+        "generatedAt": "2026-09-26T05:54:55+08:00"
       }
     },
     {
@@ -146,6 +253,80 @@
         ],
         "detail": "OpenAI 发布案例称，Proaction 利用 Codex、GPT-Live-1 和 GPT-6 Astra，更快地开发、运营和销售现代车队管理方案，销售提升 60%，并节省超过 75 小时。",
         "generatedAt": "2026-09-26T01:40:20+08:00"
+      }
+    },
+    {
+      "id": "16601d8d67975027",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stoc…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T03:13:38+08:00",
+      "fetchedAt": "2026-09-26T05:54:47+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "billion",
+        "stake"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 七年向 Akamai 支付 116 亿美元云合作",
+        "takeaway": "Anthropic 押注 CPU 云基础设施，Akamai 或反向持股，交易规模最高可达 200 亿美元。",
+        "bullets": [
+          "Anthropic 承诺七年内向 Akamai 支付 116 亿美元",
+          "合作规模可能扩大至约 200 亿美元",
+          "Akamai 将向 Anthropic 提供最高 5% 潜在股权"
+        ],
+        "detail": "Anthropic 与 Akamai 达成七年云基础设施合作，承诺支付 116 亿美元，并可能增至约 200 亿美元。这笔交易押注 CPU 算力，且 Akamai 将给予 Anthropic 最高 5% 的潜在股权，形式罕见。",
+        "generatedAt": "2026-09-26T05:54:55+08:00"
+      }
+    },
+    {
+      "id": "43fec3bf6a06e312",
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing",
+      "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T02:33:59+08:00",
+      "fetchedAt": "2026-09-26T05:54:47+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO",
+        "funding"
+      ],
+      "confidence": 0.72,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英国AI云厂商Nscale赴美IPO前获33.6亿美元可转债融资",
+        "takeaway": "Nscale在美股上市前拿到33.6亿美元可转债，英伟达参投，用于扩建AI数据中心。",
+        "bullets": [
+          "融资由Third Point、英伟达等参与，形式为可转换债券",
+          "资金将用于大规模AI数据中心建设",
+          "公司正筹备在美国进行IPO"
+        ],
+        "detail": "英国AI云服务商Nscale在美国IPO前完成33.6亿美元可转换融资，投资方包括Third Point和英伟达等。这笔钱将用于大规模建设AI数据中心，支撑其算力业务扩张。",
+        "generatedAt": "2026-09-26T05:54:55+08:00"
       }
     },
     {
@@ -222,6 +403,78 @@
       }
     },
     {
+      "id": "1ccbcef18549137d",
+      "title": "Meta opens early access program for new Muse features",
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features",
+      "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T04:34:53+08:00",
+      "fetchedAt": "2026-09-26T05:54:47+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 开放 Muse 新功能抢先体验，需向 Muse 申请排队",
+        "takeaway": "Meta 为 Muse 新功能启动早期访问计划，想尝鲜得先让 Muse 把自己加入名单。",
+        "bullets": [
+          "Meta 开放 Muse 新功能的早期访问计划",
+          "感兴趣的用户需向 Muse 申请加入等待名单",
+          "具体新功能内容尚未公布，仅限受邀用户"
+        ],
+        "detail": "Meta 宣布为 Muse 的新功能推出早期访问计划。想参与的人不能直接注册，必须先向 Muse 提出申请，由它把用户加入名单。目前官方未透露具体功能细节和开放范围。",
+        "generatedAt": "2026-09-26T05:54:56+08:00"
+      }
+    },
+    {
+      "id": "9366ee5bcbcd9057",
+      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+      "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc",
+      "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T01:57:37+08:00",
+      "fetchedAt": "2026-09-26T05:54:47+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "copilot"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软新 Surface 笔记本不再强调 Copilot+ PC 标签",
+        "takeaway": "微软在新款 Surface 上淡化 Copilot+ PC 宣传，AI PC 营销热度可能降温。",
+        "bullets": [
+          "微软新款 Surface 笔记本不再使用 Copilot+ PC 品牌标识",
+          "此前微软力推 Copilot+ PC 作为 AI 功能硬件门槛",
+          "此举或反映 AI PC 概念对消费者吸引力有限"
+        ],
+        "detail": "微软最新发布的 Surface 笔记本电脑不再以“Copilot+ PC”作为宣传重点，放弃了这一此前力推的标签。Copilot+ PC 原本指具备本地 AI 算力的设备，微软曾将其作为核心卖点。新 Surface 的命名变化可能意味着微软正在调整 AI PC 的营销策略。",
+        "generatedAt": "2026-09-26T05:54:57+08:00"
+      }
+    },
+    {
       "id": "8e76e7d475ca2ecf",
       "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
       "url": "https://wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk",
@@ -289,6 +542,42 @@
         ],
         "detail": "John Gruber 指出，Muse 之所以备受关注，既因为它在技术上具有开创性——每位用户都能获得一个运行在 Meta 云端的完整持久 Linux 虚拟机，也因为它的安装和使用方式非常简便。",
         "generatedAt": "2026-09-26T01:40:23+08:00"
+      }
+    },
+    {
+      "id": "8be5b0d8d93b6d70",
+      "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+      "url": "https://wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand",
+      "summary": "They wanted the silicon. They got the sand.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T04:30:40+08:00",
+      "fetchedAt": "2026-09-26T05:54:47+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "劫匪抢走英伟达拖车，到手20吨沙子",
+        "takeaway": "劫匪盯上英伟达芯片，却只抢到20吨沙子，凸显芯片运输安保与供应链风险。",
+        "bullets": [
+          "劫匪劫走标有英伟达的拖车，以为满载芯片。",
+          "实际货物是20吨沙子，并非高价值GPU。",
+          "事件暴露芯片运输环节的安保漏洞。"
+        ],
+        "detail": "一伙劫匪盯上英伟达的货运拖车，以为里面装的是抢手的芯片。结果打开一看，全是沙子，足足20吨。他们想要的是硅，得到的却是沙。",
+        "generatedAt": "2026-09-26T05:54:57+08:00"
       }
     },
     {
@@ -361,6 +650,173 @@
         "detail": "前沿 AI 模型 Astra 和 Opus 完成了艾伦·图灵在二战期间未竟的密码破译工作。这项任务原本是图灵在破解恩尼格玛密码机之外的另一个难题，如今被 AI 攻克，展示了模型在历史密码分析上的能力。",
         "generatedAt": "2026-09-26T01:40:26+08:00"
       }
+    },
+    {
+      "id": "fe235f269aa2ceef",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T02:48:33+08:00",
+      "fetchedAt": "2026-09-26T05:54:47+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "joins"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "马克·沃尔伯格将亮相 TechCrunch Disrupt 2026，谈投资与创业",
+        "takeaway": "好莱坞演员马克·沃尔伯格将以投资人身份出席科技峰会，聊创业、医疗健康与商业，而非自己的演艺事业。",
+        "bullets": [
+          "沃尔伯格将与 Bruce K. Lee 同台对话",
+          "话题聚焦投资、创业、医疗健康与养生",
+          "他更想聊你的工作，而不是自己的电影"
+        ],
+        "detail": "TechCrunch Disrupt 2026 宣布，演员马克·沃尔伯格将作为嘉宾出席，与 Bruce K. Lee 对谈。他此次不谈演艺生涯，而是围绕投资、创业、医疗健康和养生等话题，分享自己作为商人的经验。",
+        "generatedAt": "2026-09-26T05:54:58+08:00"
+      }
+    },
+    {
+      "id": "479228e71e954e8c",
+      "title": "智元第20000台具身机器人交付长隆，首期超300台机器人常驻乐园。",
+      "url": "https://leiphone.com/category/robot/23F3DiDtv7Puosqy.html",
+      "summary": "雷峰网报道： 2026 年，具身智能行业最难回答的问题之一，是怎么落地。这里的「落地」有两层含义：一方面，机器人得有足够稳定的量产能力，能够真的交付出去；另一方面，交付之后还得适应具体场景，在真实环境里持续工作。智元称之为「部署态」，机器人开始离开发布会和展会，进入真实的生产与服务环境。一台机器人在舞台上完成一次高难度动作，足以成为热点；让数百台机器人每天准时上岗，在真实客流里连续工作，并且随着运营不断改进，才真正考验一家机器人的产业化能力。 9 月 24 日，智元给出了自己…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T24:33:00+08:00",
+      "fetchedAt": "2026-09-26T05:54:47+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "智元第2万台具身机器人交付长隆，超300台常驻乐园",
+        "takeaway": "智元机器人量产交付破2万台，首批超300台进驻长隆乐园，具身智能从展会走向真实场景。",
+        "bullets": [
+          "智元第20000台具身机器人正式交付长隆",
+          "首期超300台机器人将常驻乐园日常运营",
+          "行业关注点从单台表演转向批量稳定上岗"
+        ],
+        "detail": "智元宣布第2万台具身机器人交付长隆，首期超300台将常驻乐园。行业认为，机器人能否量产交付并在真实客流中持续工作，才是产业化的真正考验，智元称之为「部署态」。",
+        "generatedAt": "2026-09-26T05:54:58+08:00"
+      }
+    },
+    {
+      "id": "be11f7d1d629dcf0",
+      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+      "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements",
+      "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T05:10:51+08:00",
+      "fetchedAt": "2026-09-26T05:54:47+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "特斯拉工人拒训Optimus人形机器人替代自己",
+        "takeaway": "特斯拉工人不愿训练可能取代自己的Optimus机器人，但公司仍计划2026年底周产千台。",
+        "bullets": [
+          "特斯拉员工被要求训练Optimus人形机器人，但担心工作被取代而抵制。",
+          "公司目标2026年底实现每周生产1000台Optimus机器人。",
+          "工人与自动化之间的紧张关系凸显AI替代人工的现实矛盾。"
+        ],
+        "detail": "尽管面临工人抵制等挑战，特斯拉仍计划在2026年底前将Optimus人形机器人的周产量提升至1000台。工人们不愿参与训练这些可能替代自己岗位的机器人，反映出自动化进程中劳资双方的矛盾。",
+        "generatedAt": "2026-09-26T05:54:59+08:00"
+      }
+    },
+    {
+      "id": "8479eb8c7ebf9435",
+      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+      "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise",
+      "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T03:11:05+08:00",
+      "fetchedAt": "2026-09-26T05:54:47+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI冲击应届生就业？数据说还没那么严重",
+        "takeaway": "尽管担心AI抢走新人工作，但失业数据未显示应届生遭大规模取代。",
+        "bullets": [
+          "Ars Technica AI 报道：AI对应届生就业冲击有限",
+          "失业数据未发现大规模取代或招聘减少的证据",
+          "专家称无显著、广泛的岗位流失现象"
+        ],
+        "detail": "此前普遍预测AI会重创应届生就业，但最新失业数据并未支持这一观点。报道引用专家说法称，目前没有证据表明存在显著、广泛的岗位取代或招聘缩减。",
+        "generatedAt": "2026-09-26T05:55:00+08:00"
+      }
+    },
+    {
+      "id": "02636d6ab647c7d4",
+      "title": "How long can I expect to wait until the local ~30B A3B frontier catches up to GLM 5.3 Flash quality?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wq8e5u/how_long_can_i_expect_to_wait_until_the_local_30b",
+      "summary": "The jump from Qwen3 Coder 30B A3B to current-day Qwen 3.6 35B A3B is crazy, especially with all the fine-tunes, and that was around 6 months (I didn't care for local AI back then, or AI at all, apart from as a toy so I don't know). Is aroun…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T05:24:54+08:00",
+      "fetchedAt": "2026-09-26T05:54:47+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
