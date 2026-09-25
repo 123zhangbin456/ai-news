@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "updatedAt": "2026-09-25T05:54:45+08:00",
+  "updatedAt": "2026-09-25T08:07:14+08:00",
   "items": [
     {
       "id": "91625e27c986178e",
@@ -26,7 +26,7 @@
       "confidence": 1,
       "score": 67,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Google DeepMind 发布 Gemini 3.8 Live，新增实时虚拟形象",
         "takeaway": "Gemini 3.8 Live 上线，首次带来 Live Avatar 实时虚拟形象，多模态交互再进一步。",
@@ -37,7 +37,8 @@
         ],
         "detail": "Google DeepMind 发布了 Gemini 3.8 Live，最大亮点是新增 Live Avatar 实时虚拟形象。目前官方只给出名称，没有摘要说明具体参数、可用平台和上线时间，实际体验和开放范围还需等待后续信息。",
         "generatedAt": "2026-09-25T01:22:18+08:00"
-      }
+      },
+      "pushedAt": "2026-09-25T08:07:14+08:00"
     },
     {
       "id": "b848899f891bc6d9",
@@ -992,6 +993,43 @@
       }
     },
     {
+      "id": "283af51836ef8fab",
+      "title": "Qwen3.8-Flash-Next, on 5090+64gb, with Llama.cpp - Seems to not use ram?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wpe83z/qwen38flashnext_on_509064gb_with_llamacpp_seems",
+      "summary": "I was actually pretty happy with my Qwen3.8-27b setup, and I'd been tinkering with Ninfer to have a version that was \"fast but maybe a bit stupid\" and the speed was nice to have as a backup. But I was curious how the Flash-Next version migh…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T05:30:05+08:00",
+      "fetchedAt": "2026-09-25T08:07:04+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen3.8-Flash-Next 在 5090 上跑 Llama.cpp，似乎不吃内存",
+        "takeaway": "用户实测新模型在 5090+64GB 配置下用 Llama.cpp 运行，显存占用异常，内存几乎没被用上。",
+        "bullets": [
+          "用户原本对 Qwen3.8-27b 配置满意，想试试 Flash-Next 版本",
+          "在 RTX 5090 加 64GB 内存的机器上通过 Llama.cpp 运行",
+          "观察到模型似乎没有使用系统内存，引发好奇与讨论",
+          "属于个人实测分享，非官方发布信息"
+        ],
+        "detail": "这位用户原本用 Qwen3.8-27b 跑得挺满意，还折腾过 Ninfer 做「快但可能笨一点」的备用方案。这次他想看看 Flash-Next 版本表现如何，于是在 5090 显卡加 64GB 内存的机器上用 Llama.cpp 测试，结果发现模型好像根本没用到系统内存。",
+        "generatedAt": "2026-09-25T08:07:13+08:00"
+      }
+    },
+    {
       "id": "843daad69675ea11",
       "title": "FreedomIntelligence/HuatuoGPT-3-27B · Hugging Face",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wpaxud/freedomintelligencehuatuogpt327b_hugging_face",
@@ -1138,6 +1176,29 @@
       "topic": "ai",
       "publishedAt": "2026-09-25T24:14:26+08:00",
       "fetchedAt": "2026-09-25T01:22:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "01af39a5b7ef44aa",
+      "title": "I'm trying to post-train AliceAI-Foundation-80B-A3B-Base myself",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wpg4a8/im_trying_to_posttrain",
+      "summary": "Just wanted to share with someone - don't have much to report yet. I am interested in this new AliceAI model and have been wanting to make a community impact for a while - and releasing an initial agentic version of this model sounds cool. …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-25T06:50:44+08:00",
+      "fetchedAt": "2026-09-25T08:07:04+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
