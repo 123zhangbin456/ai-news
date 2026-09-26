@@ -108,9 +108,9 @@
     "lastOkDay": "2026-09-26"
   },
   "hackernews": {
-    "failDays": 1,
-    "lastFailDay": "2026-09-26",
-    "lastError": "网络请求失败",
+    "failDays": 0,
+    "lastFailDay": null,
+    "lastError": null,
     "lastOkDay": "2026-09-26"
   },
   "localllama": {
@@ -120,15 +120,15 @@
     "lastOkDay": "2026-09-26"
   },
   "arxiv-ai": {
-    "failDays": 0,
-    "lastFailDay": null,
-    "lastError": null,
+    "failDays": 1,
+    "lastFailDay": "2026-09-26",
+    "lastError": "订阅源为空或格式无法解析",
     "lastOkDay": "2026-09-26"
   },
   "arxiv-cl": {
-    "failDays": 0,
-    "lastFailDay": null,
-    "lastError": null,
+    "failDays": 1,
+    "lastFailDay": "2026-09-26",
+    "lastError": "订阅源为空或格式无法解析",
     "lastOkDay": "2026-09-26"
   },
   "cursor-changelog": {
