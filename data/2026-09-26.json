@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "updatedAt": "2026-09-26T08:14:03+08:00",
+  "updatedAt": "2026-09-26T08:44:02+08:00",
   "items": [
     {
       "id": "ae41e8c4d84d6095",
@@ -547,6 +547,40 @@
       }
     },
     {
+      "id": "17d55592b422390f",
+      "title": "华为腾讯阿里都盯上的生意：不造机器人，却想控制所有机器人？",
+      "url": "https://tmtpost.com/8152798.html",
+      "summary": "华为腾讯阿里都盯上的生意：不造机器人，却想控制所有机器人？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T08:19:43+08:00",
+      "fetchedAt": "2026-09-26T08:43:52+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "华为腾讯阿里争相布局，不造机器人却要控制所有机器人",
+        "takeaway": "科技巨头不直接造机器人，而是争夺机器人操作系统与平台入口，试图掌握行业主导权。",
+        "bullets": [
+          "华为、腾讯、阿里均切入机器人赛道，但方向不是造硬件",
+          "它们瞄准的是机器人操作系统、云平台等底层控制层",
+          "目标是在未来机器人生态中占据核心入口位置"
+        ],
+        "detail": "华为、腾讯、阿里都在布局机器人领域，但都不直接生产机器人本体，而是做操作系统、云平台等底层技术。它们想成为所有机器人的“大脑”和入口，从而在机器人生态中掌握话语权。",
+        "generatedAt": "2026-09-26T08:44:01+08:00"
+      }
+    },
+    {
       "id": "8e76e7d475ca2ecf",
       "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
       "url": "https://wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk",
@@ -866,6 +900,42 @@
       }
     },
     {
+      "id": "7816ed4be311083d",
+      "title": "Custom Models in Oh My Pi: vLLM, llama.cpp, SGLang and More",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wqcki2/custom_models_in_oh_my_pi_vllm_llamacpp_sglang",
+      "summary": "submitted by /u/bolts98 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T08:31:03+08:00",
+      "fetchedAt": "2026-09-26T08:43:52+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Oh My Pi 支持自定义模型：接入 vLLM、llama.cpp、SGLang",
+        "takeaway": "Oh My Pi 新增自定义模型功能，可接入多种主流本地推理后端，方便本地跑模型。",
+        "bullets": [
+          "Oh My Pi 推出自定义模型功能",
+          "支持 vLLM、llama.cpp、SGLang 等后端",
+          "面向本地部署大模型的用户群体"
+        ],
+        "detail": "Reddit 的 LocalLLaMA 板块有用户发帖，介绍 Oh My Pi 的自定义模型功能，可对接 vLLM、llama.cpp、SGLang 等多种推理框架。这意味着用户能更灵活地在本地运行自己选择的模型，而不局限于内置选项。",
+        "generatedAt": "2026-09-26T08:44:01+08:00"
+      }
+    },
+    {
       "id": "be11f7d1d629dcf0",
       "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
       "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements",
@@ -957,6 +1027,52 @@
       ],
       "confidence": 1,
       "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "629b62de8c7313e3",
+      "title": "小度想坐稳AI办公时代的牌座，李莹需要成为下一个景鲲",
+      "url": "https://tmtpost.com/8152829.html",
+      "summary": "小度想坐稳AI办公时代的牌座，李莹需要成为下一个景鲲",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T08:21:56+08:00",
+      "fetchedAt": "2026-09-26T08:43:52+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d6851e638df6009b",
+      "title": "Blabbermouth AI coding agents hate this one weird trick!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wqcil9/blabbermouth_ai_coding_agents_hate_this_one_weird",
+      "summary": "The conceited little fuckers love to inundate you with unnecessary details, noisy caveats, what's 'load bearing' and what's not, waste your time with a wall of text every time it reports back to you. They think human PP times are as fast as…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T08:28:30+08:00",
+      "fetchedAt": "2026-09-26T08:43:52+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
       "related": [],
       "pushed": false
     }
