@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "updatedAt": "2026-09-26T20:30:50+08:00",
+  "updatedAt": "2026-09-27T24:51:05+08:00",
   "items": [
     {
       "id": "ce909038d487624e",
@@ -1235,6 +1235,76 @@
       }
     },
     {
+      "id": "dc5183e86bb57478",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T22:00:00+08:00",
+      "fetchedAt": "2026-09-27T24:50:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "我创建了自己的交互式数字分身，你可以和它对话",
+        "takeaway": "TechCrunch 作者体验制作 AI 数字分身并训练其讨论风投欺诈，对克隆自己心情复杂。",
+        "bullets": [
+          "作者获得交互式数字头像并训练其讨论风投欺诈话题",
+          "体验后对制作自身 AI 克隆产生矛盾感受",
+          "该技术可让用户与数字分身互动对话"
+        ],
+        "detail": "TechCrunch 作者创建了一个自己的交互式数字分身，并训练它讨论风险投资欺诈话题。体验后，作者对制作自身 AI 克隆这件事产生了复杂的感受。",
+        "generatedAt": "2026-09-27T24:51:03+08:00"
+      }
+    },
+    {
+      "id": "7c2c4d9670af53c0",
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "url": "https://theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild piv…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T22:00:00+08:00",
+      "fetchedAt": "2026-09-27T24:50:56+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO"
+      ],
+      "confidence": 0.25,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cloudflare CEO 能否从 AI 手中拯救互联网？",
+        "takeaway": "The Verge 对话 Cloudflare CEO Matthew Prince，探讨 AI 时代互联网的生存之道。",
+        "bullets": [
+          "Cloudflare CEO Matthew Prince 做客 The Verge 播客",
+          "这是商业未来两集系列节目的一部分",
+          "讨论 AI 对互联网的冲击与应对"
+        ],
+        "detail": "The Verge 播客邀请 Cloudflare CEO Matthew Prince 对话，探讨 AI 时代互联网的未来。这是他时隔两年半再次做客，节目属于商业未来系列。",
+        "generatedAt": "2026-09-27T24:51:03+08:00"
+      }
+    },
+    {
       "id": "479228e71e954e8c",
       "title": "智元第20000台具身机器人交付长隆，首期超300台机器人常驻乐园。",
       "url": "https://leiphone.com/category/robot/23F3DiDtv7Puosqy.html",
@@ -1719,6 +1789,55 @@
         "benchmarks"
       ],
       "confidence": 0.14,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ffa0e5f03733009e",
+      "title": "2400cc Inference Racer: Dual RTX 3090 motors, NVLink turbo, naked 7840U ThinkPad ECU, VW Golf radiator",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors",
+      "summary": "Today I present a fine piece of engineering, carefully assembled inside a custom chipboard chassis: the 2400cc Inference Racer , a.k.a. my winter heater. Power comes from two second-hand AORUS RTX 3090 XTREME WATERFORCE cards. One glows a b…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T22:34:51+08:00",
+      "fetchedAt": "2026-09-27T24:50:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "050807fd5f4b603c",
+      "title": "How accessible is local AI actually, and what happens if affordable access to frontier models doesn’t last?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wqtrfi/how_accessible_is_local_ai_actually_and_what",
+      "summary": "Sometimes it’s easy to forget that this sub and others like it are probably the extreme minority when it comes to this hobby. Most people, I would think, don’t use or can’t afford one good GPU, let alone multiple GPUs, Mac Studios, Sparks, …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T23:45:31+08:00",
+      "fetchedAt": "2026-09-27T24:50:56+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU",
+        "GPUs"
+      ],
+      "confidence": 1,
       "score": 30,
       "related": [],
       "pushed": false
