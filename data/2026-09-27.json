@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "updatedAt": "2026-09-27T24:51:05+08:00",
+  "updatedAt": "2026-09-27T03:30:36+08:00",
   "items": [
     {
       "id": "6927cc92c4d1b409",
@@ -107,6 +107,43 @@
       }
     },
     {
+      "id": "260fa32be7fff6db",
+      "title": "85 GB DeepSeek-V4-Flash at ~3 tok/s on a 12 GB RTX 3060 + 64 GB DDR5 RAM - Overspill for FreeToken, inspired by Colibri",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wqwm3o/85_gb_deepseekv4flash_at_3_toks_on_a_12_gb_rtx",
+      "summary": "I've been experimenting with ways to run MoE models that don't fit comfortably in RAM, and I ended up making Overspill, a disk tier for FreeToken . The basic idea came from looking at how Colibri handles experts across disk/RAM/VRAM so I to…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T01:41:06+08:00",
+      "fetchedAt": "2026-09-27T03:30:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "12GB 显卡跑 85GB DeepSeek-V4-Flash，约 3 tok/s",
+        "takeaway": "玩家用磁盘分层方案 Overspill，让远超内存的 MoE 模型在消费级硬件上跑起来，速度约 3 tok/s。",
+        "bullets": [
+          "硬件为 RTX 3060 12GB 加 64GB DDR5 内存",
+          "模型是 85GB 的 DeepSeek-V4-Flash，属 MoE 架构",
+          "方案 Overspill 为 FreeToken 增加磁盘层，思路借鉴 Colibri",
+          "把专家权重分布到磁盘、内存和显存之间"
+        ],
+        "detail": "作者在 r/LocalLLaMA 分享，为运行放不进内存的 MoE 模型，做了 Overspill——给 FreeToken 加一层磁盘存储。灵感来自 Colibri 如何在磁盘、内存和显存间调度专家权重，最终在 12GB 显卡上跑起 85GB 模型，速度约每秒 3 个 token。",
+        "generatedAt": "2026-09-27T03:30:36+08:00"
+      }
+    },
+    {
       "id": "c38f44a3e066da71",
       "title": "Just bought a second 3090 but now I don't see the benefits right now.",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wqv0qj/just_bought_a_second_3090_but_now_i_dont_see_the",
@@ -141,6 +178,67 @@
         "detail": "这位用户在 r/LocalLLaMA 发帖说，自己的本地 AI 服务器配了 96GB DDR5 内存和一块 RTX 3090，已经跑着 Krea2、Qwen Image 2.1、MiniMax H3、LTX 2.5、Qwen 3.6 以及 Qwen 3.8 的量化版本等一堆模型。他刚买了第二块 3090，却发现目前没看",
         "generatedAt": "2026-09-27T24:51:05+08:00"
       }
+    },
+    {
+      "id": "f325a45ca2e40d8b",
+      "title": "New to playing around with local ai. why are they free?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wqwzk3/new_to_playing_around_with_local_ai_why_are_they",
+      "summary": "I am new to playing around with local ai and have a ton to learn about it but I was curious, why are they (who is they?) releasing them for free, don't they want you to pay them to use them, why release free models? submitted by /u/poofph […",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T01:56:16+08:00",
+      "fetchedAt": "2026-09-27T03:30:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "本地 AI 新手提问：为什么模型可以免费用？",
+        "takeaway": "一位本地 AI 新手在社区发问：厂商为什么免费放出模型，他们靠什么赚钱？",
+        "bullets": [
+          "发帖者是刚接触本地 AI 的新手，对免费模型感到困惑",
+          "他追问「他们」指谁，以及厂商为何不收费",
+          "帖子发布在 r/LocalLLaMA，属于社区讨论而非官方发布"
+        ],
+        "detail": "这位网友说自己刚开始玩本地 AI，还有很多要学，但很好奇：这些模型是谁放出来的，为什么免费？难道厂商不想让用户付费使用吗？他想知道免费发布模型的动机是什么。",
+        "generatedAt": "2026-09-27T03:30:36+08:00"
+      }
+    },
+    {
+      "id": "696b6a9b1b6cdc01",
+      "title": "Bagel fine-tune does boxes, OCR, depth and masks in one model",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wqvgvn/bagel_finetune_does_boxes_ocr_depth_and_masks_in",
+      "summary": "SenseNova-Vision-7B-MoT is a fine-tune of ByteDance's Bagel, 14B total, 7B active. Boxes and OCR come back as plain text with coordinates, depth maps and masks as images it generates. The paper puts it first on object detection and OCR (one…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T24:55:43+08:00",
+      "fetchedAt": "2026-09-27T03:30:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "paper"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
