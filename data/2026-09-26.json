@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "updatedAt": "2026-09-26T09:12:44+08:00",
+  "updatedAt": "2026-09-26T10:05:18+08:00",
   "items": [
     {
       "id": "ae41e8c4d84d6095",
@@ -1006,6 +1006,76 @@
       }
     },
     {
+      "id": "ceae727fb17013e6",
+      "title": "AI 时代，技术人靠什么赢？｜QCon上海",
+      "url": "https://infoq.cn/article/C1Vuzh9fUmUL9i5wmDZf",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T18:00:00+08:00",
+      "fetchedAt": "2026-09-26T10:05:04+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "QCon上海探讨AI时代技术人的取胜之道",
+        "takeaway": "QCon上海将聚焦AI时代技术人如何保持竞争力，值得开发者关注。",
+        "bullets": [
+          "QCon上海是InfoQ中国主办的技术大会",
+          "议题围绕AI时代技术人的核心竞争力",
+          "具体内容需点击原文查看"
+        ],
+        "detail": "InfoQ中国发布消息，QCon上海大会将探讨AI时代技术人靠什么赢。目前仅知主题，具体嘉宾和议程未在摘要中透露，需点击原文获取详情。",
+        "generatedAt": "2026-09-26T10:05:17+08:00"
+      }
+    },
+    {
+      "id": "96ed70729ffc3906",
+      "title": "DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag",
+      "url": "https://infoq.cn/article/gk4rWsQg09PWTFTZlJE3",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T17:20:21+08:00",
+      "fetchedAt": "2026-09-26T10:05:04+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "feature"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DoorDash 用多 Agent LLM 系统清理 6 万个 Feature Flag",
+        "takeaway": "外卖平台 DoorDash 用多智能体大模型系统批量清理技术债，为工程效率提效提供新样本。",
+        "bullets": [
+          "DoorDash 清理了 6 万个 Feature Flag",
+          "采用多 Agent LLM 系统自动处理",
+          "为技术债治理提供 AI 落地案例"
+        ],
+        "detail": "DoorDash 借助多 Agent 大模型系统，批量清理了积压的 6 万个 Feature Flag。这类开关长期堆积会拖慢开发与发布，此次实践展示了多智能体协作在工程提效上的可行性。",
+        "generatedAt": "2026-09-26T10:05:17+08:00"
+      }
+    },
+    {
       "id": "02636d6ab647c7d4",
       "title": "How long can I expect to wait until the local ~30B A3B frontier catches up to GLM 5.3 Flash quality?",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wq8e5u/how_long_can_i_expect_to_wait_until_the_local_30b",
@@ -1095,6 +1165,31 @@
       "category": "其他",
       "keywords": [],
       "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7c6952128f963089",
+      "title": "DistribAI v2",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wqda3a/distribai_v2",
+      "summary": "DistribAI is a platform for distributed training! You can train massive or tiny models across tiny or massive amounts of consumer devices with ease! DistribAI is a platform I've been working on for a while, and V2 made its release today. Di…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-26T09:05:51+08:00",
+      "fetchedAt": "2026-09-26T10:05:04+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 1,
       "score": 30,
       "related": [],
       "pushed": false
