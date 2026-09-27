@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "updatedAt": "2026-09-27T15:21:18+08:00",
+  "updatedAt": "2026-09-27T21:09:06+08:00",
   "items": [
     {
       "id": "6927cc92c4d1b409",
@@ -147,6 +147,40 @@
       "pushedAt": "2026-09-27T07:16:58+08:00"
     },
     {
+      "id": "6d9776651d836493",
+      "title": "啥题啊能干崩OpenAI最强模型训练…",
+      "url": "https://qbitai.com/2026/09/498546.html",
+      "summary": "",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T17:44:16+08:00",
+      "fetchedAt": "2026-09-27T21:08:53+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "啥题能搞崩OpenAI最强模型训练？量子位抛出悬念",
+        "takeaway": "量子位报道称某道题目导致OpenAI最强模型训练崩溃，但具体细节尚未披露。",
+        "bullets": [
+          "量子位发文称某题目导致OpenAI最强模型训练崩溃",
+          "标题以悬念方式呈现，未透露具体题目或模型名称",
+          "事件引发对模型训练稳定性和数据质量的关注"
+        ],
+        "detail": "量子位发布文章，标题为“啥题啊能干崩OpenAI最强模型训练…”，但未提供摘要。从标题看，似乎有一道题目导致OpenAI最强模型在训练过程中崩溃。具体是什么题目、哪个模型、如何崩溃，目前信息不足，需等待原文披露。",
+        "generatedAt": "2026-09-27T21:09:03+08:00"
+      }
+    },
+    {
       "id": "994dfeaaa4d73f78",
       "title": "When is the next generation of \"B tier\" models releasing?",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wrcy7x/when_is_the_next_generation_of_b_tier_models",
@@ -220,6 +254,44 @@
         "generatedAt": "2026-09-27T07:16:54+08:00"
       },
       "pushedAt": "2026-09-27T07:16:58+08:00"
+    },
+    {
+      "id": "a4e51b0e901ecf47",
+      "title": "Another \"Harness matters\" post (codex cli > pi and opencode)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wrfp50/another_harness_matters_post_codex_cli_pi_and",
+      "summary": "I run my own LLM while also having a Openai subscription. Also tried DeepSeek (latest flash now). I run Qwen 3.8 flash Next at an amazing speed on my 2x3090 + Ram! But local LLM never did worked for me outside some demos like build me a \"3D…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T17:20:52+08:00",
+      "fetchedAt": "2026-09-27T21:08:53+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen",
+        "DeepSeek"
+      ],
+      "confidence": 0.25,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "同一模型换个壳效果差很多：Codex CLI 被指优于 pi 和 opencode",
+        "takeaway": "用户实测发现，本地大模型跑不动复杂任务，瓶颈可能不在模型，而在调用它的工具链。",
+        "bullets": [
+          "发帖者同时用自建 LLM、OpenAI 订阅和 DeepSeek 最新版",
+          "在双 3090 加内存上跑 Qwen 3.8 flash Next，速度很快",
+          "但本地模型只适合做 3D 演示类小任务，实际开发用不起来",
+          "结论是 Codex CLI 的体验好过 pi 和 opencode"
+        ],
+        "detail": "作者既自建模型也订阅 OpenAI，还试了 DeepSeek 最新版。他用双 3090 加内存跑 Qwen 3.8 flash Next，速度很惊艳，但本地模型除了做点 3D 小演示，实际开发中始终不好用。他认为差别出在工具链上，Codex CLI 比 pi 和 opencode 更能发挥模型能力。",
+        "generatedAt": "2026-09-27T21:09:03+08:00"
+      }
     },
     {
       "id": "71b88d6b7195bace",
@@ -406,6 +478,43 @@
       }
     },
     {
+      "id": "468d4b593ffbf298",
+      "title": "Nonobench v1.2: 43 LLMs on nonogram puzzles. Open-weight DeepSeek V4 Pro ties for 4th, and no open model solves the new 20×20 Hard mode",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wrh7b2/nonobench_v12_43_llms_on_nonogram_puzzles",
+      "summary": "Follow-up to my January post: https://www.reddit.com/r/LocalLLaMA/comments/1q4i19c/benchmarking_23_llms_on_nonogram_logic_puzzle/ . That thread shaped v1.2: Reasoning effort is explicit per run Every prompt and output is public. All current…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T18:51:28+08:00",
+      "fetchedAt": "2026-09-27T21:08:53+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Nonobench v1.2 发布：43 款大模型挑战数织谜题",
+        "takeaway": "开源权重 DeepSeek V4 Pro 并列第四，但 20×20 困难模式无开源模型能解出。",
+        "bullets": [
+          "Nonobench v1.2 测试 43 款大模型解数织逻辑谜题",
+          "开源权重 DeepSeek V4 Pro 成绩并列第四",
+          "新增 20×20 困难模式，暂无开源模型解出",
+          "本次公开每次运行的推理强度、全部提示与输出"
+        ],
+        "detail": "这是对一月那次数织基准测试的更新，作者根据上一轮讨论调整了 v1.2：每次运行都明确标注推理强度，所有提示词和模型输出全部公开。43 款大模型中，开源权重的 DeepSeek V4 Pro 并列第四，但新加入的 20×20 困难模式目前还没有开源模型能解出。",
+        "generatedAt": "2026-09-27T21:09:03+08:00"
+      }
+    },
+    {
       "id": "755e3dc914b20495",
       "title": "DeepSeek Elastic Compute (DSec)",
       "url": "https://arxiv.org/abs/2609.22978",
@@ -589,6 +698,76 @@
       }
     },
     {
+      "id": "9fe0a063f817f4e3",
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+      "summary": "Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/ Comments URL: https://news.ycombinator.com/item?id=49863864 Points: 341 # Comments: 293",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T14:19:33+08:00",
+      "fetchedAt": "2026-09-27T21:08:53+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "作家协会诉 OpenAI：高管明知大规模书籍盗版违法，还担心上 Hacker News 难看",
+        "takeaway": "作家协会披露 OpenAI 内部明知用盗版书训练违法，却更在意舆论观感，引发热议。",
+        "bullets": [
+          "作家协会起诉 OpenAI，称其高管早知大规模书籍盗版违法",
+          "内部文件显示 OpenAI 担心此事登上 Hacker News 影响形象",
+          "该帖在 Hacker News 获 341 分、293 条评论，讨论热烈"
+        ],
+        "detail": "作家协会发布消息称，在针对 OpenAI 的诉讼中，其高管被指早就知道用大规模盗版书籍训练模型属于违法行为。更引人关注的是，OpenAI 内部似乎更担心这件事被曝光到 Hacker News 上会造成负面观感。该话题在 Hacker News 上迅速引发大量讨论。",
+        "generatedAt": "2026-09-27T21:09:05+08:00"
+      }
+    },
+    {
+      "id": "38c46b1d37bf319e",
+      "title": "The Opus 5.5 posts about motion graphics are cool but Qwen 27B made this on a 4090",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wrjlls/the_opus_55_posts_about_motion_graphics_are_cool",
+      "summary": "Saw the hundreds of tweets where people just keep asking Opus 5.5 for motion graphic videos. Decided to ask qwen to look at them and make its own. Quite amazing what local can achieve. **EDIT** It looks laggy because of reddits .gif limit b…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T20:58:39+08:00",
+      "fetchedAt": "2026-09-27T21:08:53+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "本地模型逆袭：Qwen 27B 在 4090 上生成动态图形",
+        "takeaway": "有人用本地 Qwen 27B 在单张 4090 上做出动态图形，效果不输 Opus 5.5 的云端演示。",
+        "bullets": [
+          "网友看腻了 Opus 5.5 的动态图形演示，转用 Qwen 27B 复现",
+          "全程在单张 RTX 4090 本地运行，未依赖云端 API",
+          "作者称效果惊人，画面卡顿是 Reddit GIF 限制所致"
+        ],
+        "detail": "Reddit 网友看到大量用 Opus 5.5 生成动态图形的推文后，决定让 Qwen 27B 参考这些作品自己做一个。结果在单张 RTX 4090 上本地跑出的效果相当惊艳，作者强调画面卡顿只是 Reddit 的 GIF 体积限制，并非模型本身问题。",
+        "generatedAt": "2026-09-27T21:09:05+08:00"
+      }
+    },
+    {
       "id": "c38f44a3e066da71",
       "title": "Just bought a second 3090 but now I don't see the benefits right now.",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wqv0qj/just_bought_a_second_3090_but_now_i_dont_see_the",
@@ -660,6 +839,43 @@
       }
     },
     {
+      "id": "59623e0bb7f27060",
+      "title": "Qwen, where's the small stuff? (1B/2B/4B)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wrez7j/qwen_wheres_the_small_stuff_1b2b4b",
+      "summary": "I know Qwen is a key player in the local LLM space and has consistently introduced truly impactful technologies—like n-gram in Qwen-Next and the recent Qwen 3.8 27B, which is an amazing local model. However, my question is: why are we seein…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T16:36:48+08:00",
+      "fetchedAt": "2026-09-27T21:08:53+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "社区追问 Qwen：小尺寸模型（1B/2B/4B）去哪了？",
+        "takeaway": "r/LocalLLaMA 用户肯定 Qwen 的本地模型贡献，但质疑其为何缺少 1B/2B/4B 小尺寸新作。",
+        "bullets": [
+          "发帖者认可 Qwen 在本地 LLM 领域的关键地位",
+          "提到 Qwen-Next 的 n-gram 与 Qwen 3.8 27B 等成果",
+          "核心疑问：为何迟迟不见 1B/2B/4B 小模型",
+          "反映本地部署用户对小尺寸模型的强烈需求"
+        ],
+        "detail": "发帖人先肯定了 Qwen 在本地大模型圈的地位，举例 Qwen-Next 的 n-gram 技术以及近期表现不错的 Qwen 3.8 27B。但他随即提出疑问：为什么社区看不到 1B、2B、4B 这类小尺寸模型的新发布。这其实代表了本地部署玩家对轻量模型的普遍期待。",
+        "generatedAt": "2026-09-27T21:09:05+08:00"
+      }
+    },
+    {
       "id": "f325a45ca2e40d8b",
       "title": "New to playing around with local ai. why are they free?",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wqwzk3/new_to_playing_around_with_local_ai_why_are_they",
@@ -695,6 +911,42 @@
         "generatedAt": "2026-09-27T03:30:36+08:00"
       },
       "pushedAt": "2026-09-27T07:16:58+08:00"
+    },
+    {
+      "id": "fb73d1e71c2de601",
+      "title": "Power Limits, Local AI, and Questionable Uses of My Free Time",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wrfe8b/power_limits_local_ai_and_questionable_uses_of_my",
+      "summary": "Good day data nerds! I am trying to get more into running models, learning about agentic workflows, and creating my own tools. But as you do (right?) I had to fine tune my current setup. With the way the markets are right now, it only makes…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T17:02:25+08:00",
+      "fetchedAt": "2026-09-27T21:08:53+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tools"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "本地AI折腾记：功耗限制与业余时间的合理浪费",
+        "takeaway": "一位本地AI爱好者分享如何优化硬件功耗，以更好地运行模型和探索智能体工作流。",
+        "bullets": [
+          "作者在r/LocalLLaMA分享本地跑模型的硬件调优经验",
+          "重点涉及功耗限制，可能影响模型运行效率",
+          "目的是学习智能体工作流并打造自己的工具"
+        ],
+        "detail": "这位网友在Reddit的LocalLLaMA板块发帖，说自己想更深入地运行本地模型、学习智能体工作流并开发自己的工具。为此他调整了现有设备的功耗设置，并调侃在当前市场行情下，这种折腾也算是一种合理利用业余时间的方式。",
+        "generatedAt": "2026-09-27T21:09:06+08:00"
+      }
     },
     {
       "id": "d4a23db2775dfcb6",
@@ -827,6 +1079,29 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-09-27T07:16:58+08:00"
+    },
+    {
+      "id": "c2d4ae74a587df40",
+      "title": "Advice on models for RAG use case",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wrfjnc/advice_on_models_for_rag_use_case",
+      "summary": "Hi all, I'm looking for some advice picking models. I'm looking to try a project to ingest quite a large amount of docments into a knowledgebase, allowing me and others to ask questions about the data. I'm thinking of using Open WebUI and o…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T17:11:21+08:00",
+      "fetchedAt": "2026-09-27T21:08:53+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
