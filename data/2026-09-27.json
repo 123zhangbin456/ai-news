@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "updatedAt": "2026-09-27T07:16:58+08:00",
+  "updatedAt": "2026-09-27T08:44:52+08:00",
   "items": [
     {
       "id": "6927cc92c4d1b409",
@@ -184,6 +184,42 @@
       "pushedAt": "2026-09-27T07:16:58+08:00"
     },
     {
+      "id": "63394656335488e4",
+      "title": "Kākāpō Party",
+      "url": "https://simonwillison.net/2026/Sep/26/kakapo-party",
+      "summary": "Tool: Kākāpō Party I gave presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking kākāpō breeding season we had in 2026. For my clo…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T07:39:06+08:00",
+      "fetchedAt": "2026-09-27T08:44:47+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tool"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Simon Willison 在开发者大会闭幕演讲中玩起鸮鹦鹉梗",
+        "takeaway": "Simon Willison 用 2026 年鸮鹦鹉繁殖季破纪录的趣闻，为 WeAreDevelopers 大会闭幕演讲收尾。",
+        "bullets": [
+          "Simon Willison 昨日在 WeAreDevelopers 北美大会做闭幕演讲",
+          "他把 2026 年鸮鹦鹉繁殖季破纪录一事编入演讲",
+          "相关工具或内容以「Kākāpō Party」为名发布"
+        ],
+        "detail": "Simon Willison 昨天在 WeAreDevelopers 世界大会北美站做了闭幕主题演讲。他特意把 2026 年鸮鹦鹉繁殖季创纪录的新闻融入演讲，作为自己的高光时刻。他还为此发布了一个名为 Kākāpō Party 的工具。",
+        "generatedAt": "2026-09-27T08:44:52+08:00"
+      }
+    },
+    {
       "id": "260fa32be7fff6db",
       "title": "85 GB DeepSeek-V4-Flash at ~3 tok/s on a 12 GB RTX 3060 + 64 GB DDR5 RAM - Overspill for FreeToken, inspired by Colibri",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wqwm3o/85_gb_deepseekv4flash_at_3_toks_on_a_12_gb_rtx",
@@ -332,6 +368,42 @@
         "generatedAt": "2026-09-27T07:16:57+08:00"
       },
       "pushedAt": "2026-09-27T07:16:58+08:00"
+    },
+    {
+      "id": "4274e0b8d2e06aa4",
+      "title": "42x Faster Prompt Lookup Drafting in llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wr5ylm/42x_faster_prompt_lookup_drafting_in_llamacpp",
+      "summary": "submitted by /u/Available_Pressure47 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T08:23:41+08:00",
+      "fetchedAt": "2026-09-27T08:44:47+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 提示查找草稿提速 42 倍",
+        "takeaway": "llama.cpp 的提示查找草稿解码性能大幅提升，本地推理提速明显。",
+        "bullets": [
+          "llama.cpp 实现提示查找草稿解码 42 倍加速",
+          "该技术用于推测解码，可提升本地模型生成速度",
+          "由社区用户发布，或推动本地推理效率优化"
+        ],
+        "detail": "llama.cpp 社区用户报告，其提示查找草稿（Prompt Lookup Drafting）功能实现了 42 倍性能提升。该技术属于推测解码的一种，通过复用提示中的文本片段来加速生成，有望让本地大模型推理更快。",
+        "generatedAt": "2026-09-27T08:44:52+08:00"
+      }
     },
     {
       "id": "c38f44a3e066da71",
