@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-28",
+  "updatedAt": "2026-09-28T01:22:38+08:00",
+  "items": [
+    {
+      "id": "39e6d83733f34b5b",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-28T24:30:00+08:00",
+      "fetchedAt": "2026-09-28T01:22:28+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic CEO 被 SNL 恶搞：AI 是魔鬼，我是造物主",
+        "takeaway": "美国综艺《周六夜现场》调侃 Anthropic CEO，反映 AI 行业热度已进入大众文化。",
+        "bullets": [
+          "《周六夜现场》在节目中模仿了 Anthropic CEO 达里奥·阿莫代伊",
+          "台词“AI 是魔鬼，我是它的制造者”成为笑点",
+          "事件显示 AI 公司高管正成为流行文化调侃对象"
+        ],
+        "detail": "TechCrunch AI 报道，Anthropic 首席执行官达里奥·阿莫代伊被美国著名喜剧节目《周六夜现场》模仿。节目中一句台词调侃道：“AI 是魔鬼，而我是它的制造者。”这反映出 AI 行业及其领军人物已进入大众娱乐视野。",
+        "generatedAt": "2026-09-28T01:22:35+08:00"
+      }
+    },
+    {
+      "id": "cc787695058d2a98",
+      "title": "Adding logit penalty for \"wait\", \"maybe\" and \"perhaps\" to Qwen models improves their accuracy",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wromzr/adding_logit_penalty_for_wait_maybe_and_perhaps",
+      "summary": "Meta came out with a banger paper https://arxiv.org/pdf/2606.00206 , but it did not look at various quantizations supported in llama.cpp. So I did a run on 50 random MATH-500 questions ( https://huggingface.co/datasets/HuggingFaceH4/MATH-50…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-28T24:29:34+08:00",
+      "fetchedAt": "2026-09-28T01:22:28+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "paper",
+        "arxiv"
+      ],
+      "confidence": 0.33,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "给 Qwen 加个「别犹豫」惩罚，数学准确率就涨了",
+        "takeaway": "有人复现 Meta 论文思路，在 llama.cpp 里对 Qwen 的「wait/maybe/perhaps」等词加 logit 惩罚，数学题正确率提升。",
+        "bullets": [
+          "Meta 新论文提出抑制犹豫词可提升推理准确率",
+          "原论文未覆盖 llama.cpp 的多种量化版本",
+          "作者用 50 道 MATH-500 随机题在 Qwen 上实测验证",
+          "结果支持该技巧在本地量化模型上同样有效"
+        ],
+        "detail": "Meta 发了一篇关于推理的论文，但没测试 llama.cpp 支持的各种量化模型。于是这位网友拿 Qwen 在 50 道随机 MATH-500 题上跑了一遍，对「wait」「maybe」「perhaps」这类词加 logit 惩罚，发现准确率有所改善。",
+        "generatedAt": "2026-09-28T01:22:35+08:00"
+      }
+    },
+    {
+      "id": "812cb3ef912be7a1",
+      "title": "is switching from llama cpp to vllm worth it",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wrpajn/is_switching_from_llama_cpp_to_vllm_worth_it",
+      "summary": "I have hp z8 g4 with 512 ram and 1x3090 1x5060 16gb. has anyone made the transition from llama cpp to vllm recently? is it worth it? docker under windows or full linux install? I am mainly interested in the model support, it seems that many…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-28T24:55:37+08:00",
+      "fetchedAt": "2026-09-28T01:22:28+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "从 llama.cpp 换到 vLLM 值不值？用户发帖求经验",
+        "takeaway": "一位本地部署玩家纠结是否从 llama.cpp 迁移到 vLLM，关注模型支持与部署方式。",
+        "bullets": [
+          "发帖人配置：HP Z8 G4、512GB 内存、RTX 3090 与 5060 16GB",
+          "核心疑问：近期从 llama.cpp 转 vLLM 是否值得",
+          "部署纠结：Windows 下用 Docker 还是装完整 Linux",
+          "主要关注点：vLLM 的模型支持范围"
+        ],
+        "detail": "这位用户在 r/LocalLLaMA 发帖，说自己有台 HP Z8 G4，配了 512GB 内存和两张显卡（3090 和 5060 16GB）。他想知道最近有没有人从 llama.cpp 换到 vLLM，值不值得，以及该在 Windows 下用 Docker 还是直接装 Linux。他主要在意模型支持，觉得 vLLM ",
+        "generatedAt": "2026-09-28T01:22:38+08:00"
+      }
+    }
+  ],
+  "topic": "ai"
+}

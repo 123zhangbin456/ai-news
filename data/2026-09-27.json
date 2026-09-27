@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "updatedAt": "2026-09-27T21:09:06+08:00",
+  "updatedAt": "2026-09-28T01:22:38+08:00",
   "items": [
     {
       "id": "6927cc92c4d1b409",
@@ -294,6 +294,42 @@
       }
     },
     {
+      "id": "90524ab39269641a",
+      "title": "What if open-source AI focused less on giant models and more on reusable capabilities?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wrlj46/what_if_opensource_ai_focused_less_on_giant",
+      "summary": "Instead of everyone building another general-purpose model, the community could distill open models into domain specialists—biology, Python, accounting, OCR, and more. Developers could combine these capabilities into local tools: small mode…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T22:24:48+08:00",
+      "fetchedAt": "2026-09-28T01:22:28+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 0.8,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开源 AI 该少造大模型，多攒可复用能力？",
+        "takeaway": "社区讨论：与其重复造通用大模型，不如把开源模型蒸馏成各领域专家，再拼装成本地工具。",
+        "bullets": [
+          "提议把开源模型蒸馏成生物、Python、会计、OCR 等垂直专家",
+          "开发者可将这些能力组合成小型本地工具",
+          "思路是减少重复训练，提高开源模型复用率"
+        ],
+        "detail": "有人提出，开源社区不必人人都去训一个通用大模型，而可以把现有开源模型蒸馏成生物学、Python、会计、OCR 等领域的专用能力。开发者再把这些能力像积木一样组合，做成能在本地运行的小工具，从而减少重复投入。",
+        "generatedAt": "2026-09-28T01:22:34+08:00"
+      }
+    },
+    {
       "id": "71b88d6b7195bace",
       "title": "Insurers claim AI is already increasing healthcare costs",
       "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs",
@@ -364,6 +400,110 @@
         ],
         "detail": "Simon Willison 昨天在 WeAreDevelopers 世界大会北美站做了闭幕主题演讲。他特意把 2026 年鸮鹦鹉繁殖季创纪录的新闻融入演讲，作为自己的高光时刻。他还为此发布了一个名为 Kākāpō Party 的工具。",
         "generatedAt": "2026-09-27T08:44:52+08:00"
+      }
+    },
+    {
+      "id": "a5d1e87178ddf6a1",
+      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+      "url": "https://qbitai.com/2026/09/498633.html",
+      "summary": "",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T22:20:35+08:00",
+      "fetchedAt": "2026-09-28T01:22:28+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "估值"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "清华系量子AI创业公司估值10亿，用量子技术改造大模型底层",
+        "takeaway": "清华团队创立的量子AI公司获10亿估值，尝试用量子计算优化大模型底层，值得关注其技术路径。",
+        "bullets": [
+          "公司由清华背景团队创立，被称为“清华梦之队”",
+          "估值已达10亿元，处于早期融资阶段",
+          "方向是用量子计算改造大模型底层技术"
+        ],
+        "detail": "这家量子AI创业公司由清华系团队组成，目前估值10亿元。他们试图用量子计算技术改进大模型的底层架构，具体方法尚未披露。",
+        "generatedAt": "2026-09-28T01:22:36+08:00"
+      }
+    },
+    {
+      "id": "58d480324224db87",
+      "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+      "url": "https://qbitai.com/2026/09/498605.html",
+      "summary": "想让开发者“说句话就能跑量子计算”",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T21:57:57+08:00",
+      "fetchedAt": "2026-09-28T01:22:28+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "量子计算走上桌面：小盒子跑通端到端，数据不出门",
+        "takeaway": "量子计算机被做成桌面小盒子，能独立完成端到端运算，数据全程本地处理，开发者用自然语言就能调用。",
+        "bullets": [
+          "量子计算设备小型化到桌面尺寸，无需联网即可运行。",
+          "端到端跑通意味着从输入到结果全程本地完成，数据不出门。",
+          "目标用户是开发者，愿景是“说句话就能跑量子计算”。"
+        ],
+        "detail": "量子位报道，量子计算不再依赖大型机房，而是被集成进一个桌面大小的“小盒子”里，并且已经跑通了端到端流程。所有数据都在本地处理，不会离开设备，既保护隐私又降低使用门槛。开发者未来或许只需用自然语言下达指令，就能直接运行量子计算任务。",
+        "generatedAt": "2026-09-28T01:22:36+08:00"
+      }
+    },
+    {
+      "id": "f7fed527b289b311",
+      "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+      "url": "https://qbitai.com/2026/09/498584.html",
+      "summary": "中秋假期文具OpenRouter调用日榜榜首",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T21:40:02+08:00",
+      "fetchedAt": "2026-09-28T01:22:28+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "匿名模型玉兔登顶双榜，Coding实测全记录",
+        "takeaway": "匿名模型玉兔在中秋假期冲上 OpenRouter 调用日榜第一，Coding 能力实测表现亮眼。",
+        "bullets": [
+          "玉兔模型匿名杀上 OpenRouter 双榜第一",
+          "中秋假期调用量登顶日榜，引发关注",
+          "量子位发布 Coding 实测全记录"
+        ],
+        "detail": "中秋假期期间，一个名为玉兔的匿名模型在 OpenRouter 调用日榜上排名第一，同时登上双榜榜首。量子位对其进行了 Coding 能力实测并发布全记录，展示其又快又能打的表现。",
+        "generatedAt": "2026-09-28T01:22:36+08:00"
       }
     },
     {
@@ -512,6 +652,43 @@
         ],
         "detail": "这是对一月那次数织基准测试的更新，作者根据上一轮讨论调整了 v1.2：每次运行都明确标注推理强度，所有提示词和模型输出全部公开。43 款大模型中，开源权重的 DeepSeek V4 Pro 并列第四，但新加入的 20×20 困难模式目前还没有开源模型能解出。",
         "generatedAt": "2026-09-27T21:09:03+08:00"
+      }
+    },
+    {
+      "id": "10c256dd327aca1f",
+      "title": "Worth going from Qwen3.8 27B to flash next or maaybe deepseek v4 flash?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wrkle9/worth_going_from_qwen38_27b_to_flash_next_or",
+      "summary": "I am running qwen3.8 27b on my dual rtx 3090 (fp8 quant, unquantized cache, 129k context) and I think it works decently well with hermes, opencode etc. But! I am tempted by the new models coming out such as qwen3.8 flash next, deepseek v4 f…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T21:44:10+08:00",
+      "fetchedAt": "2026-09-28T01:22:28+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "双3090跑Qwen3.8 27B，该不该换Flash新模型？",
+        "takeaway": "本地部署玩家纠结：现有Qwen3.8 27B够用，但新出的Flash系列模型让人心动。",
+        "bullets": [
+          "用户用双RTX 3090跑Qwen3.8 27B，FP8量化、129K上下文",
+          "搭配Hermes、opencode等工具，日常使用体验尚可",
+          "纠结是否升级到Qwen3.8 Flash Next或DeepSeek V4 Flash",
+          "核心疑问：新模型在本地硬件上是否值得折腾"
+        ],
+        "detail": "这位用户在双RTX 3090上以FP8量化方式运行Qwen3.8 27B，保留未量化缓存，支持129K上下文，配合Hermes、opencode等工具表现不错。但面对Qwen3.8 Flash Next和DeepSeek V4 Flash等新模型，他犹豫是否该升级，想听听社区意见。",
+        "generatedAt": "2026-09-28T01:22:38+08:00"
       }
     },
     {
@@ -1052,6 +1229,43 @@
         ],
         "detail": "Supersonic Labs 在 Hugging Face 上发布了 Julia-1，这是一个 144M 参数的开源本地分类模型，并非生成式模型，不能像聊天机器人那样对话。官方表示，这是其紧凑决策模型研究的一部分，主打在本地设备上运行。",
         "generatedAt": "2026-09-27T15:21:18+08:00"
+      }
+    },
+    {
+      "id": "6754e1922cd12ad7",
+      "title": "Zer0Fit - Zero-shot predictions, classifications, and regressions using Google ML research models running locally as a dockerized MCP",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wrke2t/zer0fit_zeroshot_predictions_classifications_and",
+      "summary": "AI grad student here. With all the recent interest in Jev, I thought I would share something I built la few months ago that brings ML models and LLMs together in a different way than Jev does for different use cases. https://github.com/pore…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T21:34:53+08:00",
+      "fetchedAt": "2026-09-28T01:22:28+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 0.5,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Zer0Fit：把谷歌 ML 模型打包成 Docker 化 MCP，本地做零样本预测",
+        "takeaway": "一个 AI 研究生开源了 Zer0Fit，用 Docker 化的 MCP 在本地跑谷歌 ML 研究模型，实现零样本预测、分类和回归。",
+        "bullets": [
+          "作者是 AI 研究生，项目几个月前就已构建",
+          "把谷歌 ML 研究模型本地运行，无需云端调用",
+          "以 Docker 化 MCP 形式提供，方便集成到 LLM 工作流",
+          "定位与 Jev 不同，面向零样本预测等特定场景"
+        ],
+        "detail": "作者在 r/LocalLLaMA 分享了自己几个月前做的项目 Zer0Fit。它把谷歌的机器学习研究模型打包成 Docker 化的 MCP，在本地就能完成零样本预测、分类和回归。作者表示，这和近期受关注的 Jev 思路不同，是想让 ML 模型和 LLM 以另一种方式结合，服务不同用例。",
+        "generatedAt": "2026-09-28T01:22:38+08:00"
       }
     },
     {
