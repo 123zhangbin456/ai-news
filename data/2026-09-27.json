@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "updatedAt": "2026-09-27T08:44:52+08:00",
+  "updatedAt": "2026-09-27T09:56:56+08:00",
   "items": [
     {
       "id": "6927cc92c4d1b409",
@@ -403,6 +403,42 @@
         ],
         "detail": "llama.cpp 社区用户报告，其提示查找草稿（Prompt Lookup Drafting）功能实现了 42 倍性能提升。该技术属于推测解码的一种，通过复用提示中的文本片段来加速生成，有望让本地大模型推理更快。",
         "generatedAt": "2026-09-27T08:44:52+08:00"
+      }
+    },
+    {
+      "id": "38a4adb14431c8f6",
+      "title": "Mail client with local AI?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wr7njr/mail_client_with_local_ai",
+      "summary": "Any recommendations on an email client with local AI option? Either reasonable pay-once cost (no subs) or free. I found Skim and Emailops on git, both seem to have some development going on with recent releases. However since neither has a …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-27T09:47:47+08:00",
+      "fetchedAt": "2026-09-27T09:56:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "releases"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "求推荐带本地 AI 的邮件客户端，Skim 和 Emailops 被点名",
+        "takeaway": "Reddit 网友在找支持本地 AI 的邮件客户端，希望一次性买断或免费，不想订阅。",
+        "bullets": [
+          "发帖人想要本地 AI 邮件客户端，拒绝订阅制",
+          "已找到 Skim 和 Emailops 两个开源项目",
+          "两者近期都有更新，但发帖人仍有顾虑"
+        ],
+        "detail": "有人在 r/LocalLLaMA 发帖求推荐带本地 AI 的邮件客户端，要求一次性付费或免费、不要订阅制。他找到 GitHub 上的 Skim 和 Emailops，两者近期都有新版本在开发，但发帖人没说明具体不满意的地方。",
+        "generatedAt": "2026-09-27T09:56:55+08:00"
       }
     },
     {
