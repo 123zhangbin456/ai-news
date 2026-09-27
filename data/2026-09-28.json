@@ -1,7 +1,77 @@
 {
   "date": "2026-09-28",
-  "updatedAt": "2026-09-28T01:22:38+08:00",
+  "updatedAt": "2026-09-28T05:45:29+08:00",
   "items": [
+    {
+      "id": "80032e73c06a7a2a",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-28T03:57:30+08:00",
+      "fetchedAt": "2026-09-28T05:45:19+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 56,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 的 Muse 能解决信任问题吗？",
+        "takeaway": "Meta 发布 AI 新品 Muse，风头盖过 OpenAI 和 Anthropic，但信任仍是难题。",
+        "bullets": [
+          "Meta 的 AI 公告抢了 OpenAI 和 Anthropic 的风头",
+          "TechCrunch 的 Equity 播客讨论了这一话题",
+          "核心疑问：Muse 能否克服 Meta 的信任问题"
+        ],
+        "detail": "在 TechCrunch 的 Equity 播客中，主持人讨论了 Meta 的 AI 公告如何成功抢走了 OpenAI 和 Anthropic 的注意力。但关键问题是，Meta 过去在隐私和信任方面的记录，是否会让用户对 Muse 持保留态度。",
+        "generatedAt": "2026-09-28T05:45:26+08:00"
+      }
+    },
+    {
+      "id": "63f85032962dd035",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-28T04:34:28+08:00",
+      "fetchedAt": "2026-09-28T05:45:19+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO"
+      ],
+      "confidence": 1,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic CEO 将与特朗普共进晚餐，首次一对一会面",
+        "takeaway": "Anthropic CEO 达里奥·阿莫代伊将与特朗普首次单独会面，AI 监管或成焦点。",
+        "bullets": [
+          "这是阿莫代伊与特朗普首次一对一会面",
+          "会面形式为共进晚餐，细节尚未公开",
+          "正值美国大选季，AI 政策讨论升温"
+        ],
+        "detail": "据 TechCrunch AI 报道，Anthropic 首席执行官达里奥·阿莫代伊即将与美国总统特朗普共进晚餐。这将是两人首次一对一会面，外界关注双方可能讨论 AI 监管与安全等议题。",
+        "generatedAt": "2026-09-28T05:45:25+08:00"
+      }
+    },
     {
       "id": "39e6d83733f34b5b",
       "title": "Anthropic’s Dario Amodei gets the SNL treatment",
@@ -34,6 +104,43 @@
         ],
         "detail": "TechCrunch AI 报道，Anthropic 首席执行官达里奥·阿莫代伊被美国著名喜剧节目《周六夜现场》模仿。节目中一句台词调侃道：“AI 是魔鬼，而我是它的制造者。”这反映出 AI 行业及其领军人物已进入大众娱乐视野。",
         "generatedAt": "2026-09-28T01:22:35+08:00"
+      }
+    },
+    {
+      "id": "792afdd7126d9555",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "url": "https://theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-28T01:21:07+08:00",
+      "fetchedAt": "2026-09-28T05:45:19+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 智能体被指暴力扫描联合国网站逾万次",
+        "takeaway": "安全研究员称 OpenAI 智能体在 4 至 6 月间对联合国贸发会议统计站点发起超 1.6 万次扫描，引发 AI 行为边界讨论。",
+        "bullets": [
+          "研究员 Rowan Howard-Jones 披露了这起扫描事件",
+          "目标为联合国贸发会议（UNCTAD）统计网站",
+          "4 月至 6 月间扫描次数超过 16,000 次",
+          "事件严重程度尚未达到正式安全事件级别"
+        ],
+        "detail": "安全研究员 Rowan Howard-Jones 指出，OpenAI 的智能体在 4 月到 6 月期间，对联合国贸发会议的统计网站进行了超过 1.6 万次扫描。该事件虽未达到严重网络攻击的程度，但凸显了自主 AI 智能体在访问外部系统时可能带来的风险。",
+        "generatedAt": "2026-09-28T05:45:26+08:00"
       }
     },
     {
@@ -75,6 +182,76 @@
       }
     },
     {
+      "id": "93164ff1607609b5",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "url": "https://theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-28T04:46:36+08:00",
+      "fetchedAt": "2026-09-28T05:45:19+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Engram 采样器：把 AI 幻觉变成音乐",
+        "takeaway": "音乐初创 Thoughtful Things 推出 Engram，用 AI 扭曲音频并生成全新声音，Kickstarter 已上线。",
+        "bullets": [
+          "Engram 是一款采样器兼律动盒，能实时处理输入音频",
+          "它利用 AI 制造“幻觉”，生成原本不存在的声音",
+          "产品通过 Kickstarter 众筹，并非 Suno 式生成工具"
+        ],
+        "detail": "音乐初创公司 Thoughtful Things 在 Kickstarter 上发布了首款硬件 Engram。它是一台采样器和律动盒，借助 AI 对输入音频进行扭曲处理，甚至能“幻觉”出全新的声音。它和 Suno 那种纯生成式 AI 音乐工具不是一回事。",
+        "generatedAt": "2026-09-28T05:45:27+08:00"
+      }
+    },
+    {
+      "id": "35b6164ede47aa24",
+      "title": "Don't trust frontier models when asking about budget hardware!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wrrgex/dont_trust_frontier_models_when_asking_about",
+      "summary": "Early this year when I was first looking at building up my inference capability you could get the 16GB Tesla P100s for between $60 and $80. Asked claude about it, told me absolutely not worth it. No tensor cores, bad int4/int8, no BF16, not…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-28T02:21:08+08:00",
+      "fetchedAt": "2026-09-28T05:45:19+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "别信前沿模型对廉价硬件的判断：P100 曾被 Claude 劝退",
+        "takeaway": "用户分享经历：年初 16GB Tesla P100 仅 60-80 美元，Claude 却称不值得买，理由是没有张量核心、int4/int8 差、不支持 BF16。",
+        "bullets": [
+          "年初 16GB Tesla P100 二手价约 60-80 美元",
+          "Claude 劝退：无张量核心、低精度差、无 BF16",
+          "作者提醒：前沿模型对预算硬件的建议可能不靠谱"
+        ],
+        "detail": "作者年初想搭建推理设备时，发现 16GB 的 Tesla P100 只要 60 到 80 美元。他问 Claude 是否值得买，Claude 坚决反对，理由包括没有张量核心、int4/int8 性能差、不支持 BF16 等。作者因此提醒，不要盲目相信前沿模型对廉价硬件的评价。",
+        "generatedAt": "2026-09-28T05:45:27+08:00"
+      }
+    },
+    {
       "id": "812cb3ef912be7a1",
       "title": "is switching from llama cpp to vllm worth it",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wrpajn/is_switching_from_llama_cpp_to_vllm_worth_it",
@@ -110,6 +287,129 @@
         "detail": "这位用户在 r/LocalLLaMA 发帖，说自己有台 HP Z8 G4，配了 512GB 内存和两张显卡（3090 和 5060 16GB）。他想知道最近有没有人从 llama.cpp 换到 vLLM，值不值得，以及该在 Windows 下用 Docker 还是直接装 Linux。他主要在意模型支持，觉得 vLLM ",
         "generatedAt": "2026-09-28T01:22:38+08:00"
       }
+    },
+    {
+      "id": "4a01404d2ad83017",
+      "title": "Imbalanced VRAM usage between two GPUs in llama.cpp. Anyone successfully solve this?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wruh65/imbalanced_vram_usage_between_two_gpus_in",
+      "summary": "There is always at least 1+GB of VRAM not usable not matter how I set the --tensor-split (-ts) param. I tiny shift toward one side will move the weight significantly to the other side. 😵‍💫 Adjusting context will increase/decrease usage on…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-28T04:18:57+08:00",
+      "fetchedAt": "2026-09-28T05:45:19+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 双卡显存占用不均，用户求助无解",
+        "takeaway": "llama.cpp 双 GPU 显存分配失衡，至少 1GB 显存无法利用，调参也难解决。",
+        "bullets": [
+          "用户反馈双卡跑 llama.cpp 时显存占用严重不均",
+          "无论怎么调 --tensor-split 都至少有 1GB 显存闲置",
+          "参数微调会导致权重明显倒向另一侧，难以平衡"
+        ],
+        "detail": "有用户在 LocalLLaMA 反映，用 llama.cpp 双卡推理时显存分配总是不均衡，无论怎么设置 --tensor-split 参数，都至少有 1GB 以上显存用不上；稍微偏移一点，负载又会大幅倒向另一张卡。调整上下文长度也会影响占用，目前仍在寻求可行解法。",
+        "generatedAt": "2026-09-28T05:45:27+08:00"
+      }
+    },
+    {
+      "id": "8314d84dde615079",
+      "title": "2x Tesla p100s, q6_k quant, Qwen 3.8 27B ~60tps V3.0",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wrv2l3/2x_tesla_p100s_q6_k_quant_qwen_38_27b_60tps_v30",
+      "summary": "Hey guys! I have been excited to share this here. This is a project consisting of kernel optimizations for the Tesla p100 series graphics card ($80). I want to start by saying I am 17 years old and do not have a formal degree. I used Ai for…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-28T04:42:02+08:00",
+      "fetchedAt": "2026-09-28T05:45:19+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0.25,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "17岁开发者优化Tesla P100内核，Qwen 27B量化版跑出60tps",
+        "takeaway": "双P100显卡上运行Qwen 3.8 27B量化模型，速度达60tps，展示老硬件潜力。",
+        "bullets": [
+          "17岁无学位开发者用AI辅助完成P100内核优化",
+          "双Tesla P100（约80美元）运行Qwen 3.8 27B q6_k量化",
+          "推理速度约60 tokens每秒，V3.0版本",
+          "项目聚焦老显卡内核优化，降低本地大模型门槛"
+        ],
+        "detail": "一位17岁开发者分享了对Tesla P100显卡的内核优化项目，使用双P100运行Qwen 3.8 27B的q6_k量化版本，推理速度达到约60 tokens每秒。他借助AI工具完成开发，没有正式学位，旨在让廉价老硬件也能高效运行大模型。",
+        "generatedAt": "2026-09-28T05:45:29+08:00"
+      }
+    },
+    {
+      "id": "68012b10131d73ff",
+      "title": "Swift 1.5 Qwen3.8 27b (A must-have for low thinking!)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wrv6bp/swift_15_qwen38_27b_a_musthave_for_low_thinking",
+      "summary": "Just made this post for those who missed it : https://huggingface.co/ukisai/Swift-1.5-Qwen3.8-27b UkisAI released their updated Qwen 27B (tuned for token efficiency). I grabbed the IQ4_XS quant to test against Unsloth's Q4_K_S: Low-thinking…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-28T04:46:13+08:00",
+      "fetchedAt": "2026-09-28T05:45:19+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7893e3abf29c6fb3",
+      "title": "Hardware Roofline Inference Calculator",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wrv32p/hardware_roofline_inference_calculator",
+      "summary": "Hello everyone, I made a calculator for the theoretical HW roofline for decoding / prefill based on several parameters (LLM model architecture, quants, GPU, Memory, ..). It still a theoretical bound, but helpful as a step-0 check to underst…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-28T04:42:35+08:00",
+      "fetchedAt": "2026-09-28T05:45:19+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
