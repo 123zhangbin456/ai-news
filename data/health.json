@@ -120,16 +120,16 @@
     "lastOkDay": "2026-09-28"
   },
   "arxiv-ai": {
-    "failDays": 3,
-    "lastFailDay": "2026-09-28",
-    "lastError": "订阅源为空或格式无法解析",
-    "lastOkDay": "2026-09-26"
+    "failDays": 0,
+    "lastFailDay": null,
+    "lastError": null,
+    "lastOkDay": "2026-09-28"
   },
   "arxiv-cl": {
-    "failDays": 3,
-    "lastFailDay": "2026-09-28",
-    "lastError": "订阅源为空或格式无法解析",
-    "lastOkDay": "2026-09-26"
+    "failDays": 0,
+    "lastFailDay": null,
+    "lastError": null,
+    "lastOkDay": "2026-09-28"
   },
   "cursor-changelog": {
     "failDays": 0,
@@ -144,15 +144,15 @@
     "lastOkDay": "2026-09-28"
   },
   "cursor-announcements": {
-    "failDays": 0,
-    "lastFailDay": null,
-    "lastError": null,
+    "failDays": 1,
+    "lastFailDay": "2026-09-28",
+    "lastError": "HTTP 429",
     "lastOkDay": "2026-09-28"
   },
   "cursor-guides": {
-    "failDays": 0,
-    "lastFailDay": null,
-    "lastError": null,
+    "failDays": 1,
+    "lastFailDay": "2026-09-28",
+    "lastError": "HTTP 429",
     "lastOkDay": "2026-09-28"
   },
   "cursor-reddit": {
