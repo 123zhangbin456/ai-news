@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "updatedAt": "2026-09-28T05:45:29+08:00",
+  "updatedAt": "2026-09-28T08:05:58+08:00",
   "items": [
     {
       "id": "80032e73c06a7a2a",
@@ -359,6 +359,155 @@
         ],
         "detail": "一位17岁开发者分享了对Tesla P100显卡的内核优化项目，使用双P100运行Qwen 3.8 27B的q6_k量化版本，推理速度达到约60 tokens每秒。他借助AI工具完成开发，没有正式学位，旨在让廉价老硬件也能高效运行大模型。",
         "generatedAt": "2026-09-28T05:45:29+08:00"
+      }
+    },
+    {
+      "id": "ce074060de4a806b",
+      "title": "【钛晨报】中美达成八点成果共识；中秋假期消费市场需求旺盛，智能、绿色商品销售火热；中国移动、中国电信、中国联通，集中叫停“0元购机”",
+      "url": "https://tmtpost.com/8153534.html",
+      "summary": "长安汽车：力争在2028年实现人形机器人量产；Meta数据隐私案败诉，或面临最高2190亿美元天价罚款；OpenAI确认干预3家美国政府网站；苹果因侵犯触觉反馈专利被判赔付57亿美元；中国信通院何阳：中国初步具备开展算力期货研究条件；2028年前后，FAST有望实现全链条国产化；美国一家AI实验室：AI演化出自己的方言",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-28T07:20:00+08:00",
+      "fetchedAt": "2026-09-28T08:05:48+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "隐私",
+        "罚款"
+      ],
+      "confidence": 0.43,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "中美达成八点共识；三大运营商叫停0元购机；Meta隐私案败诉",
+        "takeaway": "中美政策沟通取得进展，国内运营商整顿合约机乱象，Meta面临天价隐私罚款。",
+        "bullets": [
+          "中美达成八点成果共识，涉及经贸与科技等议题",
+          "三大运营商集中叫停0元购机，规范合约机市场",
+          "Meta数据隐私案败诉，或面临最高2190亿美元罚款",
+          "中秋假期智能、绿色商品销售火热，消费需求旺盛"
+        ],
+        "detail": "中美双方达成八点成果共识，具体内容未在摘要中展开。国内方面，中国移动、电信、联通集中叫停0元购机，中秋假期智能与绿色商品销售火热。海外方面，Meta隐私案败诉或面临天价罚款，OpenAI确认干预3家美国政府网站。",
+        "generatedAt": "2026-09-28T08:05:56+08:00"
+      }
+    },
+    {
+      "id": "afee1284748670ad",
+      "title": "Qwen plays World of Warcraft",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wry136/qwen_plays_world_of_warcraft",
+      "summary": "Been doing a bunch of vibe coding lately. Had my agents host a private WoW server for me, then built out a web browser client so you can play without installing the game and it has mobile controls. Afterwards, created a custom mcp to drive …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-28T06:46:25+08:00",
+      "fetchedAt": "2026-09-28T08:05:48+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 玩转《魔兽世界》：AI 代理自建私服并开发网页客户端",
+        "takeaway": "开发者用 Qwen 代理搭建私服、开发网页版魔兽客户端，展示 AI 代理在复杂游戏环境中的自主能力。",
+        "bullets": [
+          "Qwen 代理自主搭建了私人《魔兽世界》服务器",
+          "还开发了带移动端控制的网页浏览器客户端，无需安装游戏",
+          "随后创建自定义 MCP 来驱动游戏操作"
+        ],
+        "detail": "一位开发者最近尝试让 AI 代理自主完成一系列任务：先托管了一个私有的《魔兽世界》服务器，接着构建了网页版客户端，让玩家无需安装游戏就能在浏览器中游玩，并支持移动端操控。之后还创建了自定义 MCP 来驱动游戏内的操作。",
+        "generatedAt": "2026-09-28T08:05:56+08:00"
+      }
+    },
+    {
+      "id": "1ad88bbdd6846fcf",
+      "title": "Qwen company already rushed out a Jev competitor. No open weights yet.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wrz9py/qwen_company_already_rushed_out_a_jev_competitor",
+      "summary": "It's called decision-model-preview. There is only a docs page. No announcement or anything. I can't post a link because reddit's filters just deletes posts that contain a link to the cloud platform that hosts it. But you'll find the page if…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-28T07:43:08+08:00",
+      "fetchedAt": "2026-09-28T08:05:48+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "preview",
+        "Qwen"
+      ],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阿里通义被曝匆忙推出 Jev 竞品，暂未开源权重",
+        "takeaway": "通义疑似低调上线一款对标 Jev 的模型，仅有文档页、无公告、未开放权重。",
+        "bullets": [
+          "模型名为 decision-model-preview，目前只有文档页面",
+          "没有官方公告，发布方式相当低调",
+          "尚未开放权重，与开源社区期待不符",
+          "被指是对 Jev 的快速跟进竞品"
+        ],
+        "detail": "有网友发现通义悄悄上线了一个叫 decision-model-preview 的模型，疑似对标 Jev。目前只有一份文档页面，既没有正式公告，也没有开放模型权重。发帖者称因平台链接会被 Reddit 过滤，无法直接给出地址。",
+        "generatedAt": "2026-09-28T08:05:56+08:00"
+      }
+    },
+    {
+      "id": "97cc9c226c7c1af2",
+      "title": "Qwen 3.8 27B vs Qwen 3.8 Flash Next and time to complete a coding task.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wrs2ii/qwen_38_27b_vs_qwen_38_flash_next_and_time_to",
+      "summary": "I am new to all this so still a lot to learn. If I give Qwen3.8 27B a coding task to fix some bugs in some code, it went through and found and fixed several in like 5 or 10 minutes. I gave qwen flash next the same task and 2.5 hours later i…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-28T02:45:02+08:00",
+      "fetchedAt": "2026-09-28T08:05:48+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 27B 与 Flash Next 编码任务耗时对比",
+        "takeaway": "用户实测：27B 版几分钟修完 bug，Flash Next 跑两个半小时仍未完成。",
+        "bullets": [
+          "用户给两者同一修 bug 任务",
+          "Qwen 3.8 27B 约 5–10 分钟完成",
+          "Flash Next 2.5 小时后仍未结束",
+          "发帖者自称新手，结果仅供参考"
+        ],
+        "detail": "一位自称新手的用户在 LocalLLaMA 分享：让 Qwen 3.8 27B 修复代码中的若干 bug，它约 5 到 10 分钟就找到并修好了几处；换成 Qwen Flash Next 跑同一任务，2.5 小时后仍未完成。",
+        "generatedAt": "2026-09-28T08:05:57+08:00"
       }
     },
     {
