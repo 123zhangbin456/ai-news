@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "updatedAt": "2026-09-29T08:45:38+08:00",
+  "updatedAt": "2026-09-29T17:08:22+08:00",
   "items": [
     {
       "id": "8efb23eb0283cd04",
@@ -2313,6 +2313,43 @@
         ],
         "detail": "OpenAI 正在收集使用 Codex 的开发者、创客、研究者和创作者的真实故事，希望了解他们用 Codex 做出了哪些成果。如果你有兴趣参与 Codex Originals 项目的下一阶段，可以提交自己的故事和项目介绍。",
         "generatedAt": "2026-09-29T08:45:38+08:00"
+      }
+    },
+    {
+      "id": "83a714f1cb5d41ee",
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "url": "https://cnbc.com/2026/09/28/nvidia-releases.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html Comments URL: https://news.ycombinator.com/item?id=49879883 Points: 166 # Comments: 209",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-28T23:46:36+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip",
+        "NVIDIA"
+      ],
+      "confidence": 0.79,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达拟为每个 AI 智能体配一枚看门狗芯片",
+        "takeaway": "英伟达想把监控芯片放到每个 AI 智能体旁边，为 AI 行为加上硬件级监督。",
+        "bullets": [
+          "英伟达提出为每个 AI 智能体配备专用看门狗芯片",
+          "消息来自 CNBC 报道，在 Hacker News 上引发热议",
+          "讨论已超 200 条，关注点集中在监控与安全边界"
+        ],
+        "detail": "据 CNBC 报道，英伟达计划在每一个 AI 智能体旁放置一枚“看门狗”芯片，用于持续监督其运行状态。这一思路把 AI 安全从纯软件层面延伸到硬件，引发社区对成本、可行性和隐私边界的讨论。",
+        "generatedAt": "2026-09-29T17:08:22+08:00"
       }
     },
     {

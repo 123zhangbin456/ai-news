@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "updatedAt": "2026-09-29T10:49:22+08:00",
+  "updatedAt": "2026-09-29T17:08:22+08:00",
   "items": [
     {
       "id": "b48cf3b3b7844edd",
@@ -36,6 +36,44 @@
         ],
         "detail": "Anthropic 发布了其中端模型的最新版本 Sonnet 5.5，官方称其响应速度更快，token 消耗也更低。该模型被定位为更便宜、更快的工作伙伴，适合日常任务使用。",
         "generatedAt": "2026-09-29T03:55:35+08:00"
+      }
+    },
+    {
+      "id": "e02943aa80cfb73b",
+      "title": "OpenAI因新模型太强叫停发布",
+      "url": "https://qbitai.com/2026/09/499140.html",
+      "summary": "AGI计划暂停。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T15:49:20+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "新模型"
+      ],
+      "confidence": 1,
+      "score": 59,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 因新模型能力过强暂停发布",
+        "takeaway": "OpenAI 主动叫停新模型发布，称其能力触及 AGI 安全红线，引发行业关注。",
+        "bullets": [
+          "OpenAI 宣布暂停一款新模型的发布",
+          "官方给出的理由是模型能力太强",
+          "相关 AGI 计划也随之暂停",
+          "事件引发对 AI 安全与发布节奏的讨论"
+        ],
+        "detail": "据量子位消息，OpenAI 因新模型能力过强而叫停发布，并暂停了相关 AGI 计划。这意味着该公司在模型能力逼近其设定的安全边界时，选择先停下脚步，而非照常推向市场。",
+        "generatedAt": "2026-09-29T17:08:11+08:00"
       }
     },
     {
@@ -334,6 +372,81 @@
       }
     },
     {
+      "id": "87ee63e9ab0a5238",
+      "title": "Jeff 开源发布：22 毫秒出一次决策的小模型、0.8B 微调在 benchmark 上逼近 Jev",
+      "url": "https://oschina.net/news/502796",
+      "summary": "一个叫 Jeff 的开源项目，把「专做快速决策的小模型」这条路又往前推了一步。它是 Qwen3.5 和 Gemma 4 的微调版本，定位是“zero-shot（零样本）”分类器——你描述一个场景、列一堆选项，Jeff 一次前向计算就返回每个选项的校准概率，不生成文本、不用解析，在 RTX PRO 6000 上约 22 毫秒出一次决策，Apple M4 Max（MLX...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T14:12:39+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.4,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Jeff 开源：22 毫秒出决策的小模型，0.8B 逼近 Jev",
+        "takeaway": "开源项目 Jeff 用微调小模型做零样本分类，一次前向即出校准概率，速度与精度兼顾。",
+        "bullets": [
+          "Jeff 基于 Qwen3.5 和 Gemma 4 微调，定位零样本分类器",
+          "输入场景与选项，一次前向返回各选项校准概率，不生成文本",
+          "RTX PRO 6000 上约 22 毫秒出一次决策，0.8B 版本逼近 Jev"
+        ],
+        "detail": "Jeff 是一个开源项目，走的是「专做快速决策的小模型」路线。它由 Qwen3.5 和 Gemma 4 微调而来，作为零样本分类器：你描述场景、列出选项，它一次前向计算就返回每个选项的校准概率，不生成文本也无需解析。在 RTX PRO 6000 上约 22 毫秒出一次决策，0.8B 微调版本在 benchmark 上逼",
+        "generatedAt": "2026-09-29T17:08:11+08:00"
+      }
+    },
+    {
+      "id": "da6c89d83ce62628",
+      "title": "Claude Sonnet 5.5 发布：速度快 3 成、Agent 编程评测从 10% 跳到 70%",
+      "url": "https://oschina.net/news/502794/claude-sonnet-5-5",
+      "summary": "Claude 5.5 家族的第二个成员今天发布：Sonnet 5.5。Anthropic 把它定位成 Opus 5.5 的「快而省」互补款——专攻范围明确的高频日常任务、修 bug、做文档和表格，还强调它有敏锐的设计眼光。官方口径一句话：比 Sonnet 5 清晰升级，速度快 30% 以上，多数任务成本低 30%。性能数据的跳跃有点夸张。Sonnet 5.5 在 agenti...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T12:14:33+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "升级",
+        "Claude"
+      ],
+      "confidence": 0.5,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Sonnet 5.5 发布：提速三成，Agent 编程评测跃至 70%",
+        "takeaway": "Anthropic 推出 Sonnet 5.5，主打快而省，Agent 编程能力从 10% 大幅提升到 70%。",
+        "bullets": [
+          "Sonnet 5.5 是 Claude 5.5 家族第二款模型，定位 Opus 5.5 的快速省钱互补款",
+          "官方称速度提升 30% 以上，多数任务成本降低 30%",
+          "Agent 编程评测成绩从 10% 跃升至 70%，提升幅度显著",
+          "面向高频日常任务、修 bug、文档表格，并强调设计眼光"
+        ],
+        "detail": "Anthropic 发布 Claude 5.5 家族的第二款模型 Sonnet 5.5，定位为 Opus 5.5 的「快而省」互补款，适合高频日常任务、修 bug、做文档和表格。官方称其比 Sonnet 5 速度提升 30% 以上、多数任务成本低 30%，Agent 编程评测成绩从 10% 跳到 70%。",
+        "generatedAt": "2026-09-29T17:08:11+08:00"
+      }
+    },
+    {
       "id": "62eb2f972ae58ea5",
       "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
       "url": "https://qbitai.com/2026/09/499098.html",
@@ -368,6 +481,44 @@
         ],
         "detail": "李飞飞创办的创业公司被AMD以550亿元收购，这是世界模型领域迄今最大的一笔交易。收购方AMD由苏姿丰掌舵，李飞飞本人将加入AMD出任首席科学家。",
         "generatedAt": "2026-09-29T09:20:25+08:00"
+      }
+    },
+    {
+      "id": "40a8064a5a8908bb",
+      "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+      "url": "https://qbitai.com/2026/09/499135.html",
+      "summary": "诺因从Demo走向家庭",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T15:10:59+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "轮融资",
+        "亿元"
+      ],
+      "confidence": 1,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "诺因智能再获数亿元融资，成立一年累计超10亿元",
+        "takeaway": "成立仅一年完成5轮融资，诺因智能累计融资超10亿元，正从Demo走向家庭场景。",
+        "bullets": [
+          "诺因智能再获数亿元融资，成立一年已完成5轮",
+          "累计融资额超10亿元，资本关注度极高",
+          "公司正从Demo阶段走向家庭场景落地"
+        ],
+        "detail": "诺因智能成立仅一年就完成了5轮融资，最新一轮再获数亿元，累计融资超过10亿元。公司正从技术演示阶段转向家庭场景的实际应用。",
+        "generatedAt": "2026-09-29T17:08:13+08:00"
       }
     },
     {
@@ -619,6 +770,42 @@
       }
     },
     {
+      "id": "a2410a708c1f7845",
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity",
+      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T13:13:43+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "investors"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 招股书披露巨额亏损与高速增长，并警告 AI 或威胁人类",
+        "takeaway": "Anthropic 在招股书中坦承年亏数百亿美元、增长迅猛，同时警告自家 AI 可能带来人类存续风险。",
+        "bullets": [
+          "招股书显示 Anthropic 年亏损达数百亿美元",
+          "公司同时保持高速增长，营收飙升",
+          "罕见警告：其 AI 可能构成人类生存风险"
+        ],
+        "detail": "Anthropic 在招股书中向投资者透露，公司每年亏损数百亿美元，但业务增长极快。同时，它还罕见地警告，自己开发的 AI 可能对人类构成生存威胁。",
+        "generatedAt": "2026-09-29T17:08:13+08:00"
+      }
+    },
+    {
       "id": "eea3badab1c03a5d",
       "title": "When can we say AI made a scientific discovery?",
       "url": "https://technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery",
@@ -650,6 +837,81 @@
         ],
         "detail": "MIT 科技评论在专栏中提出一个问题：我们什么时候才能说 AI 真的做出了科学发现？文章提到，Anthropic 上周三宣布，它今年早些时候已经开设了一个分子生物学实验室。这让人重新思考 AI 在科研中的实际贡献该如何界定。",
         "generatedAt": "2026-09-29T03:55:38+08:00"
+      }
+    },
+    {
+      "id": "5aecfa1cf246ea52",
+      "title": "82 亿美元、全股票交易：AMD 收购 World Labs，李飞飞直接向苏姿丰汇报",
+      "url": "https://infoq.cn/article/KaaKQS6x5KiSlHa5UVVz",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T21:00:00+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "收购",
+        "亿美元"
+      ],
+      "confidence": 0.63,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AMD 82亿美元全股票收购World Labs，李飞飞向苏姿丰汇报",
+        "takeaway": "AMD以全股票交易收购李飞飞创办的World Labs，AI人才与空间智能赛道再掀波澜。",
+        "bullets": [
+          "AMD以82亿美元全股票收购World Labs",
+          "李飞飞将直接向AMD CEO苏姿丰汇报",
+          "交易凸显AI空间智能领域竞争加剧"
+        ],
+        "detail": "AMD宣布以82亿美元全股票交易收购李飞飞创立的World Labs。交易完成后，李飞飞将直接向AMD首席执行官苏姿丰汇报。此举被视为AMD在AI领域的重要布局，旨在增强其空间智能技术能力。",
+        "generatedAt": "2026-09-29T17:08:13+08:00"
+      }
+    },
+    {
+      "id": "bd6e86404f92210e",
+      "title": "华为WATCH D3开售：首创轻扰动态血压研究，打造“腕上智能血压专家”",
+      "url": "https://leiphone.com/category/industrynews/ToizySV6K6ALZWLQ.html",
+      "summary": "9月29日，华为WATCH D3正式开启首销，标志着华为第三代腕部动态血压记录仪全面推向市场。根据IDC发布的最新数据，2026年第二季度全球腕戴设备出货量为4,801万台，同比下滑4.3%，智能手表与手环均承受着一定的市场压力。行业正沿两大方向探索增量：端侧AI算力下沉与无屏手环形态创新。在此背景下，华为腕戴产品全球出货量持续领跑，不仅WATCH FIT系列成为增长的重要支撑，同时密集推出的多元细分市场新品也进一步巩固了其竞争优势。在腕戴市场整体承压的背景下，华为选择在专业…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T11:16:00+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "推出"
+      ],
+      "confidence": 0.33,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "华为WATCH D3首销：首创轻扰动态血压研究",
+        "takeaway": "华为第三代腕部动态血压记录仪开卖，主打腕上血压管理，正值腕戴市场整体承压。",
+        "bullets": [
+          "华为WATCH D3于9月29日正式开启首销",
+          "定位第三代腕部动态血压记录仪，首创轻扰动态血压研究",
+          "IDC数据显示2026年Q2全球腕戴出货4801万台，同比降4.3%",
+          "行业探索端侧AI与无屏手环，华为出货量仍持续领跑"
+        ],
+        "detail": "华为WATCH D3在9月29日开售，是华为第三代腕部动态血压记录仪，并首创轻扰动态血压研究，主打“腕上智能血压专家”。背景是腕戴市场整体承压：IDC称2026年第二季度全球出货4801万台，同比下滑4.3%，行业正转向端侧AI和无屏手环找增量，而华为出货量仍居前列。",
+        "generatedAt": "2026-09-29T17:08:15+08:00"
       }
     },
     {
@@ -909,6 +1171,43 @@
         ],
         "detail": "这是 Reddit 本地模型板块的一条分享帖。发帖人提醒大家，可以把 Qwen 3.8 27B 当作子代理来用，称它非常能干活。配图展示的场景是用 DeepSeek v4.1 Flash 作为编排者来调度它。",
         "generatedAt": "2026-09-29T08:45:35+08:00"
+      }
+    },
+    {
+      "id": "974f7ff2afbc10f4",
+      "title": "突破效率桎梏，系统性构建 Agentic 组织",
+      "url": "https://tmtpost.com/8155252.html",
+      "summary": "智能体组织的本质，不在于部署了多少 AI 工具，而在于是否将 AI 能力系统性地写入了组织的架构、流程、知识体系与文化基因。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T16:52:34+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "架构"
+      ],
+      "confidence": 0,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "从工具到基因：如何系统性构建 Agentic 组织",
+        "takeaway": "智能体组织的关键不是堆砌 AI 工具，而是把 AI 能力写进组织架构、流程、知识与文化。",
+        "bullets": [
+          "核心观点：智能体组织的本质是系统性嵌入 AI 能力",
+          "衡量标准不是部署了多少 AI 工具",
+          "落地维度包括架构、流程、知识体系与文化基因",
+          "为组织突破效率桎梏提供系统性思路"
+        ],
+        "detail": "这篇研究指出，打造智能体组织不能只靠引入 AI 工具。真正决定成效的，是把 AI 能力系统性地融入组织的架构、流程、知识体系和文化基因，从而突破效率瓶颈。",
+        "generatedAt": "2026-09-29T17:08:15+08:00"
       }
     },
     {
@@ -1258,6 +1557,77 @@
       }
     },
     {
+      "id": "cf468ec39dd67f09",
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T03:00:00+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety",
+        "misalignment"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 发布前沿 AI 训练安全案例指南",
+        "takeaway": "OpenAI 提出前沿 AI 训练安全案例的早期指南，涵盖技术保障、操作实践与失准事件调查。",
+        "bullets": [
+          "指南覆盖技术保障、操作实践和失准事件调查",
+          "针对前沿 AI 训练，OpenAI 发布早期安全案例指南",
+          "旨在为前沿 AI 训练提供安全框架"
+        ],
+        "detail": "OpenAI 发布了针对前沿 AI 训练的安全案例早期指南，内容涵盖技术保障措施、操作实践以及失准事件的调查方法。该指南旨在为高风险 AI 训练提供安全框架。",
+        "generatedAt": "2026-09-29T17:08:15+08:00"
+      }
+    },
+    {
+      "id": "93dcf6f5263898a6",
+      "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+      "url": "https://qbitai.com/2026/09/499188.html",
+      "summary": "",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T15:59:46+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "IQuest-Q1 亮相：精准定位 RL 训练数据 Bug，Prompt 直出小游戏",
+        "takeaway": "量子位报道的 IQuest-Q1 能揪出强化学习训练数据里的 Bug，还能用 Prompt 直接生成小游戏。",
+        "bullets": [
+          "IQuest-Q1 可精准定位 RL 训练数据中的 Bug",
+          "支持 Prompt 直出小游戏，降低开发门槛",
+          "由量子位报道，具体技术细节尚未披露"
+        ],
+        "detail": "量子位报道称，IQuest-Q1 在强化学习训练中能精准找出数据 Bug，同时支持通过 Prompt 直接生成小游戏。目前没有更多技术细节，但这两项能力分别指向训练数据质量和快速原型开发。",
+        "generatedAt": "2026-09-29T17:08:16+08:00"
+      }
+    },
+    {
       "id": "281960bc5639164a",
       "title": "The AI boom took over Climate Week and not everyone is happy about it",
       "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it",
@@ -1291,6 +1661,43 @@
         ],
         "detail": "和美国其他领域一样，数据中心与 AI 正在气候科技圈内制造对立。原本聚焦减排的气候周，如今被 AI 抢了风头，创始人和投资者对这股热潮看法不一，有人视其为机遇，也有人担忧能耗和排放问题。",
         "generatedAt": "2026-09-29T08:45:38+08:00"
+      }
+    },
+    {
+      "id": "58d69041468c9ff4",
+      "title": "从创意落地到创业起步，嘉立创延长AI硬件创新支持链条",
+      "url": "https://leiphone.com/category/industrynews/eDhvnoxGSSJk1eQo.html",
+      "summary": "9月19日，由福田区科技和工业信息化局指导、嘉立创集团主办的第四届开源硬件星火会暨全球AI硬件创新生态大会在深圳会展中心（福田）举行。本届大会开源、闭源两大赛道累计征集超过400个项目作品，覆盖具身智能、机器人关键硬件、AI边缘计算、智能终端等方向，来自多个国家和地区的2200余名创新者到场参与。前一天，面向商业化项目的2026星火全球硬件创新大赛在福田新一代产业园举行总决赛，20支海内外团队在经历前期选拔、加速营赋能后展开角逐，最终诞生9个获奖项目。同场，嘉立创开物孵化器正…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T10:19:00+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 0.17,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "嘉立创星火会落地深圳，AI硬件创新支持延伸到孵化",
+        "takeaway": "嘉立创把硬件创新支持从大赛延伸到孵化器，帮项目从创意走向创业。",
+        "bullets": [
+          "第四届开源硬件星火会在深圳福田举行，超400个项目参赛",
+          "覆盖具身智能、机器人硬件、AI边缘计算等方向",
+          "2200余名创新者到场，2026大赛决出9个获奖项目",
+          "嘉立创开物孵化器同场亮相，面向商业化项目"
+        ],
+        "detail": "9月19日，第四届开源硬件星火会暨全球AI硬件创新生态大会在深圳会展中心（福田）举行，开源、闭源两大赛道共征集超400个项目，覆盖具身智能、机器人硬件、AI边缘计算等方向，2200余名创新者到场。前一天，2026星火全球硬件创新大赛总决赛在福田新一代产业园举行，20支团队角逐出9个获奖项目，嘉立创开物孵化器同场亮相。",
+        "generatedAt": "2026-09-29T17:08:17+08:00"
       }
     },
     {
@@ -1365,6 +1772,40 @@
         ],
         "detail": "有用户在 LocalLLaMA 发帖，将 Qwen Next 3.8 和 3.8 27B 与 Sonnet 5.5 的低、中档配置进行对比。他表示半年前这种结果难以想象，如今可以明确说本地模型已处于前沿，与闭源模型的差距只有几个月。他本人就用 Qwen Next 3.8 处理复杂任务。",
         "generatedAt": "2026-09-29T08:45:38+08:00"
+      }
+    },
+    {
+      "id": "b8b248e673b9bb18",
+      "title": "“全球首款AI智能体手机”玩不了《王者荣耀》：豆包手机被反作弊系统盯上了",
+      "url": "https://tmtpost.com/8155331.html",
+      "summary": "AI手机与游戏风控的第一次硬撞。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T16:12:25+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "豆包AI手机遭《王者荣耀》反作弊拦截",
+        "takeaway": "号称全球首款AI智能体手机，却因系统级AI操作被游戏风控判定为外挂，无法运行《王者荣耀》。",
+        "bullets": [
+          "豆包手机主打AI智能体自动操作，被《王者荣耀》反作弊系统识别为异常。",
+          "这是AI手机与游戏风控的首次正面冲突，暴露AI自动化与游戏规则的矛盾。",
+          "事件可能影响AI手机宣传卖点，并引发行业对AI操作边界的讨论。"
+        ],
+        "detail": "豆包手机宣称是全球首款AI智能体手机，能自动完成操作。但《王者荣耀》的反作弊系统将其AI行为判定为作弊，导致游戏无法运行。这反映出AI自动化与游戏公平性规则之间的直接碰撞。",
+        "generatedAt": "2026-09-29T17:08:17+08:00"
       }
     },
     {
@@ -1555,6 +1996,284 @@
         ],
         "detail": "InfoQ 中国发布行业观点，提出自主数据工程迈向真正智能体成熟度的五个阶段。文章以阶段划分的方式，讨论数据工程从人工到自主的演进路径，为判断智能体成熟度提供参考框架。",
         "generatedAt": "2026-09-29T10:49:22+08:00"
+      }
+    },
+    {
+      "id": "ca9c06ca39e25654",
+      "title": "MariaDB 13 扩展 Oracle 兼容性，改善开发者体验与可观测性",
+      "url": "https://infoq.cn/article/vWO5oOkToq5WYFE18WiB",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T24:48:00+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "MariaDB 13 强化 Oracle 兼容并改善可观测性",
+        "takeaway": "MariaDB 13 版本更新，重点扩展 Oracle 兼容性，同时提升开发者体验与可观测性。",
+        "bullets": [
+          "MariaDB 13 扩展 Oracle 兼容性，降低迁移成本",
+          "改善开发者体验与可观测性，提升易用性",
+          "由 InfoQ 中国报道，具体细节需查看原文"
+        ],
+        "detail": "MariaDB 13 版本发布，主要扩展了对 Oracle 数据库的兼容性，方便用户从 Oracle 迁移。同时改进了开发者体验和可观测性，让开发和运维更顺手。更多细节可查看 InfoQ 中国原文。",
+        "generatedAt": "2026-09-29T17:08:18+08:00"
+      }
+    },
+    {
+      "id": "2070acb56111e2ba",
+      "title": "大模型下沉车规芯片：超六成的车企座舱，为何选中了同一个“端侧大脑”？",
+      "url": "https://infoq.cn/article/O5pKYU5hfR2DgrXP6zRE",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T23:49:30+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "超六成车企座舱选用同一端侧大模型芯片方案",
+        "takeaway": "大模型正从云端下沉到车规芯片，超六成车企座舱选择了同一款端侧大脑，值得关注。",
+        "bullets": [
+          "大模型开始下沉到车规芯片，用于座舱端侧运行",
+          "超六成车企座舱选中了同一个端侧大脑方案",
+          "反映端侧算力方案在车载场景的集中化趋势"
+        ],
+        "detail": "大模型正从云端走向车规芯片，在座舱内实现端侧运行。InfoQ 中国报道称，超过六成车企的座舱选择了同一个端侧大脑方案，显示车载端侧算力正出现明显的集中化选择。",
+        "generatedAt": "2026-09-29T17:08:18+08:00"
+      }
+    },
+    {
+      "id": "e4f411354a1fcd02",
+      "title": "SolidStart 2：以 Vite 8 取代 Vinxi，进入维护模式后逐步完成历史使命",
+      "url": "https://infoq.cn/article/v0NAyDPc0bZ2T8HMWfv2",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T23:42:00+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "SolidStart 2 发布：Vite 8 取代 Vinxi，项目进入维护模式",
+        "takeaway": "SolidStart 2 用 Vite 8 替换 Vinxi 构建层，同时项目转入维护模式，逐步完成历史使命。",
+        "bullets": [
+          "SolidStart 2 用 Vite 8 取代原有 Vinxi 构建工具",
+          "项目宣布进入维护模式，不再激进迭代",
+          "框架将逐步完成历史使命，交由社区或后续方案接棒"
+        ],
+        "detail": "SolidStart 2 把底层构建工具从 Vinxi 换成了 Vite 8，简化了技术栈。同时官方宣布项目进入维护模式，意味着后续以稳定维护为主，不再大规模演进，逐步完成它的历史使命。",
+        "generatedAt": "2026-09-29T17:08:18+08:00"
+      }
+    },
+    {
+      "id": "134731d944f799e3",
+      "title": "设计安全、可扩展的人脸验证系统",
+      "url": "https://infoq.cn/article/wLJHYzKDUdt5wSyZ06Fp",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T22:34:47+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "InfoQ 分享：如何设计安全可扩展的人脸验证系统",
+        "takeaway": "InfoQ 中国发文探讨人脸验证系统的架构设计，聚焦安全性与可扩展性两大工程难题。",
+        "bullets": [
+          "主题是人脸验证系统的架构设计",
+          "关注点包括安全防护与横向扩展能力",
+          "面向需要落地人脸验证的工程团队"
+        ],
+        "detail": "InfoQ 中国发布了一篇关于人脸验证系统设计的文章，讨论如何在保证安全的前提下让系统具备可扩展性。原文摘要信息有限，具体方案需点击原文查看。",
+        "generatedAt": "2026-09-29T17:08:19+08:00"
+      }
+    },
+    {
+      "id": "b22942c98ef20291",
+      "title": "从新型存储介质PCM方案到PCIe 6.0 SSD，德明利率先推出面向AI基础设施的分层存储全栈方案",
+      "url": "https://infoq.cn/article/SrmkSf6vOfRt6lLuudZb",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T22:29:59+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "德明利推出面向AI基础设施的分层存储全栈方案",
+        "takeaway": "德明利发布覆盖PCM新型介质到PCIe 6.0 SSD的分层存储方案，瞄准AI基础设施。",
+        "bullets": [
+          "方案覆盖新型存储介质PCM到PCIe 6.0 SSD",
+          "面向AI基础设施提供分层存储全栈方案",
+          "德明利称在业内率先推出该组合"
+        ],
+        "detail": "德明利宣布推出面向AI基础设施的分层存储全栈方案，涵盖从新型存储介质PCM到PCIe 6.0 SSD的产品组合。该方案旨在应对AI场景对存储性能和容量的分层需求，德明利称自己是率先推出此类全栈方案的厂商。",
+        "generatedAt": "2026-09-29T17:08:20+08:00"
+      }
+    },
+    {
+      "id": "108794234be463c5",
+      "title": "释放隐藏的商业价值：行业领袖如何将庞杂数据转化为即时行动 ｜ 技术趋势",
+      "url": "https://infoq.cn/article/imwpHlbHtUjoHmzjah8Q",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T22:00:00+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "趋势"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "行业领袖谈如何把庞杂数据转化为即时行动",
+        "takeaway": "InfoQ 中国分享行业观点：企业如何释放数据隐藏的商业价值，把庞杂数据变成即时行动。",
+        "bullets": [
+          "来源为 InfoQ 中国，属行业观点类内容",
+          "主题聚焦数据价值释放与即时行动转化",
+          "面向关注技术趋势的企业与从业者"
+        ],
+        "detail": "InfoQ 中国发布了一篇行业观点文章，讨论行业领袖如何把庞杂的数据转化为可立即执行的行动，从而释放其中隐藏的商业价值。原文摘要仅提供跳转入口，未展开具体案例与方法。",
+        "generatedAt": "2026-09-29T17:08:19+08:00"
+      }
+    },
+    {
+      "id": "d5c68a067842f3b1",
+      "title": "AI 数据平台，要补的恰恰是“模型不知道的事”",
+      "url": "https://infoq.cn/article/uwfvFTWwH5Qupo2lBxF6",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T19:24:14+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 数据平台，要补的恰恰是“模型不知道的事”",
+        "takeaway": "InfoQ 中国提出：AI 数据平台的价值不在喂给模型已知信息，而在补齐模型不知道的部分。",
+        "bullets": [
+          "观点来自 InfoQ 中国，聚焦 AI 数据平台定位",
+          "核心主张：平台应补足模型知识盲区",
+          "对数据平台建设方向有参考意义"
+        ],
+        "detail": "InfoQ 中国发文讨论 AI 数据平台。文章认为，这类平台真正要解决的，不是重复模型已经掌握的内容，而是补上模型不知道的信息。这一视角对理解数据平台在 AI 体系中的角色有参考价值。",
+        "generatedAt": "2026-09-29T17:08:20+08:00"
+      }
+    },
+    {
+      "id": "616cac4c5d210137",
+      "title": "研发投入增长 40%，拼多多的增长逻辑变了",
+      "url": "https://infoq.cn/article/dxTImF8q7TADGd4TZp6m",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T19:20:45+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "拼多多研发投入增长40%，增长逻辑转向技术驱动",
+        "takeaway": "拼多多研发投入同比大增40%，显示其增长策略正从营销驱动转向技术驱动。",
+        "bullets": [
+          "拼多多研发投入同比增长40%，力度显著加大。",
+          "增长逻辑从流量运营转向技术驱动。",
+          "此举或影响电商行业竞争格局。"
+        ],
+        "detail": "拼多多最新数据显示，其研发投入同比增长40%，表明公司正改变过去依赖营销的增长模式，转而加大技术投入。这一转变可能推动电商行业竞争从价格战转向技术效率比拼。",
+        "generatedAt": "2026-09-29T17:08:21+08:00"
       }
     },
     {
@@ -1771,6 +2490,127 @@
       "pushed": false
     },
     {
+      "id": "16c672ff15dabe35",
+      "title": "大规模裁员潮下的AI金饭碗FDE",
+      "url": "https://tmtpost.com/8155825.html",
+      "summary": "金饭碗FDE，靠谱吗？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T16:47:50+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "裁员"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "88beabcd8535d7b3",
+      "title": "SAP 商业 AI 的底层逻辑 ——从 L2 到 L4，隔着一层数据语义",
+      "url": "https://tmtpost.com/8155866.html",
+      "summary": "模型易得，上下文难求。在 Agent 被推向新高潮的这届云栖大会上，这家德国软件巨头的底层逻辑是，几十年业务数据里长出的语义层，比模型更难被追上。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T16:47:49+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "612733c2bb1ab7ed",
+      "title": "丘成桐论文致谢AI，77岁数学泰斗，也逃不过“真香定律”？",
+      "url": "https://tmtpost.com/8155710.html",
+      "summary": "学术界对AI，为何又爱又怕？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T16:47:38+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "论文"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "57ee788969e8dd9f",
+      "title": "苏姿丰550亿元买下李飞飞世界模型，AI 圈两位女王联手了",
+      "url": "https://ifanr.com/1682291",
+      "summary": "算力焦虑下的双向奔赴 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T16:15:52+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "亿元"
+      ],
+      "confidence": 0.33,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a7ed18a187415d7c",
+      "title": "Is AI Profitable Yet?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wt33uu/is_ai_profitable_yet",
+      "summary": "submitted by /u/yahbluez [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T14:54:35+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "a37b0826d6222c22",
       "title": "It's Time to Investigate the AI Labs",
       "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
@@ -1813,6 +2653,179 @@
       "keywords": [],
       "confidence": 0,
       "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "db1ffa7dae0124d2",
+      "title": "对话一目科技：机器人还缺失的「手感」，我们用「光」来搞定丨多样性公司",
+      "url": "https://ifanr.com/1682314",
+      "summary": "相信「光」的力量和精度。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T12:00:10+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8d4ad47a43279cc2",
+      "title": "可灵4.0首发实测，国产AI视频再次掀桌？",
+      "url": "https://ifanr.com/1682361",
+      "summary": "能文能武 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T11:24:11+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "341b9e18ed2172f1",
+      "title": "🔥「可信Data+智能体AI」本体工作坊",
+      "url": "https://oschina.net/event/8598411",
+      "summary": "",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T11:51:13+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "941ff57b31ae9ba9",
+      "title": "Does Thinking Help Fairness? Reasoning Tokens Resolve Some Biases but Create More",
+      "url": "https://arxiv.org/abs/2609.30768",
+      "summary": "arXiv:2609.30768v1 Announce Type: new Abstract: Thinking in reasoning language models (RLMs) has been subject to debate on whether it resolves or amplifies bias. Prior works have shown competing conclusions in both directions. Using a withi…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T12:00:00+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8a300f571be15daf",
+      "title": "ConsultMind:Towards Automated Diagnostic Consultation via Uncertainty-Aware Reasoning",
+      "url": "https://arxiv.org/abs/2609.30796",
+      "summary": "arXiv:2609.30796v1 Announce Type: new Abstract: Diagnostic consultation is an online sequential decision-making process in which clinicians gather evidence through patient interaction until a diagnosis is sufficiently supported. Automating …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T12:00:00+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "233135cac348bbb5",
+      "title": "PTC-Decoder: Towards Intelligent SLMs on Offline Resource-Constrained Edge Devices",
+      "url": "https://arxiv.org/abs/2609.30836",
+      "summary": "arXiv:2609.30836v1 Announce Type: new Abstract: Deploying small language models (SLMs) on offline, resource-constrained edge devices such as remote sensing satellites presents a fundamental challenge: their limited reasoning capacity hinder…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T12:00:00+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9fbdd5c1dd468663",
+      "title": "Governed Deduction: Policy-Grounded Premise Authorization Beyond Relevance",
+      "url": "https://arxiv.org/abs/2609.31029",
+      "summary": "arXiv:2609.31029v1 Announce Type: new Abstract: Reasoning systems usually treat premise use as a question of relevance: if a fact is available and useful, it may be selected for inference. Authorization imposes a different constraint: a pre…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T12:00:00+08:00",
+      "fetchedAt": "2026-09-29T17:08:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 6,
       "related": [],
       "pushed": false
     }
