@@ -1,7 +1,44 @@
 {
   "date": "2026-09-29",
-  "updatedAt": "2026-09-30T24:00:52+08:00",
+  "updatedAt": "2026-09-30T02:24:18+08:00",
   "items": [
+    {
+      "id": "dd66acaed2a04b44",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T18:00:00+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing",
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 64,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 发布 GPT-6.1 Sol：接近 Astra 的智能，价格仅五分之一",
+        "takeaway": "OpenAI 推出 GPT-6.1 Sol，面向编程、电脑操作和专业工作，能力接近 Astra，但 API 价格大幅降低。",
+        "bullets": [
+          "GPT-6.1 Sol 定位为接近 Astra 的智能水平",
+          "适用于编程、电脑使用和专业工作场景",
+          "API 输入输出 token 价格仅为 Astra 标准价的五分之一"
+        ],
+        "detail": "OpenAI 发布 GPT-6.1 Sol，官方称其智能接近 Astra，可胜任编程、电脑操作和专业工作。该模型 API 的输入和输出 token 价格仅为 Astra 标准价的五分之一，有望降低使用门槛。",
+        "generatedAt": "2026-09-30T02:24:06+08:00"
+      }
+    },
     {
       "id": "b48cf3b3b7844edd",
       "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
@@ -261,6 +298,43 @@
       }
     },
     {
+      "id": "19db7cc5ca5cc5ea",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T18:00:00+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 0,
+      "score": 57,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI DevDay 2026 回顾：GPT-6 Astra 等 20 余项发布",
+        "takeaway": "OpenAI 在 DevDay 2026 一口气发布 20 多项更新，覆盖模型、API 与开发者工具。",
+        "bullets": [
+          "发布 GPT-6 Astra，为本次大会核心模型更新",
+          "ChatGPT、Codex 与 API 均有新进展",
+          "还涉及安全能力与面向开发者的新工具",
+          "官方汇总共 20 余项公告，供开发者查阅"
+        ],
+        "detail": "OpenAI 对 DevDay 2026 做了整体回顾，列出 20 多项发布内容。其中包含新模型 GPT-6 Astra，以及 ChatGPT、Codex、API、安全和开发者工具方面的更新。官方邀请开发者前往查看完整清单。",
+        "generatedAt": "2026-09-30T02:24:09+08:00"
+      }
+    },
+    {
       "id": "f495807381fbabd5",
       "title": "Spring新闻汇总：Boot、Framework、Data、Security、Modulith、Batch的首个里程碑发布",
       "url": "https://infoq.cn/article/WG5UVlDS5e3K2iMTcUYj",
@@ -331,6 +405,42 @@
         ],
         "detail": "Anthropic 今天推出 Claude Sonnet 5.5。官方表示它运行速度提升 30% 以上，多数工作场景成本最多降低 30%。价格与 Sonnet 5 持平，但各项基准测试均优于前代，实际使用也更省钱。",
         "generatedAt": "2026-09-29T08:45:31+08:00"
+      }
+    },
+    {
+      "id": "884977ecb8004cb3",
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots",
+      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T08:00:00+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing"
+      ],
+      "confidence": 0.75,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 发布 dots：可跨项目持续工作的主动式助手",
+        "takeaway": "OpenAI 推出 dots，一个能在复杂项目和日常任务中持续推进工作的主动助手，强调用户仍掌控全局。",
+        "bullets": [
+          "dots 是 OpenAI 推出的主动式助手，可跨复杂项目与日常任务持续工作",
+          "官方称其帮助用户在工作推进时保持控制权",
+          "目前仅公布概念，具体功能与上线时间未披露"
+        ],
+        "detail": "OpenAI 发布了名为 dots 的新助手，定位是主动型，能在复杂项目和日常事务中持续推进工作，而不是被动等待指令。官方强调，dots 让用户在工作向前推进的同时依然保持掌控。目前关于它的具体能力和可用范围，官方尚未给出更多细节。",
+        "generatedAt": "2026-09-30T02:24:09+08:00"
       }
     },
     {
@@ -481,6 +591,40 @@
         ],
         "detail": "Anthropic 发布 Claude 5.5 家族的第二款模型 Sonnet 5.5，定位为 Opus 5.5 的「快而省」互补款，适合高频日常任务、修 bug、做文档和表格。官方称其比 Sonnet 5 速度提升 30% 以上、多数任务成本低 30%，Agent 编程评测成绩从 10% 跳到 70%。",
         "generatedAt": "2026-09-29T17:08:11+08:00"
+      }
+    },
+    {
+      "id": "f7665b70e425c2c0",
+      "title": "OpenAI DevDay 2026 live blog",
+      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog",
+      "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote. Tags: ai , ope…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T23:55:13+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI DevDay 2026 现场直播：Simon Willison 实时博客",
+        "takeaway": "知名开发者 Simon Willison 亲临 OpenAI DevDay 2026 现场，实时更新主题演讲动态。",
+        "bullets": [
+          "Simon Willison 在旧金山 Fort Mason 参加 OpenAI DevDay 2026。",
+          "他将实时博客直播主题演讲及其他笔记。",
+          "OpenAI 提供了免费门票和创作者区座位。"
+        ],
+        "detail": "Simon Willison 今天在旧金山 Fort Mason 参加 OpenAI DevDay 2026，和去年一样，他会实时博客直播主题演讲，并分享当天的其他笔记。OpenAI 给了他一张免费门票，以及主题演讲的“创作者”区域座位。",
+        "generatedAt": "2026-09-30T02:24:09+08:00"
       }
     },
     {
@@ -3869,6 +4013,31 @@
       "keywords": [],
       "confidence": 0,
       "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c92e39202c4ca939",
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf Comments URL: https://news.ycombinator.com/item?id=49890226 Points: 379 # Comments: 121",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T17:03:41+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "privacy"
+      ],
+      "confidence": 0.33,
+      "score": 27,
       "related": [],
       "pushed": false
     },

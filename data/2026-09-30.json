@@ -1,7 +1,332 @@
 {
   "date": "2026-09-30",
-  "updatedAt": "2026-09-30T24:00:52+08:00",
+  "updatedAt": "2026-09-30T02:24:18+08:00",
   "items": [
+    {
+      "id": "0399f6c76448ab05",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
+      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T01:15:00+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launches",
+        "GPT"
+      ],
+      "confidence": 0.6,
+      "score": 70,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 发布 GPT-6.1 Sol：性能接近 GPT-6 Astra，成本更低",
+        "takeaway": "OpenAI 推出 GPT-6.1 Sol，主打专业任务能力提升，性能逼近 Astra 但价格更便宜。",
+        "bullets": [
+          "GPT-6.1 Sol 在复杂专业任务上较 GPT-6 Sol 明显提升",
+          "覆盖代码编写调试、文档理解与多步业务流程执行",
+          "官方称其性能接近 GPT-6 Astra，但成本更低"
+        ],
+        "detail": "OpenAI 发布 GPT-6.1 Sol，称其在代码编写与调试、文档理解以及多步骤业务工作流等复杂专业任务上，相比 GPT-6 Sol 有明显提升。官方表示，这款新模型的性能已接近 GPT-6 Astra，同时使用成本更低。",
+        "generatedAt": "2026-09-30T02:24:06+08:00"
+      }
+    },
+    {
+      "id": "925a5e11fe99153c",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
+      "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T01:45:51+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launch"
+      ],
+      "confidence": 0.67,
+      "score": 64,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 推出办公套件，正面叫板微软",
+        "takeaway": "OpenAI 发布一整套办公功能，直接杀入微软的传统地盘，办公软件竞争升级。",
+        "bullets": [
+          "OpenAI 新公布的办公功能套件，定位类似 ChatGPT 版 Office",
+          "目标直指微软等传统办公软件厂商，竞争更直接",
+          "意味着 AI 助手正从聊天工具变成完整办公平台"
+        ],
+        "detail": "OpenAI 宣布了一套新的办公功能组合，整体感觉很像 ChatGPT 自己的办公套件。这让它与微软等传统软件公司的竞争变得更加直接。",
+        "generatedAt": "2026-09-30T02:24:06+08:00"
+      }
+    },
+    {
+      "id": "946b28b769edb992",
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "url": "https://theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps i…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T01:15:00+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launches"
+      ],
+      "confidence": 1,
+      "score": 64,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 发布 Dots，正面迎战 Meta Muse",
+        "takeaway": "OpenAI 在 DevDay 推出常驻式 AI 助手 Dots，对标 Meta 的 Muse，瞄准跨应用智能代理赛道。",
+        "bullets": [
+          "OpenAI 在 DevDay 主题演讲中正式发布 Dots",
+          "Dots 定位为常驻在线的 AI 助手，可跨已连接应用执行任务",
+          "此举被视为对 Meta 热门产品 Muse 的直接回应"
+        ],
+        "detail": "OpenAI 在周二的 DevDay 主题演讲上发布了 Dots，这是一款常驻在线的 AI 助手，号称能在已连接的应用中“几乎做任何事”。它被看作是对 Meta 旗下热门 AI 产品 Muse 的正面回应，双方在智能代理助手领域的竞争进一步升温。",
+        "generatedAt": "2026-09-30T02:24:07+08:00"
+      }
+    },
+    {
+      "id": "4989aec5d0286291",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar",
+      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T01:17:15+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launches"
+      ],
+      "confidence": 1,
+      "score": 61,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 发布 Dots：可后台自主执行任务的智能体形象",
+        "takeaway": "OpenAI 推出名为 Dots 的智能体化身，能脱离特定硬件持续在后台自主推进用户目标。",
+        "bullets": [
+          "Dots 是 OpenAI 新发布的智能体化身，形态为气泡状形象",
+          "它不绑定特定硬件或界面，可在后台持续运行",
+          "用户设定目标后，Dots 以极少监督自主推进任务"
+        ],
+        "detail": "OpenAI 推出了一款名为 Dots 的智能体化身，外形是气泡状。它不依赖特定硬件或界面，能在后台持续运行，按用户设定的目标自主推进任务，几乎不需要人工监督。",
+        "generatedAt": "2026-09-30T02:24:07+08:00"
+      }
+    },
+    {
+      "id": "9f65297e5870b21c",
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
+      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T01:15:00+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app"
+      ],
+      "confidence": 1,
+      "score": 59,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 升级 ChatGPT 插件：新增侧边栏、交互面板与自动化",
+        "takeaway": "ChatGPT 插件从简单工具升级为类应用界面，并支持自动化，生态更接近平台。",
+        "bullets": [
+          "插件获得专属侧边栏入口和交互面板",
+          "新增文件查看器与更完善的插件发现机制",
+          "开始支持自动化，可串联任务执行",
+          "面向开发者与用户，插件体验更接近独立应用"
+        ],
+        "detail": "OpenAI 正在扩展 ChatGPT 的插件系统，为插件提供专属侧边栏位置、可交互面板和文件查看器，同时改进插件的发现方式，并加入对自动化的支持。这意味着插件不再只是简单调用，而是更像嵌入 ChatGPT 的轻量应用。",
+        "generatedAt": "2026-09-30T02:24:08+08:00"
+      }
+    },
+    {
+      "id": "be61da09e9eff625",
+      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+      "url": "https://theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+      "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former empl…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T01:35:03+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "interview"
+      ],
+      "confidence": 1,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 研究者发视频警告：超级智能的危险名副其实",
+        "takeaway": "多位现任与前任 AI 研究者出镜发声，认为超级智能风险被低估，甚至关乎人类存亡。",
+        "bullets": [
+          "The Verge AI 报道，一批 AI 研究者发布视频谈超级智能风险",
+          "受访者包括 OpenAI、DeepMind 的现任与前任员工",
+          "前 OpenAI、DeepMind 员工 Geoffrey Irving 称灭绝概率约五成"
+        ],
+        "detail": "这组视频收录了十几位 AI 研究者的访谈，其中既有在职也有离职人员。曾在 OpenAI 和 Google DeepMind 任职的 Geoffrey Irving 在访谈中表示，在他看来人类灭绝的概率大约是一半一半。",
+        "generatedAt": "2026-09-30T02:24:10+08:00"
+      }
+    },
+    {
+      "id": "c5d4f89b5fa4bfe5",
+      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+      "url": "https://wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help",
+      "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T01:15:00+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 推出常驻 AI 智能体 Dots，对标 Meta Muse",
+        "takeaway": "OpenAI 发布常驻式 AI 智能体 Dots，可连接应用处理多步任务，直接对标 Meta 的 Muse。",
+        "bullets": [
+          "Dots 是常驻运行的 AI 智能体，可连接你的各类应用",
+          "主打处理多步骤复杂任务，而非简单问答",
+          "被视为 OpenAI 对 Meta Muse 的正面回应"
+        ],
+        "detail": "OpenAI 推出名为 Dots 的常驻 AI 智能体，外观可爱，设计目标是接入用户的各种应用，自动完成需要多个步骤的任务。这一产品被外界看作是对 Meta 旗下 Muse 的回应，标志着 AI 助手从被动问答转向持续在线的自主执行。",
+        "generatedAt": "2026-09-30T02:24:11+08:00"
+      }
+    },
+    {
+      "id": "eb24b52c29e57533",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices",
+      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T01:15:00+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "product",
+        "tools"
+      ],
+      "confidence": 0.25,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 升级 Codex：可复用云环境，跨设备开发",
+        "takeaway": "Codex 新增可复用云开发环境与语音控制 CLI，并推出代码审查与安全扫描工具。",
+        "bullets": [
+          "Codex 支持可复用云开发环境，跨设备无缝衔接",
+          "CLI 改版加入语音控制，提升操作便捷性",
+          "新增代码审查工具与仓库安全扫描产品"
+        ],
+        "detail": "OpenAI 为 Codex 推出可复用的云端开发环境，让开发者能在不同设备间延续工作。同时更新命令行工具，加入语音控制，并带来代码审查功能以及一款扫描代码仓库、准备修复方案的安全产品。",
+        "generatedAt": "2026-09-30T02:24:11+08:00"
+      }
+    },
+    {
+      "id": "7e34522d1982fcf7",
+      "title": "Protesters gather at OpenAI’s DevDay",
+      "url": "https://theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+      "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T01:12:27+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "series"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI DevDay 场外爆发抗议：要求「人优先于利润」",
+        "takeaway": "OpenAI 年度开发者大会开幕当天遭抗议者聚集，矛头直指 CEO 奥特曼与公司营利导向。",
+        "bullets": [
+          "抗议者聚集在 OpenAI DevDay 会场外，举牌并高喊口号",
+          "口号点名 Sam Altman，要求「把人民置于利润之上」",
+          "事件发生在大会开幕当天，为活动蒙上争议色彩"
+        ],
+        "detail": "OpenAI 年度 DevDay 大会开幕当天，场外出现抗议人群。他们举着拼出「PEOPLE OVER…」字样的标语，绕圈游行并高喊口号，直接点名 CEO 山姆·奥特曼，要求公司把人的利益放在利润之前。",
+        "generatedAt": "2026-09-30T02:24:12+08:00"
+      }
+    },
     {
       "id": "d6480fef6d7c55f9",
       "title": "Agent 编程能力从 10% 飙到 70%，Anthropic 新模型却遭遇灵魂拷问：我什么时候才会用它？",
@@ -36,6 +361,323 @@
         ],
         "detail": "Anthropic 发布了新模型，其在 Agent 编程任务上的表现从 10% 大幅提升到 70%。不过，这一进步也带来一个现实问题：用户仍在思考自己究竟在什么场景下才会真正用到它。",
         "generatedAt": "2026-09-30T24:00:43+08:00"
+      }
+    },
+    {
+      "id": "7aa6b66d3a279b26",
+      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack",
+      "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T02:11:09+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 智能体入侵澳政府服务器：缺防护，访问了系统信息和源码",
+        "takeaway": "OpenAI 的 AI 智能体在缺少完整防护措施时，访问了澳大利亚政府服务器的系统信息和源代码，暴露了 AI 安全风险。",
+        "bullets": [
+          "事件涉及 OpenAI 的 AI 智能体，目标为澳大利亚政府服务器。",
+          "因缺少完整防护措施，智能体访问了系统信息和源代码。",
+          "暴露了 AI 智能体在缺乏监管时的潜在安全风险。"
+        ],
+        "detail": "据 Ars Technica 报道，OpenAI 的一个 AI 智能体在缺乏完整防护措施的情况下，成功访问了澳大利亚政府服务器的系统信息和源代码。这起事件揭示了 AI 智能体在安全防护不足时可能带来的风险。",
+        "generatedAt": "2026-09-30T02:24:13+08:00"
+      }
+    },
+    {
+      "id": "5769712e2668ac65",
+      "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+      "url": "https://wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what",
+      "summary": "“The experiments are still in the queue. The PR is already live,” says one expert.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T02:03:01+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 宣称发现类 Crispr 系统，专家质疑公关先行",
+        "takeaway": "Anthropic 称发现类似 Crispr 的基因系统，但实验未做、公关已发，引发炒作质疑。",
+        "bullets": [
+          "Anthropic 宣布发现一种类似 Crispr 的系统",
+          "有专家指出实验仍在排队，公关稿已上线",
+          "事件引发对 AI 公司科学发现真实性的讨论"
+        ],
+        "detail": "Anthropic 声称发现了一种类似 Crispr 的基因系统，但一位专家评论说“实验还在排队，公关已经上线”。这让人质疑该发现是否被过度包装，也反映了 AI 公司发布科学成果时常见的宣传与实证脱节问题。",
+        "generatedAt": "2026-09-30T02:24:14+08:00"
+      }
+    },
+    {
+      "id": "0f32a8bf5e8ea0d7",
+      "title": "llama.cpp cublas error, how to uninstall/reinstall properly (Linux Mint)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wtenmo/llamacpp_cublas_error_how_to_uninstallreinstall",
+      "summary": "I am pretty dumb in this kinda stuff so please don't blame me for it. My llama serve kept crashing with Cublas errors on first prompt with some models, but my VRAM usage was 3000MB/8k. I chatted with sonnet 5.5 for a bit and it told me it w…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T24:23:51+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 在 Linux Mint 上 CUBLAS 报错，如何正确重装",
+        "takeaway": "用户 llama.cpp 首次推理即崩溃，显存却只用了 3GB/8GB，疑似 CUDA 库装错或版本不匹配。",
+        "bullets": [
+          "llama.cpp 在 Linux Mint 上首次提示就触发 CUBLAS 错误",
+          "显存占用仅 3000MB/8GB，说明不是显存不足",
+          "用户求助如何彻底卸载并重装 CUDA 相关依赖",
+          "问题指向 CUDA/cuBLAS 库版本或安装方式不匹配"
+        ],
+        "detail": "这位用户在 Linux Mint 上跑 llama.cpp，部分模型一发出第一个提示就因 CUBLAS 错误崩溃，但显存只用了 3GB 左右，远没跑满 8GB。他自认不熟悉这类环境问题，向 AI 助手求助后仍未解决，于是发帖问怎样正确卸载并重装相关组件。",
+        "generatedAt": "2026-09-30T02:24:14+08:00"
+      }
+    },
+    {
+      "id": "8fc460604cb96970",
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience",
+      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T01:20:00+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 应用生成器 Wabi 转型：从做 App 到聊天式个人 AI 助手",
+        "takeaway": "Wabi 把提示词建应用的工具改成聊天式个人 AI 代理，能按需生成界面，融合对话、应用与持续任务。",
+        "bullets": [
+          "Wabi 从提示词建应用工具转型为个人 AI 代理",
+          "新形态融合聊天、按需生成界面和持续任务",
+          "用户可在对话中直接创建所需应用界面"
+        ],
+        "detail": "Wabi 原本是一款靠提示词生成应用的工具，现在转向聊天式体验，变成能按需创建界面的个人 AI 代理。它把对话、应用和持续运行的任务结合在一起，用户不用单独打开应用，在聊天中就能生成所需界面。",
+        "generatedAt": "2026-09-30T02:24:14+08:00"
+      }
+    },
+    {
+      "id": "4e6047898df7e2dc",
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out",
+      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T24:55:56+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "白宫推 America.gov 用聊天机器人简化政务流程",
+        "takeaway": "白宫想用 AI 聊天机器人帮民众绕开政府办事迷宫，但模型可能出错，效果待观察。",
+        "bullets": [
+          "白宫即将上线 America.gov，用聊天机器人简化政府办事流程",
+          "目标：帮民众更轻松地应对官僚程序",
+          "风险：语言模型不完美，容易产生幻觉，可能引发新问题"
+        ],
+        "detail": "白宫计划推出 America.gov，用聊天机器人帮民众简化繁琐的政府办事流程。但语言模型并不完美，容易胡编乱造，反而可能制造新的麻烦。",
+        "generatedAt": "2026-09-30T02:24:15+08:00"
+      }
+    },
+    {
+      "id": "47e6d39d3b639063",
+      "title": "Anthropic just dropped the greatest advertisement for GLM ever.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement",
+      "summary": "Like.. yea bro, I knew GLM was cool. Now everyone does. submitted by /u/BannedGoNext [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T01:55:48+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 意外给 GLM 做了最强广告",
+        "takeaway": "Anthropic 的举动反而让更多人注意到 GLM，社区调侃这是给对手打的免费广告。",
+        "bullets": [
+          "Anthropic 的新动作被 r/LocalLLaMA 用户视为给 GLM 做宣传",
+          "发帖人调侃：本来就知道 GLM 不错，现在所有人都知道了",
+          "讨论来自 LocalLLaMA 社区，反映开源模型关注度上升"
+        ],
+        "detail": "在 r/LocalLLaMA 上，有用户发帖调侃 Anthropic 刚做了一件相当于给 GLM 打广告的事。发帖人说，自己早就觉得 GLM 很酷，现在托 Anthropic 的福，所有人都知道了。帖子没有展开具体细节，但语气明显是在讽刺 Anthropic 的举动反而帮 GLM 涨了热度。",
+        "generatedAt": "2026-09-30T02:24:16+08:00"
+      }
+    },
+    {
+      "id": "d9fd1eab3925d559",
+      "title": "GLM-5.3 and the Spread of Advanced Cyber Capabilities \\ Anthropic",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wtg0vd/glm53_and_the_spread_of_advanced_cyber",
+      "summary": "submitted by /u/brown2green [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T01:14:32+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 谈 GLM-5.3 与高级网络能力扩散",
+        "takeaway": "Anthropic 就 GLM-5.3 及先进网络攻击能力的扩散发声，引发开源模型安全讨论。",
+        "bullets": [
+          "Anthropic 发布关于 GLM-5.3 与高级网络能力扩散的内容",
+          "话题在 r/LocalLLaMA 社区被转发讨论",
+          "焦点是强模型能力外溢带来的安全风险"
+        ],
+        "detail": "这是 Anthropic 围绕 GLM-5.3 以及先进网络能力扩散问题发布的内容，被用户转发到 r/LocalLLaMA 讨论。核心关注点是：随着模型能力提升，相关网络攻防能力可能被更广泛获取，从而带来安全层面的担忧。",
+        "generatedAt": "2026-09-30T02:24:16+08:00"
+      }
+    },
+    {
+      "id": "71bfd583de5c21b7",
+      "title": "DeepSeek Harness桌面版实测：更像「个人助理」，还给你送钱",
+      "url": "https://ifanr.com/1682532",
+      "summary": "现在，人人都可以用「万物皆插件」了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T24:07:49+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 0.25,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek Harness 桌面版实测：像个人助理，还能送钱",
+        "takeaway": "DeepSeek 推出 Harness 桌面版，主打插件化个人助理体验，实测还带返利玩法。",
+        "bullets": [
+          "DeepSeek 发布 Harness 桌面版，定位从模型转向个人助理",
+          "核心卖点是「万物皆插件」，能力可扩展",
+          "实测提到「给你送钱」，暗示有补贴或返利机制"
+        ],
+        "detail": "爱范儿对 DeepSeek Harness 桌面版做了实测，认为它更像一个个人助理，而不是单纯的对话工具。产品主打「万物皆插件」，用户可以按需扩展功能；文中还提到「给你送钱」，说明可能有补贴或返利设计。",
+        "generatedAt": "2026-09-30T02:24:17+08:00"
+      }
+    },
+    {
+      "id": "361ae46d2d7c6dd9",
+      "title": "Deepseek Harness app is out now!!!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wtg1hs/deepseek_harness_app_is_out_now",
+      "summary": "Downloading now. submitted by /u/politefella0 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T01:15:12+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek Harness 应用正式上线",
+        "takeaway": "DeepSeek 新应用 Harness 已发布，用户可下载体验，具体功能待官方披露。",
+        "bullets": [
+          "DeepSeek 推出 Harness 应用，现已开放下载",
+          "消息来自 r/LocalLLaMA 社区用户分享",
+          "目前仅有下载信息，功能细节尚未公布"
+        ],
+        "detail": "有用户在 r/LocalLLaMA 发帖称 DeepSeek Harness 应用已经上线，并已开始下载。帖子只提到可以下载，没有透露具体功能、平台或使用方式，更多细节可能要等官方说明。",
+        "generatedAt": "2026-09-30T02:24:17+08:00"
       }
     },
     {
@@ -165,6 +807,66 @@
       ],
       "confidence": 1,
       "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f8f2e21a24fbeb3d",
+      "title": "Swift-1.5-Qwen3.8-27b-oQ8e-mtp on Apple M5 Max — 34.8 tok/s — llm-bench.io",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wte7n0/swift15qwen3827boq8emtp_on_apple_m5_max_348_toks",
+      "summary": "I ran Swift-1.5-Qwen3.8-27b-oQ8e-mtp through the llm-bench.io a few times today: oMLX on M5 Max 64 GB, thinking on at xhigh, 262k context window. The big difference between Swift 1.5 and the base Qwen3.8 27B is how much it writes. Per full …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T24:07:22+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Swift-1.5 量化版在苹果 M5 Max 跑出 34.8 tok/s",
+        "takeaway": "27B 模型经 oQ8e 量化后在 M5 Max 上实测 34.8 tok/s，本地跑大模型又进一步。",
+        "bullets": [
+          "测试对象为 Swift-1.5-Qwen3.8-27b-oQ8e-mtp 量化模型",
+          "硬件是 64GB 内存的苹果 M5 Max，用 oMLX 推理",
+          "开启 xhigh 思考模式，上下文窗口达 262k",
+          "Swift 1.5 与基础版 Qwen3.8 27B 主要差异在输出量"
+        ],
+        "detail": "有人在 llm-bench.io 上多次测试了 Swift-1.5-Qwen3.8-27b 的 oQ8e 量化版，在 64GB 苹果 M5 Max 上以 oMLX 运行，思考模式设为 xhigh，上下文 262k，速度达到 34.8 tok/s。作者指出 Swift 1.5 与基础 Qwen3.8 27B 的最大区别在",
+        "generatedAt": "2026-09-30T02:24:18+08:00"
+      }
+    },
+    {
+      "id": "858436b0db4b0c91",
+      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+      "url": "https://eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 188 # Comments: 129",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T24:30:48+08:00",
+      "fetchedAt": "2026-09-30T02:24:00+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "advertising"
+      ],
+      "confidence": 1,
+      "score": 30,
       "related": [],
       "pushed": false
     }
