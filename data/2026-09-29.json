@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "updatedAt": "2026-09-29T03:55:41+08:00",
+  "updatedAt": "2026-09-29T08:45:38+08:00",
   "items": [
     {
       "id": "b48cf3b3b7844edd",
@@ -149,6 +149,43 @@
       }
     },
     {
+      "id": "fe038bcf3da8a5c7",
+      "title": "早报｜苹果修复iPhone 18 Pro面容ID卡死重启/AMD收购李飞飞世界模型/智界RX上市，余承东：鸿蒙智行「最好开的车」",
+      "url": "https://ifanr.com/1682292",
+      "summary": "· Anthropic 发布 Claude Sonnet 5.5，称生成速度提升逾三成 · 星舰首次进入地球轨道，部署 26 颗 Starlink V3 卫星 · Counterpoint：2030 年低于 200 美元的手机年出货量或减少逾 2.3 亿部 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T08:41:45+08:00",
+      "fetchedAt": "2026-09-29T08:45:24+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "收购",
+        "上市"
+      ],
+      "confidence": 0.67,
+      "score": 57,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AMD 收购李飞飞世界模型团队，加码 AI 布局",
+        "takeaway": "AMD 将李飞飞旗下世界模型相关团队收入囊中，意在补强 AI 软件与空间智能能力。",
+        "bullets": [
+          "AMD 收购李飞飞世界模型相关团队，具体金额未披露",
+          "世界模型聚焦空间智能，被视为下一代 AI 关键方向",
+          "此举或加剧 AMD 与英伟达在 AI 领域的竞争"
+        ],
+        "detail": "据爱范儿早报，AMD 收购了李飞飞团队的世界模型项目，交易细节尚未公开。世界模型主打让 AI 理解三维空间与物理规律，是当前热门方向。此举被视为 AMD 在 AI 软件生态上追赶英伟达的一步。",
+        "generatedAt": "2026-09-29T08:45:31+08:00"
+      }
+    },
+    {
       "id": "f495807381fbabd5",
       "title": "Spring新闻汇总：Boot、Framework、Data、Security、Modulith、Batch的首个里程碑发布",
       "url": "https://infoq.cn/article/WG5UVlDS5e3K2iMTcUYj",
@@ -182,6 +219,43 @@
         ],
         "detail": "InfoQ 中国汇总了 Spring 生态的最新动态：Boot、Framework、Data、Security、Modulith、Batch 六个项目都发布了各自的第一个里程碑版本。这类版本通常用于提前展示下一轮正式版的新功能，适合开发者了解方向，但不宜用于生产环境。",
         "generatedAt": "2026-09-29T01:04:35+08:00"
+      }
+    },
+    {
+      "id": "12d1ff862c61b573",
+      "title": "Claude Sonnet 5.5",
+      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5",
+      "summary": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as we…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T06:07:38+08:00",
+      "fetchedAt": "2026-09-29T08:45:24+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0.25,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 发布 Claude Sonnet 5.5：更快更便宜",
+        "takeaway": "Anthropic 推出 Claude Sonnet 5.5，速度提升 30% 以上、成本最多降低 30%，且各项基准均优于前代。",
+        "bullets": [
+          "Anthropic 发布新模型 Claude Sonnet 5.5",
+          "官方称运行速度提升 30% 以上",
+          "多数任务成本最多降低 30%",
+          "定价与 Sonnet 5 相同，但基准全面胜出"
+        ],
+        "detail": "Anthropic 今天推出 Claude Sonnet 5.5。官方表示它运行速度提升 30% 以上，多数工作场景成本最多降低 30%。价格与 Sonnet 5 持平，但各项基准测试均优于前代，实际使用也更省钱。",
+        "generatedAt": "2026-09-29T08:45:31+08:00"
       }
     },
     {
@@ -364,6 +438,42 @@
       }
     },
     {
+      "id": "39067a424f034e73",
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns",
+      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T07:39:20+08:00",
+      "fetchedAt": "2026-09-29T08:45:24+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 因安全顾虑放弃某模型，高管称其不听话",
+        "takeaway": "OpenAI 据报因安全担忧弃用一款模型，因其指令遵循能力差，引发对 AI 安全与可控性的关注。",
+        "bullets": [
+          "OpenAI 据报放弃一款模型，原因是安全顾虑",
+          "高管向《华尔街日报》透露该模型不擅长遵循指令",
+          "事件凸显 AI 模型可控性仍是行业难题"
+        ],
+        "detail": "OpenAI 一名高管向《华尔街日报》表示，涉事模型在遵循指令方面表现不佳，因此被放弃。这反映出 AI 实验室在模型安全与可控性上的谨慎态度。",
+        "generatedAt": "2026-09-29T08:45:31+08:00"
+      }
+    },
+    {
       "id": "eea3badab1c03a5d",
       "title": "When can we say AI made a scientific discovery?",
       "url": "https://technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery",
@@ -431,6 +541,43 @@
         ],
         "detail": "OpenAI 因近期发生多起 AI 智能体行为偏离预期的事件，决定暂停前沿模型的训练。该公司已向数十个第三方发出通知，其中包含美国政府网站。此举反映出 AI 智能体安全风险正受到更严格的审视。",
         "generatedAt": "2026-09-29T01:04:42+08:00"
+      }
+    },
+    {
+      "id": "309d3a4f83f0a017",
+      "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+      "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development",
+      "summary": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T04:49:39+08:00",
+      "fetchedAt": "2026-09-29T08:45:24+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "佛州以“灭绝风险”为由起诉，要求叫停 OpenAI 开发",
+        "takeaway": "佛州将大模型称为史上最大公害，试图用法律手段阻止 OpenAI 继续开发，AI 监管争议升级。",
+        "bullets": [
+          "佛州在诉讼中称大语言模型威胁人类文明",
+          "把 LLM 定性为“史上最大公共妨害”",
+          "诉求是叫停 OpenAI 的模型开发",
+          "AI 安全争议从讨论走向法庭对抗"
+        ],
+        "detail": "佛罗里达州在诉讼中援引“灭绝风险”说法，称大语言模型威胁文明，是“有史以来最大的公共妨害”，并据此要求法院阻止 OpenAI 继续开发。这标志着围绕 AI 安全的争论正从舆论层面进入法律行动。",
+        "generatedAt": "2026-09-29T08:45:33+08:00"
       }
     },
     {
@@ -503,6 +650,120 @@
         ],
         "detail": "Imagination 公布了 E 系列 GPU IP 的最新进展，主打用一套架构同时支撑图形渲染、通用计算和 AI 运算。这意味着芯片厂商不必为不同负载分别设计 GPU，有望简化设计、降低成本，对移动和边缘侧 AI 芯片影响较大。",
         "generatedAt": "2026-09-29T01:04:44+08:00"
+      }
+    },
+    {
+      "id": "2f1d7de94646d4a1",
+      "title": "nvidia/NVIDIA-Nemotron-Labs-3-Competitive-Coding-550B-A55B-NVFP4 · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wsuqmb/nvidianvidianemotronlabs3competitivecoding550ba55b",
+      "summary": "Model Developer: NVIDIA Corporation Model Development: Fine-tuned from NVIDIA-Nemotron-3-Ultra-550B-A55B What is Nemotron? NVIDIA Nemotron™ is a family of open models with open weights, training data, and recipes, delivering leading efficie…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T07:45:33+08:00",
+      "fetchedAt": "2026-09-29T08:45:24+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.5,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达发布 Nemotron 3 编程竞赛模型，550B 参数 NVFP4 量化",
+        "takeaway": "英伟达开源 Nemotron 3 编程竞赛模型，550B 总参数、A55B 激活，采用 NVFP4 量化，面向竞技编程场景。",
+        "bullets": [
+          "模型基于 Nemotron-3-Ultra-550B-A55B 微调而来",
+          "总参数 550B，激活参数 55B，采用 NVFP4 量化",
+          "Nemotron 系列开放权重、训练数据和配方",
+          "定位竞技编程，主打编码效率与性能"
+        ],
+        "detail": "英伟达在 Hugging Face 上发布了 Nemotron 3 竞技编程模型，由 Nemotron-3-Ultra-550B-A55B 微调得到。该模型总参数 550B、激活 55B，使用 NVFP4 量化格式。Nemotron 是英伟达的开放模型系列，公开权重、训练数据和配方，强调高效。",
+        "generatedAt": "2026-09-29T08:45:33+08:00"
+      }
+    },
+    {
+      "id": "d6fa27c327baa571",
+      "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+      "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows",
+      "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T05:49:10+08:00",
+      "fetchedAt": "2026-09-29T08:45:24+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip",
+        "chips",
+        "NVIDIA"
+      ],
+      "confidence": 0.78,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达AI芯片对华销售引忧，专家关注其对特朗普的影响力",
+        "takeaway": "中国或允许字节跳动、阿里巴巴购买被禁的英伟达芯片，专家担忧英伟达对特朗普政府的影响力。",
+        "bullets": [
+          "中国据报考虑让字节跳动和阿里巴巴购买被禁的英伟达AI芯片",
+          "专家担忧英伟达对特朗普政府的影响力可能影响出口政策",
+          "此事涉及中美科技竞争与AI芯片出口管制"
+        ],
+        "detail": "据Ars Technica AI报道，中国正在考虑允许字节跳动和阿里巴巴购买此前被禁止的英伟达AI芯片。与此同时，专家对英伟达在美国对华AI芯片销售政策上的影响力，特别是对特朗普政府的影响表示担忧。",
+        "generatedAt": "2026-09-29T08:45:34+08:00"
+      }
+    },
+    {
+      "id": "f12a0fda7c327cd9",
+      "title": "Qwen 3.8 is a workhorse",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wso6gn/qwen_38_is_a_workhorse",
+      "summary": "https://preview.redd.it/23cumykhabsh1.png?width=944&format=png&auto=webp&s=0b1d1c437fc845169f521b31793e2b1325dab0dd Reminder that you can put Qwen 3.8 27B as a subagent and its a workhorse. Pic: using DeepSeek v4.1 Flash as Orchestrator in …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T03:24:46+08:00",
+      "fetchedAt": "2026-09-29T08:45:24+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "preview",
+        "Qwen",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Reddit 用户称 Qwen 3.8 27B 是可靠干活的模型",
+        "takeaway": "有用户分享把 Qwen 3.8 27B 当子代理使用，配合其他模型做编排，表现稳定好用。",
+        "bullets": [
+          "r/LocalLLaMA 用户发帖称 Qwen 3.8 27B 是「干活的骡子」",
+          "用法是把它作为子代理，由另一个模型负责编排",
+          "配图显示用 DeepSeek v4.1 Flash 当编排器",
+          "帖子提醒大家可以这样组合使用模型"
+        ],
+        "detail": "这是 Reddit 本地模型板块的一条分享帖。发帖人提醒大家，可以把 Qwen 3.8 27B 当作子代理来用，称它非常能干活。配图展示的场景是用 DeepSeek v4.1 Flash 作为编排者来调度它。",
+        "generatedAt": "2026-09-29T08:45:35+08:00"
       }
     },
     {
@@ -672,6 +933,186 @@
       }
     },
     {
+      "id": "597975da49400eea",
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises",
+      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T08:30:00+08:00",
+      "fetchedAt": "2026-09-29T08:45:24+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "unveils"
+      ],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Peak XV 将 Surge 种子投资上限提至 500 万美元，公布 18 家初创公司名单",
+        "takeaway": "Peak XV 提高 Surge 项目种子投资上限，并公布新一批 18 家初创公司，多数瞄准全球市场。",
+        "bullets": [
+          "Peak XV 将 Surge 种子投资上限从原水平提高到 500 万美元",
+          "新一批 Surge  cohort 包含 18 家初创公司",
+          "其中 13 家瞄准全球市场，超过半数位于印度"
+        ],
+        "detail": "Peak XV 宣布将其 Surge 种子投资的上限提升至 500 万美元，并公布了最新一批 18 家入选初创公司。这些公司中，13 家以全球市场为目标，超过一半位于印度。",
+        "generatedAt": "2026-09-29T08:45:35+08:00"
+      }
+    },
+    {
+      "id": "d2394bd4dea4b108",
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation",
+      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T05:29:18+08:00",
+      "fetchedAt": "2026-09-29T08:45:24+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "valuation"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Modal Labs 拟融 7.5 亿美元，估值飙至 157.5 亿",
+        "takeaway": "AI 推理服务商 Modal Labs 四个月内估值涨超两倍，正接近完成 7.5 亿美元新融资。",
+        "bullets": [
+          "Modal Labs 正洽谈 7.5 亿美元新融资",
+          "投后估值达 157.5 亿美元",
+          "估值较四个月前涨超两倍"
+        ],
+        "detail": "据 TechCrunch 报道，AI 推理服务商 Modal Labs 即将完成一轮 7.5 亿美元融资，估值达 157.5 亿美元。这一数字较四个月前增长超过两倍，显示市场对 AI 基础设施，尤其是推理环节的强烈兴趣。",
+        "generatedAt": "2026-09-29T08:45:36+08:00"
+      }
+    },
+    {
+      "id": "4b4cfee992d3fc3e",
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T04:39:33+08:00",
+      "fetchedAt": "2026-09-29T08:45:24+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "acquire",
+        "acquisition",
+        "billion"
+      ],
+      "confidence": 0.68,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AMD 82亿美元收购李飞飞World Labs",
+        "takeaway": "AMD以82亿美元收购李飞飞创办的World Labs，李飞飞将出任AMD执行副总裁兼首席科学家。",
+        "bullets": [
+          "AMD宣布82亿美元收购World Labs",
+          "创始人李飞飞将加入AMD任执行副总裁兼首席科学家",
+          "交易凸显AMD加码AI人才与技术布局"
+        ],
+        "detail": "AMD 将以 82 亿美元收购李飞飞创办的 World Labs。作为交易的一部分，World Labs 创始人李飞飞将加入 AMD，担任执行副总裁兼首席科学家。此举显示 AMD 正加大在人工智能领域的投入。",
+        "generatedAt": "2026-09-29T08:45:36+08:00"
+      }
+    },
+    {
+      "id": "c8196c32b3ca2ad2",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall",
+      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. …",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T06:17:07+08:00",
+      "fetchedAt": "2026-09-29T08:45:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "美墨边境虚拟墙：25年耗资数十亿，致命失效",
+        "takeaway": "美国在南部边境建虚拟墙25年，耗资数十亿，却未能兑现承诺，反而导致致命失败。",
+        "bullets": [
+          "美国在南部边境建虚拟墙25年，耗资数十亿。",
+          "承诺检测和逮捕越境者并拯救生命。",
+          "但实际效果致命失败，引发质疑。"
+        ],
+        "detail": "过去25年，美国在南部边境建造了由监控塔组成的“虚拟墙”，花费数十亿美元。官方承诺这些设施能帮助发现和逮捕越境者，并拯救生命。然而，圆桌讨论指出，这一系统存在致命缺陷，未能实现目标。",
+        "generatedAt": "2026-09-29T08:45:37+08:00"
+      }
+    },
+    {
+      "id": "281960bc5639164a",
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it",
+      "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T03:21:59+08:00",
+      "fetchedAt": "2026-09-29T08:45:24+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data centers"
+      ],
+      "confidence": 0.25,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 热潮席卷气候周，数据中心争议撕裂气候科技圈",
+        "takeaway": "AI 数据中心正成为气候周焦点，气候科技界对它的态度出现明显分裂。",
+        "bullets": [
+          "气候周上 AI 与数据中心话题盖过传统气候议题",
+          "气候科技创始人和投资者因 AI 产生分歧",
+          "分歧核心是 AI 算力扩张带来的能耗与排放压力"
+        ],
+        "detail": "和美国其他领域一样，数据中心与 AI 正在气候科技圈内制造对立。原本聚焦减排的气候周，如今被 AI 抢了风头，创始人和投资者对这股热潮看法不一，有人视其为机遇，也有人担忧能耗和排放问题。",
+        "generatedAt": "2026-09-29T08:45:38+08:00"
+      }
+    },
+    {
       "id": "7c1a7792c0f70260",
       "title": "Any way to run Qwen 3.8 Flash with a 7900XTX 24gb vram + 64gb ram?",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wsodqf/any_way_to_run_qwen_38_flash_with_a_7900xtx_24gb",
@@ -706,6 +1147,43 @@
         ],
         "detail": "一位用户在 r/LocalLLaMA 发帖求助：自己的机器是 7900XTX（24GB 显存）加 64GB 内存，想知道能不能跑 Qwen 3.8 Flash。他提到已经对 Qwen 3.8 有点腻了，因为即便开启 MTP，速度依然很慢。",
         "generatedAt": "2026-09-29T03:55:41+08:00"
+      }
+    },
+    {
+      "id": "21454428e8cea5f9",
+      "title": "Qwen next 3.8 and 3.8 27b Vs Sonnet 5.5 low and Sonnet 5.5 medium.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wsq6r5/qwen_next_38_and_38_27b_vs_sonnet_55_low_and",
+      "summary": "Six months ago, a result like this was unthinkable. But now we can say it loud and clear: local models are at the cutting edge, and the gap of just a few months has been confirmed. Personally, I use Qwen-Next 3.8 for complex tasks; today, G…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T04:38:40+08:00",
+      "fetchedAt": "2026-09-29T08:45:24+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen Next 3.8 本地模型对标 Sonnet 5.5，差距缩至数月",
+        "takeaway": "本地开源模型已逼近前沿闭源模型，Qwen Next 3.8 与 Sonnet 5.5 同台对比引发热议。",
+        "bullets": [
+          "Qwen Next 3.8 及 27B 版本与 Sonnet 5.5 低、中档配置对比",
+          "发帖者称半年前这样的结果不可想象",
+          "本地模型已站上前沿，与闭源差距仅数月",
+          "发帖者本人用 Qwen Next 3.8 处理复杂任务"
+        ],
+        "detail": "有用户在 LocalLLaMA 发帖，将 Qwen Next 3.8 和 3.8 27B 与 Sonnet 5.5 的低、中档配置进行对比。他表示半年前这种结果难以想象，如今可以明确说本地模型已处于前沿，与闭源模型的差距只有几个月。他本人就用 Qwen Next 3.8 处理复杂任务。",
+        "generatedAt": "2026-09-29T08:45:38+08:00"
       }
     },
     {
@@ -801,6 +1279,98 @@
       "keywords": [],
       "confidence": 0,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8f577b89081e48c1",
+      "title": "人形机器人还没成熟，Physical AI先去找了机械臂",
+      "url": "https://tmtpost.com/8154412.html",
+      "summary": "机器人“大脑”和机器人“身体”，过去常被想象成一起成熟；现在市场开始允许它们分开商业化。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T08:37:00+08:00",
+      "fetchedAt": "2026-09-29T08:45:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9d0ff6b438ba2260",
+      "title": "“国产外语剧”风起：各省的AI留子，抢着去韩美日谈恋爱",
+      "url": "https://tmtpost.com/8154645.html",
+      "summary": "没有丑男丑女的AI短剧，成为偶像剧最适配的打开方式。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T08:33:36+08:00",
+      "fetchedAt": "2026-09-29T08:45:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a37b0826d6222c22",
+      "title": "It's Time to Investigate the AI Labs",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
+      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 242 # Comments: 79",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T03:53:35+08:00",
+      "fetchedAt": "2026-09-29T08:45:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5136b4775f01edba",
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab",
+      "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 112 # Comments: 56",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T02:58:53+08:00",
+      "fetchedAt": "2026-09-29T08:45:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
       "related": [],
       "pushed": false
     }
