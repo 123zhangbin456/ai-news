@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "updatedAt": "2026-09-29T09:20:26+08:00",
+  "updatedAt": "2026-09-29T10:07:55+08:00",
   "items": [
     {
       "id": "b48cf3b3b7844edd",
@@ -545,6 +545,40 @@
         ],
         "detail": "OpenAI 一名高管向《华尔街日报》表示，涉事模型在遵循指令方面表现不佳，因此被放弃。这反映出 AI 实验室在模型安全与可控性上的谨慎态度。",
         "generatedAt": "2026-09-29T08:45:31+08:00"
+      }
+    },
+    {
+      "id": "cfe8e900401f31bb",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "summary": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T09:00:00+08:00",
+      "fetchedAt": "2026-09-29T10:07:49+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 就涉澳政府网站事件致歉并承诺加强防护",
+        "takeaway": "OpenAI 为涉及澳大利亚政府网站的事件道歉，并承诺强化安全措施支持澳网络防御。",
+        "bullets": [
+          "OpenAI 就涉及澳大利亚政府网站的事件公开道歉",
+          "承诺推出更强保障措施，支持澳大利亚网络防御",
+          "事件具体细节未披露，但涉及政府网站安全"
+        ],
+        "detail": "OpenAI 针对涉及澳大利亚政府网站的事件作出道歉，并宣布将采取更严格的防护措施，同时为澳大利亚的网络防御提供支持。此举旨在修复事件影响并加强双方在网络安全领域的合作。",
+        "generatedAt": "2026-09-29T10:07:54+08:00"
       }
     },
     {
@@ -1347,6 +1381,76 @@
       "pushed": false
     },
     {
+      "id": "8df3fb6a85808fc6",
+      "title": "AI 驱动复杂业务漏洞挖掘：从业务规则建模到攻击路径验证｜QCon上海",
+      "url": "https://infoq.cn/article/mDiczbGJpHNMU6e0qBX1",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T18:00:00+08:00",
+      "fetchedAt": "2026-09-29T10:07:49+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "QCon上海：AI如何挖掘复杂业务漏洞",
+        "takeaway": "InfoQ中国预告QCon上海议题，聚焦用AI做业务规则建模与攻击路径验证。",
+        "bullets": [
+          "议题来自InfoQ中国，将在QCon上海分享",
+          "核心是从业务规则建模到攻击路径验证",
+          "面向复杂业务场景的AI漏洞挖掘方法"
+        ],
+        "detail": "InfoQ中国发布QCon上海相关议题，主题为AI驱动复杂业务漏洞挖掘。内容围绕把业务规则建模与攻击路径验证结合，用AI辅助发现复杂业务中的安全漏洞。",
+        "generatedAt": "2026-09-29T10:07:54+08:00"
+      }
+    },
+    {
+      "id": "8c95b1f26b931e88",
+      "title": "Token价格一降再降，但不会让边缘AI退场：企业算力账越来越细",
+      "url": "https://infoq.cn/article/XF5kZxV681STVDrzsstj",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T17:50:11+08:00",
+      "fetchedAt": "2026-09-29T10:07:49+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Token价格持续走低，边缘AI为何不会退场",
+        "takeaway": "Token降价不等于边缘AI出局，企业算力账算得更细，边缘侧仍有不可替代的价值。",
+        "bullets": [
+          "Token价格一降再降，云端推理成本持续走低",
+          "但边缘AI并未因此退场，企业仍在权衡部署方式",
+          "企业算力账越算越细，成本之外还看延迟、隐私与合规"
+        ],
+        "detail": "云端Token越来越便宜，看起来边缘AI没必要了。但企业算账不只看单价，还看延迟、数据隐私和网络依赖。所以边缘AI不会退场，只是企业会更精细地决定哪些任务放云、哪些放边。",
+        "generatedAt": "2026-09-29T10:07:55+08:00"
+      }
+    },
+    {
       "id": "aadd1dae2e0b10dd",
       "title": "The problem is not the AI code, but nobody knows anything anymore",
       "url": "https://ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore",
@@ -1431,6 +1535,54 @@
       "topic": "ai",
       "publishedAt": "2026-09-29T08:33:36+08:00",
       "fetchedAt": "2026-09-29T08:45:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "007eb59bd0c9835f",
+      "title": "FDE，大模型落地的最后一公里",
+      "url": "https://tmtpost.com/8154193.html",
+      "summary": "AI 落地的核心不在模型层，而在模型之下的执行层。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T09:44:46+08:00",
+      "fetchedAt": "2026-09-29T10:07:49+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cf94ba864f6f51dd",
+      "title": "Beijing broadens travel curbs to encompass family of top AI talent in China",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wsx4n9/beijing_broadens_travel_curbs_to_encompass_family",
+      "summary": "https://www.japantimes.co.jp/business/2026/09/29/tech/china-travel-curbs-ai-talent/ Let's salute the sacrifice made by Chinese AI engineers and their families. 「O submitted by /u/Ok_Warning2146 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-29T09:37:13+08:00",
+      "fetchedAt": "2026-09-29T10:07:49+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
