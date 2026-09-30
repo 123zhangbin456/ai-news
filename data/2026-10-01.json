@@ -1,7 +1,43 @@
 {
   "date": "2026-10-01",
-  "updatedAt": "2026-09-30T02:24:18+08:00",
+  "updatedAt": "2026-09-30T23:59:41+08:00",
   "items": [
+    {
+      "id": "023881b9ea060b88",
+      "title": "DeepSeek 开源昇腾平台基础设施组件，覆盖 TileLang、计算库与分布式通信库",
+      "url": "https://infoq.cn/article/t5i2Yv2z0LwIbK36lteR",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T03:40:16+08:00",
+      "fetchedAt": "2026-09-30T23:59:18+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.6,
+      "score": 56,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 开源昇腾平台基础设施组件，覆盖 TileLang、计算库与分布式通信库",
+        "takeaway": "DeepSeek 把自家在昇腾平台上的底层基础设施开源，覆盖编程语言、计算库和通信库，方便开发者在国产算力上做 AI 开发。",
+        "bullets": [
+          "开源组件包括 TileLang、计算库与分布式通信库",
+          "面向华为昇腾平台，属于底层基础设施",
+          "开发者可直接复用，降低国产算力开发门槛"
+        ],
+        "detail": "DeepSeek 在 InfoQ 中国发布消息，宣布开源一批面向昇腾平台的基础设施组件，涵盖 TileLang、计算库以及分布式通信库。这些组件属于 AI 开发的底层工具，开源后开发者可以直接使用，有助于在国产算力平台上更高效地构建和训练模型。",
+        "generatedAt": "2026-09-30T23:59:29+08:00"
+      }
+    },
     {
       "id": "85ae00502245296c",
       "title": "OpenAI DevDay 2026: The biggest news and announcements",
@@ -38,6 +74,113 @@
         "detail": "OpenAI 在旧金山举办年度 DevDay 开发者大会，CEO 山姆·奥特曼在主题演讲中公布了多项重要更新，其中包括名为 Dots 的新内容。这是秋季科技活动季中 OpenAI 的主场，具体细节尚未完全披露。",
         "generatedAt": "2026-09-30T02:24:12+08:00"
       }
+    },
+    {
+      "id": "27a871214755fde3",
+      "title": "谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX",
+      "url": "https://infoq.cn/article/M6BRTrsyJvUg8y0M0kyh",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T04:40:07+08:00",
+      "fetchedAt": "2026-09-30T23:59:18+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌开源 AX：面向自主 AI 代理的 Kubernetes 风格编排器",
+        "takeaway": "谷歌把 K8s 式编排思路搬到 AI 代理上，开源 AX，让多代理调度更工程化。",
+        "bullets": [
+          "谷歌开源 AX，定位为自主 AI 代理的编排器",
+          "设计借鉴 Kubernetes 风格，强调调度与编排",
+          "面向多代理自主运行场景，降低工程化门槛"
+        ],
+        "detail": "谷歌发布开源项目 AX，用于编排自主 AI 代理，思路类似 Kubernetes 对容器的调度管理。它希望把代理的部署、协调等环节标准化，让开发者更容易搭建和运行多代理系统。",
+        "generatedAt": "2026-09-30T23:59:35+08:00"
+      }
+    },
+    {
+      "id": "63a8a7b8199e0337",
+      "title": "GitLab Duo 通过微软 Foundry 扩展自托管 AI 选项",
+      "url": "https://infoq.cn/article/cA9rSEGKphbJHIiTQKMv",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T04:37:48+08:00",
+      "fetchedAt": "2026-09-30T23:59:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a64abdf3b4179f30",
+      "title": "像改文字一样改语音：火山引擎全新语音内容编辑模型",
+      "url": "https://infoq.cn/article/07qzHLvyNXSW1SFNV5NV",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T03:39:04+08:00",
+      "fetchedAt": "2026-09-30T23:59:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "42257fb17def6d21",
+      "title": "机房堆满算力卡，业务却还在排队？这份评估报告拆开了“算力荒假象”的破局账本",
+      "url": "https://infoq.cn/article/bduvBdbgwxj6DMbNeKCC",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T01:37:10+08:00",
+      "fetchedAt": "2026-09-30T23:59:18+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
