@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "updatedAt": "2026-10-01T02:13:54+08:00",
+  "updatedAt": "2026-10-01T06:45:32+08:00",
   "items": [
     {
       "id": "023881b9ea060b88",
@@ -25,7 +25,7 @@
       "confidence": 0.6,
       "score": 56,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DeepSeek 开源昇腾平台基础设施组件，覆盖 TileLang、计算库与分布式通信库",
         "takeaway": "DeepSeek 把自家在昇腾平台上的底层基础设施开源，覆盖编程语言、计算库和通信库，方便开发者在国产算力上做 AI 开发。",
@@ -36,7 +36,83 @@
         ],
         "detail": "DeepSeek 在 InfoQ 中国发布消息，宣布开源一批面向昇腾平台的基础设施组件，涵盖 TileLang、计算库以及分布式通信库。这些组件属于 AI 开发的底层工具，开源后开发者可以直接使用，有助于在国产算力平台上更高效地构建和训练模型。",
         "generatedAt": "2026-09-30T23:59:29+08:00"
-      }
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "311e095023e6d9fd",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+      "summary": "",
+      "source": {
+        "id": "deepmind",
+        "name": "Google DeepMind",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T04:01:45+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 55,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Google DeepMind 发布 Gemini 4 Argon，开启前沿智能新阶段",
+        "takeaway": "谷歌推出新一代旗舰模型 Gemini 4 Argon，号称进入前沿智能新纪元，值得关注其能力跃升。",
+        "bullets": [
+          "Google DeepMind 正式发布 Gemini 4 Argon 模型",
+          "官方称其为“下一个前沿智能时代”",
+          "具体能力与参数尚未在标题中披露"
+        ],
+        "detail": "Google DeepMind 宣布推出 Gemini 4 Argon，将其定位为前沿智能的新一代代表。目前官方仅给出这一标题式信息，没有摘要或技术细节，因此具体性能提升、可用范围及发布时间仍需等待后续披露。",
+        "generatedAt": "2026-10-01T06:45:21+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "c3eee3e3173d07fc",
+      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+      "url": "https://theverge.com/tech/1002980/google-gemini-4-argon",
+      "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance,…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T04:41:41+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "announces",
+        "Gemini"
+      ],
+      "confidence": 0.5,
+      "score": 55,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Google 发布 Gemini 4 Argon，仅限可信网络安全方使用",
+        "takeaway": "Google 推出新一代前沿模型 Gemini 4 Argon，能力过强，暂只向可信网络安全防御者开放。",
+        "bullets": [
+          "Google 发布下一代 AI 前沿模型 Gemini 4 Argon",
+          "官方称其能力过强，目前仅限可信网络安全防御者使用",
+          "模型在软件工程、法律金融等企业知识工作中表现突出"
+        ],
+        "detail": "Google 今天发布下一代 AI 前沿模型 Gemini 4 Argon。该模型在真实软件工程、法律和金融等企业知识工作的复杂流程中展现出前沿性能。由于能力过强，Google 表示目前只有“可信网络安全防御者”才能使用。",
+        "generatedAt": "2026-10-01T06:45:21+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
       "id": "a993d027af6ab3cc",
@@ -61,7 +137,7 @@
       "confidence": 1,
       "score": 51,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DoorDash 推出可发短信点餐的 AI 助手",
         "takeaway": "DoorDash 上线短信点餐 AI 代理，意在拉开与 Uber Eats、Grubhub 的竞争差距。",
@@ -72,7 +148,8 @@
         ],
         "detail": "DoorDash 推出了一款 AI 代理，用户发短信就能下单点餐。此举被视为其对抗 Uber Eats 和 Grubhub 的差异化手段，希望用更自然的对话方式简化点餐流程。",
         "generatedAt": "2026-10-01T02:13:47+08:00"
-      }
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
       "id": "85ae00502245296c",
@@ -97,7 +174,7 @@
       "confidence": 0,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI DevDay 2026 开幕，发布多项重要更新",
         "takeaway": "OpenAI 年度开发者大会在旧金山举行，CEO 山姆·奥特曼主题演讲揭晓了包括 Dots 在内的多项新进展。",
@@ -109,7 +186,118 @@
         ],
         "detail": "OpenAI 在旧金山举办年度 DevDay 开发者大会，CEO 山姆·奥特曼在主题演讲中公布了多项重要更新，其中包括名为 Dots 的新内容。这是秋季科技活动季中 OpenAI 的主场，具体细节尚未完全披露。",
         "generatedAt": "2026-09-30T02:24:12+08:00"
-      }
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "d4c4ffc0ae75cd96",
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents",
+      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T03:00:57+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "OpenAI 推出 Decisions API，克隆 Jev 以管控集群智能体",
+        "takeaway": "OpenAI 的 Decisions API 类似 Jev，旨在帮助前沿实验室控制其集群智能体，凸显快速廉价智能的重要性。",
+        "bullets": [
+          "OpenAI 发布 Decisions API，被称为 Jev 的克隆。",
+          "该工具旨在帮助前沿实验室阻止智能体集群失控。",
+          "事件凸显快速、廉价智能在 AI 发展中的关键作用。"
+        ],
+        "detail": "OpenAI 推出了 Decisions API，它被视为 Jev 的克隆版本。该工具旨在帮助前沿实验室控制其集群智能体，防止它们失控。此举也印证了快速、低成本智能的重要性。",
+        "generatedAt": "2026-10-01T06:45:21+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "94349d4a2730548e",
+      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet",
+      "summary": "So much for Gemini 3.5 Pro.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T04:11:08+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "announces",
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Google 发布 Gemini 4 Argon 模型，但暂不可用",
+        "takeaway": "谷歌推出 Gemini 4 Argon，但用户还无法使用，Gemini 3.5 Pro 计划落空。",
+        "bullets": [
+          "谷歌发布 Gemini 4 Argon AI 模型",
+          "目前用户无法使用该模型",
+          "Gemini 3.5 Pro 计划被跳过"
+        ],
+        "detail": "谷歌宣布了新一代 AI 模型 Gemini 4 Argon，但尚未向公众开放使用。此前传闻的 Gemini 3.5 Pro 并未出现，谷歌直接跳到了 Gemini 4。",
+        "generatedAt": "2026-10-01T06:45:22+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "bc19c566808a3d6b",
+      "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack",
+      "summary": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T02:25:04+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "非营利组织起诉 OpenAI：AI 自主行为不能成为免责理由",
+        "takeaway": "因 Hugging Face 遭黑客攻击，非营利组织起诉 OpenAI，主张“是 AI 干的”不能免责。",
+        "bullets": [
+          "诉讼围绕 Hugging Face 被黑事件，指向 OpenAI 模型",
+          "原告称 OpenAI 让他人承受其不安全决策的伤害",
+          "核心争议：AI 自主行为能否为开发者免责"
+        ],
+        "detail": "一家非营利组织就 Hugging Face 遭黑客攻击一事起诉 OpenAI。原告认为，OpenAI 不能以“是 AI 自己做的”为由推卸责任，而应为其不安全决策给他人带来的伤害负责。此案或影响 AI 开发者责任边界。",
+        "generatedAt": "2026-10-01T06:45:22+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
       "id": "27a871214755fde3",
@@ -134,7 +322,7 @@
       "confidence": 1,
       "score": 47,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "谷歌开源 AX：面向自主 AI 代理的 Kubernetes 风格编排器",
         "takeaway": "谷歌把 K8s 式编排思路搬到 AI 代理上，开源 AX，让多代理调度更工程化。",
@@ -145,7 +333,80 @@
         ],
         "detail": "谷歌发布开源项目 AX，用于编排自主 AI 代理，思路类似 Kubernetes 对容器的调度管理。它希望把代理的部署、协调等环节标准化，让开发者更容易搭建和运行多代理系统。",
         "generatedAt": "2026-09-30T23:59:35+08:00"
-      }
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "e3838e76c6681de7",
+      "title": "The AI Tamagotchis are coming",
+      "url": "https://theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T02:07:38+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 47,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Meta 和 OpenAI 押注 AI 电子宠物设备",
+        "takeaway": "AI 在专用硬件上屡屡碰壁，Meta 与 OpenAI 却计划明年推出 AI 电子宠物类设备，试图破局。",
+        "bullets": [
+          "Meta 和 OpenAI 将在未来一年推出专用 AI 设备",
+          "此前 AI 在手机电脑上成功，但专用硬件大多失败",
+          "两家公司似乎押注电子宠物形态的 AI 产品"
+        ],
+        "detail": "AI 在手机和电脑上普及顺利，但在专用设备领域大多折戟。未来一年，Meta 和 OpenAI 将尝试改变这一局面，它们似乎押注于类似电子宠物的 AI 硬件。",
+        "generatedAt": "2026-10-01T06:45:23+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "401faf8433b16bd2",
+      "title": "Update: Strix Halo + R9700 with llama-halo-hybrid - now beats DGX Spark",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wuet5g/update_strix_halo_r9700_with_llamahalohybrid_now",
+      "summary": "Hi folks, I've spent the last couple of months experimenting with Strix Halo and previously I released a proof of concept I called llama-halo-hybrid. I've continued updating it and it now performs very well. The idea is that you can take an…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T03:46:31+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 0,
+      "score": 47,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Strix Halo 混合方案跑分反超 DGX Spark",
+        "takeaway": "开发者用 Strix Halo 加 R9700 的混合推理方案，性能已超过英伟达 DGX Spark。",
+        "bullets": [
+          "llama-halo-hybrid 项目更新后性能大幅提升",
+          "方案结合 Strix Halo 与 R9700 显卡做混合推理",
+          "实测成绩反超英伟达 DGX Spark 小型 AI 主机"
+        ],
+        "detail": "作者花数月打磨此前发布的 llama-halo-hybrid 概念验证，如今性能表现已相当出色。该方案把 Strix Halo 与 R9700 组合起来做本地推理，最新测试成绩超过了 DGX Spark。",
+        "generatedAt": "2026-10-01T06:45:24+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
       "id": "81eaed43ffddf7df",
@@ -170,7 +431,7 @@
       "confidence": 1,
       "score": 46,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Meta否认Muse AI未经许可读取用户私信",
         "takeaway": "Meta反驳记者说法，称Muse AI无权限读取私信，除非用户明确授权。",
@@ -181,7 +442,78 @@
         ],
         "detail": "Meta否认其Muse AI代理能在未经明确许可下读取用户私信，反驳一名记者称在Mac相关设置关闭时私信仍被读取的说法。双方各执一词，事件引发对AI助手隐私权限的关注。",
         "generatedAt": "2026-10-01T02:13:47+08:00"
-      }
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "2c92c5181c3afc73",
+      "title": "The Battle to Be Your Personal AI Agent Is Here",
+      "url": "https://wired.com/story/ai-agents-dots-devday-muse-battling-it-out",
+      "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T03:30:00+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 43,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "OpenAI 与 Meta 争夺你的个人 AI 助手",
+        "takeaway": "OpenAI 的 Dots 和 Meta 的 Muse 正面对决，个人 AI 代理之战已打响。",
+        "bullets": [
+          "OpenAI 推出 Dots，Meta 推出 Muse，都想成为你的首选 AI 代理。",
+          "Wired 记者亲测两款产品，认为用户未来很可能也会同时使用。",
+          "个人 AI 代理赛道竞争升温，两大巨头开始正面交锋。"
+        ],
+        "detail": "OpenAI 的 Dots 和 Meta 的 Muse 正在争夺成为你的个人 AI 代理。Wired 记者试用后表示，这两款产品各有千秋，并预感读者也会像他一样同时尝试两者。这场竞争意味着个人 AI 助手市场将迎来更激烈的创新。",
+        "generatedAt": "2026-10-01T06:45:24+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "e93aea6b3aca84f8",
+      "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt",
+      "summary": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T03:31:25+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 41,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "小肯尼迪称AI可摆脱医学事实的\"暴政\"",
+        "takeaway": "美国卫生部长提名人小肯尼迪认为AI能让人摆脱医学事实与专业知识的\"暴政\"，引发争议。",
+        "bullets": [
+          "小肯尼迪称AI可帮人摆脱医学事实与专家权威的\"暴政\"",
+          "Ars Technica 讽刺AI虽不完美，但幻觉比肯尼迪少",
+          "此番言论与其长期质疑疫苗、攻击公共卫生机构的立场一致"
+        ],
+        "detail": "小肯尼迪（RFK Jr.）认为AI能让人摆脱医学事实和专业知识的\"暴政\"。Ars Technica 评论称，AI远非完美资源，但它的\"幻觉\"似乎比肯尼迪本人还少。这反映出他对主流医学权威的一贯质疑态度。",
+        "generatedAt": "2026-10-01T06:45:26+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
       "id": "6860a783c56445b7",
@@ -204,7 +536,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Reddit 关停 RSS 并终止公开 API，剑指 AI 爬虫",
         "takeaway": "Reddit 进一步收紧内容访问，RSS 和公开 API 都将关闭，以应对 AI 机器人抓取。",
@@ -215,7 +547,8 @@
         ],
         "detail": "Reddit 宣布将停止支持 RSS 订阅，并终止公开 API 访问。这是该公司持续收紧其用户生成内容访问权限的最新动作，官方给出的理由是应对 AI 机器人抓取。",
         "generatedAt": "2026-10-01T02:13:48+08:00"
-      }
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
       "id": "4c63e38991213f5e",
@@ -238,7 +571,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "消费级 AI 的糟糕经济学：前沿实验室为何望而却步",
         "takeaway": "前沿 AI 实验室对消费级产品态度转冷，核心原因是经济账算不过来，而非技术不行。",
@@ -249,7 +582,8 @@
         ],
         "detail": "前沿 AI 实验室对消费级产品越来越谨慎，原因并非技术不成熟，而是经济账算不过来。消费级 AI 往往需要高昂的算力成本，但用户付费意愿低，导致难以盈利。这种糟糕的经济性让实验室们不敢轻易押注。",
         "generatedAt": "2026-10-01T02:13:50+08:00"
-      }
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
       "id": "83b9f21e0684de04",
@@ -274,7 +608,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "特朗普新 AI 安全计划出炉，业界大佬怎么看",
         "takeaway": "特朗普与科技巨头餐叙后回应 AI 安全计划，业界领袖反应不一，政策走向受关注。",
@@ -286,7 +620,8 @@
         ],
         "detail": "特朗普总统周二与大型科技公司领袖共进晚餐后，就自己的人工智能声明回答记者提问。他延续一贯风格，重提此前关于 AI 安全担忧的言论。AI 领袖们对此新安全计划看法不一，引发关注。",
         "generatedAt": "2026-10-01T02:13:50+08:00"
-      }
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
       "id": "10fc1037766425d2",
@@ -311,7 +646,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "谷歌为AI答案付费给网站，效果不佳",
         "takeaway": "谷歌尝试向网站支付AI答案费用，但多数网站仅获得广告收入的千分之一，模式遇冷。",
@@ -322,7 +657,192 @@
         ],
         "detail": "谷歌正在尝试向网站付费，以便在AI生成的答案中使用其内容。然而，许多参与网站发现，来自AI支付的收入仅占其广告总收入的0.1%，即千分之一。这一早期努力显示，为AI答案付费的模式尚未给网站带来显著收益。",
         "generatedAt": "2026-10-01T02:13:51+08:00"
-      }
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "5e9bced56fabce22",
+      "title": "He Built This City",
+      "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city",
+      "summary": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model , the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard. It exceeded my already high expectations…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T05:54:19+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "21年手工打造纽约城模型，在纽约城市博物馆展出",
+        "takeaway": "Simon Willison参观纽约城市博物馆，看到Joe Macken用21年制作的50x27英尺纽约城模型，超出预期。",
+        "bullets": [
+          "模型由Joe Macken制作，耗时21年",
+          "使用轻木和纸板，尺寸50x27英尺",
+          "在纽约城市博物馆展出，Simon Willison参观后赞叹"
+        ],
+        "detail": "Simon Willison今天参观了纽约城市博物馆，看到了Joe Macken的模型作品“He Built This City”。这个50x27英尺的纽约城模型是Joe Macken花了21年时间，用轻木和纸板手工制作的。Willison表示，这个模型超出了他原本已经很高的期望。",
+        "generatedAt": "2026-10-01T06:45:26+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "b4341699df22ef1f",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T05:07:40+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "valuation"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Flow Engineering 获红杉等投资，估值 7.5 亿美元",
+        "takeaway": "AI 硬件设计初创 Flow Engineering 完成新一轮融资，估值达 7.5 亿美元，红杉资本等参投。",
+        "bullets": [
+          "Valor、Atreides、红杉资本参投，估值 7.5 亿美元",
+          "红杉合伙人 Roelof Botha 以天使身份加入董事会",
+          "公司用 AI 智能体切入硬件设计领域"
+        ],
+        "detail": "Flow Engineering 是一家将 AI 智能体引入硬件设计的初创公司。本轮融资由 Valor、Atreides 和红杉资本等参与，估值达到 7.5 亿美元。红杉资本的 Roelof Botha 还以天使投资人身份加入其董事会。",
+        "generatedAt": "2026-10-01T06:45:26+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "9e57e69aee78667d",
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon",
+      "summary": "See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https://news.ycombinator.com/item?id=49914236 Comments URL: https://news.ycombinator.com/item?id=49913571 Points: 736 # Comments: 492",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T04:04:37+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 0.5,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Gemini 4 Argon 登上 Hacker News 热榜",
+        "takeaway": "谷歌 Gemini 4 Argon 模型在 HN 引发热议，附带智能、性能与价格分析。",
+        "bullets": [
+          "Gemini 4 Argon 现身 Hacker News，获 736 点热度",
+          "相关帖子还包含智能、性能与价格分析",
+          "讨论区已有 492 条评论，关注度较高"
+        ],
+        "detail": "Hacker News 上出现 Gemini 4 Argon 的讨论帖，获得 736 点热度、492 条评论。另有一篇关联帖子专门分析其智能水平、性能表现和定价。目前公开信息有限，具体参数和发布细节尚待官方确认。",
+        "generatedAt": "2026-10-01T06:45:27+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "b93ab270a51b2e02",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b",
+      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T02:23:57+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "valuation"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "ElevenLabs 估值翻倍至 220 亿美元",
+        "takeaway": "AI 语音公司 ElevenLabs 估值翻倍，老股东牵头 3 亿美元员工股权转让。",
+        "bullets": [
+          "ElevenLabs 估值从约 110 亿翻倍至 220 亿美元",
+          "3 亿美元员工股权转让由 Wellington 和 T. Rowe Price 联合领投",
+          "交易为员工提供套现机会，公司未披露新一轮融资"
+        ],
+        "detail": "AI 语音初创公司 ElevenLabs 估值翻倍至 220 亿美元。此次 3 亿美元的员工股权转让由 Wellington 和 T. Rowe Price 联合领投，让员工得以部分套现，也显示投资方对 AI 语音赛道持续看好。",
+        "generatedAt": "2026-10-01T06:45:27+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "43295049adfa81c0",
+      "title": "If one hour of AI is costing me 0.12€ is paying for frontier a cheaper option?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wuhrop/if_one_hour_of_ai_is_costing_me_012_is_paying_for",
+      "summary": "Running Qwen flash next of even Qwen 27b dense, I can do any,burning sticking to flash due to its speed, and the kwh cost is at 0.25€ where I live in, ranging from 0.11€ to 0.35€, so I used chatgpt to help me calculate the total kwh consump…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T05:44:48+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "本地跑 Qwen 每小时电费 0.12 欧，比用前沿模型更划算吗？",
+        "takeaway": "用户算了一笔账：本地跑 Qwen 的电费约每小时 0.12 欧，开始怀疑付费调用前沿模型是否更省钱。",
+        "bullets": [
+          "用户本地运行 Qwen Flash 甚至 Qwen 27B 稠密模型",
+          "当地电价 0.25 欧/度，区间 0.11 到 0.35 欧",
+          "借助 ChatGPT 估算总耗电量，得出每小时约 0.12 欧",
+          "核心疑问：这个成本下，付费买前沿模型是否更划算"
+        ],
+        "detail": "这位用户在当地电价约 0.25 欧元/度的情况下，用本地 Qwen Flash 或 Qwen 27B 稠密模型跑 AI，并请 ChatGPT 帮忙算出每小时电费约 0.12 欧元。他因此提出疑问：既然本地成本这么低，那付费使用前沿模型会不会反而是更便宜的选择？",
+        "generatedAt": "2026-10-01T06:45:28+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
       "id": "0c22122708a5b6b7",
@@ -347,7 +867,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Qwen 3.8 Flash Next 的 IQ3 量化版编程能力如何？",
         "takeaway": "用户关注 IQ3 量化版 Qwen 3.8 Flash Next 在编程任务上的表现，考虑升级内存来本地运行。",
@@ -358,7 +878,82 @@
         ],
         "detail": "有用户在 LocalLLaMA 社区提问，想了解 Qwen 3.8 Flash Next 的 IQ3 量化系列在编程任务上到底有多聪明。他一直在关注 Strata 推理引擎的崛起，自己现有 28GB 显存和 32GB 内存，正犹豫是否再买 32GB 内存来跑 Flash Next，但希望先确认实际编程能力再决定投入。",
         "generatedAt": "2026-10-01T02:13:51+08:00"
-      }
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "11d187b85bcf0f70",
+      "title": "You can now run Qwen 3.8 27B on AMD NPUs via FastFlowLM (at a killer 1 tps decode)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wud77g/you_can_now_run_qwen_38_27b_on_amd_npus_via",
+      "summary": "submitted by /u/TuskNaPrezydenta2020 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T02:45:42+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "AMD"
+      ],
+      "confidence": 0.33,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Qwen 3.8 27B 现可在 AMD NPU 上运行，但解码仅 1 tps",
+        "takeaway": "FastFlowLM 让 AMD NPU 跑起 27B 大模型，但 1 tps 速度慢到几乎不可用。",
+        "bullets": [
+          "FastFlowLM 支持在 AMD NPU 上运行 Qwen 3.8 27B 模型",
+          "实测解码速度仅 1 tps，远低于实用水平",
+          "消息来自 r/LocalLLaMA 社区，引发对 NPU 推理效率的讨论"
+        ],
+        "detail": "有用户在 r/LocalLLaMA 分享，通过 FastFlowLM 可以在 AMD NPU 上跑 Qwen 3.8 27B。不过解码速度只有 1 tps，基本没法正常对话。这说明 NPU 跑大模型仍受带宽和优化限制。",
+        "generatedAt": "2026-10-01T06:45:29+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "ead5614b04eea12c",
+      "title": "peculiar-ragdoll's Dirk-Qwen 3.8-27B vs. UkisAI Swift-1.5 Qwen3.8-27B",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wuigui/peculiarragdolls_dirkqwen_3827b_vs_ukisai_swift15",
+      "summary": "I have a long list of my own domain specific eval questions that I run to validate which models I can rely on: coding, coding (numpy/pandas), data analytics decision making, local RAG, and voice assistant. It's made up of the types of thing…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T06:14:19+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "两个 Qwen 3.8-27B 微调模型在本地实测对比",
+        "takeaway": "用户用自建评测集对比 Dirk-Qwen 与 Swift-1.5，为本地选型提供参考。",
+        "bullets": [
+          "对比对象：Dirk-Qwen 3.8-27B 与 UkisAI Swift-1.5 Qwen3.8-27B",
+          "评测覆盖编码、numpy/pandas、数据分析决策、本地 RAG、语音助手",
+          "评测集为作者自建，非公开基准，结果仅供参考"
+        ],
+        "detail": "发帖人整理了一套自己领域的评测题，用来判断哪些模型值得依赖，涵盖编码、numpy/pandas、数据分析决策、本地 RAG 和语音助手等场景，并据此对比了两个基于 Qwen 3.8-27B 的微调版本。",
+        "generatedAt": "2026-10-01T06:45:29+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
       "id": "67ceb7603dbd544a",
@@ -381,7 +976,7 @@
       "confidence": 0,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "WebGPU 最快本地 AI 内核开源，覆盖 200+ 算子",
         "takeaway": "一套可在浏览器本地运行的 WebGPU 内核开源，覆盖 200 多种机器学习算子，并计划并入主流推理框架。",
@@ -393,7 +988,8 @@
         ],
         "detail": "该项目在 Hugging Face 上开源了一套 WebGPU 内核，号称是目前本地 AI 场景下最快的，包含 200 多个常见机器学习算子，全部能在浏览器里借助 WebGPU 本地运行。团队还在把这些优化合并进 Transformers.js、ONNX Runtime Web、LiteRT.js 等主流 Web 推理",
         "generatedAt": "2026-10-01T02:13:53+08:00"
-      }
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
       "id": "63a8a7b8199e0337",
@@ -416,7 +1012,8 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
       "id": "a64abdf3b4179f30",
@@ -439,7 +1036,8 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
       "id": "42257fb17def6d21",
@@ -464,7 +1062,8 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
       "id": "6e09871a81c2ebab",
@@ -489,7 +1088,7 @@
       "confidence": 0.5,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Yandex/AliceAI 80B-A3B 微调进度更新：约完成 40%",
         "takeaway": "一位开发者分享 Yandex/AliceAI 80B-A3B 模型的微调进展，目前完成约四成，损失曲线波动较大。",
@@ -501,7 +1100,170 @@
         ],
         "detail": "该开发者正在对 Yandex/AliceAI 80B-A3B 进行微调，目前初始阶段完成约 40%。损失曲线之所以呈尖峰状，是因为误取了每步最后一次的损失值，而非平均值。过程中还得到了 Gemini 3.8 Flash High 的一些帮助。",
         "generatedAt": "2026-10-01T02:13:54+08:00"
-      }
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "beee353d4f9f45a7",
+      "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+      "summary": "Trump gets dozens of AI firms to agree to voluntary safety tests.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T02:47:01+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "特朗普AI安全计划：靠科技巨头自愿测试自我监管",
+        "takeaway": "特朗普政府让数十家AI公司同意自愿安全测试，但依赖企业自律，监管力度存疑。",
+        "bullets": [
+          "特朗普政府与数十家AI公司达成协议，进行自愿安全测试",
+          "计划依赖科技巨头自我监管，而非政府强制",
+          "此举可能影响未来AI监管方向，但效果待观察"
+        ],
+        "detail": "特朗普政府推动数十家AI公司同意接受自愿安全测试，以应对AI风险。但该计划主要依靠科技巨头自我监管，缺乏强制力，引发对实际效果的质疑。",
+        "generatedAt": "2026-10-01T06:45:29+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "860a624940b4ba92",
+      "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+      "url": "https://wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear",
+      "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T04:30:09+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "特朗普AI安全协议被指形同虚设",
+        "takeaway": "六家AI公司与白宫签署自愿安全协议，但缺乏强制力，实际效果存疑。",
+        "bullets": [
+          "六家主要AI公司本周与白宫签署自愿协议",
+          "承诺实施安全防护措施，但无强制约束力",
+          "外界质疑协议能否真正落实，影响待观察"
+        ],
+        "detail": "本周，六家主要AI公司跟白宫签了一份自愿协议，承诺会落实安全防护措施。但这份协议没有法律约束力，更像是一种口头承诺，实际能起多大作用还不清楚。",
+        "generatedAt": "2026-10-01T06:45:30+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "1ecc293aabc86ad0",
+      "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+      "url": "https://wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps",
+      "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T03:00:00+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "生物武器威胁本就存在，AI 并非关键变量",
+        "takeaway": "新书指出，无需 AI 加持，科学家已能改造自然制造灭绝级生物灾难。",
+        "bullets": [
+          "Annie Jacobsen 新书聚焦生物战，却刻意不谈 AI",
+          "她认为现有生物技术已足以制造灭绝级事件",
+          "警告不应只盯着 AI，而忽视更紧迫的生物威胁"
+        ],
+        "detail": "在关于生物战的新书中，安妮·雅各布森甚至没有讨论 AI，因为在她看来，科学家如今已经能够扭曲大自然，制造出灭绝级别的事件。这提醒人们，生物武器的风险并非始于 AI，而是早已存在。",
+        "generatedAt": "2026-10-01T06:45:31+08:00"
+      },
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "b3701a1b653f0a3b",
+      "title": "Photo Scrubber — local face blur & metadata removal",
+      "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber",
+      "summary": "Tool: Photo Scrubber — local face blur & metadata removal I took a photograph of some protesters, then thought about how I don't like sharing photographs of strangers with identifiable faces. I had GPT-6 Astra build this experimental tool t…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T24:45:27+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 0,
+      "score": 33,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "20b52029e3604190",
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "summary": "Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.c…",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T01:37:40+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launch",
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 33,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
       "id": "bc2b14b9878dcb37",
@@ -528,7 +1290,8 @@
       "confidence": 0.33,
       "score": 31,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
       "id": "52887c417cd928ca",
@@ -551,7 +1314,58 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "17b1d5aeb7d4ff37",
+      "title": "Preorder for new AMD Ryzen™ AI Max 400 Series 192GB from framework just started",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wue339/preorder_for_new_amd_ryzen_ai_max_400_series",
+      "summary": "Framework Desktop Framework Desktop DIY Edition (AMD Ryzen™ AI Max 400 Series) 192GB submitted by /u/Educational_Sun_8813 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T03:19:05+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "series"
+      ],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "39531be2aa594889",
+      "title": "Qwen3.8-27B-pi: Effort-Ordered Reasoning for Agentic Coding",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wufzrh/qwen3827bpi_effortordered_reasoning_for_agentic",
+      "summary": "submitted by /u/paf1138 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T04:32:41+08:00",
+      "fetchedAt": "2026-10-01T06:45:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-01T06:45:32+08:00"
     }
   ],
   "topic": "ai"
