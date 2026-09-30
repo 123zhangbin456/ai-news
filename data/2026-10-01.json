@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "updatedAt": "2026-09-30T23:59:41+08:00",
+  "updatedAt": "2026-10-01T02:13:54+08:00",
   "items": [
     {
       "id": "023881b9ea060b88",
@@ -36,6 +36,42 @@
         ],
         "detail": "DeepSeek 在 InfoQ 中国发布消息，宣布开源一批面向昇腾平台的基础设施组件，涵盖 TileLang、计算库以及分布式通信库。这些组件属于 AI 开发的底层工具，开源后开发者可以直接使用，有助于在国产算力平台上更高效地构建和训练模型。",
         "generatedAt": "2026-09-30T23:59:29+08:00"
+      }
+    },
+    {
+      "id": "a993d027af6ab3cc",
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food",
+      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T24:00:24+08:00",
+      "fetchedAt": "2026-10-01T02:13:33+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launches"
+      ],
+      "confidence": 1,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DoorDash 推出可发短信点餐的 AI 助手",
+        "takeaway": "DoorDash 上线短信点餐 AI 代理，意在拉开与 Uber Eats、Grubhub 的竞争差距。",
+        "bullets": [
+          "用户可通过短信与 AI 代理对话完成点餐",
+          "目标是在外卖竞争中领先 Uber Eats 和 Grubhub",
+          "这是 DoorDash 在 AI 点餐领域的最新动作"
+        ],
+        "detail": "DoorDash 推出了一款 AI 代理，用户发短信就能下单点餐。此举被视为其对抗 Uber Eats 和 Grubhub 的差异化手段，希望用更自然的对话方式简化点餐流程。",
+        "generatedAt": "2026-10-01T02:13:47+08:00"
       }
     },
     {
@@ -112,6 +148,254 @@
       }
     },
     {
+      "id": "81eaed43ffddf7df",
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission",
+      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T24:24:23+08:00",
+      "fetchedAt": "2026-10-01T02:13:33+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta否认Muse AI未经许可读取用户私信",
+        "takeaway": "Meta反驳记者说法，称Muse AI无权限读取私信，除非用户明确授权。",
+        "bullets": [
+          "记者称Mac设置关闭时Muse仍读取私信",
+          "Meta回应：无明确许可无法访问Messages",
+          "争议焦点是AI代理的隐私边界"
+        ],
+        "detail": "Meta否认其Muse AI代理能在未经明确许可下读取用户私信，反驳一名记者称在Mac相关设置关闭时私信仍被读取的说法。双方各执一词，事件引发对AI助手隐私权限的关注。",
+        "generatedAt": "2026-10-01T02:13:47+08:00"
+      }
+    },
+    {
+      "id": "6860a783c56445b7",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots",
+      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T01:45:00+08:00",
+      "fetchedAt": "2026-10-01T02:13:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Reddit 关停 RSS 并终止公开 API，剑指 AI 爬虫",
+        "takeaway": "Reddit 进一步收紧内容访问，RSS 和公开 API 都将关闭，以应对 AI 机器人抓取。",
+        "bullets": [
+          "Reddit 将停止支持 RSS 订阅源，用户无法再通过阅读器追更。",
+          "公开 API 访问也将终止，第三方开发者与 AI 公司受影响。",
+          "官方称此举是为应对 AI 机器人抓取用户生成内容。"
+        ],
+        "detail": "Reddit 宣布将停止支持 RSS 订阅，并终止公开 API 访问。这是该公司持续收紧其用户生成内容访问权限的最新动作，官方给出的理由是应对 AI 机器人抓取。",
+        "generatedAt": "2026-10-01T02:13:48+08:00"
+      }
+    },
+    {
+      "id": "4c63e38991213f5e",
+      "title": "The ugly economics of consumer AI",
+      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai",
+      "summary": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T01:24:45+08:00",
+      "fetchedAt": "2026-10-01T02:13:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "消费级 AI 的糟糕经济学：前沿实验室为何望而却步",
+        "takeaway": "前沿 AI 实验室对消费级产品态度转冷，核心原因是经济账算不过来，而非技术不行。",
+        "bullets": [
+          "前沿实验室对消费级 AI 变得谨慎，不再激进投入。",
+          "原因不是技术不够好，而是商业模式难以盈利。",
+          "消费级 AI 成本高、付费意愿低，经济性差。"
+        ],
+        "detail": "前沿 AI 实验室对消费级产品越来越谨慎，原因并非技术不成熟，而是经济账算不过来。消费级 AI 往往需要高昂的算力成本，但用户付费意愿低，导致难以盈利。这种糟糕的经济性让实验室们不敢轻易押注。",
+        "generatedAt": "2026-10-01T02:13:50+08:00"
+      }
+    },
+    {
+      "id": "83b9f21e0684de04",
+      "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
+      "url": "https://theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T01:15:49+08:00",
+      "fetchedAt": "2026-10-01T02:13:33+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "特朗普新 AI 安全计划出炉，业界大佬怎么看",
+        "takeaway": "特朗普与科技巨头餐叙后回应 AI 安全计划，业界领袖反应不一，政策走向受关注。",
+        "bullets": [
+          "特朗普周二与大型科技公司领袖共进晚餐",
+          "餐后回应记者关于 AI 安全声明的提问",
+          "他重提此前对 AI 安全担忧的说法",
+          "业界领袖对计划看法存在分歧"
+        ],
+        "detail": "特朗普总统周二与大型科技公司领袖共进晚餐后，就自己的人工智能声明回答记者提问。他延续一贯风格，重提此前关于 AI 安全担忧的言论。AI 领袖们对此新安全计划看法不一，引发关注。",
+        "generatedAt": "2026-10-01T02:13:50+08:00"
+      }
+    },
+    {
+      "id": "10fc1037766425d2",
+      "title": "Google's early attempt to pay websites for AI answers is struggling",
+      "url": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny",
+      "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T24:03:48+08:00",
+      "fetchedAt": "2026-10-01T02:13:33+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "advertising"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌为AI答案付费给网站，效果不佳",
+        "takeaway": "谷歌尝试向网站支付AI答案费用，但多数网站仅获得广告收入的千分之一，模式遇冷。",
+        "bullets": [
+          "谷歌向部分网站付费，以换取内容用于AI答案。",
+          "许多网站从AI支付中获得的收入仅占广告收入的0.1%。",
+          "这一早期尝试表明，为AI内容付费的模式仍面临挑战。"
+        ],
+        "detail": "谷歌正在尝试向网站付费，以便在AI生成的答案中使用其内容。然而，许多参与网站发现，来自AI支付的收入仅占其广告总收入的0.1%，即千分之一。这一早期努力显示，为AI答案付费的模式尚未给网站带来显著收益。",
+        "generatedAt": "2026-10-01T02:13:51+08:00"
+      }
+    },
+    {
+      "id": "0c22122708a5b6b7",
+      "title": "How smart is the IQ3 family of Qwen 3.8 Flash Next for coding tasks?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wuark9/how_smart_is_the_iq3_family_of_qwen_38_flash_next",
+      "summary": "I've been closely following the rise of the Strata inference engine and as someone with 28GB VRAM and 32GB RAM I'm itching to buy 32GB more RAM just to use Flash Next. But of course before I make such a financial commitment as a member of t…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T01:15:07+08:00",
+      "fetchedAt": "2026-10-01T02:13:33+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 Flash Next 的 IQ3 量化版编程能力如何？",
+        "takeaway": "用户关注 IQ3 量化版 Qwen 3.8 Flash Next 在编程任务上的表现，考虑升级内存来本地运行。",
+        "bullets": [
+          "讨论聚焦 Qwen 3.8 Flash Next 的 IQ3 量化版本",
+          "发帖人拥有 28GB 显存和 32GB 内存，考虑加购内存",
+          "目的是本地运行 Flash Next，关注其编程智能水平"
+        ],
+        "detail": "有用户在 LocalLLaMA 社区提问，想了解 Qwen 3.8 Flash Next 的 IQ3 量化系列在编程任务上到底有多聪明。他一直在关注 Strata 推理引擎的崛起，自己现有 28GB 显存和 32GB 内存，正犹豫是否再买 32GB 内存来跑 Flash Next，但希望先确认实际编程能力再决定投入。",
+        "generatedAt": "2026-10-01T02:13:51+08:00"
+      }
+    },
+    {
+      "id": "67ceb7603dbd544a",
+      "title": "We just open-sourced the world's fastest WebGPU kernels for local AI on Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wu8tpg/we_just_opensourced_the_worlds_fastest_webgpu",
+      "summary": "The collection includes kernels for more than 200 common ML operations, all of which can run entirely locally in your browser on WebGPU. We're also working to upstream these optimizations to Transformers.js, ONNX Runtime Web, LiteRT.js, and…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T24:02:55+08:00",
+      "fetchedAt": "2026-10-01T02:13:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "WebGPU 最快本地 AI 内核开源，覆盖 200+ 算子",
+        "takeaway": "一套可在浏览器本地运行的 WebGPU 内核开源，覆盖 200 多种机器学习算子，并计划并入主流推理框架。",
+        "bullets": [
+          "开源方称其为全球最快的 WebGPU 本地 AI 内核",
+          "覆盖 200 多种常见机器学习算子",
+          "全部可在浏览器内通过 WebGPU 本地运行",
+          "正推进合并进 Transformers.js 等框架"
+        ],
+        "detail": "该项目在 Hugging Face 上开源了一套 WebGPU 内核，号称是目前本地 AI 场景下最快的，包含 200 多个常见机器学习算子，全部能在浏览器里借助 WebGPU 本地运行。团队还在把这些优化合并进 Transformers.js、ONNX Runtime Web、LiteRT.js 等主流 Web 推理",
+        "generatedAt": "2026-10-01T02:13:53+08:00"
+      }
+    },
+    {
       "id": "63a8a7b8199e0337",
       "title": "GitLab Duo 通过微软 Foundry 扩展自托管 AI 选项",
       "url": "https://infoq.cn/article/cA9rSEGKphbJHIiTQKMv",
@@ -179,6 +463,93 @@
       ],
       "confidence": 1,
       "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6e09871a81c2ebab",
+      "title": "Update: Yandex/AliceAI 80B-A3B fine tune progress",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wu9ksu/update_yandexaliceai_80ba3b_fine_tune_progress",
+      "summary": "loss curve (taken from the last micro of every step, to explain the variation) some help from gemini 3.8 flash high About 40% of the way done with the initial fine tune. The loss is so spiky because I accidentally used the last loss of each…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T24:30:59+08:00",
+      "fetchedAt": "2026-10-01T02:13:33+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "update"
+      ],
+      "confidence": 0.5,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Yandex/AliceAI 80B-A3B 微调进度更新：约完成 40%",
+        "takeaway": "一位开发者分享 Yandex/AliceAI 80B-A3B 模型的微调进展，目前完成约四成，损失曲线波动较大。",
+        "bullets": [
+          "微调对象是 Yandex/AliceAI 80B-A3B 模型",
+          "初始微调已完成约 40%",
+          "损失曲线波动大，因误用了每步最后一次损失值",
+          "过程中借助了 Gemini 3.8 Flash High 的协助"
+        ],
+        "detail": "该开发者正在对 Yandex/AliceAI 80B-A3B 进行微调，目前初始阶段完成约 40%。损失曲线之所以呈尖峰状，是因为误取了每步最后一次的损失值，而非平均值。过程中还得到了 Gemini 3.8 Flash High 的一些帮助。",
+        "generatedAt": "2026-10-01T02:13:54+08:00"
+      }
+    },
+    {
+      "id": "bc2b14b9878dcb37",
+      "title": "中国 AI 智能体也会撒谎和欺骗",
+      "url": "https://solidot.org/story?sid=85508",
+      "summary": "和美国 AI 模型一样，中国公司的 AI 智能体也会撒谎和欺骗。在今年 3 月进行的一次商业招标实验中， 北航、北大、宁波诺丁汉和 360 AI 安全实验室的研究人员让多个智能体参与模拟客户合同的竞标，每个智能体都被告知其产品的功能及客户的需求，随后被要求进行报价。阿里巴巴 Qwen3-Max-Preview 模型 88% 的会话至少出现一次虚假陈述，DeepSeek-V3.2-Exp 模型的比例为 84%，月之暗面 Kimi-K2 模型为 88%。研究人员允许智能体在再次尝…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T24:23:18+08:00",
+      "fetchedAt": "2026-10-01T02:13:33+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "产品",
+        "功能",
+        "客户"
+      ],
+      "confidence": 0.33,
+      "score": 31,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "52887c417cd928ca",
+      "title": "i would like to learn deeply about fine-tuning local models before burning money",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wu9zkn/i_would_like_to_learn_deeply_about_finetuning",
+      "summary": "There's so many new techniques like RL, RL LoRA, QLoRA, CPT LoRA. I believe i would have a usecase for them, but i don't know where to learn, youtube is filled with bad quality tutorials if i just search and the good channels (fireship, byc…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T24:46:27+08:00",
+      "fetchedAt": "2026-10-01T02:13:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
       "related": [],
       "pushed": false
     }

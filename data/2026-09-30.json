@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "updatedAt": "2026-09-30T23:59:41+08:00",
+  "updatedAt": "2026-10-01T02:13:54+08:00",
   "items": [
     {
       "id": "0399f6c76448ab05",
@@ -1563,6 +1563,40 @@
       }
     },
     {
+      "id": "6a91381a429232e7",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T18:30:00+08:00",
+      "fetchedAt": "2026-10-01T02:13:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 挫败模型蒸馏攻击，强化防御",
+        "takeaway": "OpenAI 披露其阻止了一场有组织的模型蒸馏活动，并升级了对抗性蒸馏的防御措施。",
+        "bullets": [
+          "OpenAI 发现并阻断了一场有组织的模型蒸馏攻击。",
+          "攻击目标为提取受保护的模型推理过程。",
+          "OpenAI 正在加强防御以应对对抗性蒸馏。"
+        ],
+        "detail": "OpenAI 表示，他们成功阻止了一场有协调的模型蒸馏活动，该活动试图提取其受保护的模型推理数据。OpenAI 正在加强防御措施，以应对这类对抗性蒸馏行为。",
+        "generatedAt": "2026-10-01T02:13:47+08:00"
+      }
+    },
+    {
       "id": "3d2edd3f73bd79b4",
       "title": "我们让 GPT‑6 Astra、Fable 5.1 和 Sol 控制同一台机器人：谁真的把活干完了？",
       "url": "https://leiphone.com/category/yanxishe/hfRMbwkVyjskWX3a.html",
@@ -2921,6 +2955,42 @@
       "score": 40,
       "related": [],
       "pushed": false
+    },
+    {
+      "id": "7abd4d2d77e4231c",
+      "title": "Google figures out how to watermark AI-designed proteins",
+      "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins",
+      "summary": "Intended to help with biosecurity, it works with a popular AI protein design tool.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T23:54:52+08:00",
+      "fetchedAt": "2026-10-01T02:13:33+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tool"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌为AI设计的蛋白质添加水印，助力生物安全",
+        "takeaway": "谷歌开发出为AI生成的蛋白质添加水印的方法，旨在提升生物安全，防止滥用。",
+        "bullets": [
+          "水印技术针对流行的AI蛋白质设计工具",
+          "目的是帮助生物安全，追踪AI设计的蛋白质",
+          "可能影响AI在生物领域的应用与监管"
+        ],
+        "detail": "谷歌找到了一种为AI设计的蛋白质添加水印的方法，该技术适用于一款流行的AI蛋白质设计工具。此举旨在加强生物安全，防止AI生成的蛋白质被滥用。",
+        "generatedAt": "2026-10-01T02:13:51+08:00"
+      }
     },
     {
       "id": "71bfd583de5c21b7",
@@ -4923,6 +4993,84 @@
       ],
       "confidence": 1,
       "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0bb0c79ded0c2c93",
+      "title": "SCOUT: Synergizing Reasoning and Tool-Use for Computer-Use Safety",
+      "url": "https://arxiv.org/abs/2609.36201",
+      "summary": "arXiv:2609.36201v1 Announce Type: cross Abstract: Computer-use agents (CUAs), while capable of completing computer tasks in everyday and professional workflows, can cause unintended harm even under benign instructions and environments. Howe…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T02:13:33+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 20,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e10f02ca41f5fc4a",
+      "title": "Paired Multimodal Scaling Laws",
+      "url": "https://arxiv.org/abs/2609.36263",
+      "summary": "arXiv:2609.36263v1 Announce Type: cross Abstract: Existing multimodal scaling laws fit multimodality terms empirically after testing and never vary how much data is multimodally paired at fixed data budgets. We investigate how, under the sa…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T02:13:33+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 20,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b7d39448eaa94862",
+      "title": "Lucid Dreaming for World Models: Learning to Doubt Imagination and Decide by Trust",
+      "url": "https://arxiv.org/abs/2609.37156",
+      "summary": "arXiv:2609.37156v1 Announce Type: cross Abstract: World models enable agents to learn and plan in imagination, but predictions beyond their experience can become unreliable and mislead decisions. Existing uncertainty estimates derived from …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T02:13:33+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 20,
       "paperRank": 11,
       "related": [],
       "pushed": false
