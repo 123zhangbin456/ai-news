@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "updatedAt": "2026-09-30T08:50:06+08:00",
+  "updatedAt": "2026-09-30T09:23:13+08:00",
   "items": [
     {
       "id": "0399f6c76448ab05",
@@ -713,6 +713,43 @@
         "generatedAt": "2026-09-30T06:46:57+08:00"
       },
       "pushedAt": "2026-09-30T06:47:00+08:00"
+    },
+    {
+      "id": "e57a9bcca7dc2b2a",
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "url": "https://theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T08:19:13+08:00",
+      "fetchedAt": "2026-09-30T09:23:04+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "says"
+      ],
+      "confidence": 0.33,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "奥特曼称 OpenAI 上市要等模型安全达标",
+        "takeaway": "奥特曼明确 OpenAI 暂不上市，前提是能对模型安全做出更好承诺，且无时间表。",
+        "bullets": [
+          "奥特曼表示 OpenAI 不会在模型安全达标前上市",
+          "公司将继续推进 AI 进展，但安全是前提",
+          "目前没有明确的上市时间表"
+        ],
+        "detail": "外界一直猜测 OpenAI 何时上市，CEO 奥特曼回应称，在能对模型安全做出更好承诺之前不会上市，也没有给出具体时间。他强调会继续推动 AI 进步，但安全是前提。",
+        "generatedAt": "2026-09-30T09:23:13+08:00"
+      }
     },
     {
       "id": "3acd836ae8508214",
@@ -1533,6 +1570,43 @@
         "generatedAt": "2026-09-30T02:24:18+08:00"
       },
       "pushedAt": "2026-09-30T06:47:00+08:00"
+    },
+    {
+      "id": "d2a7fe66d75ad185",
+      "title": "Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响",
+      "url": "https://infoq.cn/article/dbOwzu6l6Tr8NAhCQRC8",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-09-30T17:00:00+08:00",
+      "fetchedAt": "2026-09-30T09:23:04+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "集群"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Uber 重构 M3DB 分片策略，用子集群降低故障影响",
+        "takeaway": "Uber 为 M3DB 引入子集群分片设计，让故障影响范围更可控，值得大规模时序存储团队参考。",
+        "bullets": [
+          "Uber 重新设计了 M3DB 的分片策略",
+          "引入子集群概念来隔离故障影响",
+          "目标是降低单点故障对整体服务的影响",
+          "对大规模时序数据库运维有借鉴意义"
+        ],
+        "detail": "Uber 对其时序数据库 M3DB 的分片方式做了重新设计，核心是引入子集群结构。这样当某个分片或节点出问题时，故障不会扩散到整个集群，影响范围被限制在更小的单元内。",
+        "generatedAt": "2026-09-30T09:23:13+08:00"
+      }
     },
     {
       "id": "76e993b9ee0a71a8",
