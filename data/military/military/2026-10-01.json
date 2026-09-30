@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "updatedAt": "2026-10-01T02:25:21+08:00",
+  "updatedAt": "2026-10-01T06:58:40+08:00",
   "items": [
     {
       "id": "c5f88ba9e376703e",
@@ -26,7 +26,7 @@
       "confidence": 0.44,
       "score": 56,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "美海军陆战队参加北约演习，罕见登陆偏远北极岛屿",
         "takeaway": "美海军陆战队参与北约在偏远北极岛屿的演习，反映北约对俄威胁下加强北极存在的动向。",
@@ -37,7 +37,8 @@
         ],
         "detail": "美国海军陆战队参加了北约在偏远北极岛屿举行的一场演习。此次演习名为“大西洋城行动”，在北约因担忧俄罗斯而日益关注北极地区的背景下进行。",
         "generatedAt": "2026-10-01T24:58:54+08:00"
-      }
+      },
+      "pushedAt": "2026-10-01T06:58:40+08:00"
     },
     {
       "id": "ac1fd16b4c6ecd15",
@@ -62,7 +63,7 @@
       "confidence": 1,
       "score": 51,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "美陆军选定五家企业研发PrSM远程导弹原型",
         "takeaway": "美陆军与安杜里尔、洛克希德·马丁等五家公司签约，加速研发下一代远程精确打击导弹原型。",
@@ -73,7 +74,43 @@
         ],
         "detail": "美国陆军周二与安杜里尔、Castelion、洛克希德·马丁、Mach Industries和RTX签署协议，要求它们研制先进的远程导弹原型。此举属于精确打击导弹（PrSM）项目的一部分，旨在通过多家竞争加速新一代远程火力研发。",
         "generatedAt": "2026-10-01T24:58:54+08:00"
-      }
+      },
+      "pushedAt": "2026-10-01T06:58:40+08:00"
+    },
+    {
+      "id": "974c4c0203744ab6",
+      "title": "US Air Force awards $2.38B contract to Boeing for 22 F-15EX",
+      "url": "https://defensenews.com/industry/techwatch/2026/09/30/us-air-force-awards-238b-contract-to-boeing-for-22-f-15ex",
+      "summary": "The service awarded Boeing a contract for 22 more F-15EX aircraft, bringing the number to a total of 120 to be manufactured by the defense company.",
+      "source": {
+        "id": "defensenews",
+        "name": "Defense News",
+        "weight": 5,
+        "type": "topic"
+      },
+      "lang": "en",
+      "domain": "military",
+      "topic": "military",
+      "publishedAt": "2026-10-01T03:21:14+08:00",
+      "fetchedAt": "2026-10-01T06:58:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "美空军向波音授予23.8亿美元合同，增购22架F-15EX",
+        "takeaway": "美空军增购22架F-15EX，总订单达120架，波音继续生产这款非隐身战机。",
+        "bullets": [
+          "合同价值23.8亿美元，涉及22架F-15EX",
+          "美空军F-15EX总采购量增至120架",
+          "波音负责制造，交付时间未披露"
+        ],
+        "detail": "美国空军与波音签署价值23.8亿美元的合同，增购22架F-15EX战斗机。至此，波音为美空军制造的F-15EX总数达到120架。该机型用于替换老化的F-15C/D机队。",
+        "generatedAt": "2026-10-01T06:58:36+08:00"
+      },
+      "pushedAt": "2026-10-01T06:58:40+08:00"
     },
     {
       "id": "12811fbc448f91f1",
@@ -99,7 +136,7 @@
       "confidence": 0.57,
       "score": 49,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "乌克兰F-16机队陷入战备危机，过半战机停飞",
         "takeaway": "乌克兰F-16机队战备告急，超半数停飞，西方空空导弹库存也见底，影响其防空能力。",
@@ -110,7 +147,8 @@
         ],
         "detail": "据The War Zone报道，随着战事持续，乌克兰的F-16机队中超过一半的战机因老化问题被迫停飞。同时，西方提供的空对空导弹库存也在减少，进一步加剧了乌军空中作战的困难。",
         "generatedAt": "2026-10-01T02:25:21+08:00"
-      }
+      },
+      "pushedAt": "2026-10-01T06:58:40+08:00"
     },
     {
       "id": "f15a2edb20bdbea8",
@@ -135,7 +173,7 @@
       "confidence": 1,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "美航母杜鲁门号将进行51亿美元中期大修",
         "takeaway": "美国海军杜鲁门号航母将耗资51亿美元中期大修，以延长服役寿命，凸显航母维护成本高昂。",
@@ -146,7 +184,154 @@
         ],
         "detail": "美国海军杜鲁门号航母计划进行耗资51亿美元的中期大修，包括更换核燃料和全面升级，使其能够继续服役后半程。这是美航母维持舰队规模的必要投入。",
         "generatedAt": "2026-10-01T24:58:56+08:00"
-      }
+      },
+      "pushedAt": "2026-10-01T06:58:40+08:00"
+    },
+    {
+      "id": "0e532669df62d9bf",
+      "title": "White House nominates next general to helm US Space Command",
+      "url": "https://defensenews.com/news/pentagon-congress/2026/09/30/white-house-nominates-next-general-to-helm-us-space-command",
+      "summary": "If confirmed, Lt. Gen. David N. Miller Jr. would take over command from Gen. Stephen Whiting after his upcoming retirement.",
+      "source": {
+        "id": "defensenews",
+        "name": "Defense News",
+        "weight": 5,
+        "type": "topic"
+      },
+      "lang": "en",
+      "domain": "military",
+      "topic": "military",
+      "publishedAt": "2026-10-01T02:49:06+08:00",
+      "fetchedAt": "2026-10-01T06:58:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 44,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "白宫提名米勒中将出任美太空司令部司令",
+        "takeaway": "白宫提名小戴维·N·米勒中将接掌美国太空司令部，接替即将退休的斯蒂芬·怀廷上将。",
+        "bullets": [
+          "白宫提名小戴维·N·米勒中将领导美国太空司令部",
+          "米勒将接替即将退休的斯蒂芬·怀廷上将",
+          "提名需经参议院确认，反映美持续强化太空军事力量"
+        ],
+        "detail": "白宫已提名小戴维·N·米勒中将出任美国太空司令部下一任司令。若获参议院确认，他将接替即将退休的斯蒂芬·怀廷上将，执掌这一负责美军太空作战的关键联合司令部。",
+        "generatedAt": "2026-10-01T06:58:36+08:00"
+      },
+      "pushedAt": "2026-10-01T06:58:40+08:00"
+    },
+    {
+      "id": "21f2e9cc3e0f28a4",
+      "title": "Where Are The Aircraft Carriers?: September 30, 2026",
+      "url": "https://twz.com/sea/where-are-the-aircraft-carriers-september-30-2026",
+      "summary": "The five-ship Theodore Roosevelt Carrier Strike Group and three-ship Makin Island Amphibious Ready Group deploy back-to-back from the West Coast. The post Where Are The Aircraft Carriers?: September 30, 2026 appeared first on TWZ .",
+      "source": {
+        "id": "thewarzone",
+        "name": "The War Zone",
+        "weight": 4,
+        "type": "topic"
+      },
+      "lang": "en",
+      "domain": "military",
+      "topic": "military",
+      "publishedAt": "2026-10-01T04:19:46+08:00",
+      "fetchedAt": "2026-10-01T06:58:33+08:00",
+      "category": "装备动态",
+      "keywords": [
+        "carrier"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "西海岸双编队接连出动：航母打击群与两栖戒备群同期部署",
+        "takeaway": "美国西海岸五舰航母打击群与三舰两栖戒备群背靠背部署，或反映全球兵力调度趋紧。",
+        "bullets": [
+          "罗斯福号航母打击群共5艘舰艇从西海岸出发",
+          "马金岛号两栖戒备群3艘舰艇紧随其后部署",
+          "两编队连续出动，或与全球航母部署空窗有关"
+        ],
+        "detail": "据The War Zone报道，由5艘舰艇组成的西奥多·罗斯福号航母打击群，与由3艘舰艇组成的马金岛号两栖戒备群，从美国西海岸背靠背相继部署。两栖戒备群通常搭载海军陆战队并具备航空作战能力，此次连续出动值得关注。",
+        "generatedAt": "2026-10-01T06:58:37+08:00"
+      },
+      "pushedAt": "2026-10-01T06:58:40+08:00"
+    },
+    {
+      "id": "8010d293787a1945",
+      "title": "Defense Business Brief: End-of-fiscal-year advice for founders; Navy drone boats; Powerus to go public",
+      "url": "https://defenseone.com/business/2026/09/defense-business-brief-end-fiscal-year-advice-founders-navy-drone-boats-powerus-go-public/416357",
+      "summary": "WASHINGTON&mdash; The Pentagon&rsquo;s comptroller has a bit of advice for tech makers and founders who want to do business with the military: Make tech that troops like, find out who can buy it for them, and hire someone who knows how thin…",
+      "source": {
+        "id": "defense-one",
+        "name": "Defense One",
+        "weight": 4,
+        "type": "topic"
+      },
+      "lang": "en",
+      "domain": "military",
+      "topic": "military",
+      "publishedAt": "2026-10-01T06:21:03+08:00",
+      "fetchedAt": "2026-10-01T06:58:33+08:00",
+      "category": "装备动态",
+      "keywords": [
+        "drone"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "美防务简报：财年末建议、海军无人艇与Powerus上市",
+        "takeaway": "美国防部财年末向科技创业者提建议，海军推进无人艇，Powerus拟上市，反映美军采购与装备动态。",
+        "bullets": [
+          "美防长财年末建议创业者：做士兵爱用的技术，找准采购方，雇懂行的人",
+          "美海军持续发展无人艇，作为装备动态的一部分",
+          "Powerus公司计划公开上市，进入资本市场"
+        ],
+        "detail": "美国防部主计长在财年末给科技创业者的建议是：开发士兵真正喜欢的技术，找到能为其采购的部门，并聘请了解国防采购流程的人。同期简报还提到美海军无人艇项目，以及Powerus公司计划上市。",
+        "generatedAt": "2026-10-01T06:58:38+08:00"
+      },
+      "pushedAt": "2026-10-01T06:58:40+08:00"
+    },
+    {
+      "id": "d697b6dfa5465e01",
+      "title": "F-15EX May Finally Get Missile Warning System The USAF Originally Skimped On Buying",
+      "url": "https://twz.com/air/f-15exs-may-finally-get-missile-warning-systems-the-usaf-originally-skimped-on-buying",
+      "summary": "The F-15EX is designed to host a system to optically spot incoming missiles and its omission from USAF jets has become increasingly glaring. The post F-15EX May Finally Get Missile Warning System The USAF Originally Skimped On Buying appear…",
+      "source": {
+        "id": "thewarzone",
+        "name": "The War Zone",
+        "weight": 4,
+        "type": "topic"
+      },
+      "lang": "en",
+      "domain": "military",
+      "topic": "military",
+      "publishedAt": "2026-10-01T03:14:53+08:00",
+      "fetchedAt": "2026-10-01T06:58:33+08:00",
+      "category": "装备动态",
+      "keywords": [
+        "missile"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "F-15EX或补装导弹预警系统，美空军曾为省钱省去",
+        "takeaway": "美空军F-15EX可能加装光学导弹预警系统，此前为节省成本未采购，如今缺失愈发突出。",
+        "bullets": [
+          "F-15EX设计上预留了光学导弹预警系统接口",
+          "美空军最初为省钱未采购该关键自卫设备",
+          "缺失问题日益明显，可能推动补装"
+        ],
+        "detail": "F-15EX设计时本就预留了用光学传感器探测来袭导弹的系统位置，但美空军最初为控制成本没有采购。随着该机型服役推进，这一自卫能力缺口越来越受关注，如今可能终于要补上。",
+        "generatedAt": "2026-10-01T06:58:38+08:00"
+      },
+      "pushedAt": "2026-10-01T06:58:40+08:00"
     }
   ],
   "topic": "military"
