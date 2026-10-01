@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "updatedAt": "2026-10-02T02:50:14+08:00",
+  "updatedAt": "2026-10-02T07:08:12+08:00",
   "items": [
     {
       "id": "d6eddb64e45b9be6",
@@ -23,7 +23,7 @@
       "confidence": 0,
       "score": 59,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "美国用常规爆破模拟地下核爆，针对所谓中国秘密核试验",
         "takeaway": "美方以常规炸药模拟“解耦”核爆，旨在提升探测他国地下核试验的能力，矛头指向中国。",
@@ -34,7 +34,45 @@
         ],
         "detail": "美国进行了一次常规爆破实验，在隧道中模拟“解耦”核爆炸的地震特征。此举意在帮助美国更好地探测其指称的中国秘密核试验。所谓“解耦”是指通过大空腔降低核爆地震信号，以躲避监测。",
         "generatedAt": "2026-10-02T02:50:11+08:00"
-      }
+      },
+      "pushedAt": "2026-10-02T07:08:12+08:00"
+    },
+    {
+      "id": "25d74ecbab59f15b",
+      "title": "Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskyy says",
+      "url": "https://defensenews.com/industry/techwatch/2026/10/01/ukraine-deploys-fp-7-tactical-ballistic-missile-in-combat-for-first-time-zelenskyy-says",
+      "summary": "Ukraine has deployed its FP-7 tactical ballistic missile in combat for the first time, President Volodymyr Zelenskyy said on Thursday.",
+      "source": {
+        "id": "defensenews",
+        "name": "Defense News",
+        "weight": 5,
+        "type": "topic"
+      },
+      "lang": "en",
+      "domain": "military",
+      "topic": "military",
+      "publishedAt": "2026-10-02T03:54:35+08:00",
+      "fetchedAt": "2026-10-02T07:08:06+08:00",
+      "category": "国际冲突",
+      "keywords": [
+        "Ukraine"
+      ],
+      "confidence": 0.2,
+      "score": 57,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "泽连斯基称乌克兰首次实战使用FP-7战术弹道导弹",
+        "takeaway": "乌克兰总统泽连斯基宣布，乌军首次在实战中动用国产FP-7战术弹道导弹，标志其远程打击能力有所提升。",
+        "bullets": [
+          "泽连斯基周四宣布FP-7战术弹道导弹首次投入实战",
+          "该导弹为乌克兰国产，具体打击目标与战果未披露",
+          "此举或增强乌军对俄后方目标的远程打击手段"
+        ],
+        "detail": "泽连斯基周四表示，乌克兰已首次在战斗中使用FP-7战术弹道导弹。该导弹为乌国产装备，但官方未透露具体打击地点、目标及效果。此次实战部署意味着乌军远程火力选项进一步扩展。",
+        "generatedAt": "2026-10-02T07:08:09+08:00"
+      },
+      "pushedAt": "2026-10-02T07:08:12+08:00"
     },
     {
       "id": "c214005a80ef61e2",
@@ -57,7 +95,7 @@
       "confidence": 0,
       "score": 55,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "波音获美空军8500万美元合同，增购4架MH-139A灰狼直升机",
         "takeaway": "美空军向波音授予约8500万美元合同，采购4架MH-139A灰狼直升机，其中首架为全速生产型，标志着该项目进入新阶段。",
@@ -68,7 +106,117 @@
         ],
         "detail": "美国空军授予波音一份约8500万美元的合同，增购4架MH-139A灰狼直升机，其中第一架为全速生产型。该机型将逐步替换现役UH-1N休伊直升机，承担核导弹基地巡逻与运输等任务。",
         "generatedAt": "2026-10-02T02:50:10+08:00"
-      }
+      },
+      "pushedAt": "2026-10-02T07:08:12+08:00"
+    },
+    {
+      "id": "5037b3bfb2009fd2",
+      "title": "US Navy awards RTX’s Raytheon $24.4B for SM-6 missiles amid stockpile concerns",
+      "url": "https://defensenews.com/industry/techwatch/2026/10/01/us-navy-awards-rtxs-raytheon-244b-for-sm-6-missiles-amid-stockpile-concerns",
+      "summary": "The deal for the SM-6 interceptors comes as the Pentagon pushes to replenish munitions stockpiles depleted by conflicts in the Middle East.",
+      "source": {
+        "id": "defensenews",
+        "name": "Defense News",
+        "weight": 5,
+        "type": "topic"
+      },
+      "lang": "en",
+      "domain": "military",
+      "topic": "military",
+      "publishedAt": "2026-10-02T06:05:46+08:00",
+      "fetchedAt": "2026-10-02T07:08:06+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 55,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "美海军授予雷神244亿美元SM-6导弹合同，应对库存担忧",
+        "takeaway": "美国海军向RTX旗下雷神公司授予244亿美元合同，采购SM-6拦截导弹，以补充因中东冲突消耗的弹药库存。",
+        "bullets": [
+          "合同金额244亿美元，用于采购SM-6拦截导弹",
+          "背景是中东冲突导致美军弹药库存下降",
+          "五角大楼正推动补充武器储备"
+        ],
+        "detail": "美国海军与RTX旗下雷神公司签署价值244亿美元的合同，采购SM-6拦截导弹。此举正值五角大楼寻求补充因中东冲突而消耗的弹药库存。",
+        "generatedAt": "2026-10-02T07:08:09+08:00"
+      },
+      "pushedAt": "2026-10-02T07:08:12+08:00"
+    },
+    {
+      "id": "ce0bcbac7e3ea0c4",
+      "title": "Ukraine Claims First Combat Use Of FP-7 Ballistic Missile",
+      "url": "https://twz.com/news-features/ukraine-claims-first-combat-use-of-fp-7-ballistic-missile",
+      "summary": "The first combat use of FP-7 is a significant milestone in what has been a long road to developing an indigenous ballistic missile. The post Ukraine Claims First Combat Use Of FP-7 Ballistic Missile appeared first on TWZ .",
+      "source": {
+        "id": "thewarzone",
+        "name": "The War Zone",
+        "weight": 4,
+        "type": "topic"
+      },
+      "lang": "en",
+      "domain": "military",
+      "topic": "military",
+      "publishedAt": "2026-10-02T06:36:17+08:00",
+      "fetchedAt": "2026-10-02T07:08:06+08:00",
+      "category": "国际冲突",
+      "keywords": [
+        "Ukraine"
+      ],
+      "confidence": 0.2,
+      "score": 53,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "乌克兰宣称首次实战使用FP-7弹道导弹",
+        "takeaway": "乌克兰称首次在实战中使用国产FP-7弹道导弹，标志其自主导弹研发取得重要进展。",
+        "bullets": [
+          "乌克兰宣称首次实战使用FP-7弹道导弹",
+          "FP-7是乌克兰本土研发的弹道导弹",
+          "此举被视为乌自主导弹发展的里程碑"
+        ],
+        "detail": "乌克兰方面声称已首次在战斗中使用FP-7弹道导弹。该导弹是乌克兰自主研发的成果，其首次实战应用被视为该国在国产弹道导弹漫长研发道路上取得的重要里程碑。",
+        "generatedAt": "2026-10-02T07:08:09+08:00"
+      },
+      "pushedAt": "2026-10-02T07:08:12+08:00"
+    },
+    {
+      "id": "e539a2345d45e143",
+      "title": "Inside Ukraine’s First Combat Deployment Of Robotic Amphibious Vehicles",
+      "url": "https://twz.com/land/inside-ukraines-first-combat-deployment-of-robotic-amphibious-vehicles",
+      "summary": "The commander of a Ukrainian uncrewed ground vehicle unit gives us exclusive insights into how vehicles were designed or modified for amphibious combat operations. The post Inside Ukraine’s First Combat Deployment Of Robotic Amphibious Vehi…",
+      "source": {
+        "id": "thewarzone",
+        "name": "The War Zone",
+        "weight": 4,
+        "type": "topic"
+      },
+      "lang": "en",
+      "domain": "military",
+      "topic": "military",
+      "publishedAt": "2026-10-02T03:20:50+08:00",
+      "fetchedAt": "2026-10-02T07:08:06+08:00",
+      "category": "国际冲突",
+      "keywords": [
+        "Ukraine"
+      ],
+      "confidence": 0.2,
+      "score": 52,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "乌克兰首次实战部署机器人两栖战车",
+        "takeaway": "乌克兰无人地面车辆部队指挥官披露，其两栖战车首次投入实战，经专门设计或改装。",
+        "bullets": [
+          "乌克兰无人地面车辆部队指挥官披露首次实战部署细节。",
+          "战车为两栖作战专门设计或改装。",
+          "部署显示无人系统正拓展至两栖作战领域。"
+        ],
+        "detail": "乌克兰一支无人地面车辆部队的指挥官向《战区》提供了独家细节，说明这些车辆如何为两栖作战任务进行设计或改装。这是乌克兰首次在实战中部署机器人两栖战车。",
+        "generatedAt": "2026-10-02T07:08:11+08:00"
+      },
+      "pushedAt": "2026-10-02T07:08:12+08:00"
     },
     {
       "id": "9a765a3c3250b57a",
@@ -91,7 +239,7 @@
       "confidence": 0,
       "score": 48,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "法国海军集团签约仅一月即开工建造瑞典首艘FDI护卫舰",
         "takeaway": "瑞典向法国海军集团订购的FDI护卫舰首舰在洛里昂开工，距签约仅一个月，进度罕见。",
@@ -102,7 +250,8 @@
         ],
         "detail": "法国海军集团于2026年10月1日在洛里昂为瑞典皇家海军首艘FDI护卫舰“吕勒奥”号举行切割钢板仪式，此时距双方签订合同仅过去一个月。该舰属于法国新一代FDI多用途护卫舰，瑞典是这一型号的出口用户。",
         "generatedAt": "2026-10-02T02:50:12+08:00"
-      }
+      },
+      "pushedAt": "2026-10-02T07:08:12+08:00"
     },
     {
       "id": "bc359b8691ff7263",
@@ -127,7 +276,7 @@
       "confidence": 1,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "澳超级大黄蜂挂载AIM-260导弹曝光",
         "takeaway": "澳大利亚超级大黄蜂被拍到挂载秘密的AIM-260空空导弹，将显著提升其远程空战能力。",
@@ -138,7 +287,8 @@
         ],
         "detail": "美国《战区》网站报道，澳大利亚皇家空军的F/A-18F超级大黄蜂战斗机被拍到挂载了高度机密的AIM-260联合先进战术导弹（JATM）。这款导弹将大幅提升澳大利亚战机的超视距空战射程，尤其针对中国日益增长的远程空中威胁。",
         "generatedAt": "2026-10-02T02:50:13+08:00"
-      }
+      },
+      "pushedAt": "2026-10-02T07:08:12+08:00"
     }
   ],
   "topic": "military"
