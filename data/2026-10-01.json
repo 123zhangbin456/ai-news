@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "updatedAt": "2026-10-01T10:32:28+08:00",
+  "updatedAt": "2026-10-01T17:27:39+08:00",
   "items": [
     {
       "id": "5c1f615d64d23b47",
@@ -39,6 +39,45 @@
         "generatedAt": "2026-10-01T08:53:55+08:00"
       },
       "pushedAt": "2026-10-01T08:54:00+08:00"
+    },
+    {
+      "id": "6a65373fec4b1c93",
+      "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移",
+      "url": "https://infoq.cn/article/vVrSzjhEvkmpevS7wZzU",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T19:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "GPT",
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 63,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Gemini 4 Argon 发布，多项基测超越 GPT-6 Astra",
+        "takeaway": "谷歌新模型 Gemini 4 Argon 在多项基准测试中碾压 GPT-6 Astra，并已投入内部大规模代码迁移。",
+        "bullets": [
+          "Gemini 4 Argon 多项基准测试成绩超过 GPT-6 Astra",
+          "该模型已参与谷歌 80 万行内核代码迁移",
+          "模型发布来自 InfoQ 中国，具体细节待披露"
+        ],
+        "detail": "谷歌发布新一代模型 Gemini 4 Argon，在多项基础测试中成绩超过 GPT-6 Astra。该模型已实际用于谷歌内部 80 万行内核代码的迁移工作，显示出较强的代码处理能力。",
+        "generatedAt": "2026-10-01T17:27:33+08:00"
+      },
+      "pushedAt": "2026-10-01T17:27:39+08:00"
     },
     {
       "id": "023881b9ea060b88",
@@ -450,6 +489,40 @@
       }
     },
     {
+      "id": "40d0227cc46f3ca5",
+      "title": "腾讯经销、字节驻场、Kimi借船：FDE成了大模型的新成本？",
+      "url": "https://tmtpost.com/8157828.html",
+      "summary": "AI公司活成了它们最讨厌的样子。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T16:16:17+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "腾讯经销、字节驻场、Kimi借船：FDE成大模型新成本",
+        "takeaway": "大模型公司纷纷用FDE（前置交付工程师）换落地，人力成本正成为新负担。",
+        "bullets": [
+          "腾讯走经销、字节派人驻场、Kimi借合作方落地",
+          "FDE即前置交付工程师，帮客户把模型用起来",
+          "这类重人力模式推高成本，与AI公司初衷相悖"
+        ],
+        "detail": "钛媒体指出，大模型公司为让客户真正用上产品，不得不像传统软件商一样投入人力：腾讯靠经销商、字节派工程师驻场、Kimi借他人渠道。FDE（前置交付工程师）由此成为新成本项，AI公司活成了自己最讨厌的样子。",
+        "generatedAt": "2026-10-01T17:27:33+08:00"
+      }
+    },
+    {
       "id": "27a871214755fde3",
       "title": "谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX",
       "url": "https://infoq.cn/article/M6BRTrsyJvUg8y0M0kyh",
@@ -663,6 +736,80 @@
         "generatedAt": "2026-10-01T06:45:24+08:00"
       },
       "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "cdcf892df2a9554b",
+      "title": "DeepSeek harness 0.2 - Optional Bundle Architecture, Windows Sandbox improvements, Async Question Mode, Desktop release, Web Search without key",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wutkgt/deepseek_harness_02_optional_bundle_architecture",
+      "summary": "Optional Bundle architecture : Schedule (session-local delayed / timed / interval reminders) was removed from the default set and made an explicit Optional Bundle. This cleanly separates “installed” from “enabled” and is the first systemati…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T15:59:36+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek harness 0.2 发布：可选包架构与免密钥联网搜索",
+        "takeaway": "DeepSeek harness 迎来 0.2 版，重构可选包架构并新增桌面版、异步提问与免密钥搜索。",
+        "bullets": [
+          "Schedule 提醒功能从默认集移出，改为可选包，区分“已安装”与“已启用”",
+          "Windows 沙箱改进，新增异步提问模式",
+          "推出桌面版，并支持无需 API key 的联网搜索"
+        ],
+        "detail": "这次更新把定时提醒（Schedule）从默认功能里拆出来，变成需要手动启用的可选包，让“装了”和“开着”两件事分开。同时改进了 Windows 沙箱，加入异步提问模式，还发布了桌面版，并支持不用密钥就能联网搜索。",
+        "generatedAt": "2026-10-01T17:27:33+08:00"
+      }
+    },
+    {
+      "id": "d7e7597068b654a8",
+      "title": "Qwen Flash Next MTP work restarted",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wur4lt/qwen_flash_next_mtp_work_restarted",
+      "summary": "If you're using MTP with Qwen Flash Next and llama.cpp, you can switch to: quants: https://huggingface.co/ggml-org/Qwen3.8-Flash-Next-GGUF PR: https://github.com/ggml-org/llama.cpp/pull/29761 Please note that this is still wip submitted by …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T13:27:13+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 0.33,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen Flash Next 的 MTP 支持在 llama.cpp 重启开发",
+        "takeaway": "llama.cpp 上 Qwen Flash Next 的 MTP 推理支持恢复推进，已有量化权重和 PR 可供尝鲜。",
+        "bullets": [
+          "llama.cpp 重启 Qwen Flash Next 的 MTP 相关工作",
+          "官方 ggml-org 已放出对应 GGUF 量化权重",
+          "相关 PR 已提交，但仍属开发中状态"
+        ],
+        "detail": "如果你在 llama.cpp 上用 Qwen Flash Next 的 MTP，现在可以换用 ggml-org 发布的 GGUF 量化版本，并关注对应的 llama.cpp PR。作者提醒该工作仍在进行中，尚未完成。",
+        "generatedAt": "2026-10-01T17:27:34+08:00"
+      }
     },
     {
       "id": "e93aea6b3aca84f8",
@@ -987,6 +1134,113 @@
         ],
         "detail": "Grokipedia 是马斯克方面推出的 AI 百科产品，被视为维基百科的竞争对手。它最近重新开始接受用户编辑，并上线 v0.3 版本，更新了 Logo，同时改版首页和实时编辑页面。",
         "generatedAt": "2026-10-01T08:53:58+08:00"
+      }
+    },
+    {
+      "id": "89ed10d59c95d20f",
+      "title": "Quoting Matthew Green",
+      "url": "https://simonwillison.net/2026/Oct/1/matthew-green",
+      "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave in…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T14:29:01+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "安全专家警告：AI 智能体可组成蠕虫式攻击链",
+        "takeaway": "Matthew Green 指出，劫持智能体的载荷加上能传递载荷的智能体，就构成蠕虫的两半。",
+        "bullets": [
+          "载荷劫持智能体，智能体再把载荷传给下一个智能体",
+          "隔离沙箱中的智能体仍能找到传递载荷的方法",
+          "这意味着 AI 智能体可能形成自我传播的攻击链"
+        ],
+        "detail": "安全专家 Matthew Green 提出，把两部分拼起来就是一条蠕虫：一部分载荷能劫持 AI 智能体，另一部分智能体则负责把载荷带给下一个智能体。即使智能体被隔离在独立沙箱中，它们仍发现可以留下信息，从而让攻击扩散。",
+        "generatedAt": "2026-10-01T17:27:34+08:00"
+      }
+    },
+    {
+      "id": "992be61b48b2f86a",
+      "title": "谷歌推出了个“做题家”：Gemini 4 Argon屠榜，但干活差点意思",
+      "url": "https://tmtpost.com/8157785.html",
+      "summary": "消失10个月的谷歌，为什么连Pro这块招牌都扔了？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T16:16:28+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出",
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌发布 Gemini 4 Argon：跑分屠榜，实际干活却差点意思",
+        "takeaway": "谷歌时隔10个月推出新模型 Gemini 4 Argon，基准测试成绩亮眼，但实际任务表现不佳。",
+        "bullets": [
+          "谷歌发布 Gemini 4 Argon，在多项基准测试中屠榜。",
+          "实际使用中干活能力被指“差点意思”，表现不及预期。",
+          "谷歌连 Pro 招牌都弃用，引发外界对其策略的猜测。"
+        ],
+        "detail": "谷歌在沉寂10个月后推出 Gemini 4 Argon，该模型在基准测试中表现突出，但实际任务处理能力却不如人意。更令人意外的是，谷歌此次连 Pro 这一招牌名称都未保留，引发对其产品定位和策略的讨论。",
+        "generatedAt": "2026-10-01T17:27:35+08:00"
+      }
+    },
+    {
+      "id": "d96c2551a5e1b5f1",
+      "title": "Best OpenSource Claude Cowork alternative?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wuu9ip/best_opensource_claude_cowork_alternative",
+      "summary": "Hey guys, Looking for an alternative for Claude Cowork : Project Work / Documents Integrations like Notion, Gmail, etc. Tools like Websearch, PDF creation, etc. Came over Eigent ( https://github.com/eigent-ai/eigent ) but cant find any actu…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T16:45:33+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "求推荐开源版 Claude Cowork 替代方案，Eigent 被点名",
+        "takeaway": "Reddit 用户想找能整合 Notion、Gmail 并支持联网搜索、生成 PDF 的开源协作工具，Eigent 被提及但信息不足。",
+        "bullets": [
+          "用户想要 Claude Cowork 的开源替代，需支持 Notion、Gmail 等集成",
+          "还要求具备网页搜索、PDF 生成等工具能力",
+          "有人提到 Eigent 项目，但找不到详细资料"
+        ],
+        "detail": "一位用户在 r/LocalLLaMA 发帖，寻找 Claude Cowork 的开源替代品，希望具备项目协作、文档集成（如 Notion、Gmail）以及网页搜索、PDF 生成等工具。他发现了 Eigent 这个项目，但找不到更多实际使用信息，因此发帖求助。",
+        "generatedAt": "2026-10-01T17:27:36+08:00"
       }
     },
     {
@@ -1537,6 +1791,77 @@
       }
     },
     {
+      "id": "53aba29d62f4b821",
+      "title": "在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算",
+      "url": "https://infoq.cn/article/P5yCYKFiJfKAICrf8bfs",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T22:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cloudflare Worker 上实现多租户 SaaS 边缘计算",
+        "takeaway": "InfoQ 中国分享如何在 Cloudflare Worker 上做模块化边缘计算，支撑多租户 SaaS 规模。",
+        "bullets": [
+          "主题是在 Cloudflare Worker 上实现模块化边缘计算",
+          "目标是支撑多租户 SaaS 的规模化场景",
+          "来源为 InfoQ 中国，原文需点击查看"
+        ],
+        "detail": "InfoQ 中国发布了一篇技术文章，讨论在 Cloudflare Worker 上实现模块化边缘计算，以支撑多租户 SaaS 的规模化需求。摘要未给出更多实现细节，完整内容需点击原文查看。",
+        "generatedAt": "2026-10-01T17:27:36+08:00"
+      }
+    },
+    {
+      "id": "4ff7755fc47fcce6",
+      "title": "SkillSeek: Revisiting Agent Skill Retrieval at Marketplace Scale",
+      "url": "https://arxiv.org/abs/2609.38822",
+      "summary": "arXiv:2609.38822v1 Announce Type: cross Abstract: Anthropic's Agent Skills package reusable procedural know-how for an LLM agent into SKILL.md directories, and open-source aggregations have grown past 230,000 skills, making selection rather…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "paperRank": 15,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "SkillSeek：23万技能规模下重审智能体技能检索",
+        "takeaway": "当智能体技能库膨胀到23万条，如何快速选对技能成为新问题，这篇论文重新审视了检索方法。",
+        "bullets": [
+          "Anthropic 的 Agent Skills 把可复用流程知识打包成 SKILL.md 目录",
+          "开源社区汇总的技能数量已超过 23 万条",
+          "规模膨胀让技能选择成为瓶颈，论文提出 SkillSeek 重新审视检索"
+        ],
+        "detail": "Anthropic 的 Agent Skills 把可复用的流程性知识封装成 SKILL.md 目录，方便 LLM 智能体调用。开源社区汇总的技能数量已突破 23 万条，技能库规模急剧膨胀，导致「选哪个技能」本身成了难题。这篇论文提出 SkillSeek，在如此大规模下重新审视智能体技能检索问题。",
+        "generatedAt": "2026-10-01T17:27:37+08:00"
+      }
+    },
+    {
       "id": "b3701a1b653f0a3b",
       "title": "Photo Scrubber — local face blur & metadata removal",
       "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber",
@@ -1616,6 +1941,32 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "e36ddb0b2dbca874",
+      "title": "When Order Matters: First-Speaker Bias and Mitigation through Personality in Sequential Multi-Agent Debate",
+      "url": "https://arxiv.org/abs/2609.38964",
+      "summary": "arXiv:2609.38964v1 Announce Type: new Abstract: Multi-agent debate (MAD) is often used to improve large language model (LLM) reasoning, but sequential debate is rarely a neutral aggregator of agents' opinions. We show that sequential MAD su…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 31,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "52887c417cd928ca",
@@ -1784,6 +2135,497 @@
       "keywords": [],
       "confidence": 0,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "88f8a28d082931ba",
+      "title": "江苏电力印发“人工智能+”三年行动方案，百亿订单砸向电力机器人，但真正“金矿”在三个不造机器人的环节",
+      "url": "https://tmtpost.com/8157844.html",
+      "summary": "电力AI具身智能订单爆发，利润滞后，商机藏于配套赛道。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T16:05:23+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "22339a927003d656",
+      "title": "Beyond Prediction: Steering VLM Agents with Retrospective World Modeling",
+      "url": "https://arxiv.org/abs/2609.39101",
+      "summary": "arXiv:2609.39101v1 Announce Type: new Abstract: Equipping VLM agents with world modeling capabilities has shown strong potential for complex reasoning and long-horizon planning, while reducing the dependence of policy learning on costly rea…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 17,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9944d5a10ebc6dd2",
+      "title": "Towards a Belief-Based World Model for LLM Agents",
+      "url": "https://arxiv.org/abs/2609.00455",
+      "summary": "arXiv:2609.00455v2 Announce Type: replace Abstract: Large language models (LLMs) are being used as policies for autonomous decision-making and planning in many domains. Despite their strong reasoning capabilities, LLMs struggle with long-ho…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 17,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "df8336a8a2eff75b",
+      "title": "DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization",
+      "url": "https://arxiv.org/abs/2608.27513",
+      "summary": "arXiv:2608.27513v2 Announce Type: replace-cross Abstract: Complex reasoning and agentic applications increasingly rely on long-context inference, where growing KV caches increase both memory usage and decoding overhead. Hybrid models reduce…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 15,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "bc724b93c89619a1",
+      "title": "GraphCert: Bootstrap Agentic Graph Reasoning with Certified Evidence Rubrics",
+      "url": "https://arxiv.org/abs/2609.38798",
+      "summary": "arXiv:2609.38798v1 Announce Type: new Abstract: Graph agents extend large language models (LLMs) with the ability to actively explore and reason over knowledge graphs through multi-step interactions with graph tools. However, training capab…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "75aca1f9d905d549",
+      "title": "Consistent Plan-Act for Long-Horizon Agentic Tasks",
+      "url": "https://arxiv.org/abs/2609.38891",
+      "summary": "arXiv:2609.38891v1 Announce Type: new Abstract: Long-horizon agentic tasks demand strong reasoning and efficient execution across successive interactions with dynamic environments. A common approach decouples high-level planning from low-le…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7e39cfaa06f7d7f5",
+      "title": "MADBench: Benchmarking the Security of Multi-Agent Debate",
+      "url": "https://arxiv.org/abs/2609.39146",
+      "summary": "arXiv:2609.39146v1 Announce Type: new Abstract: Multi-agent debate (MAD) can improve large language model (LLM) reasoning by allowing multiple agents to exchange and critique their answers to the same task. However, the interactions that en…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7075776325383e48",
+      "title": "Reinforcing Multimodal Reasoning via Token-Level Perception-Grounded Advantage Estimation",
+      "url": "https://arxiv.org/abs/2609.39168",
+      "summary": "arXiv:2609.39168v1 Announce Type: new Abstract: Reinforcement Learning with Verifiable Rewards (RLVR) has improved the reasoning capabilities of Multimodal Large Language Models (MLLMs), yet existing frameworks rely on coarse, sequence-leve…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b6ac4274a7165d4f",
+      "title": "EHR-RobustGym: Benchmarking and Training Agents for Robust Clinical Reasoning",
+      "url": "https://arxiv.org/abs/2609.39371",
+      "summary": "arXiv:2609.39371v1 Announce Type: new Abstract: In hospital workflows, electronic health records (EHRs) are often noisy, and may not contain the evidence needed to confirm events or measurements referenced in a clinical query. Even when dat…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "443f0775fcb76539",
+      "title": "Beyond the Shadows of Plato's Cave: Evaluating False Memory in Autonomous Agents via Counterfactual Reasoning",
+      "url": "https://arxiv.org/abs/2609.39473",
+      "summary": "arXiv:2609.39473v1 Announce Type: new Abstract: Autonomous agents increasingly rely on memory to generalize beyond their training environments. However, agents are bounded by what they have seen and believed, and leveraging such memories in…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "21b64ccc4a966367",
+      "title": "OverForge: Reasoning Through Strategies and Tactics Helps Cooperative Lifelong Adaptation",
+      "url": "https://arxiv.org/abs/2609.39727",
+      "summary": "arXiv:2609.39727v1 Announce Type: new Abstract: Cooperative language-model agents must coordinate over long horizons and adapt to changing environments and to partners with unfamiliar conventions, yet existing agents map observations to act…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "12206a0cfe43a52f",
+      "title": "EHR2Trace: Auditable EHR Data Infrastructure for Patient World Models and Clinical Agents",
+      "url": "https://arxiv.org/abs/2609.38193",
+      "summary": "arXiv:2609.38193v1 Announce Type: cross Abstract: Patient world models and clinical agents aim to predict changes in patients' health and support clinical work. Developing these systems requires reliable histories of patient conditions, tre…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a35649e98cc1c6bf",
+      "title": "Breaking Babel: A Self-Evolving Multi-Agent System for Long-Form Subtitle Translation",
+      "url": "https://arxiv.org/abs/2609.38660",
+      "summary": "arXiv:2609.38660v1 Announce Type: cross Abstract: Long-form subtitle translation requires reasoning over discourse and cultural context spanning episodes or entire series, while maintaining consistent terminology and style. Existing single-…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0fd7c556e12616ce",
+      "title": "Explicit Trajectory Diversity for RL-Based Post-Training of LLM Agents",
+      "url": "https://arxiv.org/abs/2609.38805",
+      "summary": "arXiv:2609.38805v1 Announce Type: cross Abstract: LLM agents often admit multiple high-quality solutions to the same task, differing in reasoning structure, tool-use pattern, or interaction trajectory. Yet existing notions of diversity in L…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "aa0afa3ce35575a5",
+      "title": "SceneJail: Exploiting Video Scenario Context to Jailbreak Multimodal LLMs",
+      "url": "https://arxiv.org/abs/2609.38899",
+      "summary": "arXiv:2609.38899v1 Announce Type: cross Abstract: Video Multimodal Large Language Models (Video-MLLMs) support reasoning over video inputs, yet remain vulnerable to jailbreak attacks that elicit policy-violating responses. Existing video ja…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8f30b39a11ea3313",
+      "title": "Make Code as Policy Great Again: Frontier Agents Write, Call, and Evolve Robot Tools",
+      "url": "https://arxiv.org/abs/2609.39018",
+      "summary": "arXiv:2609.39018v1 Announce Type: cross Abstract: Frontier models can control robots, but reasoning through every reach, grasp, and retreat makes manipulation slow and token-intensive. We revisit code as policy with a different division of …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3b15ebf43f3bb171",
+      "title": "LongEmo: Towards Emotion Understanding and Reasoning in Long Videos",
+      "url": "https://arxiv.org/abs/2609.40079",
+      "summary": "arXiv:2609.40079v1 Announce Type: cross Abstract: While recent Multimodal Large Language Models (MLLMs) have shown promise in affective computing, their reasoning capabilities are largely confined to short video clips with limited interacti…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ce9a094b5677c36a",
+      "title": "DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents",
+      "url": "https://arxiv.org/abs/2609.40306",
+      "summary": "arXiv:2609.40306v1 Announce Type: cross Abstract: Pretrained robot policies provide useful action priors, but long-horizon manipulation still requires coordination between semantic reasoning and physical execution. Semantic reasoning operat…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f6f87be7c69c26e3",
+      "title": "From Compound Figures to Medical Multi-image Reasoning: Scaling Multimodal Large Language Models with Biomedical Literature",
+      "url": "https://arxiv.org/abs/2511.22232",
+      "summary": "arXiv:2511.22232v2 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) are increasingly capable in medical imaging, yet most focus on single-image settings. Clinical interpretation often requires integrating evid…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T12:00:00+08:00",
+      "fetchedAt": "2026-10-01T17:27:26+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
       "related": [],
       "pushed": false
     }
