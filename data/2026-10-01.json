@@ -1,7 +1,45 @@
 {
   "date": "2026-10-01",
-  "updatedAt": "2026-10-01T06:45:32+08:00",
+  "updatedAt": "2026-10-01T08:54:00+08:00",
   "items": [
+    {
+      "id": "5c1f615d64d23b47",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T07:43:07+08:00",
+      "fetchedAt": "2026-10-01T08:53:49+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "releases",
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 64,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "谷歌发布 Gemini 4 Argon，称迄今最强模型",
+        "takeaway": "谷歌推出新一代 Gemini 模型，主打编程与网络安全场景，号称史上最强。",
+        "bullets": [
+          "谷歌正式发布 Gemini 4 Argon 模型",
+          "官方称其为迄今最强大的 Gemini 模型",
+          "定位为编程和网络安全领域的主力工具"
+        ],
+        "detail": "谷歌发布了最新 Gemini 模型 Gemini 4 Argon，官方称这是其迄今最强大的模型。该模型被定位为编程和网络安全工作的主力工具，面向相关场景进行推广。",
+        "generatedAt": "2026-10-01T08:53:55+08:00"
+      },
+      "pushedAt": "2026-10-01T08:54:00+08:00"
+    },
     {
       "id": "023881b9ea060b88",
       "title": "DeepSeek 开源昇腾平台基础设施组件，覆盖 TileLang、计算库与分布式通信库",
@@ -115,6 +153,43 @@
       "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
+      "id": "309f770382506d04",
+      "title": "Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型",
+      "url": "https://ifanr.com/1682765",
+      "summary": "跑分不可思议，能力谨慎怀疑 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T08:31:33+08:00",
+      "fetchedAt": "2026-10-01T08:53:49+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gemini 4 正式发布：写作能力首次超越代码",
+        "takeaway": "谷歌发布 Gemini 4，号称首个写作强于代码的前沿模型，但跑分真实性存疑。",
+        "bullets": [
+          "Gemini 4 正式亮相，定位为写作强于代码的前沿模型",
+          "官方跑分数据亮眼，但媒体对实际能力持谨慎态度",
+          "若属实，将改变 AI 模型偏重代码能力的竞争格局"
+        ],
+        "detail": "谷歌正式推出 Gemini 4，宣称这是首个在写作任务上表现优于代码的前沿模型。官方公布的跑分数据非常惊人，但爱范儿对此持谨慎怀疑态度，认为实际能力有待验证。",
+        "generatedAt": "2026-10-01T08:53:55+08:00"
+      }
+    },
+    {
       "id": "a993d027af6ab3cc",
       "title": "DoorDash launches an AI agent you can text to order food",
       "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food",
@@ -150,6 +225,44 @@
         "generatedAt": "2026-10-01T02:13:47+08:00"
       },
       "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "f212aca768a79083",
+      "title": "Two open-weights releases: Victoria (Qwen3.8-Flash-Next with 44% of experts cut, 70% Terminal-Bench 2.1, GGUF included) and Maple (a Canada-first fine-tune)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wujph3/two_openweights_releases_victoria_qwen38flashnext",
+      "summary": "We had a Dell B300 in the lab for a few weeks and used it to create two fine tunes of Qwen Flash Next. Victoria (coding and agents) Qwen3.8-Flash-Next cut down by 44% using a paper / technique called REAP: 512 down to 288 per layer. Retrain…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T07:10:03+08:00",
+      "fetchedAt": "2026-10-01T08:53:49+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "releases",
+        "Qwen"
+      ],
+      "confidence": 0.25,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "两款开源权重模型发布：Victoria 与 Maple",
+        "takeaway": "基于 Qwen Flash Next 微调的两个开源权重模型亮相，Victoria 剪枝 44% 专家并主打编程与智能体。",
+        "bullets": [
+          "Victoria 用 REAP 技术把每层专家从 512 剪到 288，减少 44%",
+          "Victoria 在 Terminal-Bench 2.1 上达到 70%，并附带 GGUF 格式",
+          "Maple 是面向加拿大的微调版本，同属 Qwen Flash Next 系列",
+          "两款模型均在实验室的 Dell B300 上完成训练"
+        ],
+        "detail": "团队在实验室用 Dell B300 花数周微调了 Qwen Flash Next，产出两个开源权重模型。Victoria 专注编程和智能体，借助 REAP 技术把每层专家数从 512 砍到 288，压缩 44%，Terminal-Bench 2.1 得分 70%，还提供 GGUF 版本；Maple 则是加拿大优先的微调",
+        "generatedAt": "2026-10-01T08:53:56+08:00"
+      }
     },
     {
       "id": "85ae00502245296c",
@@ -300,6 +413,43 @@
       "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
+      "id": "3b42a101df6b0cf2",
+      "title": "Open source inference engine (like LM Studio or Unsloth Desktop) that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD or nothing but a CPU.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wuj70v/open_source_inference_engine_like_lm_studio_or",
+      "summary": "submitted by /u/paranoidray [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T06:46:30+08:00",
+      "fetchedAt": "2026-10-01T08:53:49+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA",
+        "AMD"
+      ],
+      "confidence": 0.17,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开源推理引擎按你的硬件自编译调优，速度可达 llama.cpp 两倍",
+        "takeaway": "一款开源推理引擎在本地编译并调优内核，适配你的具体硬件，让开源模型跑得更快。",
+        "bullets": [
+          "在设备上编译并调优内核，针对你的硬件定制",
+          "官方称开源模型速度最高可达 llama.cpp 的 2 倍",
+          "支持 Apple Silicon、NVIDIA、AMD，甚至纯 CPU"
+        ],
+        "detail": "有人在 LocalLLaMA 分享了一款开源推理引擎，思路类似 LM Studio 或 Unsloth Desktop。它会在你的设备上编译并调优内核，针对具体硬件做优化，因此开源模型运行速度最高可达 llama.cpp 的两倍。兼容 Apple Silicon、NVIDIA、AMD，没有独显时纯 CPU 也能跑。",
+        "generatedAt": "2026-10-01T08:53:57+08:00"
+      }
+    },
+    {
       "id": "27a871214755fde3",
       "title": "谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX",
       "url": "https://infoq.cn/article/M6BRTrsyJvUg8y0M0kyh",
@@ -444,6 +594,40 @@
         "generatedAt": "2026-10-01T02:13:47+08:00"
       },
       "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "40f7bca0c2a54546",
+      "title": "OpenAI、Meta、Manus同时下注，智能体 2.0 来了",
+      "url": "https://tmtpost.com/8157335.html",
+      "summary": "OpenAI想摘走Meta的“大结果”。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T08:38:06+08:00",
+      "fetchedAt": "2026-10-01T08:53:49+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI、Meta、Manus 同时下注智能体 2.0",
+        "takeaway": "三家科技公司押注智能体 2.0，OpenAI 试图抢在 Meta 之前拿下关键成果。",
+        "bullets": [
+          "OpenAI、Meta、Manus 同时布局智能体 2.0",
+          "OpenAI 意图摘走 Meta 的“大结果”",
+          "智能体赛道竞争进一步升温"
+        ],
+        "detail": "据钛媒体报道，OpenAI、Meta 和 Manus 正同时下注智能体 2.0。其中 OpenAI 试图抢先拿下 Meta 原本看重的“大结果”，显示该领域的竞争正在加剧。",
+        "generatedAt": "2026-10-01T08:53:57+08:00"
+      }
     },
     {
       "id": "2c92c5181c3afc73",
@@ -770,6 +954,42 @@
       "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
+      "id": "0b3e03a4b8d1fafa",
+      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+      "url": "https://theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. Sp…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T08:23:45+08:00",
+      "fetchedAt": "2026-10-01T08:53:49+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "update"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "马斯克 Grokipedia 更新 v0.3：换新 Logo，重启编辑功能",
+        "takeaway": "马斯克旗下 AI 百科 Grokipedia 发布 v0.3 更新，改版首页并恢复用户编辑，继续对标维基百科。",
+        "bullets": [
+          "Grokipedia 是马斯克阵营推出的 AI 驱动百科，对标维基百科",
+          "v0.3 更新换上新 Logo，改版首页与实时编辑页面",
+          "近期重新开放编辑功能，内容开始由用户参与修改"
+        ],
+        "detail": "Grokipedia 是马斯克方面推出的 AI 百科产品，被视为维基百科的竞争对手。它最近重新开始接受用户编辑，并上线 v0.3 版本，更新了 Logo，同时改版首页和实时编辑页面。",
+        "generatedAt": "2026-10-01T08:53:58+08:00"
+      }
+    },
+    {
       "id": "b93ab270a51b2e02",
       "title": "AI voice startup ElevenLabs doubles valuation to $22B",
       "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b",
@@ -843,6 +1063,40 @@
         "generatedAt": "2026-10-01T06:45:28+08:00"
       },
       "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "45157c21797e2514",
+      "title": "实测ChatGPT dot后，我明白了大厂为什么必须做个人智能体",
+      "url": "https://tmtpost.com/8157453.html",
+      "summary": "给AI配电脑，多出一门生意。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T08:46:00+08:00",
+      "fetchedAt": "2026-10-01T08:53:49+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "实测 ChatGPT dot 后，我明白了大厂为何必须做个人智能体",
+        "takeaway": "ChatGPT dot 实测显示，给 AI 配电脑正成为新生意，大厂做个人智能体是必然选择。",
+        "bullets": [
+          "钛媒体实测 ChatGPT dot，体验给 AI 配电脑的新模式",
+          "该模式催生新生意，大厂因此必须布局个人智能体",
+          "个人智能体或成 AI 竞争下一关键战场"
+        ],
+        "detail": "钛媒体实测了 ChatGPT dot，发现给 AI 配电脑能衍生出一门新生意。这解释了为什么大厂必须做个人智能体：不跟上就可能错失新入口。",
+        "generatedAt": "2026-10-01T08:53:58+08:00"
+      }
     },
     {
       "id": "0c22122708a5b6b7",
@@ -1366,6 +1620,79 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "355220c23b1df0ad",
+      "title": "销量增长、收入缩水：斯坦德机器人的“第二曲线”，怎么越卖越亏？",
+      "url": "https://tmtpost.com/8157612.html",
+      "summary": "超6成收入来自海外。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T08:46:59+08:00",
+      "fetchedAt": "2026-10-01T08:53:49+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "10eb7740a439f219",
+      "title": "8200个项目在排队，AI基建卡在了最后一道关口",
+      "url": "https://tmtpost.com/8157619.html",
+      "summary": "抢电力接入权，是一场典型的囚徒困境。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T08:43:24+08:00",
+      "fetchedAt": "2026-10-01T08:53:49+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "接入"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f8ff694645cb7865",
+      "title": "AI CEO Interviews (2026)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wukf5d/ai_ceo_interviews_2026",
+      "summary": "submitted by /u/LambdaHominem [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T07:43:15+08:00",
+      "fetchedAt": "2026-10-01T08:53:49+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
