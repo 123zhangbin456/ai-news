@@ -1,7 +1,45 @@
 {
   "date": "2026-10-01",
-  "updatedAt": "2026-10-01T17:27:39+08:00",
+  "updatedAt": "2026-10-02T24:35:46+08:00",
   "items": [
+    {
+      "id": "9df1a7bfd144d02d",
+      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+      "url": "https://qbitai.com/2026/10/499663.html",
+      "summary": "价格只有Astra一半",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T23:02:14+08:00",
+      "fetchedAt": "2026-10-02T24:35:31+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "GPT",
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 68,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌 Gemini 4 突然发布，价格仅为 Astra 一半",
+        "takeaway": "谷歌突袭发布 Gemini 4，主打 RSI 能力且定价激进，直接对标 GPT 与 Opus。",
+        "bullets": [
+          "谷歌突然发布 Gemini 4，未做预热",
+          "宣称具备 RSI 加持，对标 GPT 和 Opus",
+          "价格只有 Astra 的一半，主打性价比"
+        ],
+        "detail": "谷歌在没有预告的情况下直接上线 Gemini 4，官方强调其带有 RSI 加持，性能足以对标 GPT 和 Opus 系列。更受关注的是定价：只有 Astra 的一半，明显想用低价抢市场。",
+        "generatedAt": "2026-10-02T24:35:38+08:00"
+      }
+    },
     {
       "id": "5c1f615d64d23b47",
       "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
@@ -78,6 +116,42 @@
         "generatedAt": "2026-10-01T17:27:33+08:00"
       },
       "pushedAt": "2026-10-01T17:27:39+08:00"
+    },
+    {
+      "id": "36751599d8f84fb2",
+      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "url": "https://theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots,…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T22:36:50+08:00",
+      "fetchedAt": "2026-10-02T24:35:31+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO"
+      ],
+      "confidence": 1,
+      "score": 62,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 发布新 Agent，正面挑战 Meta 免费策略",
+        "takeaway": "OpenAI 在 DevDay 推出新 Agent，试图与 Meta 的 Muse 竞争，但免费模式是最大难题。",
+        "bullets": [
+          "OpenAI 年度 DevDay 上发布新 Agent 产品，CEO Sam Altman 登台宣布。",
+          "主要竞争对手是 Meta，其 Muse AI Agent 平台早期增长迅猛。",
+          "Meta 以免费策略抢占市场，OpenAI 需回答如何与之竞争。"
+        ],
+        "detail": "在 OpenAI 年度 DevDay 大会上，公司全力出击，主要瞄准 Meta。Meta 的 Muse AI Agent 平台早期大获成功，给 OpenAI 带来压力。CEO Sam Altman 登台欢呼中宣布了 Dots 等新内容，但能否与免费产品抗衡仍是未知数。",
+        "generatedAt": "2026-10-02T24:35:39+08:00"
+      }
     },
     {
       "id": "023881b9ea060b88",
@@ -226,6 +300,80 @@
         ],
         "detail": "谷歌正式推出 Gemini 4，宣称这是首个在写作任务上表现优于代码的前沿模型。官方公布的跑分数据非常惊人，但爱范儿对此持谨慎怀疑态度，认为实际能力有待验证。",
         "generatedAt": "2026-10-01T08:53:55+08:00"
+      }
+    },
+    {
+      "id": "04619c30c169eac2",
+      "title": "FreeToken vs llama.cpp on one RTX 3090: llama.cpp is 2–3× faster when the MoE fits in VRAM. On gpt-oss-120b (63 GB), FreeToken gets the first token out 7× faster at 32 concurrent users.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wv0h6l/freetoken_vs_llamacpp_on_one_rtx_3090_llamacpp_is",
+      "summary": "I've run the benchmark on a RTX 3090, 1024 tokens in / 256 out, concurrency 1–32. If the model fits on vRAM (Gemma-4-26B-A4B, byte-identical GGUF on both engines ): llama.cpp has 2.2–3.2× the throughput and 5–6× faster TTFT. FreeToken 0.1.2…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T22:11:19+08:00",
+      "fetchedAt": "2026-10-02T24:35:31+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT",
+        "Llama"
+      ],
+      "confidence": 0.5,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "单卡 RTX 3090 实测：MoE 装得下显存时 llama.cpp 快 2–3 倍",
+        "takeaway": "同一张 3090 上，模型能塞进显存时 llama.cpp 吞吐领先，装不下时 FreeToken 首字快 7 倍。",
+        "bullets": [
+          "测试用 RTX 3090，输入 1024 token、输出 256 token，并发 1 到 32",
+          "Gemma-4-26B-A4B 用同一份 GGUF，llama.cpp 吞吐高 2.2–3.2 倍",
+          "llama.cpp 首字延迟也快 5–6 倍，前提是模型能放进显存",
+          "gpt-oss-120b 需 63 GB 显存，超出单卡，FreeToken 在 32 并发下首字快 7 倍"
+        ],
+        "detail": "有人在 RTX 3090 上对比了 FreeToken 0.1.2 和 llama.cpp。结论是：模型能完整放进显存时，llama.cpp 吞吐高 2–3 倍、首字延迟快 5–6 倍；但像 gpt-oss-120b 这种要 63 GB 显存、单卡装不下的模型，FreeToken 在 32 并发下首字反而快 7 倍。",
+        "generatedAt": "2026-10-02T24:35:40+08:00"
+      }
+    },
+    {
+      "id": "0bf00b70dbd762e2",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T23:01:43+08:00",
+      "fetchedAt": "2026-10-02T24:35:31+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing"
+      ],
+      "confidence": 1,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Olmo-core 3 发布：面向大型 MoE 的开源可扩展训练基础设施",
+        "takeaway": "Hugging Face 推出 Olmo-core 3，为大型混合专家模型提供开放、可扩展的训练基础设施。",
+        "bullets": [
+          "Olmo-core 3 是面向大型 MoE 模型的训练基础设施",
+          "强调开放与可扩展，由 Hugging Face 发布",
+          "为研究者和开发者提供训练大模型的新工具"
+        ],
+        "detail": "Hugging Face 发布了 Olmo-core 3，这是一套开放且可扩展的训练基础设施，专门用于训练大型混合专家（MoE）模型。它旨在降低训练大规模 MoE 的门槛，让更多团队能够参与。",
+        "generatedAt": "2026-10-02T24:35:40+08:00"
       }
     },
     {
@@ -489,6 +637,78 @@
       }
     },
     {
+      "id": "8823ad0e46f16390",
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses",
+      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T21:00:00+08:00",
+      "fetchedAt": "2026-10-02T24:35:31+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launches"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Legato 推出 AI 助听眼镜，瞄准传统助听器痛点",
+        "takeaway": "听力科技初创公司 Legato 发布 AI 助听眼镜，试图用眼镜形态解决传统助听器的成本、舒适与 stigma 问题。",
+        "bullets": [
+          "Legato 发布 AI 助听眼镜，将助听功能集成到眼镜中",
+          "目标解决传统助听器成本高、佩戴不适和污名化问题",
+          "旨在让听力护理更易获得，降低使用门槛"
+        ],
+        "detail": "Legato 是一家听力科技初创公司，其新推出的 AI 助听眼镜把助听功能做进眼镜里。公司希望借此解决传统助听器价格贵、戴着不舒服、容易被贴标签的问题，让更多人愿意并能够获得听力护理。",
+        "generatedAt": "2026-10-02T24:35:40+08:00"
+      }
+    },
+    {
+      "id": "daa9a77897d51bc7",
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "url": "https://cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49921050 Points: 127 # Comments: 75",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T21:00:55+08:00",
+      "fetchedAt": "2026-10-02T24:35:31+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "product"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "FTC 调查 OpenAI、Anthropic 等 AI 公司的产品风险",
+        "takeaway": "美国监管机构正式出手，AI 产品安全与合规压力升级，行业格局或受影响。",
+        "bullets": [
+          "FTC 对 OpenAI、Anthropic 等多家 AI 公司展开调查",
+          "调查聚焦 AI 产品可能带来的风险问题",
+          "消息在 Hacker News 引发 127 点热度、75 条讨论"
+        ],
+        "detail": "美国联邦贸易委员会（FTC）正在调查 OpenAI、Anthropic 及其他 AI 公司，关注其产品可能存在的风险。此举意味着美国监管层对 AI 产品的审查力度加大，相关企业可能面临更严格的合规要求。",
+        "generatedAt": "2026-10-02T24:35:41+08:00"
+      }
+    },
+    {
       "id": "40d0227cc46f3ca5",
       "title": "腾讯经销、字节驻场、Kimi借船：FDE成了大模型的新成本？",
       "url": "https://tmtpost.com/8157828.html",
@@ -703,6 +923,42 @@
       }
     },
     {
+      "id": "29fe7c1feed5d88a",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T20:00:00+08:00",
+      "fetchedAt": "2026-10-02T24:35:31+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raises"
+      ],
+      "confidence": 0.6,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "前谷歌SpaceX产品经理创办Satlyt，融资800万美元做卫星AI",
+        "takeaway": "Satlyt获800万美元融资，想成为轨道计算的安卓，让AI在多家卫星上运行。",
+        "bullets": [
+          "Satlyt由前谷歌和SpaceX产品经理创办，完成800万美元融资。",
+          "目标是在卫星上运行AI，提供开放软件，适配多家公司卫星。",
+          "对标SpaceX封闭的一体化iPhone模式，走安卓式开放路线。"
+        ],
+        "detail": "Satlyt 是一家由前谷歌和 SpaceX 产品经理创立的公司，刚完成 800 万美元融资。它想成为轨道计算领域的安卓，提供能在多家公司卫星上运行的开放软件，与 SpaceX 封闭的一体化 iPhone 式方案形成对比。",
+        "generatedAt": "2026-10-02T24:35:41+08:00"
+      }
+    },
+    {
       "id": "2c92c5181c3afc73",
       "title": "The Battle to Be Your Personal AI Agent Is Here",
       "url": "https://wired.com/story/ai-agents-dots-devday-muse-battling-it-out",
@@ -775,6 +1031,42 @@
       }
     },
     {
+      "id": "caab970345b94ebb",
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "summary": "Article URL: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design Comments URL: https://news.ycombinator.com/item?id=49919910 Points: 122 # Comments: 66",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T18:21:36+08:00",
+      "fetchedAt": "2026-10-02T24:35:31+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip"
+      ],
+      "confidence": 0.25,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 与 Synopsys 联手推出 GPT-Synopsys 芯片设计模型",
+        "takeaway": "OpenAI 与新思科技合作发布 GPT-Synopsys，瞄准用前沿智能改造芯片设计流程。",
+        "bullets": [
+          "OpenAI 与 EDA 巨头 Synopsys 联合发布 GPT-Synopsys",
+          "定位为「前沿智能」，目标革新芯片设计环节",
+          "消息在 Hacker News 引发 122 点、66 条讨论"
+        ],
+        "detail": "新思科技发布公告称，与 OpenAI 共同推出名为 GPT-Synopsys 的前沿智能，意在革新芯片设计。该消息在 Hacker News 上获得 122 点热度、66 条评论，显示业界对 AI 进入 EDA 与芯片设计领域高度关注。",
+        "generatedAt": "2026-10-02T24:35:42+08:00"
+      }
+    },
+    {
       "id": "d7e7597068b654a8",
       "title": "Qwen Flash Next MTP work restarted",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wur4lt/qwen_flash_next_mtp_work_restarted",
@@ -812,6 +1104,43 @@
       }
     },
     {
+      "id": "44ed1b3e5f709f57",
+      "title": "Pi extension: Skip reasoning with local Qwen 27B and proceed to answer right now",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wv1e60/pi_extension_skip_reasoning_with_local_qwen_27b",
+      "summary": "pi-llama-skip-reasoning is an extension for the Pi.dev harness that forces a local llama.cpp model to stop reasoning and answer / act immediately. When you are deep into the ctx session and ask 27B a simple question about a fact or need a d…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T22:47:48+08:00",
+      "fetchedAt": "2026-10-02T24:35:31+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Pi 新扩展：让本地 Qwen 27B 跳过推理直接作答",
+        "takeaway": "Pi.dev 推出扩展，可强制本地 llama.cpp 模型停止思考、立即回答，省去等待推理的时间。",
+        "bullets": [
+          "扩展名为 pi-llama-skip-reasoning，面向 Pi.dev 工具链",
+          "强制本地 llama.cpp 模型中断推理，直接给出答案或执行动作",
+          "适合长上下文会话中问简单事实类问题，减少无谓等待"
+        ],
+        "detail": "这是 Pi.dev 平台上的一个扩展，作用是让本地运行的 llama.cpp 模型在回答前跳过推理过程，直接输出答案或采取行动。当会话上下文很长、你只想问一个简单事实时，它能避免模型绕圈子，更快给出结果。",
+        "generatedAt": "2026-10-02T24:35:43+08:00"
+      }
+    },
+    {
       "id": "e93aea6b3aca84f8",
       "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
       "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt",
@@ -845,6 +1174,44 @@
         "generatedAt": "2026-10-01T06:45:26+08:00"
       },
       "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "ea84457b41af3673",
+      "title": "Qwen4Exp: add MTP by am17an · Pull Request #29761 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wuwrsk/qwen4exp_add_mtp_by_am17an_pull_request_29761",
+      "summary": "now you can use MTP with Qwen Flash Next, time to switch from Qwen 3.8 27B? (merged after 17h of development) quants: https://huggingface.co/ggml-org/Qwen3.8-Flash-Next-GGUF link to the previous discussion (I deleted the old post to avoid d…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T19:18:34+08:00",
+      "fetchedAt": "2026-10-02T24:35:31+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 为 Qwen Flash Next 加入 MTP 支持",
+        "takeaway": "llama.cpp 合并 PR，Qwen Flash Next 现可用 MTP，本地推理效率或提升。",
+        "bullets": [
+          "PR #29761 由 am17an 提交，开发 17 小时后被合并",
+          "MTP 让 Qwen Flash Next 在 llama.cpp 中可用",
+          "配套 GGUF 量化已发布在 Hugging Face",
+          "发帖人暗示可从 Qwen 3.8 27B 切换"
+        ],
+        "detail": "llama.cpp 合并了 am17an 的 PR，为 Qwen Flash Next 加入 MTP 支持，整个开发耗时约 17 小时。现在用户可以在 llama.cpp 里用上 MTP，配套的 GGUF 量化文件已由 ggml-org 发布到 Hugging Face，发帖人还调侃是否该从 Qwen 3.8 27B ",
+        "generatedAt": "2026-10-02T24:35:43+08:00"
+      }
     },
     {
       "id": "6860a783c56445b7",
@@ -1241,6 +1608,112 @@
         ],
         "detail": "一位用户在 r/LocalLLaMA 发帖，寻找 Claude Cowork 的开源替代品，希望具备项目协作、文档集成（如 Notion、Gmail）以及网页搜索、PDF 生成等工具。他发现了 Eigent 这个项目，但找不到更多实际使用信息，因此发帖求助。",
         "generatedAt": "2026-10-01T17:27:36+08:00"
+      }
+    },
+    {
+      "id": "0d142c0352b5ec86",
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system",
+      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T23:12:00+08:00",
+      "fetchedAt": "2026-10-02T24:35:31+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "interview"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Airbnb CEO：AI 代理需要自己的操作系统",
+        "takeaway": "Chesky 认为 AI 代理应有专属操作系统，并透露 Airbnb 正为代理优化平台。",
+        "bullets": [
+          "Chesky 提出 AI 代理需要专属操作系统",
+          "Airbnb 正让平台对 AI 代理更友好",
+          "他同时谈论了消费级 AI 的现状"
+        ],
+        "detail": "Airbnb CEO Brian Chesky 在采访中表示，AI 代理需要自己的操作系统，并分享了 Airbnb 如何让平台对代理更友好。他还谈到了消费级 AI 的现状，以及为什么世界需要一个 AI 原生的操作系统。",
+        "generatedAt": "2026-10-02T24:35:43+08:00"
+      }
+    },
+    {
+      "id": "2781adb3b1564d1c",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents",
+      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T22:00:00+08:00",
+      "fetchedAt": "2026-10-02T24:35:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Photon 获 450 万美元融资，要用 AI 代理取代移动应用",
+        "takeaway": "这家初创公司帮开发者打造能在 iMessage、短信、邮件等平台运行的 AI 代理，押注消费者将不再下载 App。",
+        "bullets": [
+          "Photon 完成 450 万美元融资，用于开发跨消息平台的 AI 代理",
+          "代理可运行在 iMessage、SMS/RCS、邮件等渠道，无需独立 App",
+          "公司曾为移动应用办葬礼，明确押注代理将取代传统 App"
+        ],
+        "detail": "Photon 是一家帮开发者构建 AI 代理的初创公司，这些代理能直接在 iMessage、短信、邮件等消息平台上工作。它认为消费者未来会更多使用这类代理，而不是下载一个个独立 App。公司为此还办了一场移动应用的“葬礼”，如今拿到 450 万美元融资来推进这一方向。",
+        "generatedAt": "2026-10-02T24:35:45+08:00"
+      }
+    },
+    {
+      "id": "6d0c7aaad06e6aa3",
+      "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+      "url": "https://theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+      "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T22:00:00+08:00",
+      "fetchedAt": "2026-10-02T24:35:31+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center"
+      ],
+      "confidence": 0.75,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "The Verge 深挖 Kevin O'Leary 犹他州数据中心项目始末",
+        "takeaway": "明星投资人 Kevin O'Leary 号称要建全球最大 AI 数据中心，The Verge 历时数月调查其真实进展。",
+        "bullets": [
+          "项目选址犹他州，规划占地 4 万英亩，号称全球最大 AI 数据中心园区",
+          "The Verge 记者 Josh Dzieza 历时数月调查，与编辑对谈披露内情",
+          "事件折射 AI 算力热潮下，宏大基建承诺与实际落地之间的落差"
+        ],
+        "detail": "The Verge 记者 Josh Dzieza 花数月时间调查了 Kevin O'Leary 在犹他州的数据中心计划。该项目原本宣称要建成全球最大的 AI 数据中心园区，占地约 4 万英亩。这期对谈节目披露了这项宏大计划背后的真实情况。",
+        "generatedAt": "2026-10-02T24:35:45+08:00"
       }
     },
     {
@@ -1859,6 +2332,40 @@
         ],
         "detail": "Anthropic 的 Agent Skills 把可复用的流程性知识封装成 SKILL.md 目录，方便 LLM 智能体调用。开源社区汇总的技能数量已突破 23 万条，技能库规模急剧膨胀，导致「选哪个技能」本身成了难题。这篇论文提出 SkillSeek，在如此大规模下重新审视智能体技能检索问题。",
         "generatedAt": "2026-10-01T17:27:37+08:00"
+      }
+    },
+    {
+      "id": "7c780fe63911537f",
+      "title": "We benchmarked 18 RAG pipelines against an agent loop on Google's FRAMES. The best pipeline hit 78.9%. The agent loop hit 92.7%.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wv0lww/we_benchmarked_18_rag_pipelines_against_an_agent",
+      "summary": "Hybrid search, reranking, query decomposition, and query expansion are often treated as must-haves for good RAG. We wanted to see how much each actually helped, so we tested them. Same model, same embeddings, same documents, across all 824 …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T22:16:31+08:00",
+      "fetchedAt": "2026-10-02T24:35:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "18 种 RAG 流水线对比智能体循环，最佳流水线仅 78.9%",
+        "takeaway": "在 Google FRAMES 基准上，传统 RAG 流水线最高 78.9%，而智能体循环达 92.7%，差距显著。",
+        "bullets": [
+          "测试了 18 种 RAG 流水线，最佳仅 78.9%",
+          "智能体循环在同一基准上达到 92.7%",
+          "混合搜索、重排序等常用技术效果被量化"
+        ],
+        "detail": "有人用相同模型、嵌入和文档，在 Google FRAMES 的 824 个问题上测试了 18 种 RAG 流水线，并对比智能体循环。结果最佳流水线准确率 78.9%，而智能体循环达 92.7%，说明传统优化手段可能不如智能体循环有效。",
+        "generatedAt": "2026-10-02T24:35:46+08:00"
       }
     },
     {
