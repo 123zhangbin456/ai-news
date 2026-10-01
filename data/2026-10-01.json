@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "updatedAt": "2026-10-01T09:23:06+08:00",
+  "updatedAt": "2026-10-01T10:32:28+08:00",
   "items": [
     {
       "id": "5c1f615d64d23b47",
@@ -1465,6 +1465,76 @@
         "generatedAt": "2026-10-01T06:45:31+08:00"
       },
       "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "d9db0d30ac780716",
+      "title": "Elastic Beanstalk 跑上 EKS，开发者质疑：为什么不把 ECS 做好？",
+      "url": "https://infoq.cn/article/AYXLumiEmzcCrKrRuq9B",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T18:00:00+08:00",
+      "fetchedAt": "2026-10-01T10:32:13+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Elastic Beanstalk 支持 EKS，开发者质疑为何不先做好 ECS",
+        "takeaway": "AWS 让 Elastic Beanstalk 可部署到 EKS，开发者却质疑其为何不先完善 ECS。",
+        "bullets": [
+          "Elastic Beanstalk 新增对 EKS 的支持",
+          "开发者质疑 AWS 为何不先优化 ECS",
+          "反映用户对 AWS 容器服务路线的不满"
+        ],
+        "detail": "AWS 宣布 Elastic Beanstalk 现在可以部署到 EKS 集群上。但一些开发者并不买账，认为 AWS 应该先把 ECS 做好，而不是让 Beanstalk 去支持 EKS。这反映出用户对 AWS 容器服务策略的困惑和不满。",
+        "generatedAt": "2026-10-01T10:32:28+08:00"
+      }
+    },
+    {
+      "id": "b971e9db4f384194",
+      "title": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+      "url": "https://infoq.cn/article/TLjNcyBg9Z72HV5kJ2kp",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T18:00:00+08:00",
+      "fetchedAt": "2026-10-01T10:32:13+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "合规"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "QCon上海：Agentic AIGC 驱动广告素材合规修复",
+        "takeaway": "QCon上海分享用智能体式 AIGC 自动修复广告素材合规问题，让生成即合规。",
+        "bullets": [
+          "议题聚焦 Agentic AIGC 在广告素材合规修复中的实践",
+          "面向广告素材生成环节，强调生成即合规",
+          "分享落地于 QCon 上海，属政策监管相关话题"
+        ],
+        "detail": "这是 InfoQ 中国在 QCon 上海的一场分享，主题是用 Agentic AIGC 来修复广告素材的合规问题。核心思路是让素材在生成阶段就满足合规要求，而不是事后返工。",
+        "generatedAt": "2026-10-01T10:32:28+08:00"
+      }
     },
     {
       "id": "b3701a1b653f0a3b",
