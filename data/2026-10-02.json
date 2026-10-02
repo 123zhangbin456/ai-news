@@ -1,7 +1,44 @@
 {
   "date": "2026-10-02",
-  "updatedAt": "2026-10-02T17:03:31+08:00",
+  "updatedAt": "2026-10-02T23:53:53+08:00",
   "items": [
+    {
+      "id": "3d3af81da4c60b98",
+      "title": "丘成桐新论文致谢了GPT和Claude",
+      "url": "https://qbitai.com/2026/10/499991.html",
+      "summary": "44年前被亲自列入问题清单",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T15:27:03+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT",
+        "Claude"
+      ],
+      "confidence": 0,
+      "score": 57,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "丘成桐新论文致谢GPT与Claude，44年前问题清单再引关注",
+        "takeaway": "数学家丘成桐在最新论文中致谢AI工具，显示AI正进入顶级数学研究流程。",
+        "bullets": [
+          "丘成桐新论文致谢GPT和Claude，AI参与数学研究获认可",
+          "论文涉及44年前被列入问题清单的课题，如今取得进展",
+          "顶级数学家使用AI工具，或推动AI在基础科学中应用"
+        ],
+        "detail": "丘成桐在最新论文中致谢了GPT和Claude，该论文研究的是44年前被他亲自列入问题清单的课题。这表明AI工具已开始辅助顶级数学研究，并得到数学家公开认可。",
+        "generatedAt": "2026-10-02T23:53:43+08:00"
+      }
+    },
     {
       "id": "9b59a27765f56de3",
       "title": "ChatGPT can now virtually try on clothes for you",
@@ -336,6 +373,228 @@
       }
     },
     {
+      "id": "4e7db4ef3e6dfae0",
+      "title": "Does anyone know if any new releases from Mistral are planned?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wvpxg8/does_anyone_know_if_any_new_releases_from_mistral",
+      "summary": "It’s been a long time since the last models came out. I notice they are selling GLM on the site, and I wonder if they are developing something, given the long silence. submitted by /u/LegacyRemaster [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T18:05:59+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "releases",
+        "Mistral"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Mistral 久未发新模型，社区猜测其动向",
+        "takeaway": "Mistral 长时间没有新模型发布，社区开始猜测其是否还在研发，还是转向了其他业务。",
+        "bullets": [
+          "Mistral 上一批模型发布已过去很久，社区感到异常安静",
+          "有用户注意到官网在售卖 GLM，怀疑其业务重心变化",
+          "讨论集中在 Mistral 是否仍在开发新模型，尚无官方回应"
+        ],
+        "detail": "有用户在 LocalLLaMA 发帖询问 Mistral 是否还有新模型计划。他指出距离上次发布已经很久，同时发现 Mistral 官网在卖 GLM，因此怀疑这家公司是否还在做模型研发，还是已经转向其他方向。目前只是社区猜测，没有官方消息。",
+        "generatedAt": "2026-10-02T23:53:43+08:00"
+      }
+    },
+    {
+      "id": "f442067d79503d84",
+      "title": "best <40B alternatives to Qwen/Deepseek for (1) Coding (2) Long document QA test",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wvondv/best_40b_alternatives_to_qwendeepseek_for_1",
+      "summary": "Due to some reasons, Qwen/Deepseek Chinese models are NOT allowed in the my workplace. So, what local models, do you think, is the best alternatives to Qwen/Deepseek for (1) Coding (2) Long document QA test (like giving a long medical histo…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T16:44:17+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "职场禁用 Qwen/Deepseek，求 40B 以下本地替代模型",
+        "takeaway": "有用户因工作场所禁用中国模型，在社区求推荐 40B 以下、适合编程和长文档问答的本地替代方案。",
+        "bullets": [
+          "提问者所在单位不允许使用 Qwen、Deepseek 等中国模型",
+          "需求聚焦两点：代码能力和长文档问答",
+          "限定模型规模在 40B 参数以下，需本地部署",
+          "社区讨论指向非中国厂商的开源模型替代"
+        ],
+        "detail": "一位用户在 r/LocalLLaMA 发帖称，因工作原因，单位不允许使用 Qwen、Deepseek 等中国模型。他想找 40B 以下的本地模型，分别用于编程和长文档问答（例如输入很长的病史资料）。帖子向社区征集替代推荐。",
+        "generatedAt": "2026-10-02T23:53:43+08:00"
+      }
+    },
+    {
+      "id": "dbe33a9f9e406397",
+      "title": "Amazon writes scary blog warning communities not to block data centers",
+      "url": "https://theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concer…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T19:52:20+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center",
+        "data centers"
+      ],
+      "confidence": 0.83,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "亚马逊发长文警告：社区阻挠数据中心将损害美国经济与安全",
+        "takeaway": "亚马逊AWS CEO发文施压，称反对数据中心项目会危及美国经济与国家安全。",
+        "bullets": [
+          "AWS CEO Matt Garman 发布超3000字博客，回应公众对数据中心的担忧。",
+          "亚马逊呼吁社区支持AI数据中心项目，否则将造成不可逆损害。",
+          "此举反映科技巨头与地方社区在数据中心建设上的矛盾加剧。"
+        ],
+        "detail": "亚马逊AWS首席执行官Matt Garman发表长文，呼吁公众支持AI数据中心项目。他警告称，若社区继续阻挠，将对美国经济和国家安全造成不可逆的伤害。该博客回应了公众对数据中心能耗、噪音等问题的担忧。",
+        "generatedAt": "2026-10-02T23:53:45+08:00"
+      }
+    },
+    {
+      "id": "7e8b0812e076c736",
+      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+      "url": "https://theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+      "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T20:00:00+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center",
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "数据中心伪装进树林，就能躲过居民反对吗？",
+        "takeaway": "数据中心规模激增引发社区抵制，伪装设计能否化解矛盾成为新话题。",
+        "bullets": [
+          "圣安东尼奥市议员回忆2000年代数据中心像普通办公楼",
+          "近年数据中心变成巨型设施，引发社区不满",
+          "伪装成树林等设计被提出，但效果存疑"
+        ],
+        "detail": "圣安东尼奥市议员里卡多·加尔万回忆，2000年代数据中心初到该市时，看起来就像不起眼的办公楼。但近年来，数据中心已膨胀成庞然大物，引发居民反感。如今有人尝试用伪装设计融入树林，但这是否能消除敌意仍是未知数。",
+        "generatedAt": "2026-10-02T23:53:45+08:00"
+      }
+    },
+    {
+      "id": "eca823e07b60c7a8",
+      "title": "AI music maker Suno now generates spoken words",
+      "url": "https://theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T17:42:19+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "feature",
+        "available"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Suno 推出语音生成功能，从 AI 音乐拓展到语音领域",
+        "takeaway": "AI 音乐生成器 Suno 新增语音合成，公测上线网页和移动端，可生成朗读和口播内容。",
+        "bullets": [
+          "Suno 新功能支持根据脚本或提示描述生成语音",
+          "语音功能已在网页和移动端公开测试",
+          "这是 Suno 从音乐生成向语音领域的重要拓展"
+        ],
+        "detail": "Suno 不再只做 AI 音乐，开始进军语音生成。新功能可根据用户提供的脚本或描述生成朗读语音，目前已在网页和移动端开放公测，标志着其产品能力从音乐向更广泛的音频内容扩展。",
+        "generatedAt": "2026-10-02T23:53:45+08:00"
+      }
+    },
+    {
+      "id": "96745ca6692795a2",
+      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "url": "https://wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data",
+      "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T17:45:00+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ChatGPT Mac 应用漏洞曾可被黑客窃取敏感数据",
+        "takeaway": "ChatGPT Mac 版存在已修复漏洞，黑客可借此窃取敏感数据，提醒 AI 软件自身也是攻击目标。",
+        "bullets": [
+          "ChatGPT Mac 应用曾存在一个安全漏洞",
+          "该漏洞可能让黑客获取用户敏感数据",
+          "目前漏洞已被修补，但凸显 AI 软件自身风险"
+        ],
+        "detail": "当人们关注 AI 代理的黑客能力时，ChatGPT 的 Mac 应用却曝出一个已被修补的漏洞。这个漏洞可能让攻击者窃取敏感数据，说明 AI 软件本身也是诱人且脆弱的攻击目标。",
+        "generatedAt": "2026-10-02T23:53:46+08:00"
+      }
+    },
+    {
       "id": "317971da35b148b9",
       "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
       "url": "https://blog.cloudflare.com/clef-decision-models",
@@ -371,6 +630,42 @@
         "generatedAt": "2026-10-02T02:38:50+08:00"
       },
       "pushedAt": "2026-10-02T06:57:54+08:00"
+    },
+    {
+      "id": "fc1c6e27930ec3ef",
+      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
+      "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai",
+      "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T22:52:16+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 热潮推高显卡需求，7 年前发布的 Nvidia Shield TV 涨价 100 美元",
+        "takeaway": "AI 算力需求挤压消费级芯片供应，连 2019 年上市的 Shield TV Pro 也涨价至 299.99 美元。",
+        "bullets": [
+          "Nvidia Shield TV Pro 售价从 199.99 美元涨至 299.99 美元",
+          "该设备 2019 年发布，已上市 7 年，此次涨价与 AI 需求有关",
+          "AI 热潮导致芯片产能紧张，消费级产品价格受到波及"
+        ],
+        "detail": "据 Ars Technica 报道，英伟达 2019 年推出的 Shield TV Pro 流媒体盒子现在售价 299.99 美元，比之前贵了 100 美元。涨价原因是 AI 热潮导致芯片需求激增，连这款老设备的定价也受到牵连。",
+        "generatedAt": "2026-10-02T23:53:46+08:00"
+      }
     },
     {
       "id": "0412d9fdec7ac5ac",
@@ -656,6 +951,218 @@
       }
     },
     {
+      "id": "d599f0a282be129f",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T23:19:50+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Hugging Face 开源 AstaBrief 快速报告生成模型",
+        "takeaway": "Asta 生态中的快速报告生成模型 AstaBrief 现已开源，开发者可直接使用或二次开发。",
+        "bullets": [
+          "AstaBrief 是 Asta 中负责快速生成报告的模型",
+          "Hugging Face 宣布将其开源，模型权重和代码可获取",
+          "开发者可集成到自己的报告生成流程中"
+        ],
+        "detail": "Hugging Face 开源了 AstaBrief，这是 Asta 产品里用来快速生成报告的模型。开源后，开发者可以自由下载、使用或在此基础上做二次开发，把快速报告生成能力接入自己的应用。",
+        "generatedAt": "2026-10-02T23:53:46+08:00"
+      }
+    },
+    {
+      "id": "7170e201486369c8",
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art",
+      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of hum…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T23:39:41+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "教皇利奥十四世批评 AI 生成艺术：算法缺少人性火花",
+        "takeaway": "教皇发文批评 AI 生成艺术，认为机器算法无法与人类艺术相提并论，引发对 AI 创作本质的讨论。",
+        "bullets": [
+          "教皇利奥十四世撰文批评 AI 生成艺术，称其缺乏人性火花。",
+          "他指出艺术与机器生成物存在本体论差异，而非仅审美差异。",
+          "算法基于他人创作的数百万图像进行统计计算，无法真正创作。"
+        ],
+        "detail": "教皇利奥十四世在文章中表示，艺术与机器通过统计计算生成的图像之间存在本体论差异，甚至先于审美差异。他认为算法缺乏人类创作的火花，因为其基于他人创作的数百万图像进行统计计算。",
+        "generatedAt": "2026-10-02T23:53:48+08:00"
+      }
+    },
+    {
+      "id": "77605701fd678fdf",
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants",
+      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T23:00:00+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "TechCrunch Disrupt 2026：黑石高管谈打造下一代AI巨头",
+        "takeaway": "黑石集团的 Jas Khaira 将在 TechCrunch Disrupt 2026 登台，分享如何打造下一代 AI 巨头。",
+        "bullets": [
+          "黑石高管 Jas Khaira 将亮相 TechCrunch Disrupt 2026 的 Builders Stage",
+          "主题聚焦如何打造下一代 AI 巨头",
+          "活动现已开放购票，第二张票可享五折优惠"
+        ],
+        "detail": "TechCrunch Disrupt 2026 宣布，黑石集团的 Jas Khaira 将登上 Builders Stage，围绕打造下一代 AI 巨头展开分享。活动方同时开放通行证注册，并推出第二张票五折的优惠。",
+        "generatedAt": "2026-10-02T23:53:48+08:00"
+      }
+    },
+    {
+      "id": "ddc48cc4ab40aee5",
+      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer",
+      "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T22:30:00+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "joins",
+        "CEO",
+        "founder"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Clay CEO 将谈 GTM 工程师崛起",
+        "takeaway": "Clay 联合创始人 Kareem Amin 将在 TechCrunch Disrupt 2026 分享 GTM 工程师这一新角色的兴起。",
+        "bullets": [
+          "Clay 联合创始人兼 CEO Kareem Amin 将登台 TechCrunch Disrupt 2026 的 AI Stage。",
+          "讨论主题为 GTM 工程师（Go-To-Market Engineer）的崛起。",
+          "活动提供购票优惠：买一张票可半价获得第二张。"
+        ],
+        "detail": "Clay 联合创始人兼 CEO Kareem Amin 将参加 TechCrunch Disrupt 2026 的 AI Stage，探讨 GTM 工程师这一角色的兴起。活动现已开放注册，购票可享第二张半价优惠。",
+        "generatedAt": "2026-10-02T23:53:48+08:00"
+      }
+    },
+    {
+      "id": "494e2c59e4cfc886",
+      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+      "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders",
+      "summary": "Today is the very last day to book your exhibit table at TechCrunch Disrupt 2026. On October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas,…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T22:00:00+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "investors"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "TechCrunch Disrupt 2026 展位今日截止预订",
+        "takeaway": "这是 TechCrunch Disrupt 2026 展位预订的最后一天，错过要再等一年。",
+        "bullets": [
+          "今天是预订 TechCrunch Disrupt 2026 展位的最后一天",
+          "展会将于 10 月 13-15 日在旧金山 Moscone West 举行",
+          "预计超 1 万名创始人、投资者和科技领袖到场"
+        ],
+        "detail": "TechCrunch 提醒，今天是预订 Disrupt 2026 展位的最后机会。10 月 13 日至 15 日，超过 1 万名创始人、投资者、运营者和科技领袖将齐聚旧金山 Moscone West，寻找公司、产品和创意。",
+        "generatedAt": "2026-10-02T23:53:49+08:00"
+      }
+    },
+    {
+      "id": "cc213a754efda967",
+      "title": "AI hallucinations are making entitled customers even worse",
+      "url": "https://theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T20:00:00+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "customers"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 幻觉让顾客更理直气壮，餐厅服务员叫苦",
+        "takeaway": "AI 给出的错误信息让顾客自认有理，给一线服务人员带来更多冲突和风险。",
+        "bullets": [
+          "纽约服务员麦迪逊称，近期因顾客依赖 AI 信息而出现过敏等险情。",
+          "顾客用 AI 查询结果质疑服务员，态度更蛮横。",
+          "AI 幻觉指模型编造不准确内容，却常被当作权威依据。"
+        ],
+        "detail": "纽约服务员麦迪逊每次接待都会询问过敏情况，但最近多次出现险情。有顾客声称有贝类过敏，她离开后再回来，对方却不再主动确认。这类情况与顾客依赖 AI 给出的错误信息有关，导致他们更理直气壮，也让服务员更难应对。",
+        "generatedAt": "2026-10-02T23:53:50+08:00"
+      }
+    },
+    {
       "id": "a885ed61f54a415a",
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
@@ -802,6 +1309,185 @@
         ],
         "detail": "DeepSeek 官网发布了 Harness 桌面版，同时支持 macOS 和 Windows 两大平台。该消息在 Hacker News 上迅速升温，获得 218 分和 109 条评论，说明开发者社区对其本地化工具形态颇为关注。",
         "generatedAt": "2026-10-02T17:03:31+08:00"
+      }
+    },
+    {
+      "id": "894e4f63cfdbbb2b",
+      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+      "url": "https://qbitai.com/2026/10/500098.html",
+      "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T15:34:15+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "openJiuwen 发布 X-Router 自演进模型路由，昇腾亲和，Token 消耗减半",
+        "takeaway": "X-Router 让 Agent 每次请求自动选对模型，实测省下 50% 以上 Token，且越跑越省。",
+        "bullets": [
+          "openJiuwen 首发 X-Router 自演进模型路由技术",
+          "对昇腾硬件亲和，Agent 运行成本随反馈持续下降",
+          "实测 Token 消耗减少 50% 以上"
+        ],
+        "detail": "openJiuwen 推出 X-Router，一种能自我演进的模型路由技术。它让每次请求都匹配到合适的模型，并把每次反馈用于优化下一次选择，从而越跑越省。该技术对昇腾亲和，实测 Token 消耗降低超过 50%。",
+        "generatedAt": "2026-10-02T23:53:50+08:00"
+      }
+    },
+    {
+      "id": "b2ee31b267f4b81c",
+      "title": "New in llama.cpp: Decision Models",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wvv6im/new_in_llamacpp_decision_models",
+      "summary": "submitted by /u/paf1138 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T22:25:06+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 新增 Decision Models 支持",
+        "takeaway": "llama.cpp 加入决策模型支持，本地推理能力再扩展，值得本地 AI 玩家关注。",
+        "bullets": [
+          "llama.cpp 新增 Decision Models 功能",
+          "消息来自 r/LocalLLaMA 社区讨论",
+          "本地运行模型的选择进一步增多"
+        ],
+        "detail": "llama.cpp 是流行的本地大模型推理工具，这次在项目中加入了 Decision Models 相关支持。该消息由 r/LocalLLaMA 社区用户分享，意味着本地部署可用的模型类型更加丰富。",
+        "generatedAt": "2026-10-02T23:53:51+08:00"
+      }
+    },
+    {
+      "id": "e7fe6292aa4d20bb",
+      "title": "Solution for latest version cursor CPU HIGH ISSUE",
+      "url": "https://forum.cursor.com/t/solution-for-latest-version-cursor-cpu-high-issue/173599",
+      "summary": "entirely: sudo nano /tmp/rgwrap Paste this into nano: #!/bin/bash RG_ORIG=\"/usr/bin/rg\" LOG=\"/tmp/rg-cursor.log\" TIMEOUT=30 args=() for arg in \"$@\"; do [[ \"$arg\" == \"--follow\" ]] && continue [[ \"$arg\" == \"--no-ignore\" ]] && continue [[ \"$ar…",
+      "source": {
+        "id": "cursor-guides",
+        "name": "Cursor 论坛指南",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T21:30:03+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor 最新版 CPU 占用过高，社区给出 rg 包装脚本解法",
+        "takeaway": "Cursor 论坛用户分享用脚本替换 rg 调用、加超时限制，缓解最新版 CPU 飙高问题。",
+        "bullets": [
+          "问题：最新版 Cursor 出现 CPU 占用过高",
+          "解法：用 /tmp/rgwrap 包装 rg 命令",
+          "手段：过滤 --follow、--no-ignore 等参数并设 30 秒超时",
+          "来源：Cursor 论坛指南，属社区临时方案"
+        ],
+        "detail": "有用户在 Cursor 论坛发帖，称最新版 Cursor 存在 CPU 占用过高的问题，并给出一个临时解法：创建 /tmp/rgwrap 脚本包装原本的 rg 搜索命令，跳过 --follow、--no-ignore 等参数，同时设置 30 秒超时，避免搜索进程长时间占用资源。",
+        "generatedAt": "2026-10-02T23:53:52+08:00"
+      }
+    },
+    {
+      "id": "b4d91c53bb7aae07",
+      "title": "llama, server: add /v1/systemone API (models: laya, julia-1, lev, openjev, kev) by ngxson · Pull Request #29818 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wvqbrz/llama_server_add_v1systemone_api_models_laya",
+      "summary": "Now you can jev without jev https://huggingface.co/ggml-org/OpenJev-GGUF https://huggingface.co/ggml-org/lev-GGUF https://huggingface.co/ggml-org/Julia-1-GGUF https://huggingface.co/ggml-org/Laya-GGUF https://huggingface.co/ggml-org/Kev-4B-…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T18:29:47+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 新增 /v1/systemone API，支持多款新模型",
+        "takeaway": "llama.cpp 服务端新增接口，可加载 laya、julia-1、lev、openjev、kev 等模型。",
+        "bullets": [
+          "PR #29818 为 llama.cpp 服务端添加 /v1/systemone API",
+          "涉及模型：laya、julia-1、lev、openjev、kev",
+          "相关 GGUF 已上传至 Hugging Face 的 ggml-org 仓库"
+        ],
+        "detail": "llama.cpp 合并了一个新 PR，在服务端加入 /v1/systemone API，用于支持 laya、julia-1、lev、openjev、kev 等模型。这些模型的 GGUF 格式文件已由 ggml-org 发布在 Hugging Face 上，方便本地运行。",
+        "generatedAt": "2026-10-02T23:53:51+08:00"
+      }
+    },
+    {
+      "id": "49adb59c4619b821",
+      "title": "AxiomicLabs' new benchmark, Tiny Theory of Mind, meant to gauge small models' theory of mind capabilities, has made it to the front page of Hugging Face's Datasets",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wvw2up/axiomiclabs_new_benchmark_tiny_theory_of_mind",
+      "summary": "submitted by /u/Megneous [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T23:01:54+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "datasets"
+      ],
+      "confidence": 0.25,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AxiomicLabs 推出小模型心智理论基准 Tiny Theory of Mind，登上 Hugging Face 数据集首页",
+        "takeaway": "小模型也能测心智理论了，这个新基准登上 Hugging Face 首页，值得关注。",
+        "bullets": [
+          "AxiomicLabs 发布 Tiny Theory of Mind 基准，专门评估小模型的心智理论能力。",
+          "该基准已登上 Hugging Face Datasets 首页，获得社区关注。",
+          "心智理论指理解他人心理状态的能力，此前多用于大模型评测。"
+        ],
+        "detail": "AxiomicLabs 推出了一个名为 Tiny Theory of Mind 的新基准，用来衡量小型模型在理解他人心理状态方面的表现。这个基准已经出现在 Hugging Face 数据集首页，说明它受到了社区关注。",
+        "generatedAt": "2026-10-02T23:53:53+08:00"
       }
     },
     {
@@ -1058,6 +1744,40 @@
       }
     },
     {
+      "id": "68d4dc8c386e28a5",
+      "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+      "url": "https://wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked",
+      "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T23:00:00+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "特朗普AI改名风波：科技高管忠诚度测试奏效",
+        "takeaway": "特朗普取消AI术语，科技高管顺从配合，暴露其政治依附。",
+        "bullets": [
+          "特朗普政府取消AI术语，科技高管未公开反对。",
+          "亿万富翁们曾热衷AI，但面对政治压力选择沉默。",
+          "此举被视为对科技领袖的忠诚度测试，且成功。"
+        ],
+        "detail": "多年来，这些亿万富翁对AI热情高涨。但当特朗普取消AI一词时，他们却温顺地跟随，未作抵抗。这反映出科技高管在政治压力下的妥协。",
+        "generatedAt": "2026-10-02T23:53:53+08:00"
+      }
+    },
+    {
       "id": "ba7902e3674462b5",
       "title": "What's the best setup for Qwen3.8 27b for a 16 gig VRAM?",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wv6eyc/whats_the_best_setup_for_qwen38_27b_for_a_16_gig",
@@ -1106,6 +1826,29 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-10-02T06:57:54+08:00"
+    },
+    {
+      "id": "4c2f6b6713ac0873",
+      "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
+      "url": "https://wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess",
+      "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T17:30:00+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "688c0d945981fb0f",
@@ -1206,6 +1949,75 @@
       "confidence": 1,
       "score": 30,
       "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d044ffb6ff970c6d",
+      "title": "Inference Engineering for Dummies",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wvsbck/inference_engineering_for_dummies",
+      "summary": "Hi all! I am a former SWE who has recently transitioned into inference engineering. I launched a side hustle a few months back and I've just taken it full time due to excessive demand. Its been such an opportunity because the people optimiz…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T20:18:44+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "528b5e5eeccc6043",
+      "title": "Help me with a better hardware setup for Local LLm",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wvumyu/help_me_with_a_better_hardware_setup_for_local_llm",
+      "summary": "​ Hello. I've been playing around with local LLMs for a while now, using my 7900xtx. I understand the concepts and usually what to do. But I'm now in a bit of choice paralysis on where to go next. I have a Ryzen 5600X with a 7900XTX and 64G…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T22:02:42+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3678dc242d2f24c1",
+      "title": "AI杀不死咨询公司",
+      "url": "https://tmtpost.com/8158278.html",
+      "summary": "下一代咨询公司真正值钱的能力是什么？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T16:50:15+08:00",
+      "fetchedAt": "2026-10-02T23:53:25+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
       "related": [],
       "pushed": false
     },
