@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "updatedAt": "2026-10-02T10:38:12+08:00",
+  "updatedAt": "2026-10-02T17:03:31+08:00",
   "items": [
     {
       "id": "9b59a27765f56de3",
@@ -550,6 +550,148 @@
       }
     },
     {
+      "id": "e009d974688ddbea",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "url": "https://technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some c…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T16:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "别被表象迷惑：大语言模型并不会推理",
+        "takeaway": "MIT Tech Review 指出，大语言模型看似在推理，实则并非真正的逻辑思考，值得警惕。",
+        "bullets": [
+          "MIT Tech Review 发文称大语言模型并不具备推理能力",
+          "文章以 2016 年 AlphaGo 对弈李世石的第 37 手为引子",
+          "提醒读者不要被模型看似聪明的表现所迷惑"
+        ],
+        "detail": "2016 年首尔的一场围棋比赛中，作者参与开发的程序下出第 37 手，看似荒唐却震惊全场。MIT Tech Review 借此指出，大语言模型的表现常被误认为推理，但实际上它们并不真正具备推理能力。",
+        "generatedAt": "2026-10-02T17:03:29+08:00"
+      }
+    },
+    {
+      "id": "2fdae240d007c3ae",
+      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+      "url": "https://qbitai.com/2026/10/499958.html",
+      "summary": "换区也没用",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T14:46:32+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arxiv"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "arXiv 最严新规：每人每月限投 2 篇，拒稿不退额度",
+        "takeaway": "arXiv 收紧投稿配额，意在遏制论文灌水，对高产研究者和 AI 领域影响明显。",
+        "bullets": [
+          "每人每月最多提交 2 篇论文，拒稿也不返还额度",
+          "换研究领域分区提交同样受限制，无法绕过",
+          "新规针对投稿量激增，尤其 AI 领域论文泛滥"
+        ],
+        "detail": "arXiv 推出史上最严投稿限制：每位作者每月最多提交 2 篇论文，即使被拒稿，额度也不退回。官方还堵住了换分区提交的漏洞，试图遏制论文数量暴涨，尤其是 AI 领域的灌水现象。",
+        "generatedAt": "2026-10-02T17:03:29+08:00"
+      }
+    },
+    {
+      "id": "cbb460fda9457003",
+      "title": "Anyone wonder why americans lag so far behind in the open LLM market?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wvipaz/anyone_wonder_why_americans_lag_so_far_behind_in",
+      "summary": "I mean , DeepSeek, Kimi, GLM, MiniMax -- the list of Chinese LLM's is such a long freaking list. As American's -- why don't we feel .. a little funny .. about being so far behind? Chinese entrepreneurs are peneuring like crazy and American'…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T10:49:11+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "美网友发问：美国开源大模型为何落后中国这么多？",
+        "takeaway": "Reddit 网友列举 DeepSeek、Kimi、GLM、MiniMax 等中国模型，质疑美国在开源 LLM 赛道为何掉队。",
+        "bullets": [
+          "发帖人点名 DeepSeek、Kimi、GLM、MiniMax 等中国开源模型",
+          "认为中国创业者投入疯狂，美国同行明显落后",
+          "讨论聚焦开源 LLM 市场，而非闭源商业模型"
+        ],
+        "detail": "这位网友在 LocalLLaMA 版块发帖，说中国开源大模型名单长得吓人，DeepSeek、Kimi、GLM、MiniMax 一个接一个。他反问美国人：落后这么多，难道不觉得有点尴尬吗？帖子把焦点放在开源生态，而非 OpenAI 这类闭源产品。",
+        "generatedAt": "2026-10-02T17:03:29+08:00"
+      }
+    },
+    {
+      "id": "a885ed61f54a415a",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:01:31+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "enterprise"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Hugging Face 推出 AutoSynthData，为企业智能体自动生成训练数据",
+        "takeaway": "企业智能体训练数据稀缺，AutoSynthData 用自动合成方式补上这一环。",
+        "bullets": [
+          "Hugging Face 发布 AutoSynthData 工具",
+          "面向企业级 AI 智能体，自动生成训练数据",
+          "解决真实业务数据难获取、标注成本高的问题"
+        ],
+        "detail": "Hugging Face 在官方渠道介绍了 AutoSynthData，这是一个为企业智能体自动合成训练数据的方案。企业场景中真实数据往往敏感、稀缺且标注昂贵，该工具试图用自动生成的方式降低数据准备门槛。目前原文未提供摘要，具体实现细节和效果尚不明确。",
+        "generatedAt": "2026-10-02T17:03:31+08:00"
+      }
+    },
+    {
       "id": "65fcf7358a05f196",
       "title": "Gufo performance .... 70tps Qwen 3.8 27b but you need to read the fine print.",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wvbmi6/gufo_performance_70tps_qwen_38_27b_but_you_need",
@@ -625,6 +767,42 @@
         "generatedAt": "2026-10-02T06:57:49+08:00"
       },
       "pushedAt": "2026-10-02T06:57:54+08:00"
+    },
+    {
+      "id": "b72f6b75e1a12852",
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "url": "https://deepseek.com/en/harness",
+      "summary": "Article URL: https://www.deepseek.com/en/harness/ Comments URL: https://news.ycombinator.com/item?id=49929489 Points: 218 # Comments: 109",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T11:11:20+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 推出 Harness 桌面端，支持 macOS 与 Windows",
+        "takeaway": "DeepSeek 发布桌面版 Harness 工具，登陆 Hacker News 热榜，引发 200 多条讨论。",
+        "bullets": [
+          "DeepSeek 上线 Harness 桌面应用，覆盖 macOS 和 Windows",
+          "消息在 Hacker News 获 218 分、109 条评论",
+          "桌面端形态意味着从网页走向本地工具链"
+        ],
+        "detail": "DeepSeek 官网发布了 Harness 桌面版，同时支持 macOS 和 Windows 两大平台。该消息在 Hacker News 上迅速升温，获得 218 分和 109 条评论，说明开发者社区对其本地化工具形态颇为关注。",
+        "generatedAt": "2026-10-02T17:03:31+08:00"
+      }
     },
     {
       "id": "f52e74133e2d25d6",
@@ -843,6 +1021,43 @@
       }
     },
     {
+      "id": "ef9634cbaf5c2ecb",
+      "title": "Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出",
+      "url": "https://infoq.cn/article/eRbEA3dMd58RNPqp5D8S",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T21:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Zig 创始人谈为何禁 AI 贡献并迁出 GitHub",
+        "takeaway": "Zig 语言创始人 Andrew Kelley 受访，解释创建 Zig、禁止 AI 生成代码贡献及将项目迁出 GitHub 的原因。",
+        "bullets": [
+          "Andrew Kelley 接受专访，谈创建 Zig 的初衷",
+          "Zig 项目明确禁止 AI 生成的代码贡献",
+          "Zig 计划将项目从 GitHub 迁出",
+          "这些决定反映开源项目对 AI 与平台依赖的反思"
+        ],
+        "detail": "Zig 语言创始人 Andrew Kelley 在专访中回顾了创建 Zig 的缘由，并解释了两项引发关注的决定：禁止 AI 生成的代码贡献，以及将 Zig 从 GitHub 迁出。这些举措体现了项目对代码质量、版权与平台依赖的考量。",
+        "generatedAt": "2026-10-02T17:03:31+08:00"
+      }
+    },
+    {
       "id": "ba7902e3674462b5",
       "title": "What's the best setup for Qwen3.8 27b for a 16 gig VRAM?",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wv6eyc/whats_the_best_setup_for_qwen38_27b_for_a_16_gig",
@@ -939,6 +1154,523 @@
       "keywords": [],
       "confidence": 0,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a8d03171c45e7805",
+      "title": "Meta-Multi-Agent Reinforcement Learning for Fast Adaptation of Interactive Policies with Applications to Autonomous Driving",
+      "url": "https://arxiv.org/abs/2610.00705",
+      "summary": "arXiv:2610.00705v1 Announce Type: new Abstract: This paper develops a meta-multi-agent reinforcement learning (meta-MARL) framework to enable fast adaptation of interactive policies in a multi-agent system (MAS). Meta-reinforcement learning…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "paperRank": 12,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a3a0eec377ea25db",
+      "title": "Kepler: Auditable World Models for ARC-AGI-3",
+      "url": "https://arxiv.org/abs/2610.00834",
+      "summary": "arXiv:2610.00834v1 Announce Type: new Abstract: ARC-AGI-3 evaluates agents in interactive environments whose rules and objectives must be inferred from observation. We present Kepler, an open-source harness that represents hypotheses as exe…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3f850181c4a09d86",
+      "title": "Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents",
+      "url": "https://arxiv.org/abs/2610.01892",
+      "summary": "arXiv:2610.01892v1 Announce Type: cross Abstract: Multimodal agents commonly generate free-form reasoning before each action. For small models, limited model capacity can result in lengthy reasoning that provides little useful guidance for …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 27,
+      "paperRank": 16,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8fe0f43c8e68b453",
+      "title": "Vote on which of Hacker News' challenges for AI have been met",
+      "url": "https://stoppels.ch/goalposts",
+      "summary": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 139 # Comments: 147",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T01:32:43+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 24,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2640fd8be1765d80",
+      "title": "LEGO-OPD: Factorized Teacher Composition for Multimodal On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2610.00333",
+      "summary": "arXiv:2610.00333v1 Announce Type: cross Abstract: Multimodal on-policy distillation (OPD) aims to improve visual grounding while preserving the strong reasoning capabilities of language models. Recent multi-teacher approaches combine LLM an…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 15,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1d9ebfbb76c99688",
+      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+      "url": "https://arxiv.org/abs/2610.00010",
+      "summary": "arXiv:2610.00010v1 Announce Type: new Abstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the m…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3e14a998894f54ef",
+      "title": "When Do Causal World Models Help Modular LLM Agents",
+      "url": "https://arxiv.org/abs/2610.00012",
+      "summary": "arXiv:2610.00012v1 Announce Type: new Abstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions are valid in another. Standa…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "108ef18a3aea3d62",
+      "title": "JevSpawn: Adaptive Agentic Inference through Compositional Action Spaces",
+      "url": "https://arxiv.org/abs/2610.00437",
+      "summary": "arXiv:2610.00437v1 Announce Type: new Abstract: LLM agents generate intermediate reasoning and actions token by token, making extended interactions slow and computationally expensive. Jev-style models offer fast probabilistic predictions ov…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "13713bf66ce09fa8",
+      "title": "MemFit: Efficient Long-Term Agentic Memory",
+      "url": "https://arxiv.org/abs/2610.00872",
+      "summary": "arXiv:2610.00872v1 Announce Type: new Abstract: Long-term memory systems for large language models (LLMs) have gained popularity for extending reasoning capabilities across applications. Current memory systems rely on LLM agents to organize…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "04d95d60408f6ad1",
+      "title": "PG-SFT: Balancing Capability Acquisition and Retention in Offline Agent Fine-Tuning",
+      "url": "https://arxiv.org/abs/2610.00949",
+      "summary": "arXiv:2610.00949v1 Announce Type: new Abstract: Supervised fine-tuning (SFT) on offline agent trajectories is the standard approach for training specialized tool-using agents, but forcing models to imitate reasoning and actions token by tok…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "62c46e0a4ecf2da6",
+      "title": "Revision-Aware Independent Agent Graphs for Dynamic Reasoning",
+      "url": "https://arxiv.org/abs/2610.01249",
+      "summary": "arXiv:2610.01249v1 Announce Type: new Abstract: Conventional reasoning protocols present a fixed, preselected task, so they cannot test whether an agent propagates relevant updates, preserves unaffected work, or reconstructs a historical ta…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3a14ca531c884aa6",
+      "title": "PRISM: A Category-Theoretic Framework for Measuring and Refining Multimodal Analogies",
+      "url": "https://arxiv.org/abs/2610.01383",
+      "summary": "arXiv:2610.01383v1 Announce Type: new Abstract: Analogical reasoning involves identifying and preserving relational structures across domains. However, existing approaches to AI-driven multimodal analogy generation lack an interpretable mea…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "da7ad8cc4d5642d4",
+      "title": "A Multi-Agent LLM Framework for Personalized Health Checkup Interpretation and Guidance",
+      "url": "https://arxiv.org/abs/2610.01451",
+      "summary": "arXiv:2610.01451v1 Announce Type: new Abstract: Personalized interpretation of health checkup results requires reasoning across longitudinal records, medical knowledge, lifestyle guidance, and healthcare navigation. We present a multi-agent…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6d01e29ad110f5b4",
+      "title": "CoEvolve: Construct-to-Edit Visual Grounding with Bidirectional State Refinement",
+      "url": "https://arxiv.org/abs/2610.01710",
+      "summary": "arXiv:2610.01710v1 Announce Type: new Abstract: Visual grounding localizes an object described by language with a bounding box. Most multimodal grounding models compress target identification, spatial reasoning, and boundary estimation into…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3d097a62c6160bc3",
+      "title": "Code Owns the Simulation, Jev Owns the Evaluation",
+      "url": "https://arxiv.org/abs/2610.01834",
+      "summary": "arXiv:2610.01834v1 Announce Type: new Abstract: Judgment models such as \\jev{} return, in a single call and without reasoning text, a probability for each described option. This makes them attractive as an agent's action-selection layer, bu…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "bece93a99cc88ba6",
+      "title": "Mimir: Physics-Grounded LLM Agents for Long-Horizon Irrigation Control",
+      "url": "https://arxiv.org/abs/2610.02038",
+      "summary": "arXiv:2610.02038v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly combine reasoning, tool use, and action, but most evidence comes from episodic tasks with relatively immediate feedback and reset failures. Long-…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a967f7c6be0bad61",
+      "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+      "url": "https://arxiv.org/abs/2610.02200",
+      "summary": "arXiv:2610.02200v1 Announce Type: new Abstract: We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduc…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b77e4831369e69df",
+      "title": "FORALL-LEAN-AGENT for Auditable Reasoning in Formal Mathematics and Software Verification",
+      "url": "https://arxiv.org/abs/2610.00885",
+      "summary": "arXiv:2610.00885v1 Announce Type: cross Abstract: Coding agents increasingly automate Lean proof development, but successful compilation alone does not establish that a candidate proves the intended statement under acceptable assumptions. W…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d386681715974a45",
+      "title": "ReCast: Contract-Preserving Protection for Fixed-Interface Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2610.01184",
+      "summary": "arXiv:2610.01184v1 Announce Type: cross Abstract: Remote multimodal models offer strong numerical reasoning capabilities over charts and speech, but sending private inputs risks exposing sensitive content. Text-only sanitization cannot dire…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "90bb38e833aa6b9a",
+      "title": "Managing Context and Communication in Distributed Agentic UAV Swarms",
+      "url": "https://arxiv.org/abs/2610.01569",
+      "summary": "arXiv:2610.01569v1 Announce Type: cross Abstract: Unmanned aerial vehicle (UAV) swarms increasingly rely on language-model agents to provide adaptive mission-level reasoning in uncertain environments. Fully distributed control, in which eac…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T12:00:00+08:00",
+      "fetchedAt": "2026-10-02T17:03:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
       "related": [],
       "pushed": false
     }
