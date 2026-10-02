@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "updatedAt": "2026-10-02T23:53:53+08:00",
+  "updatedAt": "2026-10-03T02:08:58+08:00",
   "items": [
     {
       "id": "3d3af81da4c60b98",
@@ -113,6 +113,42 @@
         "generatedAt": "2026-10-02T02:38:49+08:00"
       },
       "pushedAt": "2026-10-02T06:57:54+08:00"
+    },
+    {
+      "id": "a97398f76ee518bf",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T08:00:00+08:00",
+      "fetchedAt": "2026-10-03T02:08:41+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Chatham 借 OpenAI 模型将交易验证从 30 分钟压缩至 4 分钟",
+        "takeaway": "Chatham Financial 用 Codex 和 GPT-5.6 重构工作流，交易验证效率提升约 7 倍，展示 AI 在金融资本市场的落地价值。",
+        "bullets": [
+          "Chatham Financial 采用 OpenAI 的 Codex 与 GPT-5.6 构建技术并重设工作流",
+          "交易验证时间从 30 分钟缩短到 4 分钟以内",
+          "案例来自 OpenAI 官方，属模型发布/应用落地类信息"
+        ],
+        "detail": "Chatham Financial 是一家资本市场专业机构，它利用 OpenAI 的 Codex 和 GPT-5.6 来开发技术、重新设计工作流程。最直接的成果是：原本需要 30 分钟的交易验证，现在不到 4 分钟就能完成。",
+        "generatedAt": "2026-10-03T02:08:54+08:00"
+      }
     },
     {
       "id": "7e67b43cf9d0e609",
@@ -1163,6 +1199,42 @@
       }
     },
     {
+      "id": "ac719b52e635b227",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to r…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T23:49:04+08:00",
+      "fetchedAt": "2026-10-03T02:08:41+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "enterprise"
+      ],
+      "confidence": 0.25,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "MIT科技评论：自主AI重塑企业智能",
+        "takeaway": "企业AI已进入实际运营阶段，模型能力快速提升、成本下降，投资持续增长。",
+        "bullets": [
+          "企业AI已从愿景进入全面运营阶段",
+          "模型能力提升速度超过多数企业吸收能力",
+          "性能成本持续下降，全球AI投资预计增长"
+        ],
+        "detail": "企业AI不再是未来愿景，而是已全面投入运营。模型能力进步快于多数组织的消化速度，同时性能成本不断下降。全球AI投资预计将继续增长，自主AI正重新定义企业智能。",
+        "generatedAt": "2026-10-03T02:08:57+08:00"
+      }
+    },
+    {
       "id": "a885ed61f54a415a",
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
@@ -1847,6 +1919,31 @@
       "keywords": [],
       "confidence": 0,
       "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6dab21e2ee2d3524",
+      "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
+      "url": "https://wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue",
+      "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T17:30:00+08:00",
+      "fetchedAt": "2026-10-03T02:08:41+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 1,
+      "score": 32,
       "related": [],
       "pushed": false
     },
