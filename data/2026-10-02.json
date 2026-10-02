@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "updatedAt": "2026-10-02T09:10:40+08:00",
+  "updatedAt": "2026-10-02T10:38:12+08:00",
   "items": [
     {
       "id": "9b59a27765f56de3",
@@ -300,6 +300,42 @@
       "pushedAt": "2026-10-02T06:57:54+08:00"
     },
     {
+      "id": "8a4bff75c13d45fe",
+      "title": "deepseek为什么要在此时拥抱华为？",
+      "url": "https://tmtpost.com/8158082.html",
+      "summary": "这不是一次适配，这是一次搬家。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T09:56:11+08:00",
+      "fetchedAt": "2026-10-02T10:38:05+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 为何此时拥抱华为？",
+        "takeaway": "DeepSeek 与华为的合作被形容为一次搬家，而非简单适配，值得关注。",
+        "bullets": [
+          "DeepSeek 选择在此时与华为合作",
+          "钛媒体称这不是适配，而是搬家",
+          "具体合作细节尚未在摘要中披露"
+        ],
+        "detail": "钛媒体以“这不是一次适配，这是一次搬家”来形容 DeepSeek 拥抱华为的举动，暗示双方合作程度远超常规技术适配。摘要未透露更多细节，但这一表述本身已引发外界对 DeepSeek 与华为合作深度的关注。",
+        "generatedAt": "2026-10-02T10:38:10+08:00"
+      }
+    },
+    {
       "id": "317971da35b148b9",
       "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
       "url": "https://blog.cloudflare.com/clef-decision-models",
@@ -478,6 +514,40 @@
         "generatedAt": "2026-10-02T06:57:47+08:00"
       },
       "pushedAt": "2026-10-02T06:57:54+08:00"
+    },
+    {
+      "id": "1014192d2b6f5686",
+      "title": "OpenAI 新文章把超级智能拉回执行层，十亿个爱因斯坦也要有人去采矿",
+      "url": "https://tmtpost.com/8158249.html",
+      "summary": "机器智能最大的用武之地，可能是那些枯燥、庞大、重复的执行工作。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T10:32:28+08:00",
+      "fetchedAt": "2026-10-02T10:38:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 新文：超级智能也要落地执行层",
+        "takeaway": "OpenAI 提出，机器智能最大价值在枯燥重复的执行工作，而非只做天才式思考。",
+        "bullets": [
+          "OpenAI 新文章把超级智能拉回执行层",
+          "观点称十亿个爱因斯坦也得有人去采矿",
+          "强调机器智能擅长枯燥庞大的重复工作"
+        ],
+        "detail": "OpenAI 在新文章中提出，机器智能最大的用武之地可能不是替代天才，而是承担那些枯燥、庞大、重复的执行工作。即便拥有十亿个爱因斯坦级别的智能，也需要有人去采矿、做基础执行。",
+        "generatedAt": "2026-10-02T10:38:10+08:00"
+      }
     },
     {
       "id": "65fcf7358a05f196",
@@ -701,6 +771,76 @@
         "generatedAt": "2026-10-02T06:57:51+08:00"
       },
       "pushedAt": "2026-10-02T06:57:54+08:00"
+    },
+    {
+      "id": "bb7efdfc0b9b97c1",
+      "title": "Graphify：整合代码库上下文，优化基于代理的软件工程",
+      "url": "https://infoq.cn/article/8XuP4iZKKr3ex2VTDxpl",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T18:00:00+08:00",
+      "fetchedAt": "2026-10-02T10:38:05+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "代码库"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Graphify：整合代码库上下文，优化代理式软件工程",
+        "takeaway": "Graphify 是一款开源工具，帮 AI 代理理解整个代码库上下文，提升自动化编程效果。",
+        "bullets": [
+          "Graphify 是面向代理式软件工程的开源工具",
+          "核心能力是整合代码库上下文供 AI 代理使用",
+          "目标是让代理更准确理解项目结构，优化开发流程"
+        ],
+        "detail": "Graphify 是一款开源工具，专注于为基于 AI 代理的软件工程提供代码库上下文整合。它把项目代码的结构和关系汇总起来，让代理在自动改代码、查问题时能掌握更完整的背景信息，从而提升开发效率。",
+        "generatedAt": "2026-10-02T10:38:12+08:00"
+      }
+    },
+    {
+      "id": "e439583868c6e20f",
+      "title": "别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
+      "url": "https://infoq.cn/article/DEyrayxufObhpoeZgOKT",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T18:00:00+08:00",
+      "fetchedAt": "2026-10-02T10:38:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "别再给 Agent 毛坯房：QCon 上海谈 Agent 开发环境实践",
+        "takeaway": "InfoQ 中国分享如何为 AI Agent 搭建拎包入住的开发环境，值得关注。",
+        "bullets": [
+          "议题来自 QCon 上海，聚焦 Agent 开发环境",
+          "主张别让 Agent 从毛坯房起步，需预置好环境",
+          "面向开发者，探讨构建开箱即用的实践"
+        ],
+        "detail": "InfoQ 中国发布 QCon 上海的一场分享，主题是构建让 AI Agent 拎包入住的开发环境。文章把当前给 Agent 只提供毛坯房式基础条件的做法当作问题，讨论如何预置好环境，让 Agent 开箱即可用。",
+        "generatedAt": "2026-10-02T10:38:12+08:00"
+      }
     },
     {
       "id": "ba7902e3674462b5",
