@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "updatedAt": "2026-10-02T10:38:12+08:00",
+  "updatedAt": "2026-10-03T06:43:02+08:00",
   "items": [
     {
       "id": "9df1a7bfd144d02d",
@@ -775,7 +775,7 @@
       "confidence": 0.6,
       "score": 48,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "开源工具 Zentrola：统一管理团队 Codex 与 Claude Code 的 API Key 和模型权限",
         "takeaway": "个人用 AI 编程工具很简单，团队用则面临密钥分发、权限控制和故障通知等管理难题，Zentrola 试图解决这些问题。",
@@ -786,7 +786,8 @@
         ],
         "detail": "一个人用 AI 编程工具只需填一个 API Key，但团队场景下，真实密钥是否该发给每个人、新成员能用哪些模型、离职后如何撤销权限、上游故障时如何通知全员临时修改，都成了管理问题。作者因此开源了 Zentrola，试图集中解决这些配置与权限管理难题。",
         "generatedAt": "2026-10-02T10:38:11+08:00"
-      }
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
     },
     {
       "id": "27a871214755fde3",

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "updatedAt": "2026-10-03T02:08:58+08:00",
+  "updatedAt": "2026-10-03T06:43:02+08:00",
   "items": [
     {
       "id": "a80484c2d5849bdb",
@@ -26,7 +26,7 @@
       "confidence": 1,
       "score": 55,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "艾伯森联手OpenAI：用ChatGPT企业版重塑零售体验",
         "takeaway": "美国杂货巨头艾伯森借助ChatGPT企业版和OpenAI API，提升内部效率并优化顾客购物体验。",
@@ -37,7 +37,8 @@
         ],
         "detail": "美国杂货零售商艾伯森公司正在利用ChatGPT企业版和OpenAI的API，帮助内部团队提高工作效率，同时让数百万顾客的购物过程更加轻松便捷。",
         "generatedAt": "2026-10-02T24:35:38+08:00"
-      }
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
     },
     {
       "id": "8e206c4d9ed6ea5b",
@@ -62,7 +63,7 @@
       "confidence": 0.5,
       "score": 54,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI 发布 GPT-6 家族模型选型指南",
         "takeaway": "OpenAI 面向创业公司发布 GPT-6 系列使用指南，覆盖选型、调参到生产落地。",
@@ -73,7 +74,82 @@
         ],
         "detail": "OpenAI 发布了一份 GPT-6 家族模型指南，主要面向创业公司。指南讲解如何在不同 GPT-6 模型间做选择、调整推理强度、改进提示词和技能、协调工具调用，并为生产环境的工作流做好准备。",
         "generatedAt": "2026-10-03T02:08:54+08:00"
-      }
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "cf70e45ebac24c28",
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "url": "https://theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to b…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T02:00:00+08:00",
+      "fetchedAt": "2026-10-03T06:42:50+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "enterprise"
+      ],
+      "confidence": 1,
+      "score": 52,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "OpenAI 推出 Dot 智能体：能办公也能订晚餐",
+        "takeaway": "OpenAI 新智能体平台 Dots 主打企业场景，但也能处理订餐等日常任务，定位介于办公软件与生活助手之间。",
+        "bullets": [
+          "OpenAI 发布智能体平台 Dots，内含多个可执行任务的 Dot 智能体",
+          "风格偏企业办公软件，与 Meta Muse 的亲和路线形成对比",
+          "除工作场景外，还能完成订晚餐等日常事务"
+        ],
+        "detail": "OpenAI 新推出的智能体平台 Dots，由一群可听命行事的“小家伙”组成。它不像 Meta Muse 那样走亲民路线，更像一款恰好能帮你订晚餐的办公软件。",
+        "generatedAt": "2026-10-03T06:42:56+08:00"
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "db634ba586290c60",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "url": "https://theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI s…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T05:08:37+08:00",
+      "fetchedAt": "2026-10-03T06:42:50+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "feature"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Meta 开源代码，让你自制 Muse AI 小设备",
+        "takeaway": "Meta 开源 Muse AI 智能体代码，开发者可自制硬件小工具，AI 硬件门槛进一步降低。",
+        "bullets": [
+          "Meta 开源了 Muse AI 智能体的代码，允许开发者自制硬件设备。",
+          "官方示例包括彩色电子墨水屏提醒器、HDMI 设备等。",
+          "此举可能推动更多第三方 AI 硬件项目出现。"
+        ],
+        "detail": "Meta 将旗下新 AI 智能体 Muse 的代码开源，开发者可据此打造自己的 Muse 小设备。官方建议的玩法包括把 Muse 装到彩色电子墨水屏上显示提醒，或接入 HDMI 设备等。",
+        "generatedAt": "2026-10-03T06:42:56+08:00"
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
     },
     {
       "id": "88ce35f7c1e7f2a2",
@@ -98,7 +174,7 @@
       "confidence": 0.5,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "白宫召集科技巨头签AI安全承诺，但消费者仅2%买单",
         "takeaway": "白宫让扎克伯格、贝索斯、马斯克等CEO签署AI安全承诺，但消费者对AI产品接受度极低。",
@@ -109,7 +185,8 @@
         ],
         "detail": "本周白宫几乎把科技界所有大CEO聚到一起，包括扎克伯格、贝索斯、马斯克和Anthropic的Dario Amodei，让他们签署一份AI安全承诺，特朗普称其有“道德约束力”。特朗普还签署了其他相关文件。但现实是，消费者对AI的购买意愿极低，仅2%的人真正买单。",
         "generatedAt": "2026-10-03T02:08:55+08:00"
-      }
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
     },
     {
       "id": "fe94e1e8395946ae",
@@ -134,7 +211,7 @@
       "confidence": 0.5,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "白宫召集科技巨头签署AI安全承诺，改口称“超级智能”",
         "takeaway": "白宫让扎克伯格、贝索斯、马斯克等CEO签署AI安全承诺，特朗普称其“道德约束”，并改称“超级智能”。",
@@ -145,7 +222,236 @@
         ],
         "detail": "本周，白宫把扎克伯格、贝索斯、马斯克以及Anthropic的达里奥·阿莫代伊等科技巨头CEO聚到一起，让他们签署了一份AI安全承诺。特朗普称这份承诺“具有道德约束力”，同时他还签署了其他文件，并把AI称作“超级智能”。",
         "generatedAt": "2026-10-03T02:08:56+08:00"
-      }
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "e0956ad22860900f",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "url": "https://theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T04:08:40+08:00",
+      "fetchedAt": "2026-10-03T06:42:50+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users",
+        "update"
+      ],
+      "confidence": 0.5,
+      "score": 45,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "苹果收紧 Mac 磁盘访问权限，应对 AI 智能体风险",
+        "takeaway": "苹果将限制 Mac 的「完全磁盘访问」权限，因为 AI 智能体大幅提升了数据被滥用的风险。",
+        "bullets": [
+          "苹果将在 Mac 上新增「完全磁盘访问」限制",
+          "原因是 AI 智能体带来的风险「显著」增加",
+          "新控制措施将逐步推出，保护用户数据"
+        ],
+        "detail": "苹果周五宣布，将针对 Mac 的「完全磁盘访问」权限推出新的控制措施。此举是为了应对 AI 智能体可能带来的安全风险，苹果称这类风险已「显著」上升。新限制旨在确保只有真正需要该权限的用户才能授权，从而降低数据被 AI 工具滥用的可能。",
+        "generatedAt": "2026-10-03T06:42:56+08:00"
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "475637ef6cca5f2b",
+      "title": "microsoft/FrogNano-4B-2609 · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1ww40o2/microsoftfrognano4b2609_hugging_face",
+      "summary": "An agentic model from Microsoft for the GPU poor https://huggingface.co/bartowski/FrogNano-4B-2609-GGUF FrogNano is derived from Qwen/Qwen3.5-4B, a general-purpose post-trained model designed for language, reasoning, coding, agentic, and mu…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T04:16:26+08:00",
+      "fetchedAt": "2026-10-03T06:42:50+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU"
+      ],
+      "confidence": 0.5,
+      "score": 45,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "微软发布 FrogNano-4B 智能体模型，面向低显存用户",
+        "takeaway": "微软推出 4B 参数智能体模型 FrogNano，主打低显存设备也能跑，已有人做 GGUF 量化版。",
+        "bullets": [
+          "FrogNano-4B 是微软推出的智能体模型，定位面向 GPU 资源有限的用户",
+          "模型基于 Qwen3.5-4B 衍生，覆盖语言、推理、编程与智能体任务",
+          "bartowski 已发布其 GGUF 量化版本，方便本地部署"
+        ],
+        "detail": "微软在 Hugging Face 上放出了 FrogNano-4B，一个面向「GPU 穷人」的智能体模型。它由 Qwen3.5-4B 衍生而来，后者是经过后训练的通用模型，支持语言、推理、编程和智能体等多种任务。目前已有 GGUF 量化版本可供下载。",
+        "generatedAt": "2026-10-03T06:42:58+08:00"
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "5d6b83b837ff1cd2",
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars",
+      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T03:15:51+08:00",
+      "fetchedAt": "2026-10-03T06:42:50+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "layoffs"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "TechCrunch Disrupt 2026 推75美元特惠票，面向被裁科技人",
+        "takeaway": "TechCrunch 为受裁员影响的科技从业者提供 75 美元 Expo+ 通行证，限前 100 名符合条件者。",
+        "bullets": [
+          "TechCrunch Disrupt 2026 推出 75 美元 Expo+ 通行证",
+          "面向受裁员影响的科技从业者，限前 100 名",
+          "活动称下一次机会可能只差一次对话"
+        ],
+        "detail": "TechCrunch 宣布，受裁员影响的科技从业者可以 75 美元优惠价购买 Disrupt 2026 的 Expo+ 通行证。该优惠仅限前 100 名符合条件的人，活动方称下一个机会可能就在一次对话之后。",
+        "generatedAt": "2026-10-03T06:42:58+08:00"
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "39b9fbb58d7c1263",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T02:11:27+08:00",
+      "fetchedAt": "2026-10-03T06:42:50+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 0.5,
+      "score": 44,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "苹果收紧 macOS 全盘访问权限，防范 AI 智能体风险",
+        "takeaway": "苹果将新增管控措施，限制 AI 智能体对用户文件、信息等数据的全盘访问，降低隐私风险。",
+        "bullets": [
+          "苹果宣布为 macOS 的「全盘访问」权限增加新管控",
+          "理由是 AI 智能体能力增强，广泛访问用户数据风险更高",
+          "涉及文件、信息、邮件和浏览历史等敏感内容",
+          "可能影响依赖全盘访问的 AI 工具和自动化应用"
+        ],
+        "detail": "苹果表示，随着 AI 智能体越来越强大，让它们广泛访问用户的文件、信息、邮件和浏览历史会带来更大风险。因此，macOS 将针对「全盘访问」权限增加新的控制措施，以限制这类敏感数据的暴露。",
+        "generatedAt": "2026-10-03T06:42:58+08:00"
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "575ad95effd7644f",
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china",
+      "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T02:39:36+08:00",
+      "fetchedAt": "2026-10-03T06:42:50+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip",
+        "chips",
+        "NVIDIA"
+      ],
+      "confidence": 0.78,
+      "score": 42,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "美科技公司CEO被捕，涉嫌走私3亿美元英伟达芯片入华",
+        "takeaway": "英伟达芯片走私问题持续发酵，一名科技公司CEO因涉嫌向中国走私价值3亿美元芯片被捕。",
+        "bullets": [
+          "美国逮捕一名科技公司CEO，指控其走私3亿美元英伟达芯片至中国",
+          "这是英伟达芯片走私系列案件的最新进展，逮捕行动仍在继续",
+          "事件凸显美国出口管制下，高端芯片仍通过非法渠道流入中国"
+        ],
+        "detail": "美国当局逮捕了一名科技公司CEO，指控其将价值3亿美元的英伟达芯片走私到中国。这是英伟达芯片走私问题的最新案例，表明尽管有出口管制，非法流向中国的芯片交易仍在持续，相关逮捕行动也在继续。",
+        "generatedAt": "2026-10-03T06:42:59+08:00"
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "91da56dada8bf63a",
+      "title": "CUDA: fuse shared experts into MMVQ by am17an · Pull Request #29184 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1ww1sn4/cuda_fuse_shared_experts_into_mmvq_by_am17an_pull",
+      "summary": "MoE speedup, but only for some MoE architectures (like Qwen 35B A3B) submitted by /u/jacek2023 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T02:47:39+08:00",
+      "fetchedAt": "2026-10-03T06:42:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "llama.cpp 新 PR：把共享专家融合进 MMVQ，加速部分 MoE 模型",
+        "takeaway": "llama.cpp 合并一项优化，将共享专家融合进 MMVQ，让 Qwen 35B A3B 等部分 MoE 架构推理提速。",
+        "bullets": [
+          "PR 由 am17an 提交，编号 #29184，已并入 ggml-org/llama.cpp",
+          "做法是把共享专家融合进 MMVQ 量化矩阵乘向量内核",
+          "仅对部分 MoE 架构有效，如 Qwen 35B A3B",
+          "其他 MoE 架构不一定受益，效果取决于模型结构"
+        ],
+        "detail": "这是 llama.cpp 的一个合并请求，作者把 MoE 中的共享专家计算融合进 MMVQ 内核，从而减少开销、提升推理速度。不过该优化只对部分 MoE 架构生效，例如 Qwen 35B A3B，其他 MoE 模型未必受益。",
+        "generatedAt": "2026-10-03T06:42:59+08:00"
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
     },
     {
       "id": "a84fd7ae93e80a59",
@@ -168,7 +474,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Circuit Breaker Labs 推出 AI 安全测试假人，保护儿童与成人",
         "takeaway": "这家公司用「碰撞测试假人」思路，检测 AI 对用户的心理伤害，值得关注。",
@@ -179,7 +485,8 @@
         ],
         "detail": "人们常担忧 AI 未来可能毁灭人类，却忽略了它已经对一些人造成心理伤害。Circuit Breaker Labs 为此创建了「碰撞测试假人」，用来评估 AI 的心理安全风险，希望让 AI 对儿童和成人都更安全。",
         "generatedAt": "2026-10-03T02:08:56+08:00"
-      }
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
     },
     {
       "id": "b1ae46572b34d531",
@@ -202,7 +509,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "与马斯克分手为何这么难？",
         "takeaway": "希冯·齐利斯在X上宣布与马斯克分手，方式像早期社交网络闹剧，引发关注。",
@@ -213,7 +520,80 @@
         ],
         "detail": "希冯·齐利斯在X上宣布与埃隆·马斯克分手，马斯克是她四个孩子的父亲。她通过引用“Big Tech Alert”账号的帖子来公布这一消息，这种操作被形容为MySpace时代的互联网闹剧。",
         "generatedAt": "2026-10-03T02:08:56+08:00"
-      }
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "5113cb6536806d6e",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T05:09:14+08:00",
+      "fetchedAt": "2026-10-03T06:42:50+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "肖恩·帕克携唱片公司支持重塑 Stability AI，转向音乐",
+        "takeaway": "曾颠覆音乐行业的肖恩·帕克，如今获唱片公司资金支持，将 Stability AI 重心转向音乐。",
+        "bullets": [
+          "肖恩·帕克正在围绕音乐重建 Stability AI。",
+          "他此次获得了唱片公司的祝福和资金。",
+          "帕克曾因 Napster 与音乐行业对立。"
+        ],
+        "detail": "曾让音乐行业学会“先斩后奏”的肖恩·帕克，如今带着唱片公司的祝福和资金回归。他正围绕音乐重建 Stability AI，试图在 AI 与音乐产业间架起桥梁。",
+        "generatedAt": "2026-10-03T06:42:59+08:00"
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "0ddb54cdbd615f0e",
+      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash",
+      "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T04:30:27+08:00",
+      "fetchedAt": "2026-10-03T06:42:50+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "亚马逊10亿美元应对数据中心抵制，反遭更多批评",
+        "takeaway": "亚马逊宣布10亿美元计划回应数据中心社区反弹，但被批淡化污染问题，引发更多批评。",
+        "bullets": [
+          "亚马逊推出10亿美元计划，应对数据中心引发的社区抵制。",
+          "公司因终止保密协议受赞，但被批淡化数据中心污染。",
+          "批评者认为该计划未能解决环境污染等核心问题。"
+        ],
+        "detail": "亚马逊宣布了一项10亿美元的计划，以应对数据中心引发的社区反弹。公司因结束保密协议而受到赞扬，但被批评淡化数据中心的污染问题，导致更多批评。",
+        "generatedAt": "2026-10-03T06:43:01+08:00"
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
     },
     {
       "id": "caa31b15727e547c",
@@ -238,7 +618,7 @@
       "confidence": 0.5,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "开发者把 iPhone 当第二块 GPU，为 24GB MacBook 加速本地大模型",
         "takeaway": "用 iPhone 分担 MacBook 的模型推理负载，Qwen 3.8 27B 预填充提速 29–44%，还能分担部分上下文窗口。",
@@ -250,7 +630,46 @@
         ],
         "detail": "一位开发者在 Reddit 分享，他把 iPhone 变成 24GB MacBook 的第二块 GPU，用来加速本地大模型推理。实测 Qwen 3.8 27B 的端到端预填充速度提升 29–44%，手机还分担了部分上下文窗口。他提醒手机界面显示的 TPS 目前只算了手机负责的层，正在改成端到端统计。",
         "generatedAt": "2026-10-03T02:08:58+08:00"
-      }
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "94343469bb36f60f",
+      "title": "I've ended up with an AI lab in a public community college. What should we actually be teaching?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1ww6wvo/ive_ended_up_with_an_ai_lab_in_a_public_community",
+      "summary": "Looking for some ideas from people who know a lot more about this than I do. We've got funding for a small AI lab in a public further education college in Ireland (roughly community college in the US). The hardware is reasonably decent. The…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T06:18:29+08:00",
+      "fetchedAt": "2026-10-03T06:42:50+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "funding"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "爱尔兰社区学院建AI实验室，该教什么引热议",
+        "takeaway": "一位教育者在LocalLLaMA发帖求助：社区学院有了AI实验室和硬件，但不知该教学生什么。",
+        "bullets": [
+          "爱尔兰一所公立继续教育学院获得资金，建起小型AI实验室",
+          "硬件配置尚可，发帖人却对课程方向感到迷茫",
+          "在LocalLLaMA向更懂行的人征集教学建议",
+          "反映AI教育落地时，课程设计比买设备更难"
+        ],
+        "detail": "发帖人在爱尔兰一所公立继续教育学院（相当于美国社区学院）建起了小型AI实验室，硬件条件还不错，但不确定该教学生什么。于是到LocalLLaMA发帖，向更懂行的人请教课程方向。",
+        "generatedAt": "2026-10-03T06:43:01+08:00"
+      },
+      "pushedAt": "2026-10-03T06:43:02+08:00"
     },
     {
       "id": "c3a73cd77a23a3b0",
@@ -275,7 +694,82 @@
       "confidence": 1,
       "score": 34,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "72acbfe91034fe9d",
+      "title": "Self-hosting AI does not save money, and I do it anyway",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1ww2jsu/selfhosting_ai_does_not_save_money_and_i_do_it",
+      "summary": "Hi folks, I'm a long-time lurker and big fan of this subreddit and a massive self-hosting fan (also outside of AI). I doubt many people will disagree with me here because I see the same arguments being made in many posts. However, I thought…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T03:17:01+08:00",
+      "fetchedAt": "2026-10-03T06:42:50+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "cbcf7c43895ff872",
+      "title": "AMD Ryzen AI Developer Platform OS updated with ROCm 10.0, Linux 7.2",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1ww49o9/amd_ryzen_ai_developer_platform_os_updated_with",
+      "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T04:26:41+08:00",
+      "fetchedAt": "2026-10-03T06:42:50+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "AMD"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "c307e47225512228",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 105 # Comments: 26",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T02:01:16+08:00",
+      "fetchedAt": "2026-10-03T06:42:50+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-03T06:43:02+08:00"
     }
   ],
   "topic": "ai"
