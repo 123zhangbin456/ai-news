@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "updatedAt": "2026-10-04T03:37:17+08:00",
+  "updatedAt": "2026-10-04T07:27:09+08:00",
   "items": [
     {
       "id": "a80484c2d5849bdb",
@@ -212,7 +212,7 @@
       "confidence": 0.8,
       "score": 51,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "开源乐高 AI 生成器：用 ChatGPT 和 Claude 写 LDraw 代码",
         "takeaway": "开发者做了一款开源工具，让 AI 直接生成乐高积木的 LDraw 拼装代码，值得关注 AI 生成结构化 3D 模型的新玩法。",
@@ -224,7 +224,8 @@
         ],
         "detail": "作者在 Hacker News 首次发帖，介绍自己从去年 12 月起尝试让 ChatGPT 和 Claude 生成 LDraw 源码。LDraw 相当于乐高积木的底层拼装语言，用户可用 AI 直接产出积木模型代码，项目已开源。",
         "generatedAt": "2026-10-03T16:20:16+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "6a5b101ac2019002",
@@ -249,7 +250,7 @@
       "confidence": 1,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI安全团队再震荡：负责人离职，三名员工因泄密被解雇",
         "takeaway": "OpenAI安全团队人事动荡持续，负责人离职且三名员工因泄密被开除，引发外界对其安全治理的担忧。",
@@ -260,7 +261,8 @@
         ],
         "detail": "据量子位消息，OpenAI安全团队负责人已离职，同时有三名员工因泄密被公司开除。这是该团队近期接连发生的人事变动之一，外界对OpenAI内部安全与保密管理产生疑虑。",
         "generatedAt": "2026-10-03T16:20:16+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "73cf1fef21e2d4df",
@@ -285,7 +287,7 @@
       "confidence": 0.63,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI 安全员工离职，公开敲响警钟",
         "takeaway": "曾负责 OpenAI 模型安全报告的 David Robinson 辞职，并撰文公开表达担忧。",
@@ -296,7 +298,8 @@
         ],
         "detail": "David Robinson 原本负责为 OpenAI 每次重大模型发布撰写安全报告。本周他选择辞职，并在《大西洋月刊》发表评论文章公开表达担忧。这一举动让外界更加关注 OpenAI 在安全方面的实际做法。",
         "generatedAt": "2026-10-04T24:53:47+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "2d915e86c2608ecf",
@@ -319,7 +322,7 @@
       "confidence": 0,
       "score": 49,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Meta 开放 Muse 代码，邀你自造智能硬件",
         "takeaway": "Meta 免费开放 Muse 代码，想让开发者把它的智能体验装进电视、烤面包机等各类设备。",
@@ -330,7 +333,8 @@
         ],
         "detail": "Meta 希望 Muse 不只出现在自家产品里，而是进入电视、烤面包机等各种日常设备。为此，它把相关代码免费开放，让开发者自己动手打造搭载 Muse 的硬件。",
         "generatedAt": "2026-10-03T08:47:58+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "e08c80b1c2c682a0",
@@ -392,7 +396,7 @@
       "confidence": 1,
       "score": 48,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DeepSeek扩招弹性计算团队，资深工程师优先",
         "takeaway": "DeepSeek正扩充弹性计算团队，招聘资深工程师，岗位JD直接附上技术报告。",
@@ -403,7 +407,8 @@
         ],
         "detail": "量子位消息，DeepSeek正在扩招弹性计算团队，释放大量招聘名额，尤其青睐资深工程师。有意思的是，岗位JD没有用常规描述，而是直接甩出一篇技术报告，用技术内容吸引人才。",
         "generatedAt": "2026-10-03T21:32:26+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "db634ba586290c60",
@@ -689,7 +694,7 @@
       "confidence": 0.6,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "NocoBase 更新：AI 员工支持知识库文档引用",
         "takeaway": "开源无代码平台 NocoBase 为 AI 员工加入知识库文档引用能力，让 AI 回答更有据可依。",
@@ -700,7 +705,8 @@
         ],
         "detail": "NocoBase 汇总了一周产品更新，重点是为 AI 员工加入知识库文档引用功能，让 AI 在回答时能引用相关文档。平台目前维护 main、next、develop 三个分支：main 最稳定推荐安装，next 含初步测试的新功能，develop 面向开发。",
         "generatedAt": "2026-10-04T24:53:46+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "ef48f9156b3fa86c",
@@ -725,7 +731,7 @@
       "confidence": 1,
       "score": 43,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "苹果收紧全盘访问权限，防 AI 代理滥用",
         "takeaway": "苹果修改 macOS 全盘访问权限，限制 AI 代理读取用户数据，回应 Meta 等公司对隐私的担忧。",
@@ -736,7 +742,8 @@
         ],
         "detail": "苹果修改了 macOS 的全盘访问权限，以遏制 AI 代理滥用。Meta 曾表示 FDA 机制不足以保护消息隐私，但苹果并不认同。这一调整可能影响需要读取用户文件的 AI 应用。",
         "generatedAt": "2026-10-03T08:47:58+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "161add0de67c1e5b",
@@ -761,7 +768,7 @@
       "confidence": 1,
       "score": 43,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "爱奇艺AIGC网络故事片《灵魂摆渡》系列分账票房破千万",
         "takeaway": "AIGC网络故事片首次实现千万级分账，验证了AI生成内容在商业影视中的变现能力。",
@@ -772,7 +779,8 @@
         ],
         "detail": "爱奇艺与长信传媒出品的《灵魂摆渡》“浮生梦”系列AIGC网络故事片，累计分账票房已突破1000万元。前两部8月22日上线，首周即收回两部制作成本，首月分账超800万；第三部10月1日上线后，系列热度进一步攀升。",
         "generatedAt": "2026-10-03T21:32:27+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "575ad95effd7644f",
@@ -876,7 +884,7 @@
       "confidence": 1,
       "score": 42,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "llama.cpp 合并 PR：Qwen 模型索引器显存占用减半",
         "takeaway": "llama.cpp 社区 PR 让 Qwen Flash Next 的索引器评分内存减半，本地跑大模型更省显存。",
@@ -887,7 +895,8 @@
         ],
         "detail": "llama.cpp 仓库合并了一个来自 ServeurpersoCom 的 PR（#29825），把 Qwen Flash Next 索引器评分的显存占用砍掉一半。对在本地跑 Qwen 系列模型的用户来说，这意味着同样的显卡能塞下更长上下文或更大模型。",
         "generatedAt": "2026-10-03T16:20:15+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "a84fd7ae93e80a59",
@@ -1015,7 +1024,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "盘点能住进你短信里的 AI 智能体",
         "takeaway": "TechCrunch 汇总了多款可直接在短信中使用的 AI 助手，覆盖通用、家庭、旅行和工作场景。",
@@ -1026,7 +1035,8 @@
         ],
         "detail": "TechCrunch 列出了一批值得关注的 AI 智能体，它们能直接在你的短信里运行。这些智能体既有通用助手，也有针对家庭、旅行和工作等场景设计的专用型。",
         "generatedAt": "2026-10-04T24:53:48+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "4a46493e4f879979",
@@ -1051,7 +1061,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Splice CEO 警告：AI 邮件正在扼杀真实对话",
         "takeaway": "Splice CEO 认为 AI 生成的邮件让沟通失去人情味，值得每个依赖邮件协作的人警惕。",
@@ -1062,7 +1072,8 @@
         ],
         "detail": "Splice 首席执行官 Kakul Srivastava 指出，AI 生成的邮件正在扼杀真正的对话。Splice 是无数音乐制作人获取采样和循环的平台，其素材曾出现在 Lisa 的《Money》和 Sabrina Carpenter 的《Espresso》等热门歌曲中。她认为这种趋势值得警惕。",
         "generatedAt": "2026-10-04T24:53:48+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "0ddb54cdbd615f0e",
@@ -1125,7 +1136,7 @@
       "confidence": 0.57,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Jev估值达100亿美元，创始人Diogo Almeida回应一切",
         "takeaway": "AI初创公司Jev估值冲上100亿美元，创始人公开答疑，引发关注。",
@@ -1136,7 +1147,8 @@
         ],
         "detail": "据量子位报道，AI公司Jev的估值已达到100亿美元。其创始人Diogo Almeida针对外界的疑问进行了集中回应。目前具体融资细节和回应内容尚未披露。",
         "generatedAt": "2026-10-03T16:20:17+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "caa31b15727e547c",
@@ -1199,7 +1211,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "用户吐槽 Grok 4.7 今日表现异常糟糕",
         "takeaway": "Cursor 用户反映 Grok 4.7 今日质量下滑，误报 bug，多模型复核后确认是模型问题。",
@@ -1210,7 +1222,8 @@
         ],
         "detail": "一位 Cursor 用户在 r/cursor 发帖称，Grok 4.7 今天表现明显异常，无论调到 extra-high、high 还是 medium 档位都很糟糕。它通过 /review-bugbot 标记了多个所谓 bug，但实际并不存在；用户随后用 /multi-model-review 交叉验证，其他模型并未发",
         "generatedAt": "2026-10-03T09:16:07+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "779e5256f3c78b56",
@@ -1235,7 +1248,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "用 MCP 给 Cursor 接上长期记忆，1 分钟搞定跨会话遗忘",
         "takeaway": "开发者分享通过 MCP 为 Cursor 添加持久长期记忆，解决跨会话丢失项目规则和数据库结构的问题。",
@@ -1246,7 +1259,8 @@
         ],
         "detail": "有开发者指出，.cursorrules 适合静态规范，但项目演进后单一规则文件会变得臃肿：每次提问都占用上下文 token，也无法记录项目变化。他通过 MCP 给 Cursor 接入了持久长期记忆，配置只需 1 分钟，从而跨会话保留项目规则和数据库结构。",
         "generatedAt": "2026-10-03T09:16:08+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "4e0d8eb60705965c",
@@ -1271,7 +1285,7 @@
       "confidence": 0,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "177B 大模型在单张 RTX 5070 上跑到 11–15 tok/s",
         "takeaway": "靠 llama.cpp 专家流式加载，12GB 显存也能跑 177B 级 MoE 模型，速度比之前提升明显。",
@@ -1283,7 +1297,8 @@
         ],
         "detail": "作者在 Windows 上用 llama.cpp 做专家流式加载，让 12GB 显存的 RTX 5070 也能跑 177B 的 Qwen3.8-Flash-Next。实测约 11.5 tok/s，比之前的约 7 tok/s 有明显提升，说明低显存跑超大 MoE 模型正变得可行。",
         "generatedAt": "2026-10-03T16:20:18+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "3fe446c29a4c2944",
@@ -1308,7 +1323,7 @@
       "confidence": 0.5,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "无风扇迷你主机跑本地语音助手，选哪个小模型？",
         "takeaway": "有人在低配无风扇迷你 PC 上搭建全离线语音助手，正征集适合的小型 LLM 建议。",
@@ -1319,7 +1334,8 @@
         ],
         "detail": "发帖人打算在一台无风扇迷你 PC 上做完全离线的语音优先助手，配置是 4 核 Celeron J6412、16GB DDR4、512GB SATA 固态，只有性能很弱的 Intel UHD 核显。计划用 Ubuntu 24.04、llama.cpp 和 Python 搭建，正在问大家有哪些适合的小模型可选。",
         "generatedAt": "2026-10-03T16:20:17+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "0bb7da254e147a90",
@@ -1344,7 +1360,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Meta AI 助手 Muse 被曝为亲友建立详细画像",
         "takeaway": "数百万用户下载 Meta 的 AI 助手 Muse，但让它干活可能以隐私为代价。",
@@ -1355,7 +1371,8 @@
         ],
         "detail": "Meta 的 AI 助手 Muse 已被数百万人下载。但 Wired 报道指出，用户若想让 Muse 按自己的指令行事，可能得付出隐私代价——它会为你的朋友和家人建立详细画像。",
         "generatedAt": "2026-10-03T21:32:27+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "ab2b823eb63dd722",
@@ -1380,7 +1397,7 @@
       "confidence": 1,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "用户吐槽 Grok 4.7：Token 消耗猛增，体验却与 4.6 无异",
         "takeaway": "Cursor 用户实测 Grok 4.7 后认为升级感知极弱，反而更费 Token，性价比存疑。",
@@ -1391,7 +1408,8 @@
         ],
         "detail": "一位 Cursor 用户在 r/cursor 发帖说，自己最近大量使用 Grok 4.7，结果相当失望：输出质量相比 4.6 几乎感觉不到升级，但 Token 消耗却明显增加。他因此发问，想看看其他人是否也有同样的体验。",
         "generatedAt": "2026-10-03T09:16:13+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "94d7cfbb539a8e20",
@@ -1416,7 +1434,7 @@
       "confidence": 1,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Aleph Alpha 开源 Kolibri-1：78B 总参数、3.46B 激活、百万级上下文",
         "takeaway": "德国 Aleph Alpha 发布 Apache 2.0 大模型 Kolibri-1，稀疏激活加超长上下文，可本地部署。",
@@ -1428,7 +1446,8 @@
         ],
         "detail": "Aleph Alpha 在 X 上公布了 Kolibri-1，并同步放出技术报告。该模型总参数 78B，但每次推理只激活 3.46B，属于稀疏架构，兼顾能力与效率；上下文窗口最高支持 100 万 token。模型以 Apache 2.0 协议开源，已托管在 Hugging Face，适合本地部署和二次开发。",
         "generatedAt": "2026-10-03T21:32:28+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "94343469bb36f60f",
@@ -1491,7 +1510,7 @@
       "confidence": 0.33,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "QCon上海聚焦企业级Agent基础设施：安全沙箱与身份治理",
         "takeaway": "QCon上海分享企业级Agent基础设施架构实践，重点解决安全沙箱、网络管控与身份治理问题。",
@@ -1502,7 +1521,8 @@
         ],
         "detail": "InfoQ中国报道，QCon上海将分享企业级Agent基础设施的架构实践，内容涵盖安全沙箱、网络管控与身份治理。这些议题针对企业在部署AI Agent时面临的安全隔离、访问控制和身份认证等核心问题，为工程团队提供可参考的落地思路。",
         "generatedAt": "2026-10-03T10:25:07+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "c3a73cd77a23a3b0",
@@ -1553,7 +1573,19 @@
       "confidence": 1,
       "score": 33,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "Anyworld：本地 LLM 当 DM 的自托管多人文字 RPG",
+        "takeaway": "一款可自托管的浏览器文字冒险游戏，用本地大模型做地下城主，支持多人联机。",
+        "bullets": [
+          "灵感来自早期 AI Dungeon 2 的浏览器免费版",
+          "支持多人联机，也可单人游玩",
+          "本地 LLM 担任地下城主，数据自持"
+        ],
+        "detail": "开发者分享了 Anyworld 项目：一款浏览器端的多人文字冒险游戏，单人也能玩。它致敬早期 AI Dungeon 2 的免费网页版，核心特色是由本地运行的大模型来充当地下城主，玩家可以自行托管。",
+        "generatedAt": "2026-10-04T07:27:04+08:00"
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "50023a9a06f44c14",
@@ -1576,7 +1608,20 @@
       "confidence": 0,
       "score": 33,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "有人搭了魔兽私服，让大模型自己玩《魔兽世界》",
+        "takeaway": "开发者自建魔兽私服并做浏览器客户端，再用 MCP 和智能体框架让 LLM 操控角色游玩。",
+        "bullets": [
+          "作者自建《魔兽世界》私服，并做了浏览器客户端，PC 和手机都能免费玩",
+          "随后开发了自定义 MCP 和智能体框架，用来控制浏览器里的游戏客户端",
+          "目标是让大语言模型代替人类操作角色，在游戏里自主行动",
+          "项目发布在 r/LocalLLaMA，属于个人实验性质"
+        ],
+        "detail": "这位开发者先自己架设了《魔兽世界》私服，又写了一个浏览器客户端，PC 和手机都能免费打开玩。接着他做了自定义 MCP 和智能体框架，去操控这个浏览器客户端，让大模型来玩这款游戏。",
+        "generatedAt": "2026-10-04T07:27:04+08:00"
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "70add7d4c3fcd601",
@@ -1599,7 +1644,19 @@
       "confidence": 0,
       "score": 32,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "布鲁克林地铁站恐龙开起“恐龙商店”",
+        "takeaway": "布鲁克林地铁站内一个旧报刊亭被改造成恐龙经营的“恐龙商店”，满是恐龙双关语。",
+        "bullets": [
+          "地点在布鲁克林展望公园北端大军广场地铁站。",
+          "原报刊亭现由一只恐龙经营，名为 Rex's Dino Store。",
+          "店内密集使用恐龙双关语，趣味十足。"
+        ],
+        "detail": "在布鲁克林展望公园北端的大军广场地铁站，检票口前有一个旧报刊亭，现在由一只恐龙经营，叫“Rex's Dino Store”。店里到处都是恐龙双关语，密度很高，显得十分有趣。",
+        "generatedAt": "2026-10-04T07:27:06+08:00"
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "72acbfe91034fe9d",
@@ -1674,7 +1731,19 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "做 GTM 营销自动化，该选哪款 AI 编程订阅？",
+        "takeaway": "一位用户发帖求推荐：主要用于 GTM 和营销自动化，而非传统软件工程，该买哪个 AI 编程订阅。",
+        "bullets": [
+          "提问者用途是 GTM 和营销自动化，不是传统软件开发",
+          "技术栈以 Supabase 为主，含 Postgres、Edge Functions、Cron",
+          "讨论聚焦 Cursor 等 AI 编程订阅的选型，尚无定论"
+        ],
+        "detail": "发帖人想付费订阅一款 AI 编程工具，但目的不是写传统软件，而是搭建 GTM 和营销自动化流程。他的技术栈主要围绕 Supabase，包括 Postgres 数据库、Edge Functions 和 Cron 定时任务，因此想请教社区该选哪个订阅更合适。",
+        "generatedAt": "2026-10-04T07:27:06+08:00"
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "90d4fa99b44062fb",
@@ -1697,7 +1766,19 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "大模型一体机市场开始缩水，格局出现分化",
+        "takeaway": "大模型一体机市场正被劈成两半，行业从热炒转向收缩与分化。",
+        "bullets": [
+          "大模型一体机市场出现缩水迹象",
+          "市场被劈成两半，格局明显分化",
+          "行业从前期热炒进入调整阶段"
+        ],
+        "detail": "据钛媒体报道，大模型一体机市场正在缩水，整体被劈成了两半。这意味着此前火热的硬件集成赛道开始降温，厂商和客户的选择出现明显分化。",
+        "generatedAt": "2026-10-04T07:27:06+08:00"
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "d48732146d068947",
@@ -1720,7 +1801,19 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "国庆出游用AI，第一批人已经被坑惨了",
+        "takeaway": "AI旅行助手基础信息尚可，但真实情况常靠猜测，导致用户被坑。",
+        "bullets": [
+          "AI出游助手在基础信息上出错较少，但真实情况常靠猜测。",
+          "第一批国庆使用AI规划行程的用户已遭遇不便。",
+          "提醒用户对AI提供的实时信息保持警惕。"
+        ],
+        "detail": "国庆假期，不少游客尝试用AI规划行程，结果被坑。钛媒体指出，AI在基础信息上出错少，但涉及真实情况时全靠猜测，导致用户遭遇麻烦。",
+        "generatedAt": "2026-10-04T07:27:08+08:00"
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "17929ec22a362ed5",
@@ -1743,7 +1836,19 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "AI 视频榜全球第二，这家新影视公司想做什么",
+        "takeaway": "一家影视公司冲进视频模型第一梯队，全球排名第二，显示内容公司正亲自下场做 AI 视频。",
+        "bullets": [
+          "该影视公司的视频模型在全球榜单上排名第二",
+          "这意味着它已进入视频模型竞争的第一梯队",
+          "影视公司自研模型，可能改变内容生产与 AI 竞争格局"
+        ],
+        "detail": "据爱范儿报道，一家影视公司凭借自研视频模型冲上全球榜单第二名，直接杀入视频模型决赛圈。这说明传统影视内容方不再只做模型的使用者，而是开始亲自参与底层技术竞争。",
+        "generatedAt": "2026-10-04T07:27:08+08:00"
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "13b0c00e251f36be",
@@ -1766,7 +1871,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "c4cbc6f3db777b0f",
@@ -1789,7 +1895,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "ab6e469bba35540f",
@@ -1812,7 +1919,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "97c4834edca92a71",
@@ -1838,7 +1946,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "c307e47225512228",
@@ -1887,7 +1996,8 @@
       "confidence": 1,
       "score": 29,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "9a14422b82b9b3e3",
@@ -1910,7 +2020,8 @@
       "confidence": 0,
       "score": 29,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     }
   ],
   "topic": "ai"

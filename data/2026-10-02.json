@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "updatedAt": "2026-10-03T09:16:25+08:00",
+  "updatedAt": "2026-10-04T07:27:09+08:00",
   "items": [
     {
       "id": "3d3af81da4c60b98",
@@ -1576,7 +1576,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Cursor 生成的代码上线前，安全该怎么把关？",
         "takeaway": "开发者用 Cursor 快速搭好仪表盘，却因安全审查被卡在上线前，引发社区讨论。",
@@ -1588,7 +1588,8 @@
         ],
         "detail": "一位开发者用 Cursor 花几周为团队搭出仪表盘，跑起来没问题，但主管要求先确认安全才能上线给真实用户。他提到 Cursor 还帮忙写了加载用户数据的接口，因此想知道大家如何在上线前审查 AI 生成的代码。",
         "generatedAt": "2026-10-03T09:16:08+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "a8aad878b5aa9d45",
@@ -1613,7 +1614,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Cursor 账号出现代号 condor 的神秘模型，自称是 Qwen",
         "takeaway": "Cursor 疑似在灰度测试一款代号 condor 的隐身模型，身份未公开，引发社区猜测。",
@@ -1624,7 +1625,8 @@
         ],
         "detail": "一位 Cursor 用户发现账号里多了一个代号 condor 的隐身模型，于是直接问它是什么，对方回答自己是 Qwen。不过模型自述身份并不可信，作者也承认这一点。他发帖询问是否还有其他人遇到这个模型，想借此确认它的真实来源。",
         "generatedAt": "2026-10-03T09:16:09+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "045adcca74a52a0d",
@@ -1649,7 +1651,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "重度用户吐槽：Cursor 用量统计看得清吗？",
         "takeaway": "Cursor 重度用户发帖质疑其用量分析是否够透明，尤其对频繁使用 Agent 的人。",
@@ -1660,7 +1662,8 @@
         ],
         "detail": "一位 Cursor 重度用户在 r/cursor 发帖，说自己用得越来越多，想搞清楚现有的用量分析对经常跑 Agent 的人到底好不好用。他直接问其他重度用户：你们能轻松看懂 token 都花在哪了吗？",
         "generatedAt": "2026-10-03T09:16:10+08:00"
-      }
+      },
+      "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
       "id": "b4d91c53bb7aae07",
