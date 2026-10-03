@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "updatedAt": "2026-10-03T10:25:07+08:00",
+  "updatedAt": "2026-10-03T16:20:18+08:00",
   "items": [
     {
       "id": "a80484c2d5849bdb",
@@ -188,6 +188,79 @@
         "generatedAt": "2026-10-03T09:16:03+08:00"
       },
       "pushedAt": "2026-10-03T09:16:25+08:00"
+    },
+    {
+      "id": "e35138269f8b51f6",
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "summary": "Hi there :-) New on HN, first time posting. Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language. This LDraw is literally an \"assembly\" language, a low-level programming l…",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T04:00:15+08:00",
+      "fetchedAt": "2026-10-03T16:20:05+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 0.8,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开源乐高 AI 生成器：用 ChatGPT 和 Claude 写 LDraw 代码",
+        "takeaway": "开发者做了一款开源工具，让 AI 直接生成乐高积木的 LDraw 拼装代码，值得关注 AI 生成结构化 3D 模型的新玩法。",
+        "bullets": [
+          "作者从去年 12 月开始试验让 ChatGPT、Claude 生成 LDraw 代码",
+          "LDraw 是一种乐高积木的底层拼装描述语言",
+          "项目已在 Hacker News 的 Show HN 板块开源发布",
+          "把大模型能力延伸到 3D 积木建模场景"
+        ],
+        "detail": "作者在 Hacker News 首次发帖，介绍自己从去年 12 月起尝试让 ChatGPT 和 Claude 生成 LDraw 源码。LDraw 相当于乐高积木的底层拼装语言，用户可用 AI 直接产出积木模型代码，项目已开源。",
+        "generatedAt": "2026-10-03T16:20:16+08:00"
+      }
+    },
+    {
+      "id": "6a5b101ac2019002",
+      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+      "url": "https://qbitai.com/2026/10/501368.html",
+      "summary": "又咋啦。。。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T12:41:24+08:00",
+      "fetchedAt": "2026-10-03T16:20:05+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "离职"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI安全团队再震荡：负责人离职，三名员工因泄密被解雇",
+        "takeaway": "OpenAI安全团队人事动荡持续，负责人离职且三名员工因泄密被开除，引发外界对其安全治理的担忧。",
+        "bullets": [
+          "OpenAI安全团队负责人已离职，具体原因未公开",
+          "三名员工因泄露公司信息被解雇，或涉及内部机密",
+          "这是该团队近期又一次人事地震，安全治理受关注"
+        ],
+        "detail": "据量子位消息，OpenAI安全团队负责人已离职，同时有三名员工因泄密被公司开除。这是该团队近期接连发生的人事变动之一，外界对OpenAI内部安全与保密管理产生疑虑。",
+        "generatedAt": "2026-10-03T16:20:16+08:00"
+      }
     },
     {
       "id": "2d915e86c2608ecf",
@@ -636,6 +709,43 @@
       "pushedAt": "2026-10-03T06:43:02+08:00"
     },
     {
+      "id": "1426c165deaf4e67",
+      "title": "qwen4exp : halve the indexer score memory by ServeurpersoCom · Pull Request #29825 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wwfyv6/qwen4exp_halve_the_indexer_score_memory_by",
+      "summary": "Qwen Flash Next now uses less VRAM submitted by /u/jacek2023 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T14:18:34+08:00",
+      "fetchedAt": "2026-10-03T16:20:05+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 合并 PR：Qwen 模型索引器显存占用减半",
+        "takeaway": "llama.cpp 社区 PR 让 Qwen Flash Next 的索引器评分内存减半，本地跑大模型更省显存。",
+        "bullets": [
+          "PR #29825 由 ServeurpersoCom 提交，已合入 ggml-org/llama.cpp",
+          "改动针对 Qwen Flash Next 的 indexer score 内存占用",
+          "效果是显存占用减半，利好本地部署 Qwen 的用户"
+        ],
+        "detail": "llama.cpp 仓库合并了一个来自 ServeurpersoCom 的 PR（#29825），把 Qwen Flash Next 索引器评分的显存占用砍掉一半。对在本地跑 Qwen 系列模型的用户来说，这意味着同样的显卡能塞下更长上下文或更大模型。",
+        "generatedAt": "2026-10-03T16:20:15+08:00"
+      }
+    },
+    {
       "id": "a84fd7ae93e80a59",
       "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
       "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you",
@@ -778,6 +888,43 @@
       "pushedAt": "2026-10-03T06:43:02+08:00"
     },
     {
+      "id": "77c229fede3e66e9",
+      "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+      "url": "https://qbitai.com/2026/10/500148.html",
+      "summary": "",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T10:38:19+08:00",
+      "fetchedAt": "2026-10-03T16:20:05+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "估值",
+        "亿美元"
+      ],
+      "confidence": 0.57,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Jev估值达100亿美元，创始人Diogo Almeida回应一切",
+        "takeaway": "AI初创公司Jev估值冲上100亿美元，创始人公开答疑，引发关注。",
+        "bullets": [
+          "Jev估值达到100亿美元，成为新晋高估值AI公司。",
+          "创始人Diogo Almeida亲自回答外界提问。",
+          "消息由量子位报道，属融资并购动态。"
+        ],
+        "detail": "据量子位报道，AI公司Jev的估值已达到100亿美元。其创始人Diogo Almeida针对外界的疑问进行了集中回应。目前具体融资细节和回应内容尚未披露。",
+        "generatedAt": "2026-10-03T16:20:17+08:00"
+      }
+    },
+    {
       "id": "caa31b15727e547c",
       "title": "I made my iPhone a second GPU for my 24 GB MacBook: Qwen 3.8 27B prefills 29–44% faster & my holds part of the CTX window.",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wvz1ex/i_made_my_iphone_a_second_gpu_for_my_24_gb",
@@ -885,6 +1032,79 @@
         ],
         "detail": "有开发者指出，.cursorrules 适合静态规范，但项目演进后单一规则文件会变得臃肿：每次提问都占用上下文 token，也无法记录项目变化。他通过 MCP 给 Cursor 接入了持久长期记忆，配置只需 1 分钟，从而跨会话保留项目规则和数据库结构。",
         "generatedAt": "2026-10-03T09:16:08+08:00"
+      }
+    },
+    {
+      "id": "4e0d8eb60705965c",
+      "title": "Qwen3.8-Flash-Next 177B running at 11–15 tok/s on a single RTX 5070 12GB + 32GB RAM DDR4",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wwggwt/qwen38flashnext_177b_running_at_1115_toks_on_a",
+      "summary": "Benchmarking an LLM here with a NVIDIA RTX 5070 12 GB VRAM here I had been working on a llama.cpp based expert streaming setup for Qwen3.8-Flash-Next 177B (UD-IQ3_XXS) on Windows. Benchmark is about 11.5 tok/s, up from roughly 7 tok/s on th…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T14:49:25+08:00",
+      "fetchedAt": "2026-10-03T16:20:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "benchmark"
+      ],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "177B 大模型在单张 RTX 5070 上跑到 11–15 tok/s",
+        "takeaway": "靠 llama.cpp 专家流式加载，12GB 显存也能跑 177B 级 MoE 模型，速度比之前提升明显。",
+        "bullets": [
+          "硬件为 RTX 5070 12GB 显存加 32GB DDR4 内存",
+          "模型是 Qwen3.8-Flash-Next 177B，量化 UD-IQ3_XXS",
+          "基于 llama.cpp 的专家流式方案，Windows 环境实测",
+          "速度从约 7 tok/s 提升到 11.5 tok/s 左右"
+        ],
+        "detail": "作者在 Windows 上用 llama.cpp 做专家流式加载，让 12GB 显存的 RTX 5070 也能跑 177B 的 Qwen3.8-Flash-Next。实测约 11.5 tok/s，比之前的约 7 tok/s 有明显提升，说明低显存跑超大 MoE 模型正变得可行。",
+        "generatedAt": "2026-10-03T16:20:18+08:00"
+      }
+    },
+    {
+      "id": "3fe446c29a4c2944",
+      "title": "MiniPC to run a LLM w/ voice assistant - Best small LLM?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wweqcf/minipc_to_run_a_llm_w_voice_assistant_best_small",
+      "summary": "I'm having a go at building a fully offline, voice-first assistant running locally on a fanless mini PC (4 core Celeron J6412 w/ 16GB DDR4, 512GB SATA SSD, crappy Intel UHD iGPU only) Going to try Ubuntu 24.04, llama.cpp, Python. Are there …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T13:04:55+08:00",
+      "fetchedAt": "2026-10-03T16:20:05+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "assistant"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "无风扇迷你主机跑本地语音助手，选哪个小模型？",
+        "takeaway": "有人在低配无风扇迷你 PC 上搭建全离线语音助手，正征集适合的小型 LLM 建议。",
+        "bullets": [
+          "硬件为 4 核 Celeron J6412、16GB 内存、仅核显的无风扇迷你主机",
+          "方案是全离线语音优先助手，用 Ubuntu 24.04 + llama.cpp + Python",
+          "发帖人向社区征集适合该配置的小型 LLM 推荐"
+        ],
+        "detail": "发帖人打算在一台无风扇迷你 PC 上做完全离线的语音优先助手，配置是 4 核 Celeron J6412、16GB DDR4、512GB SATA 固态，只有性能很弱的 Intel UHD 核显。计划用 Ubuntu 24.04、llama.cpp 和 Python 搭建，正在问大家有哪些适合的小模型可选。",
+        "generatedAt": "2026-10-03T16:20:17+08:00"
       }
     },
     {
@@ -1122,6 +1342,98 @@
       "pushed": false
     },
     {
+      "id": "d48732146d068947",
+      "title": "国庆出游用AI，第一批人已经被坑惨了",
+      "url": "https://tmtpost.com/8158647.html",
+      "summary": "基础信息出错少，真实情况全靠“猜”。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T15:19:24+08:00",
+      "fetchedAt": "2026-10-03T16:20:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "17929ec22a362ed5",
+      "title": "AI 视频榜全球第二，藏着一家新影视公司的野心",
+      "url": "https://ifanr.com/1682888",
+      "summary": "一家影视公司，杀进了视频模型的决赛圈 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T15:00:20+08:00",
+      "fetchedAt": "2026-10-03T16:20:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "13b0c00e251f36be",
+      "title": "I tried building a small RAG search node for Qwen3.8 27B using a fake AliExpress Mini PC... and Intel sent me back to 2018.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wwgsas/i_tried_building_a_small_rag_search_node_for",
+      "summary": "I love Qwen3.8 27B so much that I decided to show my gratitude to the Alibaba ecosystem by building a dedicated RAG/search node using a cheap Mini PC from AliExpress. Turns out, my ecosystem loyalty got rewarded with an absolute masterpiece…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T15:08:14+08:00",
+      "fetchedAt": "2026-10-03T16:20:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c4cbc6f3db777b0f",
+      "title": "LiquidAI/LFM2.5-Encoder 250M/350M",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wwgns1/liquidailfm25encoder_250m350m",
+      "summary": "LFM2.5-Encoder-350M is a multilingual bidirectional encoder built on the LFM2 architecture — a larger encoder for maximum downstream quality. It is a masked language model with full bidirectional attention, designed to be fine-tuned into ta…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T15:00:51+08:00",
+      "fetchedAt": "2026-10-03T16:20:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "c307e47225512228",
       "title": "From the creator of Redis; run LLM locally with ds4",
       "url": "https://dwarfstar.sh/",
@@ -1144,6 +1456,31 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "fc7775124968d070",
+      "title": "Could the EU Kids Act (or the like) be use potentially(Trojan horse) as excuse to go after the AI Open weights?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wwbzmr/could_the_eu_kids_act_or_the_like_be_use",
+      "summary": "submitted by /u/UltraFOV [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T10:32:33+08:00",
+      "fetchedAt": "2026-10-03T16:20:05+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "weights"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
