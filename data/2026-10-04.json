@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "updatedAt": "2026-10-04T24:53:48+08:00",
+  "updatedAt": "2026-10-04T03:37:17+08:00",
   "items": [
     {
       "id": "f143fce070e10faa",
@@ -39,6 +39,151 @@
       }
     },
     {
+      "id": "4654fad836b5da80",
+      "title": "Two local Qwen ( 3.8 27b unsloth Q6 and Qwen flash next strata coder ) models vs Claude Opus 4.6 on the same 3 coding tasks. One of them tied it. Not here to start a fight, just sharing numbers",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wwrgx1/two_local_qwen_38_27b_unsloth_q6_and_qwen_flash",
+      "summary": "Innanzitutto, due cose per evitare fraintendimenti. Non sto cercando di sostenere che un modello o un'azienda siano migliori. Non ho alcun interesse personale in nessuno di essi. Volevo solo verificare personalmente come si comportano nello…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T24:30:17+08:00",
+      "fetchedAt": "2026-10-04T03:37:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "本地 Qwen 模型对比 Claude Opus 4.6：三个编程任务中一个打平",
+        "takeaway": "用户实测两个本地 Qwen 模型与 Claude Opus 4.6 在三个编程任务上的表现，其中一个打成平手。",
+        "bullets": [
+          "测试对象：Qwen 3.8 27B unsloth Q6 和 Qwen Flash Next Strata Coder 两个本地模型",
+          "对比基准：Claude Opus 4.6，同一组三个编程任务",
+          "结果：其中一个本地模型与 Claude Opus 4.6 打平",
+          "发帖者强调中立，不站队任何模型或公司"
+        ],
+        "detail": "发帖者在 r/LocalLLaMA 分享了一次个人测试：用两个本地 Qwen 模型（Qwen 3.8 27B unsloth Q6 和 Qwen Flash Next Strata Coder）与 Claude Opus 4.6 跑同样的三个编程任务。结果其中一个本地模型与 Claude Opus 4.6 打平。他声明",
+        "generatedAt": "2026-10-04T03:37:16+08:00"
+      }
+    },
+    {
+      "id": "d442265d45586f0c",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T02:43:57+08:00",
+      "fetchedAt": "2026-10-04T03:37:01+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center",
+        "data centers"
+      ],
+      "confidence": 0.5,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "亚马逊回应数据中心争议：不再使用保密协议",
+        "takeaway": "AWS CEO 回应外界对数据中心的质疑，宣布不再用保密协议限制社区讨论。",
+        "bullets": [
+          "AWS CEO 公开回应数据中心引发的争议",
+          "宣布不再要求相关方签署保密协议",
+          "此举意在缓解社区对数据中心的抵触情绪"
+        ],
+        "detail": "亚马逊云服务（AWS）CEO 针对外界对数据中心的普遍质疑作出回应，表示公司已不再使用保密协议（NDA）来限制相关讨论。此前数据中心项目常因保密条款引发社区不满，此举被视为亚马逊试图缓和与当地社区关系的信号。",
+        "generatedAt": "2026-10-04T03:37:15+08:00"
+      }
+    },
+    {
+      "id": "52d8e32b3411d5f5",
+      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "url": "https://wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai",
+      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T02:00:00+08:00",
+      "fetchedAt": "2026-10-04T03:37:01+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 抢内存，7 岁英伟达 Shield TV 涨价 100 美元",
+        "takeaway": "AI 需求推高内存价格，连上市 7 年的老款流媒体盒子也难逃涨价。",
+        "bullets": [
+          "英伟达 Shield TV 已上市 7 年，此次涨价 100 美元",
+          "涨价主因是 AI 热潮导致内存等元器件价格飙升",
+          "老款流媒体设备同样受波及，消费者换机成本上升"
+        ],
+        "detail": "据 Wired 报道，凡是带内存的产品，价格都在因 AI 需求暴涨，连上市 7 年的英伟达 Shield TV 也不例外，这次直接涨了 100 美元。老旧的流媒体盒子本该降价清仓，却因内存成本被推高，说明 AI 对供应链的挤压已经传导到普通消费电子。",
+        "generatedAt": "2026-10-04T03:37:16+08:00"
+      }
+    },
+    {
+      "id": "c87d5f628b0a50a7",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "url": "https://theverge.com/games/1004418/capcom-ai-game-development",
+      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T24:49:10+08:00",
+      "fetchedAt": "2026-10-04T03:37:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "卡普空布局AI：未来要与人共同开发游戏",
+        "takeaway": "卡普空在技术会议上表态，正为“与AI共同创作游戏”的未来做准备，态度与旗下游戏对AI的批判形成反差。",
+        "bullets": [
+          "卡普空程序员石田聪在技术会议发表演讲",
+          "主题为面向与AI共同开发游戏的未来做准备",
+          "与其新作《Pragmata》对AI的恐怖刻画形成反差"
+        ],
+        "detail": "在卡普空技术开放会议 RE: 2026 上，程序员石田聪做了一场演讲，主题是公司正为“与AI共同创作游戏的未来”做准备。有趣的是，卡普空新作《Pragmata》讲的却是AI带来的恐怖，现实态度与作品设定形成鲜明对比。",
+        "generatedAt": "2026-10-04T03:37:17+08:00"
+      }
+    },
+    {
       "id": "a59bf259f57e69d4",
       "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
       "url": "https://wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open",
@@ -73,6 +218,31 @@
         "detail": "许多前沿AI实验室把有风险的研究藏起来不公开。但Trillium Labs反其道而行，希望把自我改进和模型行为方面的研究公之于众。这引发了关于AI研究透明度和安全性的新讨论。",
         "generatedAt": "2026-10-03T02:08:58+08:00"
       }
+    },
+    {
+      "id": "2f1a3a9edbdd53b9",
+      "title": "The Rise of Overfit Inference Engines",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines",
+      "summary": "There seems to be a whole category of extremely narrow inference runtimes appearing: Strata, ninfer, DwarfStar, Splash, llamAmpere, gufo, etc. They deliberately give up the thing llama.cpp/vLLM are great at - generality - and optimize aroun…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T02:24:42+08:00",
+      "fetchedAt": "2026-10-04T03:37:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
