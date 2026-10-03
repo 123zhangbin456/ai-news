@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "updatedAt": "2026-10-03T06:43:02+08:00",
+  "updatedAt": "2026-10-03T09:16:25+08:00",
   "items": [
     {
       "id": "9df1a7bfd144d02d",
@@ -343,6 +343,43 @@
         "generatedAt": "2026-10-02T24:35:40+08:00"
       },
       "pushedAt": "2026-10-02T06:57:54+08:00"
+    },
+    {
+      "id": "94a4ac14c58806b7",
+      "title": "Unpopular opinion: I enjoy Cursor models much more than Claude for most cases!",
+      "url": "https://reddit.com/r/cursor/comments/1wulndd/unpopular_opinion_i_enjoy_cursor_models_much_more",
+      "summary": "Reading this subreddit, it feels like most people are shitting on Cursor and Grok (and I'm the first to be anti-Elon, cursing on the first white Tesla i see in the street not using their signals). I've maxed out my Ultra plan 2 days ago (st…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T08:40:59+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 54,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Reddit 用户逆风发言：多数场景下更爱用 Cursor 模型而非 Claude",
+        "takeaway": "在社区普遍唱衰 Cursor 的声浪中，有用户表示自己更偏好 Cursor 自带模型，并已用满 Ultra 套餐额度。",
+        "bullets": [
+          "发帖人称在 r/cursor 上看到大量批评 Cursor 和 Grok 的声音",
+          "他本人已把 Ultra 套餐额度用满，仍更愿意用 Cursor 模型",
+          "他认为在大多数使用场景下 Cursor 模型体验优于 Claude"
+        ],
+        "detail": "这位用户在 r/cursor 发帖说，社区里几乎都在吐槽 Cursor 和 Grok，但他自己恰恰相反：两天前就把 Ultra 套餐额度用完了，而且在大多数场景下更享受用 Cursor 的模型，而不是 Claude。这是一条主观体验分享，不代表普遍结论。",
+        "generatedAt": "2026-10-03T09:16:04+08:00"
+      },
+      "pushedAt": "2026-10-03T09:16:25+08:00"
     },
     {
       "id": "0bf00b70dbd762e2",
@@ -899,6 +936,44 @@
       "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
+      "id": "bcff8915eca00691",
+      "title": "What’s the appeal to use Claude code or codex if models like opus 5.5 are in cursor?",
+      "url": "https://reddit.com/r/cursor/comments/1wupbj2/whats_the_appeal_to_use_claude_code_or_codex_if",
+      "summary": "I really like cursor, and I like how cursor shows me the diffs and also visualizations for planning. Although I recently switched to Claude code, and it’s been great, but I feel like I have less control over what the agent is doing compared…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T11:45:55+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Cursor 里能用 Opus 5.5，为何还有人转投 Claude Code？",
+        "takeaway": "一位用户从 Cursor 转向 Claude Code 后，纠结于 Cursor 的可视化与可控性优势是否还值得留下。",
+        "bullets": [
+          "用户喜欢 Cursor 的 diff 展示和规划可视化",
+          "但最近转用 Claude Code，体验不错",
+          "他感觉在 Claude Code 里对 agent 的控制更少",
+          "核心疑问：模型相同，工具差异还重要吗"
+        ],
+        "detail": "发帖人原本很喜欢 Cursor，尤其看重它展示代码差异和规划可视化的能力。最近他换到 Claude Code，整体体验很好，但觉得对 agent 行为的掌控不如 Cursor。他想知道，既然 Cursor 里也能用上 Opus 5.5 这类强模型，Claude Code 或 Codex 的吸引力到底在哪。",
+        "generatedAt": "2026-10-03T09:16:06+08:00"
+      },
+      "pushedAt": "2026-10-03T09:16:25+08:00"
+    },
+    {
       "id": "81eaed43ffddf7df",
       "title": "Meta disputes claim that Muse read a user’s private messages without permission",
       "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission",
@@ -1153,6 +1228,43 @@
       "pushedAt": "2026-10-02T06:57:54+08:00"
     },
     {
+      "id": "ed45f772893ef763",
+      "title": "What are my blind spots when it comes to AI-driven coding?",
+      "url": "https://reddit.com/r/cursor/comments/1wuybq3/what_are_my_blind_spots_when_it_comes_to_aidriven",
+      "summary": "I only started using Cursor about six months ago and it has completely changed my workflow. Beforehand since early 2023 I'd use ChatGPT or Gemini in the browser for planning, occasional bug fixes, and sometimes doing some boilerplate. My cu…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T20:37:38+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "用 Cursor 半年后，我可能忽略了哪些 AI 编程盲区？",
+        "takeaway": "一位开发者分享从浏览器 AI 转向 Cursor 的体验，并询问自己可能存在的认知盲点。",
+        "bullets": [
+          "用户约半年前开始用 Cursor，工作流彻底改变",
+          "此前用 ChatGPT/Gemini 做规划、修 bug 和样板代码",
+          "发帖目的是请社区指出自己可能忽略的盲区"
+        ],
+        "detail": "这位开发者说，自己从 2023 年初开始用浏览器里的 ChatGPT 或 Gemini 做规划、偶尔修 bug 和写样板代码，大约半年前才转用 Cursor，工作流完全变了。现在他想知道，在 AI 驱动编程方面自己还有哪些没意识到的盲点。",
+        "generatedAt": "2026-10-03T09:16:07+08:00"
+      },
+      "pushedAt": "2026-10-03T09:16:25+08:00"
+    },
+    {
       "id": "d7e7597068b654a8",
       "title": "Qwen Flash Next MTP work restarted",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wur4lt/qwen_flash_next_mtp_work_restarted",
@@ -1301,6 +1413,44 @@
         "generatedAt": "2026-10-02T24:35:43+08:00"
       },
       "pushedAt": "2026-10-02T06:57:54+08:00"
+    },
+    {
+      "id": "77f37b1a4cc2282b",
+      "title": "I don't want to accept Grok Bot Terms, how can I make it stop?",
+      "url": "https://reddit.com/r/cursor/comments/1wuvkvf/i_dont_want_to_accept_grok_bot_terms_how_can_i",
+      "summary": "I have a Teams subscription; I gave Grok Bot a try. But when the Terms and Conditions just arrived, I asked a model in Cursor: > https://cursor.com/terms/grok-bot Tell me what's fishy in these terms, especially in terms of privacy. We use C…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T18:09:54+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Cursor 用户拒接受 Grok Bot 条款，如何关闭？",
+        "takeaway": "Teams 订阅用户试用 Grok Bot 后，被条款弹窗困扰，想找关闭方法。",
+        "bullets": [
+          "用户试用 Grok Bot 后收到条款弹窗，不愿接受",
+          "该用户使用 Cursor Teams 订阅，关注隐私问题",
+          "他让 Cursor 内模型分析条款，寻找可疑点",
+          "目前不知如何关闭弹窗，向社区求助"
+        ],
+        "detail": "一位 Cursor Teams 订阅用户尝试了 Grok Bot，随后收到条款与条件弹窗。他不愿接受，便让 Cursor 里的模型分析条款中的隐私风险。现在他想知道如何让这个弹窗停止出现，于是到社区求助。",
+        "generatedAt": "2026-10-03T09:16:07+08:00"
+      },
+      "pushedAt": "2026-10-03T09:16:25+08:00"
     },
     {
       "id": "6860a783c56445b7",
@@ -2069,6 +2219,116 @@
       "pushedAt": "2026-10-01T06:45:32+08:00"
     },
     {
+      "id": "186cafde164df32c",
+      "title": "thanks cursor for great usage limit .",
+      "url": "https://reddit.com/r/cursor/comments/1wuuckz/thanks_cursor_for_great_usage_limit",
+      "summary": "I was really worried after my unlimited auto yearly subscription ended last month , after all the news about token usage and people spending 100s . but after testing the new usage limit of cursor . its amazing on composer 2.5 I get to almos…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T16:51:11+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor 新用量限制获用户好评：Composer 2.5 下额度充足",
+        "takeaway": "曾担心订阅结束后额度不够的用户实测发现，Cursor 新用量限制在 Composer 2.5 上表现慷慨，打消了顾虑。",
+        "bullets": [
+          "用户此前因无限自动年度订阅到期而担心额度不足",
+          "受 token 消耗和他人高额花费新闻影响，一度焦虑",
+          "实测新用量限制后，在 Composer 2.5 上获得几乎用不完的额度"
+        ],
+        "detail": "一位 Cursor 用户原本担心无限自动年度订阅结束后额度不够，加上近期关于 token 消耗和有人花费数百美元的新闻，更添焦虑。但测试新的用量限制后，他发现 Composer 2.5 下的额度非常充足，几乎用不完，因此发文感谢 Cursor。",
+        "generatedAt": "2026-10-03T09:16:10+08:00"
+      }
+    },
+    {
+      "id": "811851a939d26db9",
+      "title": "Run Cursor projects locally",
+      "url": "https://reddit.com/r/cursor/comments/1wuut5e/run_cursor_projects_locally",
+      "summary": "I didnt quite understand projects yet. In the docs its written the agents run on the cloud by default, but if needed (like tests) they will run locally. What if i want the entire process to be done locally? From the implementation till hand…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T17:20:58+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor 项目能否全程本地运行？用户发问",
+        "takeaway": "有用户困惑：Cursor 的 Agent 默认跑在云端，能否让从实现到测试的整个流程都在本地完成。",
+        "bullets": [
+          "官方文档称 Agent 默认在云端运行",
+          "需要时（如跑测试）会切换到本地执行",
+          "用户想知道能否全程本地化，从实现到交付",
+          "目前尚无明确答案，属社区讨论"
+        ],
+        "detail": "这位用户在 r/cursor 发帖说，自己还没完全搞懂 Cursor 的 projects 机制。文档里写 Agent 默认在云端跑，但遇到测试这类需求会转到本地。他想知道，如果希望从代码实现到最终交付的整个过程都在本地完成，是否可行。",
+        "generatedAt": "2026-10-03T09:16:11+08:00"
+      }
+    },
+    {
+      "id": "e6feaac0b4b3c8d2",
+      "title": "Error whole updating cursor!",
+      "url": "https://reddit.com/r/cursor/comments/1wur9es/error_whole_updating_cursor",
+      "summary": "https://preview.redd.it/p7y27baklssh1.png?width=377&format=png&auto=webp&s=a8d650af7b10c727f5d4f5d68b4cfcbe40590f8c Version: 3.22.7 VS Code Extension API: 1.128.0 Commit: 37076c6c3f9e253c0fa2305197e45befd13a2260 Date: 2026-09-24T0524.589Z L…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T13:35:19+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor 更新报错：用户反馈升级失败",
+        "takeaway": "有用户在 r/cursor 发帖称 Cursor 更新时出现报错，附截图但未说明具体原因。",
+        "bullets": [
+          "用户发帖标题为「Error whole updating cursor!」，反映更新失败",
+          "帖子附有报错截图，但未提供更多细节",
+          "涉及版本 3.22.7，基于 VS Code 扩展 API 1.128.0",
+          "目前尚无官方回应或解决方案"
+        ],
+        "detail": "一位用户在 r/cursor 发帖称 Cursor 更新时报错，并附上截图。帖子中列出的版本号为 3.22.7，基于 VS Code 扩展 API 1.128.0，提交时间为 2026 年 9 月 24 日。目前该帖没有更多上下文，也未说明是普遍问题还是个别情况。",
+        "generatedAt": "2026-10-03T09:16:12+08:00"
+      }
+    },
+    {
       "id": "67ceb7603dbd544a",
       "title": "We just open-sourced the world's fastest WebGPU kernels for local AI on Hugging Face",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wu8tpg/we_just_opensourced_the_worlds_fastest_webgpu",
@@ -2103,6 +2363,78 @@
         "generatedAt": "2026-10-01T02:13:53+08:00"
       },
       "pushedAt": "2026-10-01T06:45:32+08:00"
+    },
+    {
+      "id": "01ee7c41e9afc64d",
+      "title": "Grok is too bad.",
+      "url": "https://reddit.com/r/cursor/comments/1wuildx/grok_is_too_bad",
+      "summary": "unfortunately they somehow downgrade composer2.5 to sell Grok. However Grok Is soooo bad to coding at the point that I lost my patience and lashed out at it. It's too much stressfull using this shit. I'll explain in detail the mess it is. I…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T06:19:48+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户吐槽 Cursor 为推 Grok 降级 Composer 2.5",
+        "takeaway": "Cursor 用户抱怨 Grok 编码能力太差，怀疑官方为推广它而削弱了 Composer 2.5。",
+        "bullets": [
+          "用户称 Cursor 疑似降级 Composer 2.5 以推广 Grok",
+          "该用户认为 Grok 编码表现极差，用到失去耐心",
+          "抱怨使用体验压力大，表示将详细说明问题"
+        ],
+        "detail": "一位 Cursor 用户在 Reddit 发帖抱怨，称官方似乎为了推销 Grok 而把 Composer 2.5 降级了。他表示 Grok 写代码实在太差，自己用到失去耐心并忍不住发火，整个过程压力很大，还说要详细讲讲有多混乱。",
+        "generatedAt": "2026-10-03T09:16:12+08:00"
+      }
+    },
+    {
+      "id": "1ecbfc94e7f73e24",
+      "title": "It seems many if not most in this sub prefers Composer over Grok",
+      "url": "https://reddit.com/r/cursor/comments/1wuld0l/it_seems_many_if_not_most_in_this_sub_prefers",
+      "summary": "Is it mostly down to the cost? Or is Composer 2.5 actually better than Grok 4.6, AND cheaper? submitted by /u/Nick_Reach3239 [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T08:26:57+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "r/cursor 社区热议：多数人更偏爱 Composer 而非 Grok",
+        "takeaway": "Cursor 社区讨论显示，用户普遍更青睐 Composer，争议焦点是价格还是性能优势。",
+        "bullets": [
+          "r/cursor 帖子称该板块多数用户更偏好 Composer 而非 Grok",
+          "发帖人追问原因：是成本更低，还是 Composer 2.5 本身更强",
+          "讨论涉及 Composer 2.5 与 Grok 4.6 的性价比对比"
+        ],
+        "detail": "在 r/cursor 板块，有用户发帖称这里大多数人似乎都更偏爱 Composer 而不是 Grok。他提出疑问：这主要是因为成本更低，还是 Composer 2.5 在能力上确实强于 Grok 4.6，同时还更便宜？目前讨论仍停留在社区观点层面。",
+        "generatedAt": "2026-10-03T09:16:12+08:00"
+      }
     },
     {
       "id": "63a8a7b8199e0337",
@@ -2810,6 +3142,81 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-10-02T06:57:54+08:00"
+    },
+    {
+      "id": "a154a03071f34693",
+      "title": "Composer wiped out my whole drive",
+      "url": "https://reddit.com/r/cursor/comments/1wur8i7/composer_wiped_out_my_whole_drive",
+      "summary": "I thought it was a simple task to ask the composer to delete a worktree and switch the branch in main repo. All of the data is gone permanently. submitted by /u/ForsakenAbies1899 [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T13:33:46+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1294483cb560ecd6",
+      "title": "Other Model Usage",
+      "url": "https://reddit.com/r/cursor/comments/1wuxtd8/other_model_usage",
+      "summary": "Another user on here was talking about how they suspected their available Other Model usage dropped from $400 to $100 on the Ultra plan. Anyone else aware of this issue? submitted by /u/vibesresearcher [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T20:12:34+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ae82e2df0079086b",
+      "title": "Is plan mode still useful ?",
+      "url": "https://reddit.com/r/cursor/comments/1wugjkq/is_plan_mode_still_useful",
+      "summary": "I’ve seen back and forth about plan mode being obsolete but was wondering what you guys thought. It depends on the model but I use a lot of composer 2.5 and feel like it gets a bit lost in the sauce sometimes but plan mode doesn’t really se…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T04:54:56+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 28,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "22339a927003d656",

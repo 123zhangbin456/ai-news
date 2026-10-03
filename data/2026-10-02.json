@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "updatedAt": "2026-10-03T06:43:02+08:00",
+  "updatedAt": "2026-10-03T09:16:25+08:00",
   "items": [
     {
       "id": "3d3af81da4c60b98",
@@ -261,6 +261,43 @@
         "generatedAt": "2026-10-02T06:57:46+08:00"
       },
       "pushedAt": "2026-10-02T06:57:54+08:00"
+    },
+    {
+      "id": "da8e872b85ea4c6e",
+      "title": "What I'll choise between Mistral Pro Plan or Qwen Token Plan Individual?",
+      "url": "https://reddit.com/r/cursor/comments/1wv9osm/what_ill_choise_between_mistral_pro_plan_or_qwen",
+      "summary": "I want to cancel my suscription with cursor but I'm looking for those options. Someone have alredy use it or have a better recomendation? submitted by /u/MichiConPonche [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T04:01:02+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "用户纠结：退订 Cursor 后选 Mistral Pro 还是 Qwen Token 个人版？",
+        "takeaway": "一位 Cursor 用户想退订，在 Reddit 上求建议：Mistral Pro 与 Qwen Token 个人版该选哪个。",
+        "bullets": [
+          "发帖人打算取消 Cursor 订阅，正在两个替代方案间犹豫",
+          "候选是 Mistral Pro 套餐和 Qwen Token 个人版",
+          "他询问是否有人用过，或有没有更好的推荐"
+        ],
+        "detail": "这位用户在 r/cursor 发帖说，自己想取消 Cursor 的订阅，目前正在 Mistral Pro 套餐和 Qwen Token 个人版之间做选择。他问有没有人已经用过这两者，或者能给出更好的替代建议。",
+        "generatedAt": "2026-10-03T09:16:05+08:00"
+      },
+      "pushedAt": "2026-10-03T09:16:25+08:00"
     },
     {
       "id": "578143be7e8fa1a0",
@@ -1515,6 +1552,115 @@
         "generatedAt": "2026-10-02T23:53:52+08:00"
       },
       "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "dcc8ed0fa3b34ee0",
+      "title": "How do you secure AI generated code from Cursor before it ships?",
+      "url": "https://reddit.com/r/cursor/comments/1wvthab/how_do_you_secure_ai_generated_code_from_cursor",
+      "summary": "I built most of a dashboard in Cursor over the past few weeks for my team and it runs fine but my lead won't let me put it in front of real users until we can say it's safe. Fair enough. I had Cursor write the endpoint that loads a user's s…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T21:13:01+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor 生成的代码上线前，安全该怎么把关？",
+        "takeaway": "开发者用 Cursor 快速搭好仪表盘，却因安全审查被卡在上线前，引发社区讨论。",
+        "bullets": [
+          "开发者用 Cursor 几周内完成团队仪表盘，功能运行正常",
+          "负责人要求先证明代码安全，才允许面向真实用户",
+          "争议点集中在 Cursor 生成的接口等代码如何做安全审计",
+          "帖子发在 r/cursor，寻求社区的安全加固经验"
+        ],
+        "detail": "一位开发者用 Cursor 花几周为团队搭出仪表盘，跑起来没问题，但主管要求先确认安全才能上线给真实用户。他提到 Cursor 还帮忙写了加载用户数据的接口，因此想知道大家如何在上线前审查 AI 生成的代码。",
+        "generatedAt": "2026-10-03T09:16:08+08:00"
+      }
+    },
+    {
+      "id": "a8aad878b5aa9d45",
+      "title": "What model is \"condor\"? (Stealth model discussion)",
+      "url": "https://reddit.com/r/cursor/comments/1wvbje8/what_model_is_condor_stealth_model_discussion",
+      "summary": "Recently, a new stealth model appeared on my Cursor account under the codename \"condor\". I tried asking it (even if it is not a trusted way to find out what model is it), and it said it was Qwen. Anyone else got this model? https://preview.…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T05:15:22+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor 账号出现代号 condor 的神秘模型，自称是 Qwen",
+        "takeaway": "Cursor 疑似在灰度测试一款代号 condor 的隐身模型，身份未公开，引发社区猜测。",
+        "bullets": [
+          "有用户称 Cursor 账号里出现代号 condor 的隐身模型",
+          "该模型被问及身份时自称是 Qwen，但此说法不可靠",
+          "目前尚无官方说明，社区在讨论它究竟是谁"
+        ],
+        "detail": "一位 Cursor 用户发现账号里多了一个代号 condor 的隐身模型，于是直接问它是什么，对方回答自己是 Qwen。不过模型自述身份并不可信，作者也承认这一点。他发帖询问是否还有其他人遇到这个模型，想借此确认它的真实来源。",
+        "generatedAt": "2026-10-03T09:16:09+08:00"
+      }
+    },
+    {
+      "id": "045adcca74a52a0d",
+      "title": "Do you feel like Cursor gives you enough visibility into your usage?",
+      "url": "https://reddit.com/r/cursor/comments/1wv67c3/do_you_feel_like_cursor_gives_you_enough",
+      "summary": "I have been using Cursor more heavily and have been trying to understand how well the current usage analytics actually work for people who use agents a lot. For heavy Cursor users: Can you easily understand where your token usage is going? …",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T01:49:38+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "重度用户吐槽：Cursor 用量统计看得清吗？",
+        "takeaway": "Cursor 重度用户发帖质疑其用量分析是否够透明，尤其对频繁使用 Agent 的人。",
+        "bullets": [
+          "发帖者自认是 Cursor 重度用户，想弄清 token 花在哪",
+          "核心疑问：现有用量分析对高频 Agent 用户是否够用",
+          "讨论面向重度用户，关注成本与使用透明度"
+        ],
+        "detail": "一位 Cursor 重度用户在 r/cursor 发帖，说自己用得越来越多，想搞清楚现有的用量分析对经常跑 Agent 的人到底好不好用。他直接问其他重度用户：你们能轻松看懂 token 都花在哪了吗？",
+        "generatedAt": "2026-10-03T09:16:10+08:00"
+      }
     },
     {
       "id": "b4d91c53bb7aae07",

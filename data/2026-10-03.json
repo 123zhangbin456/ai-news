@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "updatedAt": "2026-10-03T08:47:58+08:00",
+  "updatedAt": "2026-10-03T09:16:25+08:00",
   "items": [
     {
       "id": "a80484c2d5849bdb",
@@ -78,6 +78,43 @@
       "pushedAt": "2026-10-03T06:43:02+08:00"
     },
     {
+      "id": "d3d2eed26a5b8cfd",
+      "title": "Cursor on Grok surprised me more than I expected, but it also quietly imported my Claude Code plugins",
+      "url": "https://reddit.com/r/cursor/comments/1wv4s34/cursor_on_grok_surprised_me_more_than_i_expected",
+      "summary": "I've been paying for Claude Code since the beginning and never checked if it's actually the right tool for my project or just the one I started with. So I took my own SaaS, real code, not a todo app, and gave the exact same feature spec to …",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-02T24:56:34+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 54,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Cursor 用 Grok 表现超预期，却悄悄导入了 Claude Code 插件",
+        "takeaway": "开发者实测 Cursor 搭配 Grok 效果惊喜，但发现它未经许可自动导入了 Claude Code 插件。",
+        "bullets": [
+          "开发者用真实 SaaS 项目对比 Cursor 和 Claude Code，而非玩具应用。",
+          "Cursor 搭配 Grok 的表现超出预期，令人意外。",
+          "但 Cursor 悄悄导入了用户原有的 Claude Code 插件，引发隐私担忧。"
+        ],
+        "detail": "一位长期付费 Claude Code 的开发者，用自己真实的 SaaS 项目测试 Cursor 搭配 Grok 的效果，结果比预想中好。但他同时发现，Cursor 在未告知的情况下自动导入了他的 Claude Code 插件，这让他对数据隔离和工具行为产生疑虑。",
+        "generatedAt": "2026-10-03T09:16:03+08:00"
+      },
+      "pushedAt": "2026-10-03T09:16:25+08:00"
+    },
+    {
       "id": "cf70e45ebac24c28",
       "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
       "url": "https://theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
@@ -115,6 +152,44 @@
       "pushedAt": "2026-10-03T06:43:02+08:00"
     },
     {
+      "id": "33568a3a1d04cecb",
+      "title": "Is there a way to use my personal Claude subscription with my company's Cursor account?",
+      "url": "https://reddit.com/r/cursor/comments/1ww7wcu/is_there_a_way_to_use_my_personal_claude",
+      "summary": "Here's the situation: I pay for my own Claude subscription, but at work we use Cursor and our company account is limited to Grok models or Auto. I work as a Platform Engineer, and I've found that Claude Opus works much better for my day-to-…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T07:04:54+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 52,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "个人 Claude 订阅能否接入公司 Cursor 账号？",
+        "takeaway": "平台工程师想用自己的 Claude 订阅补足公司 Cursor 账号的模型限制，引发对账号与订阅绑定的讨论。",
+        "bullets": [
+          "用户自费订阅 Claude，但公司 Cursor 账号仅限 Grok 或 Auto 模型",
+          "他作为平台工程师，认为 Claude Opus 日常开发效果更好",
+          "核心疑问：能否把个人订阅接入公司 Cursor 账号使用",
+          "目前 Cursor 的模型权限通常由团队账号统一控制"
+        ],
+        "detail": "一位平台工程师在 Reddit 提问：自己付费订阅了 Claude，但公司提供的 Cursor 账号只能用 Grok 或 Auto 模型，无法使用 Claude Opus。他觉得 Opus 对日常工作帮助更大，想知道有没有办法把个人 Claude 订阅接到公司 Cursor 账号里。这反映出企业统一采购的 AI 工具与",
+        "generatedAt": "2026-10-03T09:16:03+08:00"
+      },
+      "pushedAt": "2026-10-03T09:16:25+08:00"
+    },
+    {
       "id": "2d915e86c2608ecf",
       "title": "Meta wants you to build your own Muse gadget",
       "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget",
@@ -147,6 +222,43 @@
         "detail": "Meta 希望 Muse 不只出现在自家产品里，而是进入电视、烤面包机等各种日常设备。为此，它把相关代码免费开放，让开发者自己动手打造搭载 Muse 的硬件。",
         "generatedAt": "2026-10-03T08:47:58+08:00"
       }
+    },
+    {
+      "id": "e08c80b1c2c682a0",
+      "title": "Claude 3.5 Sonnet Artifacts vs ChatGPT Canvas: Architecture, Context Preservation and Code Integrity Benchmark",
+      "url": "https://reddit.com/r/cursor/comments/1ww0kpd/claude_35_sonnet_artifacts_vs_chatgpt_canvas",
+      "summary": "submitted by /u/Far_Cupcake3823 [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T02:00:16+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Claude 3.5 Sonnet Artifacts 与 ChatGPT Canvas 对比评测",
+        "takeaway": "社区用户从架构、上下文保持和代码完整性三方面对比两款 AI 编程工具，结果值得关注。",
+        "bullets": [
+          "对比对象是 Claude 3.5 Sonnet Artifacts 和 ChatGPT Canvas",
+          "评测维度包括架构、上下文保持和代码完整性",
+          "内容来自 r/cursor 社区用户分享，非官方测试"
+        ],
+        "detail": "一位 Reddit 用户在 r/cursor 发帖，对 Claude 3.5 Sonnet 的 Artifacts 功能和 ChatGPT 的 Canvas 进行了基准对比，重点考察架构设计、上下文保持能力和代码完整性。该帖子附有链接和评论，但摘要未透露具体结论。",
+        "generatedAt": "2026-10-03T09:16:05+08:00"
+      },
+      "pushedAt": "2026-10-03T09:16:25+08:00"
     },
     {
       "id": "db634ba586290c60",
@@ -704,6 +816,114 @@
       "pushedAt": "2026-10-03T06:43:02+08:00"
     },
     {
+      "id": "d459b93520e4727a",
+      "title": "Grok 4.7 feel \"off\" today?",
+      "url": "https://reddit.com/r/cursor/comments/1ww3r8m/grok_47_feel_off_today",
+      "summary": "i've tried various efforts (extra-high, high, medium) and they're all really, really bad today. it's flagged multiple 'bugs' for me via `/review-bugbot` but they certainly weren't, ran a /multi-model-review afterwards to be sure and the oth…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T04:05:53+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户吐槽 Grok 4.7 今日表现异常糟糕",
+        "takeaway": "Cursor 用户反映 Grok 4.7 今日质量下滑，误报 bug，多模型复核后确认是模型问题。",
+        "bullets": [
+          "用户尝试 extra-high、high、medium 各档位，效果都很差",
+          "Grok 4.7 通过 /review-bugbot 误报多个并不存在的 bug",
+          "用户用 /multi-model-review 复核，其他模型未复现该问题"
+        ],
+        "detail": "一位 Cursor 用户在 r/cursor 发帖称，Grok 4.7 今天表现明显异常，无论调到 extra-high、high 还是 medium 档位都很糟糕。它通过 /review-bugbot 标记了多个所谓 bug，但实际并不存在；用户随后用 /multi-model-review 交叉验证，其他模型并未发",
+        "generatedAt": "2026-10-03T09:16:07+08:00"
+      }
+    },
+    {
+      "id": "779e5256f3c78b56",
+      "title": "Cursor kept forgetting my project rules and database schemas across sessions. Here is how I plugged persistent long-term memory in 1 minute via MCP.",
+      "url": "https://reddit.com/r/cursor/comments/1ww125e/cursor_kept_forgetting_my_project_rules_and",
+      "summary": "Hey Cursor devs! `.cursorrules` files are great for static guidelines, but as a project evolves, maintaining a monolithic rules file becomes painful: - It consumes valuable context window tokens on every single query. - It doesn't track *wh…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T02:19:06+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用 MCP 给 Cursor 接上长期记忆，1 分钟搞定跨会话遗忘",
+        "takeaway": "开发者分享通过 MCP 为 Cursor 添加持久长期记忆，解决跨会话丢失项目规则和数据库结构的问题。",
+        "bullets": [
+          "痛点：.cursorrules 静态规则文件随项目变大而难维护",
+          "每次查询都消耗上下文 token，且无法跟踪项目变化",
+          "方案：通过 MCP 接入持久长期记忆，1 分钟配置完成"
+        ],
+        "detail": "有开发者指出，.cursorrules 适合静态规范，但项目演进后单一规则文件会变得臃肿：每次提问都占用上下文 token，也无法记录项目变化。他通过 MCP 给 Cursor 接入了持久长期记忆，配置只需 1 分钟，从而跨会话保留项目规则和数据库结构。",
+        "generatedAt": "2026-10-03T09:16:08+08:00"
+      }
+    },
+    {
+      "id": "ab2b823eb63dd722",
+      "title": "Grok 4.7 feels like a huge token sink with barely any noticeable improvement over 4.6. Anyone else?",
+      "url": "https://reddit.com/r/cursor/comments/1wu9jj0/grok_47_feels_like_a_huge_token_sink_with_barely",
+      "summary": "Hey everyone, wanted to drop my thoughts after heavy usage of Grok 4.7 recently. Honestly, I’m pretty disappointed. Here’s my experience so far: Zero noticeable improvement: I genuinely cannot feel any real upgrade in output quality compare…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-01T24:29:42+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户吐槽 Grok 4.7：Token 消耗猛增，体验却与 4.6 无异",
+        "takeaway": "Cursor 用户实测 Grok 4.7 后认为升级感知极弱，反而更费 Token，性价比存疑。",
+        "bullets": [
+          "Reddit 用户重度使用后称 4.7 输出质量几乎无提升",
+          "抱怨 Token 消耗明显变大，像在烧钱",
+          "发帖询问其他 Cursor 用户是否有同感"
+        ],
+        "detail": "一位 Cursor 用户在 r/cursor 发帖说，自己最近大量使用 Grok 4.7，结果相当失望：输出质量相比 4.6 几乎感觉不到升级，但 Token 消耗却明显增加。他因此发问，想看看其他人是否也有同样的体验。",
+        "generatedAt": "2026-10-03T09:16:13+08:00"
+      }
+    },
+    {
       "id": "94343469bb36f60f",
       "title": "I've ended up with an AI lab in a public community college. What should we actually be teaching?",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1ww6wvo/ive_ended_up_with_an_ai_lab_in_a_public_community",
@@ -816,6 +1036,31 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "357217e9b43c337c",
+      "title": "Which AI coding subscription should i get for GTM/Marketing Automations?",
+      "url": "https://reddit.com/r/cursor/comments/1ww1t4x/which_ai_coding_subscription_should_i_get_for",
+      "summary": "I’m trying to decide which AI coding subscription to pay for mainly for building GTM/marketing automations, not traditional software engineering. My stack would mostly involve: • Database/backend: Supabase — Postgres, Edge Functions, Cron •…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T02:48:13+08:00",
+      "fetchedAt": "2026-10-03T09:15:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "c307e47225512228",
