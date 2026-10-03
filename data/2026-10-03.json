@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "updatedAt": "2026-10-03T21:32:28+08:00",
+  "updatedAt": "2026-10-04T24:53:48+08:00",
   "items": [
     {
       "id": "a80484c2d5849bdb",
@@ -260,6 +260,42 @@
         ],
         "detail": "据量子位消息，OpenAI安全团队负责人已离职，同时有三名员工因泄密被公司开除。这是该团队近期接连发生的人事变动之一，外界对OpenAI内部安全与保密管理产生疑虑。",
         "generatedAt": "2026-10-03T16:20:16+08:00"
+      }
+    },
+    {
+      "id": "73cf1fef21e2d4df",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "url": "https://theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T22:31:56+08:00",
+      "fetchedAt": "2026-10-04T24:53:39+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 0.63,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 安全员工离职，公开敲响警钟",
+        "takeaway": "曾负责 OpenAI 模型安全报告的 David Robinson 辞职，并撰文公开表达担忧。",
+        "bullets": [
+          "David Robinson 曾撰写 OpenAI 各主要模型发布的安全报告",
+          "本周他辞去职务，在《大西洋月刊》发文发声",
+          "此事引发外界对 OpenAI 安全承诺的进一步关注"
+        ],
+        "detail": "David Robinson 原本负责为 OpenAI 每次重大模型发布撰写安全报告。本周他选择辞职，并在《大西洋月刊》发表评论文章公开表达担忧。这一举动让外界更加关注 OpenAI 在安全方面的实际做法。",
+        "generatedAt": "2026-10-04T24:53:47+08:00"
       }
     },
     {
@@ -631,6 +667,42 @@
       "pushedAt": "2026-10-03T06:43:02+08:00"
     },
     {
+      "id": "f289f868e53a6160",
+      "title": "🔥 AI 员工支持知识库文档引用：开源 AI 无代码平台 NocoBase",
+      "url": "https://oschina.net/news/502842",
+      "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支： main、next 和 develop。** main： 截至目前最稳定的版本，推荐安装此版本。 next： 包含即将发布的新功能，经过初步测试的版本，可能存在部分已知或未知问题。主要面向测试用户，用于收集反馈和进一步优化功能。适合愿意提前体验...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T17:07:27+08:00",
+      "fetchedAt": "2026-10-04T24:53:39+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.6,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "NocoBase 更新：AI 员工支持知识库文档引用",
+        "takeaway": "开源无代码平台 NocoBase 为 AI 员工加入知识库文档引用能力，让 AI 回答更有据可依。",
+        "bullets": [
+          "NocoBase 是开源 AI 无代码平台，本次更新聚焦 AI 员工能力",
+          "新增知识库文档引用，AI 回答可关联文档来源",
+          "版本分 main、next、develop 三支，main 最稳定推荐使用"
+        ],
+        "detail": "NocoBase 汇总了一周产品更新，重点是为 AI 员工加入知识库文档引用功能，让 AI 在回答时能引用相关文档。平台目前维护 main、next、develop 三个分支：main 最稳定推荐安装，next 含初步测试的新功能，develop 面向开发。",
+        "generatedAt": "2026-10-04T24:53:46+08:00"
+      }
+    },
+    {
       "id": "ef48f9156b3fa86c",
       "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
       "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
@@ -921,6 +993,76 @@
         "generatedAt": "2026-10-03T06:42:59+08:00"
       },
       "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "9a415d111d44405a",
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T22:00:00+08:00",
+      "fetchedAt": "2026-10-04T24:53:39+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "盘点能住进你短信里的 AI 智能体",
+        "takeaway": "TechCrunch 汇总了多款可直接在短信中使用的 AI 助手，覆盖通用、家庭、旅行和工作场景。",
+        "bullets": [
+          "TechCrunch 整理了一份短信 AI 智能体清单",
+          "涵盖通用助手及家庭、旅行、工作专用型",
+          "用户无需额外 App，通过短信即可调用"
+        ],
+        "detail": "TechCrunch 列出了一批值得关注的 AI 智能体，它们能直接在你的短信里运行。这些智能体既有通用助手，也有针对家庭、旅行和工作等场景设计的专用型。",
+        "generatedAt": "2026-10-04T24:53:48+08:00"
+      }
+    },
+    {
+      "id": "4a46493e4f879979",
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "url": "https://theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Car…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T23:00:00+08:00",
+      "fetchedAt": "2026-10-04T24:53:39+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Splice CEO 警告：AI 邮件正在扼杀真实对话",
+        "takeaway": "Splice CEO 认为 AI 生成的邮件让沟通失去人情味，值得每个依赖邮件协作的人警惕。",
+        "bullets": [
+          "Splice CEO Kakul Srivastava 批评 AI 邮件正在破坏对话",
+          "Splice 是众多制作人依赖的采样平台，作品曾用于热门歌曲",
+          "她担忧 AI 邮件让沟通变得机械，影响行业协作"
+        ],
+        "detail": "Splice 首席执行官 Kakul Srivastava 指出，AI 生成的邮件正在扼杀真正的对话。Splice 是无数音乐制作人获取采样和循环的平台，其素材曾出现在 Lisa 的《Money》和 Sabrina Carpenter 的《Espresso》等热门歌曲中。她认为这种趋势值得警惕。",
+        "generatedAt": "2026-10-04T24:53:48+08:00"
+      }
     },
     {
       "id": "0ddb54cdbd615f0e",
@@ -1414,6 +1556,29 @@
       "pushed": false
     },
     {
+      "id": "50023a9a06f44c14",
+      "title": "Come let your LLMs play World of Warcraft",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wwqclz/come_let_your_llms_play_world_of_warcraft",
+      "summary": "I hosted my own world of warcraft private server then built a client that you can play in the browser on PC or mobile at https://jankcraft.xyz/ for free. Afterwards, I created a custom MCP and agent harness to control the browser client and…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T23:42:52+08:00",
+      "fetchedAt": "2026-10-04T24:53:39+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "72acbfe91034fe9d",
       "title": "Self-hosting AI does not save money, and I do it anyway",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1ww2jsu/selfhosting_ai_does_not_save_money_and_i_do_it",
@@ -1627,6 +1792,32 @@
       "pushed": false
     },
     {
+      "id": "97c4834edca92a71",
+      "title": "Anyone using a local AI meeting notes setup instead of Fathom?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wwnpxj/anyone_using_a_local_ai_meeting_notes_setup",
+      "summary": "Meeting notes are one of the last parts of my workflow that still depend heavily on cloud tools. I've used Fathom and lately Bluedot. Bluedot works well for me because there's no meeting bot and I get the transcript, summary and action item…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T21:48:43+08:00",
+      "fetchedAt": "2026-10-04T24:53:39+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tools",
+        "workflow"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "c307e47225512228",
       "title": "From the creator of Redis; run LLM locally with ds4",
       "url": "https://dwarfstar.sh/",
@@ -1671,6 +1862,29 @@
         "weights"
       ],
       "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9a14422b82b9b3e3",
+      "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+      "url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "summary": "Article URL: https://tej.as/blog/aleph-alpha-kolibri Comments URL: https://news.ycombinator.com/item?id=49943034 Points: 316 # Comments: 130",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T18:43:51+08:00",
+      "fetchedAt": "2026-10-04T24:53:39+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 29,
       "related": [],
       "pushed": false
