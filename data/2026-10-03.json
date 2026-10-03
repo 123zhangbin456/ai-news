@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "updatedAt": "2026-10-03T06:43:02+08:00",
+  "updatedAt": "2026-10-03T08:47:58+08:00",
   "items": [
     {
       "id": "a80484c2d5849bdb",
@@ -113,6 +113,40 @@
         "generatedAt": "2026-10-03T06:42:56+08:00"
       },
       "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "2d915e86c2608ecf",
+      "title": "Meta wants you to build your own Muse gadget",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget",
+      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T08:45:39+08:00",
+      "fetchedAt": "2026-10-03T08:47:52+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 开放 Muse 代码，邀你自造智能硬件",
+        "takeaway": "Meta 免费开放 Muse 代码，想让开发者把它的智能体验装进电视、烤面包机等各类设备。",
+        "bullets": [
+          "Meta 将 Muse 的代码免费开放给开发者",
+          "目标是把 Muse 装进电视、烤面包机等设备",
+          "意在扩大其智能生态的硬件覆盖范围"
+        ],
+        "detail": "Meta 希望 Muse 不只出现在自家产品里，而是进入电视、烤面包机等各种日常设备。为此，它把相关代码免费开放，让开发者自己动手打造搭载 Muse 的硬件。",
+        "generatedAt": "2026-10-03T08:47:58+08:00"
+      }
     },
     {
       "id": "db634ba586290c60",
@@ -374,6 +408,42 @@
         "generatedAt": "2026-10-03T06:42:58+08:00"
       },
       "pushedAt": "2026-10-03T06:43:02+08:00"
+    },
+    {
+      "id": "ef48f9156b3fa86c",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
+      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-03T07:03:16+08:00",
+      "fetchedAt": "2026-10-03T08:47:52+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "苹果收紧全盘访问权限，防 AI 代理滥用",
+        "takeaway": "苹果修改 macOS 全盘访问权限，限制 AI 代理读取用户数据，回应 Meta 等公司对隐私的担忧。",
+        "bullets": [
+          "苹果调整 macOS 权限，限制 AI 代理全盘访问用户文件。",
+          "Meta 认为 FDA 机制不足以保护消息隐私，苹果持不同意见。",
+          "此举或影响依赖全盘访问的 AI 工具和自动化应用。"
+        ],
+        "detail": "苹果修改了 macOS 的全盘访问权限，以遏制 AI 代理滥用。Meta 曾表示 FDA 机制不足以保护消息隐私，但苹果并不认同。这一调整可能影响需要读取用户文件的 AI 应用。",
+        "generatedAt": "2026-10-03T08:47:58+08:00"
+      }
     },
     {
       "id": "575ad95effd7644f",
