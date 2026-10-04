@@ -1,7 +1,43 @@
 {
   "date": "2026-10-05",
-  "updatedAt": "2026-10-04T22:27:46+08:00",
+  "updatedAt": "2026-10-05T01:13:09+08:00",
   "items": [
+    {
+      "id": "7f0fe70b7438323d",
+      "title": "Well, if AI said it, it must be true",
+      "url": "https://theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the medi…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-05T24:16:04+08:00",
+      "fetchedAt": "2026-10-05T01:13:00+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "resign"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 说啥都信？新泽西副州长用 AI 自证清白反被查",
+        "takeaway": "新泽西副州长因性骚扰指控被迫辞职，却试图用 AI 生成内容为自己辩护，结果适得其反。",
+        "bullets": [
+          "新泽西副州长戴尔·考德威尔因性骚扰和违反伦理规定，于 9 月 25 日被迫辞职。",
+          "调查发现他多次违反伦理规则，并骚扰一名工作人员。",
+          "他试图借助 AI 生成的说法为自己辩护，但未能改变调查结果。"
+        ],
+        "detail": "新泽西州副州长戴尔·考德威尔因性骚扰一名员工并多次违反伦理规定，于 9 月 25 日被迫辞职。调查结果公布后，他试图用 AI 生成的内容为自己辩解，但此举反而引发更多质疑。",
+        "generatedAt": "2026-10-05T01:13:09+08:00"
+      }
+    },
     {
       "id": "335dfcd23662c6f6",
       "title": "Java新闻汇总：新的OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst和ADK for Kotlin",
@@ -70,6 +106,29 @@
         "detail": "InfoQ 中国发布了一期 Java 新闻汇总，涵盖 GraalVM、Jakarta Data、JNoSQL、Azul Payara、WildFly、Quarkus 和 Atmosphere 等多个项目的最新消息。这些更新涉及虚拟机、数据访问规范、应用服务器和实时通信框架，反映了 Java 生态的活跃发展。",
         "generatedAt": "2026-10-04T22:27:46+08:00"
       }
+    },
+    {
+      "id": "28564a12ec6dcc9a",
+      "title": "Qwen3.5 arch implementation in FPGA fabric for 9B/27B INT4 models on relatively cheap eBay mining hardware",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wxken1/qwen35_arch_implementation_in_fpga_fabric_for",
+      "summary": "I've been wanting to test out LLM inference on FPGAs for a while now, but didn't have a big reason too since there were no frontier class models at 9B-27B scale (3.6 27B was great still but it didn't motivate me enough). When 3.8 was releas…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-05T24:51:07+08:00",
+      "fetchedAt": "2026-10-05T01:13:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
