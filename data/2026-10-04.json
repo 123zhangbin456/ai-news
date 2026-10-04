@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "updatedAt": "2026-10-04T16:52:40+08:00",
+  "updatedAt": "2026-10-04T22:27:46+08:00",
   "items": [
     {
       "id": "f143fce070e10faa",
@@ -188,6 +188,42 @@
         "generatedAt": "2026-10-04T03:37:16+08:00"
       },
       "pushedAt": "2026-10-04T07:27:09+08:00"
+    },
+    {
+      "id": "ed27397f8061b19f",
+      "title": "Need maybe say \"Use llama.cpp\"",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wxbm8w/need_maybe_say_use_llamacpp",
+      "summary": "So I tried that miracle engine everyone is talking about. Asked the IQ3_S model to express its opinion on a post from this sub to measure the tps on a long-ish generation: Can you help with the following problem? So Kimi K2 is outdated, and…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T17:37:33+08:00",
+      "fetchedAt": "2026-10-04T22:27:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 0.25,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户实测 llama.cpp 跑 IQ3_S 模型，长文本生成测速",
+        "takeaway": "有人用 llama.cpp 跑 IQ3_S 量化模型，通过让模型评论帖子来测长文本生成速度。",
+        "bullets": [
+          "测试者用 llama.cpp 加载 IQ3_S 量化模型",
+          "让模型评论 Reddit 帖子以测量长文本生成 tps",
+          "提到 Kimi K2 已过时，但未给出具体结论"
+        ],
+        "detail": "发帖人尝试了大家热议的“奇迹引擎”，用 llama.cpp 运行 IQ3_S 模型，并让它评论本版块的一个帖子，以此测量较长生成时的每秒 token 数。过程中提到 Kimi K2 已经过时，但未给出具体测试结果。",
+        "generatedAt": "2026-10-04T22:27:43+08:00"
+      }
     },
     {
       "id": "c87d5f628b0a50a7",
@@ -588,6 +624,78 @@
       }
     },
     {
+      "id": "bca476fd34631d9d",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "url": "https://github.com/Niko1221/Strata",
+      "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 107 # Comments: 38",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T20:51:53+08:00",
+      "fetchedAt": "2026-10-04T22:27:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "125B 的 Qwen 3.8 Flash Next 在单张 RTX 4090 上跑到 100T/s",
+        "takeaway": "有人把 125B 大模型塞进消费级显卡并跑到 100T/s，本地跑大模型的硬件门槛又被拉低了。",
+        "bullets": [
+          "项目名为 Strata，托管在 GitHub 上，作者演示单张 RTX 4090 运行 125B 模型",
+          "宣称推理速度达到 100 tokens/s，属于消费级硬件上的高速度",
+          "消息在 Hacker News 获得 107 点、38 条评论，引发本地部署讨论"
+        ],
+        "detail": "有人在 GitHub 发布 Strata 项目，展示在单张 RTX 4090 这类消费级显卡上运行 125B 参数的 Qwen 3.8 Flash Next，并宣称速度可达 100 tokens/s。该消息在 Hacker News 上引来关注，讨论集中在本地跑大模型的可行性与代价。",
+        "generatedAt": "2026-10-04T22:27:44+08:00"
+      }
+    },
+    {
+      "id": "8b3ad1876027af56",
+      "title": "Is there any way to improve creative writing for Local Models (Qwen)?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wxfgn9/is_there_any_way_to_improve_creative_writing_for",
+      "summary": "I wanted to know if theres anything that can improve creative writing for our Local Models? I specificly am asking for qwen models as they are way better when it comes to researching and writing html files compared to gemma / muse (which I …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T21:16:28+08:00",
+      "fetchedAt": "2026-10-04T22:27:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "本地 Qwen 模型创意写作怎么提升？社区求招",
+        "takeaway": "有用户在 LocalLLaMA 发帖求助，想让本地 Qwen 在创意写作上表现更好，同时肯定其研究与写 HTML 的能力。",
+        "bullets": [
+          "发帖人主用 Qwen 本地模型，认为它写 HTML、做研究比 Gemma、Muse 更强",
+          "但创意写作仍是短板，发帖人想找提升办法",
+          "目前帖子只是提问，没有给出具体方案或结论"
+        ],
+        "detail": "一位本地模型用户在 r/LocalLLaMA 提问：有没有办法提升本地模型的创意写作能力？他特别点名 Qwen，因为在他体验里，Qwen 做资料研究和生成 HTML 文件明显强过 Gemma 和 Muse，但创意写作还差点意思。帖子目前只是求助，没有给出具体调优方案。",
+        "generatedAt": "2026-10-04T22:27:43+08:00"
+      }
+    },
+    {
       "id": "4306447e89fe3eba",
       "title": "Least sycophantic modern open LLM?",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wx4yvw/least_sycophantic_modern_open_llm",
@@ -622,6 +730,77 @@
         ],
         "detail": "有用户在 r/LocalLLaMA 发帖，认为 Kimi K2 和 GPT OSS 120b 已经过时，想找当前最不谄媚的现代开源权重模型。他提到谄媚的模型曾多次把自己带进坏点子的死胡同，因此既用于创意写作，也用于研究助手。帖子目前只是提问，尚未给出具体推荐。",
         "generatedAt": "2026-10-04T16:52:40+08:00"
+      }
+    },
+    {
+      "id": "d6e875c806503a1c",
+      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+      "url": "https://wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break",
+      "summary": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T18:00:00+08:00",
+      "fetchedAt": "2026-10-04T22:27:21+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center",
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "美国乡村数据中心将获巨额联邦税收减免",
+        "takeaway": "新法案为乡村数据中心提供重大税收优惠，但部分超大规模厂商反应冷淡。",
+        "bullets": [
+          "《One Big Beautiful Bill Act》明年起为乡村数据中心提供税收优惠",
+          "部分超大规模云厂商对免费资金并不热衷",
+          "政策或影响数据中心选址与乡村经济"
+        ],
+        "detail": "根据《One Big Beautiful Bill Act》，从明年开始，位于乡村地区的数据中心项目将有资格获得大幅税收减免。然而，一些超大规模云厂商似乎并不急于领取这笔“免费现金”。",
+        "generatedAt": "2026-10-04T22:27:45+08:00"
+      }
+    },
+    {
+      "id": "f16653790b520f5b",
+      "title": "Religious scholars met with Anthropic",
+      "url": "https://nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "summary": "https://archive.is/y8FW0 Comments URL: https://news.ycombinator.com/item?id=49950052 Points: 120 # Comments: 262",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T10:34:22+08:00",
+      "fetchedAt": "2026-10-04T22:27:21+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "宗教神职人员与 Anthropic 会面，讨论 AI 伦理",
+        "takeaway": "宗教人士与 AI 公司 Anthropic 就人工智能伦理展开对话，引发社区热议。",
+        "bullets": [
+          "宗教神职人员与 Anthropic 举行会面",
+          "讨论内容涉及 AI 伦理与价值观",
+          "消息在 Hacker News 上引发 262 条评论"
+        ],
+        "detail": "据 Hacker News 消息，一群宗教神职人员与 AI 公司 Anthropic 进行了会面。目前公开信息有限，但事件在技术社区引发广泛讨论，反映出人们对 AI 伦理与价值观问题的持续关注。",
+        "generatedAt": "2026-10-04T22:27:45+08:00"
       }
     },
     {
@@ -757,6 +936,31 @@
       ],
       "confidence": 1,
       "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "399a6134aae7ea29",
+      "title": "I Distilled an LLM into two 287M encoders (GLiNER + multiple choice) for document extraction, can't match teacher. did i do something wrong?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wxgccy/i_distilled_an_llm_into_two_287m_encoders_gliner",
+      "summary": "A while ago I asked here how to turn ~5 million court decisions into structured graphs without running an expensive LLM on every document thanks for the advice . I went with the \"small extractor + classifier\" idea and it mostly works, but I…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T21:58:17+08:00",
+      "fetchedAt": "2026-10-04T22:27:21+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "court"
+      ],
+      "confidence": 1,
+      "score": 30,
       "related": [],
       "pushed": false
     },
