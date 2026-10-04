@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "updatedAt": "2026-10-04T07:27:09+08:00",
+  "updatedAt": "2026-10-04T08:11:50+08:00",
   "items": [
     {
       "id": "f143fce070e10faa",
@@ -261,6 +261,43 @@
       "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
+      "id": "3ba89625595d4416",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps",
+      "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cu…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T07:34:02+08:00",
+      "fetchedAt": "2026-10-04T08:11:45+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "product",
+        "feature"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Simon Willison 呼吁：按量付费服务应默认设置硬性预算上限",
+        "takeaway": "AI 按量付费服务越来越多，默认硬性预算封顶能防止意外超支，值得关注。",
+        "bullets": [
+          "Simon Willison 提出按量付费 API 应默认设硬性预算上限",
+          "达到设定金额后自动停止服务，避免账单失控",
+          "随着 AI 服务普及，这类功能需求将大幅增长"
+        ],
+        "detail": "Simon Willison 指出，未来几个月到几年，按量付费的服务和 API 会越来越普遍，因此“默认硬性预算上限”这一功能将变得不可或缺。它允许用户设定每月消费上限，一旦达到就自动停止服务，从而避免意外的高额账单。",
+        "generatedAt": "2026-10-04T08:11:50+08:00"
+      }
+    },
+    {
       "id": "fc994d69ad09d9fe",
       "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
       "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
@@ -296,6 +333,43 @@
         "generatedAt": "2026-10-04T07:27:02+08:00"
       },
       "pushedAt": "2026-10-04T07:27:09+08:00"
+    },
+    {
+      "id": "abb7e8706ce912d8",
+      "title": "Strata Qwen 3.8 flash next is the biggest thing since the release of Qwen 3.8 27b",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wx1bi1/strata_qwen_38_flash_next_is_the_biggest_thing",
+      "summary": "It provides the speed and somewhat accessibility to low vram users to run Flash Next as their main. It's providing the speed of qwen 3.5-35-a3b but with higher intelligence over 3.8 27b. This will allow many people to replace 27b. I'm getti…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T07:44:20+08:00",
+      "fetchedAt": "2026-10-04T08:11:45+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Qwen"
+      ],
+      "confidence": 0.8,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Strata Qwen 3.8 Flash Next 发布：低显存也能跑的高智能模型",
+        "takeaway": "新模型兼顾速度与智能，低显存用户可将其作为主力模型，有望取代 Qwen 3.8 27b。",
+        "bullets": [
+          "面向低显存用户，可作日常主力模型运行",
+          "速度接近 Qwen 3.5-35-a3b，智能超过 3.8 27b",
+          "被社区视为 27b 的替代选择"
+        ],
+        "detail": "这是 r/LocalLLaMA 社区讨论的 Strata Qwen 3.8 Flash Next。它让显存有限的用户也能流畅运行，速度看齐 Qwen 3.5-35-a3b，但智能水平高于 Qwen 3.8 27b，因此不少人考虑用它替换 27b。",
+        "generatedAt": "2026-10-04T08:11:50+08:00"
+      }
     },
     {
       "id": "a59bf259f57e69d4",
