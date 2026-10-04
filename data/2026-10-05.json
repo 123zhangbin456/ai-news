@@ -1,7 +1,44 @@
 {
   "date": "2026-10-05",
-  "updatedAt": "2026-10-05T01:13:09+08:00",
+  "updatedAt": "2026-10-05T06:08:07+08:00",
   "items": [
+    {
+      "id": "71b92d7d124804e8",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-05T04:31:07+08:00",
+      "fetchedAt": "2026-10-05T06:07:51+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open source"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "AI 提交泛滥，谷歌暂停开源漏洞赏金计划",
+        "takeaway": "AI 生成的垃圾漏洞报告激增，谷歌被迫冻结开源项目漏洞赏金，安全生态受冲击。",
+        "bullets": [
+          "谷歌因 AI 提交量显著上升，暂停开源漏洞赏金计划",
+          "大量低质量 AI 报告挤占人工审核资源",
+          "此举或影响开源项目安全漏洞的发现与修复"
+        ],
+        "detail": "谷歌发现，由 AI 生成的漏洞报告数量激增，且多为低质量内容，导致审核团队不堪重负。因此，谷歌决定暂时冻结其开源漏洞赏金计划，以应对这一“AI 垃圾”泛滥问题。",
+        "generatedAt": "2026-10-05T06:07:56+08:00"
+      },
+      "pushedAt": "2026-10-05T06:08:07+08:00"
+    },
     {
       "id": "7f0fe70b7438323d",
       "title": "Well, if AI said it, it must be true",
@@ -25,7 +62,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI 说啥都信？新泽西副州长用 AI 自证清白反被查",
         "takeaway": "新泽西副州长因性骚扰指控被迫辞职，却试图用 AI 生成内容为自己辩护，结果适得其反。",
@@ -36,7 +73,83 @@
         ],
         "detail": "新泽西州副州长戴尔·考德威尔因性骚扰一名员工并多次违反伦理规定，于 9 月 25 日被迫辞职。调查结果公布后，他试图用 AI 生成的内容为自己辩解，但此举反而引发更多质疑。",
         "generatedAt": "2026-10-05T01:13:09+08:00"
-      }
+      },
+      "pushedAt": "2026-10-05T06:08:07+08:00"
+    },
+    {
+      "id": "8a9c48729bde803b",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-05T04:08:34+08:00",
+      "fetchedAt": "2026-10-05T06:07:51+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "超级智能与非约束性安全协议能解决AI形象问题吗？",
+        "takeaway": "特朗普政府试图重塑AI形象，但非约束性协议与超级智能概念能否奏效存疑。",
+        "bullets": [
+          "特朗普政府尝试为AI重新塑造公众形象",
+          "讨论涉及超级智能与非约束性安全协议",
+          "非约束性协议缺乏强制力，效果待观察"
+        ],
+        "detail": "在Equity播客中，我们讨论了特朗普政府为AI重塑形象的努力。他们提出超级智能概念并推动一项非约束性安全协议，但这类协议没有法律约束力，能否真正解决AI的公众形象问题仍不确定。",
+        "generatedAt": "2026-10-05T06:07:58+08:00"
+      },
+      "pushedAt": "2026-10-05T06:08:07+08:00"
+    },
+    {
+      "id": "b88eb4b5fc4a8789",
+      "title": "Built a quick, sub-15ms Rust CLI/TUI to pack repos into prompts without burning 40k tokens on lockfiles and junk",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wxl36c/built_a_quick_sub15ms_rust_clitui_to_pack_repos",
+      "summary": "Whenever I feed codebases into local models (Qwen, DeepSeek R1) or API models, the biggest annoyance is prompt pollution: - Lockfiles (`Cargo.lock`, `package-lock.json`) burning 30,000+ tokens for zero reason. - SVGs, binary files, or build…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-05T01:18:56+08:00",
+      "fetchedAt": "2026-10-05T06:07:51+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Rust 工具把代码库打包成提示词，15ms 内剔除锁文件省下数万 token",
+        "takeaway": "开发者自建 Rust CLI/TUI，快速把仓库整理成喂给本地或 API 模型的提示词，避免锁文件等垃圾内容浪费 token。",
+        "bullets": [
+          "针对 Cargo.lock、package-lock.json 等锁文件浪费 3 万+ token 的痛点",
+          "用 Rust 实现，处理耗时低于 15 毫秒，支持 CLI 和 TUI",
+          "面向 Qwen、DeepSeek R1 等本地模型及 API 模型的代码输入场景"
+        ],
+        "detail": "作者在把代码库喂给 Qwen、DeepSeek R1 等模型时，常被提示词污染困扰：锁文件动辄烧掉 3 万多 token，SVG、二进制和构建产物也混入其中。于是他写了这个 Rust 命令行工具，能在 15 毫秒内把仓库打包成干净提示词。",
+        "generatedAt": "2026-10-05T06:07:59+08:00"
+      },
+      "pushedAt": "2026-10-05T06:08:07+08:00"
     },
     {
       "id": "335dfcd23662c6f6",
@@ -59,7 +172,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Java 生态周报：OpenJDK 新 JEP、CDI 5.0 与 Spring 等更新",
         "takeaway": "InfoQ 汇总了近期 Java 生态的重要动态，涵盖 OpenJDK、CDI、Spring 等主流项目。",
@@ -70,7 +183,8 @@
         ],
         "detail": "InfoQ 中国发布 Java 新闻汇总，盘点了近期 Java 生态的多项进展：OpenJDK 有新的 JEP 提案，CDI 升级到 5.0，Spring、Open Liberty 等框架也有更新，还涉及 RefactorFirst 工具和 Kotlin 的 ADK。具体细节需查看原文。",
         "generatedAt": "2026-10-04T22:27:45+08:00"
-      }
+      },
+      "pushedAt": "2026-10-05T06:08:07+08:00"
     },
     {
       "id": "7fb7dffb611a67a8",
@@ -93,7 +207,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Java 生态周报：GraalVM、Jakarta Data 等多项目更新",
         "takeaway": "InfoQ 汇总了 GraalVM、Jakarta Data、JNoSQL、Azul Payara、WildFly、Quarkus 和 Atmosphere 的最新动态。",
@@ -105,7 +219,46 @@
         ],
         "detail": "InfoQ 中国发布了一期 Java 新闻汇总，涵盖 GraalVM、Jakarta Data、JNoSQL、Azul Payara、WildFly、Quarkus 和 Atmosphere 等多个项目的最新消息。这些更新涉及虚拟机、数据访问规范、应用服务器和实时通信框架，反映了 Java 生态的活跃发展。",
         "generatedAt": "2026-10-04T22:27:46+08:00"
-      }
+      },
+      "pushedAt": "2026-10-05T06:08:07+08:00"
+    },
+    {
+      "id": "add5d0aadaf06af7",
+      "title": "LLM Inference Dashboard",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wxm2og/llm_inference_dashboard",
+      "summary": "Working on a resource dashboard, rich logs, lightweight 64mb cap, all local, scales on network API endpoints via collector, supports multiple engines (llama, strata, custom cuda engines, unsloth, LMS) Not public yet, but curious if anyone w…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-05T02:00:03+08:00",
+      "fetchedAt": "2026-10-05T06:07:51+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 33,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "本地 LLM 推理监控面板：64MB 轻量、多引擎支持",
+        "takeaway": "开发者正在做一个全本地、仅 64MB 的 LLM 推理资源面板，支持多种推理引擎，尚未公开。",
+        "bullets": [
+          "全本地运行，资源占用上限仅 64MB，主打轻量",
+          "支持 llama、strata、自定义 CUDA 引擎、unsloth、LMS 等多种引擎",
+          "通过 collector 对接网络 API 端点，可横向扩展",
+          "目前未公开发布，作者在社区征询反馈"
+        ],
+        "detail": "有人在 r/LocalLLaMA 上展示正在开发的 LLM 推理监控面板，主打轻量和全本地：内存占用上限 64MB，提供丰富的日志。它通过 collector 对接网络 API 端点来扩展，并兼容 llama、strata、自定义 CUDA 引擎、unsloth、LMS 等多种推理引擎。项目尚未公开，作者想先听听社区意",
+        "generatedAt": "2026-10-05T06:08:01+08:00"
+      },
+      "pushedAt": "2026-10-05T06:08:07+08:00"
     },
     {
       "id": "28564a12ec6dcc9a",
@@ -128,7 +281,56 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "Qwen3.5 架构在 FPGA 上跑通 9B/27B INT4 模型",
+        "takeaway": "有人用 eBay 廉价矿机 FPGA 实现了 Qwen3.5 的硬件推理，为低成本本地部署提供新思路。",
+        "bullets": [
+          "作者在 FPGA 上实现了 Qwen3.5 架构，支持 9B 和 27B 的 INT4 量化模型",
+          "硬件来自 eBay 上相对便宜的矿机设备，成本远低于高端 GPU",
+          "此前缺少 9B-27B 级别的前沿模型，作者一直没动力做 FPGA 推理测试"
+        ],
+        "detail": "作者一直想尝试在 FPGA 上做 LLM 推理，但之前没有 9B-27B 级别的前沿模型，缺乏足够动力。Qwen3.5 发布后，他在 eBay 廉价矿机硬件上实现了该架构，可运行 9B 和 27B 的 INT4 模型。",
+        "generatedAt": "2026-10-05T06:08:02+08:00"
+      },
+      "pushedAt": "2026-10-05T06:08:07+08:00"
+    },
+    {
+      "id": "a4136a362da2962f",
+      "title": "Update #4: Post training yandex/AliceAI-80B-A3B [instruct!] from scratch",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wxlytt/update_4_post_training_yandexaliceai80ba3b",
+      "summary": "Last update for those following: https://www.reddit.com/r/LocalLLaMA/comments/1wvyc3e/update_3_post_training_yandexaliceai80ba3b/ Project in a sentence: An instruct finetune of ALiceAI-80B-A3B-Base capable of agentic work and conversation. …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-05T01:55:37+08:00",
+      "fetchedAt": "2026-10-05T06:07:51+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "update"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Yandex AliceAI-80B-A3B 从零后训练更新第 4 弹：指令微调版来了",
+        "takeaway": "开发者公布 AliceAI-80B-A3B 指令微调进展，目标是让它既能对话又能做智能体任务。",
+        "bullets": [
+          "项目基于 Yandex 的 AliceAI-80B-A3B-Base 模型做指令微调",
+          "定位是兼顾对话与 agentic 工作的通用助手",
+          "这是该系列从零后训练的第 4 次更新，面向关注者同步进展"
+        ],
+        "detail": "这是该系列后训练项目的第四次更新。简单说，开发者正在对 Yandex 的 AliceAI-80B-A3B-Base 做指令微调，希望得到一个既能正常聊天、又能执行智能体任务的模型。",
+        "generatedAt": "2026-10-05T06:08:02+08:00"
+      },
+      "pushedAt": "2026-10-05T06:08:07+08:00"
     }
   ],
   "topic": "ai"
