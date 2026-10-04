@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "updatedAt": "2026-10-04T09:45:30+08:00",
+  "updatedAt": "2026-10-04T10:24:57+08:00",
   "items": [
     {
       "id": "f143fce070e10faa",
@@ -334,6 +334,43 @@
       }
     },
     {
+      "id": "14103ec9973068df",
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken Comments URL: https://news.ycombinator.com/item?id=49948332 Points: 161 # Comments: 109",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T06:18:13+08:00",
+      "fetchedAt": "2026-10-04T10:24:52+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 安全负责人离职，直言公司文化已「崩坏」",
+        "takeaway": "OpenAI 安全高管出走并公开批评内部文化，再度引发对 AI 安全让位于商业速度的担忧。",
+        "bullets": [
+          "OpenAI 安全负责人宣布离职",
+          "离职时警告公司文化「已崩坏」",
+          "消息登上 Hacker News 热榜，引发热议",
+          "外界关注 AI 安全与商业扩张的冲突"
+        ],
+        "detail": "据《卫报》报道，OpenAI 一位负责安全事务的高管已离职，并在离开时警告公司内部文化「broken（崩坏）」。此事在 Hacker News 上获得 161 点热度、109 条评论，讨论集中在 AI 公司是否为了抢速度而牺牲安全。",
+        "generatedAt": "2026-10-04T10:24:57+08:00"
+      }
+    },
+    {
       "id": "fc994d69ad09d9fe",
       "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
       "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
@@ -445,6 +482,42 @@
       "pushedAt": "2026-10-04T07:27:09+08:00"
     },
     {
+      "id": "d27a770b7b58248d",
+      "title": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+      "url": "https://infoq.cn/article/M4mgbKf4RDv5AKTwQvFH",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T18:00:00+08:00",
+      "fetchedAt": "2026-10-04T10:24:52+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "治理"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "QCon上海：把企业数仓沉淀为Agent可治理的共享语义记忆",
+        "takeaway": "议题指出Agent记忆不应只存在对话里，而应把企业数仓变成可治理的共享语义记忆。",
+        "bullets": [
+          "议题来自QCon上海，聚焦Agent记忆与企业数仓",
+          "主张记忆不在对话里，而应沉淀为共享语义层",
+          "强调可治理，指向企业级Agent落地的数据基础"
+        ],
+        "detail": "该议题提出，Agent的记忆不应只停留在对话上下文中，而要把企业数据仓库沉淀为可治理的共享语义记忆。这样做的目的是让Agent在企业场景中拥有统一、可管理、可复用的知识基础，而非依赖零散的对话历史。",
+        "generatedAt": "2026-10-04T10:24:57+08:00"
+      }
+    },
+    {
       "id": "2f1a3a9edbdd53b9",
       "title": "The Rise of Overfit Inference Engines",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines",
@@ -480,6 +553,32 @@
         "generatedAt": "2026-10-04T07:27:04+08:00"
       },
       "pushedAt": "2026-10-04T07:27:09+08:00"
+    },
+    {
+      "id": "a562d42f3c2c29b6",
+      "title": "Is all the work that's being put into Qwen3.8 Flash Next going to set us up for a very quick uplift to Qwen4?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wx3sxu/is_all_the_work_thats_being_put_into_qwen38_flash",
+      "summary": "Given the commentary on the Q3.8FN release page here https://qwen.ai/blog?id=qwen3.8-flash-next I assume/hope that all the work that's going on to optimise the hell out of running it will be useful when Qwen4 drops? submitted by /u/demomanc…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T09:52:48+08:00",
+      "fetchedAt": "2026-10-04T10:24:52+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
