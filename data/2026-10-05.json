@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "updatedAt": "2026-10-05T09:05:16+08:00",
+  "updatedAt": "2026-10-05T09:38:13+08:00",
   "items": [
     {
       "id": "71b92d7d124804e8",
@@ -112,6 +112,42 @@
         "generatedAt": "2026-10-05T06:07:58+08:00"
       },
       "pushedAt": "2026-10-05T06:08:07+08:00"
+    },
+    {
+      "id": "5fad0d3be5b52d00",
+      "title": "My qwen model hallucinated a signed URL to Alibaba cloud, normal or sketchy?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wxvt41/my_qwen_model_hallucinated_a_signed_url_to",
+      "summary": "I'm using Qwen3.8-Flash-Next running on my Mac Studio as a daily driver for coding + productivity tasks, and yesterday it did something weird: I had it do some product research on amazon, so it was doing a lot of Web tool calls to amazon.co…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-05T09:13:22+08:00",
+      "fetchedAt": "2026-10-05T09:38:08+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 模型编造阿里云签名链接，用户疑惑是否正常",
+        "takeaway": "本地跑 Qwen 做亚马逊调研时，模型凭空生成了一条阿里云签名 URL，引发对模型行为与安全的担忧。",
+        "bullets": [
+          "用户在 Mac Studio 上本地运行 Qwen3.8-Flash-Next 做日常编码和办公",
+          "模型在大量调用网页工具查亚马逊商品时，虚构出一条阿里云签名链接",
+          "用户发帖询问这是模型正常幻觉还是存在安全隐患"
+        ],
+        "detail": "用户把 Qwen3.8-Flash-Next 跑在 Mac Studio 上当主力模型，用于编码和效率任务。昨天让它做亚马逊商品调研，期间频繁调用网页工具，结果模型凭空编造出一条阿里云签名 URL。用户不确定这属于常见幻觉，还是值得警惕的异常行为。",
+        "generatedAt": "2026-10-05T09:38:13+08:00"
+      }
     },
     {
       "id": "b88eb4b5fc4a8789",
