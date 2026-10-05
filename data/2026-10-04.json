@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "updatedAt": "2026-10-05T06:08:07+08:00",
+  "updatedAt": "2026-10-05T09:05:19+08:00",
   "items": [
     {
       "id": "6b7d3ad5d90c235b",
@@ -42,6 +42,43 @@
         "generatedAt": "2026-10-05T06:07:57+08:00"
       },
       "pushedAt": "2026-10-05T06:08:07+08:00"
+    },
+    {
+      "id": "bfc8d49c9d5c47b2",
+      "title": "One 4K screenshot can cost 3x more tokens than it needs to. Here's a free fix for Claude, ChatGPT & Cursor",
+      "url": "https://reddit.com/r/cursor/comments/1wxgy60/one_4k_screenshot_can_cost_3x_more_tokens_than_it",
+      "summary": "Most screenshots are way bigger than the model needs, and you pay for every extra pixel. A single 3314×1572 screenshot costs roughly ~1,555 tokens on Claude and ~1,445 on ChatGPT. The same image at 1024px wide? About ~664 and ~425. Same con…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T22:24:36+08:00",
+      "fetchedAt": "2026-10-05T09:04:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 61,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "一张 4K 截图多花 3 倍 token，免费方案帮你省",
+        "takeaway": "截图分辨率远超模型所需，白付了 token 钱；缩小到 1024px 可省约一半以上。",
+        "bullets": [
+          "3314×1572 截图在 Claude 约 1555 token，ChatGPT 约 1445 token",
+          "同图缩到 1024px 宽后，分别降至约 664 和 425 token",
+          "作者给出适用于 Claude、ChatGPT、Cursor 的免费压缩方案"
+        ],
+        "detail": "多数截图尺寸远超模型实际需要，多出的像素都在烧 token。实测一张 3314×1572 的图在 Claude 约 1555 token、ChatGPT 约 1445 token，而缩到 1024px 宽后只需约 664 和 425 token。作者分享了一个免费方法，帮你在 Claude、ChatGPT 和 Curs",
+        "generatedAt": "2026-10-05T09:05:11+08:00"
+      },
+      "pushedAt": "2026-10-05T09:05:19+08:00"
     },
     {
       "id": "82766b523787d79c",
@@ -899,6 +936,79 @@
       "pushedAt": "2026-10-05T06:08:07+08:00"
     },
     {
+      "id": "38f9f30d956be960",
+      "title": "Please add full Brazilian Portuguese localization to Cursor",
+      "url": "https://reddit.com/r/cursor/comments/1wxgqsg/please_add_full_brazilian_portuguese_localization",
+      "summary": "Please add full native Brazilian Portuguese (pt-BR) localization to Cursor. The VS Code Portuguese language pack only solves part of the problem. Cursor-native interfaces — Settings, Account, Agent/Chat, Composer, buttons, dialogs, tooltips…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T22:15:22+08:00",
+      "fetchedAt": "2026-10-05T09:04:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户呼吁 Cursor 加入完整巴西葡萄牙语本地化",
+        "takeaway": "Cursor 用户请求官方支持 pt-BR，称 VS Code 语言包无法覆盖 Cursor 自有界面。",
+        "bullets": [
+          "用户发帖要求 Cursor 提供完整巴西葡萄牙语（pt-BR）本地化",
+          "指出 VS Code 葡萄牙语语言包只能解决部分界面问题",
+          "涉及设置、账户、Agent/Chat、Composer、按钮、对话框、提示等原生界面",
+          "目前 Cursor 自有界面仍缺少完整翻译"
+        ],
+        "detail": "有用户在 r/cursor 发帖，呼吁为 Cursor 加入完整的巴西葡萄牙语（pt-BR）原生本地化。发帖人表示，VS Code 的葡萄牙语语言包只能解决一部分问题，Cursor 自己的界面——包括设置、账户、Agent/Chat、Composer、按钮、对话框和工具提示等——仍需要官方翻译支持。",
+        "generatedAt": "2026-10-05T09:05:13+08:00"
+      }
+    },
+    {
+      "id": "a45f6be746292aba",
+      "title": "Use Cursor agent for Graphic Design",
+      "url": "https://reddit.com/r/cursor/comments/1wx4e7v/use_cursor_agent_for_graphic_design",
+      "summary": "submitted by /u/ariferol01 [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T10:24:37+08:00",
+      "fetchedAt": "2026-10-05T09:04:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用 Cursor 智能体做平面设计？社区分享新玩法",
+        "takeaway": "Cursor 用户尝试把编程智能体用于平面设计，探索 AI 编码工具的跨界用途。",
+        "bullets": [
+          "r/cursor 社区用户发帖，分享用 Cursor agent 做平面设计的经验",
+          "Cursor 原本是 AI 代码编辑器，此举属于跨界用法探索",
+          "对设计师和开发者来说，可能打开新的工作流思路"
+        ],
+        "detail": "有用户在 r/cursor 论坛发帖，讨论如何把 Cursor 的智能体功能用在平面设计上。Cursor 本身是面向程序员的 AI 代码编辑器，这次分享属于社区自发的跨界尝试，具体做法和效果需看原帖链接。",
+        "generatedAt": "2026-10-05T09:05:14+08:00"
+      }
+    },
+    {
       "id": "4306447e89fe3eba",
       "title": "Least sycophantic modern open LLM?",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wx4yvw/least_sycophantic_modern_open_llm",
@@ -1158,6 +1268,31 @@
         "generatedAt": "2026-10-05T06:08:01+08:00"
       },
       "pushedAt": "2026-10-05T06:08:07+08:00"
+    },
+    {
+      "id": "3c94f027468c284e",
+      "title": "Team rules files - how big did yours get before it stopped helping?",
+      "url": "https://reddit.com/r/cursor/comments/1wx8wab/team_rules_files_how_big_did_yours_get_before_it",
+      "summary": "Question for people using Cursor in a team, not solo. Our rules started small and useful. Over time it got long, some rules overlap, and nobody is fully sure which ones are still true. Cursor reads all of it on every task even when most of …",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-04T14:44:59+08:00",
+      "fetchedAt": "2026-10-05T09:04:57+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "399a6134aae7ea29",
