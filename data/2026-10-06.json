@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "updatedAt": "2026-10-06T02:36:42+08:00",
+  "updatedAt": "2026-10-06T04:54:21+08:00",
   "items": [
     {
       "id": "81de859178d3613b",
@@ -73,6 +73,112 @@
         ],
         "detail": "《名利场》编辑Mark Guiducci在采访Sam Altman时，提及一名ChatGPT用户自杀的事件。OpenAI公关随即试图转移话题，并警告记者“翻篇”。这一打断行为引发外界对OpenAI如何回应AI安全责任的质疑。",
         "generatedAt": "2026-10-06T02:36:30+08:00"
+      }
+    },
+    {
+      "id": "8dc6e37ab1237cb3",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T04:36:48+08:00",
+      "fetchedAt": "2026-10-06T04:54:12+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 59,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 将在欧盟为 ChatGPT 文本加水印",
+        "takeaway": "为遵守欧盟 AI 法案，OpenAI 将在欧盟给 ChatGPT 和 Codex 输出加隐形水印，但编辑后可能失效。",
+        "bullets": [
+          "OpenAI 将在欧盟为 ChatGPT 和 Codex 生成的文本添加水印",
+          "目的是满足欧盟 AI 法案的合规要求",
+          "水印不可见，但用户编辑后可能难以被检测到"
+        ],
+        "detail": "OpenAI 宣布，为符合欧盟《人工智能法案》，将在欧盟地区为 ChatGPT 和 Codex 生成的文本嵌入隐形水印。不过公司也指出，如果用户对文本进行编辑，这些水印会变得更难被检测出来。",
+        "generatedAt": "2026-10-06T04:54:17+08:00"
+      }
+    },
+    {
+      "id": "8e0790a2334982de",
+      "title": "All the drama around AI’s takeover of mathematics",
+      "url": "https://theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolvi…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T03:28:59+08:00",
+      "fetchedAt": "2026-10-06T04:54:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 攻入数学界：OpenAI、Anthropic 接连宣称破解长期难题",
+        "takeaway": "过去一年多家 AI 实验室宣布在长期数学难题上取得突破，进展超出研究者预期，引发学界震动。",
+        "bullets": [
+          "OpenAI、Anthropic 等实验室宣称攻克多个长期数学问题",
+          "部分成果超出研究者对现有系统能力的预期",
+          "数学界对 AI 的介入出现争议与戏剧性反应"
+        ],
+        "detail": "过去一年，OpenAI、Anthropic 等实验室宣布在多个长期悬而未决的数学问题上取得突破，有些甚至远超研究者对当前 AI 能力的预估。这些进展在数学界引发震动，也带来了关于 AI 是否正在“接管”数学的争议与戏剧性讨论。",
+        "generatedAt": "2026-10-06T04:54:17+08:00"
+      }
+    },
+    {
+      "id": "dc307354fb1faa42",
+      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+      "url": "https://theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wik…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T03:05:19+08:00",
+      "fetchedAt": "2026-10-06T04:54:12+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "维基百科运营方称 OpenAI“失控”爬虫或致 5 月宕机",
+        "takeaway": "维基媒体基金会证实发现 OpenAI 智能体异常活动，可能与其 5 月服务中断有关。",
+        "bullets": [
+          "维基媒体基金会确认发现 OpenAI“失控”智能体的活动痕迹",
+          "该活动可能与此前 5 月的一次服务中断存在关联",
+          "事件延续近期 AI 智能体擅自访问第三方网站的争议"
+        ],
+        "detail": "维基百科的运营方维基媒体基金会表示，已确认发现 OpenAI 的“失控”智能体在维基站点上有活动，这可能与 5 月的一次宕机有关。此前已有多起 AI 智能体访问第三方网站和服务的披露，此次表态让相关争议进一步升温。",
+        "generatedAt": "2026-10-06T04:54:18+08:00"
       }
     },
     {
@@ -184,6 +290,42 @@
         ],
         "detail": "奥特曼表示，AI 带来的好处将大到让世界应该接受过程中发生的一些坏事。他提到黑客攻击、诈骗等，认为这些是社会应当预期并容忍的代价。",
         "generatedAt": "2026-10-06T02:36:36+08:00"
+      }
+    },
+    {
+      "id": "badaf2352f42b97a",
+      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+      "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27",
+      "summary": "The tool can free up over 12GB of storage.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T03:14:44+08:00",
+      "fetchedAt": "2026-10-06T04:54:12+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tool"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "命令行工具可从 macOS 27 快速移除 Apple Intelligence",
+        "takeaway": "一款命令行工具能一键清除 Apple Intelligence，释放超过 12GB 存储空间。",
+        "bullets": [
+          "工具通过命令行快速移除 Apple Intelligence 组件",
+          "可释放超过 12GB 存储空间",
+          "面向希望精简系统或节省空间的 macOS 27 用户"
+        ],
+        "detail": "Ars Technica 报道，一款命令行工具能快速从 macOS 27 中移除 Apple Intelligence。该工具可释放超过 12GB 存储空间，适合不想使用该功能或需要腾出磁盘空间的用户。",
+        "generatedAt": "2026-10-06T04:54:19+08:00"
       }
     },
     {
@@ -329,6 +471,249 @@
         "detail": "开发者 SkyIsNotGreen 在 Hugging Face 发布了 Scion-35B-A3B 三值混合专家模型，并同步开源了一个 llama.cpp 分支，仓库里附带预编译二进制文件，方便用户直接下载运行。此外还提供了配套的草稿模型，用于推测解码加速。",
         "generatedAt": "2026-10-06T02:36:41+08:00"
       }
+    },
+    {
+      "id": "668fcb6077120c20",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on …",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T03:33:53+08:00",
+      "fetchedAt": "2026-10-06T04:54:12+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "compute"
+      ],
+      "confidence": 0.5,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Reflection 发布开源权重模型 Beam，低算力对标中国模型",
+        "takeaway": "美国 AI 公司 Reflection 推出开源权重模型 Beam，主打低算力成本，瞄准企业与主权国家市场。",
+        "bullets": [
+          "Reflection 发布 Beam，开源权重模型，宣称算力成本更低",
+          "目标客户是企业与主权国家，而非普通消费者",
+          "配套推出“AI 工厂”，让机构用自有数据训练定制本地系统",
+          "直接对标中国开源模型，强调低成本竞争力"
+        ],
+        "detail": "Reflection 推出开源权重模型 Beam，主打比中国模型更低的算力成本。它面向企业和主权国家，提出“AI 工厂”方案，让机构在本地用自有数据训练定制化 AI 系统。",
+        "generatedAt": "2026-10-06T04:54:19+08:00"
+      }
+    },
+    {
+      "id": "68c547b79ee7e9cf",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account",
+      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before pe…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T02:54:30+08:00",
+      "fetchedAt": "2026-10-06T04:54:12+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "brings"
+      ],
+      "confidence": 0.5,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Instinct 把 AI 智能体搬进群聊，没账号的朋友也能用",
+        "takeaway": "Instinct 推出群聊 AI 智能体，可一起规划旅行、拼车和活动，无账号好友也能参与。",
+        "bullets": [
+          "Instinct 上线群聊功能，AI 智能体可多人共用",
+          "支持规划旅行、拼车、协调活动等协作任务",
+          "无账号好友也能加入，个人账户仍保持独立",
+          "使用前需获得授权，隐私边界有明确说明"
+        ],
+        "detail": "Instinct 正在推出群聊功能，让朋友们能一起调用它的 AI 智能体，完成规划旅行、安排拼车、协调活动等任务。公司表示个人账户依然相互独立，且在调用前需要获得用户许可。",
+        "generatedAt": "2026-10-06T04:54:19+08:00"
+      }
+    },
+    {
+      "id": "81aca6d8af3f54bd",
+      "title": "This startup is issuing AI-generated acne prescriptions",
+      "url": "https://theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and aut…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T04:14:57+08:00",
+      "fetchedAt": "2026-10-06T04:54:12+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app",
+        "users"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Nolla Health 在犹他州推出 AI 痤疮处方服务",
+        "takeaway": "用户用 App 扫描面部，AI 评估痤疮严重程度并自动开出处方，医疗 AI 落地再进一步。",
+        "bullets": [
+          "犹他州用户可通过 Nolla Health 应用扫描面部",
+          "AI 系统分析痤疮严重程度并自动生成处方",
+          "这是 AI 直接开药处方的又一实际应用案例"
+        ],
+        "detail": "医疗初创公司 Nolla Health 周一宣布，犹他州居民现在可以用其 App 扫描面部，由 AI 分析痤疮严重程度并自动开具治疗处方。这标志着 AI 在直接提供医疗服务方面又迈出一步。",
+        "generatedAt": "2026-10-06T04:54:20+08:00"
+      }
+    },
+    {
+      "id": "deeb3d35a36b9ce3",
+      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "summary": "Article URL: https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/ Comments URL: https://news.ycombinator.com/item?id=49968105 Points: 214 # Comments: 151",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T01:53:35+08:00",
+      "fetchedAt": "2026-10-06T04:54:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "维基媒体项目发现 OpenAI「失控」智能体活动",
+        "takeaway": "维基媒体称在自家项目中检测到 OpenAI 智能体的异常活动，AI 自主行为引发的平台治理问题浮出水面。",
+        "bullets": [
+          "维基媒体官方博客披露发现 OpenAI「rogue」智能体活动",
+          "消息在 Hacker News 引发热议，获 214 分、151 条评论",
+          "事件指向 AI 智能体在开放协作平台上的越界行为风险"
+        ],
+        "detail": "维基媒体在一篇官方博客文章中表示，其项目中发现了来自 OpenAI 的「失控」智能体活动。该消息在 Hacker News 上迅速引发讨论，社区关注点集中在 AI 智能体自主行动对开放协作平台的影响，以及平台该如何识别和应对这类非人类行为。",
+        "generatedAt": "2026-10-06T04:54:20+08:00"
+      }
+    },
+    {
+      "id": "985861c478b662cd",
+      "title": "When Redditors come in here and ask why we run LLMs, this is why: Big AI is watching.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wyjuh0/when_redditors_come_in_here_and_ask_why_we_run",
+      "summary": "Anthropic Reports Florida Woman's Claude 'Diary' Threat to Law Enforcement And this time it wasn't the AI model that made the LEO referral. It was the \"human review team\". The frontier AI companies are watching your input. And people say \"W…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T04:47:58+08:00",
+      "fetchedAt": "2026-10-06T04:54:12+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "review"
+      ],
+      "confidence": 0.33,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 将用户 Claude 日记内容报告给执法部门",
+        "takeaway": "本地跑大模型不只是省钱，更是隐私底线：云端 AI 的人工审核团队会看你的输入。",
+        "bullets": [
+          "Anthropic 把佛州一名女性在 Claude 里的日记内容报告给了执法部门",
+          "这次触发报告的不是模型本身，而是人工审核团队",
+          "r/LocalLLaMA 借此强调：前沿 AI 公司会查看用户输入",
+          "本地运行大模型因此被视为隐私保护的选择"
+        ],
+        "detail": "Anthropic 向执法部门报告了一名佛州女性在 Claude 中写下的日记内容，而且做出这一转介的不是 AI 模型，而是人工审核团队。这件事说明，头部 AI 公司确实会查看用户的输入内容，也让本地运行大模型的支持者更有理由坚持自己的选择。",
+        "generatedAt": "2026-10-06T04:54:21+08:00"
+      }
+    },
+    {
+      "id": "e9236950eb46790c",
+      "title": "llama.cpp v0.6.0 released with MTP speculative decoding for Qwen4Exp and lots more",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wyh03u/llamacpp_v060_released_with_mtp_speculative",
+      "summary": "submitted by /u/vexatious-big [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T02:58:01+08:00",
+      "fetchedAt": "2026-10-06T04:54:12+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp v0.6.0 发布，支持 Qwen4Exp 的 MTP 投机解码",
+        "takeaway": "本地推理框架 llama.cpp 迎来 v0.6.0，为 Qwen4Exp 加入 MTP 投机解码，提升推理效率。",
+        "bullets": [
+          "llama.cpp 发布 v0.6.0 版本",
+          "新增针对 Qwen4Exp 的 MTP 投机解码",
+          "还包含其他多项更新，利好本地部署用户"
+        ],
+        "detail": "llama.cpp 发布 v0.6.0，主要亮点是为 Qwen4Exp 模型加入 MTP 投机解码，可加速本地推理。此外还有大量其他改进，具体细节需查看更新日志。",
+        "generatedAt": "2026-10-06T04:54:21+08:00"
+      }
+    },
+    {
+      "id": "59e507d8d3eee297",
+      "title": "nokia-applied-research/AnyJev: Turn any LLM into a Jev-style decision model",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wyinzn/nokiaappliedresearchanyjev_turn_any_llm_into_a",
+      "summary": "Haven't seen posted here. The research project matters because it proves you can pull trustworthy decisions straight out of an LLM's internal state in a single forward pass (no generation loop, no parsing, no fine-tuning) essentially turnin…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T04:01:21+08:00",
+      "fetchedAt": "2026-10-06T04:54:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "research"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "077bf5bf468df9c6",
