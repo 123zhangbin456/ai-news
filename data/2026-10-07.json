@@ -1,7 +1,42 @@
 {
   "date": "2026-10-07",
-  "updatedAt": "2026-10-07T02:43:16+08:00",
+  "updatedAt": "2026-10-07T06:51:16+08:00",
   "items": [
+    {
+      "id": "ecc07393279513fe",
+      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu",
+      "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T04:50:32+08:00",
+      "fetchedAt": "2026-10-07T06:51:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 54,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "OpenAI 将在欧盟默认给 ChatGPT 输出加水印",
+        "takeaway": "OpenAI 为遵守欧盟规定，将默认给 ChatGPT 输出加水印，但仅限欧盟地区。",
+        "bullets": [
+          "水印默认开启，但仅限欧盟用户",
+          "水印可靠性不高，容易被绕过",
+          "此举是为满足欧盟监管要求"
+        ],
+        "detail": "OpenAI 宣布将在欧盟地区默认对 ChatGPT 的输出添加水印，以符合当地法规。但该水印并不可靠，且容易被人为规避。其他地区用户不受影响。",
+        "generatedAt": "2026-10-07T06:51:08+08:00"
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
     {
       "id": "a6e396795764059e",
       "title": "Introducing EmbeddingGemma 2: A best-in-class open model for natively multimodal embeddings | Google",
@@ -26,7 +61,7 @@
       "confidence": 1,
       "score": 52,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "谷歌发布 EmbeddingGemma 2：原生多模态开源嵌入模型",
         "takeaway": "谷歌 DeepMind 推出开源多模态嵌入模型，统一处理文本、图像、视频和音频。",
@@ -37,7 +72,8 @@
         ],
         "detail": "EmbeddingGemma 2 是谷歌 DeepMind 打造的开源多模态嵌入模型，能把文本（包括代码）、图像、视频、音频以及它们的组合，统一映射到同一个 768 维向量空间。模型已在 Hugging Face 上线，供开发者直接使用。",
         "generatedAt": "2026-10-07T24:58:02+08:00"
-      }
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
     },
     {
       "id": "cd24bf90e04501f2",
@@ -62,7 +98,7 @@
       "confidence": 0,
       "score": 49,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Hark 发布主打隐私的 AI 个人助理",
         "takeaway": "AI 实验室 Hark 推出隐私优先的个人助理，对标 Muse、Dots 和 Instinct。",
@@ -73,7 +109,84 @@
         ],
         "detail": "AI 实验室 Hark 推出了一款个人助理，主打隐私保护。该产品被描述为来自未来的操作系统，将与 Muse、Dots 和 Instinct 等同类产品展开竞争。",
         "generatedAt": "2026-10-07T02:43:14+08:00"
-      }
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "adc1cdfb48287d7f",
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product",
+      "summary": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T06:34:03+08:00",
+      "fetchedAt": "2026-10-07T06:51:01+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "product"
+      ],
+      "confidence": 0.25,
+      "score": 48,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "前 Ramp 工程师弃首款产品后转型，Melius 获 2000 万美元融资",
+        "takeaway": "Melius 放弃原产品后转型，上线两个月年化收入破百万美元，并完成 2000 万美元融资。",
+        "bullets": [
+          "创始团队来自金融科技公司 Ramp",
+          "首款产品被放弃后转向新平台 Melius",
+          "转型上线两个月年化收入超 100 万美元",
+          "新融资 2000 万美元，由 TechCrunch 报道"
+        ],
+        "detail": "几名前 Ramp 工程师创业，最初的产品没做成，果断放弃后转向新平台 Melius。转型上线仅两个月，年化收入就突破 100 万美元，并因此拿到 2000 万美元融资。",
+        "generatedAt": "2026-10-07T06:51:08+08:00"
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "224eb5aa6e6d8253",
+      "title": "llm-mistral 0.16",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-mistral",
+      "summary": "Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral Large 4 . Tags: llm , mistral , llm-reasoning",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T05:32:34+08:00",
+      "fetchedAt": "2026-10-07T06:51:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Mistral"
+      ],
+      "confidence": 0.71,
+      "score": 47,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "llm-mistral 0.16 发布，新增推理模型支持",
+        "takeaway": "Simon Willison 的 llm-mistral 插件更新，可调用 Mistral 新推理模型。",
+        "bullets": [
+          "llm-mistral 0.16 新增对推理模型的支持",
+          "覆盖新发布的 Mistral Large 4 等模型",
+          "插件属于 llm 命令行工具生态，由 Simon Willison 维护"
+        ],
+        "detail": "llm-mistral 是 llm 命令行工具的 Mistral 模型插件，本次 0.16 版加入了对推理模型的支持，包括刚发布的 Mistral Large 4。用户可通过该插件在命令行中调用这些具备推理能力的新模型。",
+        "generatedAt": "2026-10-07T06:51:09+08:00"
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
     },
     {
       "id": "5f2e56d64c580dd2",
@@ -98,7 +211,7 @@
       "confidence": 1,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI 再惹数学家：将发布超百个未解问题新解",
         "takeaway": "OpenAI 准备公布 100 多个未解数学问题的新解法，数学家批评其行为像黑帮。",
@@ -109,7 +222,90 @@
         ],
         "detail": "OpenAI 准备发布 100 多个未解数学问题的新解法，但数学家们对此感到愤怒。一位数学家向《连线》表示，领先 AI 公司存在“黑帮行为”的印象。这并非 OpenAI 首次惹怒数学界。",
         "generatedAt": "2026-10-07T02:43:15+08:00"
-      }
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "2435ebd745855918",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+      "summary": "",
+      "source": {
+        "id": "deepmind",
+        "name": "Google DeepMind",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T03:57:04+08:00",
+      "fetchedAt": "2026-10-07T06:51:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "multimodal"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [
+        {
+          "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2",
+          "source": "Hacker News"
+        }
+      ],
+      "pushed": true,
+      "interpret": {
+        "headline": "谷歌发布 EmbeddingGemma 2：开源轻量多模态嵌入模型",
+        "takeaway": "谷歌 DeepMind 推出新一代开源轻量嵌入模型，支持多模态，降低开发者使用门槛。",
+        "bullets": [
+          "模型名为 EmbeddingGemma 2，由谷歌 DeepMind 发布",
+          "定位开源、轻量级，并支持多模态嵌入",
+          "面向开发者，可用于检索、聚类等下游任务"
+        ],
+        "detail": "谷歌 DeepMind 发布了 EmbeddingGemma 2，这是一个开源且轻量的多模态嵌入模型。它延续 Gemma 系列的开源路线，旨在让开发者更轻松地在本地或资源有限的环境中使用嵌入能力，处理文本与图像等多模态数据。",
+        "generatedAt": "2026-10-07T06:51:09+08:00"
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "43f8aab03973ba89",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo",
+      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T04:00:30+08:00",
+      "fetchedAt": "2026-10-07T06:51:01+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO",
+        "valuation",
+        "billion"
+      ],
+      "confidence": 0.88,
+      "score": 44,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "英伟达支持的Lambda拟融资40亿美元，估值145亿备战IPO",
+        "takeaway": "AI算力公司Lambda在IPO前融资至多40亿美元，估值145亿美元，由Coatue和黑石领投。",
+        "bullets": [
+          "Lambda获英伟达投资，计划2027年IPO",
+          "本轮融资至多40亿美元，投前估值145亿",
+          "Coatue与黑石领投，资金用于扩张算力"
+        ],
+        "detail": "英伟达投资的AI算力初创公司Lambda正在筹集最多40亿美元资金，投前估值达145亿美元。本轮由Coatue和黑石领投，公司计划在2027年进行首次公开募股。",
+        "generatedAt": "2026-10-07T06:51:10+08:00"
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
     },
     {
       "id": "7a12fe93b8a77091",
@@ -134,7 +330,7 @@
       "confidence": 0.67,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Mirror Particle 打造人类行为「世界模型」，挑战 LLM 角色扮演",
         "takeaway": "这家初创公司要用从零训练的世界模型预测人类行为，认为大模型角色扮演做市场调研不够用。",
@@ -145,7 +341,8 @@
         ],
         "detail": "Mirror Particle 将在 TechCrunch Disrupt 的 Startup Battlefield 上正式亮相，主打一个从零开始构建的「世界模型」，用来预测人类行为。该公司认为，用大语言模型做角色扮演来模拟消费者，对市场调研和品牌策略来说并不够用。",
         "generatedAt": "2026-10-07T24:58:07+08:00"
-      }
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
     },
     {
       "id": "6f93b4ae13a43f63",
@@ -168,7 +365,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI 硬件模糊了“录音”的定义，我们不该随意改写它",
         "takeaway": "科技公司借 AI 硬件重新定义“录音”，可能削弱用户对隐私的知情权。",
@@ -179,7 +376,266 @@
         ],
         "detail": "The Verge 指出，随着 AI 硬件普及，科技公司正在重新界定什么才算“录音”。过去人们默认：带麦克风或摄像头的设备，要么在录你，要么没录。如今这种非黑即白的假设正被厂商的话术打破，值得警惕。",
         "generatedAt": "2026-10-07T24:58:09+08:00"
-      }
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "fef1d0f443914bd4",
+      "title": "EmbeddingGemma 2",
+      "url": "https://simonwillison.net/2026/Oct/6/hn-49983751",
+      "summary": "My comment on EmbeddingGemma 2 &mdash; Hacker News. I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license. For embedding models in particular, I don't think it makes sense to use a closed, proprietary, hosted-only model.…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T04:37:53+08:00",
+      "fetchedAt": "2026-10-07T06:51:01+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "apache"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Simon Willison 点评 EmbeddingGemma 2：Apache 2.0 许可值得赞赏",
+        "takeaway": "EmbeddingGemma 2 采用 Apache 2.0 开源许可，Simon Willison 认为嵌入模型不该用闭源托管方案。",
+        "bullets": [
+          "EmbeddingGemma 2 以 Apache 2.0 许可发布，可自由使用和修改",
+          "Simon Willison 在 Hacker News 上公开赞赏这一许可选择",
+          "他认为嵌入模型尤其不适合闭源、仅托管的专有方案"
+        ],
+        "detail": "Simon Willison 在 Hacker News 上评论了 EmbeddingGemma 2，特别赞赏它采用 Apache 2.0 许可。他认为嵌入模型这类基础组件不该依赖闭源、只能通过托管服务使用的专有模型，开源许可更符合实际需求。",
+        "generatedAt": "2026-10-07T06:51:11+08:00"
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "4c7e0942281008d6",
+      "title": "Using Parseable with Datasette for OpenTelemetry traces",
+      "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry",
+      "summary": "TIL: Using Parseable with Datasette for OpenTelemetry traces I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an \"Enterprise\" version with e…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T03:07:31+08:00",
+      "fetchedAt": "2026-10-07T06:51:01+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open source"
+      ],
+      "confidence": 0.6,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Simon Willison 用 Parseable 搭配 Datasette 查 OpenTelemetry 链路",
+        "takeaway": "新开源可观测平台 Parseable 可与 Datasette 组合，用于查看 OpenTelemetry 追踪数据。",
+        "bullets": [
+          "Parseable 是 Show HN 上出现的新可观测平台",
+          "开源版为 AGPL 的 Rust 实现，单二进制约 180MB",
+          "另有企业版，作者用它配合 Datasette 分析追踪"
+        ],
+        "detail": "Simon Willison 在 Show HN 上看到 Parseable，这是一个新的可观测性平台。它的开源版用 Rust 写成，采用 AGPL 协议，打包成约 180MB 的单个二进制文件，另有企业版。他尝试把 Parseable 与 Datasette 结合，用来查看 OpenTelemetry 追踪数据。",
+        "generatedAt": "2026-10-07T06:51:11+08:00"
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "2196494782f8cf69",
+      "title": "How AI decision models could change content moderation",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T04:35:20+08:00",
+      "fetchedAt": "2026-10-07T06:51:01+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "weights"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Musubi 开源 PolicyLM-1.7B，用 AI 决策模型做实时内容审核",
+        "takeaway": "Musubi 发布轻量级开源决策模型，专为实时内容审核设计，或改变平台审核方式。",
+        "bullets": [
+          "Musubi 推出 PolicyLM-1.7B，专用于实时内容审核",
+          "模型以开放权重发布，开发者可自由使用",
+          "轻量级设计有望降低审核延迟与成本"
+        ],
+        "detail": "Musubi 周二发布了 PolicyLM-1.7B，这是一个专为实时内容审核打造的轻量级决策模型。该模型以开放权重形式发布，意味着开发者可以自由获取并部署。它可能让平台的内容审核更高效、更易定制。",
+        "generatedAt": "2026-10-07T06:51:11+08:00"
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "fe89f2d659e01683",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in",
+      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T03:56:50+08:00",
+      "fetchedAt": "2026-10-07T06:51:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "AI 代理的下一个难关：让网站放行",
+        "takeaway": "个人 AI 代理想替你购物订票，却常被网站反爬机制拦住，新标准试图破局。",
+        "bullets": [
+          "AI 代理可代用户购物、订机票、订餐厅",
+          "网站反机器人机制和刻意封锁成主要障碍",
+          "消费者夹在中间，体验受阻",
+          "新标准正在推进，试图让网站放行 AI 代理"
+        ],
+        "detail": "个人 AI 代理承诺帮你购物、订机票和预约，但网站的反机器人防御和有意封锁让它们寸步难行，消费者成了夹心层。目前一项新标准正在酝酿，希望解决这一矛盾。",
+        "generatedAt": "2026-10-07T06:51:13+08:00"
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "032333f020c5dd41",
+      "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
+      "url": "https://wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers",
+      "summary": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T02:45:39+08:00",
+      "fetchedAt": "2026-10-07T06:51:01+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "《Artificial》讽刺 AI 创造者，发出危险警告",
+        "takeaway": "这部影片嘲讽 OpenAI CEO 奥特曼等 AI 推手，警示其鲁莽行为可能带来的风险。",
+        "bullets": [
+          "影片对奥特曼等 AI 利益相关者充满蔑视",
+          "通过古怪派对和怪异行走等场景展现其轻率",
+          "发出关于 AI 危险的黑暗警告"
+        ],
+        "detail": "电影《Artificial》以讽刺手法描绘 OpenAI CEO 山姆·奥特曼及其他 AI 从业者，从他们无聊的派对到怪异的行走，处处流露蔑视，同时揭示他们的鲁莽，并对 AI 的危险发出黑暗警告。",
+        "generatedAt": "2026-10-07T06:51:12+08:00"
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "971128ee9d1808f1",
+      "title": "datasette-atom 0.11a0",
+      "url": "https://simonwillison.net/2026/Oct/6/datasette-atom",
+      "summary": "Release: datasette-atom 0.11a0 A minor fix for compatibility with the latest Datasette alphas. This meant we could upgrade the datasette.io site to Datasette 1.0a41. Tags: atom , datasette",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T01:35:39+08:00",
+      "fetchedAt": "2026-10-07T06:51:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "datasette-atom 0.11a0 发布，兼容最新 Datasette 1.0a41",
+        "takeaway": "datasette-atom 发布小版本更新，修复与最新 Datasette 的兼容性，并推动 datasette.io 升级到 1.0a41。",
+        "bullets": [
+          "datasette-atom 0.11a0 发布，修复与最新 Datasette alpha 的兼容问题",
+          "此次更新使 datasette.io 网站得以升级到 Datasette 1.0a41",
+          "datasette-atom 是 Datasette 的 Atom 订阅插件，由 Simon Willison 维护"
+        ],
+        "detail": "datasette-atom 发布了 0.11a0 版本，主要修复了与最新 Datasette alpha 版本的兼容性问题。这一小修复让 datasette.io 网站能够顺利升级到 Datasette 1.0a41。该插件用于为 Datasette 数据生成 Atom 订阅源。",
+        "generatedAt": "2026-10-07T06:51:13+08:00"
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "95fcfc767dc620d2",
+      "title": "GPT-6.1 Sol looped \"leak\" hints at nested models serving architecture",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wzbvu7/gpt61_sol_looped_leak_hints_at_nested_models",
+      "summary": "Hello llamas. I am posting this because I believe that, despite it being closed source models, the discussion will bring value to the local AI community. As many of you probably heard, GPT-6 Astra is speculated to be a looped transformer ar…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T03:31:34+08:00",
+      "fetchedAt": "2026-10-07T06:51:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "GPT-6.1 Sol 泄露传闻：嵌套模型服务架构引热议",
+        "takeaway": "Reddit 用户爆料 GPT-6.1 Sol 采用循环式嵌套模型架构，虽为闭源模型，但对本地 AI 社区有参考价值。",
+        "bullets": [
+          "爆料称 GPT-6.1 Sol 疑似采用循环 Transformer 架构",
+          "传闻指向嵌套模型服务方式，而非单一模型",
+          "发帖者认为闭源模型讨论对本地 AI 社区仍有价值"
+        ],
+        "detail": "有用户在 r/LocalLLaMA 发帖称，GPT-6.1 Sol 疑似采用循环式 Transformer 架构，并暗示其背后是嵌套模型的服务方式。发帖者表示，虽然这是闭源模型，但相关讨论对本地 AI 社区仍有参考意义。",
+        "generatedAt": "2026-10-07T06:51:14+08:00"
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
     },
     {
       "id": "cc0321fce1351f61",
@@ -204,7 +660,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "llama.cpp 新增 K2 Horizon 系列模型与 MoVA 支持",
         "takeaway": "开发者 bitalov 提交 PR，为 llama.cpp 加入 K2 Horizon 稠密模型和 MoVA 架构支持，本地推理再添新选择。",
@@ -215,7 +671,8 @@
         ],
         "detail": "有人在 llama.cpp 仓库提交 PR，想让这个本地推理工具支持 K2 Horizon 系列模型和 MoVA 架构。Hugging Face 上已有 3.7B、7B、32B 以及 36B-A4B 等多个 GGUF 版本，方便用户直接下载使用。",
         "generatedAt": "2026-10-07T02:43:16+08:00"
-      }
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
     },
     {
       "id": "f54931964d374809",
@@ -240,7 +697,7 @@
       "confidence": 1,
       "score": 37,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Hugging Face 发布本地 AI 生态概览演讲",
         "takeaway": "Hugging Face 员工 Merve 在开发者大会分享 llama.cpp 及本地 AI 基础概念，内容可供学习参考。",
@@ -252,7 +709,45 @@
         ],
         "detail": "Hugging Face 的 Merve 在开发者大会上做了一场关于本地 AI 生态的演讲，重点介绍了 llama.cpp，并讲解了预填充与解码、内存类型、推测解码等基础概念。演讲内容已公开，感兴趣的人可以自行取用。",
         "generatedAt": "2026-10-07T02:43:16+08:00"
-      }
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "4d0528a5adfcd4a8",
+      "title": "Europe rejoins the fight with Chonky! Mistral Large 4 Released, Open weights end of month, who’s ready?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wzginu/europe_rejoins_the_fight_with_chonky_mistral",
+      "summary": "1 trillion parameters, 49B active, definitely chonky! If you don’t love the model you gotta at least love the humor in the name - Le Chonk submitted by /u/chemist_slime [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T06:40:46+08:00",
+      "fetchedAt": "2026-10-07T06:51:01+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "weights"
+      ],
+      "confidence": 0.33,
+      "score": 37,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Mistral Large 4 发布：1 万亿参数，月底开放权重",
+        "takeaway": "欧洲 Mistral 推出 1 万亿参数大模型 Large 4，49B 激活参数，月底将开放权重。",
+        "bullets": [
+          "Mistral Large 4 参数规模达 1 万亿，激活参数 49B",
+          "官方称月底开放权重，本地部署玩家可期待",
+          "网友调侃命名 Chonky，称欧洲重回 AI 竞争"
+        ],
+        "detail": "Mistral 发布 Large 4，总参数 1 万亿、激活 49B，被网友戏称为“Chonky”。官方表示月底会开放权重，社区对欧洲重回开源大模型竞争表示期待。",
+        "generatedAt": "2026-10-07T06:51:14+08:00"
+      },
+      "pushedAt": "2026-10-07T06:51:16+08:00"
     },
     {
       "id": "dabfa79f68b85520",
@@ -277,7 +772,34 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "15d167b3a96ebbec",
+      "title": "Local AI World Model Part 2 - Deep NN to turn Images into Playable Characters, with prompt switching mid rollout",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wzdm08/local_ai_world_model_part_2_deep_nn_to_turn",
+      "summary": "Last time when I posted on this subReddit to share my work, the response almost made me cry because a tiny demo got so many people talking about this In the past 2 months Ive been training a new model, but this time with actual text guidanc…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T04:38:44+08:00",
+      "fetchedAt": "2026-10-07T06:51:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "rollout"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-07T06:51:16+08:00"
     }
   ],
   "topic": "ai"
