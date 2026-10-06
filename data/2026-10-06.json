@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "updatedAt": "2026-10-06T04:54:21+08:00",
+  "updatedAt": "2026-10-06T09:37:05+08:00",
   "items": [
     {
       "id": "81de859178d3613b",
@@ -25,7 +25,7 @@
       "confidence": 0,
       "score": 65,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI 在 ChatGPT 和 Codex 中加入文本水印",
         "takeaway": "OpenAI 上线隐形文本水印 textGrain，先面向欧盟用户，用于标记 AI 生成内容。",
@@ -36,7 +36,8 @@
         ],
         "detail": "OpenAI 正在 ChatGPT 和 Codex 的文本输出中加入一种人眼看不见、机器可读的水印，名为 textGrain。该功能先在欧盟上线，OpenAI 表示其表现与 Google DeepMind 等同类方案相当甚至更好。",
         "generatedAt": "2026-10-06T02:36:29+08:00"
-      }
+      },
+      "pushedAt": "2026-10-06T09:37:05+08:00"
     },
     {
       "id": "efe30dbfe9dde5ed",
@@ -109,6 +110,82 @@
         ],
         "detail": "OpenAI 宣布，为符合欧盟《人工智能法案》，将在欧盟地区为 ChatGPT 和 Codex 生成的文本嵌入隐形水印。不过公司也指出，如果用户对文本进行编辑，这些水印会变得更难被检测出来。",
         "generatedAt": "2026-10-06T04:54:17+08:00"
+      }
+    },
+    {
+      "id": "d488d7fbc6e5568f",
+      "title": "Termexo v0.10.10 发布：19 个本地 MCP 工具，五种编程 Agent 自动接入",
+      "url": "https://oschina.net/news/502845",
+      "summary": "AI 生成概念图，非产品界面。 MIT 开源的 Windows AI 编程工作台 Termexo 发布 v0.10.10。新版把终端、任务和部分设置开放为 19 个本地 MCP 工具，并支持在 Termexo 新启动的 Claude Code、Codex、OpenCode、Grok Build 和 Antigravity 终端中自动添加连接。工作台能力作为工具开放 Agent 可以查询工作区和终端，读取指...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T07:39:06+08:00",
+      "fetchedAt": "2026-10-06T09:36:51+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "开放",
+        "Claude"
+      ],
+      "confidence": 0.2,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Termexo v0.10.10 发布：19 个本地 MCP 工具，五种编程 Agent 自动接入",
+        "takeaway": "MIT 开源的 Windows AI 编程工作台把终端、任务和设置开放为 19 个本地 MCP 工具，五种编程 Agent 可自动接入。",
+        "bullets": [
+          "Termexo 是 MIT 开源的 Windows AI 编程工作台",
+          "新版开放终端、任务和部分设置为 19 个本地 MCP 工具",
+          "Claude Code、Codex、OpenCode、Grok Build、Antigravity 可自动接入",
+          "Agent 能查询工作区和终端、读取指定内容"
+        ],
+        "detail": "Termexo 发布 v0.10.10，将终端、任务和部分设置变成 19 个本地 MCP 工具。在 Termexo 新启动的 Claude Code、Codex、OpenCode、Grok Build 和 Antigravity 终端中会自动添加连接，让 Agent 能查询工作区与终端并读取指定内容。",
+        "generatedAt": "2026-10-06T09:36:58+08:00"
+      }
+    },
+    {
+      "id": "f96eb5478801166b",
+      "title": "Gemini Call for Me might tell your mom you’re running late",
+      "url": "https://theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples t…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T07:09:55+08:00",
+      "fetchedAt": "2026-10-06T09:36:51+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 0.5,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gemini 通话功能或扩展至亲友，AI 替你报备迟到",
+        "takeaway": "谷歌 Gemini 的「Call for Me」可能不再只打商家电话，还能替你给家人朋友传话。",
+        "bullets": [
+          "Android Authority 在 APK 拆解中发现「Gemini Calling」引导页",
+          "该功能原本用于代打商家电话，如今示例涉及亲友",
+          "意味着 AI 可代你通知家人「我要迟到了」",
+          "目前仅为代码线索，谷歌尚未正式发布"
+        ],
+        "detail": "谷歌的「Call for Me」AI 功能此前主要帮你给商家打电话，比如订位或咨询。Android Authority 在应用拆包中发现「Gemini Calling」引导界面，示例场景涉及给亲友发消息，暗示该功能可能扩展到日常人际沟通，比如替你告诉妈妈你会晚到。",
+        "generatedAt": "2026-10-06T09:36:58+08:00"
       }
     },
     {
@@ -290,6 +367,81 @@
         ],
         "detail": "奥特曼表示，AI 带来的好处将大到让世界应该接受过程中发生的一些坏事。他提到黑客攻击、诈骗等，认为这些是社会应当预期并容忍的代价。",
         "generatedAt": "2026-10-06T02:36:36+08:00"
+      }
+    },
+    {
+      "id": "cbee4f83437993a6",
+      "title": "Quoting Felix Rieseberg",
+      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
+      "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explici…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T07:56:47+08:00",
+      "fetchedAt": "2026-10-06T09:36:51+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 0.5,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 的 Cowork 旧版在云端推理，工具调用跑在本地虚拟机",
+        "takeaway": "Felix Rieseberg 解释 Cowork 旧架构：模型在云端跑，工具调用在随应用下发的 Anthropic 虚拟机里执行。",
+        "bullets": [
+          "旧版 Cowork 的模型推理放在云端完成",
+          "工具调用在 Anthropic 下发的本地虚拟机中执行",
+          "引入虚拟机是为能力、安全和保障考虑",
+          "只映射用户明确授权的数据进虚拟机"
+        ],
+        "detail": "Felix Rieseberg 说明 Cowork 旧版的运行方式：模型推理在云端进行，而工具调用则在一个 Anthropic 随应用下发到用户电脑上的虚拟机里执行。加入这个虚拟机是出于能力、安全和保障的考虑，并且只把用户明确指定的数据映射进去。",
+        "generatedAt": "2026-10-06T09:36:58+08:00"
+      }
+    },
+    {
+      "id": "05a04bd20601ec39",
+      "title": "A benchmark for LLMs playing Civilization V. GLM-5.3 is ahead of Opus-5.5, and Qwen-3.8-27B holds up surprisingly well.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wynbvq/a_benchmark_for_llms_playing_civilization_v_glm53",
+      "summary": "A while ago, I posted here getting OSS-120B and GLM-4.6 playing full games of Civilization V . Since then, models have moved pretty far, and we wanted a better understanding about models' capabilities playing the game. Introducing the contr…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T07:16:48+08:00",
+      "fetchedAt": "2026-10-06T09:36:51+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing",
+        "Qwen"
+      ],
+      "confidence": 0.25,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "《文明5》AI 对战基准出炉：GLM-5.3 领先 Opus-5.5",
+        "takeaway": "有人做了让大模型玩《文明5》的基准测试，GLM-5.3 表现超过 Opus-5.5，Qwen-3.8-27B 也意外能打。",
+        "bullets": [
+          "测试让多个大模型完整对局《文明5》，衡量长程决策能力",
+          "GLM-5.3 排名超过 Opus-5.5，位居前列",
+          "Qwen-3.8-27B 体量不大却表现超出预期",
+          "作者此前已让 OSS-120B、GLM-4.6 打过完整对局"
+        ],
+        "detail": "作者此前曾让 OSS-120B 和 GLM-4.6 完整打完《文明5》，如今模型进步明显，于是做了更系统的基准来评估模型玩这款游戏的能力。结果显示 GLM-5.3 领先 Opus-5.5，而 Qwen-3.8-27B 的表现也相当亮眼。",
+        "generatedAt": "2026-10-06T09:37:00+08:00"
       }
     },
     {
@@ -655,6 +807,76 @@
       }
     },
     {
+      "id": "a4c9a7d3631451b2",
+      "title": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while",
+      "summary": "So PewDiePie decides to fine-tune a local AI model called Ajax on his own computer. Pretty normal stuff for local model fans. To make his dataset, he uses OpenAI's API. OpenAI catches him using their outputs to train another model, flags hi…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T06:37:19+08:00",
+      "fetchedAt": "2026-10-06T09:36:51+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "banned"
+      ],
+      "confidence": 0.5,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "PewDiePie 本地训练模型遭 OpenAI 两次封禁",
+        "takeaway": "用 OpenAI API 生成数据训练本地模型，被 OpenAI 判定违规并封号，引发社区热议。",
+        "bullets": [
+          "PewDiePie 在本地微调模型 Ajax，用 OpenAI API 造数据集",
+          "OpenAI 发现其用输出训练其他模型，两次封禁账号",
+          "事件凸显 API 使用条款与本地模型训练的冲突"
+        ],
+        "detail": "PewDiePie 在自家电脑上微调本地模型 Ajax，为了制作数据集调用了 OpenAI 的 API。OpenAI 检测到其利用输出训练其他模型，违反使用政策，两次封禁其账号。此事在 LocalLLaMA 社区引发讨论。",
+        "generatedAt": "2026-10-06T09:36:59+08:00"
+      }
+    },
+    {
+      "id": "ed62d7055b56886e",
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "url": "https://niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+      "summary": "Article URL: https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/ Comments URL: https://news.ycombinator.com/item?id=49971846 Points: 205 # Comments: 99",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T06:46:45+08:00",
+      "fetchedAt": "2026-10-06T09:36:51+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ChatGPT 生成假《纽约客》漫画，还冒签真漫画家名字",
+        "takeaway": "AI 生成的仿《纽约客》漫画被加上真实漫画家的签名，引发版权与署名争议。",
+        "bullets": [
+          "ChatGPT 生成的仿《纽约客》漫画中出现了真实漫画家的签名",
+          "此事由 Nieman Lab 报道，在 Hacker News 上引发热议",
+          "涉及 AI 生成内容冒用真人署名，可能带来版权与声誉问题"
+        ],
+        "detail": "有报道指出，ChatGPT 在生成模仿《纽约客》风格的漫画时，会把真实漫画家的签名一并画上去。这意味着观众可能误以为这些假漫画出自真人之手，给被冒名的创作者带来困扰，也再次引发对 AI 生成内容署名与版权的讨论。",
+        "generatedAt": "2026-10-06T09:37:00+08:00"
+      }
+    },
+    {
       "id": "e9236950eb46790c",
       "title": "llama.cpp v0.6.0 released with MTP speculative decoding for Qwen4Exp and lots more",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wyh03u/llamacpp_v060_released_with_mtp_speculative",
@@ -691,6 +913,77 @@
       }
     },
     {
+      "id": "3c7e89df6a817b41",
+      "title": "k_llama.cpp MoE Optimizations: Expert Residency, Hybrid CPU/GPU Execution, Q2_0 Support",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wynomx/k_llamacpp_moe_optimizations_expert_residency",
+      "summary": "Finally finished my fork: https://github.com/IceFog72/ik_llama.cpp Nothing else I wanted to add/try currently works In short, it now has: Bandwidth-adaptive CPU/GPU execution Shared expert-residency ideas from https://arxiv.org/pdf/2608.161…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T07:33:54+08:00",
+      "fetchedAt": "2026-10-06T09:36:51+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU"
+      ],
+      "confidence": 0.38,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ik_llama.cpp 分支发布 MoE 优化：专家驻留与混合 CPU/GPU 执行",
+        "takeaway": "开发者发布 llama.cpp 分支，针对 MoE 模型加入带宽自适应混合执行与 Q2_0 量化支持，本地推理更省显存。",
+        "bullets": [
+          "新增带宽自适应的 CPU/GPU 混合执行，按内存带宽分配计算",
+          "引入共享专家驻留机制，减少 MoE 专家反复加载开销",
+          "加入 Q2_0 量化支持，进一步压低显存占用",
+          "项目为个人 fork，作者称当前已无其他想加的功能"
+        ],
+        "detail": "作者在 r/LocalLLaMA 宣布完成 ik_llama.cpp 分支，主要面向 MoE 模型优化。它借鉴论文思路实现专家驻留，并加入带宽自适应的 CPU/GPU 混合执行和 Q2_0 量化，让本地跑大模型更省资源。",
+        "generatedAt": "2026-10-06T09:37:01+08:00"
+      }
+    },
+    {
+      "id": "bc25a570a71178c8",
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
+      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T06:26:35+08:00",
+      "fetchedAt": "2026-10-06T09:36:51+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "MCP 协议或成智能体间通信最危险盲区",
+        "takeaway": "智能体间通信新协议 MCP 存在信任缺口，恶意提示可在智能体间传播，风险被低估。",
+        "bullets": [
+          "MCP 用于智能体间通信，但信任机制不完善",
+          "恶意提示可从一个智能体扩散到另一个",
+          "该协议风险高却鲜为人知，需引起重视"
+        ],
+        "detail": "Ars Technica 指出，一种名为 MCP 的新协议正被用于智能体之间的通信，但其信任缺口会让恶意提示在智能体间传播。由于该协议知名度低，其安全风险可能被忽视。",
+        "generatedAt": "2026-10-06T09:37:01+08:00"
+      }
+    },
+    {
       "id": "59e507d8d3eee297",
       "title": "nokia-applied-research/AnyJev: Turn any LLM into a Jev-style decision model",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wyinzn/nokiaappliedresearchanyjev_turn_any_llm_into_a",
@@ -711,6 +1004,31 @@
         "research"
       ],
       "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9d263a54dcb3c931",
+      "title": "7300亿美元押注之后，市场开始追问AI的回报",
+      "url": "https://tmtpost.com/8159557.html",
+      "summary": "四大科技巨头今年砸下7300亿美元建AI，直接收入却只有250亿，当股价与芯片股彻底脱钩、1.65万亿表外债务浮出水面，市场终于开始追问：花掉的钱，什么时候赚得回来？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T09:31:03+08:00",
+      "fetchedAt": "2026-10-06T09:36:51+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "亿美元"
+      ],
+      "confidence": 0.33,
       "score": 30,
       "related": [],
       "pushed": false
