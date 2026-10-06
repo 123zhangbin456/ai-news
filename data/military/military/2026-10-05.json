@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "updatedAt": "2026-10-06T04:47:21+08:00",
+  "updatedAt": "2026-10-06T09:44:31+08:00",
   "items": [
     {
       "id": "21a901758a12a812",
@@ -64,7 +64,7 @@
       "confidence": 0.56,
       "score": 56,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "德国明年组建首个无人机团，借鉴乌克兰战争经验",
         "takeaway": "德国防长宣布明年成立首个无人机团，借鉴乌克兰战争经验，提升无人作战能力。",
@@ -75,7 +75,8 @@
         ],
         "detail": "德国国防部长皮斯托留斯宣布，德国计划于明年组建首个专门的无人机团。该团将借鉴乌克兰战争中的经验教训，旨在提升德军无人作战能力。",
         "generatedAt": "2026-10-06T04:47:19+08:00"
-      }
+      },
+      "pushedAt": "2026-10-06T09:44:31+08:00"
     },
     {
       "id": "1dfd9720b8f88f48",
@@ -174,7 +175,7 @@
       "confidence": 1,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "美陆军在墨西哥边境测试反无人机技术",
         "takeaway": "美陆军在墨西哥边境测试反无人机装备，应对贩毒集团无人机使用增加带来的威胁。",
@@ -185,7 +186,8 @@
         ],
         "detail": "美国陆军在墨西哥边境测试反无人机技术，因为贩毒集团越来越多地使用无人机。此举旨在提升美军应对这一威胁的防御能力。",
         "generatedAt": "2026-10-06T04:47:18+08:00"
-      }
+      },
+      "pushedAt": "2026-10-06T09:44:31+08:00"
     },
     {
       "id": "be7e838a74ea0fa9",
@@ -398,6 +400,81 @@
         ],
         "detail": "法国海军在WILDFIRE 26.2反无人机演习期间，于两栖攻击舰上对Naval Group研发的Rampart模块化多用途发射系统进行了海上评估。该近防武器系统旨在应对无人机等近程威胁，此次测试检验了其实际使用效果。",
         "generatedAt": "2026-10-05T20:34:44+08:00"
+      }
+    },
+    {
+      "id": "1c559bc80aff834d",
+      "title": "U.S. Navy Completes Successful Test Flight of Blackbeard Long-range Hypersonic Strike Missile",
+      "url": "https://navalnews.com/naval-news/2026/10/u-s-navy-completes-successful-test-flight-of-blackbeard-long-range-hypersonic-strike-missile",
+      "summary": "Blackbeard, an air-launched, long-range hypersonic strike missile, successfully completed another milestone recently, with a flight test on an F/A-18E/F Super Hornet at Naval Air Station (NAS) Patuxent River, Maryland. This represents a key…",
+      "source": {
+        "id": "naval-news",
+        "name": "Naval News",
+        "weight": 4,
+        "type": "topic"
+      },
+      "lang": "en",
+      "domain": "military",
+      "topic": "military",
+      "publishedAt": "2026-10-05T23:00:00+08:00",
+      "fetchedAt": "2026-10-06T09:44:17+08:00",
+      "category": "装备动态",
+      "keywords": [
+        "missile",
+        "hypersonic"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "美海军完成“黑胡子”高超音速导弹试飞",
+        "takeaway": "美海军在F/A-18E/F上试飞“黑胡子”空射高超音速导弹，推进远程打击能力。",
+        "bullets": [
+          "试飞地点为马里兰州帕塔克森特河海军航空站",
+          "载机为F/A-18E/F“超级大黄蜂”战斗机",
+          "“黑胡子”是空射远程高超音速打击导弹",
+          "此次试飞被视为该项目的重要里程碑"
+        ],
+        "detail": "美国海军近日在帕塔克森特河海军航空站，用F/A-18E/F“超级大黄蜂”完成“黑胡子”空射远程高超音速打击导弹的飞行测试。该导弹项目取得新进展，被视为关键里程碑。",
+        "generatedAt": "2026-10-06T09:44:23+08:00"
+      }
+    },
+    {
+      "id": "1584e5f5eb506c48",
+      "title": "Kraken and Saab UK develop pioneering autonomous ‘drone seeker’ vessel",
+      "url": "https://navalnews.com/naval-news/2026/10/kraken-and-saab-uk-develop-pioneering-autonomous-drone-seeker-vessel",
+      "summary": "Kraken and Saab UK are integrating K3 SCOUT with Giraffe 1X radar to develop a new rapidly deployable C-UAS seeker capability at sea. Kraken Robotics press release World-leading uncrewed surface vessel (USV) company Kraken Technology Group …",
+      "source": {
+        "id": "naval-news",
+        "name": "Naval News",
+        "weight": 4,
+        "type": "topic"
+      },
+      "lang": "en",
+      "domain": "military",
+      "topic": "military",
+      "publishedAt": "2026-10-05T21:58:13+08:00",
+      "fetchedAt": "2026-10-06T09:44:17+08:00",
+      "category": "装备动态",
+      "keywords": [
+        "drone",
+        "radar"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Kraken与萨博英国合作开发自主反无人机'猎手'艇",
+        "takeaway": "Kraken与萨博英国将K3 SCOUT无人艇与Giraffe 1X雷达整合，打造可快速部署的海上反无人机能力。",
+        "bullets": [
+          "Kraken与萨博英国整合K3 SCOUT无人艇和Giraffe 1X雷达",
+          "开发新型可快速部署的海上反无人机'猎手'能力",
+          "旨在应对海上无人机威胁，提升舰队防护"
+        ],
+        "detail": "Kraken科技集团与萨博英国公司正将K3 SCOUT无人水面艇与Giraffe 1X雷达集成，开发一种新型可快速部署的海上反无人机（C-UAS）'猎手'能力。该合作旨在利用无人艇和先进雷达探测并跟踪无人机，为海上部队提供应对无人机威胁的新手段。",
+        "generatedAt": "2026-10-06T09:44:23+08:00"
       }
     }
   ],
