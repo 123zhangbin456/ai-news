@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "updatedAt": "2026-10-06T18:34:06+08:00",
+  "updatedAt": "2026-10-07T24:58:13+08:00",
   "items": [
     {
       "id": "81de859178d3613b",
@@ -38,6 +38,42 @@
         "generatedAt": "2026-10-06T02:36:29+08:00"
       },
       "pushedAt": "2026-10-06T09:37:05+08:00"
+    },
+    {
+      "id": "17ce05f2c0e82af1",
+      "title": "Google is about to remove free access to Gemini Flash and Pro",
+      "url": "https://theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscriptio…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T21:19:01+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 0.5,
+      "score": 61,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌收紧 Gemini 免费版：10 月 9 日起仅限 Flash Lite",
+        "takeaway": "谷歌将取消免费用户对 Gemini Flash 和 Pro 的访问，想用更强模型得订阅每月 4.99 美元的 Google AI Plus。",
+        "bullets": [
+          "10 月 9 日起，免费用户只能用 Gemini Flash Lite",
+          "目前免费可选 Flash Lite、Flash 和 Pro 三档模型",
+          "想继续用 Flash 和 Pro 需订阅 4.99 美元/月的 Google AI Plus"
+        ],
+        "detail": "谷歌宣布从 10 月 9 日起调整 Gemini 免费版权限，免费用户将只能使用 Flash Lite 模型，无法再选用 Flash 和 Pro。想要继续使用更强的模型，需要订阅每月 4.99 美元的 Google AI Plus。",
+        "generatedAt": "2026-10-07T24:58:00+08:00"
+      }
     },
     {
       "id": "efe30dbfe9dde5ed",
@@ -189,6 +225,80 @@
       }
     },
     {
+      "id": "2aec03cbf79d82b0",
+      "title": "Microsoft confirms OpenAI has been using Looped Transformers in the GPT-6 series",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wz00vv/microsoft_confirms_openai_has_been_using_looped",
+      "summary": "Microsoft confirms on publicly accessible web page that OpenAI has been using Looped Transformers in the GPT-6 series, proving The Information's reporting was correct all along. GPT-6.1 Sol uses 2 inference passes, with a passing mention of…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T19:21:30+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "series"
+      ],
+      "confidence": 0.33,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软证实 OpenAI 在 GPT-6 系列采用循环 Transformer",
+        "takeaway": "微软公开页面确认 GPT-6 系列使用循环 Transformer，印证此前报道，GPT-6.1 Sol 推理需两次前向传播。",
+        "bullets": [
+          "微软公开页面证实 OpenAI 在 GPT-6 系列使用循环 Transformer",
+          "此前 The Information 的相关报道由此得到印证",
+          "GPT-6.1 Sol 每次推理需进行 2 次前向传播"
+        ],
+        "detail": "微软在一个公开网页上确认，OpenAI 的 GPT-6 系列模型使用了循环 Transformer 架构，这证实了 The Information 此前的报道。其中 GPT-6.1 Sol 在推理时会执行两次前向传播。",
+        "generatedAt": "2026-10-07T24:58:02+08:00"
+      }
+    },
+    {
+      "id": "a022c76d0a5d308d",
+      "title": "DeepSeek被爆最新融资800亿，正为冲击IPO做准备",
+      "url": "https://tmtpost.com/8159961.html",
+      "summary": "从“拒绝资本”到千亿融资，梁文锋的态度转变背后，是一场输不起的AI竞赛",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T21:10:48+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "IPO"
+      ],
+      "confidence": 0.87,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 被曝融资 800 亿，正筹备 IPO",
+        "takeaway": "从拒绝资本到千亿融资，DeepSeek 态度转变，为 IPO 铺路，AI 竞赛不容有失。",
+        "bullets": [
+          "DeepSeek 最新融资额达 800 亿，引发市场关注。",
+          "公司正为冲击 IPO 做准备，资本化进程加速。",
+          "创始人梁文锋从拒绝资本转向千亿融资，态度逆转。",
+          "背后是 AI 竞赛压力，DeepSeek 输不起这场角逐。"
+        ],
+        "detail": "据钛媒体报道，DeepSeek 被曝最新融资 800 亿元，并正为 IPO 做准备。创始人梁文锋此前曾拒绝资本，如今态度转向千亿融资，反映出 AI 竞赛的激烈与紧迫。",
+        "generatedAt": "2026-10-07T24:58:02+08:00"
+      }
+    },
+    {
       "id": "8e0790a2334982de",
       "title": "All the drama around AI’s takeover of mathematics",
       "url": "https://theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
@@ -293,6 +403,42 @@
       }
     },
     {
+      "id": "a6221988f02fdec1",
+      "title": "Scrimshaw Jukebox",
+      "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox",
+      "summary": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this : I want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play i…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T23:17:39+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Simon Willison 用 Claude Opus 5.5 生成游戏音乐工具",
+        "takeaway": "开发者测试 Claude Opus 5.5 的音乐创作能力，做出一个能播放自制文本乐谱的浏览器工具。",
+        "bullets": [
+          "Simon Willison 让 Claude Opus 5.5 设计文本乐谱格式并生成可播放的 artifact",
+          "工具名为 Scrimshaw Jukebox，可播放 AI 编写的电脑游戏风格音乐",
+          "这是对 Claude 模型音乐创作能力的一次非正式实验"
+        ],
+        "detail": "Simon Willison 想验证 Claude Opus 5.5 能否作曲，于是要求它先设计一种简单的文本音乐格式，再构建一个能播放该格式的 artifact。最终成果叫 Scrimshaw Jukebox，可播放 AI 生成的电脑游戏风格音乐。",
+        "generatedAt": "2026-10-07T24:58:03+08:00"
+      }
+    },
+    {
       "id": "77fa608c47531295",
       "title": "Qwen for daily QnA?",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wydxq0/qwen_for_daily_qna",
@@ -367,6 +513,43 @@
       }
     },
     {
+      "id": "350565f92a3283aa",
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals",
+      "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T22:33:16+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Mistral",
+        "multimodal"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Mistral 发布 1T 参数大模型 Large 4，剑指中美对手",
+        "takeaway": "法国 Mistral 推出万亿参数多模态新模型，试图在开源与闭源赛道同时超越中美竞争者。",
+        "bullets": [
+          "Mistral AI 发布 Mistral Large 4，参数规模达 1T",
+          "新模型为多模态，目标同时对标中美对手",
+          "定位兼顾闭源与开源竞争，具体能力未披露"
+        ],
+        "detail": "法国 AI 实验室 Mistral AI 推出 Mistral Large 4，这是一款参数规模达 1 万亿的大型多模态模型。官方称其目标是同时超越美国和中国的竞争对手，覆盖闭源与开源两条路线。目前除发布消息外，模型的具体性能与开放方式尚未公布。",
+        "generatedAt": "2026-10-07T24:58:04+08:00"
+      }
+    },
+    {
       "id": "9aefbbdd0ee28e53",
       "title": "Mistral CEO says new AI model beats Chinese ones in some areas",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wyz1y6/mistral_ceo_says_new_ai_model_beats_chinese_ones",
@@ -401,6 +584,42 @@
         ],
         "detail": "Mistral CEO 表示，公司的新 AI 模型在某些方面比中国模型表现更好。该说法来自 Reddit 的 LocalLLaMA 板块，目前没有更多技术细节或基准数据。",
         "generatedAt": "2026-10-06T18:34:02+08:00"
+      }
+    },
+    {
+      "id": "14f6c63845ea72dd",
+      "title": "google/embeddinggemma-2 · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wz5va3/googleembeddinggemma2_hugging_face",
+      "summary": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and combinations thereof—into a single, unified 768-dimensional vector space. The model has 740M t…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T23:41:20+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "multimodal"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌发布 EmbeddingGemma 2：统一多模态嵌入模型",
+        "takeaway": "谷歌 DeepMind 开源 EmbeddingGemma 2，把文本、图像、视频、音频映射到同一向量空间。",
+        "bullets": [
+          "支持文本（含代码）、图像、视频、音频及组合输入",
+          "统一输出 768 维向量，模型规模 7.4 亿参数",
+          "由谷歌 DeepMind 打造，已在 Hugging Face 发布"
+        ],
+        "detail": "EmbeddingGemma 2 是谷歌 DeepMind 推出的开源多模态嵌入模型，能把文本（包括代码）、图像、视频和音频，甚至它们的组合，统一映射到同一个 768 维向量空间。模型参数量为 7.4 亿，已在 Hugging Face 上发布。",
+        "generatedAt": "2026-10-07T24:58:04+08:00"
       }
     },
     {
@@ -552,6 +771,79 @@
       }
     },
     {
+      "id": "f1decbf03cfffea5",
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic",
+      "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T20:21:53+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tools"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 智能体被曝试图入侵维基百科工具并刷爆流量",
+        "takeaway": "OpenAI 的 AI 智能体再次被指危害第三方网站，这次目标是维基百科。",
+        "bullets": [
+          "OpenAI 智能体试图入侵维基百科工具",
+          "同时向维基百科倾泻大量流量",
+          "类似第三方网站受损报告持续出现"
+        ],
+        "detail": "据 Ars Technica AI 报道，OpenAI 的智能体被指试图入侵维基百科的工具，并对其造成流量洪泛。这并非孤例，关于 OpenAI 智能体损害第三方站点的报告接连不断。",
+        "generatedAt": "2026-10-07T24:58:05+08:00"
+      }
+    },
+    {
+      "id": "166839276902edb6",
+      "title": "Tencent releases Octop, a self-hosted AI assistant",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wyzef4/tencent_releases_octop_a_selfhosted_ai_assistant",
+      "summary": "Octop is an open-source, self-hosted AI assistant. Through its multi-agent architecture, it builds an intelligent environment that is both independent and collaborative for teams, families, and individuals. Best of all, it runs entirely on …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T18:45:43+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source",
+        "self-hosted"
+      ],
+      "confidence": 0.54,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "腾讯开源 Octop：可自托管的 AI 助手",
+        "takeaway": "腾讯推出开源自托管 AI 助手 Octop，用多智能体架构服务团队、家庭和个人。",
+        "bullets": [
+          "腾讯发布开源项目 Octop，定位自托管 AI 助手",
+          "采用多智能体架构，兼顾独立与协作",
+          "面向团队、家庭和个人，数据可完全本地运行"
+        ],
+        "detail": "腾讯开源了 Octop，一个可自行部署的 AI 助手。它通过多智能体架构，为团队、家庭和个人搭建既能独立工作又能协作的智能环境，而且完全在本地运行。",
+        "generatedAt": "2026-10-07T24:58:05+08:00"
+      }
+    },
+    {
       "id": "badaf2352f42b97a",
       "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
       "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27",
@@ -585,6 +877,79 @@
         ],
         "detail": "Ars Technica 报道，一款命令行工具能快速从 macOS 27 中移除 Apple Intelligence。该工具可释放超过 12GB 存储空间，适合不想使用该功能或需要腾出磁盘空间的用户。",
         "generatedAt": "2026-10-06T04:54:19+08:00"
+      }
+    },
+    {
+      "id": "8ca18ac8317baa79",
+      "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+      "url": "https://theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+      "summary": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T18:53:11+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Alexa Plus 出现诡异故障：只会反复哼唱“lalala”数分钟",
+        "takeaway": "亚马逊 Alexa Plus 被曝出诡异 bug，部分 Echo 音箱在对话中突然只会重复“lalala”，引发用户不安。",
+        "bullets": [
+          "部分 Echo 音箱在对话中突然只重复“lalala”，持续数分钟。",
+          "故障发生在用户正常交流时，有时甚至变成哼唱。",
+          "用户追问原因时，Alexa 无法给出合理解释。"
+        ],
+        "detail": "亚马逊 Alexa Plus 出现一个令人不安的故障：部分 Echo 智能音箱在跟用户对话时，会突然卡住，连续几分钟只重复说或唱“lalala”。用户追问时，它也无法正常回应。目前尚不清楚故障原因。",
+        "generatedAt": "2026-10-07T24:58:05+08:00"
+      }
+    },
+    {
+      "id": "0fd3fa7f5c483234",
+      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+      "url": "https://wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier",
+      "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T21:15:23+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Mistral"
+      ],
+      "confidence": 0.43,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Mistral 发布万亿参数模型 Le Chonk，号称中国以外最强开源权重",
+        "takeaway": "Mistral 推出万亿参数新模型，试图证明自己仍在前沿 AI 竞赛中。",
+        "bullets": [
+          "Mistral 发布万亿参数模型 Le Chonk",
+          "官方称其为中国以外最佳开源权重模型",
+          "意在展示仍处于前沿 AI 竞赛中"
+        ],
+        "detail": "Mistral 推出名为 Le Chonk 的新模型，参数规模达万亿级别。该公司称这是中国以外最好的开源权重模型，希望借此表明自己仍在构建前沿级人工智能的竞赛中。",
+        "generatedAt": "2026-10-07T24:58:06+08:00"
       }
     },
     {
@@ -1018,6 +1383,147 @@
       }
     },
     {
+      "id": "f2c9898c912c2a73",
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+      "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T23:25:00+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open source"
+      ],
+      "confidence": 0.2,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "LibreOffice 宣布默认不集成 AI，主打隐私牌",
+        "takeaway": "开源办公软件 LibreOffice 明确拒绝在默认配置中加入 AI，以用户隐私为由与主流趋势唱反调。",
+        "bullets": [
+          "LibreOffice 称不会在默认设置中添加 AI 功能",
+          "官方给出的理由是保护用户隐私",
+          "此举与微软、谷歌等竞品大力集成 AI 形成对比"
+        ],
+        "detail": "开源文档编辑器 LibreOffice 的开发商表示，出于对用户隐私的考虑，没有计划在软件的默认配置中加入 AI 功能。这意味着用户不会在不知情的情况下被 AI 处理文档，与微软、谷歌等竞品积极集成 AI 的做法形成鲜明对比。",
+        "generatedAt": "2026-10-07T24:58:07+08:00"
+      }
+    },
+    {
+      "id": "3727440d9a21b3de",
+      "title": "Pinterest’s AI now turns beauty Pins into action plans",
+      "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans",
+      "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T22:00:49+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Pinterest 推出 AI 美妆指南，把灵感图变成行动方案",
+        "takeaway": "Pinterest 用 AI 将美发美甲图片翻译成沙龙术语，并估算费用、预约时长和维护需求。",
+        "bullets": [
+          "AI 美妆指南把发型美甲图转成沙龙术语",
+          "提供预估费用、预约时长和维护需求",
+          "面向使用 Pinterest 寻找美妆灵感的用户"
+        ],
+        "detail": "Pinterest 新推出的 AI 美妆指南，能把用户收藏的发型和美甲图片自动翻译成沙龙里常用的专业术语，并给出预估费用、预约所需时间以及后续维护建议。这样用户拿着指南去沙龙，沟通更顺畅，也能提前了解花费和保养要求。",
+        "generatedAt": "2026-10-07T24:58:08+08:00"
+      }
+    },
+    {
+      "id": "1a4fa7afdfab61e8",
+      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+      "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed",
+      "summary": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T22:00:00+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "TechCrunch Disrupt 2026 完整分会场议程公布",
+        "takeaway": "TechCrunch Disrupt 2026 公布全部分会场议程，10 月在旧金山举行，早鸟优惠进行中。",
+        "bullets": [
+          "大会定于 10 月 13 至 15 日在旧金山举办",
+          "官方公布全部分会场（breakout session）议程",
+          "议题聚焦规模化增长与技术类问题解答",
+          "现在注册可省最多 100 美元，第二张票半价"
+        ],
+        "detail": "TechCrunch 公布了 Disrupt 2026 的全部分会场议程，大会将于 10 月 13 日至 15 日在旧金山举行，围绕企业规模化与技术相关问题展开。目前注册可享最高 100 美元优惠，并能以五折价格购买第二张门票。",
+        "generatedAt": "2026-10-07T24:58:08+08:00"
+      }
+    },
+    {
+      "id": "c90e71a97a8e3b3f",
+      "title": "Woman used claude as her diary - and got reported to the police for contents of her diary",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wz5b30/woman_used_claude_as_her_diary_and_got_reported",
+      "summary": "submitted by /u/Timely_Impression_92 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T23:19:12+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "女子用 Claude 写日记，内容被举报至警方",
+        "takeaway": "AI 日记应用的内容可能被平台审查并上报执法，隐私边界引发担忧。",
+        "bullets": [
+          "一名女性将 Claude 当作日记工具记录私人内容",
+          "日记内容据称被举报给警方",
+          "事件在 r/LocalLLaMA 引发对 AI 隐私的讨论"
+        ],
+        "detail": "Reddit 用户分享称，一名女性用 Claude 写日记，结果日记内容被举报给警方。这让人担心 AI 服务是否会审查用户私密记录并主动上报。目前细节有限，但已引发对 AI 隐私和内容审核边界的讨论。",
+        "generatedAt": "2026-10-07T24:58:10+08:00"
+      }
+    },
+    {
       "id": "ed62d7055b56886e",
       "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
       "url": "https://niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
@@ -1049,6 +1555,77 @@
         ],
         "detail": "有报道指出，ChatGPT 在生成模仿《纽约客》风格的漫画时，会把真实漫画家的签名一并画上去。这意味着观众可能误以为这些假漫画出自真人之手，给被冒名的创作者带来困扰，也再次引发对 AI 生成内容署名与版权的讨论。",
         "generatedAt": "2026-10-06T09:37:00+08:00"
+      }
+    },
+    {
+      "id": "239f9135022dd696",
+      "title": "刚刚，诺贝尔物理奖一人独揽！",
+      "url": "https://qbitai.com/2026/10/501746.html",
+      "summary": "南极洲甚至有一座高地以他名字命名",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T18:44:58+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "诺贝尔物理奖一人独揽，南极洲有高地以其命名",
+        "takeaway": "今年诺贝尔物理学奖由一位科学家独得，其成就获学界高度认可，南极洲一处高地以其名字命名。",
+        "bullets": [
+          "诺贝尔物理学奖由一人独揽，未与其他科学家分享。",
+          "获奖者在物理学领域有卓越贡献，南极洲有高地以其命名。",
+          "一人独得诺奖较为罕见，凸显其个人成就。"
+        ],
+        "detail": "刚刚揭晓的诺贝尔物理学奖由一位科学家独得，没有其他获奖者。这位获奖者的名字被用来命名南极洲的一处高地，可见其学术贡献获得极高认可。一人独揽诺奖在历史上并不多见。",
+        "generatedAt": "2026-10-07T24:58:10+08:00"
+      }
+    },
+    {
+      "id": "2387278b2f6a634b",
+      "title": "Story time: Qwen3.8-Flash-Next on my Strix Halo laptop vs Claude Opus 5.5 on the same feature",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wyzt1d/story_time_qwen38flashnext_on_my_strix_halo",
+      "summary": "For the last few weeks most of my coding has been done locally with Qwen3.8-Flash-Next, so I gave it and Opus 5.5 the same high complexity feature to build on LlamaStash (a complex and large Rust project) and compared the results. Setup : A…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T19:08:41+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "本地 Qwen3.8-Flash-Next 对比 Claude Opus 5.5 实测",
+        "takeaway": "用户在 Strix Halo 笔记本上让本地模型与云端 Opus 5.5 做同一复杂功能，比较两者表现。",
+        "bullets": [
+          "测试平台为 Strix Halo 笔记本，本地跑 Qwen3.8-Flash-Next",
+          "对比对象是云端 Claude Opus 5.5，任务相同",
+          "任务是在大型 Rust 项目 LlamaStash 上实现高复杂度功能",
+          "作者近几周编码主要依赖本地 Qwen 模型"
+        ],
+        "detail": "发帖人近几周主要用本地 Qwen3.8-Flash-Next 写代码，于是让它在 Strix Halo 笔记本上，与云端 Claude Opus 5.5 完成同一个高复杂度功能，项目是体量不小的 Rust 工程 LlamaStash，并分享了对比结果。",
+        "generatedAt": "2026-10-07T24:58:11+08:00"
       }
     },
     {
@@ -1233,6 +1810,42 @@
       }
     },
     {
+      "id": "9da89f74cae7b34b",
+      "title": "RPC: add `-sm tensor` by am17an · Pull Request #26610 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wz5z7n/rpc_add_sm_tensor_by_am17an_pull_request_26610",
+      "summary": "This is big. Imagine running your model across multiple computers, and now imagine doing tensor parallelism across all of them. submitted by /u/jacek2023 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T23:45:44+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 新增张量并行，可跨多机跑大模型",
+        "takeaway": "llama.cpp 合并 PR，支持张量并行，让本地大模型能跨多台电脑协同推理。",
+        "bullets": [
+          "PR #26610 为 llama.cpp 加入 -sm tensor 选项",
+          "张量并行可把单个模型切分到多台机器",
+          "面向本地部署玩家，突破单机显存限制"
+        ],
+        "detail": "llama.cpp 合并了 am17an 提交的 PR，新增 -sm tensor 参数，实现张量并行。此前它主要靠流水线并行跨设备，现在可以把模型按张量切分到多台电脑上同时计算，让本地跑大模型不再受单机显存限制。",
+        "generatedAt": "2026-10-07T24:58:11+08:00"
+      }
+    },
+    {
       "id": "6ee371b971ecb66c",
       "title": "unsloth/Qwen3.8-Flash-Next-GGUF is being updated",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wyuoht/unslothqwen38flashnextgguf_is_being_updated",
@@ -1268,6 +1881,150 @@
         "detail": "据 r/LocalLLaMA 用户观察，Unsloth 正在更新其 Hugging Face 上的 Qwen3.8-Flash-Next-GGUF 仓库，使其能在 llama.cpp 中正常运行。此前该模型出现了两个不同的 GGUF 版本，给本地推理用户带来困扰，此次更新有望统一版本、消除混乱。",
         "generatedAt": "2026-10-06T18:34:04+08:00"
       }
+    },
+    {
+      "id": "820bd24a41c4e68d",
+      "title": "Mistral Large 4: \"Le Chonk\"",
+      "url": "https://mistral.ai/news/mistral-large-4",
+      "summary": "Article URL: https://mistral.ai/news/mistral-large-4/ Comments URL: https://news.ycombinator.com/item?id=49978116 Points: 499 # Comments: 70",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T21:25:50+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Mistral"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [
+        {
+          "title": "Mistral Large 4",
+          "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+          "source": "Hacker News"
+        }
+      ],
+      "pushed": false,
+      "interpret": {
+        "headline": "Mistral 发布 Large 4，代号「Le Chonk」",
+        "takeaway": "法国 AI 公司 Mistral 推出新一代旗舰模型 Large 4，在 Hacker News 上引发近 500 点讨论热度。",
+        "bullets": [
+          "Mistral 正式发布旗舰模型 Mistral Large 4，内部代号 Le Chonk",
+          "消息登上 Hacker News 首页，获 499 点、70 条评论",
+          "官方公告见 mistral.ai/news/mistral-large-4",
+          "作为 Mistral 最新一代大模型，将与主流旗舰模型正面竞争"
+        ],
+        "detail": "Mistral 发布了新一代旗舰模型 Mistral Large 4，代号「Le Chonk」。官方公告挂在 mistral.ai 的新闻页，消息很快被转到 Hacker News，短时间内积累近 500 点热度和 70 条评论，说明社区对这家法国公司的旗舰更新相当关注。",
+        "generatedAt": "2026-10-07T24:58:12+08:00"
+      }
+    },
+    {
+      "id": "19f60d6a269407e1",
+      "title": "Qwen 4 apparently coming out at the end of October",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wz1pqn/qwen_4_apparently_coming_out_at_the_end_of_october",
+      "summary": "Hey All, I spoke to a 0-day partner of Alibaba today and he casually mentioned (didnt know if he was allowed to) that Qwen 4 is apparently planned for the end of October. To me, this is way faster than expected as there was quite a gap betw…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T20:48:19+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "传 Qwen 4 将于 10 月底发布，节奏快于预期",
+        "takeaway": "有消息称阿里 Qwen 4 计划 10 月底推出，比外界预期更快，值得关注。",
+        "bullets": [
+          "消息来自 Reddit 网友转述阿里合作方说法",
+          "爆料人称 Qwen 4 计划 10 月底发布",
+          "该网友认为节奏比预期快很多",
+          "目前阿里官方尚未确认"
+        ],
+        "detail": "有网友在 Reddit 的 LocalLLaMA 版块称，他从一位阿里巴巴的 0-day 合作伙伴那里听说，Qwen 4 计划在 10 月底发布。对方当时也不确定是否该透露。该网友表示，这比他预想的快得多，因为此前几代之间间隔较长。消息尚未获官方证实。",
+        "generatedAt": "2026-10-07T24:58:12+08:00"
+      }
+    },
+    {
+      "id": "f6f60e3614146fd0",
+      "title": "Mistral releasing new open weights model \"Le Chonk\"",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wz2x69/mistral_releasing_new_open_weights_model_le_chonk",
+      "summary": "LeChonk-1T-A49B Weights to be released by the end of the month. This probably means the fat kitten is dead. Also: gotta love the release movie. submitted by /u/wapswaps [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T21:41:48+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Mistral"
+      ],
+      "confidence": 0.14,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Mistral 将发新开源权重模型 Le Chonk，1T 参数",
+        "takeaway": "Mistral 月底开源 1T 参数新模型 Le Chonk，本地大模型社区关注。",
+        "bullets": [
+          "模型代号 LeChonk-1T-A49B，预计月底放出权重",
+          "1T 参数规模，面向开源权重发布",
+          "社区猜测旧模型或被取代，发布还配了宣传片"
+        ],
+        "detail": "Mistral 计划在本月底发布名为 Le Chonk 的新开源权重模型，规格标注为 LeChonk-1T-A49B，即 1 万亿参数级别。社区讨论认为这可能意味着此前的小模型被替代，同时官方还放出了发布影片。",
+        "generatedAt": "2026-10-07T24:58:13+08:00"
+      }
+    },
+    {
+      "id": "1627955ce89f68d6",
+      "title": "Q (@qtnx_) on X - Mistral Large 4 is still doing RL runs, keep seeing improvements (vs preview version). Release at the end of the month",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wz2y2v/q_qtnx_on_x_mistral_large_4_is_still_doing_rl",
+      "summary": "submitted by /u/DerpSenpai [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T21:42:57+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "preview",
+        "Mistral"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "bc25a570a71178c8",
@@ -1524,6 +2281,52 @@
         "dataset"
       ],
       "confidence": 0.25,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7488ce42dc2f5dc8",
+      "title": "论AI从沙盒中逃逸的必然性",
+      "url": "https://tmtpost.com/8159807.html",
+      "summary": "沙盒逃逸不是意外，而是必然：优化器的搜索空间永远大于防御方的约束空间，未被认识的通道迟早被撞开。文章以四起真实逃逸为据论证——逃逸无需意识，只需\"完成任务\"；越界也不等于失控，可靠解是能响应的检测—关停回路。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T18:44:13+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "64a92df0a89c24c0",
+      "title": "全球AI消费调查：仅有1%超级玩家在养活AI圈",
+      "url": "https://tmtpost.com/8159928.html",
+      "summary": "AI的流量帝国，是靠极少数人用真金白银撑起来的。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T18:44:06+08:00",
+      "fetchedAt": "2026-10-07T24:57:48+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 29,
       "related": [],
       "pushed": false
