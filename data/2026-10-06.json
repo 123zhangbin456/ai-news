@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "updatedAt": "2026-10-06T10:42:28+08:00",
+  "updatedAt": "2026-10-06T18:34:06+08:00",
   "items": [
     {
       "id": "81de859178d3613b",
@@ -259,6 +259,40 @@
       }
     },
     {
+      "id": "df9987e71d7549bf",
+      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+      "url": "https://qbitai.com/2026/10/501726.html",
+      "summary": "",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T14:45:40+08:00",
+      "fetchedAt": "2026-10-06T18:33:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI「疯狂28天」首日，发布了什么？",
+        "takeaway": "OpenAI启动为期28天的密集发布活动，首日内容已揭晓，值得关注后续动向。",
+        "bullets": [
+          "OpenAI开启连续28天的新品发布计划",
+          "首日发布内容已公布，但具体细节未在标题中说明",
+          "活动可能涉及多个AI产品或功能更新"
+        ],
+        "detail": "OpenAI启动了名为「疯狂28天」的连续发布活动，首日内容已经公布。虽然具体发布了什么尚未在标题中明确，但这一密集发布节奏表明OpenAI可能在接下来四周内推出多项重要更新。",
+        "generatedAt": "2026-10-06T18:34:02+08:00"
+      }
+    },
+    {
       "id": "77fa608c47531295",
       "title": "Qwen for daily QnA?",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1wydxq0/qwen_for_daily_qna",
@@ -330,6 +364,43 @@
         ],
         "detail": "在 r/LocalLLaMA 上，有网友发帖感叹 Qwen 27B 性能出色，并疑惑为何 GPT-4o 拥有万亿参数却表现更差。他猜测可能得益于新技术或更高质量的预训练数据，但尚无定论。",
         "generatedAt": "2026-10-06T02:36:34+08:00"
+      }
+    },
+    {
+      "id": "9aefbbdd0ee28e53",
+      "title": "Mistral CEO says new AI model beats Chinese ones in some areas",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wyz1y6/mistral_ceo_says_new_ai_model_beats_chinese_ones",
+      "summary": "submitted by /u/tengo_harambe [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T18:24:42+08:00",
+      "fetchedAt": "2026-10-06T18:33:55+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "says"
+      ],
+      "confidence": 0.5,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Mistral CEO 称新模型部分领域超越中国模型",
+        "takeaway": "Mistral CEO 公开表态，新模型在部分能力上胜过中国对手，引发社区关注。",
+        "bullets": [
+          "Mistral CEO 称新模型在部分领域优于中国模型",
+          "消息来自 r/LocalLLaMA 社区讨论",
+          "具体模型名称与对比细节尚未披露"
+        ],
+        "detail": "Mistral CEO 表示，公司的新 AI 模型在某些方面比中国模型表现更好。该说法来自 Reddit 的 LocalLLaMA 板块，目前没有更多技术细节或基准数据。",
+        "generatedAt": "2026-10-06T18:34:02+08:00"
       }
     },
     {
@@ -879,6 +950,74 @@
       }
     },
     {
+      "id": "085f7195b66fbb80",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T14:44:39+08:00",
+      "fetchedAt": "2026-10-06T18:33:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Falcon-Emirati：让大模型学会阿联酋方言与文化",
+        "takeaway": "Hugging Face 上出现 Falcon-Emirati，专注阿联酋方言与文化语境，值得关注本地化模型趋势。",
+        "bullets": [
+          "模型名为 Falcon-Emirati，由 Hugging Face 发布",
+          "主打阿联酋方言、文化及细微语义理解",
+          "反映大模型向区域语言文化定制发展"
+        ],
+        "detail": "Hugging Face 上出现了名为 Falcon-Emirati 的大模型，从标题看，它专门学习阿联酋方言、当地文化以及语言中的细微差别。这意味着模型不再只追求通用能力，而是开始针对特定地区的语言习惯和文化语境做优化。",
+        "generatedAt": "2026-10-06T18:34:02+08:00"
+      }
+    },
+    {
+      "id": "63dd10a871576faf",
+      "title": "不er，咋陶哲轩也成AI减速派了？？",
+      "url": "https://qbitai.com/2026/10/501736.html",
+      "summary": "",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T15:59:17+08:00",
+      "fetchedAt": "2026-10-06T18:33:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "陶哲轩被指转向AI减速派？量子位报道引热议",
+        "takeaway": "量子位报道称陶哲轩似乎加入AI减速阵营，引发对其立场的讨论。",
+        "bullets": [
+          "量子位发文称陶哲轩成AI减速派，引发关注。",
+          "陶哲轩此前对AI持开放态度，立场变化引猜测。",
+          "讨论涉及AI发展速度与安全平衡。"
+        ],
+        "detail": "量子位报道称，数学家陶哲轩似乎成了AI减速派，让人意外。他此前对AI持开放态度，如今立场变化引发讨论，涉及AI发展速度与安全的平衡。",
+        "generatedAt": "2026-10-06T18:34:03+08:00"
+      }
+    },
+    {
       "id": "ed62d7055b56886e",
       "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
       "url": "https://niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
@@ -1058,6 +1197,79 @@
       }
     },
     {
+      "id": "07d214dd0149f179",
+      "title": "Gemma 4 26B-A4B and a 37 GB Qwen3.6 MoE running in a browser tab on a 24 GB Mac — experts streamed from disk, output matches llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wyvo42/gemma_4_26ba4b_and_a_37_gb_qwen36_moe_running_in",
+      "summary": "This is an update. I posted LocalMind here many moons ago from another account, when it was a Gemma chat in a tab. LocalMind is a static web page that runs models on your GPU through WebGPU. It has no server, no account and no install. The …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T14:41:26+08:00",
+      "fetchedAt": "2026-10-06T18:33:55+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "浏览器里跑 Gemma 4 26B 与 37GB Qwen3.6 MoE，24GB Mac 实测",
+        "takeaway": "LocalMind 用 WebGPU 在浏览器直接跑大模型，专家权重从磁盘流式加载，输出与 llama.cpp 一致。",
+        "bullets": [
+          "LocalMind 是纯静态网页，无需服务器、账号或安装",
+          "在 24GB Mac 上跑 Gemma 4 26B-A4B 和 37GB Qwen3.6 MoE",
+          "专家权重从磁盘流式读取，输出与 llama.cpp 对齐"
+        ],
+        "detail": "这是 LocalMind 的更新：它从早前标签页里的 Gemma 聊天，变成用 WebGPU 在本地 GPU 上跑模型的静态网页。没有服务器、账号和安装，24GB Mac 上能跑 Gemma 4 26B-A4B 和 37GB 的 Qwen3.6 MoE，专家权重从磁盘流式加载，输出与 llama.cpp 一致。",
+        "generatedAt": "2026-10-06T18:34:04+08:00"
+      }
+    },
+    {
+      "id": "6ee371b971ecb66c",
+      "title": "unsloth/Qwen3.8-Flash-Next-GGUF is being updated",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wyuoht/unslothqwen38flashnextgguf_is_being_updated",
+      "summary": "Looks like Unsloth is updating https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF to work with llama.cpp, so hopefully this will resolve the issue of having two different GGUF versions of Qwen Flash Next. submitted by /u/jacek2023 [link…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T13:39:02+08:00",
+      "fetchedAt": "2026-10-06T18:33:55+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Unsloth 更新 Qwen3.8-Flash-Next GGUF，适配 llama.cpp",
+        "takeaway": "Unsloth 正在更新其 Qwen3.8-Flash-Next 的 GGUF 量化版本，以兼容 llama.cpp，有望统一目前分裂的两个 GGUF 版本。",
+        "bullets": [
+          "Unsloth 更新 Qwen3.8-Flash-Next 的 GGUF 仓库以适配 llama.cpp",
+          "此前该模型存在两个不同的 GGUF 版本，造成使用混乱",
+          "更新后有望解决版本分裂问题，方便本地部署用户"
+        ],
+        "detail": "据 r/LocalLLaMA 用户观察，Unsloth 正在更新其 Hugging Face 上的 Qwen3.8-Flash-Next-GGUF 仓库，使其能在 llama.cpp 中正常运行。此前该模型出现了两个不同的 GGUF 版本，给本地推理用户带来困扰，此次更新有望统一版本、消除混乱。",
+        "generatedAt": "2026-10-06T18:34:04+08:00"
+      }
+    },
+    {
       "id": "bc25a570a71178c8",
       "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
       "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
@@ -1123,6 +1335,76 @@
         ],
         "detail": "InfoQ 中国在 QCon 上海带来一场分享，主题围绕 AI 与 SRE 的关系。讲者提出 AI 加 SRE 并不等于 AISRE，强调重点不是概念叠加，而是让 AI 真正进入生产运维的闭环流程。",
         "generatedAt": "2026-10-06T10:22:16+08:00"
+      }
+    },
+    {
+      "id": "b367520861c30009",
+      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
+      "url": "https://wired.com/story/the-big-interview-podcast-kevin-roose",
+      "summary": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T18:30:00+08:00",
+      "fetchedAt": "2026-10-06T18:33:55+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "写AI书的作者没用AI：凯文·鲁斯称全书由疲惫人类完成",
+        "takeaway": "《AGI编年史》作者凯文·鲁斯自曝没用AI写作，强调书出自一个疲惫、缺觉的人类之手。",
+        "bullets": [
+          "《AGI编年史》作者凯文·鲁斯承认写书没用AI",
+          "他自嘲书由疲惫、过劳、缺觉的人类写成",
+          "在AI写作普及背景下，这一表态引发关注"
+        ],
+        "detail": "《AGI编年史》作者凯文·鲁斯表示，这本关于AI的书并非由AI代笔。他形容书是“一个非常疲惫、过劳、睡眠不足的人类”写出来的，以此回应外界对AI写作的讨论。",
+        "generatedAt": "2026-10-06T18:34:05+08:00"
+      }
+    },
+    {
+      "id": "3aafd053d78d791e",
+      "title": "从依赖专家到开发者自助：一家银行的平台文化转型",
+      "url": "https://infoq.cn/article/seZbK4mHm40juM4vmaDy",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T23:00:00+08:00",
+      "fetchedAt": "2026-10-06T18:33:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "从依赖专家到开发者自助：一家银行的平台文化转型",
+        "takeaway": "银行平台工程从专家集中支撑转向开发者自助，值得关注其文化与协作方式的转变。",
+        "bullets": [
+          "一家银行推动平台文化转型，让开发者从依赖专家转向自助服务。",
+          "转型核心是平台工程与开发者体验的重新设计。",
+          "对金融行业内部研发效率和协作模式有参考意义。"
+        ],
+        "detail": "InfoQ 中国报道了一家银行的平台文化转型实践。该银行正从过去依赖专家集中支持的模式，转向让开发者能够自助完成平台相关操作。这一变化涉及平台工程和内部协作文化的调整，旨在提升研发效率。",
+        "generatedAt": "2026-10-06T18:34:06+08:00"
       }
     },
     {
@@ -1195,6 +1477,125 @@
       "keywords": [],
       "confidence": 0,
       "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f37f89fa517932d8",
+      "title": "AI 越来越强，公司为什么还是做不快？",
+      "url": "https://tmtpost.com/8159894.html",
+      "summary": "成果看起来越完整，剩下的工作越容易被误解为拖延。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T12:31:52+08:00",
+      "fetchedAt": "2026-10-06T18:33:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f4f6b90dac052e17",
+      "title": "Why 38% of AI Agent container escapes didn't need kernel 0-days: Analysis of 109 empirical incidents (Open Dataset + Defense Harness)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wyur2p/why_38_of_ai_agent_container_escapes_didnt_need",
+      "summary": "Over the past several months, we conducted an empirical post-mortem investigation into 109 autonomous AI agent security incidents (cataloged with 193 falsification criteria across tool-use and multi-agent systems). One of the most striking …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T13:43:30+08:00",
+      "fetchedAt": "2026-10-06T18:33:55+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "dataset"
+      ],
+      "confidence": 0.25,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9ed34bc9c2844a86",
+      "title": "想改造工厂的机器人，先被工厂改造了",
+      "url": "https://tmtpost.com/8159783.html",
+      "summary": "Figure 02跳进芬兰熔炉，其在宝马工厂产线留下的故障记录却进入了下一代设计。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T11:56:44+08:00",
+      "fetchedAt": "2026-10-06T18:33:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d9060525e251b659",
+      "title": "10亿美金估值！好莱坞老炮为何集体投奔这家“AI原生影视公司”？",
+      "url": "https://tmtpost.com/8159745.html",
+      "summary": "可能改写行业规则的AI公司来了。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T11:56:41+08:00",
+      "fetchedAt": "2026-10-06T18:33:55+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "估值"
+      ],
+      "confidence": 1,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9b955229fadd10c7",
+      "title": "Memoria 1.0.0 — a local, model-agnostic memory system for LLMs",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wyt020/memoria_100_a_local_modelagnostic_memory_system",
+      "summary": "I’ve been building this for a long fucking time, and tonight I finally released Memoria 1.0.0. I built it because I actually wanted to use it. I wanted a real memory layer for local LLM applications that didn’t depend on a specific model, a…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T12:01:23+08:00",
+      "fetchedAt": "2026-10-06T18:33:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
       "related": [],
       "pushed": false
     },
