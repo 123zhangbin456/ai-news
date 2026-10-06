@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "updatedAt": "2026-10-07T24:58:13+08:00",
+  "updatedAt": "2026-10-07T02:43:16+08:00",
   "items": [
     {
       "id": "a6e396795764059e",
@@ -37,6 +37,78 @@
         ],
         "detail": "EmbeddingGemma 2 是谷歌 DeepMind 打造的开源多模态嵌入模型，能把文本（包括代码）、图像、视频、音频以及它们的组合，统一映射到同一个 768 维向量空间。模型已在 Hugging Face 上线，供开发者直接使用。",
         "generatedAt": "2026-10-07T24:58:02+08:00"
+      }
+    },
+    {
+      "id": "cd24bf90e04501f2",
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy",
+      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots and Instinct.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T02:22:45+08:00",
+      "fetchedAt": "2026-10-07T02:43:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "releases"
+      ],
+      "confidence": 0,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Hark 发布主打隐私的 AI 个人助理",
+        "takeaway": "AI 实验室 Hark 推出隐私优先的个人助理，对标 Muse、Dots 和 Instinct。",
+        "bullets": [
+          "Hark 发布 AI 个人助理，强调隐私保护",
+          "产品被形容为来自未来的操作系统",
+          "直接竞争对手包括 Muse、Dots 和 Instinct"
+        ],
+        "detail": "AI 实验室 Hark 推出了一款个人助理，主打隐私保护。该产品被描述为来自未来的操作系统，将与 Muse、Dots 和 Instinct 等同类产品展开竞争。",
+        "generatedAt": "2026-10-07T02:43:14+08:00"
+      }
+    },
+    {
+      "id": "5f2e56d64c580dd2",
+      "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+      "url": "https://wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again",
+      "summary": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T01:28:33+08:00",
+      "fetchedAt": "2026-10-07T02:43:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 再惹数学家：将发布超百个未解问题新解",
+        "takeaway": "OpenAI 准备公布 100 多个未解数学问题的新解法，数学家批评其行为像黑帮。",
+        "bullets": [
+          "OpenAI 将发布超 100 个未解数学问题的新解法",
+          "数学家称头部 AI 公司行为像黑帮，引发不满",
+          "这是 OpenAI 再次激怒数学界，此前已有类似争议"
+        ],
+        "detail": "OpenAI 准备发布 100 多个未解数学问题的新解法，但数学家们对此感到愤怒。一位数学家向《连线》表示，领先 AI 公司存在“黑帮行为”的印象。这并非 OpenAI 首次惹怒数学界。",
+        "generatedAt": "2026-10-07T02:43:15+08:00"
       }
     },
     {
@@ -108,6 +180,104 @@
         "detail": "The Verge 指出，随着 AI 硬件普及，科技公司正在重新界定什么才算“录音”。过去人们默认：带麦克风或摄像头的设备，要么在录你，要么没录。如今这种非黑即白的假设正被厂商的话术打破，值得警惕。",
         "generatedAt": "2026-10-07T24:58:09+08:00"
       }
+    },
+    {
+      "id": "cc0321fce1351f61",
+      "title": "model : add K2 Horizon dense and MoVA support by bitalov · Pull Request #29535 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wz7pha/model_add_k2_horizon_dense_and_mova_support_by",
+      "summary": "guys do you still remember K2 Horizon? https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B-GGUF https://huggingface.co/IFM/K2-Horizon-32B-GGUF https://huggingface.co/IFM/K2-Horizon-3.7B-GGUF https://huggingface.co/IFM/K2-Horizon-7B-GGUF http…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T24:52:57+08:00",
+      "fetchedAt": "2026-10-07T02:43:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 新增 K2 Horizon 系列模型与 MoVA 支持",
+        "takeaway": "开发者 bitalov 提交 PR，为 llama.cpp 加入 K2 Horizon 稠密模型和 MoVA 架构支持，本地推理再添新选择。",
+        "bullets": [
+          "PR #29535 为 llama.cpp 添加 K2 Horizon 稠密模型支持",
+          "同时加入 MoVA 架构支持，覆盖 3.7B 到 36B 多个版本",
+          "模型已发布 GGUF 格式，可直接在本地运行"
+        ],
+        "detail": "有人在 llama.cpp 仓库提交 PR，想让这个本地推理工具支持 K2 Horizon 系列模型和 MoVA 架构。Hugging Face 上已有 3.7B、7B、32B 以及 36B-A4B 等多个 GGUF 版本，方便用户直接下载使用。",
+        "generatedAt": "2026-10-07T02:43:16+08:00"
+      }
+    },
+    {
+      "id": "f54931964d374809",
+      "title": "Local AI ecosystem overview",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wz9j0u/local_ai_ecosystem_overview",
+      "summary": "Hey guys, it's Merve from Hugging Face! I've recently given a talk in a dev conference about llama.cpp + but also covering basic concepts like prefill vs decode, memory types, speculative decoding etc. you can use it if you feel like it and…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T02:02:17+08:00",
+      "fetchedAt": "2026-10-07T02:43:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Hugging Face 发布本地 AI 生态概览演讲",
+        "takeaway": "Hugging Face 员工 Merve 在开发者大会分享 llama.cpp 及本地 AI 基础概念，内容可供学习参考。",
+        "bullets": [
+          "Hugging Face 的 Merve 在开发者大会发表演讲",
+          "内容涵盖 llama.cpp 及本地 AI 生态",
+          "讲解预填充与解码、内存类型、推测解码等概念",
+          "演讲资料公开，可供开发者使用"
+        ],
+        "detail": "Hugging Face 的 Merve 在开发者大会上做了一场关于本地 AI 生态的演讲，重点介绍了 llama.cpp，并讲解了预填充与解码、内存类型、推测解码等基础概念。演讲内容已公开，感兴趣的人可以自行取用。",
+        "generatedAt": "2026-10-07T02:43:16+08:00"
+      }
+    },
+    {
+      "id": "dabfa79f68b85520",
+      "title": "AI is now capable of developing its own inference hardware",
+      "url": "https://github.com/FeSens/openTPU",
+      "summary": "Article URL: https://github.com/FeSens/openTPU Comments URL: https://news.ycombinator.com/item?id=49980715 Points: 130 # Comments: 106",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T24:23:25+08:00",
+      "fetchedAt": "2026-10-07T02:43:03+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
