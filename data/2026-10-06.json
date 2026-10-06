@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "updatedAt": "2026-10-06T09:37:05+08:00",
+  "updatedAt": "2026-10-06T09:58:14+08:00",
   "items": [
     {
       "id": "81de859178d3613b",
@@ -947,6 +947,78 @@
         ],
         "detail": "作者在 r/LocalLLaMA 宣布完成 ik_llama.cpp 分支，主要面向 MoE 模型优化。它借鉴论文思路实现专家驻留，并加入带宽自适应的 CPU/GPU 混合执行和 Q2_0 量化，让本地跑大模型更省资源。",
         "generatedAt": "2026-10-06T09:37:01+08:00"
+      }
+    },
+    {
+      "id": "d877d91db7bfa59e",
+      "title": "Qwen 3.8 27b just feels… ok?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wyp4n2/qwen_38_27b_just_feels_ok",
+      "summary": "I’ve seen posts here raving about how good Qwen 3.8 27b is. The benchmarks look incredible, and all the online discourse seems to deem it the best local model. I have 32GB VRAM and run Unsloth’s Q6 version with OpenCode. For small tasks, it…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T08:41:42+08:00",
+      "fetchedAt": "2026-10-06T09:58:08+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0.25,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 27B 实测体验：跑分亮眼，用起来只是「还行」",
+        "takeaway": "社区热捧的 Qwen 3.8 27B 在真实使用中表现平平，跑分与体感存在落差。",
+        "bullets": [
+          "用户用 32GB 显存跑 Unsloth Q6 量化版，配 OpenCode 使用",
+          "小任务上表现只能算「还行」，与网上吹捧不符",
+          "提醒跑分亮眼不等于实际体验好，本地部署需理性看待"
+        ],
+        "detail": "这位用户在 r/LocalLLaMA 上说，最近到处都能看到夸 Qwen 3.8 27B 的帖子，跑分数据非常漂亮，网上几乎一致认为它是最好的本地模型。他自己用 32GB 显存跑 Unsloth 的 Q6 量化版本，搭配 OpenCode 使用，结果在小任务上感觉只是「还行」，并没有传说中那么惊艳。",
+        "generatedAt": "2026-10-06T09:58:14+08:00"
+      }
+    },
+    {
+      "id": "592f09945fed972c",
+      "title": "Qwen image 2.1 newer than Qwen image 3.0?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wym5ce/qwen_image_21_newer_than_qwen_image_30",
+      "summary": "Just for my understanding is Qwen image 2.1 newer than Qwen image 3.0? submitted by /u/OkStatement3655 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T06:23:21+08:00",
+      "fetchedAt": "2026-10-06T09:58:08+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 图像模型版本号引困惑：2.1 比 3.0 还新？",
+        "takeaway": "Reddit 用户发帖询问 Qwen 图像模型 2.1 与 3.0 的版本先后，反映命名易混淆。",
+        "bullets": [
+          "r/LocalLLaMA 用户发帖问 Qwen image 2.1 是否比 3.0 更新",
+          "帖子未给出官方版本说明或发布时间",
+          "讨论反映 Qwen 图像模型版本命名易让人困惑"
+        ],
+        "detail": "有用户在 r/LocalLLaMA 发帖，想确认 Qwen 图像模型里 2.1 和 3.0 到底哪个更新。帖子本身没有提供官方发布时间或版本说明，只是提出疑问，说明这套命名容易让人分不清先后。",
+        "generatedAt": "2026-10-06T09:58:14+08:00"
       }
     },
     {
