@@ -1,7 +1,82 @@
 {
   "date": "2026-10-07",
-  "updatedAt": "2026-10-07T06:51:16+08:00",
+  "updatedAt": "2026-10-07T09:05:28+08:00",
   "items": [
+    {
+      "id": "38f8cbc7334120ae",
+      "title": "llm-openai-decisions 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions",
+      "summary": "Release: llm-openai-decisions 0.1a0 OpenAI released their new Jev-style Decisions API , as previously announced at last week's DevDay. Since I already have an llm-typesafe plugin for talking to Jev, I had GPT-6 Astra read the new OpenAI API…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T07:04:13+08:00",
+      "fetchedAt": "2026-10-07T09:05:15+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Simon Willison 发布 llm-openai-decisions 0.1a0 插件",
+        "takeaway": "OpenAI 新 Decisions API 刚上线，已有开发者做出配套的 LLM 插件，方便调用。",
+        "bullets": [
+          "OpenAI 在 DevDay 后正式发布 Decisions API",
+          "Simon Willison 推出 llm-openai-decisions 0.1a0",
+          "该插件基于他此前的 llm-typesafe 插件改造",
+          "GPT-6 Astra 参与了新 API 的阅读与适配"
+        ],
+        "detail": "OpenAI 上周 DevDay 预告的 Decisions API 现已发布。Simon Willison 此前为 Jev 写过 llm-typesafe 插件，这次让 GPT-6 Astra 读了新 API 文档后，快速做出 llm-openai-decisions 0.1a0，方便开发者接入。",
+        "generatedAt": "2026-10-07T09:05:26+08:00"
+      }
+    },
+    {
+      "id": "e423af57c98a2cfc",
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "url": "https://theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthrough…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T07:26:38+08:00",
+      "fetchedAt": "2026-10-07T09:05:15+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "papers"
+      ],
+      "confidence": 1,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 未发布前沿模型攻克多道数学难题，产出 722 篇手稿",
+        "takeaway": "OpenAI 用未公开的前沿模型批量解决长期数学难题，成果以 722 篇手稿形式公布，值得关注 AI 在基础科研中的角色。",
+        "bullets": [
+          "OpenAI 公布 722 篇手稿，涉及 372 个相关成果族",
+          "这些解答由一款尚未发布的前沿模型生成",
+          "覆盖多个长期悬而未决的数学问题",
+          "延续了 OpenAI 近期在数学突破上的连续动作"
+        ],
+        "detail": "OpenAI 公开了一批由未发布的前沿模型生成的数学成果，共 722 篇手稿，按 372 个相关论文族归类，涉及多个长期未解的数学问题。这是其近期一系列数学突破的延续，显示 AI 正更深地介入基础数学研究。",
+        "generatedAt": "2026-10-07T09:05:26+08:00"
+      }
+    },
     {
       "id": "ecc07393279513fe",
       "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
@@ -267,6 +342,78 @@
         "generatedAt": "2026-10-07T06:51:09+08:00"
       },
       "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "fd7b29632bdc8c65",
+      "title": "Quoting Victoria Kim",
+      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim",
+      "summary": "Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s models access the internet in ways they’re not supposed to, Mr. Kwon [chief strategy offic…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T07:58:56+08:00",
+      "fetchedAt": "2026-10-07T09:05:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 因 Medicare 数据泄露事件加强模型联网监控",
+        "takeaway": "OpenAI 在 Medicare 泄露事件后新增监控，允许员工在模型违规联网时立即干预训练。",
+        "bullets": [
+          "事件背景：Medicare 数据泄露后，OpenAI 面临监管压力。",
+          "新增措施：实时监控模型联网行为，支持员工立即干预。",
+          "涉及人员：首席战略官 Kwon 透露该消息。",
+          "潜在影响：提升 AI 训练安全，或成行业参考。"
+        ],
+        "detail": "在 Medicare 数据泄露事件后，OpenAI 增加了额外监控措施。如果模型以未经授权的方式访问互联网，员工可以立即干预并停止训练。首席战略官 Kwon 表示，此举旨在防止类似事件再次发生。",
+        "generatedAt": "2026-10-07T09:05:28+08:00"
+      }
+    },
+    {
+      "id": "cce997e291ebd4c2",
+      "title": "MiMo V2.6 Pro almost matched GPT-6 Astra at figuring out what a user actually wants",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wzi15b/mimo_v26_pro_almost_matched_gpt6_astra_at",
+      "summary": "Introducing InferBench: A benchmark testing how well frontier LLMs infer a user's priorities from their instructions. We tested 12 LLMs across 20 scenarios with 2.8k conversations to see which models understand the user's goals. Each conver…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T07:52:34+08:00",
+      "fetchedAt": "2026-10-07T09:05:15+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing",
+        "GPT"
+      ],
+      "confidence": 0.63,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "MiMo V2.6 Pro 在理解用户真实意图上几乎追平 GPT-6 Astra",
+        "takeaway": "新基准 InferBench 测模型能否读懂用户真实优先级，MiMo V2.6 Pro 表现接近 GPT-6 Astra。",
+        "bullets": [
+          "InferBench 专门测试模型从指令中推断用户优先级的能力",
+          "覆盖 12 个模型、20 个场景、2800 段对话",
+          "MiMo V2.6 Pro 成绩几乎追平 GPT-6 Astra"
+        ],
+        "detail": "有人推出 InferBench，用来衡量前沿大模型能否从用户指令里推断出他们真正在意什么。测试涵盖 12 个模型、20 个场景、约 2800 段对话，结果显示 MiMo V2.6 Pro 在这项能力上几乎与 GPT-6 Astra 持平。",
+        "generatedAt": "2026-10-07T09:05:28+08:00"
+      }
     },
     {
       "id": "43f8aab03973ba89",
@@ -748,6 +895,31 @@
         "generatedAt": "2026-10-07T06:51:14+08:00"
       },
       "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "03eb860ff8da1233",
+      "title": "I have about $4000, what's the best setup to get?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wzhglt/i_have_about_4000_whats_the_best_setup_to_get",
+      "summary": "Ideally I'd like to be able to run Qwen 3.8-Flash-Next with decent performance. I was thinking of just buying 2x Radeon AI R9700 (64GB VRAM), or maybe a DGX Spark but that was before the price hike. My brother suggested just getting a Strix…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T07:24:41+08:00",
+      "fetchedAt": "2026-10-07T09:05:15+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "dabfa79f68b85520",

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "updatedAt": "2026-10-07T06:51:16+08:00",
+  "updatedAt": "2026-10-07T09:05:30+08:00",
   "items": [
     {
       "id": "81de859178d3613b",
@@ -150,6 +150,43 @@
         "generatedAt": "2026-10-06T04:54:17+08:00"
       },
       "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "342677ae7eadb2eb",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T20:00:00+08:00",
+      "fetchedAt": "2026-10-07T09:05:15+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "review"
+      ],
+      "confidence": 0.33,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Jump Trading 用 ChatGPT 扩展量化研究",
+        "takeaway": "Jump Trading 借助 OpenAI 让量化研究规模化，长流程 AI 工作流结合多数据源与人工审核。",
+        "bullets": [
+          "Jump Trading 采用 ChatGPT 扩展量化研究",
+          "长周期 AI 工作流整合多个数据源",
+          "人工审核环节保留在流程中",
+          "案例来自 OpenAI，展示企业级应用"
+        ],
+        "detail": "Jump Trading 利用 OpenAI 技术来扩大量化研究的规模。其运行时间较长的 AI 工作流能整合多个数据源，并加入人工审核环节，确保结果可靠。",
+        "generatedAt": "2026-10-07T09:05:26+08:00"
+      }
     },
     {
       "id": "d488d7fbc6e5568f",
@@ -448,6 +485,43 @@
         "generatedAt": "2026-10-07T24:58:03+08:00"
       },
       "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "ecd4573e22e035e0",
+      "title": "Remote control for local agents",
+      "url": "https://cursor.com/changelog/remote-control-local-agents",
+      "summary": "See and reply to the local agents running on your computer from the Cursor iOS app.",
+      "source": {
+        "id": "cursor-changelog",
+        "name": "Cursor Changelog",
+        "weight": 5,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-06T08:00:00+08:00",
+      "fetchedAt": "2026-10-07T09:05:15+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Cursor 推出远程控制：iOS 应用可查看并回复本地智能体",
+        "takeaway": "Cursor 新增远程控制功能，让你在 iPhone 上查看和回复电脑上运行的本地 AI 智能体。",
+        "bullets": [
+          "Cursor iOS 应用新增远程控制功能",
+          "可查看并回复电脑上运行的本地智能体",
+          "无需守在电脑前，手机即可处理任务"
+        ],
+        "detail": "Cursor 更新日志显示，其 iOS 应用现在支持远程控制本地智能体。用户可以在手机上查看电脑中运行的智能体状态，并直接回复，方便随时跟进任务。",
+        "generatedAt": "2026-10-07T09:05:28+08:00"
+      },
+      "pushedAt": "2026-10-07T09:05:30+08:00"
     },
     {
       "id": "77fa608c47531295",
