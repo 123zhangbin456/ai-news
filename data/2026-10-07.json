@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "updatedAt": "2026-10-07T09:05:28+08:00",
+  "updatedAt": "2026-10-07T10:07:20+08:00",
   "items": [
     {
       "id": "38f8cbc7334120ae",
@@ -895,6 +895,76 @@
         "generatedAt": "2026-10-07T06:51:14+08:00"
       },
       "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "785a8afc6019a404",
+      "title": "MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
+      "url": "https://infoq.cn/article/MwQyLYzgSiD16x36k9Ef",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T18:00:00+08:00",
+      "fetchedAt": "2026-10-07T10:07:12+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "应用"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "MCP 实现无状态化，状态管理责任转交应用层",
+        "takeaway": "MCP 协议不再维护状态，开发者需自行处理会话与上下文，架构更灵活但责任更重。",
+        "bullets": [
+          "MCP 协议从有状态改为无状态设计",
+          "状态管理被转移给上层应用处理",
+          "开发者需自行实现会话与上下文逻辑"
+        ],
+        "detail": "MCP 协议近期完成无状态化改造，协议本身不再保存交互状态。但这不意味着状态消失，而是把状态管理的责任交给了应用层。开发者需要自己处理会话保持和上下文传递，架构更灵活，但实现成本也相应增加。",
+        "generatedAt": "2026-10-07T10:07:20+08:00"
+      }
+    },
+    {
+      "id": "75e57a32ad2a4686",
+      "title": "用 Harness 工程打造 SRE 可控的生产环境｜QCon上海",
+      "url": "https://infoq.cn/article/WvTYmUCLl28HKFvWHpZ2",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T18:00:00+08:00",
+      "fetchedAt": "2026-10-07T10:07:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "QCon上海：用 Harness 工程打造 SRE 可控生产环境",
+        "takeaway": "InfoQ 中国推荐 QCon 上海一场分享，讲如何用 Harness 工程让 SRE 对生产环境更可控。",
+        "bullets": [
+          "主题是 Harness 工程与 SRE 生产环境管控",
+          "来源为 InfoQ 中国，属 QCon 上海内容",
+          "面向关注 SRE 与工程实践的开发者"
+        ],
+        "detail": "这是 InfoQ 中国发布的一条 QCon 上海内容，主题围绕用 Harness 工程打造 SRE 可控的生产环境。摘要未提供更多细节，具体方法与实践需查看原文。",
+        "generatedAt": "2026-10-07T10:07:20+08:00"
+      }
     },
     {
       "id": "03eb860ff8da1233",
