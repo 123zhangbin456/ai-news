@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "updatedAt": "2026-10-07T10:07:20+08:00",
+  "updatedAt": "2026-10-07T10:46:24+08:00",
   "items": [
     {
       "id": "38f8cbc7334120ae",
@@ -149,6 +149,42 @@
         "generatedAt": "2026-10-07T24:58:02+08:00"
       },
       "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "e2bcdcd719d4e290",
+      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "url": "https://qbitai.com/2026/10/501749.html",
+      "summary": "三位菲尔兹奖得主：不代表认可",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T09:05:13+08:00",
+      "fetchedAt": "2026-10-07T10:46:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "论文"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI一夜发布722篇数学论文，菲尔兹奖得主称不代表认可",
+        "takeaway": "OpenAI用AI批量生成数学论文，数量惊人但三位菲尔兹奖得主明确表示这不代表学术认可。",
+        "bullets": [
+          "OpenAI一次性发布722篇数学论文，覆盖黎曼猜想、霍奇猜想、BSD猜想等难题。",
+          "三位菲尔兹奖得主回应：论文数量多不代表质量或认可。",
+          "数学家普遍表示读不过来，引发对AI生成学术内容质量的讨论。"
+        ],
+        "detail": "OpenAI突然放出722篇数学论文，涉及黎曼、霍奇、BSD等顶级猜想。三位菲尔兹奖得主对此回应称，这并不代表他们认可这些论文。数学家们则感叹论文太多根本读不完，事件引发对AI批量生产学术内容是否可靠的质疑。",
+        "generatedAt": "2026-10-07T10:46:24+08:00"
+      }
     },
     {
       "id": "cd24bf90e04501f2",
@@ -897,6 +933,42 @@
       "pushedAt": "2026-10-07T06:51:16+08:00"
     },
     {
+      "id": "729a1a1d63d146a4",
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://zohaib.cc/blog/smartest-claude-code-feature",
+      "summary": "Article URL: https://www.zohaib.cc/blog/smartest-claude-code-feature Comments URL: https://news.ycombinator.com/item?id=49981905 Points: 110 # Comments: 59",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T02:00:34+08:00",
+      "fetchedAt": "2026-10-07T10:46:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Code 的「建议消息」功能：真正的用户其实是模型",
+        "takeaway": "一篇 Hacker News 热文认为，Claude Code 的提示建议功能表面服务开发者，实则是在为模型收集训练信号。",
+        "bullets": [
+          "作者称 Claude Code 最聪明的功能是自动建议下一条消息",
+          "观点认为该功能真正受益方是模型本身，而非开发者",
+          "HN 上引发 110 分、59 条评论的讨论"
+        ],
+        "detail": "文章聚焦 Claude Code 的「建议消息」功能：它会主动提示用户接下来可以输入什么。作者提出一个反直觉看法——这个功能看似方便开发者，实际是在引导用户产出更规范、更利于模型学习的交互数据。讨论在 Hacker News 上获得不少关注。",
+        "generatedAt": "2026-10-07T10:46:24+08:00"
+      }
+    },
+    {
       "id": "785a8afc6019a404",
       "title": "MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
       "url": "https://infoq.cn/article/MwQyLYzgSiD16x36k9Ef",
@@ -1042,6 +1114,29 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-10-07T06:51:16+08:00"
+    },
+    {
+      "id": "6bd7e6778bc58a09",
+      "title": "Are Tesla K80s any good for inference?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wzicfs/are_tesla_k80s_any_good_for_inference",
+      "summary": "I'm seeing these show up on eBay for $50-$60. wouldn't expect anything ground breaking from it, but at that price, it seems like it could be interesting to play with on an extra pcie port. just curious if anyone's already done that submitte…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T08:06:37+08:00",
+      "fetchedAt": "2026-10-07T10:46:16+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
