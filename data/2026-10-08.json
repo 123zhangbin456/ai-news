@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "updatedAt": "2026-10-08T11:04:27+08:00",
+  "updatedAt": "2026-10-08T18:46:31+08:00",
   "items": [
     {
       "id": "9330f10ae0c6b6bd",
@@ -41,6 +41,44 @@
         "generatedAt": "2026-10-08T10:33:20+08:00"
       },
       "pushedAt": "2026-10-08T10:33:26+08:00"
+    },
+    {
+      "id": "da07c0670d047f32",
+      "title": "Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x0n4pt/last_week_some_of_south_koreas_biggest_banks_were",
+      "summary": "CrowdStrike report: https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/ From: Andrew Curran on 𝕏: https://x.com/AndrewCurran_/status/2108108695876092323 Jukan ✈️OCP 2026 on 𝕏: https://x.c…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T18:11:02+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 0.2,
+      "score": 67,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "韩国多家大型银行遭黑客攻击，或为一人用开源AI工具所为",
+        "takeaway": "CrowdStrike 披露，一名攻击者疑似借助开源AI渗透工具与多款大模型，单枪匹马攻入韩国多家大型银行。",
+        "bullets": [
+          "攻击者据称使用了开源AI渗透工具 ARTEX",
+          "同时调用 DeepSeek、GLM、Grok、Claude Code 等多款模型",
+          "CrowdStrike 报告称幕后可能仅一人，身份未知",
+          "事件涉及韩国多家大型银行，引发金融安全担忧"
+        ],
+        "detail": "CrowdStrike 报告指出，上周韩国多家大型银行遭遇网络攻击，幕后可能只有一名身份不明的攻击者。他组合使用了开源AI渗透工具 ARTEX，以及 DeepSeek v4.1-Flash、GLM-5.3、Grok 4.6 和 Claude Code 等模型。",
+        "generatedAt": "2026-10-08T18:46:17+08:00"
+      },
+      "pushedAt": "2026-10-08T18:46:31+08:00"
     },
     {
       "id": "5ca9c0ebb6f5947b",
@@ -379,6 +417,42 @@
       }
     },
     {
+      "id": "9ccd2c97d2944072",
+      "title": "吉利智充技术正式发布，重塑全球补能新标杆",
+      "url": "https://qbitai.com/2026/10/501956.html",
+      "summary": "2027年底实现“县县通”",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T17:10:55+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "吉利智充技术发布：2027年底实现“县县通”",
+        "takeaway": "吉利发布智充技术，目标2027年底充电网络覆盖全国各县，重塑补能标杆。",
+        "bullets": [
+          "吉利正式发布智充技术，定位全球补能新标杆。",
+          "目标2027年底实现“县县通”，覆盖全国县级区域。",
+          "此举将提升电动汽车充电便利性，影响行业竞争。"
+        ],
+        "detail": "吉利宣布推出智充技术，旨在打造全球领先的补能体系。其核心目标是到2027年底实现“县县通”，即充电服务覆盖全国所有县级地区，解决电动车充电难题。",
+        "generatedAt": "2026-10-08T18:46:16+08:00"
+      }
+    },
+    {
       "id": "4a32ff51ed082ec8",
       "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
       "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface",
@@ -412,6 +486,41 @@
         ],
         "detail": "OpenAI 正在为 ChatGPT 推出全新的用户界面，将交互式视觉元素引入聊天体验。这意味着 ChatGPT 不再局限于纯文字对话，用户有望通过更直观的视觉方式与 AI 互动。",
         "generatedAt": "2026-10-08T03:09:17+08:00"
+      }
+    },
+    {
+      "id": "c0fb4761937f5216",
+      "title": "OpenAI 针对欧洲用户在 ChatGPT 和 Codex 嵌入水印",
+      "url": "https://solidot.org/story?sid=85544",
+      "summary": "OpenAI 正在 ChatGPT 和 Codex 中嵌入机器可读的水印技术 textGrain，该水印最初将主要针对欧盟地区的用户。OpenAI 称其水印技术不逊色甚至优于其它水印方案如 Google DeepMind 的 SynthID，OpenAI 竞争对手 Anthropic 已在 8 月宣布了基于 SynthID 的水印技术，此举是为了遵守欧盟的新法律 AI Act。OpenAI 还表示，嵌入水印的文本生成性能与未嵌入水印时的性能相当。",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T14:54:49+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 在 ChatGPT 和 Codex 中为欧洲用户嵌入水印",
+        "takeaway": "OpenAI 为遵守欧盟 AI Act，在 ChatGPT 和 Codex 中嵌入 textGrain 水印，主要面向欧盟用户。",
+        "bullets": [
+          "水印技术名为 textGrain，机器可读，初期主要针对欧盟用户",
+          "OpenAI 称其水印不逊于甚至优于 Google DeepMind 的 SynthID",
+          "竞争对手 Anthropic 已于 8 月宣布基于 SynthID 的水印方案",
+          "嵌入水印后文本生成性能与未嵌入时相当"
+        ],
+        "detail": "OpenAI 正在 ChatGPT 和 Codex 中嵌入名为 textGrain 的机器可读水印，初期主要面向欧盟用户。此举是为遵守欧盟新法律 AI Act，其竞争对手 Anthropic 已在 8 月宣布了基于 Google DeepMind SynthID 的水印技术。OpenAI 表示，嵌入水印后的文本生成性能",
+        "generatedAt": "2026-10-08T18:46:16+08:00"
       }
     },
     {
@@ -529,6 +638,43 @@
       }
     },
     {
+      "id": "65639e2b5e912dc7",
+      "title": "GPT-6 全球推送，聊天回答里长出了计算器和地图",
+      "url": "https://oschina.net/news/502890/openai-gpt-6-for-everyone",
+      "summary": "OpenAI 这次是把 GPT-6 推给了所有人。10 月 7 日起，Plus、Pro、Business、Enterprise 用户陆续用上 GPT-6 Sol；10 月 8 日，Free 和 Go 用户也拿到 GPT-6 Luna。和模型一起上线的，是一套叫 Intelligent UI 的新界面——ChatGPT 的回答不再只是连续文字，而是会冒出可点击的按钮、表单、图表、内嵌地图，甚至计算器这类...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T15:29:16+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "上线",
+        "GPT"
+      ],
+      "confidence": 0.67,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GPT-6 全球推送，ChatGPT 回答里长出计算器和地图",
+        "takeaway": "OpenAI 向所有用户推送 GPT-6，并上线 Intelligent UI，让回答从纯文字变成可交互组件。",
+        "bullets": [
+          "10 月 7 日起 Plus、Pro、Business、Enterprise 先用 GPT-6 Sol",
+          "10 月 8 日 Free 和 Go 用户获得 GPT-6 Luna",
+          "同步上线 Intelligent UI，回答可含按钮、表单、图表、地图、计算器"
+        ],
+        "detail": "OpenAI 这次把 GPT-6 推给了全部用户，付费用户先一天用上 Sol 版本，免费和 Go 用户次日拿到 Luna 版本。与模型一同上线的 Intelligent UI 改变了 ChatGPT 的回答形态：不再只是连续文字，而是会直接嵌入可点击的按钮、表单、图表、内嵌地图甚至计算器。",
+        "generatedAt": "2026-10-08T18:46:18+08:00"
+      }
+    },
+    {
       "id": "92be971aec513c1f",
       "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
       "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users",
@@ -600,6 +746,43 @@
         ],
         "detail": "据 Hacker News 报道，Meta 和微软正在限制员工使用 Anthropic 的 Claude AI。两家公司可能希望推动员工转向自家 AI 产品，或出于数据安全与合规考虑。该消息引发广泛讨论，凸显企业 AI 工具间的竞争。",
         "generatedAt": "2026-10-08T08:38:09+08:00"
+      }
+    },
+    {
+      "id": "eff2834ce0ce2ff5",
+      "title": "Claude Haiku 5.5 来了：价格砍到四分之一，agent 能力从 0 跳到 39%",
+      "url": "https://oschina.net/news/502894/anthropic-claude-haiku-5-5",
+      "summary": "Anthropic 拿出了目前最快的小模型，同时一口气砍了两刀价格。10 月 7 日发布的 Claude Haiku 5.5 是 Haiku 系列第一个支持可调节 effort 设置的型号，用户可以根据场景在速度和智能之间做取舍。价格直接跌到 Haiku 4.5 的约四分之一——输入每百万 token 0.10 美元、输出 0.50 美元（不超过 10 万 token 的提示），缓存...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T16:54:45+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Haiku 5.5 发布：价格降至四分之一，agent 能力跃升至 39%",
+        "takeaway": "Anthropic 推出最快小模型 Haiku 5.5，价格大降且 agent 能力从 0 提升到 39%，值得关注。",
+        "bullets": [
+          "10 月 7 日发布，Haiku 系列首个支持可调节 effort 设置。",
+          "价格约为 Haiku 4.5 的四分之一，输入 0.10 美元/百万 token。",
+          "agent 能力从 0 跳到 39%，用户可平衡速度与智能。"
+        ],
+        "detail": "Anthropic 于 10 月 7 日发布 Claude Haiku 5.5，这是目前最快的小模型，也是 Haiku 系列首个支持可调节 effort 设置的型号。价格大幅下降，输入每百万 token 0.10 美元、输出 0.50 美元（提示不超过 10 万 token），约为 Haiku 4.5 的四分之一。其 ",
+        "generatedAt": "2026-10-08T18:46:18+08:00"
       }
     },
     {
@@ -860,6 +1043,124 @@
       }
     },
     {
+      "id": "89406c38e05be75e",
+      "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
+      "url": "https://qbitai.com/2026/10/501995.html",
+      "summary": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T17:28:44+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "论文",
+        "基准"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ChatGPT能解千禧难题，但论文复现率仅13.98%",
+        "takeaway": "AI科研能力被高估：能破解难题却难复现论文，新基准PaperBenchX或成更真实标尺。",
+        "bullets": [
+          "ChatGPT可破解千禧数学难题，但论文复现率低至13.98%",
+          "现有评估可能高估AI科研实力，PaperBenchX基准应运而生",
+          "该基准旨在更全面衡量AI的科研复现与创新能力"
+        ],
+        "detail": "量子位报道，ChatGPT虽能破解千禧数学难题，但论文复现率仅13.98%，说明其科研能力被高估。以PaperBenchX为代表的基准，或许能更真实地衡量AI的科研实力。",
+        "generatedAt": "2026-10-08T18:46:18+08:00"
+      }
+    },
+    {
+      "id": "7cef4de37904a9e3",
+      "title": "Manus 新一轮融资超 5 亿美元，成为中国估值最高的 AI Agent 公司",
+      "url": "https://oschina.net/news/502893/manus-raises-more-than-500-million-after-meta-exit",
+      "summary": "Manus 在离开 Meta 之后，拿到了它的第一笔融资：超过 5 亿美元。母公司 Butterfly Effect 星期四宣布，这轮由私募股权机构博裕资本和风投 IDG Capital 联合领投，腾讯、HSG（红杉中国）、真格基金等老股东跟投。公司没有披露投后估值——但彭博上月已经报道，这轮估值将翻倍到 40 亿美元，让 Manus 成为中国估值最高的 ...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T15:53:24+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "轮融资",
+        "估值",
+        "亿美元",
+        "领投",
+        "股权"
+      ],
+      "confidence": 1,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Manus 融资超 5 亿美元，成中国估值最高 AI Agent 公司",
+        "takeaway": "Manus 母公司完成超 5 亿美元融资，估值或达 40 亿美元，成国内 AI Agent 赛道估值最高公司。",
+        "bullets": [
+          "博裕资本与 IDG Capital 联合领投，腾讯、红杉中国、真格基金跟投",
+          "公司未披露投后估值，彭博此前报道估值将翻倍至 40 亿美元",
+          "这是 Manus 离开 Meta 后的首笔融资，或成中国估值最高 AI Agent 公司"
+        ],
+        "detail": "Manus 母公司 Butterfly Effect 周四宣布完成超 5 亿美元融资，由博裕资本和 IDG Capital 联合领投，腾讯、红杉中国、真格基金等老股东跟投。公司未公布投后估值，但彭博上月报道称本轮估值将翻倍至 40 亿美元，使其成为中国估值最高的 AI Agent 公司。这也是 Manus 离开 Met",
+        "generatedAt": "2026-10-08T18:46:19+08:00"
+      }
+    },
+    {
+      "id": "e2eb147f23e166d9",
+      "title": "Mistral Large 4 来了：一万亿参数、具备原生多模态能力",
+      "url": "https://oschina.net/news/502872/mistral-large-4",
+      "summary": "Mistral 发布了他们史上最大的模型。不是迭代，是直接从零训的：1 万亿参数、520 亿稀疏激活的原生多模态模型，代号 Le Chonk（法语昵称，直译大概就是「胖墩」），正式名字 Mistral Large 4。公开预览即日起在 Mistral Studio 上线，权重月底发布。参数堆叠不是最有意思的部分。最有意思的是它在安全测试里的表现。Art...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T11:56:07+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "上线",
+        "多模态",
+        "Mistral"
+      ],
+      "confidence": 0.77,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Mistral 发布万亿参数原生多模态模型 Large 4",
+        "takeaway": "Mistral 史上最大模型从零训练，1 万亿参数、原生多模态，预览已上线，权重月底发布。",
+        "bullets": [
+          "1 万亿参数、520 亿稀疏激活，代号 Le Chonk",
+          "从零训练而非迭代，原生多模态能力",
+          "公开预览已上线 Mistral Studio，权重月底发布",
+          "安全测试表现被官方视为最大亮点"
+        ],
+        "detail": "Mistral 推出史上最大模型 Mistral Large 4，代号 Le Chonk，1 万亿参数、520 亿稀疏激活，是原生多模态模型，且从零训练而非迭代。公开预览已在 Mistral Studio 上线，权重月底发布。官方称安全测试表现比参数规模更值得关注。",
+        "generatedAt": "2026-10-08T18:46:19+08:00"
+      }
+    },
+    {
       "id": "35be1f37933475a1",
       "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
       "url": "https://theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
@@ -896,6 +1197,83 @@
       }
     },
     {
+      "id": "e701481e4c0a9c06",
+      "title": "浪子回头！Manus重启北京办公室大举招聘",
+      "url": "https://qbitai.com/2026/10/502009.html",
+      "summary": "开始和国产Agent抢人，还拿到5亿美元新融资",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T17:30:17+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "亿美元"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Manus重启北京办公室大举招聘，并获5亿美元新融资",
+        "takeaway": "Manus回归北京扩张团队，同时拿到5亿美元融资，将加剧国产Agent人才争夺。",
+        "bullets": [
+          "Manus重启北京办公室，开始大举招聘",
+          "同时获得5亿美元新融资",
+          "此举将和国产Agent抢人，影响行业人才格局"
+        ],
+        "detail": "Manus重新启动北京办公室并大规模招聘，同时拿到了5亿美元新融资。这意味着它要开始和国内AI Agent公司争夺人才，行业竞争可能进一步升温。",
+        "generatedAt": "2026-10-08T18:46:20+08:00"
+      }
+    },
+    {
+      "id": "0a5aec42c600db95",
+      "title": "独家丨前腾讯混元技术骨干胡瀚创业新进展：目标估值数亿美金",
+      "url": "https://leiphone.com/category/ai/rMAfd0hlFnaS8F3t.html",
+      "summary": "据雷峰网多方获悉，腾讯混元原视觉大模型算法中心负责人胡瀚创业项目已取得新进展：方向仍聚焦多模态，计划融资数千万美元，目标估值达数亿美金，远识资本担任本轮融资 FA。多位了解该项目的投资人告诉雷峰网，过去一个月，已有多家投资机构与胡瀚接触。商业化是机构与胡瀚沟通时反复追问的问题。大模型创业的融资窗口已不如前两年，仅凭技术团队和模型能力，越来越难打动投资人。在未来商业化上，胡瀚给出的答案也与多数创业团队不同，据一些投资人转述，他认为其模型未来可以出售给大型科技公司，例如DeepS…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T15:26:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "轮融资",
+        "估值",
+        "投资"
+      ],
+      "confidence": 0.9,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "前腾讯混元视觉负责人胡瀚创业，目标估值数亿美金",
+        "takeaway": "前腾讯混元技术骨干胡瀚创业聚焦多模态，计划融资数千万美元，目标估值数亿美金。",
+        "bullets": [
+          "胡瀚为腾讯混元原视觉大模型算法中心负责人",
+          "新项目仍聚焦多模态，计划融资数千万美元",
+          "目标估值数亿美金，远识资本担任FA",
+          "商业化路径或向大型科技公司出售模型"
+        ],
+        "detail": "前腾讯混元视觉大模型负责人胡瀚的创业项目有新进展，方向仍是多模态，计划融资数千万美元，目标估值数亿美金，远识资本任FA。过去一个月已有多家机构接触，商业化是投资人反复追问的重点。",
+        "generatedAt": "2026-10-08T18:46:21+08:00"
+      }
+    },
+    {
       "id": "1d78f09c640d45a5",
       "title": "Claude Haiku 5.5",
       "url": "https://anthropic.com/claude-haiku-5-5",
@@ -929,6 +1307,117 @@
         ],
         "detail": "Anthropic 上线了 Claude Haiku 5.5，这是其轻量级模型系列的最新版本。该消息在 Hacker News 上引发关注，目前获得 231 分和 96 条评论。官方页面已放出，但摘要未披露具体参数与定价细节。",
         "generatedAt": "2026-10-08T03:09:23+08:00"
+      }
+    },
+    {
+      "id": "2301f6ae5ab89573",
+      "title": "OpenAI刚把多Agent做成产品，o1奠基人却说：1万个Agent解出世界级难题，多Agent贡献不到10%",
+      "url": "https://infoq.cn/article/3MSU3CcJuh0XjHDyjhXj",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T22:11:21+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "产品"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 多 Agent 产品刚落地，o1 奠基人泼冷水：贡献不到 10%",
+        "takeaway": "OpenAI 推出多 Agent 产品之际，o1 核心作者质疑多 Agent 协作对解决世界级难题的实际贡献不足一成。",
+        "bullets": [
+          "OpenAI 将多 Agent 能力做成产品，正式对外落地",
+          "o1 奠基人指出：1 万个 Agent 解题，多 Agent 贡献不到 10%",
+          "观点与产品方向形成反差，引发对多 Agent 价值的讨论"
+        ],
+        "detail": "OpenAI 刚把多 Agent 协作做成产品推向市场，但 o1 的奠基人却公开表示，在动用 1 万个 Agent 解决世界级难题时，多 Agent 带来的贡献不到 10%。这一说法与当前多 Agent 热潮形成鲜明对比，也让外界重新审视多 Agent 架构的真实增益。",
+        "generatedAt": "2026-10-08T18:46:21+08:00"
+      }
+    },
+    {
+      "id": "6f77fb63c16e31b0",
+      "title": "2万亿美元估值靠什么撑？Anthropic 核心技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停",
+      "url": "https://infoq.cn/article/dS754RhjExrwFP6tWD9d",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T22:10:29+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "估值",
+        "亿美元"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停",
+        "takeaway": "Anthropic 核心技术人员谈 2 万亿美元估值支撑逻辑，并警告蒸馏技术正在侵蚀前沿研发根基。",
+        "bullets": [
+          "Anthropic 核心技术负责人回应 2 万亿美元估值靠什么支撑",
+          "警告蒸馏会毁掉前沿研发，削弱原创模型能力",
+          "判断中美 AI 竞赛不会出现单边暂停"
+        ],
+        "detail": "InfoQ 中国报道，Anthropic 核心技术负责人就 2 万亿美元估值背后的技术逻辑发声。他警告，蒸馏做法会损害前沿研发能力，并认为中美 AI 竞赛不会单方面暂停。",
+        "generatedAt": "2026-10-08T18:46:21+08:00"
+      }
+    },
+    {
+      "id": "24e2811d9cc59cf0",
+      "title": "华为已为KV Cache单独做存储，专用SSD规格却还没定下来",
+      "url": "https://leiphone.com/category/chips/JidbQuKCNUBEEV6Z.html",
+      "summary": "推理的KV Cache，已经大到需要单独管理了。这已经成为行业内越来越明确的共识。近日，华为全联接大会上推出了华为OceanStor M900，英伟达也已经推出了CMX Context Memory Storage。这类AI记忆存储产品，会将推理过程中已经产生、可能再次复用的KV Cache进行分层管理和存储，在后续请求命中时减少相应的重复计算，这将直接节省有关算力开销。有业者明确表示，即使缓存的命中率越来越高，继续从90%向95%提升依然很有价值。但是，对于存储价格“比金子…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T11:55:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力",
+        "英伟达"
+      ],
+      "confidence": 0.63,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "华为为KV Cache单独做存储，专用SSD规格仍未敲定",
+        "takeaway": "推理中的KV Cache已大到需独立存储管理，华为、英伟达相继推出专用产品，但SSD标准尚未统一。",
+        "bullets": [
+          "华为在2025全联接大会推出OceanStor M900，专用于KV Cache分层存储",
+          "英伟达此前已发布CMX Context Memory Storage，思路类似",
+          "缓存命中率从90%提升到95%仍有价值，可节省算力开销",
+          "专用SSD规格尚未确定，存储成本仍是待解问题"
+        ],
+        "detail": "推理产生的KV Cache规模已大到需要单独管理，成为行业共识。华为推出OceanStor M900，英伟达也有CMX Context Memory Storage，这类产品对KV Cache分层存储，命中后可减少重复计算、节省算力。但专用SSD规格还没定，存储价格也是难题。",
+        "generatedAt": "2026-10-08T18:46:22+08:00"
       }
     },
     {
@@ -969,6 +1458,80 @@
       }
     },
     {
+      "id": "82c3faf2fef107a4",
+      "title": "从「工具」到「智能体」：CARES 4.0在港发布，刘宏斌谈医疗AI如何走进临床",
+      "url": "https://leiphone.com/category/aihealth/93E68V91AW9aHtDb.html",
+      "summary": "近日，由中国科学院香港创新研究院人工智能与机器人创新中心（CAIR）主办、香港科技园公司协办的第四届香港具身智能医疗科技论坛（The 4th Hong Kong Clinical-driven Robotics and Embodied AI TEchnology Symposium，CREATE Symposium），于香港科学园高锟会议中心隆重举办。作为衔接临床医学与前沿科技的重要国际交流平台，本届论坛以 “医疗 AI 商业化之路” 为主题，汇聚专家学者、医院管理者、权威…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T11:18:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0.67,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "CARES 4.0 在港发布：医疗 AI 从工具迈向智能体",
+        "takeaway": "中科院香港团队发布 CARES 4.0，医疗 AI 从辅助工具升级为智能体，加速走进临床。",
+        "bullets": [
+          "第四届香港具身智能医疗科技论坛在港举办，主题为医疗 AI 商业化",
+          "中科院香港创新研究院 CAIR 发布 CARES 4.0",
+          "刘宏斌分享医疗 AI 如何真正落地临床",
+          "论坛汇聚专家、医院管理者等产学研多方"
+        ],
+        "detail": "第四届香港具身智能医疗科技论坛近日在香港科学园举行，由中科院香港创新研究院 CAIR 主办、香港科技园协办，聚焦医疗 AI 商业化。会上发布了 CARES 4.0，定位从「工具」升级为「智能体」，刘宏斌就医疗 AI 如何走进临床分享观点。",
+        "generatedAt": "2026-10-08T18:46:23+08:00"
+      }
+    },
+    {
+      "id": "159366c98e754db0",
+      "title": "ggml-cuda: assign four GDN state columns per warp by SongXiaoXi · Pull Request #30087 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x0m3ff/ggmlcuda_assign_four_gdn_state_columns_per_warp",
+      "summary": "Another day, another Qwen 3.x speedup (prompt processing this time). Soon your Qwen will read your entire project before you can blink! test master t/s PR t/s change pp512 3075.24 3243.60 +5.5% pp4096 3059.87 3221.08 +5.3% tg128 47.62 47.67…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T17:04:13+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 新 PR 为 Qwen 3.x 提速，提示处理最高提升 5.5%",
+        "takeaway": "llama.cpp 合并一项 CUDA 优化，Qwen 3.x 的提示处理速度提升约 5%，长上下文场景受益。",
+        "bullets": [
+          "PR #30087 调整 GDN 状态列分配，每个 warp 处理四列",
+          "pp512 提升 5.5%，pp4096 提升 5.3%，生成速度基本不变",
+          "由开发者 SongXiaoXi 提交，针对 Qwen 3.x 模型"
+        ],
+        "detail": "这是 llama.cpp 的一个 CUDA 内核优化，通过重新分配 GDN 状态列来提升并行效率。实测显示，Qwen 3.x 的提示处理（pp512/pp4096）分别快了 5.5% 和 5.3%，而文本生成速度几乎没变。对本地跑长上下文 Qwen 的用户来说，读入项目文件会更快。",
+        "generatedAt": "2026-10-08T18:46:23+08:00"
+      }
+    },
+    {
       "id": "6c73d2dcf7d016b0",
       "title": "两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造",
       "url": "https://infoq.cn/article/4AMw7Bt3UHqw48qmQTpS",
@@ -1000,6 +1563,79 @@
         ],
         "detail": "Perplexity 对托管数据库 DynamoDB 的账单和延迟都不满意，于是两名工程师用两个月时间、约 4 万行 Rust 代码自建了一套存储系统。这反映出 AI 公司为控制成本和性能，越来越倾向自研关键基础设施。",
         "generatedAt": "2026-10-08T10:08:21+08:00"
+      }
+    },
+    {
+      "id": "6bba3b51b99bee55",
+      "title": "苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+      "url": "https://infoq.cn/article/s2Rt9t0yqUFk6VYV33Mh",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T19:43:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "助手"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta AI 助手绕过苹果权限高墙",
+        "takeaway": "Meta AI 助手找到绕过苹果权限限制的方法，引发隐私与平台规则争议。",
+        "bullets": [
+          "Meta AI 助手被指绕过苹果权限限制",
+          "苹果对第三方应用访问用户数据设严格限制",
+          "事件引发对平台规则与隐私边界的讨论"
+        ],
+        "detail": "苹果对应用获取用户权限设有严格限制，但 Meta 的 AI 助手被指通过某种方式绕过了这道高墙。这一做法可能触及苹果的平台规则，也让外界关注 AI 助手在数据访问上的合规与隐私问题。",
+        "generatedAt": "2026-10-08T18:46:24+08:00"
+      }
+    },
+    {
+      "id": "57a24839da618885",
+      "title": "黑客利用 AI 攻击韩国银行",
+      "url": "https://solidot.org/story?sid=85546",
+      "summary": "韩国新韩银行、KB国民银行、韩亚银行等 7家金融企业遭遇黑客攻击，多处发现同一攻击者利用了开源渗透测试工具“ARTEX-自主渗透测试控制台”实施攻击的迹象。CrowdStrike 公布分析报告显示，嫌疑人可能为居住在广东的 26 岁人员。但这只是‌根据目前情况‌作出的推测，嫌疑人身份尚未确定。攻击者使用生成式 AI 编码工具 Claude Code 的过程中暴露了这条线索，即攻击者利用 Claude Code 制作包含其渗透测试成果的网络安全研究人员简历，在此过程中输入自己名…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T15:51:18+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.6,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黑客用AI工具攻击韩国7家银行，线索因Claude Code暴露",
+        "takeaway": "韩国多家银行遭同一攻击者入侵，其使用开源渗透工具与生成式AI编码工具，身份线索意外泄露。",
+        "bullets": [
+          "新韩、KB国民、韩亚等7家韩国金融企业遭黑客攻击",
+          "攻击者使用开源渗透测试工具ARTEX-自主渗透测试控制台",
+          "攻击者用Claude Code制作简历时暴露了身份线索",
+          "CrowdStrike推测嫌疑人为广东26岁人员，但尚未确认"
+        ],
+        "detail": "韩国7家银行遭同一黑客攻击，多处发现使用开源渗透工具ARTEX的痕迹。CrowdStrike报告称，攻击者在使用生成式AI编码工具Claude Code制作网络安全研究员简历时，输入了个人信息，从而暴露线索。嫌疑人推测为广东26岁人员，但身份尚未确定。",
+        "generatedAt": "2026-10-08T18:46:25+08:00"
       }
     },
     {
@@ -1143,6 +1779,148 @@
       }
     },
     {
+      "id": "c7f4b559a8fbb05c",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white wit…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T17:00:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "review"
+      ],
+      "confidence": 0.67,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "MIT科技评论：机器人AI突破短期内难改变生活",
+        "takeaway": "MIT科技评论与Aventine合作指出，人形机器人等AI突破离日常应用尚远，别期待很快改变生活。",
+        "bullets": [
+          "MIT科技评论与Aventine合作发布观点文章",
+          "文章认为机器人AI突破短期内不会改变生活",
+          "人形机器人等进展离日常应用仍有距离"
+        ],
+        "detail": "这篇文章由MIT科技评论与非营利研究基金会Aventine合作完成，后者专注于制作科技如何改变生活的内容。文章以人形机器人为例，指出尽管AI在机器人领域有突破，但短期内不会对普通人的生活产生实质影响。",
+        "generatedAt": "2026-10-08T18:46:25+08:00"
+      }
+    },
+    {
+      "id": "e09a47f5417a68b7",
+      "title": "Building a safer path to autonomous industrial AI",
+      "url": "https://technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai",
+      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industr…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T16:17:32+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "工业AI迈向自主化，安全落地成关键",
+        "takeaway": "工业AI正从预测分析走向自主执行，基础模型、物理AI与智能体推动复杂任务自动化，安全路径受关注。",
+        "bullets": [
+          "工业AI进入新阶段，从预测分析转向自主执行复杂任务",
+          "基础模型、物理AI和智能体AI是三大推动力",
+          "MIT Tech Review探讨如何安全实现工业自主AI"
+        ],
+        "detail": "工业AI正在进入新阶段。过去几十年主要做预测分析等专用应用，如今基础模型、物理AI和智能体AI的进步，让工厂等场景能自动化更复杂的任务。MIT Tech Review发文探讨如何安全地走向自主工业AI。",
+        "generatedAt": "2026-10-08T18:46:25+08:00"
+      }
+    },
+    {
+      "id": "845d2decab079ae1",
+      "title": "打不过就投降，保时捷裁员9000人，回归燃油车主线",
+      "url": "https://qbitai.com/2026/10/501930.html",
+      "summary": "管理岗砍掉四成，顶级车型涨价20%卖",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T15:10:24+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "裁员"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "保时捷裁员9000人回归燃油车，管理岗砍四成",
+        "takeaway": "保时捷电动化受挫，裁员9000人并回归燃油车主线，顶级车型涨价20%。",
+        "bullets": [
+          "保时捷宣布裁员9000人，管理岗位削减40%。",
+          "战略转向：放弃激进电动化，回归燃油车主线。",
+          "顶级车型涨价20%销售，以缓解财务压力。"
+        ],
+        "detail": "保时捷因电动化转型不利，决定裁员9000人，其中管理岗减少四成。同时调整战略，重新聚焦燃油车，并将顶级车型提价20%出售。",
+        "generatedAt": "2026-10-08T18:46:26+08:00"
+      }
+    },
+    {
+      "id": "4487ec5c907672a2",
+      "title": "云栖大会观察：阿里怎么打下一阶段模型战?",
+      "url": "https://leiphone.com/category/industrynews/SqijXlMpyTf0xSst.html",
+      "summary": "云栖大会，解开市场对阿里大模型的三个疑惑。作者丨胡敏编辑丨刘伟今年云栖大会，变化格外明显。参加过多年的人，打开主论坛议程就能感受到，和往年很不一样。在吴泳铭发言之后，第一个登台分享的是千问大语言模型负责人刘大一恒；紧随其后的是 ATH 技术副总裁郑波，他负责视听等多模态模型。接在两场模型演讲之后，是平头哥高慧，与阿里云 CTO 李飞飞。云栖大会，芯片和云当然重要，阿里对云的投入不会减少，芯片也依然是它绕不开的底牌。但重要的不止是芯片和云，现在站在市场聚光灯下的是 AI ，大家…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T15:20:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片"
+      ],
+      "confidence": 0.5,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "云栖大会观察：阿里大模型下一阶段怎么打",
+        "takeaway": "云栖大会议程变化显示，阿里正把大模型推向前台，回应市场对其模型战略的疑问。",
+        "bullets": [
+          "千问大模型负责人刘大一恒在吴泳铭之后首个登台",
+          "多模态、芯片与云负责人依次分享，模型成焦点",
+          "阿里对云和芯片的投入不减，但AI站上聚光灯下"
+        ],
+        "detail": "今年云栖大会议程与往年明显不同：吴泳铭发言后，先由千问大语言模型负责人刘大一恒登台，接着是多模态负责人郑波，之后才是平头哥和阿里云CTO。芯片和云仍是阿里底牌，但大模型已成为大会和市场关注的中心。",
+        "generatedAt": "2026-10-08T18:46:26+08:00"
+      }
+    },
+    {
       "id": "3b6a5086b3aec829",
       "title": "👍JeeSite V5.19.1 发布，重构上传组件、AI 识图/生图/统计、流程设计器、多项增强优化",
       "url": "https://oschina.net/news/502866",
@@ -1214,6 +1992,43 @@
         ],
         "detail": "此前非英文或简体中文用户使用 DeepSeek Harness 桌面应用时，每个设置项、报错和权限提示都得在脑中自行翻译，体验别扭。现在该应用加入 29 种界面语言，并以 MIT 协议开源，方便更多人直接用母语操作。",
         "generatedAt": "2026-10-08T10:08:22+08:00"
+      }
+    },
+    {
+      "id": "0be7d8f2a6e11199",
+      "title": "陶哲轩认为数学 2.0 时代应降低解决难题的核心地位",
+      "url": "https://solidot.org/story?sid=85545",
+      "summary": "OpenAI 公布了一份报告，称其一款尚未发布的前沿模型解决了数百个数学难题，其中之一是四维挂谷猜想，今年的菲尔茨奖得主王虹就是因为证明三维挂谷猜想而得奖。UCLA 数学家陶哲轩对此评论说，在传统数学的 1.0 时代，知名难题的证明通常会引发一系列后续的活动，证明作者会受邀参加演讲，与该领域的专家展开讨论，相关研讨会会组织起来去探讨该证明及最新进展。通过这些活动，证明过程被消化和精简，被置于该领域其他成果的背景下，最终成为下一代数学家的教科书和讲义内容。但 AI 模型的证明则…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T15:35:13+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0.33,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "陶哲轩：AI 解数学难题后，数学 2.0 应降低难题核心地位",
+        "takeaway": "OpenAI 称未发布模型解决数百数学难题，陶哲轩认为数学评价体系需调整。",
+        "bullets": [
+          "OpenAI 报告称未发布前沿模型解决数百个数学难题",
+          "其中包括四维挂谷猜想，与今年菲尔茨奖得主王虹工作相关",
+          "陶哲轩指出传统数学 1.0 的难题证明会引发后续学术活动",
+          "他认为 AI 证明缺少消化精简过程，数学 2.0 应降低难题核心地位"
+        ],
+        "detail": "OpenAI 公布报告称，一款尚未发布的前沿模型解决了数百个数学难题，包括四维挂谷猜想。UCLA 数学家陶哲轩评论说，传统数学 1.0 时代，难题证明会引发演讲、讨论和研讨会，最终被消化为教科书内容；但 AI 模型的证明缺少这一过程，因此数学 2.0 时代应降低解决难题的核心地位。",
+        "generatedAt": "2026-10-08T18:46:27+08:00"
       }
     },
     {
@@ -1363,6 +2178,43 @@
       }
     },
     {
+      "id": "0aeb2defc024e5f7",
+      "title": "Saluki 27B: \"96% of Qwen 3.8’s performance at ~1/7 the size\"",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x0mn7x/saluki_27b_96_of_qwen_38s_performance_at_17_the",
+      "summary": "anyone has feedback about this one? submitted by /u/paf1138 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T17:40:36+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Saluki 27B 发布：号称以约七分之一体量达到 Qwen 3.8 九成六性能",
+        "takeaway": "一款 27B 新模型自称性能接近 Qwen 3.8 的 96%，但体量仅约七分之一，引发社区讨论。",
+        "bullets": [
+          "Saluki 27B 在 r/LocalLLaMA 被发帖求反馈",
+          "宣称达到 Qwen 3.8 约 96% 的性能",
+          "体量约为后者的七分之一，主打小体积高效",
+          "目前仅有发帖人转述，尚无独立验证"
+        ],
+        "detail": "有人在 r/LocalLLaMA 发帖询问大家对 Saluki 27B 的看法。该模型自称以约七分之一的体量达到 Qwen 3.8 约 96% 的性能。不过目前只有这一说法，缺少第三方评测，实际表现还需验证。",
+        "generatedAt": "2026-10-08T18:46:28+08:00"
+      }
+    },
+    {
       "id": "196c3fe57c90a683",
       "title": "llama.cpp on the stage",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x079wc/llamacpp_on_the_stage",
@@ -1430,6 +2282,82 @@
         ],
         "detail": "LiquidAI 在 Hugging Face 上线了名为 d1-3B 的模型，参数量约 30 亿。该消息由 r/LocalLLaMA 社区用户分享，目前公开信息仅有模型页面链接，具体架构、训练数据和性能表现尚未在摘要中说明。",
         "generatedAt": "2026-10-08T03:09:24+08:00"
+      }
+    },
+    {
+      "id": "27e25eeed3c32773",
+      "title": "IROS 2026大奖揭晓：长期记忆拿下最佳论文，人形机器人打网球、端托盘双双获奖",
+      "url": "https://leiphone.com/category/private/VYRZFCnadDOcPDeX.html",
+      "summary": "在机器人领域，一个更大的模型并不能自动解决所有问题。作者丨马晓宁编辑丨岑峰当地时间 9 月 30 日，IROS 2026 主会在美国匹兹堡落下帷幕，本届大会的主要奖项也在最后一天正式揭晓。 AI科技评论在现场获悉，今年的 Best Paper Award 最终颁给了一项关于机器人“长期记忆”的研究。Yumin Lee、Hyoseok Ju 和 Giseop Kim 凭借《LT-Mem: Volatility-Aware Spatio-Temporal Memory for L…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T10:57:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "论文",
+        "研究",
+        "paper"
+      ],
+      "confidence": 0.86,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "IROS 2026大奖揭晓：长期记忆研究获最佳论文",
+        "takeaway": "机器人领域顶级会议IROS 2026颁奖，长期记忆研究拿下最佳论文，人形机器人应用也获奖。",
+        "bullets": [
+          "最佳论文颁给机器人长期记忆研究LT-Mem",
+          "作者为Yumin Lee、Hyoseok Ju和Giseop Kim",
+          "人形机器人打网球、端托盘研究双双获奖",
+          "大会在匹兹堡落幕，9月30日揭晓奖项"
+        ],
+        "detail": "IROS 2026主会在美国匹兹堡闭幕，最后一天揭晓了主要奖项。最佳论文奖授予一项关于机器人长期记忆的研究，名为LT-Mem，由Yumin Lee、Hyoseok Ju和Giseop Kim完成。此外，人形机器人打网球和端托盘的研究也分别获奖。",
+        "generatedAt": "2026-10-08T18:46:28+08:00"
+      }
+    },
+    {
+      "id": "85385f43f3cbbc20",
+      "title": "研究了1933篇 IROS 论文，我们看到了机器人学的六项新变化",
+      "url": "https://leiphone.com/category/private/wEpCJ4T8v9cJFgCn.html",
+      "summary": "大模型并没有“吃掉”机器人学。作者丨马晓宁编辑丨岑峰 9月27日，IROS 2026 将在匹兹堡开幕。重隔31年后，IROS 重回这座钢铁之城。作为全球规模最大的机器人学术会议之一，今年进入正式议程的论文达到 1933 篇。把这近两千篇论文铺开来看，它更像是一张 2026 年机器人研究的横截面：从强化学习、模仿学习，到路径规划、视觉感知、运动控制、灵巧操作，再到人形机器人、触觉和大模型，过去几年机器人领域几乎所有重要技术路线，都同时出现在这张图谱里。但真正值得注意的，并不是 …",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T10:46:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "论文",
+        "研究"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "1933篇IROS论文揭示机器人学六大新变化",
+        "takeaway": "大模型并未取代机器人学，IROS 2026论文全景显示领域正出现六项新趋势。",
+        "bullets": [
+          "IROS 2026收录1933篇论文，覆盖强化学习、模仿学习、人形机器人等方向",
+          "会议时隔31年重回匹兹堡，9月27日开幕",
+          "研究显示大模型没有‘吃掉’机器人学，而是催生新变化"
+        ],
+        "detail": "IROS 2026将于9月27日在匹兹堡开幕，共收录1933篇正式论文。这些论文覆盖强化学习、模仿学习、路径规划、视觉感知、运动控制、灵巧操作、人形机器人、触觉和大模型等几乎所有重要技术路线。分析指出，大模型并未取代机器人学，反而带来了六项值得关注的新变化。",
+        "generatedAt": "2026-10-08T18:46:29+08:00"
       }
     },
     {
@@ -1537,6 +2465,297 @@
       }
     },
     {
+      "id": "57b3dda6739c146e",
+      "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+      "url": "https://wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led",
+      "summary": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T17:30:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "founder"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "626a2de915b1d83a",
+      "title": "Cloudflare 详解从 WordPress 迁移至 EmDash 的过程",
+      "url": "https://infoq.cn/article/hGCTSjQKOsqqz0lVUgfx",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T23:00:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4c663b8ceebb9ef7",
+      "title": "TypeScript 终于能编译成原生程序了？启动快 12 倍，运行却慢 7.5 倍",
+      "url": "https://infoq.cn/article/BchL2TVhSF2dwyrCogVO",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T21:22:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b3b51785f27be6f7",
+      "title": "AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人",
+      "url": "https://infoq.cn/article/aJ7cgaNqf4pXVtbbtYiv",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T19:08:38+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a55da90c01a7779b",
+      "title": "《碳硅道统·跨域迁移治理法典》七层体系目录",
+      "url": "https://leiphone.com/category/industrynews/qCQ6peI7fBvGB3bC.html",
+      "summary": "000|【全局唯一前置定标】负迁移NT1–NT4四类原型·官方终审定义（基准集，不计入188正集） 定稿标注：零号基准，独立于七层主体序列，不作为正集计数；NT四类原型为本法典全部引用唯一法定口径，永久锁死，不可迭代改写。第一层：迁移事故解剖层（001–021，共21集|现象层，陈列迁移事故、归因现象，不下底层机理证明） 001|医疗AI规则跨域迁移金融风控：人类看不见的结构性翻车全链路 002|自动驾驶感知迁移工业机器人：机制不匹配导致致命决策漂移 003|安防人脸识别迁移…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T15:54:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "治理"
+      ],
+      "confidence": 0.5,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "716f42148633d090",
+      "title": "北醒李远：给机器造眼睛，与「自讨苦吃」的十一年|物理 AI 50人",
+      "url": "https://leiphone.com/category/robot/xhfZWtXZLLsnbNKt.html",
+      "summary": "作为中国发光学奠基人徐叙瑢院士的学生，十一年里，李远一直在做一件事：给机器造一双“眼睛”。这些“眼睛”上天、下水、上路，装进了无人机、列车、汽车和各类机器人。今天，当所有人开始讨论物理 AI，他也在重新思考：这双眼睛除了帮助机器看见，还能不能帮助机器理解世界。从本科一路读到博士后，李远本想成为一名学者。2015年，他选择回国创业，创办北醒（Benewake）。一个最想当学者的人，做了11年CEO。今年上半年，北醒交付了25万台机器人用激光雷达，机器人业务收入占公司营收超过一半…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T15:16:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "92f85f3e282bc4c0",
+      "title": "独家 | 清华 AIR 首届博士李健雄创立本溯智能：五源资本领投，押注动作原生具身模型",
+      "url": "https://leiphone.com/category/ai/WbD0Tf6P1oA2WDdq.html",
+      "summary": "常春藤、线性、华山资本跟投，AIR副教授詹仙园任首席科学家。作者丨邓哲敏编辑丨齐铖湧雷峰网·鲸犀独家获悉，清华大学智能产业研究院（AIR）首届博士生李健雄已毕业，并创立具身智能公司本溯智能 （BASAL Intelligence，简称 BASAL）。目前，本溯智能已获得五源资本领投，常春藤资本、线性资本、华山资本 WestSummit Capital 参与投资。团队核心成员包括首席科学家、清华 AIR 副教授詹仙园，以及 7 名长期合作的年轻研究者。据本溯智能称，创始团队组建…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T14:39:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "投资",
+        "领投"
+      ],
+      "confidence": 0.82,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f402f325b7e11eb3",
+      "title": "至简动力冯宗宝：在间隙仅 0.5 毫米的真实场景下，实现机器人造机器人 | IROS 2026",
+      "url": "https://leiphone.com/category/private/xCu836z16KSzx2Co.html",
+      "summary": "具身智能从实验室走向真实工厂、迈向精密制造。作者丨邓哲敏编辑丨齐铖湧你有没有想过，机器人也可以走进车间，亲手造出组装一台机器人所需要的零件？ 这听起来像个玩笑，实际却是具身智能最硬核的落地命题。机器人的关节、卡盘、精密结构件，无一不是靠 CNC（计算机数控）车床、铣床一道道加工出来的。如果机器人能自主照看这些机床，完成工件的抓取、上料、插入、取出与放置，那么机器人工业将被机器人自己反哺——机器人越多，造机器人的能力越强、成本越低，形成正反馈闭环。但要实现这一点，比想象中难得多…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T14:37:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 0.33,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "59dcfcbeed7a35a6",
+      "title": "我所知道的张磊：一场MSRA赛马与半个中国AI江湖",
+      "url": "https://leiphone.com/category/industrynews/GpWlfJRtQo3YoQnc.html",
+      "summary": "雷峰北京办公室不远处，就能看见西格玛大厦，总能想起那个豪杰并起的年代。二十四年前，就在那里，微软亚洲研究院内部有一场赛马。两个团队被同时拉上竞技场，比谁的人脸检测算法更好，即便没有明说，但谁都心里清楚，这可能决定着人员去留。一方是个刚毕业不到两年的年轻博士，本行还不是人脸，他带着几个实习生仓促上阵，表面看起来规划一塌糊涂。另一方是冉冉升起的明星学者，他的系统刚被比尔·盖茨在全球技术狂欢节上亲自演示过，CNN 做过专题报道，他与印度裔泰斗Anil K. Jain合编的《人脸识别…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T13:53:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "研究"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d0ff32802379e573",
+      "title": "Best current R9700 inference engine?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x0n7pj/best_current_r9700_inference_engine",
+      "summary": "There are way too many forks to keep track of, so I've gotten lost. As far as I can tell, Radiance VLLM is best for models that fit in GPUs while some form of llama.cpp is probably best for MOE RAM-spill? My specific current goal is to run …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T18:16:10+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs"
+      ],
+      "confidence": 0.5,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1af7ae935f490e2e",
+      "title": "银河通用&清华 LATENT：用「不完美人类数据」让机器人学会网球对打 | IROS 2026",
+      "url": "https://leiphone.com/category/private/HkC1hSwn255e7hL9.html",
+      "summary": "5小时动作碎片，最后变成了机器人的身体直觉。作者丨吴思梦编辑丨岑峰马晓宁如果你玩过《Mario Tennis》或者《TopSpin》，大概不会觉得打网球是一件特别复杂的事。球飞过来，移动人物，判断落点，在合适的时机按下击球键。尤其在《Mario Tennis Aces》里，游戏甚至把网球进一步拆成了一套很直观的动作语言：正手、反手、上旋、切削、吊高球，甚至还有需要精确卡点才能完成的特殊击球。 Mario Ten nis Ac es 游戏画面现实里的网球当然远比这些复杂，游戏做…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T10:40:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2d0230158b8e07c7",
+      "title": "吴佳俊 IROS 2026 演讲：结构化表征不是答案， 是机器人学会推理的脚手架 | IROS 2026",
+      "url": "https://leiphone.com/category/private/Hd5ntJGqUoFVY1PJ.html",
+      "summary": "从结构化表征到无演示学习之路。作者丨吴思梦编辑丨岑峰一个盘子，一只水龙头，一小团蓝色的洗洁精。吴佳俊用这样一个几乎没有技术含量的厨房场景，开始了他在 IROS 2026 的演讲。一个学生挤了洗洁精，打开水龙头，洗了一半，临时离开。现在，换成机器人接手。第一眼看过去，任务直接明确：把盘子洗干净，再放回去。但机器人真正需要处理的，并不是“洗盘子”这三个字。它得先知道，眼前哪个东西是盘子；得知道这个盘子到底脏不脏；得注意到盘子上有没有那一小团蓝色的洗洁精。它还得知道水龙头现在是不是…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T10:29:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "5f11b8d5c74999be",
       "title": "d1-3B and d1-omni from LiquidAI",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x01zg6/d13b_and_d1omni_from_liquidai",
@@ -1631,6 +2850,196 @@
       "keywords": [],
       "confidence": 0,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f8e01ff914ffd193",
+      "title": "Windows 迎来 AI 时代最大更新，拉来黄仁勋跟 Mac 宣战",
+      "url": "https://ifanr.com/1683177",
+      "summary": "能让你回到 Windows 阵营吗 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T16:15:32+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "85c878f55d97b16a",
+      "title": "微软为 Windows 讲了个新故事 —— 本地云端的 Agent 中间层，沙箱先转正",
+      "url": "https://oschina.net/news/502895",
+      "summary": "微软把 Windows 重新定位成了「Agent 住的地方」。10 月 7 日的官方博客《Building Windows for hybrid intelligence》不是宣布什么全新大模型，而是在讲一个路由问题：把 AI 工作拆成本地跑和云端跑。小的、私密的活儿——整理文件、改设置、总结本地文档——交给笔记本自己带的那颗模型；需要长推理的大活儿再送云端。...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T17:57:28+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "309cdb28d2cbd042",
+      "title": "记录创作历史， 而不只是代码历史 —— Libra，面向 Agent 的 AI 原生扩展版本控制系统",
+      "url": "https://oschina.net/p/libra-vcs",
+      "summary": "Libra 是一款 AI 原生、兼容 Git 的版本控制系统，它还会记录工作是如何完成的——并把这份记忆保存在你的仓库里。",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T14:58:26+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "49e583d691b110e9",
+      "title": "Running an LLM-driven town with 800+ persistent agents: concurrency, context caching, and inference costs",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x0ms0m/running_an_llmdriven_town_with_800_persistent",
+      "summary": "I spent the past year independently building Slow Vale, an LLM-driven life simulation. The Chinese server now has 800+ AI residents sharing one continuously running city. This is an engineering write-up about concurrent decisions, dynamic a…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T17:49:11+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "bfd9d99724b9063b",
+      "title": "数据中心，正在拆掉Token时代的旧围墙",
+      "url": "https://tmtpost.com/8160868.html",
+      "summary": "AI算力竞争开始告别堆硬件，从比拼训练爆发力转向Token产出效率。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T12:17:36+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力",
+        "数据中心"
+      ],
+      "confidence": 1,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5707fd705223f69a",
+      "title": "谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+      "url": "https://tmtpost.com/8160841.html",
+      "summary": "这个行业究竟在卖什么？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T11:24:52+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ebf8f0564012411a",
+      "title": "从Siri到Muse，我们如何一步步把生活交给AI",
+      "url": "https://tmtpost.com/8160467.html",
+      "summary": "Siri要追赶一个由自己开启的do engine愿景。新晋的Muse们也需要经历一个不断完善可靠性、安全性和经济性的过程。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T11:17:53+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "188630292b12ee46",
+      "title": "From Pareto to Preference: Personalized Test-Time Scaling via Amortized Agentic Policy Discovery",
+      "url": "https://arxiv.org/abs/2610.09684",
+      "summary": "arXiv:2610.09684v1 Announce Type: new Abstract: Test-time scaling (TTS) improves the reasoning capabilities of large language models by allocating additional inference computation. Existing approaches to improving TTS efficiency largely opt…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T12:00:00+08:00",
+      "fetchedAt": "2026-10-08T18:46:09+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
       "related": [],
       "pushed": false
     }
