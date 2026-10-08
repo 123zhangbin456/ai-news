@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "updatedAt": "2026-10-08T03:09:25+08:00",
+  "updatedAt": "2026-10-08T08:38:18+08:00",
   "items": [
     {
       "id": "5ca9c0ebb6f5947b",
@@ -25,7 +25,7 @@
       "confidence": 1,
       "score": 66,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic 向初创公司免费提供一年 Claude Team 及 1000 美元额度",
         "takeaway": "Anthropic 推出初创扶持计划，免费送一年 Claude Team 使用权和 1000 美元额度，意在绑定开发者生态。",
@@ -36,7 +36,8 @@
         ],
         "detail": "Anthropic 推出面向初创公司的扶持计划，提供一年免费的 Claude Team 使用权和 1000 美元额度。官方表示，他们相信 AI 的好处会更多通过基于模型构建产品的公司触达大众，而不是仅靠模型本身。",
         "generatedAt": "2026-10-07T24:58:01+08:00"
-      }
+      },
+      "pushedAt": "2026-10-08T08:38:18+08:00"
     },
     {
       "id": "36bf85cb54324cff",
@@ -62,7 +63,7 @@
       "confidence": 0.6,
       "score": 61,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Meta 的 AI 助手 Muse 登陆 iPad，移动端上线仅一个月",
         "takeaway": "Meta 正快速铺开 AI 助手 Muse 的覆盖范围，iPad 版距手机端首发仅隔一个月。",
@@ -73,6 +74,122 @@
         ],
         "detail": "Meta 的 AI 智能体 Muse 在手机端上线仅一个月后，就推出了 iPad 版本。这表明 Meta 正在快速扩大这款助手的覆盖范围和集成能力，加快在 AI 助手领域的布局节奏。",
         "generatedAt": "2026-10-08T03:09:17+08:00"
+      },
+      "pushedAt": "2026-10-08T08:38:18+08:00"
+    },
+    {
+      "id": "5d954af74d810aef",
+      "title": "【钛晨报】推动体育赛事发展，国务院办公厅最新部署；SpaceX拟募资400亿美元采购英伟达芯片；中国央行连续第23个月增持黄金",
+      "url": "https://tmtpost.com/8160058.html",
+      "summary": "GLM-5.3上架Amazon，智谱打开海外收入分成通道；华为与高通宣布达成广泛专利许可协议；抖音7.5亿收购案终止；英伟达宣布将推出DGX SPARK 64GB，可在本地运行最高1000亿参数AI模型；软银完成对OpenAI追加投资最后一笔100亿美元，累计投资达646亿美元；国家税务总局发布全国统一的税务行政处罚裁量基准；中国推进7项天然气国际标准成功立项；财政部部长蓝佛安：要研究制定针对性强的增量政策，更加注重扩大国内有效需求；国庆假期后首个交易日，20只基金将集中开启…",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T07:20:00+08:00",
+      "fetchedAt": "2026-10-08T08:38:01+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "英伟达"
+      ],
+      "confidence": 0.13,
+      "score": 61,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "英伟达推DGX SPARK 64GB，本地可跑千亿参数模型",
+        "takeaway": "英伟达新设备让千亿参数大模型在本地运行，降低对云端算力的依赖。",
+        "bullets": [
+          "英伟达发布DGX SPARK 64GB，支持本地运行最高1000亿参数AI模型",
+          "SpaceX拟募资400亿美元采购英伟达芯片，算力需求持续升温",
+          "软银完成对OpenAI追加投资，累计达646亿美元"
+        ],
+        "detail": "英伟达宣布将推出DGX SPARK 64GB，可在本地运行最高1000亿参数的AI模型。同时，SpaceX计划募资400亿美元用于采购英伟达芯片，软银也完成对OpenAI的追加投资，累计达646亿美元。",
+        "generatedAt": "2026-10-08T08:38:07+08:00"
+      },
+      "pushedAt": "2026-10-08T08:38:18+08:00"
+    },
+    {
+      "id": "54da693e6cb24610",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T04:22:37+08:00",
+      "fetchedAt": "2026-10-08T08:38:01+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip",
+        "chips",
+        "NVIDIA"
+      ],
+      "confidence": 0.67,
+      "score": 60,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "微软发布搭载英伟达芯片的AI PC，预装新版Windows 11",
+        "takeaway": "微软公布Surface Laptop Ultra规格与售价，主推本地运行AI模型与智能体。",
+        "bullets": [
+          "微软公布Surface Laptop Ultra的配置与价格",
+          "该AI PC采用英伟达芯片，面向本地AI模型与智能体",
+          "预装改版Windows 11，强化AI PC定位"
+        ],
+        "detail": "微软公布了Surface Laptop Ultra的规格和售价，这是一款搭载英伟达芯片的AI PC，专为在本地运行AI模型和智能体而设计。它同时预装经过改版的Windows 11，进一步强化微软在AI PC方向的布局。",
+        "generatedAt": "2026-10-08T08:38:07+08:00"
+      },
+      "pushedAt": "2026-10-08T08:38:18+08:00"
+    },
+    {
+      "id": "b2d1fdcc50f22fa2",
+      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+      "url": "https://theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a tex…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T03:10:42+08:00",
+      "fetchedAt": "2026-10-08T08:38:01+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "feature",
+        "users",
+        "update"
+      ],
+      "confidence": 0.75,
+      "score": 57,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ChatGPT 上线智能界面：回答里塞进图表和按钮",
+        "takeaway": "OpenAI 随 GPT-6 推出 Intelligent UI，让 ChatGPT 用可交互的图文和按钮作答，而非纯文字。",
+        "bullets": [
+          "ChatGPT 新增 Intelligent UI，回答可包含图片、图表和按钮",
+          "该功能随 GPT-6 一起向所有用户推送",
+          "交互式视觉让回答更直观，不再只是大段文字"
+        ],
+        "detail": "OpenAI 为 ChatGPT 推出名为 Intelligent UI 的新功能，让聊天机器人用可交互的视觉元素回答问题。这次更新与 GPT-6 一同面向所有用户推送，ChatGPT 可以把文字与图片、图表、按钮等结合起来呈现答案。",
+        "generatedAt": "2026-10-08T08:38:07+08:00"
       }
     },
     {
@@ -148,6 +265,45 @@
       }
     },
     {
+      "id": "b71cb042bb18dd08",
+      "title": "早报｜苹果一大波新品曝光，最快下周发布/全球纯汽油车份额首次跌破50%/2599 美元起，Surface Laptop Ultra发布",
+      "url": "https://ifanr.com/1683053",
+      "summary": "· OpenAI 向 Chat 用户推送 GPT-6，并加入可交互界面 · 月之暗面估值据报升至约 500 亿美元，筹备明年赴港上市 · 2026 年诺贝尔奖陆续公布，目前已有 6 位得主 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T08:14:13+08:00",
+      "fetchedAt": "2026-10-08T08:38:01+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "估值",
+        "上市",
+        "亿美元"
+      ],
+      "confidence": 0.27,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "月之暗面估值据报升至约500亿美元，筹备明年赴港上市",
+        "takeaway": "AI 公司月之暗面被曝估值大涨并计划赴港上市，反映大模型赛道资本热度不减。",
+        "bullets": [
+          "月之暗面估值据报升至约500亿美元",
+          "公司正筹备明年赴港上市",
+          "同期OpenAI向Chat用户推送GPT-6",
+          "苹果新品与Surface Laptop Ultra同批曝光"
+        ],
+        "detail": "据爱范儿早报，月之暗面估值据报升至约500亿美元，并筹备明年赴港上市。同一批消息还包括OpenAI向Chat用户推送GPT-6并加入可交互界面，以及苹果新品、Surface Laptop Ultra等动态。",
+        "generatedAt": "2026-10-08T08:38:09+08:00"
+      }
+    },
+    {
       "id": "b68f72604da4715c",
       "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
       "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material",
@@ -220,6 +376,80 @@
         ],
         "detail": "在 Windows 与 Surface 活动上，微软展示了 Copilot 的一次升级：它不仅能聊天，还能读取你电脑上的本地文件，并在系统各处代为执行操作。微软把这一思路归入其“Hybrid”构想，意味着 AI 正从独立应用走向深度嵌入操作系统。",
         "generatedAt": "2026-10-08T03:09:19+08:00"
+      }
+    },
+    {
+      "id": "92be971aec513c1f",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T04:48:45+08:00",
+      "fetchedAt": "2026-10-08T08:38:01+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raised",
+        "valuation",
+        "series"
+      ],
+      "confidence": 0.6,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Nous Research 估值 15 亿美元，推出企业级 AI 智能体",
+        "takeaway": "Hermes Agent 开发商完成 9000 万美元 B 轮融资，估值达 15 亿美元，并面向企业用户推出 AI 智能体。",
+        "bullets": [
+          "Nous Research 完成 9000 万美元 B 轮融资",
+          "公司估值达到 15 亿美元",
+          "推出面向企业用户的 AI 智能体"
+        ],
+        "detail": "Nous Research 确认其估值已达 15 亿美元，并完成了 9000 万美元的 B 轮融资。该公司是 Hermes Agent 的开发者，此次还推出了面向商业用户的 AI 智能体。",
+        "generatedAt": "2026-10-08T08:38:09+08:00"
+      }
+    },
+    {
+      "id": "3082116296fa073e",
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "url": "https://rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
+      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 256 # Comments: 250",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T02:49:40+08:00",
+      "fetchedAt": "2026-10-08T08:38:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 与微软出手限制员工使用 Claude AI",
+        "takeaway": "两大科技巨头开始收紧员工对 Anthropic Claude 的使用，反映企业 AI 工具竞争加剧。",
+        "bullets": [
+          "Meta 和微软正采取措施减少员工使用 Claude AI",
+          "此举或与推广自家 AI 工具、控制数据安全有关",
+          "消息在 Hacker News 引发 250 条讨论，关注度高"
+        ],
+        "detail": "据 Hacker News 报道，Meta 和微软正在限制员工使用 Anthropic 的 Claude AI。两家公司可能希望推动员工转向自家 AI 产品，或出于数据安全与合规考虑。该消息引发广泛讨论，凸显企业 AI 工具间的竞争。",
+        "generatedAt": "2026-10-08T08:38:09+08:00"
       }
     },
     {
@@ -476,6 +706,76 @@
       }
     },
     {
+      "id": "ee58890d81f7a8ac",
+      "title": "Quoting Ben Affleck",
+      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck",
+      "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine le…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T07:14:58+08:00",
+      "fetchedAt": "2026-10-08T08:38:01+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "workflow"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "本·阿弗莱克谈从胶片到数字：一直对计算机感兴趣",
+        "takeaway": "阿弗莱克自述从小喜欢计算机，胶片转数字后更关注技术，视效流程早已用上机器学习。",
+        "bullets": [
+          "阿弗莱克称自幼对计算机感兴趣",
+          "胶片转数字后更关注技术层面",
+          "视效工作流多年已包含机器学习"
+        ],
+        "detail": "本·阿弗莱克说，他从小就对计算机感兴趣；当电影从模拟胶片转向数字后，他对这一领域更加关注。他还提到，视觉特效的工作流程多年来已经用上了机器学习。",
+        "generatedAt": "2026-10-08T08:38:11+08:00"
+      }
+    },
+    {
+      "id": "b7d1e3ccac451e40",
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes",
+      "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T08:00:24+08:00",
+      "fetchedAt": "2026-10-08T08:38:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软发布会推出AI友好硬件与Windows新功能",
+        "takeaway": "微软发布新硬件和Windows更新，让AI更深入桌面和系统，值得关注PC体验变化。",
+        "bullets": [
+          "微软举办活动，推出AI友好硬件",
+          "Windows系统将迎来AI相关改动",
+          "桌面端AI功能进一步增加"
+        ],
+        "detail": "微软在活动中展示了新的AI友好硬件，并宣布Windows系统将进行多项调整。这些变化意味着未来Windows和桌面端会集成更多AI功能，用户日常使用电脑的方式可能随之改变。",
+        "generatedAt": "2026-10-08T08:38:10+08:00"
+      }
+    },
+    {
       "id": "fca855e5ada35410",
       "title": "llama : add a GPU cache for MoE experts kept in host memory by am17an · Pull Request #29887 · ggml-org/llama.cpp",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x03xkc/llama_add_a_gpu_cache_for_moe_experts_kept_in",
@@ -509,6 +809,152 @@
         ],
         "detail": "llama.cpp 收到一个合并请求，作者为 MoE 模型在显存放不下时设计了 GPU 缓存机制：把原本留在主机内存里的专家权重缓存到显卡上。对显存吃紧的用户来说，这可能带来可观的推理加速。",
         "generatedAt": "2026-10-08T03:09:24+08:00"
+      }
+    },
+    {
+      "id": "a843173a5365ccbb",
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones",
+      "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T05:56:42+08:00",
+      "fetchedAt": "2026-10-08T08:38:01+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open source"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开发者放话“软件已死”，用开源克隆挑战 Adobe",
+        "takeaway": "一位大胆的 AI 开发者用 Opus 构建开源 Creative Cloud 替代品，免费但远未完成。",
+        "bullets": [
+          "开发者宣称“软件已死”，瞄准 Adobe 的创意套件",
+          "用 Opus 打造开源克隆，免费提供但完成度低",
+          "项目野心大，但离可用还有距离"
+        ],
+        "detail": "一位 AI 开发者声称“软件已死”，并利用 Opus 构建了 Adobe Creative Cloud 的开源替代品。这些克隆工具免费且野心勃勃，但目前远未完成，实用性有限。",
+        "generatedAt": "2026-10-08T08:38:11+08:00"
+      }
+    },
+    {
+      "id": "2274d4d694e0de01",
+      "title": "Qwen 3.8 Flash-Next on 64GB RAM + 16GB VRAM, worth it over a fully-loaded 3.6 35B-A3B?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x07qlh/qwen_38_flashnext_on_64gb_ram_16gb_vram_worth_it",
+      "summary": "4080 16GB, 64GB RAM. Currently on 3.6 35B-A3B (Unsloth quant, fits fully in VRAM) and happy with it. Anyone tried Flash-Next at Q2/Q3 on a similar setup? Worth the switch, or should I stay put? Asking before committing to a 30GB+ download. …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T04:43:17+08:00",
+      "fetchedAt": "2026-10-08T08:38:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 Flash-Next 值得换掉 3.6 35B-A3B 吗？",
+        "takeaway": "用户纠结是否在 16GB 显存 + 64GB 内存下，用低量化 Flash-Next 替换现有满意模型。",
+        "bullets": [
+          "用户配置 4080 16GB 显存 + 64GB 内存",
+          "现用 3.6 35B-A3B 量化版，完全装入显存",
+          "考虑 Flash-Next Q2/Q3，但需下载 30GB+",
+          "询问是否值得切换，或保持现状"
+        ],
+        "detail": "一位用户使用 4080 16GB 显卡和 64GB 内存，目前运行 3.6 35B-A3B 的 Unsloth 量化版，模型能完全放进显存，体验满意。他想知道在类似配置下尝试 Q2/Q3 量化的 Flash-Next 是否值得，还是继续用现有模型，因为下载量超过 30GB。",
+        "generatedAt": "2026-10-08T08:38:12+08:00"
+      }
+    },
+    {
+      "id": "e28a41d2294350a2",
+      "title": "I have single 3090 and 32GB of ram are there any engines like strata, ninfer that run Qwen/Qwen3.6-35B-A3B at Q8 fast on my hardware",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x08bns/i_have_single_3090_and_32gb_of_ram_are_there_any",
+      "summary": "strata with qwen flash Q2 is pretty retarded and 27b at q4 is also retarded so I am wondering if anyone knows a engine that runs the model Qwen/Qwen3.6-35B-A3B fast on my hardware? submitted by /u/AdventurousFly4909 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T05:05:23+08:00",
+      "fetchedAt": "2026-10-08T08:38:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "单卡3090+32GB内存，能否跑Qwen3.6-35B-A3B Q8？",
+        "takeaway": "用户求助：单张3090加32GB内存，想找能快速跑Qwen3.6-35B-A3B Q8的推理引擎。",
+        "bullets": [
+          "发帖人硬件为单张RTX 3090加32GB内存",
+          "目标模型是Qwen3.6-35B-A3B，量化精度Q8",
+          "他试过strata配Qwen flash Q2和27B Q4，效果都不理想",
+          "想找类似strata、ninfer的引擎实现快速推理"
+        ],
+        "detail": "这位用户在LocalLLaMA发帖求助，他只有一张3090和32GB内存，想跑Qwen3.6-35B-A3B的Q8量化版。他试过strata搭配Qwen flash Q2，以及27B的Q4版本，体验都很差，因此想问问有没有其他引擎能在这套硬件上跑得又快又好。",
+        "generatedAt": "2026-10-08T08:38:12+08:00"
+      }
+    },
+    {
+      "id": "196c3fe57c90a683",
+      "title": "llama.cpp on the stage",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x079wc/llamacpp_on_the_stage",
+      "summary": "https://x.com/ggerganov/status/2107908265032229261 submitted by /u/jacek2023 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T04:25:51+08:00",
+      "fetchedAt": "2026-10-08T08:38:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 登上舞台，ggerganov 发布动态",
+        "takeaway": "llama.cpp 项目迎来重要时刻，作者 ggerganov 在 X 上发布相关动态，值得本地大模型用户关注。",
+        "bullets": [
+          "llama.cpp 作者 ggerganov 在 X 发布动态，暗示项目有新进展",
+          "消息由 r/LocalLLaMA 用户转发，引发本地模型社区讨论",
+          "llama.cpp 是本地运行大模型的关键工具，更新影响广泛"
+        ],
+        "detail": "r/LocalLLaMA 上有人转发了 llama.cpp 作者 ggerganov 在 X 上的一条动态，标题称 llama.cpp「登上舞台」。原帖未给出更多细节，具体内容需查看链接。作为本地大模型推理的核心项目，其动向备受社区关注。",
+        "generatedAt": "2026-10-08T08:38:13+08:00"
       }
     },
     {
