@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "updatedAt": "2026-10-08T09:25:03+08:00",
+  "updatedAt": "2026-10-09T01:37:44+08:00",
   "items": [
     {
       "id": "e679d3ae180e9ba4",
@@ -1286,6 +1286,42 @@
         ],
         "detail": "Mistral 宣布推出名为 Le Chonk 的新模型，并称其能力足以与目前最好的闭源 AI 模型竞争，同时保持开源权重。这意味着开发者可自由获取和使用该模型，可能对闭源模型的主导地位构成挑战。",
         "generatedAt": "2026-10-08T24:42:34+08:00"
+      }
+    },
+    {
+      "id": "91ed3eb235f3237f",
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T21:21:03+08:00",
+      "fetchedAt": "2026-10-09T01:37:27+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Hugging Face 上线 Falcon ASR 语音识别模型",
+        "takeaway": "Falcon 系列从文本大模型扩展到语音识别，Hugging Face 平台可直接取用。",
+        "bullets": [
+          "Falcon ASR 是 Falcon 家族首个语音识别模型，已在 Hugging Face 发布",
+          "具体参数、支持语种和识别精度官方暂未在标题中说明",
+          "开发者可在 Hugging Face 上直接调用，用于语音转文字场景"
+        ],
+        "detail": "Hugging Face 发布了 Falcon ASR，把 Falcon 模型系列从文本生成拓展到语音识别领域。目前官方只给出模型名称，没有公开参数规模、支持语言和评测成绩，开发者可先在平台上查看模型卡了解详情。",
+        "generatedAt": "2026-10-09T01:37:37+08:00"
       }
     },
     {
