@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "updatedAt": "2026-10-09T01:37:44+08:00",
+  "updatedAt": "2026-10-09T03:05:53+08:00",
   "items": [
     {
       "id": "9330f10ae0c6b6bd",
@@ -416,6 +416,42 @@
       }
     },
     {
+      "id": "ca1ec6c6a1a1314d",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T20:00:00+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "ads"
+      ],
+      "confidence": 0.33,
+      "score": 58,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Pollo AI 借 OpenAI 新模型把创意变成广告大片",
+        "takeaway": "Pollo AI 用 GPT-5.6、GPT-6 Astra 和 GPT-Image-2.5，把创意想法快速变成图像和电影级视频广告。",
+        "bullets": [
+          "Pollo AI 面向创作者，主打创意到广告的自动化生成",
+          "背后调用 OpenAI 的 GPT-5.6、GPT-6 Astra 和 GPT-Image-2.5",
+          "可产出细节图像和电影感视频广告，降低制作门槛"
+        ],
+        "detail": "Pollo AI 借助 OpenAI 的多款新模型，帮助创作者把大胆想法直接变成精细图像和电影质感的视频广告。它把创意策划与视觉生成串成一条流程，让广告制作更快、更省人力。",
+        "generatedAt": "2026-10-09T03:05:45+08:00"
+      }
+    },
+    {
       "id": "b2d1fdcc50f22fa2",
       "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
       "url": "https://theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
@@ -562,6 +598,40 @@
       }
     },
     {
+      "id": "afaa6403611628c8",
+      "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+      "url": "https://theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+      "summary": "My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying attention to this space, you know AI enthusiasts have been using agents for a mi…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T22:00:00+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta Muse 与 OpenAI Dots 能替你打理生活吗？",
+        "takeaway": "The Verge 播客讨论新一代消费级 AI 智能体，探讨它们是否真能接管日常事务。",
+        "bullets": [
+          "The Verge 资深 AI 记者 Hayden Field 做客 Decoder 播客",
+          "话题聚焦 Meta Muse、OpenAI Dots 等消费级 AI 智能体",
+          "讨论核心是这类智能体能否真正替用户打理生活"
+        ],
+        "detail": "这期 Decoder 播客请来 The Verge 资深 AI 记者 Hayden Field，聊最近面向普通用户的 AI 智能体热潮。节目围绕 Meta 的 Muse 和 OpenAI 的 Dots 展开，讨论这些工具是否可靠到可以真正帮你处理日常事务。",
+        "generatedAt": "2026-10-09T03:05:46+08:00"
+      }
+    },
+    {
       "id": "4a32ff51ed082ec8",
       "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
       "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface",
@@ -630,6 +700,85 @@
         ],
         "detail": "OpenAI 正在 ChatGPT 和 Codex 中嵌入名为 textGrain 的机器可读水印，初期主要面向欧盟用户。此举是为遵守欧盟新法律 AI Act，其竞争对手 Anthropic 已在 8 月宣布了基于 Google DeepMind SynthID 的水印技术。OpenAI 表示，嵌入水印后的文本生成性能",
         "generatedAt": "2026-10-08T18:46:16+08:00"
+      }
+    },
+    {
+      "id": "94028437ade776ca",
+      "title": "Google is launching a one-stop Gemini agent for your work tasks",
+      "url": "https://theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+      "summary": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work event on Thursday, will be available within the Gemini Enterprise app, allowing use…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T22:28:03+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app",
+        "enterprise",
+        "tool",
+        "available"
+      ],
+      "confidence": 0.5,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌推出通用 Gemini 智能体，跨应用后台处理工作任务",
+        "takeaway": "谷歌发布可在多应用、多设备后台运行的通用 Gemini 智能体，面向企业办公场景。",
+        "bullets": [
+          "谷歌在 Gemini at Work 活动上发布通用 Gemini 智能体",
+          "该智能体可跨应用、跨设备在后台自动执行任务",
+          "功能将集成在 Gemini Enterprise 应用中供企业使用"
+        ],
+        "detail": "谷歌在周四的 Gemini at Work 活动上宣布推出通用 Gemini AI 智能体，它能在不同应用和设备间后台运行，帮用户处理工作任务。该工具将上线于 Gemini Enterprise 应用，具体使用方式尚未完全披露。",
+        "generatedAt": "2026-10-09T03:05:48+08:00"
+      }
+    },
+    {
+      "id": "9655af284233d720",
+      "title": "Claude Haiku 5.5 降本背后：操作能力暴涨，复杂编程为何仍差一截？",
+      "url": "https://leiphone.com/category/ai/n2GjuJRnM4utgaun.html",
+      "summary": "模型开始按任务动态分配推理，超 10 万 Token 后，输入输出单价均涨 5 倍。作者丨郑佳美编辑丨岑峰刚刚，Anthropic 发布了 Claude Haiku 5.5。这次升级的幅度不小，尤其是在计算机操作方面，OSWorld 2.1 评测成绩从上一代的 15.7% 提升到了 72.4%。知识工作和复杂推理能力也有明显改善，而按照 Anthropic 公布的数据，新模型的平均运行成本还下降了约 75%。除此之外，Haiku 5.5 还加入了自适应推理机制，并支持 100…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T23:37:00+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "新模型",
+        "升级",
+        "Claude"
+      ],
+      "confidence": 0.77,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Haiku 5.5 发布：操作能力暴涨，复杂编程仍偏弱",
+        "takeaway": "Anthropic 新模型操作能力大幅提升、成本降约 75%，但复杂编程仍是短板。",
+        "bullets": [
+          "OSWorld 2.1 操作评测从 15.7% 跃升至 72.4%",
+          "平均运行成本下降约 75%，但超 10 万 Token 后单价涨 5 倍",
+          "新增自适应推理，按任务动态分配算力",
+          "知识工作与复杂推理改善，复杂编程仍差一截"
+        ],
+        "detail": "Anthropic 发布 Claude Haiku 5.5，计算机操作能力提升最明显，OSWorld 2.1 成绩从 15.7% 升到 72.4%，知识工作和复杂推理也有改善，平均成本降约 75%。新模型加入自适应推理，按任务动态分配算力，但超过 10 万 Token 后输入输出单价均涨 5 倍，复杂编程能力仍逊一筹。",
+        "generatedAt": "2026-10-09T03:05:48+08:00"
       }
     },
     {
@@ -1264,6 +1413,42 @@
         ],
         "detail": "联想宣布YOGA Pro 15 RTX Spark笔记本电脑于10月8日上午9点开启全网盲约。该机搭载NVIDIA RTX Spark N1X超级芯片，官方称其将重塑个人生产力边界，具体配置与售价尚未公布。",
         "generatedAt": "2026-10-09T01:37:34+08:00"
+      }
+    },
+    {
+      "id": "cbb9d3a99a6a7644",
+      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+      "url": "https://theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+      "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the compa…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T23:27:30+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app"
+      ],
+      "confidence": 1,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Google 推出离线 AI 笔记应用，会议转录不联网",
+        "takeaway": "Google 发布实验性笔记应用 AI Edge Foresight，可在 macOS 上完全离线转录会议和音频。",
+        "bullets": [
+          "应用名为 Google AI Edge Foresight，免费使用",
+          "运行于 macOS，转录过程完全离线",
+          "可处理会议录音和音频文件，无需联网"
+        ],
+        "detail": "Google 推出了一款实验性笔记应用 Google AI Edge Foresight，据 TechCrunch 报道，它能在完全离线的情况下转录会议和音频文件。该应用免费，目前运行在 macOS 上。",
+        "generatedAt": "2026-10-09T03:05:50+08:00"
       }
     },
     {
@@ -2573,6 +2758,40 @@
       }
     },
     {
+      "id": "00fc2266fd50c64f",
+      "title": "Artificial is a wicked satire that also sticks to the facts",
+      "url": "https://theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
+      "summary": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing God, and power in gen…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T22:00:00+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "瓜达尼诺新片《Artificial》讽刺奥特曼，纽约首映",
+        "takeaway": "卢卡·瓜达尼诺执导的萨姆·奥特曼讽刺传记片首映，导演称对“扮演上帝”的题材感兴趣。",
+        "bullets": [
+          "影片在纽约电影节首映，聚焦OpenAI CEO萨姆·奥特曼。",
+          "导演瓜达尼诺称“有人想扮演上帝”的题材吸引他。",
+          "影片被形容为既尖刻讽刺又忠于事实。"
+        ],
+        "detail": "在纽约电影节首映式上，导演卢卡·瓜达尼诺谈到了他的新片《Artificial》。这部讽刺传记片以OpenAI首席执行官萨姆·奥特曼为原型，瓜达尼诺表示，当有人想扮演上帝时，这对他来说非常有趣。影片被认为既尖刻讽刺，又坚持事实。",
+        "generatedAt": "2026-10-09T03:05:53+08:00"
+      }
+    },
+    {
       "id": "fca855e5ada35410",
       "title": "llama : add a GPU cache for MoE experts kept in host memory by am17an · Pull Request #29887 · ggml-org/llama.cpp",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x03xkc/llama_add_a_gpu_cache_for_moe_experts_kept_in",
@@ -3438,6 +3657,29 @@
         "版权"
       ],
       "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "efdc57594c74748e",
+      "title": "It appears .agent and .agi are about to be the hot new domains",
+      "url": "https://theverge.com/tech/1007132/icann-domains-2026-ai-agi",
+      "summary": "For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as thin…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T02:46:16+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 34,
       "related": [],
       "pushed": false

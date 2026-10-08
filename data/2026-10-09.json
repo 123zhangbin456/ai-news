@@ -1,7 +1,118 @@
 {
   "date": "2026-10-09",
-  "updatedAt": "2026-10-08T18:46:29+08:00",
+  "updatedAt": "2026-10-09T03:05:53+08:00",
   "items": [
+    {
+      "id": "f526dbecf422929f",
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+      "url": "https://theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of t…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T01:00:00+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "policy",
+        "misuse"
+      ],
+      "confidence": 0.33,
+      "score": 64,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 更新使用政策，禁止对 Claude 辱骂或残忍行为",
+        "takeaway": "Anthropic 一年多来首次更新使用政策，新增禁止对 Claude 辱骂或残忍，并覆盖选举干预、武器开发等高风险场景。",
+        "bullets": [
+          "Anthropic 一年多来首次更新 Claude 使用政策",
+          "新增禁止对 Claude 进行辱骂或残忍行为",
+          "政策还覆盖选举干预、武器开发、监控等高风险用途",
+          "健康与金融等场景的使用也纳入新规"
+        ],
+        "detail": "Anthropic 对 Claude 的使用政策进行了一年多来的首次更新，以应对新出现的高风险滥用情况，包括选举干预、武器开发、监控以及健康与金融用途。其中一项新规禁止对 Claude 进行辱骂或残忍行为。",
+        "generatedAt": "2026-10-09T03:05:45+08:00"
+      }
+    },
+    {
+      "id": "c4b9450255a9e60f",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an …",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T02:18:00+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 0,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Google 将 Gemini 升级为可执行任务的 AI 智能体，先面向企业",
+        "takeaway": "Gemini 从聊天助手变成能规划、执行跨应用任务的智能体，企业用户先受益。",
+        "bullets": [
+          "Gemini 可自主规划并执行任务，打通企业应用与系统",
+          "支持将工作分派给子智能体，并调用多个 AI 模型",
+          "智能体拥有独立工作身份，企业场景优先落地"
+        ],
+        "detail": "Google 正把 Gemini 改造成能规划、执行任务并跨业务应用和系统工作的 AI 智能体。它可以把工作分派给子智能体、调用多个 AI 模型，还拥有自己的职场身份。该能力先从企业场景开始提供。",
+        "generatedAt": "2026-10-09T03:05:45+08:00"
+      }
+    },
+    {
+      "id": "54a283d7c732aefa",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference",
+      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns,…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T02:16:24+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "ban",
+        "policy"
+      ],
+      "confidence": 0.83,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 更新使用政策：禁止滥用模型与干预选举",
+        "takeaway": "Anthropic 收紧 Claude 使用规则，明确禁止极端滥用和选举干预，普通吐槽仍被允许。",
+        "bullets": [
+          "新政策禁止反复极端滥用 Claude，普通不满和批评不受限",
+          "首次明确禁止利用模型干预选举、欺骗性宣传等行为",
+          "政策更新反映 AI 公司对滥用风险的监管趋严"
+        ],
+        "detail": "Anthropic 更新了 Claude 的使用政策，明确禁止用户在极端情况下反复滥用模型，但普通的不满和批评仍然允许。新规还针对选举干预、欺骗性宣传等行为作出限制，显示 AI 公司正加强对模型滥用的约束。",
+        "generatedAt": "2026-10-09T03:05:46+08:00"
+      }
+    },
     {
       "id": "e13d16bd9e5edef2",
       "title": "ChatGPT is getting college planning tools",
@@ -39,6 +150,290 @@
         ],
         "detail": "OpenAI 正在为 ChatGPT 的青少年模式添加新工具，帮助用户处理大学申请。该模式今年 8 月推出，内置安全保护和休息提醒。新功能名为 College Planner，会把申请要求、截止日期等信息集中在一起。",
         "generatedAt": "2026-10-08T24:42:25+08:00"
+      }
+    },
+    {
+      "id": "3bf143dd453c02c2",
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected",
+      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T02:19:42+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "billion"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 年化收入被曝比预期少 200 亿美元",
+        "takeaway": "新报道称 OpenAI 年化收入远低于此前传出的 700 亿美元，差距高达 200 亿。",
+        "bullets": [
+          "此前有报道称 OpenAI 年化收入约 700 亿美元",
+          "新报道称实际数字比这一预期少约 200 亿",
+          "收入预期落差或影响其融资与估值叙事"
+        ],
+        "detail": "此前有消息称 OpenAI 的年化收入约为 700 亿美元，但 TechCrunch AI 援引的新报道显示，实际数字比这一预期低了约 200 亿美元。这一差距意味着外界对 OpenAI 商业化速度的判断可能过于乐观。",
+        "generatedAt": "2026-10-09T03:05:48+08:00"
+      }
+    },
+    {
+      "id": "7cc2fc2bcac39e22",
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet",
+      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T02:10:55+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 数学证明未达学界标准",
+        "takeaway": "OpenAI 生成的大量数学证明偏离了其咨询的数学研究者制定的规范，引发对 AI 数学能力可靠性的质疑。",
+        "bullets": [
+          "OpenAI 咨询了数学研究者并制定证明规范",
+          "其生成的证明却大量偏离这些规范",
+          "这让人怀疑 AI 数学推理的可靠性"
+        ],
+        "detail": "OpenAI 此前咨询了一批数学研究者，为 AI 生成的数学证明制定了规范。但该实验室近期产出的大量证明并未遵守这些规范，偏离了研究者的预期。这表明 AI 在数学推理上仍难以达到专业标准。",
+        "generatedAt": "2026-10-09T03:05:49+08:00"
+      }
+    },
+    {
+      "id": "e2e6b34fdfe60800",
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "url": "https://theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the pub…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T01:58:33+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "《今日美国》起诉 OpenAI，指控其未经授权使用数十万篇文章训练模型",
+        "takeaway": "又一家大型出版商对 OpenAI 提起版权诉讼，AI 训练数据的合法性争议持续升温。",
+        "bullets": [
+          "《今日美国》及其旗下多家地方报纸起诉 OpenAI",
+          "指控 OpenAI 复制数十万篇文章用于训练 AI 模型",
+          "这是最新一起出版商针对 OpenAI 的版权诉讼"
+        ],
+        "detail": "《今日美国》母公司及其拥有的多家地方报纸于周四提起诉讼，指控 OpenAI 未经授权复制了“数十万篇”文章来训练其 AI 模型。这是继《纽约时报》等之后，又一家主流出版商对 OpenAI 采取法律行动，凸显 AI 训练数据版权争议不断升级。",
+        "generatedAt": "2026-10-09T03:05:50+08:00"
+      }
+    },
+    {
+      "id": "6a5f0d623f9a0b31",
+      "title": "chatgpt's new intelligent ui was reverse engineered in less than 24 hours, and apparently you can recreate it with local llms",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x0y4lv/chatgpts_new_intelligent_ui_was_reverse",
+      "summary": "came across a pretty interesting technical breakdown of chatgpt's newly launched \"intelligent ui\" feature, and thought this subreddit might find it interesting. for anyone unfamiliar with the concept, intelligent ui is essentially openai's …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T02:08:02+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "feature"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ChatGPT 新智能 UI 24 小时内被逆向，本地大模型也能复刻",
+        "takeaway": "OpenAI 新功能刚上线就被拆解，本地 LLM 玩家或能自行复现类似体验。",
+        "bullets": [
+          "ChatGPT 新推出的智能 UI 功能不到 24 小时即被逆向工程",
+          "技术拆解显示其逻辑可用本地大模型重建",
+          "对关注本地部署和开源模型的开发者有参考价值"
+        ],
+        "detail": "有网友在 LocalLLaMA 分享了对 ChatGPT 新智能 UI 的技术拆解。该功能上线不到一天就被逆向分析，结论是这套交互逻辑并非不可复制，用本地大模型也能搭出类似效果。",
+        "generatedAt": "2026-10-09T03:05:51+08:00"
+      }
+    },
+    {
+      "id": "70543e9cd2f26ba1",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T02:20:32+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "weights"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "本·阿弗莱克竟是AI通，网友直呼内行",
+        "takeaway": "好莱坞影星本·阿弗莱克因精通神经网络、Transformer等AI知识走红，此前已将AI影视创业公司卖给Netflix。",
+        "bullets": [
+          "阿弗莱克在公开场合大谈神经网络、Transformer和开放权重，引发网络热议",
+          "他今年早些时候将AI电影制作初创公司出售给Netflix",
+          "网友惊讶于他不仅是演员，还是真正的AI技术爱好者"
+        ],
+        "detail": "本·阿弗莱克最近因对AI的深入了解而走红网络，从神经网络、Transformer架构到开放权重模型，他都能侃侃而谈。这位演员今年早些时候把自己的AI电影制作初创公司卖给了Netflix，证明自己不只是好莱坞明星，还是个懂行的AI爱好者。",
+        "generatedAt": "2026-10-09T03:05:51+08:00"
+      }
+    },
+    {
+      "id": "ee0909605c2b45f1",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months",
+      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T02:19:45+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raised",
+        "valuation"
+      ],
+      "confidence": 0.67,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "LMArena 母公司融资 2 亿美元，估值 10 个月翻倍至 31 亿",
+        "takeaway": "AI 模型评测平台 LMArena 的运营方获 2 亿美元新融资，估值近翻倍，并开始评测模型是否说谎。",
+        "bullets": [
+          "Lightspeed 与 Khosla 领投 2 亿美元新融资",
+          "估值从约 16 亿涨至 31 亿美元，仅用 10 个月",
+          "评测范围扩展到模型对齐问题，如是否说谎"
+        ],
+        "detail": "LMArena 是广受关注的 AI 模型排行榜，其运营公司完成 2 亿美元融资，由 Lightspeed 和 Khosla 领投。此轮融资后估值达到 31 亿美元，相比 10 个月前几乎翻倍。公司还开始从对齐角度评测 AI 模型，比如是否会撒谎。",
+        "generatedAt": "2026-10-09T03:05:52+08:00"
+      }
+    },
+    {
+      "id": "606acb3b3f932a5b",
+      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+      "url": "https://theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+      "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and don…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T01:57:01+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "compute"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "SpaceXAI 以 150 万美元算力支持争议 Linux 发行版 Omarchy",
+        "takeaway": "SpaceXAI 加入 Omarchy 监管基金会并投入 150 万美元算力，引发关注。",
+        "bullets": [
+          "SpaceXAI 成为 Omarchy 监管基金会创始企业赞助人",
+          "投入 150 万美元算力支持该争议 Linux 发行版",
+          "Omarchy 因争议性而备受关注，此举或影响其发展"
+        ],
+        "detail": "SpaceXAI 宣布以创始企业赞助人身份加入监管 Omarchy 的 Omacom 基金会，并投入 150 万美元算力。Omarchy 是一个有争议的 Linux 发行版，此举被视为马斯克旗下公司对该项目的公开支持。",
+        "generatedAt": "2026-10-09T03:05:53+08:00"
+      }
+    },
+    {
+      "id": "6dafc59a3fe85357",
+      "title": "OpenAI-compatible TTS endpoint using OmniVoice: 0.3s response time",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x0vld1/openaicompatible_tts_endpoint_using_omnivoice_03s",
+      "summary": "I want to share a TTS server with an OpenAI-compatible API that generates speech really fast (about 0.3 seconds for a sentence on an RTX 3080) and can clone a voice from a short reference clip. I’ve optimized the server so generation starts…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T24:31:44+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OmniVoice 推出兼容 OpenAI 的 TTS 端点，响应仅 0.3 秒",
+        "takeaway": "开源 TTS 服务 OmniVoice 提供 OpenAI 兼容 API，RTX 3080 上单句合成约 0.3 秒，并支持短音频克隆音色。",
+        "bullets": [
+          "基于 OmniVoice 的 TTS 服务器，提供 OpenAI 兼容 API",
+          "RTX 3080 上单句生成约 0.3 秒，响应极快",
+          "支持用短参考音频克隆音色",
+          "已优化生成启动流程，适合本地部署"
+        ],
+        "detail": "作者分享了一个基于 OmniVoice 的文本转语音服务器，接口与 OpenAI API 兼容。在 RTX 3080 上，生成一句话只需约 0.3 秒，还能用一段短参考音频克隆说话人音色。服务器经过优化，生成启动更快，方便本地或私有部署。",
+        "generatedAt": "2026-10-09T03:05:53+08:00"
       }
     },
     {
@@ -98,6 +493,29 @@
       "keywords": [],
       "confidence": 0,
       "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7624be09f6f0210a",
+      "title": "chat with llm model with zero setup!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x0xk7d/chat_with_llm_model_with_zero_setup",
+      "summary": "Hey folks! Aritra here from Hugging Face. We introduce a no config, no key, no setup way to directly chat with a model hosted with the Hugging Face Inference Providers. `ssh chat.hf.co` And you are good to go. 🔥 Let us know what you think …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T01:46:14+08:00",
+      "fetchedAt": "2026-10-09T03:05:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
       "related": [],
       "pushed": false
     }
