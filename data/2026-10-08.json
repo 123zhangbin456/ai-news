@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "updatedAt": "2026-10-08T09:25:03+08:00",
+  "updatedAt": "2026-10-08T10:08:25+08:00",
   "items": [
     {
       "id": "5ca9c0ebb6f5947b",
@@ -598,6 +598,80 @@
       }
     },
     {
+      "id": "cabc899a625419e3",
+      "title": "GPT-6全球上线、Claude Haiku 5.5降价，这个假期AI圈也没停",
+      "url": "https://tmtpost.com/8160689.html",
+      "summary": "成本压下来之后，下一个阶段比什么？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T09:51:00+08:00",
+      "fetchedAt": "2026-10-08T10:08:08+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "上线",
+        "GPT",
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GPT-6 全球上线，Claude Haiku 5.5 同步降价",
+        "takeaway": "假期 AI 圈不停歇：OpenAI 发新旗舰，Anthropic 用降价应战，竞争转向成本。",
+        "bullets": [
+          "GPT-6 面向全球上线，OpenAI 再推新一代旗舰模型",
+          "Claude Haiku 5.5 宣布降价，Anthropic 以低价抢市场",
+          "两家动作集中在假期，模型竞争从能力转向成本"
+        ],
+        "detail": "假期期间 AI 圈并未停歇：OpenAI 的 GPT-6 在全球上线，Anthropic 则把 Claude Haiku 5.5 的价格下调。两家一前一后出手，说明在能力差距收窄后，厂商开始把成本当作下一阶段的比拼重点。",
+        "generatedAt": "2026-10-08T10:08:20+08:00"
+      }
+    },
+    {
+      "id": "9255660559fc0ee5",
+      "title": "Haiku 5.5发布，Anthropic开始撒钱",
+      "url": "https://tmtpost.com/8160574.html",
+      "summary": "模型砍到一折，API额度直接白送。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T09:29:52+08:00",
+      "fetchedAt": "2026-10-08T10:08:08+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 发布 Haiku 5.5，API 额度白送、价格砍到一折",
+        "takeaway": "Anthropic 推出 Haiku 5.5，大幅降价并赠送 API 额度，意在抢占开发者市场。",
+        "bullets": [
+          "Haiku 5.5 正式发布，主打低价策略",
+          "模型价格砍到一折，API 额度直接白送",
+          "Anthropic 开始撒钱，或引发模型价格战"
+        ],
+        "detail": "Anthropic 发布了 Haiku 5.5 模型，价格直接降到原价的一折，还向开发者免费赠送 API 额度。这一举动被视为 Anthropic 开始用补贴抢用户，可能加剧大模型 API 市场的价格竞争。",
+        "generatedAt": "2026-10-08T10:08:19+08:00"
+      }
+    },
+    {
       "id": "35be1f37933475a1",
       "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
       "url": "https://theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
@@ -667,6 +741,40 @@
         ],
         "detail": "Anthropic 上线了 Claude Haiku 5.5，这是其轻量级模型系列的最新版本。该消息在 Hacker News 上引发关注，目前获得 231 分和 96 条评论。官方页面已放出，但摘要未披露具体参数与定价细节。",
         "generatedAt": "2026-10-08T03:09:23+08:00"
+      }
+    },
+    {
+      "id": "6c73d2dcf7d016b0",
+      "title": "两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造",
+      "url": "https://infoq.cn/article/4AMw7Bt3UHqw48qmQTpS",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T18:00:00+08:00",
+      "fetchedAt": "2026-10-08T10:08:08+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "嫌 DynamoDB 又贵又慢，Perplexity 用两个月自研 Rust 数据库",
+        "takeaway": "Perplexity 两名工程师花两个月写了 4 万行 Rust，替换掉昂贵的 DynamoDB，值得关注自研基础设施的性价比。",
+        "bullets": [
+          "Perplexity 认为 DynamoDB 成本高、性能慢，决定自研替代方案",
+          "两名工程师用两个月写出 4 万行 Rust 代码",
+          "新系统用于支撑其 AI 搜索产品的数据存储需求"
+        ],
+        "detail": "Perplexity 对托管数据库 DynamoDB 的账单和延迟都不满意，于是两名工程师用两个月时间、约 4 万行 Rust 代码自建了一套存储系统。这反映出 AI 公司为控制成本和性能，越来越倾向自研关键基础设施。",
+        "generatedAt": "2026-10-08T10:08:21+08:00"
       }
     },
     {
@@ -811,6 +919,42 @@
         ],
         "detail": "JeeSite V5.19.1 对上传组件做了较大重构：图片以网格形式展示，文件和图片都支持拖拽排序，还能连续预览上一张下一张。上传与预览对话框合并，预览时就能直接传文件，弹窗模式下删除需确认后才生效。此外还加入 AI 识图、生图与统计，并优化了流程设计器。",
         "generatedAt": "2026-10-08T09:25:03+08:00"
+      }
+    },
+    {
+      "id": "9a28673cf98d81f4",
+      "title": "29 UI languages for the DeepSeek Harness desktop app (MIT)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x0e9tx/29_ui_languages_for_the_deepseek_harness_desktop",
+      "summary": "If your language is not English or Simplified Chinese, the DeepSeek Harness desktop app was usable but never comfortable. Every setting, every error message, every permission prompt is a small translation task you do in your head while you …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T09:33:02+08:00",
+      "fetchedAt": "2026-10-08T10:08:08+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek Harness 桌面应用新增 29 种界面语言，MIT 开源",
+        "takeaway": "非中英文用户终于能用母语操作 DeepSeek Harness 桌面端，降低使用门槛。",
+        "bullets": [
+          "DeepSeek Harness 桌面应用此前仅支持英文和简体中文",
+          "新增 29 种 UI 语言，覆盖设置、报错、权限提示等界面",
+          "项目以 MIT 协议开源，社区可继续贡献翻译"
+        ],
+        "detail": "此前非英文或简体中文用户使用 DeepSeek Harness 桌面应用时，每个设置项、报错和权限提示都得在脑中自行翻译，体验别扭。现在该应用加入 29 种界面语言，并以 MIT 协议开源，方便更多人直接用母语操作。",
+        "generatedAt": "2026-10-08T10:08:22+08:00"
       }
     },
     {
@@ -1061,6 +1205,76 @@
         ],
         "detail": "一名诈骗犯通过部署1万个机器人账号，并利用AI生成歌曲，在流媒体平台上刷播放量，从而窃取了约800万美元的版税收入。这种欺诈手段甚至让他的播放量超过了泰勒·斯威夫特等知名艺人。最终，该男子被判处18个月监禁，此案也暴露了流媒体平台在版税分配和反欺诈机制上的漏洞。",
         "generatedAt": "2026-10-08T03:09:25+08:00"
+      }
+    },
+    {
+      "id": "414c5d3d8d755a67",
+      "title": "从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
+      "url": "https://infoq.cn/article/akexM07HzNrRJzmjYNml",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T18:00:00+08:00",
+      "fetchedAt": "2026-10-08T10:08:08+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "权重"
+      ],
+      "confidence": 0.33,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Mooncake 如何支撑高性能强化学习系统",
+        "takeaway": "InfoQ 中国分享 Mooncake 从 Rollout 到权重同步的技术方案，展示其支撑高性能强化学习系统的思路。",
+        "bullets": [
+          "话题来自 QCon 上海，聚焦强化学习系统性能",
+          "Mooncake 覆盖 Rollout 到权重同步全流程",
+          "面向高性能强化学习场景，属开源工具方向"
+        ],
+        "detail": "这是 InfoQ 中国在 QCon 上海的一场分享，主题是 Mooncake 如何支撑高性能强化学习系统。内容围绕从 Rollout 到权重同步的链路展开，介绍其在这两个关键环节上的做法，属于开源工具方向的技术解读。",
+        "generatedAt": "2026-10-08T10:08:22+08:00"
+      }
+    },
+    {
+      "id": "11fbb61173bdc9d3",
+      "title": "代码交给AI，心流却回来了：Codex负责人不再怀念手写时代",
+      "url": "https://infoq.cn/article/rLaX4DEMuRxqW135ZSSC",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T17:35:10+08:00",
+      "fetchedAt": "2026-10-08T10:08:08+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Codex负责人：代码交给AI后，心流反而回来了",
+        "takeaway": "OpenAI Codex负责人称，AI写代码让他重获专注心流，不再怀念手写时代。",
+        "bullets": [
+          "Codex负责人公开表示不再怀念手写代码的日子",
+          "他认为把编码交给AI后，自己反而更容易进入心流状态",
+          "这反映出AI编程工具正改变开发者的工作方式与心态"
+        ],
+        "detail": "InfoQ中国报道，OpenAI Codex负责人分享了对AI编程的体会：把写代码的活交给AI后，他并没有失落，反而重新找回了专注的心流。他坦言不再怀念手写代码的时代，这或许代表不少开发者正在经历的心态转变。",
+        "generatedAt": "2026-10-08T10:08:25+08:00"
       }
     },
     {
