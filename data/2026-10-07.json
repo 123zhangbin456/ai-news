@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "updatedAt": "2026-10-08T08:38:13+08:00",
+  "updatedAt": "2026-10-08T09:25:03+08:00",
   "items": [
     {
       "id": "e679d3ae180e9ba4",
@@ -589,6 +589,43 @@
       }
     },
     {
+      "id": "5e48ec33de6924de",
+      "title": "Termexo v0.10.11 发布：通过 MCP 操控五种编程 Agent，完善连接引导与状态回传",
+      "url": "https://oschina.net/news/502851",
+      "summary": "Termexo v0.10.11 已发布。Termexo 是面向 Windows x64 的 MIT 开源工作台，支持通过本地 MCP 操作 Claude Code、Codex、OpenCode、Grok Build 和 Antigravity CLI 的终端。本文由项目维护者提交，AI 辅助撰写，并按当前版本文档与实现核对。功能概念图，非软件截图。核心用法：让一个 Agent 操作另一个开启“设置 ...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T19:26:47+08:00",
+      "fetchedAt": "2026-10-08T09:24:53+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "Claude"
+      ],
+      "confidence": 0.38,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Termexo v0.10.11 发布：用 MCP 统一操控五种编程 Agent",
+        "takeaway": "Windows 开源工作台 Termexo 更新，可通过本地 MCP 调度多个编程 Agent 的终端。",
+        "bullets": [
+          "支持 Claude Code、Codex、OpenCode、Grok Build、Antigravity CLI 五种 Agent",
+          "面向 Windows x64，采用 MIT 开源协议",
+          "本版完善连接引导与状态回传，可让一个 Agent 操作另一个"
+        ],
+        "detail": "Termexo 是一个面向 Windows x64 的 MIT 开源工作台，本次更新到 v0.10.11。它通过本地 MCP 来操控 Claude Code、Codex、OpenCode、Grok Build 和 Antigravity CLI 的终端，核心玩法是让一个 Agent 去操作另一个已开启相应设置的 Age",
+        "generatedAt": "2026-10-08T09:25:03+08:00"
+      }
+    },
+    {
       "id": "adc1cdfb48287d7f",
       "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
       "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product",
@@ -809,6 +846,43 @@
         ],
         "detail": "过去在本地跑模型意味着用质量换隐私，但这一代模型让这种取舍明显收窄。作者用 25 组配对任务做了实测，结论是：对日常工作来说，本地模型已经够用。",
         "generatedAt": "2026-10-08T24:42:31+08:00"
+      }
+    },
+    {
+      "id": "bf2a20d386633553",
+      "title": "开源 AI 终端 uniTerm v1.10 发布：安卓版来了！手机上也能 SSH 运维",
+      "url": "https://oschina.net/news/502865",
+      "summary": "关于 uniTerm uniTerm 是一款轻量级、跨平台的一站式终端软件，基于 Wails v3 + Go + Vue 3 构建。它将远程终端、文件传输、远程桌面、数据库客户端、容器与 Kubernetes 管理、服务器监控、AI 助理整合进一个 15MB 的软件包中，覆盖 30 余种网络协议，支持 Windows、macOS、Linux、Android 四大平台。从 SSH 命令行管理...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-07T20:10:56+08:00",
+      "fetchedAt": "2026-10-08T09:24:53+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.4,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开源 AI 终端 uniTerm v1.10 发布，新增安卓版支持手机 SSH 运维",
+        "takeaway": "轻量跨平台终端 uniTerm 迎来安卓版，手机上也能做 SSH 运维和服务器管理。",
+        "bullets": [
+          "uniTerm v1.10 新增 Android 平台，覆盖 Win/macOS/Linux/安卓四端",
+          "基于 Wails v3 + Go + Vue 3 构建，安装包仅约 15MB",
+          "整合终端、文件传输、远程桌面、数据库、K8s 与 AI 助理",
+          "支持 30 余种网络协议，主打一站式运维"
+        ],
+        "detail": "uniTerm 是一款轻量级跨平台终端软件，基于 Wails v3、Go 和 Vue 3 打造。它把远程终端、文件传输、远程桌面、数据库客户端、容器与 Kubernetes 管理、服务器监控和 AI 助理集成进约 15MB 的包内，支持 30 多种网络协议。此次 v1.10 最大变化是推出安卓版，让手机也能进行 SSH",
+        "generatedAt": "2026-10-08T09:25:03+08:00"
       }
     },
     {
