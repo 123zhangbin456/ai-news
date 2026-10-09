@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "updatedAt": "2026-10-09T08:53:30+08:00",
+  "updatedAt": "2026-10-09T09:31:55+08:00",
   "items": [
     {
       "id": "51c6cb3bd66a262b",
@@ -38,6 +38,45 @@
         "generatedAt": "2026-10-09T08:53:18+08:00"
       },
       "pushedAt": "2026-10-09T08:53:30+08:00"
+    },
+    {
+      "id": "d0d3870d5c8863b8",
+      "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
+      "url": "https://qbitai.com/2026/10/502083.html",
+      "summary": "新的“缝合怪”已经出现，怎么能够停滞不前",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T08:16:56+08:00",
+      "fetchedAt": "2026-10-09T09:31:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "Claude",
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 69,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "谷歌发布办公Agent，支持调用Claude",
+        "takeaway": "谷歌不等Gemini 4，先推出办公Agent，还能调用竞争对手Claude。",
+        "bullets": [
+          "谷歌发布办公场景Agent，主打办公任务自动化",
+          "该Agent支持调用Claude，跨模型协作成看点",
+          "未等Gemini 4发布，谷歌先出产品抢节奏"
+        ],
+        "detail": "谷歌在Gemini 4尚未发布时，先推出面向办公场景的Agent。它不仅能处理办公任务，还支持调用竞争对手Anthropic的Claude，被量子位称为“缝合怪”。这显示谷歌在Agent赛道加快落地，并愿意接入外部模型。",
+        "generatedAt": "2026-10-09T09:31:52+08:00"
+      },
+      "pushedAt": "2026-10-09T09:31:55+08:00"
     },
     {
       "id": "f526dbecf422929f",
@@ -295,6 +334,40 @@
       }
     },
     {
+      "id": "aae0812c9c663814",
+      "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+      "url": "https://qbitai.com/2026/10/502089.html",
+      "summary": "彻底撕破脸了",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T08:35:57+08:00",
+      "fetchedAt": "2026-10-09T09:31:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "陶哲轩带头，人类数学家联合抵制 OpenAI",
+        "takeaway": "数学界与 OpenAI 矛盾公开化，陶哲轩等数学家联合发声抵制，AI 与学术界的紧张关系升级。",
+        "bullets": [
+          "陶哲轩带头，多位数学家联合抵制 OpenAI",
+          "量子位报道称双方彻底撕破脸",
+          "事件反映 AI 与学术界的矛盾激化"
+        ],
+        "detail": "据量子位报道，数学家陶哲轩带头，人类数学家联合抵制 OpenAI，双方矛盾彻底公开化。这标志着 AI 公司与学术界的紧张关系进一步升级。",
+        "generatedAt": "2026-10-09T09:31:52+08:00"
+      }
+    },
+    {
       "id": "301544ff1a07499c",
       "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
       "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
@@ -331,6 +404,79 @@
       }
     },
     {
+      "id": "e795790bb7b1d286",
+      "title": "ttok 0.4",
+      "url": "https://simonwillison.net/2026/Oct/8/ttok",
+      "summary": "Release: ttok 0.4 ttok is my CLI tool for counting tokens, using OpenAI's open source tiktoken library. It hasn't been in updated in a couple of years, but I finally fixed a Click warning, updated CI, and added a --list-models command to li…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T07:34:28+08:00",
+      "fetchedAt": "2026-10-09T09:31:46+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open source",
+        "library"
+      ],
+      "confidence": 0.63,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Simon Willison 发布 ttok 0.4，新增模型列表命令",
+        "takeaway": "停更两年的 token 计数 CLI 工具终于更新，修复警告并支持列出模型。",
+        "bullets": [
+          "ttok 是基于 OpenAI 开源 tiktoken 库的命令行 token 计数工具",
+          "本次修复 Click 警告并更新了 CI 流程",
+          "新增 --list-models 命令，可直接列出可用模型"
+        ],
+        "detail": "ttok 是 Simon Willison 用 OpenAI 开源 tiktoken 库做的命令行 token 计数工具，已停更约两年。这次 0.4 版修复了一个 Click 警告、更新了持续集成，并加入 --list-models 命令，方便查看可用模型。",
+        "generatedAt": "2026-10-09T09:31:52+08:00"
+      }
+    },
+    {
+      "id": "41d58e02e4dcc064",
+      "title": "Quantization of Linear-Attention (Qwen & Kimi)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x18bsm/quantization_of_linearattention_qwen_kimi",
+      "summary": "submitted by /u/kroggens [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T09:17:13+08:00",
+      "fetchedAt": "2026-10-09T09:31:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "线性注意力模型量化新进展：Qwen 与 Kimi 适配",
+        "takeaway": "社区探索对 Qwen 和 Kimi 的线性注意力层做量化，有望降低本地部署显存占用。",
+        "bullets": [
+          "针对 Qwen 和 Kimi 的线性注意力机制做量化",
+          "来自 r/LocalLLaMA 社区，面向本地部署场景",
+          "目标是在保持效果的同时减少显存和算力开销"
+        ],
+        "detail": "有开发者在 LocalLLaMA 社区分享了针对线性注意力结构的量化方案，涉及 Qwen 和 Kimi 两个模型。线性注意力本身计算量较低，量化后有望进一步压缩资源占用，让这类模型更容易在本地设备上运行。",
+        "generatedAt": "2026-10-09T09:31:53+08:00"
+      }
+    },
+    {
       "id": "6a5f0d623f9a0b31",
       "title": "chatgpt's new intelligent ui was reverse engineered in less than 24 hours, and apparently you can recreate it with local llms",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x0y4lv/chatgpts_new_intelligent_ui_was_reverse",
@@ -364,6 +510,40 @@
         ],
         "detail": "有网友在 LocalLLaMA 分享了对 ChatGPT 新智能 UI 的技术拆解。该功能上线不到一天就被逆向分析，结论是这套交互逻辑并非不可复制，用本地大模型也能搭出类似效果。",
         "generatedAt": "2026-10-09T03:05:51+08:00"
+      }
+    },
+    {
+      "id": "038c51e82c80b371",
+      "title": "在生产环境中保护MCP：超越网关的纵深防御",
+      "url": "https://infoq.cn/article/HZIW4QjEfV66I9CGr52R",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T17:05:00+08:00",
+      "fetchedAt": "2026-10-09T09:31:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "生产环境中的MCP安全：超越网关的纵深防御",
+        "takeaway": "MCP 进入生产环境后，仅靠网关防护不够，需要多层纵深防御来保障安全。",
+        "bullets": [
+          "MCP 在生产环境的安全不能只依赖网关",
+          "需要采用纵深防御策略，覆盖多个层面",
+          "该话题来自 InfoQ 中国，面向工程实践"
+        ],
+        "detail": "文章讨论在生产环境中保护 MCP（模型上下文协议）的安全问题。核心观点是：单靠 API 网关不足以应对风险，需要构建超越网关的纵深防御体系，从多个层面加固。",
+        "generatedAt": "2026-10-09T09:31:53+08:00"
       }
     },
     {
