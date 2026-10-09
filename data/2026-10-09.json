@@ -1,7 +1,44 @@
 {
   "date": "2026-10-09",
-  "updatedAt": "2026-10-09T03:05:53+08:00",
+  "updatedAt": "2026-10-09T08:53:30+08:00",
   "items": [
+    {
+      "id": "51c6cb3bd66a262b",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "url": "https://theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T05:53:51+08:00",
+      "fetchedAt": "2026-10-09T08:53:12+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 0.4,
+      "score": 79,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Anthropic 推出免费开源项目安全扫描服务 OSS Scanner",
+        "takeaway": "Anthropic 用自家最强模型为开源项目免费定期做安全扫描，帮开发者找漏洞。",
+        "bullets": [
+          "服务名为 OSS Scanner，面向开源项目免费开放",
+          "采用自愿报名方式，由 Anthropic 最强模型定期扫描",
+          "目标是帮助开源项目发现并追踪安全漏洞"
+        ],
+        "detail": "Anthropic 推出名为 OSS Scanner 的新服务，帮助开源项目排查安全漏洞。项目方自愿报名后，Anthropic 会用其最强的模型进行定期、全面的安全扫描，且不收取费用。",
+        "generatedAt": "2026-10-09T08:53:18+08:00"
+      },
+      "pushedAt": "2026-10-09T08:53:30+08:00"
+    },
     {
       "id": "f526dbecf422929f",
       "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
@@ -26,7 +63,7 @@
       "confidence": 0.33,
       "score": 64,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic 更新使用政策，禁止对 Claude 辱骂或残忍行为",
         "takeaway": "Anthropic 一年多来首次更新使用政策，新增禁止对 Claude 辱骂或残忍，并覆盖选举干预、武器开发等高风险场景。",
@@ -38,7 +75,8 @@
         ],
         "detail": "Anthropic 对 Claude 的使用政策进行了一年多来的首次更新，以应对新出现的高风险滥用情况，包括选举干预、武器开发、监控以及健康与金融用途。其中一项新规禁止对 Claude 进行辱骂或残忍行为。",
         "generatedAt": "2026-10-09T03:05:45+08:00"
-      }
+      },
+      "pushedAt": "2026-10-09T08:53:30+08:00"
     },
     {
       "id": "c4b9450255a9e60f",
@@ -257,6 +295,42 @@
       }
     },
     {
+      "id": "301544ff1a07499c",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T04:04:26+08:00",
+      "fetchedAt": "2026-10-09T08:53:12+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 解雇安全研究员引发争议，当事人警告寒蝉效应",
+        "takeaway": "三名被解雇的 OpenAI 安全研究员否认不当处理敏感信息，警告此举打击公司 AI 安全文化。",
+        "bullets": [
+          "三名被解雇的 OpenAI 安全研究员公开否认不当处理敏感信息的指控",
+          "他们发表公开信，警告解雇事件正在公司内部制造寒蝉效应",
+          "事件引发对 OpenAI 安全文化与内部举报机制的关注"
+        ],
+        "detail": "三名被 OpenAI 解雇的安全研究员对不当处理敏感信息的指控提出异议，并发表公开信。他们警告，这些解雇正在公司内部制造寒蝉效应，可能损害 AI 安全文化。",
+        "generatedAt": "2026-10-09T08:53:18+08:00"
+      }
+    },
+    {
       "id": "6a5f0d623f9a0b31",
       "title": "chatgpt's new intelligent ui was reverse engineered in less than 24 hours, and apparently you can recreate it with local llms",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x0y4lv/chatgpts_new_intelligent_ui_was_reverse",
@@ -437,6 +511,291 @@
       }
     },
     {
+      "id": "429b12e0917d3152",
+      "title": "Quoting Carson Gross",
+      "url": "https://simonwillison.net/2026/Oct/8/carson-gross",
+      "summary": "Computer programming is, fundamentally, about two things: Problem-solving using computers Learning to control complexity while solving these problems I have a hard time imagining a future where knowing how to solve problems with computers a…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T05:05:44+08:00",
+      "fetchedAt": "2026-10-09T08:53:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "编程的本质：解决问题与控制复杂度",
+        "takeaway": "Carson Gross 认为编程核心是解决问题和控制复杂度，AI 时代这一能力依然不可替代。",
+        "bullets": [
+          "编程本质是两件事：用计算机解决问题、在解决中控制复杂度",
+          "Carson Gross 难以想象未来不需要这种能力的场景",
+          "该观点由 Simon Willison 引用，引发对 AI 编程的思考"
+        ],
+        "detail": "Carson Gross 指出，编程归根结底就两件事：用计算机解决问题，以及在解决问题的过程中学会控制复杂度。他很难想象未来会不需要这种能力。",
+        "generatedAt": "2026-10-09T08:53:20+08:00"
+      }
+    },
+    {
+      "id": "da3ca48318e6b2ae",
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T05:00:00+08:00",
+      "fetchedAt": "2026-10-09T08:53:12+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "founder"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "工程师用庭审文件打造网站，模拟翻看霍姆斯办公桌",
+        "takeaway": "Extend 工程师 Bo Lau 利用美国诉 Elizabeth Holmes 案的上千份庭审文件，创建了一个模拟翻看 Theranos 创始人办公桌的网站。",
+        "bullets": [
+          "网站基于美国诉 Elizabeth Holmes 案中公开的 1000 多份邮件、幻灯片、短信和文件。",
+          "由 Extend 工程师 Bo Lau 制作，模拟在霍姆斯办公桌前翻看资料的感觉。",
+          "让访客以第一视角探索 Theranos 丑闻的关键证据。"
+        ],
+        "detail": "Extend 工程师 Bo Lau 从美国诉 Elizabeth Holmes 案的庭审材料中，收集了超过一千份邮件、幻灯片、短信和文件，并以此为基础制作了一个网站。该网站模拟了坐在 Theranos 创始人 Elizabeth Holmes 办公桌前，随意翻看这些资料的感觉。",
+        "generatedAt": "2026-10-09T08:53:20+08:00"
+      }
+    },
+    {
+      "id": "ebb614553ba6c1d6",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T08:08:24+08:00",
+      "fetchedAt": "2026-10-09T08:53:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "MIT圆桌对话：AI设计病毒背后的创造者",
+        "takeaway": "斯坦福博士生用生成式AI设计出病毒基因蓝图，MIT Tech Review邀其对话，探讨AI设计生命的边界。",
+        "bullets": [
+          "2025年斯坦福博士生Samuel King用生成式AI提出微型病毒的基因蓝图",
+          "MIT Tech Review举办圆桌对话，邀请这位AI设计病毒的创造者",
+          "核心议题：AI能否设计新生命形式，及其潜在影响"
+        ],
+        "detail": "2025年，斯坦福大学博士生Samuel King用生成式AI模型提出了微型病毒的基因蓝图，初步回答了“AI能否设计新生命形式”这一问题。MIT Tech Review为此举办圆桌对话，邀请他本人参与讨论。",
+        "generatedAt": "2026-10-09T08:53:20+08:00"
+      }
+    },
+    {
+      "id": "dc392c2fc2c0994b",
+      "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
+      "url": "https://wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate",
+      "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T03:30:00+08:00",
+      "fetchedAt": "2026-10-09T08:53:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "她为 Meta 设计新 AI 标志，却招来一片骂声",
+        "takeaway": "设计师 Jessica Hische 为 Meta 设计新 AI 标志后遭遇猛烈网络攻击，引发对科技公司合作伦理的讨论。",
+        "bullets": [
+          "Jessica Hische 为 Meta 设计了新 AI 标志",
+          "她预料到会有人不满，但没料到愤怒如此强烈",
+          "事件凸显设计师与争议科技公司合作的舆论风险"
+        ],
+        "detail": "设计师 Jessica Hische 接下了为 Meta 设计新 AI 标志的工作，她事先知道这可能让一些人不快，但实际遭遇的愤怒远超预期。这起事件反映了公众对 Meta 的负面情绪如何波及合作者。",
+        "generatedAt": "2026-10-09T08:53:22+08:00"
+      }
+    },
+    {
+      "id": "86cf16324c004cb8",
+      "title": "Strata rewrote their Github history to wipe evidence of Claude-authoring",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x15a8w/strata_rewrote_their_github_history_to_wipe",
+      "summary": "Just noticed this today when I went to run the built-in \"UPDATE\" script and git failed because there was no common ancestor. Looked into why, and apparently every historical commit has been re-written to strip the \"Co-Authored by Claude\" te…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T06:52:03+08:00",
+      "fetchedAt": "2026-10-09T08:53:12+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 0.5,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Strata 被曝重写 Git 历史，抹除 Claude 代写痕迹",
+        "takeaway": "开源项目 Strata 疑似用 Claude 生成代码后重写提交历史，删除 AI 协作署名，引发信任争议。",
+        "bullets": [
+          "用户运行内置更新脚本时报错，发现仓库历史被整体重写",
+          "所有旧提交中的「Co-Authored by Claude」署名被清除",
+          "重写导致新旧历史无共同祖先，正常拉取更新失败",
+          "事件在 r/LocalLLaMA 曝光，引发对 AI 代码署名的讨论"
+        ],
+        "detail": "有用户在执行 Strata 内置更新脚本时，因仓库缺少共同祖先而失败，追查后发现整个 Git 历史被重写，原本每次提交里的「Co-Authored by Claude」署名都被删掉。此举被质疑是在掩盖代码由 Claude 代写的事实，也破坏了依赖正常历史的更新流程。",
+        "generatedAt": "2026-10-09T08:53:22+08:00"
+      }
+    },
+    {
+      "id": "e1475b62e027a0c2",
+      "title": "California is trying to shut down robot vs. human cage matches",
+      "url": "https://theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a huma…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T04:06:56+08:00",
+      "fetchedAt": "2026-10-09T08:53:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "加州叫停人机笼斗：监管机构向机器人格斗初创发停业函",
+        "takeaway": "加州体育委员会叫停人机笼斗，监管空白下的人机对抗赛事先行受阻。",
+        "bullets": [
+          "加州体育委员会向举办人机笼斗的初创公司发出停业函",
+          "比赛于9月18日举行，由人类对战机器人",
+          "监管机构认为此类赛事可能违反体育竞技规定",
+          "事件引发对机器人格斗监管归属的讨论"
+        ],
+        "detail": "加州体育委员会向一家初创公司发出停业函，因其上月举办了一场人类与机器人的笼斗比赛。这场于9月18日进行的对决，因缺乏明确监管而引发争议，委员会认为其可能违反体育竞技规定。",
+        "generatedAt": "2026-10-09T08:53:22+08:00"
+      }
+    },
+    {
+      "id": "79370d9e42ba4bf3",
+      "title": "Qwen 3.6 35B appreciation post",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x17brf/qwen_36_35b_appreciation_post",
+      "summary": "Referring to specifically Unsloth's UD_Q4_K_XL quant because that's going to be a question, and is relevant regardless. It's old now. It's not great at coding medium sized or even small-ish projects. I wouldn't hand my codebase to it by any…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T08:27:06+08:00",
+      "fetchedAt": "2026-10-09T08:53:12+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.6 35B 获社区点赞，但编码能力已显过时",
+        "takeaway": "Reddit 用户发帖称赞 Qwen 3.6 35B，但指出它已老旧，不适合处理中小型编码项目。",
+        "bullets": [
+          "发帖人特指 Unsloth 的 UD_Q4_K_XL 量化版本",
+          "该模型在编码中小型项目上表现不佳",
+          "发帖人表示不会把代码库交给它处理"
+        ],
+        "detail": "这是 r/LocalLLaMA 上的一篇 Qwen 3.6 35B 称赞帖，发帖人特别提到 Unsloth 的 UD_Q4_K_XL 量化版本。但他也坦言该模型已经老旧，在编码中小型甚至小型项目上表现都不够好，不会放心把自己的代码库交给它。",
+        "generatedAt": "2026-10-09T08:53:23+08:00"
+      }
+    },
+    {
+      "id": "52d50841ba1453f7",
+      "title": "GPU - Vulkan llama.cpp benchmarks sorted by price to performance",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x12dkh/gpu_vulkan_llamacpp_benchmarks_sorted_by_price_to",
+      "summary": "This table to help anyone looking to build a budget Data Center homelab. I copied the bulk of value based, mid level, decent speed results GPUs and feed it to AI or SI and here are the recommended results. Data taken from Llama.cpp discussi…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T04:49:04+08:00",
+      "fetchedAt": "2026-10-09T08:53:12+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU",
+        "GPUs",
+        "data center"
+      ],
+      "confidence": 0.63,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Vulkan 版 llama.cpp GPU 性价比排行出炉",
+        "takeaway": "一份按性价比排序的 GPU 跑分表，帮预算有限的玩家搭建本地 AI 小机房。",
+        "bullets": [
+          "数据来自 llama.cpp 讨论区，用 Vulkan 后端测速",
+          "筛选出中端、速度尚可且价格合理的显卡",
+          "结果经 AI 整理，面向预算型家庭数据中心",
+          "适合想低成本跑本地大模型的用户参考"
+        ],
+        "detail": "有人把 llama.cpp 讨论区里 Vulkan 后端的 GPU 跑分整理成表，按性价比排序，重点收录价格适中、速度够用的中端卡。表格交给 AI 汇总后给出推荐结果，目标是帮预算有限的人搭建家用 AI 小机房。",
+        "generatedAt": "2026-10-09T08:53:24+08:00"
+      }
+    },
+    {
       "id": "028455f904fca10c",
       "title": "为迎接 iPhone Duo，iOS 开发者需要对应用做出哪些调整",
       "url": "https://infoq.cn/article/CFbVqLXwQvbbhiTMy83e",
@@ -497,6 +856,40 @@
       "pushed": false
     },
     {
+      "id": "a34c1f5b88759bc1",
+      "title": "Inside Elon Musk’s Midterm Spending Spree",
+      "url": "https://wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree",
+      "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T05:14:12+08:00",
+      "fetchedAt": "2026-10-09T08:53:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "马斯克中期选举撒钱内幕：PAC豪掷数百万",
+        "takeaway": "Wired播客揭秘马斯克政治行动委员会的中期选举支出，以及特朗普新靶子和Muse标志设计师遭抵制。",
+        "bullets": [
+          "马斯克旗下PAC在中期选举中投入数百万美元，具体流向引关注。",
+          "特朗普又给某种意识形态贴上“危险”标签，延续其话语攻势。",
+          "Muse乐队标志设计师因争议设计遭到公众抵制。"
+        ],
+        "detail": "本期“Uncanny Valley”播客聚焦马斯克政治行动委员会在中期选举中的巨额支出，探讨这些资金的具体去向。节目还讨论了特朗普最新宣称危险的意识形态，以及Muse乐队标志设计师因设计引发的抵制风波。",
+        "generatedAt": "2026-10-09T08:53:24+08:00"
+      }
+    },
+    {
       "id": "7624be09f6f0210a",
       "title": "chat with llm model with zero setup!",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x0xk7d/chat_with_llm_model_with_zero_setup",
@@ -516,6 +909,54 @@
       "keywords": [],
       "confidence": 0,
       "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b8c475ba50c1f3e9",
+      "title": "特朗普为什么非要给AI改名字",
+      "url": "https://tmtpost.com/8161128.html",
+      "summary": "从AI到SI，AI巨头的反应并不整齐。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T08:41:29+08:00",
+      "fetchedAt": "2026-10-09T08:53:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9614729cfec30e35",
+      "title": "卖机器人“皮肤”之外，触觉厂商还想卖数据和模型",
+      "url": "https://tmtpost.com/8161374.html",
+      "summary": "2026年更像是机器人“皮肤”从技术样品走向产品化的一年；数据和模型的价值已经显现，但尚未形成可以独立验证的收入模式。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T08:39:16+08:00",
+      "fetchedAt": "2026-10-09T08:53:12+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "产品"
+      ],
+      "confidence": 1,
+      "score": 30,
       "related": [],
       "pushed": false
     }

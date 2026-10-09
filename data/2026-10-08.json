@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "updatedAt": "2026-10-09T03:05:53+08:00",
+  "updatedAt": "2026-10-09T08:53:30+08:00",
   "items": [
     {
       "id": "9330f10ae0c6b6bd",
@@ -178,7 +178,7 @@
       "confidence": 1,
       "score": 63,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Manus与Meta分道后首轮融资超5亿美元",
         "takeaway": "Manus脱离Meta后首轮融资超5亿美元，博裕与IDG领投，腾讯等老股东跟投。",
@@ -189,7 +189,8 @@
         ],
         "detail": "中国AI公司Manus在与Meta分拆后完成首轮融资，募资超过5亿美元。本轮由博裕资本和IDG资本领投，现有股东腾讯、HSG（原红杉中国）、真格基金等也参与其中。",
         "generatedAt": "2026-10-09T01:37:33+08:00"
-      }
+      },
+      "pushedAt": "2026-10-09T08:53:30+08:00"
     },
     {
       "id": "36bf85cb54324cff",
@@ -327,7 +328,7 @@
       "confidence": 0.67,
       "score": 61,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "谷歌推出本地优先AI会议记录应用，对标Granola",
         "takeaway": "谷歌发布AI Edge Foresight，用端侧AI离线转录会议、生成笔记并回答问题，挑战Granola。",
@@ -338,7 +339,8 @@
         ],
         "detail": "谷歌发布了一款名为AI Edge Foresight的新应用，定位为本地优先的会议笔记工具。它能在设备端离线完成对话转录、笔记生成和问答，无需联网，直接与Granola展开竞争。",
         "generatedAt": "2026-10-09T01:37:33+08:00"
-      }
+      },
+      "pushedAt": "2026-10-09T08:53:30+08:00"
     },
     {
       "id": "54da693e6cb24610",
@@ -2188,6 +2190,40 @@
       }
     },
     {
+      "id": "f6d3626eb7c890d9",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T20:00:00+08:00",
+      "fetchedAt": "2026-10-09T08:53:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "LegalOn 将 Codex 成本砍半，开发速度不减",
+        "takeaway": "法律科技公司 LegalOn 通过任务分级和预算管理，把 Codex 日成本降低 65%，开发效率未受影响。",
+        "bullets": [
+          "LegalOn 每日 Codex 预估成本下降 65%",
+          "按任务匹配 Astra、Sol、Luna 等模型",
+          "采用策略性预算管理，开发速度不变"
+        ],
+        "detail": "LegalOn 把不同的开发任务分配给 Astra、Sol、Luna 等模型，并配合预算管理，使 Codex 的每日预估成本降低了 65%，同时开发速度没有下降。这说明合理调度模型可以大幅节省 AI 编程开销。",
+        "generatedAt": "2026-10-09T08:53:18+08:00"
+      }
+    },
+    {
       "id": "0825a4897dea2e82",
       "title": "Multimodal open d1 decision models for the edge",
       "url": "https://huggingface.co/blog/LiquidAI/open-d1",
@@ -3921,6 +3957,29 @@
       "pushed": false
     },
     {
+      "id": "0f05fd4155a46f47",
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T08:00:00+08:00",
+      "fetchedAt": "2026-10-09T08:53:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "c503a4ce6d39e1c6",
       "title": "自动驾驶货运的下一战：不在卡车里，在 500 英里以内",
       "url": "https://tmtpost.com/8161239.html",
@@ -3939,6 +3998,31 @@
       "category": "政策监管",
       "keywords": [
         "监管"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8494b8dcf4cd5184",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "url": "https://dgt.is/blog/2026-10-07-deepseek-freek-out",
+      "summary": "Article URL: https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/ Comments URL: https://news.ycombinator.com/item?id=50000488 Points: 364 # Comments: 310",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-08T08:14:48+08:00",
+      "fetchedAt": "2026-10-09T08:53:12+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
       ],
       "confidence": 1,
       "score": 29,
