@@ -1,7 +1,43 @@
 {
   "date": "2026-10-10",
-  "updatedAt": "2026-10-09T03:05:53+08:00",
+  "updatedAt": "2026-10-09T18:45:18+08:00",
   "items": [
+    {
+      "id": "00a2a41b8f18304b",
+      "title": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+      "url": "https://infoq.cn/article/e0iQfJNgepz7VigRdD61",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-10T01:39:38+08:00",
+      "fetchedAt": "2026-10-09T18:44:59+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "前 OpenAI 研究员：Codex 与 Claude Code 方向跑偏，Jev 出现前 AI 是悲剧",
+        "takeaway": "前 OpenAI 研究员批评现有编程 AI 路线，认为 Jev 才是正确方向，引发对 AI 编程工具路线的讨论。",
+        "bullets": [
+          "前 OpenAI 研究员称 Codex 和 Claude Code 都跑偏了",
+          "他认为在 Jev 出现之前，AI 世界是个悲剧",
+          "言论指向 AI 编程工具的技术路线之争"
+        ],
+        "detail": "一位前 OpenAI 研究员公开表示，当前主流的编程 AI 如 Codex 和 Claude Code 都走错了方向。他声称在 Jev 出现之前，整个 AI 世界都是一场悲剧，暗示 Jev 才是正确的解法。",
+        "generatedAt": "2026-10-09T18:45:07+08:00"
+      }
+    },
     {
       "id": "112b5f00879d4fef",
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
@@ -34,6 +70,114 @@
         ],
         "detail": "甲骨文在招聘、工程和运营等环节引入 ChatGPT 与 Codex，把原本依赖专家个人经验的工作，改造成标准化、可反复使用的流程。这样一来，过去要花上几天才能完成的任务，现在几分钟就能搞定。",
         "generatedAt": "2026-10-09T03:05:46+08:00"
+      }
+    },
+    {
+      "id": "a682fe775ea6f5b5",
+      "title": "OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的",
+      "url": "https://infoq.cn/article/IRqoPz4cNONlNFBolD9V",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-10T01:24:31+08:00",
+      "fetchedAt": "2026-10-09T18:44:59+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 高管复盘：一周内做出 Jev 竞品",
+        "takeaway": "OpenAI 高管亲述团队如何在一周内快速推出竞品，展现其研发速度与应对竞争的方式。",
+        "bullets": [
+          "OpenAI 高管公开复盘一周内做出 Jev 竞品的经过",
+          "内容来自 InfoQ 中国，属行业经验分享",
+          "体现 AI 大厂面对竞品时的快速反应能力"
+        ],
+        "detail": "InfoQ 中国报道，OpenAI 高管亲自讲述团队如何在一周内做出 Jev 的竞品。原文未披露更多技术细节，但这一复盘展示了 OpenAI 在竞争压力下的快速产品响应节奏。",
+        "generatedAt": "2026-10-09T18:45:10+08:00"
+      }
+    },
+    {
+      "id": "014b49dcd792666b",
+      "title": "@ 一下就能派活？谷歌推出办公 Agent，拥有独立账号、能够创建子 Agent，还能调用 Claude",
+      "url": "https://infoq.cn/article/490gIS9Bk0NmylN7GIt1",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-10T01:15:07+08:00",
+      "fetchedAt": "2026-10-09T18:44:59+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出",
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌推出办公 Agent：独立账号、可创建子 Agent、还能调用 Claude",
+        "takeaway": "谷歌发布办公场景 Agent，能像同事一样被 @ 派活，并支持跨模型调用 Claude。",
+        "bullets": [
+          "谷歌推出面向办公场景的 Agent，拥有独立账号",
+          "支持创建子 Agent，可 @ 一下直接派活",
+          "还能调用 Claude，跨模型协作",
+          "目前信息来自 InfoQ 中国，细节待官方披露"
+        ],
+        "detail": "谷歌推出了一款办公 Agent，它拥有自己的独立账号，可以像团队成员一样被 @ 来分配任务。它还能创建子 Agent 来拆分工作，并且能够调用 Claude 等其他模型。这意味着办公自动化可能从工具调用走向多 Agent 协作。",
+        "generatedAt": "2026-10-09T18:45:10+08:00"
+      }
+    },
+    {
+      "id": "af07a07415758b0d",
+      "title": "黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值”",
+      "url": "https://infoq.cn/article/dQy1xkMRuPVj1Xh7Pohu",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-10T01:53:58+08:00",
+      "fetchedAt": "2026-10-09T18:44:59+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "英伟达"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋为微软站台：没有 Windows 就没有英伟达",
+        "takeaway": "黄仁勋公开感谢微软，称 Windows 生态成就了英伟达，Satya 则幽默回应市值话题。",
+        "bullets": [
+          "黄仁勋称没有 Windows 就不会有英伟达，强调微软生态的重要性。",
+          "微软 CEO Satya 当场调侃，向黄仁勋“讨要”市值。",
+          "双方互动凸显英伟达与微软在 AI 算力领域的紧密关系。"
+        ],
+        "detail": "英伟达 CEO 黄仁勋为微软站台时表示，没有 Windows 就不会有英伟达，强调微软平台对英伟达发展的关键作用。微软 CEO Satya 则当场幽默回应，调侃英伟达的高市值。",
+        "generatedAt": "2026-10-09T18:45:12+08:00"
       }
     },
     {
@@ -104,6 +248,40 @@
         ],
         "detail": "Natura 推出了一款名为 Interface 的智能戒指，售价 99 美元。用户只需按一下手指，就能召唤 AI 代理来完成任务、记录想法或控制设备，同时它还能作为健康追踪器使用。",
         "generatedAt": "2026-10-09T01:37:39+08:00"
+      }
+    },
+    {
+      "id": "d5a1b0e6f0e710e2",
+      "title": "Modal 破解 Kubernetes 限制，在几秒内扩展 100 万个并发沙箱",
+      "url": "https://infoq.cn/article/tor9ik2Xesfgf1x3CadO",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-10T01:10:00+08:00",
+      "fetchedAt": "2026-10-09T18:44:59+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Modal 突破 K8s 限制，数秒扩展百万并发沙箱",
+        "takeaway": "Modal 展示在几秒内扩展 100 万个并发沙箱，绕开 Kubernetes 的扩展瓶颈。",
+        "bullets": [
+          "Modal 实现数秒内扩展 100 万个并发沙箱",
+          "方案绕开了 Kubernetes 的扩展限制",
+          "对大规模 AI 沙箱与无服务器场景有参考价值"
+        ],
+        "detail": "Modal 公布了一种突破 Kubernetes 扩展限制的方法，能在几秒内拉起 100 万个并发沙箱。这为需要海量隔离运行环境的 AI 与无服务器场景提供了新思路。",
+        "generatedAt": "2026-10-09T18:45:18+08:00"
       }
     }
   ],
