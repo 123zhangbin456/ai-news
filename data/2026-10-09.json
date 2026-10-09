@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "updatedAt": "2026-10-09T09:31:55+08:00",
+  "updatedAt": "2026-10-09T10:21:41+08:00",
   "items": [
     {
       "id": "51c6cb3bd66a262b",
@@ -230,6 +230,42 @@
       }
     },
     {
+      "id": "4c7e5e8f09f781fa",
+      "title": "Kimi 现代高速开源治理的 AI Native 实践｜QCon上海",
+      "url": "https://infoq.cn/article/832RV3o8ireEdJpO9H4v",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T18:00:00+08:00",
+      "fetchedAt": "2026-10-09T10:21:32+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.4,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Kimi 分享 AI Native 开源治理实践，亮相 QCon 上海",
+        "takeaway": "Kimi 在 QCon 上海讲述如何用 AI Native 方式做现代高速开源治理，值得关注开源与 AI 结合的人一看。",
+        "bullets": [
+          "Kimi 在 QCon 上海分享开源治理经验",
+          "主题为现代高速开源治理的 AI Native 实践",
+          "聚焦 AI 原生方法如何提升开源协作效率"
+        ],
+        "detail": "InfoQ 中国消息，Kimi 在 QCon 上海带来一场关于开源治理的分享，主题是“现代高速开源治理的 AI Native 实践”。内容围绕如何用 AI 原生的思路应对高速发展的开源项目治理问题，具体细节需查看原文。",
+        "generatedAt": "2026-10-09T10:21:41+08:00"
+      }
+    },
+    {
       "id": "3bf143dd453c02c2",
       "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
       "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected",
@@ -365,6 +401,40 @@
         ],
         "detail": "据量子位报道，数学家陶哲轩带头，人类数学家联合抵制 OpenAI，双方矛盾彻底公开化。这标志着 AI 公司与学术界的紧张关系进一步升级。",
         "generatedAt": "2026-10-09T09:31:52+08:00"
+      }
+    },
+    {
+      "id": "d2008f0fb6004056",
+      "title": "OpenAI和Anthropic，开启“模型之战”",
+      "url": "https://tmtpost.com/8161593.html",
+      "summary": "两家相似巨头，两条不同的路。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T09:34:00+08:00",
+      "fetchedAt": "2026-10-09T10:21:32+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 与 Anthropic 开启模型之战，两条路线正面交锋",
+        "takeaway": "两大 AI 巨头走上不同发展路径，模型竞争进入新阶段，值得关注格局变化。",
+        "bullets": [
+          "OpenAI 与 Anthropic 被指开启新一轮模型之战",
+          "两家公司体量相似，但选择了不同路线",
+          "竞争走向或影响 AI 行业格局与用户选择"
+        ],
+        "detail": "据钛媒体报道，OpenAI 和 Anthropic 这两家相似的巨头，正开启一场“模型之战”。报道指出，二者虽然体量相近，却走上了两条不同的发展道路，这场竞争也因此更具看点。",
+        "generatedAt": "2026-10-09T10:21:41+08:00"
       }
     },
     {
@@ -544,6 +614,43 @@
         ],
         "detail": "文章讨论在生产环境中保护 MCP（模型上下文协议）的安全问题。核心观点是：单靠 API 网关不足以应对风险，需要构建超越网关的纵深防御体系，从多个层面加固。",
         "generatedAt": "2026-10-09T09:31:53+08:00"
+      }
+    },
+    {
+      "id": "4a49ad785e3c2da1",
+      "title": "跳出 AI 试点陷阱：SUSE 企业级私有 AI 战略，用开源基础设施打通生产级落地",
+      "url": "https://oschina.net/news/502904",
+      "summary": "AI 发展正在经历一个非常明显的分水岭：大量企业已经跑完概念验证，做过 Demo 试点，但卡在 “从实验环境迈向生产部署” 这道鸿沟上。很多团队会遇到相似的困境：POC 阶段效果惊艳，一旦迁移到本地数据中心、离线隔离环境、多云混合架构，就会暴露出数据安全、厂商锁定、运维复杂度飙升、算力资源浪费等一系列现实难题。...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T09:55:35+08:00",
+      "fetchedAt": "2026-10-09T10:21:32+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源",
+        "部署"
+      ],
+      "confidence": 0.33,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "SUSE 推企业级私有 AI 战略，用开源基础设施打通生产落地",
+        "takeaway": "企业 AI 卡在从试点到生产的鸿沟，SUSE 主张用开源私有基础设施破局。",
+        "bullets": [
+          "大量企业已完成 AI 概念验证，却卡在生产部署环节",
+          "迁移到本地、离线或多云环境后暴露安全与运维难题",
+          "SUSE 提出以开源基础设施支撑企业级私有 AI 落地"
+        ],
+        "detail": "SUSE 指出，企业 AI 正处在分水岭：Demo 阶段效果惊艳，但一旦进入本地数据中心、离线隔离或多云混合架构，就会遇到数据安全、厂商锁定、运维复杂和算力浪费等问题。其企业级私有 AI 战略主张用开源基础设施打通生产级落地。",
+        "generatedAt": "2026-10-09T10:21:41+08:00"
       }
     },
     {
@@ -1136,6 +1243,98 @@
         "产品"
       ],
       "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "89e53a2e37e434c6",
+      "title": "人形机器人抢入口，工业机器人抢利润",
+      "url": "https://tmtpost.com/8161596.html",
+      "summary": "两种机器人，两种商业模式。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T09:52:00+08:00",
+      "fetchedAt": "2026-10-09T10:21:32+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "64649c9879c88542",
+      "title": "聚光灯之外：传统行业拥抱AI的速度，远比想象中快",
+      "url": "https://tmtpost.com/8161575.html",
+      "summary": "把人的经验，沉淀为组织的数字资产。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T09:41:00+08:00",
+      "fetchedAt": "2026-10-09T10:21:32+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d0c8e1da8847ecc5",
+      "title": "亚马逊一年裁掉3万人，省下的钱全砸进了AI",
+      "url": "https://tmtpost.com/8161599.html",
+      "summary": "亚马逊的AI困局。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T09:39:00+08:00",
+      "fetchedAt": "2026-10-09T10:21:32+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "af80d2e174f5e66a",
+      "title": "当 AI 扑进剪辑软件：视频创作的“专业权”正在被重新分配",
+      "url": "https://tmtpost.com/8161544.html",
+      "summary": "创作者的独特价值，究竟该落在哪里？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T09:28:00+08:00",
+      "fetchedAt": "2026-10-09T10:21:32+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 30,
       "related": [],
       "pushed": false
