@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "updatedAt": "2026-10-09T10:21:41+08:00",
+  "updatedAt": "2026-10-09T10:48:50+08:00",
   "items": [
     {
       "id": "51c6cb3bd66a262b",
@@ -474,6 +474,43 @@
       }
     },
     {
+      "id": "daa649667cac131b",
+      "title": "$100 预算 + 四个顶级大模型，造出的 PDF 编辑器点几下就露馅",
+      "url": "https://oschina.net/news/502906/the-remaining-shortcomings-of-coding-agents",
+      "summary": "一个研究 LLM for Code 的研究者，拿 400 美元做了个实验：给 Gemini 3.8 Flash、GPT Astra 6、Opus 5、Fable 5 四个前沿模型各 $100 预算，让它们自主开发一款「用户体验极好」的开源 PDF 编辑器——结果是「点几下就能在几乎每个里找到 bug」。作者 nielstron 据此提出：coding agent 不能像人一样和软件交互，所以它们...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T10:48:17+08:00",
+      "fetchedAt": "2026-10-09T10:48:40+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.2,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "100美元预算挑战四大模型造PDF编辑器，点几下就露馅",
+        "takeaway": "研究者给四个前沿模型各100美元自主开发PDF编辑器，结果几乎每个都经不起几下点击。",
+        "bullets": [
+          "研究者给Gemini、GPT、Opus、Fable四个模型各100美元预算",
+          "任务是自主开发一款体验极好的开源PDF编辑器",
+          "结果几乎每个产品点几下就能找到bug",
+          "作者认为coding agent无法像人一样与软件交互"
+        ],
+        "detail": "一位研究LLM写代码的研究者做了个实验：给Gemini 3.8 Flash、GPT Astra 6、Opus 5、Fable 5各100美元预算，让它们自主开发一款体验极佳的开源PDF编辑器。结果几乎每个成品点几下就能发现bug。作者由此提出，编程智能体无法像人类那样与软件交互，这可能是问题根源。",
+        "generatedAt": "2026-10-09T10:48:49+08:00"
+      }
+    },
+    {
       "id": "e795790bb7b1d286",
       "title": "ttok 0.4",
       "url": "https://simonwillison.net/2026/Oct/8/ttok",
@@ -651,6 +688,42 @@
         ],
         "detail": "SUSE 指出，企业 AI 正处在分水岭：Demo 阶段效果惊艳，但一旦进入本地数据中心、离线隔离或多云混合架构，就会遇到数据安全、厂商锁定、运维复杂和算力浪费等问题。其企业级私有 AI 战略主张用开源基础设施打通生产级落地。",
         "generatedAt": "2026-10-09T10:21:41+08:00"
+      }
+    },
+    {
+      "id": "2064a73e70706609",
+      "title": "数亿融资的AI乙游，正在失守它的阵地",
+      "url": "https://tmtpost.com/8161802.html",
+      "summary": "留给AI乙游的时间已经不多了。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T10:35:00+08:00",
+      "fetchedAt": "2026-10-09T10:48:40+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "数亿融资的AI乙游，正在失守阵地",
+        "takeaway": "AI乙游曾获数亿融资，如今市场阵地失守，留给它的时间不多了。",
+        "bullets": [
+          "AI乙游曾拿到数亿元融资，一度是热门赛道",
+          "如今该赛道正面临阵地失守的困境",
+          "行业窗口期收窄，留给AI乙游的时间已不多"
+        ],
+        "detail": "据钛媒体，AI乙游赛道曾吸引数亿元融资，被视为有潜力的方向。但如今这一领域正在失去自己的阵地，竞争与市场压力下，留给AI乙游突围的时间已经不多。",
+        "generatedAt": "2026-10-09T10:48:48+08:00"
       }
     },
     {
@@ -973,6 +1046,40 @@
       }
     },
     {
+      "id": "2e417e515f29184e",
+      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+      "url": "https://qbitai.com/2026/10/502096.html",
+      "summary": "让AI反复试错的“练兵场”来了",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T10:03:48+08:00",
+      "fetchedAt": "2026-10-09T10:48:40+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AgentGarten：让AI智能体在实时试炼场里边玩边进化",
+        "takeaway": "量子位报道，一个叫AgentGarten的练兵场让AI智能体通过反复试错实时进化。",
+        "bullets": [
+          "AgentGarten为AI智能体提供实时试炼场，支持边玩边进化",
+          "核心思路是让AI反复试错，在互动中持续提升能力",
+          "由量子位报道，属于AI智能体训练方向的新尝试"
+        ],
+        "detail": "量子位报道，AgentGarten打造了一个让AI智能体实时试错的“练兵场”。智能体可以在其中边玩边进化，通过反复尝试来提升自身能力。这为AI训练提供了一种更动态、更接近实战的思路。",
+        "generatedAt": "2026-10-09T10:48:49+08:00"
+      }
+    },
+    {
       "id": "e1475b62e027a0c2",
       "title": "California is trying to shut down robot vs. human cage matches",
       "url": "https://theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
@@ -1005,6 +1112,42 @@
         ],
         "detail": "加州体育委员会向一家初创公司发出停业函，因其上月举办了一场人类与机器人的笼斗比赛。这场于9月18日进行的对决，因缺乏明确监管而引发争议，委员会认为其可能违反体育竞技规定。",
         "generatedAt": "2026-10-09T08:53:22+08:00"
+      }
+    },
+    {
+      "id": "0a69c1a8298fedb9",
+      "title": "手机新品发布潮：集体涨价，AI上桌，折叠屏走向主流",
+      "url": "https://tmtpost.com/8161706.html",
+      "summary": "一面是出货量持续收缩，一面是万元定价集体上探。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T10:31:00+08:00",
+      "fetchedAt": "2026-10-09T10:48:40+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0.5,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "手机新品发布潮：集体涨价，AI上桌，折叠屏走向主流",
+        "takeaway": "手机新品密集发布，价格集体上探，AI成标配，折叠屏走向主流，但出货量仍在收缩。",
+        "bullets": [
+          "手机新品集中发布，万元定价集体上探",
+          "AI功能成为新机标配，登上发布会议程",
+          "折叠屏走向主流，但手机出货量持续收缩"
+        ],
+        "detail": "近期手机新品密集发布，厂商一面应对出货量持续收缩，一面将定价集体上探至万元级别。AI功能被摆上发布会议程，折叠屏也走向主流，成为新品竞争的新焦点。",
+        "generatedAt": "2026-10-09T10:48:50+08:00"
       }
     },
     {
@@ -1335,6 +1478,31 @@
       "category": "其他",
       "keywords": [],
       "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "195c7062b81df960",
+      "title": "影视公司站在AI牌桌前：谁在梭哈，谁在观望，谁在裸泳",
+      "url": "https://tmtpost.com/8161608.html",
+      "summary": "我们盘点了A股和港股上市的27家上市公司，梳理了他们在AI领域的布局。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T10:16:00+08:00",
+      "fetchedAt": "2026-10-09T10:48:40+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "上市"
+      ],
+      "confidence": 1,
       "score": 30,
       "related": [],
       "pushed": false
