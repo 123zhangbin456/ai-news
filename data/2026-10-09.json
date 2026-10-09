@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "updatedAt": "2026-10-10T01:13:30+08:00",
+  "updatedAt": "2026-10-10T02:36:17+08:00",
   "items": [
     {
       "id": "51c6cb3bd66a262b",
@@ -659,6 +659,42 @@
       }
     },
     {
+      "id": "90995f7dbc9c2674",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T15:00:00+08:00",
+      "fetchedAt": "2026-10-10T02:36:09+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 0.5,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Asana 借助 GPT-6.1 Sol 将浏览器测试模型成本降低 76 倍",
+        "takeaway": "Asana 用 GPT-6 Astra 在 Codex 中优化浏览器代理，测试中成本降 76 倍、速度提 5 倍。",
+        "bullets": [
+          "Asana 在 Codex 中使用 GPT-6 Astra 优化浏览器代理",
+          "测试显示模型成本降低 76 倍，速度提升 5 倍",
+          "目标是为客户提供更强大的模型能力"
+        ],
+        "detail": "Asana 在 Codex 中利用 GPT-6 Astra 对其浏览器代理进行优化，测试结果显示成本降低了 76 倍，速度提升了 5 倍。此举旨在让客户用上更强大的模型。",
+        "generatedAt": "2026-10-10T02:36:15+08:00"
+      }
+    },
+    {
       "id": "301544ff1a07499c",
       "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
       "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
@@ -1086,6 +1122,40 @@
         ],
         "detail": "Qwen 团队在 Hugging Face 上放出了 Qwen-Image-2.1-Turbo 图像模型。从命名看，这是 2.1 版本的加速版，主打更快的图像生成速度。目前社区关注点集中在它的实际出图质量和本地运行门槛上。",
         "generatedAt": "2026-10-10T01:13:24+08:00"
+      }
+    },
+    {
+      "id": "805a88ef4cda499b",
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "url": "https://theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media ou…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T22:25:43+08:00",
+      "fetchedAt": "2026-10-10T02:36:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "特朗普想给AI改名，这操作看着挺“人工”",
+        "takeaway": "特朗普试图给AI重新命名，延续其用绰号打击对手的风格，引发关注。",
+        "bullets": [
+          "特朗普曾用“小马可”“骗子希拉里”等绰号攻击对手",
+          "他还把“假新闻”一词从描述不良媒体变成攻击工具",
+          "如今他想给AI改名，被指手法生硬不自然"
+        ],
+        "detail": "特朗普擅长把词汇变成攻击敌人的武器，从“小马可”到“骗子希拉里”，还扭转了“假新闻”的含义。现在他又想给AI改名，但这一尝试看起来非常不自然，像是硬凑出来的政治操作。",
+        "generatedAt": "2026-10-10T02:36:15+08:00"
       }
     },
     {
@@ -1974,6 +2044,40 @@
         ],
         "detail": "近期手机新品密集发布，厂商一面应对出货量持续收缩，一面将定价集体上探至万元级别。AI功能被摆上发布会议程，折叠屏也走向主流，成为新品竞争的新焦点。",
         "generatedAt": "2026-10-09T10:48:50+08:00"
+      }
+    },
+    {
+      "id": "4c734c05fb41a55c",
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "url": "https://theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest th…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T22:00:00+08:00",
+      "fetchedAt": "2026-10-10T02:36:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "曾最受关注的 AI 智能体 Instinct，能否扛住 Muse 冲击？",
+        "takeaway": "Instinct 靠邀请制、零营销走红，如今面对 Muse 的竞争，能否存活成看点。",
+        "bullets": [
+          "Instinct 八月上线，邀请制、无营销、几乎没官网",
+          "却迅速成为当时讨论度最高的 AI 智能体",
+          "如今 Muse 来势汹汹，Instinct 面临生存考验"
+        ],
+        "detail": "在那些可爱小助手出现之前，Instinct 才是焦点。这家初创公司八月把 AI 智能体推向市场，打法很另类：只靠邀请、不做营销，连官网都简陋得可怜。可它还是迅速成了当时最火的 AI 智能体，如今却要面对 Muse 的挑战。",
+        "generatedAt": "2026-10-10T02:36:17+08:00"
       }
     },
     {
