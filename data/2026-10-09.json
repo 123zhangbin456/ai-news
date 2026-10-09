@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "updatedAt": "2026-10-09T18:45:20+08:00",
+  "updatedAt": "2026-10-10T01:13:30+08:00",
   "items": [
     {
       "id": "51c6cb3bd66a262b",
@@ -1053,6 +1053,42 @@
       }
     },
     {
+      "id": "e6b307db7ac86d35",
+      "title": "Qwen/Qwen-Image-2.1-Turbo · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x1ldef/qwenqwenimage21turbo_hugging_face",
+      "summary": "submitted by /u/chocofoxy [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T21:28:14+08:00",
+      "fetchedAt": "2026-10-10T01:13:18+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 发布 Qwen-Image-2.1-Turbo 图像模型",
+        "takeaway": "阿里 Qwen 团队在 Hugging Face 上线图像模型 Turbo 版本，主打更快的生成速度。",
+        "bullets": [
+          "模型名为 Qwen-Image-2.1-Turbo，已托管在 Hugging Face",
+          "消息由 r/LocalLLaMA 用户转发，引发本地部署讨论",
+          "Turbo 通常意味着推理加速，适合本地或低延迟场景"
+        ],
+        "detail": "Qwen 团队在 Hugging Face 上放出了 Qwen-Image-2.1-Turbo 图像模型。从命名看，这是 2.1 版本的加速版，主打更快的图像生成速度。目前社区关注点集中在它的实际出图质量和本地运行门槛上。",
+        "generatedAt": "2026-10-10T01:13:24+08:00"
+      }
+    },
+    {
       "id": "4a49ad785e3c2da1",
       "title": "跳出 AI 试点陷阱：SUSE 企业级私有 AI 战略，用开源基础设施打通生产级落地",
       "url": "https://oschina.net/news/502904",
@@ -1159,6 +1195,117 @@
         ],
         "detail": "量子位报道，Google 的一项研究成果首次登上《柳叶刀》主刊。该研究表明，AI 有望改善医患关系。这是 Google 研究在顶级医学期刊上的重要亮相。",
         "generatedAt": "2026-10-09T18:45:12+08:00"
+      }
+    },
+    {
+      "id": "19c45cc3b756fb5c",
+      "title": "A new feature for my blog, built using my voice",
+      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice",
+      "summary": "I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almost entirely using my …",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T20:54:06+08:00",
+      "fetchedAt": "2026-10-10T01:13:18+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "feature",
+        "updates"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Simon Willison 用语音为博客新增 Newsletter 索引页",
+        "takeaway": "知名开发者 Simon Willison 上线博客新功能，用语音几乎全程构建 Newsletter 索引页。",
+        "bullets": [
+          "新功能是 Newsletters 页面，汇总免费周报和赞助者月报",
+          "该功能几乎完全用语音构建，展示语音编程可行性",
+          "对关注 AI 辅助开发的人有参考价值"
+        ],
+        "detail": "Simon Willison 今天为博客上线了 Newsletters 页面，集中展示他发出的所有邮件通讯，包括免费的 Substack 周报和仅赞助者可见的月度更新。他透露这个功能几乎完全是用自己的语音构建的，展示了语音驱动开发的潜力。",
+        "generatedAt": "2026-10-10T01:13:25+08:00"
+      }
+    },
+    {
+      "id": "621d2162c6bdcf31",
+      "title": "Qwen-Image-2.1-Turbo released!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x1lclx/qwenimage21turbo_released",
+      "summary": "Qwen-Image-2.1-Turbo, create and edit images in just 8 denoising steps! Open weights now available! Built on Qwen-Image-2.1, Turbo is an accelerated checkpoint on the same 7B visual generation architecture. Fewer steps does not mean lower q…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T21:27:18+08:00",
+      "fetchedAt": "2026-10-10T01:13:18+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0.25,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen-Image-2.1-Turbo 发布：8 步去噪出图，开放权重",
+        "takeaway": "阿里 Qwen 推出加速版图像生成模型，8 步即可出图并开放权重，本地部署更省算力。",
+        "bullets": [
+          "基于 Qwen-Image-2.1，同一 7B 视觉生成架构的加速检查点",
+          "只需 8 步去噪即可生成和编辑图像，速度大幅提升",
+          "权重已开放，可在本地或自有环境部署",
+          "官方称步数减少并不代表质量下降"
+        ],
+        "detail": "Qwen 发布 Qwen-Image-2.1-Turbo，这是建立在 Qwen-Image-2.1 之上的加速版本，沿用相同的 7B 视觉生成架构。它把去噪步数压缩到 8 步就能完成图像生成与编辑，并且权重已开放下载。官方强调，步数变少并不意味着画质变差。",
+        "generatedAt": "2026-10-10T01:13:25+08:00"
+      }
+    },
+    {
+      "id": "14cad80d7533baaf",
+      "title": "GitHub - google-ai-edge/ml-drift: GPU-Accelerated AI/ML Inference",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x1owzm/github_googleaiedgemldrift_gpuaccelerated_aiml",
+      "summary": "Blog Post : ML Drift: Next-Gen GPU AI/ML Inference at the Edge - Google Developers Blog The Google AI Edge Team is excited to announce the open-source release of ML Drift , our high-performance, cross-platform, on-device GPU compute engine …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T23:50:37+08:00",
+      "fetchedAt": "2026-10-10T01:13:18+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source",
+        "github"
+      ],
+      "confidence": 0.23,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌开源 ML Drift：面向端侧的 GPU 推理引擎",
+        "takeaway": "谷歌 AI Edge 团队开源 ML Drift，一个跨平台、高性能的端侧 GPU 计算引擎，用于加速设备上的 AI/ML 推理。",
+        "bullets": [
+          "谷歌 AI Edge 团队开源 ML Drift，定位端侧 GPU 推理引擎",
+          "主打高性能、跨平台，可在设备本地跑 AI/ML 推理",
+          "面向边缘计算场景，降低对云端算力的依赖"
+        ],
+        "detail": "谷歌 AI Edge 团队宣布开源 ML Drift，这是一个高性能、跨平台的端侧 GPU 计算引擎，用于在设备本地加速 AI/ML 推理。官方称其为下一代边缘 GPU AI/ML 推理方案，具体能力与支持平台可参考谷歌开发者博客。",
+        "generatedAt": "2026-10-10T01:13:25+08:00"
       }
     },
     {
@@ -1617,6 +1764,148 @@
       }
     },
     {
+      "id": "43ef54e74d276082",
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T23:20:29+08:00",
+      "fetchedAt": "2026-10-10T01:13:18+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Hugging Face 谈 GPU 集群的高效调度",
+        "takeaway": "Hugging Face 发文讨论 GPU 集群调度，关乎大模型训练算力利用率。",
+        "bullets": [
+          "Hugging Face 发布关于 GPU 集群调度的话题",
+          "聚焦如何让集群调度更有实际影响力",
+          "对训练大模型的团队有参考价值"
+        ],
+        "detail": "Hugging Face 发布了一篇题为《Impactful scheduling for GPU clusters》的内容，讨论 GPU 集群的调度问题。原文没有提供摘要，具体方案和结论尚不明确，但主题指向提升集群算力利用效率。",
+        "generatedAt": "2026-10-10T01:13:26+08:00"
+      }
+    },
+    {
+      "id": "963b8184663b383e",
+      "title": "Quoting Matthew Green",
+      "url": "https://simonwillison.net/2026/Oct/9/matthew-green",
+      "summary": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing pub…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T23:02:29+08:00",
+      "fetchedAt": "2026-10-10T01:13:18+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raises"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "密码学家警告：我们可能正失去对现有公钥体系的信心",
+        "takeaway": "Matthew Green 提出最坏情况：有 15% 概率我们实际已对现有公钥基础设施失去信心，1% 概率活在 Minicrypt 世界。",
+        "bullets": [
+          "Matthew Green 称自己愿当'傻瓜'，提出最坏情况可能性。",
+          "他认为有 1% 概率我们生活在 Minicrypt 世界。",
+          "有 15% 概率我们实际上已对现有公钥体系失去信心。"
+        ],
+        "detail": "Matthew Green 表示，大家都太在意体面，所以他来做那个提出最坏情况的人。他估计有 1% 的概率我们生活在 Minicrypt 世界，另有 15% 的概率我们实际上已经对现有公钥体系失去了信心。",
+        "generatedAt": "2026-10-10T01:13:27+08:00"
+      }
+    },
+    {
+      "id": "c600ade0c9b50532",
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai",
+      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T23:43:33+08:00",
+      "fetchedAt": "2026-10-10T01:13:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "a16z 合伙人 Olivia Moore 谈消费级 AI 现状",
+        "takeaway": "a16z 的 Olivia Moore 认为消费级 AI 机会巨大，但需跳出订阅和 API 收费模式。",
+        "bullets": [
+          "a16z 合伙人 Olivia Moore 看好消费级 AI 的潜力",
+          "她认为行业应探索订阅和 API 之外的收入来源",
+          "这关系到消费级 AI 公司能否实现规模化盈利"
+        ],
+        "detail": "a16z 合伙人 Olivia Moore 分享了对消费级 AI 现状的看法。她认为这一领域蕴藏着巨大机会，但前提是行业能够找到订阅和 API 收费之外的更多收入来源。",
+        "generatedAt": "2026-10-10T01:13:28+08:00"
+      }
+    },
+    {
+      "id": "f4ed427af63f587e",
+      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise",
+      "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T22:00:00+08:00",
+      "fetchedAt": "2026-10-10T01:13:18+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "investors"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "TechCrunch Disrupt 2026 开幕在即，门票优惠最高省100美元",
+        "takeaway": "距大会开幕仅4天，现在购票最高可省100美元，同类型第二张票半价。",
+        "bullets": [
+          "大会将于10月13-15日在旧金山Moscone West举行",
+          "预计1万名创始人、投资人和科技领袖到场",
+          "开幕前购票最高省100美元，第二张同类型票半价"
+        ],
+        "detail": "TechCrunch Disrupt 2026 还有4天就开幕，10月13日至15日在旧金山 Moscone West 举办，预计吸引1万名创始人、投资人和科技领袖。现在购票最高可省100美元，同类型第二张票还能享受五折优惠。",
+        "generatedAt": "2026-10-10T01:13:29+08:00"
+      }
+    },
+    {
       "id": "e1475b62e027a0c2",
       "title": "California is trying to shut down robot vs. human cage matches",
       "url": "https://theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
@@ -1828,6 +2117,42 @@
         ],
         "detail": "尊界S7被曝刹车踏板断裂，官方深夜回应。懂车帝再度发声，事件持续发酵。受此影响，江淮汽车股价再度跌停。",
         "generatedAt": "2026-10-09T18:45:15+08:00"
+      }
+    },
+    {
+      "id": "7b2cb15b39a336e7",
+      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+      "url": "https://washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media",
+      "summary": "Article URL: https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/ Comments URL: https://news.ycombinator.com/item?id=50019455 Points: 140 # Comments: 126",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T20:21:24+08:00",
+      "fetchedAt": "2026-10-10T01:13:18+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "伊朗利用 ChatGPT 在美国媒体植入假文章",
+        "takeaway": "AI 生成内容被用于信息战，真实媒体成为虚假信息的载体，值得警惕。",
+        "bullets": [
+          "伊朗相关行动用 ChatGPT 生成假文章，并设法刊登在美国真实出版物上。",
+          "事件由《华盛顿邮报》报道，在 Hacker News 上引发 140 点、126 条讨论。",
+          "生成式 AI 降低了造假门槛，媒体内容审核面临新挑战。"
+        ],
+        "detail": "《华盛顿邮报》报道称，与伊朗有关联的行动利用 ChatGPT 撰写虚假文章，并成功将其植入美国真实新闻媒体。这显示生成式 AI 正被用于放大信息战，也暴露了媒体在甄别 AI 投稿方面的漏洞。",
+        "generatedAt": "2026-10-10T01:13:30+08:00"
       }
     },
     {
@@ -2185,6 +2510,74 @@
       "score": 35,
       "related": [],
       "pushed": false
+    },
+    {
+      "id": "f586b78d849b7d0d",
+      "title": "tencent/Youtu-Parsing-Omni · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x1jk9z/tencentyoutuparsingomni_hugging_face",
+      "summary": "Youtu-Parsing-Omni is a compact (5B) omni-modal parsing model. Given a single input — a document page, a natural image, a chart / flowchart, a geometry figure, an audio clip or an audio-visual video — it produces one structured JSON envelop…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T20:03:32+08:00",
+      "fetchedAt": "2026-10-10T01:13:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "腾讯开源 Youtu-Parsing-Omni：5B 多模态解析模型",
+        "takeaway": "腾讯发布 5B 小体量全能解析模型，任意输入统一输出结构化 JSON，值得关注。",
+        "bullets": [
+          "支持文档、自然图像、图表、几何图、音频、音视频输入",
+          "统一输出结构化 JSON，方便下游程序直接调用",
+          "仅 5B 参数，体量紧凑，适合本地部署"
+        ],
+        "detail": "腾讯在 Hugging Face 上开源了 Youtu-Parsing-Omni，这是一个 5B 参数的多模态解析模型。无论是文档页面、自然图像、图表流程图、几何图形，还是音频、音视频，它都能接收并统一输出结构化的 JSON 结果，方便后续处理。",
+        "generatedAt": "2026-10-10T01:13:30+08:00"
+      }
+    },
+    {
+      "id": "ce5e3682eaffe477",
+      "title": "lightonai/LightOnOCR-3-4B · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x1jdsk/lightonailightonocr34b_hugging_face",
+      "summary": "submitted by /u/SarcasticBaka [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T19:54:53+08:00",
+      "fetchedAt": "2026-10-10T01:13:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "LightOn 发布 4B 参数 OCR 模型 LightOnOCR-3",
+        "takeaway": "LightOn 在 Hugging Face 上线 4B 参数 OCR 模型，本地部署多了一个开源选择。",
+        "bullets": [
+          "LightOn 在 Hugging Face 发布 LightOnOCR-3-4B",
+          "模型规模 4B 参数，主打 OCR 文字识别",
+          "消息由 r/LocalLLaMA 用户转发，面向本地部署社区"
+        ],
+        "detail": "LightOn 在 Hugging Face 上架了 LightOnOCR-3-4B，从命名看是一个 40 亿参数的 OCR 专用模型。该消息由 r/LocalLLaMA 社区用户转发，说明它面向关注本地运行开源模型的开发者。目前公开信息只有模型页面链接，具体能力与评测尚未披露。",
+        "generatedAt": "2026-10-10T01:13:30+08:00"
+      }
     },
     {
       "id": "7ad0c50f9994cfda",
@@ -2616,6 +3009,79 @@
       "pushed": false
     },
     {
+      "id": "f82d620f3645dcfc",
+      "title": "人类愿意向女性形象的 AI 智能体支付的报酬低于男性形象智能体",
+      "url": "https://solidot.org/story?sid=85566",
+      "summary": "如果你认为性别薪酬差距不存在，或者职场中没有性别偏见，那么最好重新思考下：根据爱尔兰 Limerick 大学研究人员展开的一项研究，在一个 VR 办公室里，基于相同的底层技术但形象不同的 AI 智能体，人类参与者愿意向男性形象的智能体支付的报酬比女性形象更高。参与研究的人类共有 189 人，他们与名叫 Johan 的男性形象智能体以及名叫 Johanna 的女性形象智能体共同工作。尽管底层技术相同，对于完成相同的工作，Johanna 得到的报酬比 Johan 低 10%。Jo…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T22:52:34+08:00",
+      "fetchedAt": "2026-10-10T01:13:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "研究"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "29d7b26349cc19a7",
+      "title": "A 24KB stand-alone HTML-LLM that can generate consistent stories",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x1obep/a_24kb_standalone_htmlllm_that_can_generate",
+      "summary": "https://preview.redd.it/7sknv6omnguh1.png?width=1023&format=png&auto=webp&s=4aef1dc464d008b00f104519eb5399ba6132ad69 Want to try? Just go here and click \"New seed\" a lot. You will get different stories, it just requires some clicking - luck…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T23:27:09+08:00",
+      "fetchedAt": "2026-10-10T01:13:18+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "preview"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "72d65cfd7da75971",
+      "title": "Epyc inference rigs",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x1ld3q/epyc_inference_rigs",
+      "summary": "I posted on here a while back asking for advice on upgrading to an Epyc system. Thanks to all who commented. I’ve taken the plunge and ordered: - Epyc 7443 CPU (24 cores, 48 threads, 128 lanes) - H12SSL-NT-B motherboard (the variant with tw…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T21:27:55+08:00",
+      "fetchedAt": "2026-10-10T01:13:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "16d18c0dfca1a0b9",
       "title": "MetaOPD: Meta-Learned Token Weighting for On-Policy Distillation",
       "url": "https://arxiv.org/abs/2610.11989",
@@ -2638,6 +3104,54 @@
       "confidence": 1,
       "score": 29,
       "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "595085953aeea904",
+      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 277 # Comments: 112",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T19:03:48+08:00",
+      "fetchedAt": "2026-10-10T01:13:18+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7e8ec8534c4a9fdb",
+      "title": "I made a portable AI memory format that transfers both context and skill",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x1j2lx/i_made_a_portable_ai_memory_format_that_transfers",
+      "summary": "Last month I created a portable memory format as a .txt file as a small project. I named it as: Memory Journal, in a shape of a skill card. It's essentially a large prompt wrapped in a text file. Initial testing went better than I have expe…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-09T19:38:22+08:00",
+      "fetchedAt": "2026-10-10T01:13:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
       "related": [],
       "pushed": false
     },
