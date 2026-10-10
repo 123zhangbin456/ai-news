@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "updatedAt": "2026-10-10T06:59:13+08:00",
+  "updatedAt": "2026-10-10T09:22:40+08:00",
   "items": [
     {
       "id": "00a2a41b8f18304b",
@@ -73,6 +73,44 @@
         "generatedAt": "2026-10-09T03:05:46+08:00"
       },
       "pushedAt": "2026-10-10T06:59:13+08:00"
+    },
+    {
+      "id": "d91bc736d4f3e498",
+      "title": "My \"Anthropic/ChatGPT in a box\" is... now open source and publicly hosted on Github.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x1zlxh/my_anthropicchatgpt_in_a_box_is_now_open_source",
+      "summary": "It's been a long time coming, and I should have done this in the first place. But LumaBrowser is now open source. Since I first released it a year ago, it's had several thousand installs and an absolutely tremendous amount of feedback. And …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-10T07:00:01+08:00",
+      "fetchedAt": "2026-10-10T09:22:31+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open source",
+        "github"
+      ],
+      "confidence": 1,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "LumaBrowser 开源：把 Anthropic/ChatGPT 装进本地盒子",
+        "takeaway": "作者将自制的本地 AI 浏览器 LumaBrowser 开源并托管到 GitHub，此前已积累数千次安装。",
+        "bullets": [
+          "LumaBrowser 正式开源，代码已公开托管在 GitHub",
+          "定位是本地运行的 Anthropic/ChatGPT 类 AI 工具",
+          "发布一年获数千次安装和大量用户反馈",
+          "作者称早该开源，此次是迟来的决定"
+        ],
+        "detail": "作者在 r/LocalLLaMA 宣布，他做的 LumaBrowser 现已开源并公开托管在 GitHub 上。这个工具相当于把 Anthropic、ChatGPT 这类 AI 能力装进本地环境，发布一年来已有数千次安装，也收到大量反馈。作者坦言早该这么做。",
+        "generatedAt": "2026-10-10T09:22:39+08:00"
+      }
     },
     {
       "id": "2a1c784f84b947c8",
@@ -178,6 +216,40 @@
         "generatedAt": "2026-10-10T06:59:07+08:00"
       },
       "pushedAt": "2026-10-10T06:59:13+08:00"
+    },
+    {
+      "id": "6cd6f5cc677d305a",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-10T08:18:32+08:00",
+      "fetchedAt": "2026-10-10T09:22:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 无法可靠控制 AI 代理，切断内部评估联网",
+        "takeaway": "Anthropic 承认其 AI 代理难以可靠控制，暂时关闭内部评估的实时互联网访问。",
+        "bullets": [
+          "Anthropic 称无法可靠控制其 AI 代理",
+          "已关闭所有内部评估的实时互联网访问",
+          "该措施将持续至另行通知"
+        ],
+        "detail": "Anthropic 表示，由于无法可靠地控制其 AI 代理，已暂时关闭所有内部评估的实时互联网访问，直到另行通知。此举旨在防止代理在评估过程中意外联网引发风险。",
+        "generatedAt": "2026-10-10T09:22:38+08:00"
+      }
     },
     {
       "id": "3753b18612094153",
@@ -475,6 +547,44 @@
         "generatedAt": "2026-10-09T18:45:12+08:00"
       },
       "pushedAt": "2026-10-10T06:59:13+08:00"
+    },
+    {
+      "id": "a4aab468244a4bc6",
+      "title": "不聊天的AI，上线不到一个月，完成75亿美元估值融资",
+      "url": "https://tmtpost.com/8163464.html",
+      "summary": "非文本模型Jev开发商TypeSafe AI完成8.7亿美元融资",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-10T08:54:53+08:00",
+      "fetchedAt": "2026-10-10T09:22:31+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "估值",
+        "亿美元"
+      ],
+      "confidence": 0.83,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "不聊天的AI公司TypeSafe AI融资8.7亿美元，估值75亿",
+        "takeaway": "非文本AI模型开发商TypeSafe AI上线不到一月即获巨额融资，估值达75亿美元，引发关注。",
+        "bullets": [
+          "TypeSafe AI完成8.7亿美元融资，估值75亿美元。",
+          "公司开发非文本模型Jev，不涉及聊天功能。",
+          "产品上线不到一个月即获资本追捧。"
+        ],
+        "detail": "TypeSafe AI是一家开发非文本模型Jev的AI公司，其产品不主打聊天功能。该公司上线不到一个月，便完成了8.7亿美元融资，估值达到75亿美元。",
+        "generatedAt": "2026-10-10T09:22:38+08:00"
+      }
     },
     {
       "id": "8f83cc80b2fd1319",
@@ -875,6 +985,42 @@
         "generatedAt": "2026-10-10T06:59:12+08:00"
       },
       "pushedAt": "2026-10-10T06:59:13+08:00"
+    },
+    {
+      "id": "6d4cb94b4e898973",
+      "title": "获腾讯投资！AI存储商星辰天合的一体机毛利率连降，创始人面临对赌危机",
+      "url": "https://tmtpost.com/8163422.html",
+      "summary": "AI储存“含金量”待考。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-10T09:06:38+08:00",
+      "fetchedAt": "2026-10-10T09:22:31+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "投资"
+      ],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "腾讯投资星辰天合，AI存储一体机毛利连降、创始人面临对赌",
+        "takeaway": "AI存储公司星辰天合获腾讯投资，但一体机毛利率持续下滑，创始人面临对赌压力。",
+        "bullets": [
+          "星辰天合获腾讯投资，具体金额未披露。",
+          "其AI存储一体机毛利率连续下降，盈利承压。",
+          "创始人面临对赌协议，若业绩不达标或触发风险。"
+        ],
+        "detail": "钛媒体消息，AI存储厂商星辰天合获得腾讯投资。但该公司一体机产品毛利率连续下滑，AI存储的盈利含金量受到质疑。同时，创始人背负对赌协议，若无法达成约定业绩，可能面临回购或控制权风险。",
+        "generatedAt": "2026-10-10T09:22:40+08:00"
+      }
     },
     {
       "id": "266dbefb97b258c9",
