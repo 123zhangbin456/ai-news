@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "updatedAt": "2026-10-10T23:28:46+08:00",
+  "updatedAt": "2026-10-11T06:07:39+08:00",
   "items": [
     {
       "id": "51c6cb3bd66a262b",
@@ -2158,7 +2158,7 @@
       "confidence": 0.33,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Zentrola 1.1.0 发布：补齐应用接入、成本核算与月度 Token 配额",
         "takeaway": "面向研发团队的 AI Coding 治理平台更新，让管理员能管住模型访问、费用归属和用量上限。",
@@ -2169,7 +2169,8 @@
         ],
         "detail": "Zentrola 是给研发团队用的 AI Coding 能力治理平台，夹在 Codex、Claude Code 等客户端和企业模型服务之间。开发者照常用熟悉的工具，管理员则统一管理模型访问、凭据、用量和成本。1.1.0 在原有模型治理上，重点补上了应用接入、费用归属和 Token 配额控制。",
         "generatedAt": "2026-10-10T09:22:40+08:00"
-      }
+      },
+      "pushedAt": "2026-10-11T06:07:39+08:00"
     },
     {
       "id": "79370d9e42ba4bf3",
@@ -3540,7 +3541,8 @@
       "confidence": 0,
       "score": 25,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-11T06:07:39+08:00"
     },
     {
       "id": "5d8303e98c42f58b",
@@ -3995,7 +3997,8 @@
       "confidence": 0,
       "score": 20,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-11T06:07:39+08:00"
     }
   ],
   "topic": "ai"

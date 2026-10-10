@@ -1,7 +1,80 @@
 {
   "date": "2026-10-11",
-  "updatedAt": "2026-10-10T23:28:46+08:00",
+  "updatedAt": "2026-10-11T06:07:39+08:00",
   "items": [
+    {
+      "id": "2c9728d3318bed23",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T05:47:51+08:00",
+      "fetchedAt": "2026-10-11T06:07:17+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "says"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "纳德拉呼吁AI模型应配备“紧急刹车”",
+        "takeaway": "微软CEO纳德拉发文称，AI模型需要紧急制动机制，并重新审视信任架构。",
+        "bullets": [
+          "纳德拉在周六发帖提出AI模型需有紧急刹车",
+          "他呼吁“退一步评估AI的信任架构”",
+          "此番言论正值AI安全与监管讨论升温之际"
+        ],
+        "detail": "微软CEO萨提亚·纳德拉在周六的一篇帖子中表示，现在是时候“退一步评估AI的信任架构”了。他认为AI模型需要配备“紧急刹车”，以确保安全可控。这一表态呼应了业界对AI风险日益增长的担忧。",
+        "generatedAt": "2026-10-11T06:07:34+08:00"
+      },
+      "pushedAt": "2026-10-11T06:07:39+08:00"
+    },
+    {
+      "id": "ac1984a6a99cfe3b",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T03:50:00+08:00",
+      "fetchedAt": "2026-10-11T06:07:17+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "苹果收购播客初创Huxe团队并获技术授权",
+        "takeaway": "苹果通过人才收购加技术授权，可能布局AI生成个性化播客。",
+        "bullets": [
+          "苹果与个性化播客初创Huxe达成协议，聘用其团队并授权技术",
+          "Huxe专注AI生成个性化播客内容",
+          "此举或意味着苹果有意进入AI播客领域"
+        ],
+        "detail": "苹果披露了一项交易：从个性化播客初创公司Huxe招募团队，并获得其技术授权。Huxe主打AI生成个性化播客，这让人猜测苹果是否打算进军AI播客业务。",
+        "generatedAt": "2026-10-11T06:07:34+08:00"
+      },
+      "pushedAt": "2026-10-11T06:07:39+08:00"
+    },
     {
       "id": "5dc352509ca9389c",
       "title": "Linear 通过 1000 多次 PR 从 styled-components 迁移到 Meta 的 StyleX",
@@ -23,7 +96,7 @@
       "confidence": 0,
       "score": 41,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Linear 用 1000 多次 PR 从 styled-components 迁到 StyleX",
         "takeaway": "Linear 完成大规模样式方案迁移，为前端团队评估 CSS-in-JS 替代方案提供实战样本。",
@@ -34,7 +107,197 @@
         ],
         "detail": "Linear 把前端样式从 styled-components 迁移到 Meta 开源的 StyleX，整个过程拆成 1000 多个 PR 逐步推进。StyleX 在编译阶段生成原子化 CSS，能减少运行时开销，这次迁移也给考虑换掉 CSS-in-JS 的团队提供了一个大规模落地案例。",
         "generatedAt": "2026-10-10T23:28:38+08:00"
-      }
+      },
+      "pushedAt": "2026-10-11T06:07:39+08:00"
+    },
+    {
+      "id": "7600c75026784085",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "url": "https://theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T02:52:07+08:00",
+      "fetchedAt": "2026-10-11T06:07:17+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "lawsuit"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "DistroKid 因 UMG 诉讼悄然下架歌曲",
+        "takeaway": "DistroKid 应 UMG 诉讼要求下架歌曲，音乐人未获通知，引发对平台透明度的担忧。",
+        "bullets": [
+          "DistroKid 确认下架是对 UMG 索赔的直接回应",
+          "音乐人社交媒体抱怨作品被无通知移除",
+          "UMG 诉讼可能涉及版权侵权指控",
+          "事件引发对平台处理版权投诉透明度的关注"
+        ],
+        "detail": "音乐人纷纷在社交媒体上抱怨 DistroKid 未经通知就下架了他们的作品。DistroKid 向 The Verge 证实，这些下架行动是对环球音乐集团（UMG）所提索赔的直接回应。UMG 已提起诉讼，但具体细节尚未公开。",
+        "generatedAt": "2026-10-11T06:07:34+08:00"
+      },
+      "pushedAt": "2026-10-11T06:07:39+08:00"
+    },
+    {
+      "id": "bbfe26f47c659214",
+      "title": "Qwen3.8-Flash-Next Strata pi beat Claude-code Opus 5.5 on a 5090",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x2r5jx/qwen38flashnext_strata_pi_beat_claudecode_opus_55",
+      "summary": "I'm using Qwen3.8-Flash-Next on Strata with pi as the harness. and it was able to have a 100% score on the airbench test suite in 11mn. Claude Code, for the same task get the same score, but in 14mn. (Airbench test various task that are use…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T05:54:06+08:00",
+      "fetchedAt": "2026-10-11T06:07:17+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Qwen3.8-Flash-Next 在 5090 上跑分反超 Claude Code",
+        "takeaway": "本地模型 Qwen3.8-Flash-Next 在 5090 上以更快速度追平 Claude Code 的基准成绩，值得关注。",
+        "bullets": [
+          "用户用 Strata 搭配 pi 作为运行框架测试 Qwen3.8-Flash-Next",
+          "在 airbench 测试套件中拿到 100% 满分，耗时 11 分钟",
+          "Claude Code 同样满分，但耗时 14 分钟",
+          "测试在 5090 显卡上完成，属本地部署场景"
+        ],
+        "detail": "有用户在 Reddit 分享，用 Strata 加 pi 框架在 5090 上跑 Qwen3.8-Flash-Next，airbench 测试套件拿到满分，只用 11 分钟；Claude Code 同样满分却花了 14 分钟。airbench 覆盖多种任务，说明本地模型在速度上已有优势。",
+        "generatedAt": "2026-10-11T06:07:35+08:00"
+      },
+      "pushedAt": "2026-10-11T06:07:39+08:00"
+    },
+    {
+      "id": "25d3c6450f1c9088",
+      "title": "Benefits of using bigger models than Qwen 3.8 flash next?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x2nn4b/benefits_of_using_bigger_models_than_qwen_38",
+      "summary": "I recently started using local LLM for mostly coding tasks for my personal projects. I also have found local models responding much better for topics such as health, fitness, ergonomics etc. compared to the quality I had observed with ChatG…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T03:21:28+08:00",
+      "fetchedAt": "2026-10-11T06:07:17+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "本地大模型值不值得上？用户对比 Qwen 3.8 Flash 谈体验",
+        "takeaway": "一位本地 LLM 用户分享：更大模型在编程和健康类话题上表现优于小模型和 ChatGPT。",
+        "bullets": [
+          "用户主要用本地模型做个人项目编程",
+          "在健康、健身、人体工学等话题上本地模型回答更好",
+          "体验优于此前使用的 ChatGPT，考虑换更大模型"
+        ],
+        "detail": "这位用户在 Reddit 的 LocalLLaMA 版块发帖，说自己最近开始用本地大模型处理个人项目的编程任务，同时发现本地模型在健康、健身、人体工学等话题上的回答质量，比之前用 ChatGPT 的体验更好。帖子标题提到 Qwen 3.8 Flash，讨论是否该换用更大的模型。",
+        "generatedAt": "2026-10-11T06:07:36+08:00"
+      },
+      "pushedAt": "2026-10-11T06:07:39+08:00"
+    },
+    {
+      "id": "47e7162c7748ae71",
+      "title": "[Model] Support MiniCPM-V 4.7 by tc-mb · Pull Request #29416 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x2qsh3/model_support_minicpmv_47_by_tcmb_pull_request",
+      "summary": "Now all we need is a new model. Let me remind you that MiniCPM-V-4.7-35B-A3B was spotted on r/LocalLLaMA a few days ago (but the model was later hidden on HF). submitted by /u/jacek2023 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T05:37:21+08:00",
+      "fetchedAt": "2026-10-11T06:07:17+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "llama.cpp 已支持 MiniCPM-V 4.7，模型本体尚未放出",
+        "takeaway": "llama.cpp 合并了 MiniCPM-V 4.7 支持，但模型权重仍被隐藏，本地跑还需等发布。",
+        "bullets": [
+          "llama.cpp 的 PR #29416 加入 MiniCPM-V 4.7 支持",
+          "该模型为 35B-A3B 的 MoE 多模态架构",
+          "几天前曾在 r/LocalLLaMA 曝光，随后在 HF 被隐藏",
+          "目前只差官方放出模型权重即可本地运行"
+        ],
+        "detail": "有人向 llama.cpp 提交 PR 并加入了对 MiniCPM-V 4.7 的支持，说明推理框架这边已就绪。该模型是 35B 总参数、A3B 激活的 MoE 多模态模型，几天前在 r/LocalLLaMA 被曝光，但随后在 Hugging Face 上被隐藏。现在只等模型正式发布。",
+        "generatedAt": "2026-10-11T06:07:36+08:00"
+      },
+      "pushedAt": "2026-10-11T06:07:39+08:00"
+    },
+    {
+      "id": "70f68d518693dfe6",
+      "title": "I asked 3 Qwen 3.8 models to solve recent AtCoder problems at 4 thinking efforts",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x2ly4g/i_asked_3_qwen_38_models_to_solve_recent_atcoder",
+      "summary": "I was looking into finalizing my daily driver and it was not clear which one to chose. I have a 5060ti 16GB so I picked the following contenders, which seem to be working at a reasonable speed on my hardware: Swift 1.5 IQ2_XS GSQ-RCO under …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T02:10:24+08:00",
+      "fetchedAt": "2026-10-11T06:07:17+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Qwen 3.8 三款模型挑战 AtCoder 新题，四种思考强度实测",
+        "takeaway": "用户用 5060 Ti 16GB 实测三款 Qwen 3.8 模型解 AtCoder 题，帮本地部署选型。",
+        "bullets": [
+          "测试对象为三款 Qwen 3.8 模型，硬件是 16GB 显存的 5060 Ti",
+          "每款模型跑四种 thinking effort 强度，对比解题表现",
+          "目的是挑出适合日常使用的本地主力模型",
+          "涉及 Swift 1.5 IQ2_XS 等量化版本，关注速度与效果平衡"
+        ],
+        "detail": "这位用户想在本地选一个日常主力模型，手头是 16GB 显存的 5060 Ti，于是挑了三款在本地跑得动的 Qwen 3.8 模型，用近期 AtCoder 竞赛题做测试，并分别设置四档思考强度。摘要只提到 Swift 1.5 IQ2_XS GSQ-RCO 等量化配置，具体成绩尚未给出。",
+        "generatedAt": "2026-10-11T06:07:37+08:00"
+      },
+      "pushedAt": "2026-10-11T06:07:39+08:00"
     },
     {
       "id": "97a19d6cafad9389",
@@ -57,7 +320,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Java 生态动态：TornadoVM 7.0、Groovy 6.0 等多项目更新",
         "takeaway": "InfoQ 汇总了近期 Java 生态的重要更新，涵盖 TornadoVM、Groovy、GraalVM、Hibernate、Quarkus、Gradle 和 Maven。",
@@ -68,7 +331,8 @@
         ],
         "detail": "InfoQ 中国汇总了 Java 领域近期的一系列新闻，包括 TornadoVM 7.0、Groovy 6.0 的版本发布，以及 GraalVM、Hibernate、Quarkus、Gradle 和 Maven 等项目的更新动态。这些更新涉及性能、开发效率等方面，具体内容可查看原文。",
         "generatedAt": "2026-10-10T17:07:33+08:00"
-      }
+      },
+      "pushedAt": "2026-10-11T06:07:39+08:00"
     },
     {
       "id": "64350f35016b75e7",
@@ -91,7 +355,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "亚马逊云科技为 Aurora DSQL 引入外键约束",
         "takeaway": "Aurora DSQL 补上关系型数据库的关键能力，让分布式 SQL 更贴近传统数据库使用习惯。",
@@ -102,7 +366,8 @@
         ],
         "detail": "亚马逊云科技宣布其分布式 SQL 数据库 Aurora DSQL 现已支持外键约束。外键能确保不同表之间的数据引用保持一致，是传统关系型数据库的常见功能，但在分布式架构中实现难度较高。",
         "generatedAt": "2026-10-10T23:28:44+08:00"
-      }
+      },
+      "pushedAt": "2026-10-11T06:07:39+08:00"
     },
     {
       "id": "7a373196bcf88c7f",
@@ -125,7 +390,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "小米披露MiMo-V2.6强化学习路线：单次训练烧260万美元",
         "takeaway": "小米公开MiMo-V2.6大规模强化学习训练成本，单次后训练耗资260万美元、每步37亿Token，揭示大模型RL的算力门槛。",
@@ -136,7 +401,8 @@
         ],
         "detail": "小米公开了MiMo-V2.6的强化学习后训练方案，走的是规模化RL路线。其单次后训练花费约260万美元，每个训练步骤要处理37亿Token，成本与算力消耗都相当惊人。",
         "generatedAt": "2026-10-10T23:28:45+08:00"
-      }
+      },
+      "pushedAt": "2026-10-11T06:07:39+08:00"
     },
     {
       "id": "36cd30fa9fc96a2b",
@@ -161,7 +427,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "模型开放了，AI 能力为何仍难复用？",
         "takeaway": "模型开源不等于能力可复用，InfoQ 中国探讨开放之后落地难的现实问题。",
@@ -172,7 +438,8 @@
         ],
         "detail": "InfoQ 中国发文讨论：模型开放之后，AI 能力为什么仍难以复用。文章指向一个现实矛盾——模型权重或接口开放，并不自动带来可迁移、可复用的能力，落地仍受工程与场景条件制约。",
         "generatedAt": "2026-10-10T23:28:45+08:00"
-      }
+      },
+      "pushedAt": "2026-10-11T06:07:39+08:00"
     }
   ],
   "topic": "ai"
