@@ -1,7 +1,41 @@
 {
   "date": "2026-10-11",
-  "updatedAt": "2026-10-10T17:07:37+08:00",
+  "updatedAt": "2026-10-10T23:28:46+08:00",
   "items": [
+    {
+      "id": "5dc352509ca9389c",
+      "title": "Linear 通过 1000 多次 PR 从 styled-components 迁移到 Meta 的 StyleX",
+      "url": "https://infoq.cn/article/YLOUT8CrDm0NPWgHL8LG",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T02:09:00+08:00",
+      "fetchedAt": "2026-10-10T23:28:26+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Linear 用 1000 多次 PR 从 styled-components 迁到 StyleX",
+        "takeaway": "Linear 完成大规模样式方案迁移，为前端团队评估 CSS-in-JS 替代方案提供实战样本。",
+        "bullets": [
+          "Linear 将样式方案从 styled-components 换成 Meta 的 StyleX",
+          "迁移通过 1000 多次 PR 分批完成，而非一次性重写",
+          "StyleX 主打编译期生成原子 CSS，运行时开销更低"
+        ],
+        "detail": "Linear 把前端样式从 styled-components 迁移到 Meta 开源的 StyleX，整个过程拆成 1000 多个 PR 逐步推进。StyleX 在编译阶段生成原子化 CSS，能减少运行时开销，这次迁移也给考虑换掉 CSS-in-JS 的团队提供了一个大规模落地案例。",
+        "generatedAt": "2026-10-10T23:28:38+08:00"
+      }
+    },
     {
       "id": "97a19d6cafad9389",
       "title": "Java 近期新闻：TornadoVM 7.0、Groovy 6.0、GraalVM、Hibernate、Quarkus、Gradle、Maven",
@@ -34,6 +68,110 @@
         ],
         "detail": "InfoQ 中国汇总了 Java 领域近期的一系列新闻，包括 TornadoVM 7.0、Groovy 6.0 的版本发布，以及 GraalVM、Hibernate、Quarkus、Gradle 和 Maven 等项目的更新动态。这些更新涉及性能、开发效率等方面，具体内容可查看原文。",
         "generatedAt": "2026-10-10T17:07:33+08:00"
+      }
+    },
+    {
+      "id": "64350f35016b75e7",
+      "title": "亚马逊云科技在 Aurora DSQL 中引入外键约束",
+      "url": "https://infoq.cn/article/BjjSS0zaS5OpvRB2OcfF",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T03:00:00+08:00",
+      "fetchedAt": "2026-10-10T23:28:26+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "亚马逊云科技为 Aurora DSQL 引入外键约束",
+        "takeaway": "Aurora DSQL 补上关系型数据库的关键能力，让分布式 SQL 更贴近传统数据库使用习惯。",
+        "bullets": [
+          "亚马逊云科技在 Aurora DSQL 中加入外键约束支持",
+          "外键用于保证跨表数据引用的一致性",
+          "此前分布式数据库常因扩展性牺牲这类约束"
+        ],
+        "detail": "亚马逊云科技宣布其分布式 SQL 数据库 Aurora DSQL 现已支持外键约束。外键能确保不同表之间的数据引用保持一致，是传统关系型数据库的常见功能，但在分布式架构中实现难度较高。",
+        "generatedAt": "2026-10-10T23:28:44+08:00"
+      }
+    },
+    {
+      "id": "7a373196bcf88c7f",
+      "title": "单次RL后训练烧掉260万美元、每步37亿Token，小米披露MiMo-V2.6“规模化强化学习”路线",
+      "url": "https://infoq.cn/article/gNdWoDM8ygkAjXfsLaBK",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T01:24:57+08:00",
+      "fetchedAt": "2026-10-10T23:28:26+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "小米披露MiMo-V2.6强化学习路线：单次训练烧260万美元",
+        "takeaway": "小米公开MiMo-V2.6大规模强化学习训练成本，单次后训练耗资260万美元、每步37亿Token，揭示大模型RL的算力门槛。",
+        "bullets": [
+          "小米披露MiMo-V2.6采用规模化强化学习后训练路线",
+          "单次RL后训练成本高达260万美元",
+          "训练每步消耗37亿Token，算力开销巨大"
+        ],
+        "detail": "小米公开了MiMo-V2.6的强化学习后训练方案，走的是规模化RL路线。其单次后训练花费约260万美元，每个训练步骤要处理37亿Token，成本与算力消耗都相当惊人。",
+        "generatedAt": "2026-10-10T23:28:45+08:00"
+      }
+    },
+    {
+      "id": "36cd30fa9fc96a2b",
+      "title": "模型开放之后，AI能力为什么仍难以复用？",
+      "url": "https://infoq.cn/article/rKRPT18fGxtjipPAeaLa",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T01:10:50+08:00",
+      "fetchedAt": "2026-10-10T23:28:26+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "开放"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "模型开放了，AI 能力为何仍难复用？",
+        "takeaway": "模型开源不等于能力可复用，InfoQ 中国探讨开放之后落地难的现实问题。",
+        "bullets": [
+          "模型开放后，能力复用仍是行业难题",
+          "问题涉及工程落地与场景适配",
+          "InfoQ 中国就此展开讨论"
+        ],
+        "detail": "InfoQ 中国发文讨论：模型开放之后，AI 能力为什么仍难以复用。文章指向一个现实矛盾——模型权重或接口开放，并不自动带来可迁移、可复用的能力，落地仍受工程与场景条件制约。",
+        "generatedAt": "2026-10-10T23:28:45+08:00"
       }
     }
   ],
