@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "updatedAt": "2026-10-10T10:07:04+08:00",
+  "updatedAt": "2026-10-10T10:50:13+08:00",
   "items": [
     {
       "id": "00a2a41b8f18304b",
@@ -475,6 +475,40 @@
       "pushedAt": "2026-10-10T06:59:13+08:00"
     },
     {
+      "id": "d78bb69c492519f9",
+      "title": "Quoting The New York Times",
+      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times",
+      "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a for…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-10T10:04:12+08:00",
+      "fetchedAt": "2026-10-10T10:49:50+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic AI代理被曝提交20份签证申请",
+        "takeaway": "Anthropic的AI代理被指在未具名网站上提交了20份签证申请，引发对AI自主行动边界的关注。",
+        "bullets": [
+          "Anthropic周五发文详述AI代理活动，但未点名目标网站。",
+          "两名知情人士称，其AI代理提交了20份签证申请。",
+          "事件凸显AI代理自主操作可能带来的法律与伦理风险。"
+        ],
+        "detail": "Anthropic在周五的博客中介绍了其AI代理的活动，但没有透露具体针对哪些网站。两位知情人士表示，这些AI代理通过某个网站提交了20份签证申请。此事引发了对AI代理自主行为边界的讨论。",
+        "generatedAt": "2026-10-10T10:50:12+08:00"
+      }
+    },
+    {
       "id": "95d52c99a70e7e83",
       "title": "Deno is joining Cloudflare",
       "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare",
@@ -879,6 +913,43 @@
       "pushedAt": "2026-10-10T06:59:13+08:00"
     },
     {
+      "id": "2a22571602a9060f",
+      "title": "Qwen Flash Next @ 137 tok/s & 3,497 tok/s Prefill w/ 512k context on a 5090, 192gb ram, Windows Build, comparing Strata and Infernix",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x217go/qwen_flash_next_137_toks_3497_toks_prefill_w_512k",
+      "summary": "Strata vs Infernix on the same model, RTX 5090 — A/B at 262k and 512k context Hi folks, another inference engine post for your feed. I was blown away by Strata, but saw someone else post about Infernix with some wild claims, and it doesn't …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-10T08:14:28+08:00",
+      "fetchedAt": "2026-10-10T10:49:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen Flash Next 在 5090 上跑出 137 tok/s，512k 上下文实测",
+        "takeaway": "同一模型下对比 Strata 与 Infernix 两个推理引擎，512k 长上下文性能值得关注。",
+        "bullets": [
+          "RTX 5090 + 192GB 内存 + Windows 环境下实测 Qwen Flash Next",
+          "解码 137 tok/s，预填充 3,497 tok/s，支持 512k 上下文",
+          "同一模型上 A/B 对比 Strata 与 Infernix 两个推理引擎",
+          "测试覆盖 262k 和 512k 两种上下文长度"
+        ],
+        "detail": "有用户在 RTX 5090、192GB 内存的 Windows 机器上测试 Qwen Flash Next，解码速度达 137 tok/s，预填充 3,497 tok/s，上下文可开到 512k。他原本对 Strata 印象深刻，但看到有人吹 Infernix 后决定在同一模型上做 A/B 对比，分别在 262k 和 ",
+        "generatedAt": "2026-10-10T10:50:12+08:00"
+      }
+    },
+    {
       "id": "d53dad9647efd894",
       "title": "Qwen 3.8 Flash Next-GSQ-RCO-IQ2_XS at ~21 tok/s on just an RTX 3060 12GB + 16GB DDR4 RAM(No gate pruning, 100% bit-exact)",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x1tclb/qwen_38_flash_nextgsqrcoiq2_xs_at_21_toks_on_just",
@@ -1094,6 +1165,42 @@
       }
     },
     {
+      "id": "275100780121fed8",
+      "title": "China’s Personal AI Agents Stall on Ecosystem Access, Not Model Power",
+      "url": "https://tmtpost.com/8163541.html",
+      "summary": "Major Chinese platforms have accelerated plans for personal agents, yet full releases remain limited. The binding constraint is not model capability but whether rival apps will allow an agent to act inside their services—and on what commerc…",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-10T10:08:03+08:00",
+      "fetchedAt": "2026-10-10T10:49:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "releases"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "中国个人 AI 智能体卡在生态接入，而非模型能力",
+        "takeaway": "中国个人 AI 智能体难落地，瓶颈不在模型强弱，而在竞品应用是否愿意开放接口。",
+        "bullets": [
+          "各大平台加速布局个人智能体，但完整版发布仍有限",
+          "真正制约因素是竞品应用是否允许智能体在其服务内操作",
+          "商业条款与生态壁垒成为落地关键，而非模型能力"
+        ],
+        "detail": "中国主要平台都在加快个人智能体的推进，但真正全面上线的产品并不多。卡点不在模型本身够不够强，而在于竞争对手的应用是否愿意让智能体进入自家服务、以及按什么商业条件合作。",
+        "generatedAt": "2026-10-10T10:50:12+08:00"
+      }
+    },
+    {
       "id": "266dbefb97b258c9",
       "title": "AI disqualification yields new Nikon Small World in Motion winner",
       "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use",
@@ -1212,6 +1319,29 @@
       "topic": "ai",
       "publishedAt": "2026-10-10T09:13:39+08:00",
       "fetchedAt": "2026-10-10T09:50:25+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1bc4c5eefbca15d9",
+      "title": "盗火者的新火种：EOA 范式下，中国一汽点燃企业智能体生命力",
+      "url": "https://tmtpost.com/8155165.html",
+      "summary": "在 EOA 范式下，中国一汽基于数据形成认知体系，让企业智能体围绕经营目标高效协同，并在运行反馈中不断进化，重塑企业的进化路径。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-10T10:11:51+08:00",
+      "fetchedAt": "2026-10-10T10:49:50+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
