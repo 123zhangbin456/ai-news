@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "updatedAt": "2026-10-11T06:07:39+08:00",
+  "updatedAt": "2026-10-11T08:34:12+08:00",
   "items": [
     {
       "id": "2c9728d3318bed23",
@@ -74,6 +74,79 @@
         "generatedAt": "2026-10-11T06:07:34+08:00"
       },
       "pushedAt": "2026-10-11T06:07:39+08:00"
+    },
+    {
+      "id": "24d721d473226f25",
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions",
+      "summary": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until …",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T07:58:04+08:00",
+      "fetchedAt": "2026-10-11T08:33:48+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Python 3.15.0 已加入 actions/python-versions",
+        "takeaway": "GitHub Actions 的 Python 版本仓库新增 3.15.0，开发者现在可在 CI 中指定使用。",
+        "bullets": [
+          "actions/python-versions 仓库已收录 Python 3.15.0",
+          "该仓库为 GitHub Actions 提供 Python 版本支持",
+          "开发者可在工作流中指定 Python 3.15.0"
+        ],
+        "detail": "Simon Willison 发现 actions/python-versions 仓库已添加 Python 3.15.0。这个仓库是 GitHub Actions 用来管理可用 Python 版本的地方，添加后意味着 CI 工作流可以开始使用 3.15.0。他之前甚至让 ChatGPT 帮忙盯着这个更新。",
+        "generatedAt": "2026-10-11T08:34:10+08:00"
+      }
+    },
+    {
+      "id": "4c640ca9263a8638",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T06:10:17+08:00",
+      "fetchedAt": "2026-10-11T08:33:48+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "says"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "纳德拉：应假定所有 AI 模型都已被「攻陷」",
+        "takeaway": "微软 CEO 纳德拉发文谈先进 AI 风险，主张不再把模型当作层层嵌套的黑箱。",
+        "bullets": [
+          "纳德拉在 X 发长文谈高级 AI 模型带来的危险",
+          "他称不能再接受 AI 是「嵌套黑箱」的世界",
+          "观点指向 AI 安全与风险治理的行业讨论"
+        ],
+        "detail": "微软 CEO 萨提亚·纳德拉在 X 上发长文，阐述他对高度先进 AI 模型所带来风险的看法以及应对思路。他表示，我们不能再接受把 AI 当作「一组嵌套黑箱」的世界，言下之意是模型需要更透明、更可审视。",
+        "generatedAt": "2026-10-11T08:34:10+08:00"
+      }
     },
     {
       "id": "5dc352509ca9389c",
@@ -300,6 +373,79 @@
       "pushedAt": "2026-10-11T06:07:39+08:00"
     },
     {
+      "id": "d00f86f150bfe39b",
+      "title": "TensorSharp now supports Qwen Image 2.1 Turbo + LoRA",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x2u0x0/tensorsharp_now_supports_qwen_image_21_turbo_lora",
+      "summary": "Hey everyone! I've been working on TensorSharp , an AI inference engine that supports running different types of AI models locally. I'm happy to share that TensorSharp now supports Qwen Image 2.1 Turbo and LoRA! The attached video demonstra…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T08:11:26+08:00",
+      "fetchedAt": "2026-10-11T08:33:48+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "TensorSharp 本地推理引擎新增 Qwen Image 2.1 Turbo 与 LoRA 支持",
+        "takeaway": "本地 AI 推理引擎 TensorSharp 更新，支持 Qwen 图像模型和 LoRA，方便本地运行。",
+        "bullets": [
+          "TensorSharp 是本地 AI 推理引擎，支持多种模型。",
+          "新增 Qwen Image 2.1 Turbo 和 LoRA 支持。",
+          "用户可在本地运行图像生成与微调模型。"
+        ],
+        "detail": "TensorSharp 是一个能在本地运行多种 AI 模型的推理引擎。开发者宣布它现已支持 Qwen Image 2.1 Turbo 和 LoRA，并附上演示视频。这意味着用户可以在本地进行图像生成和 LoRA 微调，无需依赖云端。",
+        "generatedAt": "2026-10-11T08:34:10+08:00"
+      }
+    },
+    {
+      "id": "83b3ab4d460bec14",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "url": "https://ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 106 # Comments: 75",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T02:48:35+08:00",
+      "fetchedAt": "2026-10-11T08:33:48+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "acquire"
+      ],
+      "confidence": 0.4,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达洽谈收购美国开源模型初创公司 Reflection AI",
+        "takeaway": "英伟达正就收购开源模型初创 Reflection AI 展开谈判，显示其加速布局开源大模型生态。",
+        "bullets": [
+          "英伟达正与 Reflection AI 洽谈收购事宜",
+          "Reflection AI 主打美国开源模型方向",
+          "消息来自 FT，Hacker News 讨论热度较高",
+          "若成交，将强化英伟达在开源模型领域布局"
+        ],
+        "detail": "据金融时报报道，英伟达正在洽谈收购美国开源模型初创公司 Reflection AI。该消息在 Hacker News 上引发关注，讨论热度较高。若交易达成，英伟达将进一步深入开源大模型生态。",
+        "generatedAt": "2026-10-11T08:34:12+08:00"
+      }
+    },
+    {
       "id": "97a19d6cafad9389",
       "title": "Java 近期新闻：TornadoVM 7.0、Groovy 6.0、GraalVM、Hibernate、Quarkus、Gradle、Maven",
       "url": "https://infoq.cn/article/8s5fm3AAfw7ya1qdWl5Q",
@@ -440,6 +586,31 @@
         "generatedAt": "2026-10-10T23:28:45+08:00"
       },
       "pushedAt": "2026-10-11T06:07:39+08:00"
+    },
+    {
+      "id": "aa2f3720ba260259",
+      "title": "算力基建的战争，才刚刚在液冷赛道上演",
+      "url": "https://tmtpost.com/8163921.html",
+      "summary": "算力浪潮催生的“冷生意”热度，背后是算力基础设施底层架构的变革。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T08:25:00+08:00",
+      "fetchedAt": "2026-10-11T08:33:48+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 0.75,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
