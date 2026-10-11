@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "updatedAt": "2026-10-11T09:06:12+08:00",
+  "updatedAt": "2026-10-11T09:34:19+08:00",
   "items": [
     {
       "id": "2c9728d3318bed23",
@@ -657,6 +657,77 @@
       }
     },
     {
+      "id": "4b6a32bbd1501146",
+      "title": "AI翻译赛道挤满老玩家，腾讯凭什么再开一桌？",
+      "url": "https://tmtpost.com/8163943.html",
+      "summary": "新秀VS老牌，AI翻译哪家强？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T09:20:00+08:00",
+      "fetchedAt": "2026-10-11T09:34:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI翻译赛道再添玩家，腾讯入局能否后来居上",
+        "takeaway": "腾讯进军AI翻译，面对众多老牌玩家，竞争格局或将生变。",
+        "bullets": [
+          "腾讯加入AI翻译竞争，赛道已有多个老玩家",
+          "新秀与老牌对决，市场格局可能重塑",
+          "腾讯的入局或推动翻译技术进一步升级"
+        ],
+        "detail": "AI翻译领域已经挤满了资深玩家，腾讯此时入局引发关注。新秀与老牌之间的较量，将决定谁能提供更准确的翻译服务。腾讯的加入可能加剧竞争，促使各家提升技术。",
+        "generatedAt": "2026-10-11T09:34:18+08:00"
+      }
+    },
+    {
+      "id": "5689f3b21538a1b0",
+      "title": "48Gb VRAM speed AND quality ! (Qwen 3.8 27B Swift 1.5 W8A16)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x2j3gx/48gb_vram_speed_and_quality_qwen_38_27b_swift_15",
+      "summary": "Hi, Because sometimes you need both speed AND quality, I made my own Qwen 3.8 27B Swift 1.5 quant. It's an 8 bits AWQ + GPTQ quant. Made with love and precision (read the model card) on my 4 RTX 3090, I believe it's the best compromise you …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T24:11:34+08:00",
+      "fetchedAt": "2026-10-11T09:34:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 27B Swift 1.5 推出 W8A16 量化版，48GB 显存兼顾速度与质量",
+        "takeaway": "社区作者用 4 张 RTX 3090 自制 8 比特 AWQ+GPTQ 量化，主打 48GB 显存下的速度与质量平衡。",
+        "bullets": [
+          "作者自制 Qwen 3.8 27B Swift 1.5 的 W8A16 量化版本",
+          "采用 8 比特 AWQ + GPTQ 混合量化方案",
+          "在 4 张 RTX 3090 上完成制作，面向 48GB 显存场景",
+          "作者称其为速度与质量之间的最佳折中"
+        ],
+        "detail": "有用户为了同时兼顾推理速度和输出质量，自己动手做了一个 Qwen 3.8 27B Swift 1.5 的量化版本。它采用 8 比特的 AWQ 加 GPTQ 方案，在 4 张 RTX 3090 上精心制作完成，作者认为这是 48GB 显存条件下速度与质量的最佳平衡点。",
+        "generatedAt": "2026-10-11T09:34:18+08:00"
+      }
+    },
+    {
       "id": "aa2f3720ba260259",
       "title": "算力基建的战争，才刚刚在液冷赛道上演",
       "url": "https://tmtpost.com/8163921.html",
@@ -748,6 +819,31 @@
       "category": "其他",
       "keywords": [],
       "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3e7a9e85477b0ed8",
+      "title": "至真资本推出“AI 资本超市”，以AI助力成长型企业与资本精准高效匹配",
+      "url": "https://tmtpost.com/8164202.html",
+      "summary": "\"AI 资本超市\"由 RVC 自主研发，定位为 AI 驱动的资本服务平台。基于先天的行业优势，平台得以直通数百家全球头部投资机构与专业合作伙伴的项目资源。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T09:21:00+08:00",
+      "fetchedAt": "2026-10-11T09:34:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出"
+      ],
+      "confidence": 0.5,
       "score": 30,
       "related": [],
       "pushed": false
