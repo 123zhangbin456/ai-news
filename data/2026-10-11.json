@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "updatedAt": "2026-10-11T09:34:19+08:00",
+  "updatedAt": "2026-10-11T10:18:55+08:00",
   "items": [
     {
       "id": "2c9728d3318bed23",
@@ -443,6 +443,43 @@
       }
     },
     {
+      "id": "0798be18097bc7ae",
+      "title": "local semantic file search for Linux (Rust, llama.cpp, EmbeddingGemma 2)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x2vz3y/local_semantic_file_search_for_linux_rust",
+      "summary": "indexes PDFs, Office files, scans, screenshots, audio and video, and finds them by content. A query like \"when did they decide to freeze hiring\" opens the recording at that second. * EmbeddingGemma 2 embeds text, images, video frames and 30…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T09:52:00+08:00",
+      "fetchedAt": "2026-10-11T10:18:42+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Linux 本地语义文件搜索：Rust + llama.cpp + EmbeddingGemma 2",
+        "takeaway": "一个本地运行的语义搜索工具，能按内容而非文件名找到 PDF、Office、截图、音视频里的信息。",
+        "bullets": [
+          "支持 PDF、Office、扫描件、截图、音频和视频，按内容检索",
+          "用 Rust 和 llama.cpp 实现，嵌入模型为 EmbeddingGemma 2",
+          "查询如“何时决定冻结招聘”可直接跳到录音对应秒数",
+          "可嵌入文本、图像、视频帧等多种模态"
+        ],
+        "detail": "这是一个面向 Linux 的本地语义文件搜索项目，用 Rust 和 llama.cpp 搭建，嵌入模型采用 EmbeddingGemma 2。它不只搜文件名，而是索引 PDF、Office 文档、扫描件、截图、音频和视频的内容，像“他们什么时候决定冻结招聘的”这种问题，能直接定位到录音里的那一秒。",
+        "generatedAt": "2026-10-11T10:18:55+08:00"
+      }
+    },
+    {
       "id": "83b3ab4d460bec14",
       "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
       "url": "https://ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
@@ -725,6 +762,76 @@
         ],
         "detail": "有用户为了同时兼顾推理速度和输出质量，自己动手做了一个 Qwen 3.8 27B Swift 1.5 的量化版本。它采用 8 比特的 AWQ 加 GPTQ 方案，在 4 张 RTX 3090 上精心制作完成，作者认为这是 48GB 显存条件下速度与质量的最佳平衡点。",
         "generatedAt": "2026-10-11T09:34:18+08:00"
+      }
+    },
+    {
+      "id": "b2ad59f9e1030563",
+      "title": "利用 AI 代码智能体优化软件架构的五种方法",
+      "url": "https://infoq.cn/article/soRObi5sjdTTUM95zLJK",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T18:04:31+08:00",
+      "fetchedAt": "2026-10-11T10:18:42+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "架构"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 代码智能体优化软件架构的五种方法",
+        "takeaway": "InfoQ 中国分享五种用 AI 代码智能体改进软件架构的实践思路，值得开发者关注。",
+        "bullets": [
+          "InfoQ 中国发文，主题为 AI 代码智能体与软件架构优化",
+          "文章提出五种利用 AI 智能体优化架构的方法",
+          "面向开发者，提供可参考的落地思路"
+        ],
+        "detail": "InfoQ 中国发布了一篇研究性质的文章，讨论如何借助 AI 代码智能体来优化软件架构，并归纳出五种具体方法。文章面向开发者，意在给日常架构设计与重构提供可借鉴的思路。",
+        "generatedAt": "2026-10-11T10:18:55+08:00"
+      }
+    },
+    {
+      "id": "c630f9f066a3ee6d",
+      "title": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+      "url": "https://infoq.cn/article/FTtTLqvzJeMiE03IowFP",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T18:00:00+08:00",
+      "fetchedAt": "2026-10-11T10:18:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "柯南 AI Agent 亮相 QCon：用 AI 保障移动端稳定性",
+        "takeaway": "InfoQ 报道柯南 AI Agent 在移动端稳定性保障上的实践，AI 运维落地再添案例。",
+        "bullets": [
+          "柯南 AI Agent 聚焦移动端稳定性保障场景",
+          "实践分享登上 QCon 上海技术大会",
+          "由 InfoQ 中国报道，面向开发者群体"
+        ],
+        "detail": "InfoQ 中国发布消息，介绍柯南 AI Agent 在移动端稳定性保障方面的实践，相关内容来自 QCon 上海的技术分享。具体方案细节需查看原文。",
+        "generatedAt": "2026-10-11T10:18:55+08:00"
       }
     },
     {
