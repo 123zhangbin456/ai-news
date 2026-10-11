@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "updatedAt": "2026-10-11T17:05:12+08:00",
+  "updatedAt": "2026-10-11T23:49:53+08:00",
   "items": [
     {
       "id": "750596818255a3e5",
@@ -72,6 +72,77 @@
         ],
         "detail": "据量子位报道，初代 GPT-4o 的 API 快照即将停用，距离其下架已过去 8 个月。与此同时，围绕这款模型的「拯救行动」仍未停止，显示出部分用户对它的持续关注。",
         "generatedAt": "2026-10-11T17:05:08+08:00"
+      }
+    },
+    {
+      "id": "778ab122b6ef9260",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T22:00:00+08:00",
+      "fetchedAt": "2026-10-11T23:49:41+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "高管们认为语音 AI 尚未迎来 ChatGPT 时刻",
+        "takeaway": "语音 AI 因上下文层缺失常漏关键信息，导致整个处理流程中断，远未达到 ChatGPT 式的突破。",
+        "bullets": [
+          "多位高管指出语音 AI 仍缺上下文理解能力",
+          "上下文层缺失导致整个语音处理流程断裂",
+          "行业认为语音 AI 尚未迎来自己的 ChatGPT 时刻"
+        ],
+        "detail": "TechCrunch AI 报道，多位高管认为语音 AI 还没到自己的 ChatGPT 时刻。问题出在上下文层：它经常漏掉关键信息，导致整个处理流程中断。",
+        "generatedAt": "2026-10-11T23:49:50+08:00"
+      }
+    },
+    {
+      "id": "11563a56d1fbbd70",
+      "title": "UPDATE: Qwen 3.8 27B 140 tok/s on single RTX 3090 Megakernel: KL divergence 0.0009 vs llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x37q7b/update_qwen_38_27b_140_toks_on_single_rtx_3090",
+      "summary": "This is a follow-up to my post from yesterday ( https://www.reddit.com/r/LocalLLaMA/comments/1x2erdj/qwen3827b_on_a_single_3090_140_toks_on_code_with/ ) detailing the CUDA megakernel. Thank you all for the positive feedback and PRs! RECAP: …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T21:04:42+08:00",
+      "fetchedAt": "2026-10-11T23:49:41+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 0.5,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 27B 单卡 RTX 3090 跑出 140 tok/s，KL 散度仅 0.0009",
+        "takeaway": "有人用 CUDA megakernel 在单张 3090 上把 Qwen 3.8 27B 推到 140 tok/s，且输出与 llama.cpp 几乎一致。",
+        "bullets": [
+          "作者发布 CUDA megakernel 后续更新，单张 RTX 3090 实现 140 tok/s",
+          "与 llama.cpp 对比 KL 散度仅 0.0009，输出质量基本无损",
+          "项目已收到社区反馈和 PR，属于本地推理性能优化方向"
+        ],
+        "detail": "这是作者前一天帖子的后续更新，介绍其 CUDA megakernel 方案。在单张 RTX 3090 上运行 Qwen 3.8 27B 时达到 140 tok/s，且与 llama.cpp 的 KL 散度只有 0.0009，说明加速几乎没有牺牲输出质量。作者感谢社区的正面反馈和提交的 PR。",
+        "generatedAt": "2026-10-11T23:49:51+08:00"
       }
     },
     {
@@ -546,6 +617,74 @@
       }
     },
     {
+      "id": "f379902df709de45",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "url": "https://theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally t…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T19:00:00+08:00",
+      "fetchedAt": "2026-10-11T23:49:41+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "本地 AI 初体验：兴奋、不知所措与挫败交织",
+        "takeaway": "The Verge 作者尝试日常使用本地 AI，因不愿把个人数据交给云端，过程喜忧参半。",
+        "bullets": [
+          "作者一直抗拒把最私密数据交给云端服务",
+          "本地运行强大模型正变得越来越可行",
+          "实际体验充满兴奋，也伴随挫败感"
+        ],
+        "detail": "The Verge 一位作者开始尝试日常使用 AI，但出于隐私顾虑，一直不愿把个人数据交给云端服务。随着本地运行强大模型越来越可行，他踏上了这段旅程，结果既兴奋又令人不知所措，甚至有些挫败。",
+        "generatedAt": "2026-10-11T23:49:50+08:00"
+      }
+    },
+    {
+      "id": "0b1518dc9b60572e",
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "url": "https://wired.com/story/i-made-terrible-games-with-googles-ai-playground",
+      "summary": "A long day’s haul in the video game slop mines.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T19:30:00+08:00",
+      "fetchedAt": "2026-10-11T23:49:41+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "我用谷歌AI游戏工坊做了几款烂游戏",
+        "takeaway": "记者体验谷歌AI游戏生成工具，产出质量堪忧，但揭示了AI创作工具的现状与局限。",
+        "bullets": [
+          "Wired记者花一天时间用谷歌AI Playground生成游戏",
+          "结果都是质量低劣的“游戏垃圾”，体验不佳",
+          "这反映了当前AI生成内容在创意领域的实际水平"
+        ],
+        "detail": "Wired记者在谷歌AI Playground上尝试制作电子游戏，经过一整天的折腾，产出的都是些粗制滥造的“游戏垃圾”。这次体验展示了AI生成游戏目前还很难做出真正好玩的东西。",
+        "generatedAt": "2026-10-11T23:49:52+08:00"
+      }
+    },
+    {
       "id": "25d3c6450f1c9088",
       "title": "Benefits of using bigger models than Qwen 3.8 flash next?",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x2nn4b/benefits_of_using_bigger_models_than_qwen_38",
@@ -768,6 +907,42 @@
       }
     },
     {
+      "id": "70b65dd4072d0e8c",
+      "title": "Now you can grow Bonsai on your potato",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x37kxn/now_you_can_grow_bonsai_on_your_potato",
+      "summary": "No more excuses for GPU-poor folks not to start LLMing! Full 27B-class reasoning in ternary transformer weights, for llama.cpp (CUDA, Metal, CPU) ~9.3x smaller than FP16 (ideal) | 98.2% of FP16 intelligence retained | ~47 tok/s on an Apple …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T20:58:20+08:00",
+      "fetchedAt": "2026-10-11T23:49:41+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU"
+      ],
+      "confidence": 0.25,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Bonsai 模型让低配设备也能跑 27B 级推理",
+        "takeaway": "三值权重压缩让 llama.cpp 在 CPU、Metal、CUDA 上跑 27B 级模型，显存需求大降。",
+        "bullets": [
+          "三值 Transformer 权重实现 27B 级推理，体积比 FP16 小约 9.3 倍",
+          "保留 98.2% 的 FP16 智能水平，苹果设备上约 47 tok/s",
+          "支持 llama.cpp 的 CUDA、Metal、CPU 后端，低显存用户可跑"
+        ],
+        "detail": "有人发布了 Bonsai 模型，用三值权重把 27B 级推理塞进 llama.cpp，体积比 FP16 小约 9.3 倍，还能保留 98.2% 的智能。在苹果设备上约 47 tok/s，CUDA、Metal、CPU 都能跑，GPU 差的人也有理由玩大模型了。",
+        "generatedAt": "2026-10-11T23:49:52+08:00"
+      }
+    },
+    {
       "id": "83b3ab4d460bec14",
       "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
       "url": "https://ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
@@ -802,6 +977,44 @@
         ],
         "detail": "据金融时报报道，英伟达正在洽谈收购美国开源模型初创公司 Reflection AI。该消息在 Hacker News 上引发关注，讨论热度较高。若交易达成，英伟达将进一步深入开源大模型生态。",
         "generatedAt": "2026-10-11T08:34:12+08:00"
+      }
+    },
+    {
+      "id": "95665a31ffe145e7",
+      "title": "OpenMed 3.0 is out: Apache-2.0 clinical AI that runs fully local and never falls back to the cloud. 422 open issues if you want in on 3.1",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x37z7z/openmed_30_is_out_apache20_clinical_ai_that_runs",
+      "summary": "Hey r/LocalLLaMA ! Maintainer here. Some of you might remember OpenMed from our 1.8 post a few months back. Quick recap: it's an open-source (Apache-2.0) medical AI toolkit with one rule we never break: patient data stays on your machine. N…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T21:16:26+08:00",
+      "fetchedAt": "2026-10-11T23:49:41+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source",
+        "toolkit",
+        "apache"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenMed 3.0 发布：Apache-2.0 临床 AI，完全本地运行",
+        "takeaway": "开源医疗 AI 工具包 OpenMed 更新到 3.0，坚持数据不出本机，绝不回退云端。",
+        "bullets": [
+          "Apache-2.0 许可，临床 AI 工具包，患者数据全程留在本地",
+          "作者称绝不回退云端，延续 1.8 版本的核心原则",
+          "3.1 版本已有 422 个开放 issue，欢迎社区参与"
+        ],
+        "detail": "OpenMed 维护者在 r/LocalLLaMA 宣布 3.0 版本上线。这是一个 Apache-2.0 许可的开源医疗 AI 工具包，核心规则是患者数据只留在用户机器上，不会偷偷上传云端。作者还提到 3.1 已有 422 个开放 issue，想参与的人可以加入。",
+        "generatedAt": "2026-10-11T23:49:53+08:00"
       }
     },
     {
@@ -1326,6 +1539,54 @@
       "pushed": false
     },
     {
+      "id": "5c9a629921f13f9d",
+      "title": "本末科技，还没吃上具身智能这碗饭",
+      "url": "https://tmtpost.com/8164407.html",
+      "summary": "具身智能业务营收占比5%。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T21:08:08+08:00",
+      "fetchedAt": "2026-10-11T23:49:41+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b97957d1ffd301c5",
+      "title": "Here’s why RTX 5090 costs $5,000: AI firms are buying gaming GPUs by the pallet",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x37tg6/heres_why_rtx_5090_costs_5000_ai_firms_are_buying",
+      "summary": "submitted by /u/chemist_slime [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T21:08:43+08:00",
+      "fetchedAt": "2026-10-11T23:49:41+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "f95aa76bc29145df",
       "title": "抱歉，AI眼镜目前仍是个“鸡肋”",
       "url": "https://tmtpost.com/8164235.html",
@@ -1396,6 +1657,31 @@
         "billion"
       ],
       "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "fd9828da59f46ae6",
+      "title": "I trained a 102M recursive BitNet-v2 model from scratch: 64K context, trained on less than 5B tokens",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x34nyx/i_trained_a_102m_recursive_bitnetv2_model_from",
+      "summary": "DISCLAIMER: the post and the model card was made with the assist of AI. Hiya, I’m releasing Recursive BitNet N-Gram 102M, a small experiment combining ternary weights, shared transformer layers, and hashed n-gram embeddings, trained with a …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-11T18:19:08+08:00",
+      "fetchedAt": "2026-10-11T23:49:41+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "weights"
+      ],
+      "confidence": 1,
       "score": 29,
       "related": [],
       "pushed": false
