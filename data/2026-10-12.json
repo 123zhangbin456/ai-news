@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "updatedAt": "2026-10-12T06:36:28+08:00",
+  "updatedAt": "2026-10-12T08:48:20+08:00",
   "items": [
     {
       "id": "7d4e278f0b748445",
@@ -75,6 +75,45 @@
         "generatedAt": "2026-10-12T06:36:18+08:00"
       },
       "pushedAt": "2026-10-12T06:36:28+08:00"
+    },
+    {
+      "id": "47051e13e8cfee76",
+      "title": "GitHub - giveen/Decapybara: Open-source C++20 and CUDA reconstruction of the MegaCapybara inference server",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x3mikv/github_giveendecapybara_opensource_c20_and_cuda",
+      "summary": "I dont like how in a open source code community, someone posts a binary file, says \"trust me bro\" to run it on our local computers. Claims \"oh i'm the fastest but I dont have time to post my source code, just my pre-compiled binary files\" s…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T07:20:49+08:00",
+      "fetchedAt": "2026-10-12T08:47:57+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source",
+        "open source",
+        "github"
+      ],
+      "confidence": 0.91,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开源社区不满闭源二进制，有人用 C++20 和 CUDA 重写 MegaCapybara 推理服务",
+        "takeaway": "针对只发预编译二进制、拒绝开源的做法，开发者用 C++20 与 CUDA 重写了 MegaCapybara 推理服务器并开源。",
+        "bullets": [
+          "起因是有人只发布二进制文件，要求用户直接运行",
+          "原作者自称最快，却称没时间公开源码",
+          "giveen 用 C++20 和 CUDA 重写并开源 Decapybara",
+          "项目托管在 GitHub，面向本地推理场景"
+        ],
+        "detail": "有开发者不满开源社区里有人只丢出预编译二进制、让用户“信我”直接运行，还自称速度最快却不肯公开源码。于是 giveen 用 C++20 和 CUDA 重新实现了 MegaCapybara 推理服务器，取名 Decapybara 并开源在 GitHub 上。",
+        "generatedAt": "2026-10-12T08:48:20+08:00"
+      }
     },
     {
       "id": "df97c62cc773ca86",
@@ -258,6 +297,43 @@
       "pushedAt": "2026-10-12T06:36:28+08:00"
     },
     {
+      "id": "f84fec97dcc38637",
+      "title": "早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI",
+      "url": "https://ifanr.com/1683302",
+      "summary": "· 曝苹果与 ADT 合作，为家居中枢提供安装服务 · 蔚来广东换电站达到 500 座，六城同步新增第五代站 · 苹果 COO 探访郑州工厂，披露 iPhone Duo 屏幕与芯片制造工艺 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T08:12:37+08:00",
+      "fetchedAt": "2026-10-12T08:47:57+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "爱范儿早报：库克谈 iPhone Duo，腾讯再关停一个 Agent",
+        "takeaway": "苹果与 ADT 合作家居中枢安装，腾讯继 QClaw 后再关停 Agent，蔚来广东换电站达 500 座。",
+        "bullets": [
+          "苹果与 ADT 合作，为家居中枢提供安装服务",
+          "腾讯继 QClaw 后再关停一个 Agent 产品",
+          "蔚来广东换电站达 500 座，六城新增第五代站",
+          "苹果 COO 探访郑州工厂，披露 iPhone Duo 屏幕与芯片工艺"
+        ],
+        "detail": "爱范儿早报汇总多条科技动态：苹果被曝与 ADT 合作，为家居中枢提供安装服务；腾讯在 QClaw 之后又关停一个 Agent 产品；蔚来广东换电站达到 500 座，并在六城同步新增第五代站；苹果 COO 探访郑州工厂，披露 iPhone Duo 的屏幕与芯片制造工艺。",
+        "generatedAt": "2026-10-12T08:48:19+08:00"
+      }
+    },
+    {
       "id": "c2060675dbb8a188",
       "title": "Every Model That Can Be Run On 10-16GB VRAM Ranked",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x3gpyi/every_model_that_can_be_run_on_1016gb_vram_ranked",
@@ -295,6 +371,29 @@
       "pushedAt": "2026-10-12T06:36:28+08:00"
     },
     {
+      "id": "7dafdf71046b5929",
+      "title": "OpenCode 2.0.26 is out, if you need to constantly prompt \"Continue\" it's not just your bot AFAIK",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x3n8ex/opencode_2026_is_out_if_you_need_to_constantly",
+      "summary": "I upgraded to OpenCode 2.0.26 today, and even with competent bots it seems to hang up where the bot will be like, \"Great, I'll implement that.\" And I have to prompt it with, \"Yes, go ahead.\" as if it has no agenticness. Bot: \"Fixing the tes…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T07:56:26+08:00",
+      "fetchedAt": "2026-10-12T08:47:57+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "323064a59b210950",
       "title": "I built a lightweight tool that automatically frees up VRAM for gaming and restores your local LLMs afterward",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x3f1nf/i_built_a_lightweight_tool_that_automatically",
@@ -319,6 +418,29 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-10-12T06:36:28+08:00"
+    },
+    {
+      "id": "44c65736f8dd5ac9",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 212 # Comments: 338",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T04:20:52+08:00",
+      "fetchedAt": "2026-10-12T08:47:57+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
