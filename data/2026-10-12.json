@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "updatedAt": "2026-10-12T17:50:03+08:00",
+  "updatedAt": "2026-10-13T03:25:37+08:00",
   "items": [
     {
       "id": "5c06f92d8c740bf1",
@@ -116,6 +116,45 @@
       }
     },
     {
+      "id": "12c0d0baba3de7f1",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "url": "https://theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T21:00:00+08:00",
+      "fetchedAt": "2026-10-13T03:25:19+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip",
+        "GPUs",
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软发布第三代自研 AI 芯片 Maia 300，减少对英伟达依赖",
+        "takeaway": "微软推出 Maia 300 自研 AI 芯片，主打推理场景，意在降低对英伟达 GPU 的依赖。",
+        "bullets": [
+          "微软发布第三代自研 AI 芯片 Maia 300",
+          "定位为微软产品与服务的“主要 AI 推理系统”",
+          "目标是降低 AI 工作负载的成本并提升效率",
+          "此举意在减少对英伟达 GPU 的依赖"
+        ],
+        "detail": "微软今天发布第三代自研 AI 芯片 Maia 300，将作为其产品和服务的主要 AI 推理系统。该芯片能改善 AI 工作负载的成本与效率，也让微软在算力上更少依赖英伟达 GPU。",
+        "generatedAt": "2026-10-13T03:25:28+08:00"
+      }
+    },
+    {
       "id": "8a005e9676cbc606",
       "title": "微软在 Qwen 模型基础上推出决策模型 Microsoft-Decision-1",
       "url": "https://solidot.org/story?sid=85584",
@@ -152,6 +191,45 @@
         ],
         "detail": "微软推出面向商业决策场景的 Microsoft-Decision-1，它是在阿里巴巴开放权重模型 Qwen3.5-9B 上微调而成，思路类似 Jev：针对特定问题调优以减少幻觉。微软称其延迟表现优于 H2O-Lightning-4B 和 Jev，在 36 项基准测试中以 83.5% 准确率居首，但表示未来会用自研模型和",
         "generatedAt": "2026-10-12T17:49:54+08:00"
+      }
+    },
+    {
+      "id": "4050f98a418d945c",
+      "title": "Qwen released QwenGyre - RL framework for training AI agents on extremely long complex tasks",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x41myz/qwen_released_qwengyre_rl_framework_for_training",
+      "summary": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. It launches with two core designs: - Elastic Scheduler: reallocates GPUs between rollout & training as demand shifts—live executions never interrupted…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T21:18:10+08:00",
+      "fetchedAt": "2026-10-13T03:25:19+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launches",
+        "introducing",
+        "Qwen",
+        "rollout"
+      ],
+      "confidence": 0.54,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阿里 Qwen 发布 QwenGyre：面向超长任务的智能体强化学习框架",
+        "takeaway": "Qwen 推出 QwenGyre，用弹性调度支持超长周期智能体训练，解决长任务 RL 的算力分配难题。",
+        "bullets": [
+          "Qwen 发布 QwenGyre，专攻超长周期智能体强化学习训练",
+          "核心设计之一是弹性调度器，按需在采样与训练间重分 GPU",
+          "调度过程中正在执行的任务不会被中断，保证长任务连续性"
+        ],
+        "detail": "Qwen 在 LocalLLaMA 社区介绍了 QwenGyre，把弹性强化学习带到超长周期（XLong）智能体训练场景。它首批包含两项核心设计，其中弹性调度器会根据需求变化，在 rollout 与训练之间动态重新分配 GPU，且不会打断正在运行的执行。",
+        "generatedAt": "2026-10-13T03:25:29+08:00"
       }
     },
     {
@@ -222,6 +300,42 @@
         ],
         "detail": "智谱推出了一款新模型，其生成速度高达每秒490个token，被量子位形容为GLM系列中的“速度仙人”。这一速度指标意味着模型在响应时可能更加迅捷，适合对实时性要求高的场景。",
         "generatedAt": "2026-10-12T17:49:56+08:00"
+      }
+    },
+    {
+      "id": "5974203bb3c7b557",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T23:31:19+08:00",
+      "fetchedAt": "2026-10-13T03:25:19+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "regulation"
+      ],
+      "confidence": 0.6,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软总裁：英国最适合主导AI监管，呼吁尽快立法",
+        "takeaway": "微软总裁史密斯呼吁紧急监管AI，称英国最有条件牵头，并批评AI公司受的约束还不如牛奶和洗衣机。",
+        "bullets": [
+          "微软总裁史密斯公开呼吁对AI进行紧急监管",
+          "他认为英国最适合主导全球AI监管规则制定",
+          "批评现状：AI公司受到的监管比牛奶和洗衣机还少"
+        ],
+        "detail": "微软总裁布拉德·史密斯呼吁尽快对AI立法监管，认为英国在推动全球AI规则方面最具优势。他批评说，如今牛奶和洗衣机都有严格监督，AI公司却几乎没有，这种反差凸显监管紧迫性。",
+        "generatedAt": "2026-10-13T03:25:30+08:00"
       }
     },
     {
@@ -369,6 +483,42 @@
         ],
         "detail": "Meta 推出 ZGateway，作为 ZippyDB 的网关层，在每秒处理超 10 亿次操作的同时，把数据库连接数减少了 19 倍。这有助于提升大规模系统的可扩展性和效率。",
         "generatedAt": "2026-10-12T17:49:57+08:00"
+      }
+    },
+    {
+      "id": "cb382f31e9b07a7b",
+      "title": "graphsignal-top: a `top` for inference GPUs in the open-source Graphsignal profiler, kernels ranked by time, live, with readable names",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x421ow/graphsignaltop_a_top_for_inference_gpus_in_the",
+      "summary": "A few weeks ago we posted the open-source Graphsignal profiler here: wrap vllm serve / sglang serve / whatever in graphsignal-run and it serves everything it measures as JSON, mainly so an agent can read it in a loop. Turns out we kept open…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T21:35:21+08:00",
+      "fetchedAt": "2026-10-13T03:25:19+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 0.2,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Graphsignal 开源分析器新增 GPU 版 top：实时按耗时排序内核",
+        "takeaway": "开源推理性能工具 Graphsignal 推出 graphsignal-top，像 top 一样实时查看 GPU 内核耗时排名，名字可读。",
+        "bullets": [
+          "graphsignal-top 是开源 Graphsignal 分析器的新功能，面向推理 GPU",
+          "实时按内核耗时排序，并显示可读的内核名称",
+          "此前用 graphsignal-run 包装 vllm/sglang 等服务，输出 JSON 供 agent 循环读取"
+        ],
+        "detail": "Graphsignal 分析器几周前开源，用 graphsignal-run 包装 vllm serve、sglang serve 等推理服务，把测量结果以 JSON 输出，方便 agent 循环读取。现在新增 graphsignal-top，类似系统 top 命令，实时展示 GPU 内核按耗时排名，且内核名称可读。",
+        "generatedAt": "2026-10-13T03:25:31+08:00"
       }
     },
     {
@@ -550,6 +700,78 @@
       }
     },
     {
+      "id": "bdf59882f2c6edb2",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T23:45:00+08:00",
+      "fetchedAt": "2026-10-13T03:25:19+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tools"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Honeyjar 推出 AI 工具，欲革新企业公关传播",
+        "takeaway": "Honeyjar 用 AI 改善公关流程，瞄准被诟病已久的 PR 痛点，值得关注。",
+        "bullets": [
+          "Honeyjar 提供 AI 工具，旨在优化企业公关与传播工作。",
+          "记者、创业者甚至公关人士都认为现有 PR 流程已失灵。",
+          "AI 能否真正修复 PR 流程，是本次尝试的核心看点。"
+        ],
+        "detail": "Honeyjar 推出 AI 工具，希望帮助企业改进公关和传播。记者、创业者乃至公关从业者都抱怨 PR 流程已经坏掉了，而这家公司想用 AI 来修复它。",
+        "generatedAt": "2026-10-13T03:25:33+08:00"
+      }
+    },
+    {
+      "id": "1b3594718c485142",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes",
+      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T23:27:59+08:00",
+      "fetchedAt": "2026-10-13T03:25:19+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI初创公司称几分钟生成可报建施工蓝图",
+        "takeaway": "Blueprints AI 用照片、PDF 或草图直接生成符合建筑规范的蓝图，瞄准传统设计流程的耗时痛点。",
+        "bullets": [
+          "公司位于圣莫尼卡，靠自筹资金起步",
+          "输入照片、PDF 或草图即可生成蓝图",
+          "软件声称产出符合建筑规范、可直接报建"
+        ],
+        "detail": "Blueprints AI 是一家自筹资金的圣莫尼卡初创公司，开发了一款软件，能从照片、PDF 或手绘草图生成符合建筑规范的施工蓝图。它宣称几分钟内就能完成通常需要专业设计师耗时数日的工作。",
+        "generatedAt": "2026-10-13T03:25:33+08:00"
+      }
+    },
+    {
       "id": "98e4666ff78240a7",
       "title": "给 DeepSeek Harness（DSH）装上 bot 插件，把 DSH 变成 bot 系统",
       "url": "https://oschina.net/news/502968",
@@ -661,6 +883,80 @@
       }
     },
     {
+      "id": "50db4f58bcdc5537",
+      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings",
+      "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T22:00:00+08:00",
+      "fetchedAt": "2026-10-13T03:25:19+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "investors"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "TechCrunch Disrupt 2026 明日开幕，门票优惠最后机会",
+        "takeaway": "TechCrunch Disrupt 2026 明天在旧金山开幕，现在买票最多可省 100 美元。",
+        "bullets": [
+          "大会明天太平洋时间早 8 点在旧金山 Moscone West 开幕",
+          "预计超 1 万名创始人、投资人和科技从业者到场",
+          "活动持续三天，聚焦创意、人脉与塑造未来的初创公司",
+          "门票优惠最高省 100 美元，是最后购买机会"
+        ],
+        "detail": "TechCrunch Disrupt 2026 将于明天太平洋时间上午 8 点在旧金山 Moscone West 开幕。届时将有超过 1 万名创始人、投资者和科技运营者齐聚一堂，展开为期三天的交流与连接。现在购票仍可享受最高 100 美元的优惠，这是最后的机会。",
+        "generatedAt": "2026-10-13T03:25:34+08:00"
+      }
+    },
+    {
+      "id": "e6033264d49119f3",
+      "title": "产业出题，科技答题：2026 IEIC国际具身智能技能大赛，用真实岗位任务考核机器人落地能力",
+      "url": "https://leiphone.com/category/industrynews/ZFAMCctM7KUw5gr3.html",
+      "summary": "实景比拼赋能科创，助力人形机器人技术规模化落地！ 编辑丨李希为深入贯彻落实工业和信息化部、国务院国资委《 2026年度人形机器人与具身智能实景实训专项行动》部署，加快推动我国机器人与具身智能技术创新突破与规模化落地，国际具身智能技能大赛检阅赛将于2026年10月23日至25日在上海举行。大赛以「劳动最光荣，选最能干活的机器劳模」为口号，坚持产业出题、科技答题，着力打造全国具身智能领域实景实战示范平台，形成可复制、可推广的上海实景实训示范样板。本次大会坚持以赛带会、以会促研、以…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T22:13:00+08:00",
+      "fetchedAt": "2026-10-13T03:25:19+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 0.67,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "2026 IEIC具身智能技能大赛10月上海举行，用真实岗位任务考核机器人",
+        "takeaway": "国内首个以真实岗位任务考核机器人落地能力的具身智能赛事，2026年10月落地上海。",
+        "bullets": [
+          "赛事2026年10月23日至25日在上海举办",
+          "以真实岗位任务考核机器人实操能力",
+          "落实人形机器人与具身智能实景实训专项行动",
+          "目标是形成可复制的上海实景实训样板"
+        ],
+        "detail": "大赛由工信部、国务院国资委相关专项行动部署推动，口号是「劳动最光荣，选最能干活的机器劳模」。它坚持产业出题、科技答题，用实景实战方式检验人形机器人和具身智能的落地能力，并希望打造可复制推广的上海示范样板。",
+        "generatedAt": "2026-10-13T03:25:35+08:00"
+      }
+    },
+    {
       "id": "e570ded495433b2b",
       "title": "I tested different Qwen 3.8 27B quants",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x3ij13/i_tested_different_qwen_38_27b_quants",
@@ -735,6 +1031,78 @@
       "pushedAt": "2026-10-12T06:36:28+08:00"
     },
     {
+      "id": "36347ea06c8c5adb",
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background",
+      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T20:47:59+08:00",
+      "fetchedAt": "2026-10-13T03:25:19+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raises"
+      ],
+      "confidence": 0.6,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "前Plaud高管为AI后台监听应用融资2600万美元",
+        "takeaway": "AI应用通过持续监听用户来提供个性化服务，获资本青睐，但隐私争议随之而来。",
+        "bullets": [
+          "前Plaud高管创业，为AI应用融资2600万美元",
+          "该应用在后台持续监听用户，以提供个性化建议",
+          "AI公司认为更多个人数据能带来更好服务，但引发隐私担忧"
+        ],
+        "detail": "一家由前Plaud高管创立的AI公司获得了2600万美元融资。其应用在后台持续监听用户，旨在通过了解用户来更好地协助任务和提供建议。这体现了AI行业的一个核心承诺：越了解你，越能帮到你，但前提是应用和设备需要一直“听”。",
+        "generatedAt": "2026-10-13T03:25:35+08:00"
+      }
+    },
+    {
+      "id": "4c5285c9b1cd7ea3",
+      "title": "Linus 把 Claude Code 写的内核补丁推送到个人仓库",
+      "url": "https://oschina.net/news/502978/linus-torvalds-used-claude-code",
+      "summary": "Linus Torvalds 在自己 Linux 仓库里推了一个叫 noref-filemap-read-with-llm 的分支，后缀不是开玩笑。Torvalds 表示：『代码、测试程序、上面清单背后的审阅和这封信的初稿，都由一个 LLM 编程助手（Claude Code）在我的指导下完成。测试是在我自己的机器上跑的。』这个分支不只是一次 AI 写代码的表演，它对着的是一...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T19:42:23+08:00",
+      "fetchedAt": "2026-10-13T03:25:19+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Linus 用 Claude Code 写内核补丁，推送到个人仓库",
+        "takeaway": "Linux 之父首次公开用 LLM 编程助手写内核补丁，AI 参与核心系统开发再进一步。",
+        "bullets": [
+          "Linus 推送 noref-filemap-read-with-llm 分支，后缀并非玩笑",
+          "代码、测试与审阅说明均由 Claude Code 在其指导下完成",
+          "测试在 Linus 本人机器上运行，非纯演示性质"
+        ],
+        "detail": "Linus Torvalds 在个人 Linux 仓库新建了一个带 llm 后缀的分支，并说明代码、测试程序、审阅清单和邮件初稿都由 Claude Code 在他的指导下完成，测试跑在他自己的机器上。这不是一次 AI 写代码的表演，而是针对内核具体问题的实际改动。",
+        "generatedAt": "2026-10-13T03:25:35+08:00"
+      }
+    },
+    {
       "id": "8d2b62dffd713f2e",
       "title": "strix-llama new branch: prompt processing +21–54% over Vulkan and up to 2.7× over stock ROCm kernel at 128k, same outputs quality",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x3s4qu/strixllama_new_branch_prompt_processing_2154_over",
@@ -768,6 +1136,41 @@
         ],
         "detail": "开发者在 Strix Halo 设备（Radeon 8060S、128GB 内存）上优化 llama.cpp，推出 rdna35-perf 分支。该分支在 128k 上下文时，提示处理速度比 Vulkan 提升 21–54%，比原版 ROCm 内核最高快 2.7 倍，且输出质量不变。",
         "generatedAt": "2026-10-12T17:50:00+08:00"
+      }
+    },
+    {
+      "id": "db958e2353fb73d9",
+      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work",
+      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T20:43:10+08:00",
+      "fetchedAt": "2026-10-13T03:25:19+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "亚马逊机器人破百万，人类员工何去何从？",
+        "takeaway": "亚马逊部署超100万台机器人，作为第二大企业雇主，其人力岗位未来走向值得关注。",
+        "bullets": [
+          "亚马逊机器人数量已超100万台",
+          "公司靠机器人实现规模扩张",
+          "人类员工岗位面临重新定义",
+          "作为第二大雇主，影响广泛"
+        ],
+        "detail": "亚马逊作为全球第二大企业雇主，已部署超过100万台机器人来支撑业务扩张。这一大规模自动化举措引发关注：未来人类员工将扮演什么角色？",
+        "generatedAt": "2026-10-13T03:25:36+08:00"
       }
     },
     {
@@ -986,6 +1389,42 @@
       }
     },
     {
+      "id": "a318bce54a374679",
+      "title": "datasette-ports 0.4",
+      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports",
+      "summary": "Release: datasette-ports 0.4 My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID as well. Knowing the PID makes it easier to attach the new Pyth…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T12:57:07+08:00",
+      "fetchedAt": "2026-10-13T03:25:19+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "datasette-ports 0.4 发布：新增 PID 显示",
+        "takeaway": "Simon Willison 的 Datasette 实例检测插件更新，兼容最新版并显示进程 PID，方便调试。",
+        "bullets": [
+          "datasette-ports 0.4 兼容最新版 Datasette",
+          "新增显示检测到的进程 PID",
+          "方便开发者附加调试器或管理进程"
+        ],
+        "detail": "Simon Willison 发布了 datasette-ports 0.4 版本。这个插件用于检测并列出当前机器上所有 Datasette 实例，现在兼容最新版 Datasette，并会显示检测到的进程 PID。知道 PID 后，开发者可以更方便地附加 Python 调试器或进行进程管理。",
+        "generatedAt": "2026-10-13T03:25:37+08:00"
+      }
+    },
+    {
       "id": "c2060675dbb8a188",
       "title": "Every Model That Can Be Run On 10-16GB VRAM Ranked",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x3gpyi/every_model_that_can_be_run_on_1016gb_vram_ranked",
@@ -1048,6 +1487,54 @@
       "pushed": false
     },
     {
+      "id": "7834de8ec2cebec9",
+      "title": "Any takers for local llm? NVIDIA’s CUDA Moat Is Accelerating RTX Spark Laptop Sales, Higher 128GB Unified Memory Options Belonging To Surface Laptop Ultra Already Out Of Stock",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x3ykyb/any_takers_for_local_llm_nvidias_cuda_moat_is",
+      "summary": "Cheapest one I see at MC is the asus pro-art version for 6499. https://www.microcenter.com/product/715662/asus-proart-p14-14-wqxga-120hz-oled-laptop submitted by /u/chemist_slime [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T18:44:19+08:00",
+      "fetchedAt": "2026-10-13T03:25:19+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.67,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d5acb338a8a55bc6",
+      "title": "A \"free\" multi-modal \"embedding\" model (already) included with your LLM: vLLM plugin + upstream PR",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x416s0/a_free_multimodal_embedding_model_already",
+      "summary": "Disclaimer: I work for NuMind, the company behind this plugin. TLDR: Text/image (simili-)embeddings from the LLM you already have loaded :-) I've been working on making it easier to obtain embeddings from a LLM (preferably multi-modal) that…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T20:59:09+08:00",
+      "fetchedAt": "2026-10-13T03:25:19+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "a2419293dd3905a0",
       "title": "费莫一刘念邱：智驾无图的经验，也能迁移到机器人 | 物理AI 50人",
       "url": "https://leiphone.com/category/transportation/Y6GLcnioywVn3u7K.html",
@@ -1071,6 +1558,31 @@
       ],
       "confidence": 0.25,
       "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1e89d8b91f667ab4",
+      "title": "LSearch - Spotlight for windows with embedding",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x3zut6/lsearch_spotlight_for_windows_with_embedding",
+      "summary": "I built a spotlight search for windows. It has an embedding model and a MoE models to go with it. The MoE It's 2 Qwen 3.5 4B models, I fine tuned one for coding work and another for agentic work, and then I combined them both into an MoE. I…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T19:54:55+08:00",
+      "fetchedAt": "2026-10-13T03:25:19+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 32,
       "related": [],
       "pushed": false
     },
@@ -1317,6 +1829,29 @@
       "pushed": false
     },
     {
+      "id": "55a71fa7b34590cc",
+      "title": "LLC: lightweight Open WebUI alt now with Agents+MCP+RAG+Image Editing",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x415dd/llc_lightweight_open_webui_alt_now_with",
+      "summary": "Quick context: LocalLightChat (LLC) is a chat frontend for local LLMs. Download it, run it, that's it. No installation (unless you want to), no dependencies, and it runs on pretty much anything, including ancient hardware. I originally buil…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T20:57:20+08:00",
+      "fetchedAt": "2026-10-13T03:25:19+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "fea87620e7468aec",
       "title": "Hyper Algorithm Design Agent: Evolving Learnable Optimizer from Zero",
       "url": "https://arxiv.org/abs/2609.35328",
@@ -1339,6 +1874,31 @@
       "confidence": 1,
       "score": 27,
       "paperRank": 12,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "52614dc935aef39f",
+      "title": "AI 编程智能体生成了更多代码，但并没有生成更多软件",
+      "url": "https://solidot.org/story?sid=85589",
+      "summary": "一项对数百家公司编程实践的研究发现，人工代码审查是 AI 编程工具整体效率的一大瓶颈，导致几乎没有证据表明企业使用 AI 工具能提高软件产量或减少就业。研究涵盖了 2021-2026 年 3 月间逾 700 家软件开发公司逾 70 万员工的 3 亿条工作事件（如 commits 和 pull requests）以及问题管理软件数据。公司在引入 AI 编程智能体后，代码总行数平均增加了 30%，commit 总数增加了 20%，pull requests 总数平均增加了 23%…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T18:01:07+08:00",
+      "fetchedAt": "2026-10-13T03:25:19+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "审查"
+      ],
+      "confidence": 0.33,
+      "score": 27,
       "related": [],
       "pushed": false
     },
