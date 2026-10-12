@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "updatedAt": "2026-10-12T09:27:52+08:00",
+  "updatedAt": "2026-10-12T10:42:47+08:00",
   "items": [
     {
       "id": "7d4e278f0b748445",
@@ -223,6 +223,77 @@
       "pushedAt": "2026-10-12T06:36:28+08:00"
     },
     {
+      "id": "9d9055fb82668eff",
+      "title": "阿里巴巴中国电商事业群/飞猪CTO陈烨博士已确认出席QCon上海，分享“从 Coding 到消费：AI 的下一场革命”",
+      "url": "https://infoq.cn/article/4hYrs8ShAKPAhyzTGQ92",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T18:00:00+08:00",
+      "fetchedAt": "2026-10-12T10:42:40+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阿里陈烨将出席QCon上海，谈AI从编程走向消费",
+        "takeaway": "阿里电商与飞猪CTO陈烨确认在QCon上海演讲，主题是AI从Coding到消费的下一步。",
+        "bullets": [
+          "陈烨博士现任阿里中国电商事业群及飞猪CTO",
+          "他将在QCon上海分享AI从Coding到消费的演进",
+          "演讲聚焦AI下一场革命，面向开发者与行业人士"
+        ],
+        "detail": "InfoQ中国消息，阿里巴巴中国电商事业群/飞猪CTO陈烨博士已确认出席QCon上海。他将带来题为“从Coding到消费：AI的下一场革命”的分享，探讨AI从编程领域向消费场景延伸的趋势。",
+        "generatedAt": "2026-10-12T10:42:47+08:00"
+      }
+    },
+    {
+      "id": "98e4666ff78240a7",
+      "title": "给 DeepSeek Harness（DSH）装上 bot 插件，把 DSH 变成 bot 系统",
+      "url": "https://oschina.net/news/502968",
+      "summary": "DeepSeek Harness 有了一个把它『Bot 化』的插件 —— DeepSeek Bot（DS Bot）做的事情一句话能讲清：支持你搭一个长期存在的 bot 团队——有主 bot、有 bot 之间互相发消息、有群聊。它自己申明得很清楚，这是独立社区项目，不是 DeepSeek 官方产品。最有意思的设定是那个 main bot。第一次打开 DS Bot，系统已经给你配...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T10:36:34+08:00",
+      "fetchedAt": "2026-10-12T10:42:40+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "插件"
+      ],
+      "confidence": 0.33,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "社区为 DeepSeek Harness 推出 Bot 插件，可搭多 Bot 团队",
+        "takeaway": "独立社区项目 DS Bot 让 DSH 支持主 Bot、Bot 互发消息和群聊，非官方出品。",
+        "bullets": [
+          "DS Bot 是 DeepSeek Harness 的 Bot 化插件，属独立社区项目",
+          "支持搭建长期存在的 Bot 团队，含主 Bot 与群聊机制",
+          "Bot 之间可以互相发消息，形成协作式 Bot 系统",
+          "官方声明非 DeepSeek 官方产品，需注意来源"
+        ],
+        "detail": "DeepSeek Harness 出现了一个叫 DeepSeek Bot（DS Bot）的插件，把它变成 Bot 系统。它能让你搭建长期运行的 Bot 团队，包含主 Bot、Bot 间互发消息和群聊。项目方明确表示这是独立社区项目，并非 DeepSeek 官方产品。",
+        "generatedAt": "2026-10-12T10:42:47+08:00"
+      }
+    },
+    {
       "id": "e570ded495433b2b",
       "title": "I tested different Qwen 3.8 27B quants",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x3ij13/i_tested_different_qwen_38_27b_quants",
@@ -365,6 +436,40 @@
         ],
         "detail": "JFrog Artifactory 被曝存在一个认证绕过漏洞，攻击者无需有效凭证即可获得管理员权限。目前该漏洞已被积极利用，可能影响众多使用该制品库的企业。建议用户立即升级到安全版本或采取缓解措施。",
         "generatedAt": "2026-10-12T09:27:52+08:00"
+      }
+    },
+    {
+      "id": "139395546851f47c",
+      "title": "Radicle 披露了可能导致私有仓库以明文形式暴露的关键漏洞",
+      "url": "https://infoq.cn/article/h86bNjSBdJRBYwxP4Xgt",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T18:15:00+08:00",
+      "fetchedAt": "2026-10-12T10:42:40+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Radicle 披露关键漏洞：私有仓库可能明文暴露",
+        "takeaway": "去中心化代码协作平台 Radicle 曝出漏洞，私有仓库或不再私密，用户需尽快排查。",
+        "bullets": [
+          "Radicle 披露一个关键漏洞，可能让私有仓库以明文形式暴露",
+          "受影响的是使用 Radicle 托管私有代码的用户",
+          "官方已公开漏洞信息，建议用户关注修复与升级"
+        ],
+        "detail": "Radicle 是一个去中心化的代码协作平台。此次披露的关键漏洞可能导致原本设为私有的仓库内容以明文形式泄露，破坏其隐私保护。使用该平台托管私有代码的用户应尽快查看官方说明并采取修复措施。",
+        "generatedAt": "2026-10-12T10:42:47+08:00"
       }
     },
     {
