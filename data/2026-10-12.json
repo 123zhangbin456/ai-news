@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "updatedAt": "2026-10-12T08:48:20+08:00",
+  "updatedAt": "2026-10-12T09:27:52+08:00",
   "items": [
     {
       "id": "7d4e278f0b748445",
@@ -331,6 +331,40 @@
         ],
         "detail": "爱范儿早报汇总多条科技动态：苹果被曝与 ADT 合作，为家居中枢提供安装服务；腾讯在 QClaw 之后又关停一个 Agent 产品；蔚来广东换电站达到 500 座，并在六城同步新增第五代站；苹果 COO 探访郑州工厂，披露 iPhone Duo 的屏幕与芯片制造工艺。",
         "generatedAt": "2026-10-12T08:48:19+08:00"
+      }
+    },
+    {
+      "id": "4b01779fd922687b",
+      "title": "Artifactory 漏洞正被积极利用，可以绕过身份验证并获取管理员权限",
+      "url": "https://infoq.cn/article/CSNMcSceutWCGQhZcL7D",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T17:05:00+08:00",
+      "fetchedAt": "2026-10-12T09:27:44+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Artifactory 漏洞遭活跃利用，可绕过认证获取管理员权限",
+        "takeaway": "JFrog Artifactory 存在认证绕过漏洞，攻击者正积极利用以获取管理员权限，需尽快修复。",
+        "bullets": [
+          "漏洞允许攻击者绕过身份验证，直接获取管理员权限。",
+          "该漏洞正被积极利用，影响使用 Artifactory 的企业。",
+          "建议用户尽快升级或应用补丁，防止未授权访问。"
+        ],
+        "detail": "JFrog Artifactory 被曝存在一个认证绕过漏洞，攻击者无需有效凭证即可获得管理员权限。目前该漏洞已被积极利用，可能影响众多使用该制品库的企业。建议用户立即升级到安全版本或采取缓解措施。",
+        "generatedAt": "2026-10-12T09:27:52+08:00"
       }
     },
     {
