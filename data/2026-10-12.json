@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "updatedAt": "2026-10-13T19:27:32+08:00",
+  "updatedAt": "2026-10-14T02:24:52+08:00",
   "items": [
     {
       "id": "5c06f92d8c740bf1",
@@ -1530,6 +1530,32 @@
       "category": "其他",
       "keywords": [],
       "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "efadf9441346330c",
+      "title": "web-edit 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit",
+      "summary": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So... I had Codex and GPT-6 Astra Ex…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T23:54:36+08:00",
+      "fetchedAt": "2026-10-14T02:24:29+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "GPT"
+      ],
+      "confidence": 1,
       "score": 34,
       "related": [],
       "pushed": false
