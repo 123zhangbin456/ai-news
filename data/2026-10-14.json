@@ -1,7 +1,152 @@
 {
   "date": "2026-10-14",
-  "updatedAt": "2026-10-12T17:50:03+08:00",
+  "updatedAt": "2026-10-13T19:27:32+08:00",
   "items": [
+    {
+      "id": "faf0794818f1fa0f",
+      "title": "刚亮相就传被英伟达收购：Gemini老兵团队凭什么还敢押注Coding Agent？",
+      "url": "https://infoq.cn/article/LQjytCZpPdgOE5PrWU59",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T01:57:05+08:00",
+      "fetchedAt": "2026-10-13T19:27:03+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "收购"
+      ],
+      "confidence": 0.2,
+      "score": 64,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gemini老兵团队刚亮相就传被英伟达收购，仍押注Coding Agent",
+        "takeaway": "一支Gemini背景的创业团队刚公开就传出被英伟达收购，却仍选择做编程智能体。",
+        "bullets": [
+          "团队核心成员来自谷歌Gemini，刚亮相即传出被英伟达收购",
+          "尽管有收购传闻，团队仍坚持押注Coding Agent方向",
+          "事件反映大厂对AI编程智能体赛道的高度关注"
+        ],
+        "detail": "这支由Gemini项目老兵组成的团队刚对外亮相，就传出被英伟达收购的消息。即便如此，他们依然选择押注Coding Agent（编程智能体）方向，说明该赛道被持续看好。",
+        "generatedAt": "2026-10-13T19:27:16+08:00"
+      }
+    },
+    {
+      "id": "cf12248af09e37cf",
+      "title": "Claude 开始自己写程序管理 Agent 了：Anthropic 披露动态工作流架构",
+      "url": "https://infoq.cn/article/8La5gsJVOOF5BvFiLAUF",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T01:41:43+08:00",
+      "fetchedAt": "2026-10-13T19:27:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 披露动态工作流架构：Claude 可自己写程序管理 Agent",
+        "takeaway": "Anthropic 公开新架构，让 Claude 动态生成程序来调度多个 Agent，而非依赖固定流程。",
+        "bullets": [
+          "Anthropic 披露动态工作流架构，Claude 可自行编写程序管理 Agent",
+          "核心变化是从预设固定流程转向运行时动态生成调度逻辑",
+          "面向多 Agent 协作场景，或影响 Agent 框架的设计思路"
+        ],
+        "detail": "Anthropic 介绍了其动态工作流架构：Claude 不再只按预设流程执行，而是自己写程序来组织和调度多个 Agent。这意味着 Agent 的协作方式可在运行时动态生成，而非提前写死，对多 Agent 系统的搭建方式有参考意义。",
+        "generatedAt": "2026-10-13T19:27:16+08:00"
+      }
+    },
+    {
+      "id": "af1cefc3c7f7c296",
+      "title": "修复漏洞的 PR 刚提交，攻击几分钟后就来了：AI 正在击穿开源安全流程",
+      "url": "https://infoq.cn/article/R7OkT6DCUifdCQqAvwtJ",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T01:25:00+08:00",
+      "fetchedAt": "2026-10-13T19:27:03+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "漏洞修复 PR 刚提交，攻击几分钟后就到：AI 正击穿开源安全流程",
+        "takeaway": "AI 让攻击者能秒级利用刚公开的漏洞修复信息，开源安全响应流程正被击穿。",
+        "bullets": [
+          "修复漏洞的 PR 一提交，攻击几分钟内就出现",
+          "AI 加速了从漏洞公开到被利用的时间差",
+          "传统开源安全流程依赖的时间窗口正在消失",
+          "维护者与攻击者之间的攻防节奏被彻底改变"
+        ],
+        "detail": "InfoQ 中国报道指出，开源项目中修复漏洞的 PR 刚提交，攻击者就在几分钟后发起利用。AI 让攻击者能快速分析公开的修复代码并反向构造攻击，原本留给维护者和用户的缓冲时间被大幅压缩，开源安全流程面临新挑战。",
+        "generatedAt": "2026-10-13T19:27:18+08:00"
+      }
+    },
+    {
+      "id": "c40e8a0c325cc83d",
+      "title": "Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕",
+      "url": "https://infoq.cn/article/2QXm6PqYYX57AOxTYyO0",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T02:32:43+08:00",
+      "fetchedAt": "2026-10-13T19:27:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "新模型"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 新模型 Muse 回归第一梯队，Alexandr Wang 揭秘七个月翻身内幕",
+        "takeaway": "Meta 发布新模型 Muse，宣称重回 AI 第一梯队，Alexandr Wang 亲述七个月研发内幕。",
+        "bullets": [
+          "Meta 发布新模型 Muse，号称重回 AI 第一梯队",
+          "Alexandr Wang 亲自讲述七个月研发翻身过程",
+          "消息由 InfoQ 中国报道，具体细节待原文披露"
+        ],
+        "detail": "Meta 推出新模型 Muse，官方口径是借此杀回 AI 第一梯队。Alexandr Wang 亲自出面，讲述团队用七个月实现翻身的幕后过程。目前公开信息有限，更多技术细节和评测表现需查看原文。",
+        "generatedAt": "2026-10-13T19:27:25+08:00"
+      }
+    },
     {
       "id": "f3069ee54c2e04bb",
       "title": "AI 智能体三周重构 30 万行代码，Code Health 从 5.6 升至 10.0：代码真的变好了吗？",
