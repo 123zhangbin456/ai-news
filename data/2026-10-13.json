@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "updatedAt": "2026-10-13T11:05:48+08:00",
+  "updatedAt": "2026-10-13T11:21:50+08:00",
   "items": [
     {
       "id": "b04adc9c33342299",
@@ -215,6 +215,45 @@
         ],
         "detail": "这是 Hacker News 上的一篇讨论帖，指向 micahflee.com 的文章《Just say no to OpenAI and Anthropic》。帖子获得 130 分和 80 条评论，说明社区对抵制这两家 AI 公司的立场有较大兴趣，但摘要未透露文章的具体论据。",
         "generatedAt": "2026-10-13T03:25:28+08:00"
+      }
+    },
+    {
+      "id": "c09bc782bb9102d9",
+      "title": "星尘智能完成新一轮融资，公司估值达150亿元",
+      "url": "https://infoq.cn/article/z9ORbE470QJDHDiBCC8S",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-13T19:06:58+08:00",
+      "fetchedAt": "2026-10-13T11:21:43+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "轮融资",
+        "估值",
+        "亿元"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "星尘智能完成新一轮融资，估值达150亿元",
+        "takeaway": "星尘智能再获融资，估值升至150亿元，资本持续押注具身智能赛道。",
+        "bullets": [
+          "星尘智能完成新一轮融资，公司估值达150亿元",
+          "融资细节未披露，具体金额和投资方暂未公开",
+          "高估值显示资本对具身智能/机器人方向持续看好"
+        ],
+        "detail": "据 InfoQ 中国消息，星尘智能已完成新一轮融资，公司估值达到150亿元。目前融资金额、投资方等具体信息尚未披露，但这一估值反映出资本市场对具身智能及机器人领域的持续关注。",
+        "generatedAt": "2026-10-13T11:21:50+08:00"
       }
     },
     {
@@ -861,6 +900,40 @@
       }
     },
     {
+      "id": "a67241c8cec153ed",
+      "title": "高可用不等于弹性：云系统为何在关键时刻失效",
+      "url": "https://infoq.cn/article/CNMCVLwkvFb120huYzr9",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-13T19:03:00+08:00",
+      "fetchedAt": "2026-10-13T11:21:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "高可用不等于弹性：云系统为何在关键时刻失效",
+        "takeaway": "文章指出高可用架构并不等于真正弹性，云系统在关键时刻仍可能失效，值得架构师反思。",
+        "bullets": [
+          "高可用与弹性是两个不同概念，常被混为一谈",
+          "云系统在流量高峰或故障时仍可能整体失效",
+          "架构设计需区分冗余备份与动态伸缩能力"
+        ],
+        "detail": "文章讨论了一个常见误区：系统标称高可用，不代表在真实压力下具备弹性。云环境中的冗余设计可能掩盖了扩展能力的不足，导致关键时刻服务整体失效。作者提醒架构师重新审视可用性与弹性的边界。",
+        "generatedAt": "2026-10-13T11:21:50+08:00"
+      }
+    },
+    {
       "id": "ab94d9d372e4a358",
       "title": "Weird blog post from OrcaRouter",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x4j6dh/weird_blog_post_from_orcarouter",
@@ -1121,6 +1194,29 @@
         "review"
       ],
       "confidence": 0.67,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "46f149227eb39e44",
+      "title": "TikTok’s Chief Sees AI Unlocking Science Within Three Years",
+      "url": "https://tmtpost.com/8166635.html",
+      "summary": "Shou Zi Chew told a Singapore audience that artificial intelligence could deliver real advances in physics, biotech, chemistry and materials science inside two to three years. ByteDance has already spun out a drug-discovery unit, released s…",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-13T11:07:03+08:00",
+      "fetchedAt": "2026-10-13T11:21:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 30,
       "related": [],
       "pushed": false
