@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "updatedAt": "2026-10-13T05:29:43+08:00",
+  "updatedAt": "2026-10-13T10:45:37+08:00",
   "items": [
     {
       "id": "5c06f92d8c740bf1",
@@ -1926,6 +1926,54 @@
       "pushed": false
     },
     {
+      "id": "d32d11f508b16afd",
+      "title": "FocusAny v2.3.0 本地 AI 工具条，稳定性大扫除",
+      "url": "https://oschina.net/news/502979",
+      "summary": "全局搜索、插件、大模型、MCP、工作流，都收在一个快捷键呼出的面板里。v2.3.0 没有上新功能，专心做了三件事——让崩溃说得清、让界面更顺眼、让数据放哪看得见。崩溃、卡死、白屏，下次能查得到你没法描述它，开发者也很难复现。从现在起，FocusAny 会把这类情况记在本机日志里：是哪个窗口崩了、卡住了多久、当时占...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T21:39:30+08:00",
+      "fetchedAt": "2026-10-13T10:45:23+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "插件"
+      ],
+      "confidence": 0.33,
+      "score": 26,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f869ceb5043b48af",
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "url": "https://taylor.town/kk-ai-2026",
+      "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 146 # Comments: 44",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T23:16:45+08:00",
+      "fetchedAt": "2026-10-13T10:45:23+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 26,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "8a38aff479daa4d2",
       "title": "DREAM: Dynamic Resolution Assignment For Multimodal Multi-agent Debate",
       "url": "https://arxiv.org/abs/2610.05615",
@@ -2364,6 +2412,396 @@
       "confidence": 1,
       "score": 24,
       "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a541c6f57de54769",
+      "title": "Meta-Reflective Evolution Effectively Improves Production AI Systems",
+      "url": "https://arxiv.org/abs/2610.12794",
+      "summary": "arXiv:2610.12794v1 Announce Type: cross Abstract: Large Language Model (LLM)-guided evolutionary optimization has successfully improved prompts, programs, and even entire AI systems. Most optimization methods select a candidate from the sea…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T12:00:00+08:00",
+      "fetchedAt": "2026-10-13T10:45:23+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 22,
+      "paperRank": 7,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ac65fab381d3f23c",
+      "title": "Locate, Judge, Read: Role-Specialized Tool Agents over a Knowledge-Point Index for Open-Domain Multimodal Document QA",
+      "url": "https://arxiv.org/abs/2610.13128",
+      "summary": "arXiv:2610.13128v1 Announce Type: cross Abstract: Question answering over large heterogeneous document collections requires first finding the right passages and then reading them, yet current retrieval-augmented agents give one model both k…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T12:00:00+08:00",
+      "fetchedAt": "2026-10-13T10:45:23+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 20,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e9d44687b737c428",
+      "title": "SEEDS: Preview-Guided Evidence Admission for Search Agents",
+      "url": "https://arxiv.org/abs/2610.12932",
+      "summary": "arXiv:2610.12932v1 Announce Type: new Abstract: Search agents extend large reasoning models with multi-round access to external knowledge, yet most existing systems largely conflate retrieving evidence with consuming it. Retrieved documents…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T12:00:00+08:00",
+      "fetchedAt": "2026-10-13T10:45:23+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 16,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f45b2cddc6688cf6",
+      "title": "S-Space: Exploring Spatial Workspace in Multimodal Language Models",
+      "url": "https://arxiv.org/abs/2610.13527",
+      "summary": "arXiv:2610.13527v1 Announce Type: cross Abstract: Multimodal language models (MLLMs) exhibit promising spatial reasoning capabilities, yet the internal mechanisms supporting them remain poorly understood. We uncover S-Space, a linear repres…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T12:00:00+08:00",
+      "fetchedAt": "2026-10-13T10:45:23+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 16,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "260089bcd757b11f",
+      "title": "BoundaryEvo: Data-Model Co-Evolution at the Capability Boundary for Long-Chain Reasoning Distillation",
+      "url": "https://arxiv.org/abs/2610.13285",
+      "summary": "arXiv:2610.13285v1 Announce Type: cross Abstract: Distilling long-chain reasoning trajectories from large teacher models provides an effective way to improve the reasoning ability of small language models. However, existing methods typicall…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T12:00:00+08:00",
+      "fetchedAt": "2026-10-13T10:45:23+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 16,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "dbb83c5e511bf9a3",
+      "title": "Taking Tokenization off the Host for Agentic LLM Serving",
+      "url": "https://arxiv.org/abs/2610.13325",
+      "summary": "arXiv:2610.13325v1 Announce Type: cross Abstract: Agentic workloads resend long contexts that barely change between calls. Prefix caching now skips most of their prefill, yet every request must still be tokenized in full before the cache ca…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T12:00:00+08:00",
+      "fetchedAt": "2026-10-13T10:45:23+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 16,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "16e0bb029536ab30",
+      "title": "A Privileged Teacher That Only Scores Cannot Search: Critique-Conditioned On-Policy Self-Distillation for Reasoning",
+      "url": "https://arxiv.org/abs/2610.13744",
+      "summary": "arXiv:2610.13744v1 Announce Type: cross Abstract: On-policy self-distillation promises to replace the sparse outcome signal of verifiable-reward RL with dense token-level credit: a teacher conditioned on the reference solution scores the st…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T12:00:00+08:00",
+      "fetchedAt": "2026-10-13T10:45:23+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 16,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "06b836605bb31b0f",
+      "title": "What Should SFT Learn? Conditional Information Gain for Generalizable Post-Training",
+      "url": "https://arxiv.org/abs/2610.12995",
+      "summary": "arXiv:2610.12995v1 Announce Type: new Abstract: Supervised fine-tuning (SFT) remains a widely used approach for post-training large language models, because fixed demonstrations can directly introduce desired reasoning strategies and behavi…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T12:00:00+08:00",
+      "fetchedAt": "2026-10-13T10:45:23+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 16,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ff3a15b78f36d058",
+      "title": "RAMP: Recurrent Adaptive Mixed Precision for Efficient Prefill in Recurrent-Depth Language Models",
+      "url": "https://arxiv.org/abs/2610.13041",
+      "summary": "arXiv:2610.13041v1 Announce Type: new Abstract: Recurrent-depth language models improve inference-time reasoning by repeatedly applying a shared network to refine internal representations, but the additional recurrent computation also incre…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T12:00:00+08:00",
+      "fetchedAt": "2026-10-13T10:45:23+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 16,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c7777cbf93ea9f87",
+      "title": "CliQ-RRG: Clinical-Knowledge Guided Disease-aware Visual-Textual Alignment for QA-Style Radiology Report Generation",
+      "url": "https://arxiv.org/abs/2610.13059",
+      "summary": "arXiv:2610.13059v1 Announce Type: new Abstract: Radiology reports are essential for diagnostic reasoning and patient care, yet their manual preparation is time-consuming and cognitively demanding. Automatic radiology report generation (RRG)…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T12:00:00+08:00",
+      "fetchedAt": "2026-10-13T10:45:23+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 16,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9e94dc979d7914b5",
+      "title": "PreSTO: Predictive Subtree Prefetching for Fast LLM Power Sampling",
+      "url": "https://arxiv.org/abs/2610.13171",
+      "summary": "arXiv:2610.13171v1 Announce Type: new Abstract: Power sampling improves large language model (LLM) reasoning at test time by sampling from a sharpened version of the base model's distribution. Its sampler, PowerMH, is slow because its Metro…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T12:00:00+08:00",
+      "fetchedAt": "2026-10-13T10:45:23+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 16,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9d6f71dabb3baeaa",
+      "title": "Inject a Turn, Not a Token: Learning Where to Redirect LLM Reasoning for Self-Correction",
+      "url": "https://arxiv.org/abs/2610.13672",
+      "summary": "arXiv:2610.13672v1 Announce Type: new Abstract: Large language models struggle to reliably identify and correct errors in their own reasoning. Unlike prior training-based approaches that fine-tune an LLM to generate revisions or feedback, w…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T12:00:00+08:00",
+      "fetchedAt": "2026-10-13T10:45:23+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 16,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "62a07a440f1b2552",
+      "title": "Verifiable Retrieval for Legal Reasoning through Structure-driven Knowledge Graph",
+      "url": "https://arxiv.org/abs/2610.13695",
+      "summary": "arXiv:2610.13695v1 Announce Type: new Abstract: Any automation within reliability-critical contexts such as medicine or law has to be transparent and verifiable. Despite their advantages, current LLM-based systems do not meet these requirem…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T12:00:00+08:00",
+      "fetchedAt": "2026-10-13T10:45:23+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 16,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5799a8cbae9ffc24",
+      "title": "Enhancing Legal Reasoning in Pre-trained Language Models via Knowledge Graph-Guided Multi-Task Pre-training",
+      "url": "https://arxiv.org/abs/2610.13722",
+      "summary": "arXiv:2610.13722v1 Announce Type: new Abstract: Legal language understanding requires reasoning over semi-structured regulatory documents, yet standard pre-training objectives do not explicitly target this structural capability. Because cur…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T12:00:00+08:00",
+      "fetchedAt": "2026-10-13T10:45:23+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 16,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6a606d89cc654d4c",
+      "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+      "url": "https://arxiv.org/abs/2610.13912",
+      "summary": "arXiv:2610.13912v1 Announce Type: new Abstract: Recursive self-improvement (RSI) aims to transform interaction experience into persistent improvements, yet external feedback is costly and world-model predictions may become unreliable as pol…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-12T12:00:00+08:00",
+      "fetchedAt": "2026-10-13T10:45:23+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 16,
+      "paperRank": 6,
       "related": [],
       "pushed": false
     }
