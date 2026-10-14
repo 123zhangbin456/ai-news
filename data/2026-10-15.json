@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updatedAt": "2026-10-14T02:24:52+08:00",
+  "updatedAt": "2026-10-14T21:07:57+08:00",
   "items": [
     {
       "id": "85e37809c5c8dbe7",
@@ -38,6 +38,180 @@
         ],
         "detail": "谷歌在观望数月后，终于推出备受期待的 Gemini 4 Argon。官方称该模型具备前沿推理能力，可与业界顶尖产品竞争，标志着谷歌重新加入前沿 AI 竞赛。",
         "generatedAt": "2026-10-14T02:24:37+08:00"
+      }
+    },
+    {
+      "id": "a99ceaade512911d",
+      "title": "Cloudflare 正式发布 Python Workers，但关于冷启动和上游维护的问题仍待解答",
+      "url": "https://infoq.cn/article/fycaxN0NvWHBq6B7d3zY",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T01:00:00+08:00",
+      "fetchedAt": "2026-10-14T21:07:30+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cloudflare 正式发布 Python Workers，冷启动与上游维护问题待解",
+        "takeaway": "Cloudflare 上线 Python Workers，开发者可用 Python 写边缘函数，但冷启动和依赖维护仍存疑。",
+        "bullets": [
+          "Cloudflare 正式推出 Python Workers，支持在边缘运行 Python 代码",
+          "官方未完全解答冷启动性能问题，可能影响响应速度",
+          "上游依赖维护机制尚不明确，长期可用性存疑"
+        ],
+        "detail": "Cloudflare 宣布 Python Workers 正式可用，开发者现在能用 Python 编写边缘函数。但官方尚未详细说明冷启动表现，以及运行时依赖如何跟随上游更新维护，这两点可能影响实际生产使用。",
+        "generatedAt": "2026-10-14T21:07:44+08:00"
+      }
+    },
+    {
+      "id": "8c8f14be33c17b84",
+      "title": "企业真正需要的，不是更聪明的 Agent ？",
+      "url": "https://infoq.cn/video/Wss036X3C6APXsS41HwC",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T02:36:53+08:00",
+      "fetchedAt": "2026-10-14T21:07:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "企业真正需要的，不是更聪明的 Agent？",
+        "takeaway": "InfoQ 中国发文质疑企业一味追求 Agent 智能化的思路，值得关注其背后的落地反思。",
+        "bullets": [
+          "InfoQ 中国抛出疑问：企业真正需要的是更聪明的 Agent 吗",
+          "文章指向 Agent 在企业落地中的实际价值问题",
+          "具体论证与案例需查看原文，摘要未展开"
+        ],
+        "detail": "InfoQ 中国发布了一篇讨论企业级 Agent 的文章，标题直接抛出反问：企业真正需要的，或许并不是更聪明的 Agent。摘要仅提示点击查看原文，未给出具体论据，因此文章的核心论证和案例尚不明确。",
+        "generatedAt": "2026-10-14T21:07:53+08:00"
+      }
+    },
+    {
+      "id": "9907eff0943e567a",
+      "title": "Spring 近期新闻：Boot、Framework、Data、Security 和 Integration 的第二个里程碑版本",
+      "url": "https://infoq.cn/article/bjowsAJHMwfAzRMqu4qJ",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T02:11:08+08:00",
+      "fetchedAt": "2026-10-14T21:07:30+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "integration"
+      ],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Spring 全家桶迎来第二个里程碑版本",
+        "takeaway": "Spring Boot、Framework、Data、Security、Integration 同步发布第二个里程碑版，为下一正式版铺路。",
+        "bullets": [
+          "涉及 Boot、Framework、Data、Security、Integration 五大模块",
+          "均为第二个里程碑版本，属于正式发布前的预览",
+          "开发者可提前试用并反馈问题，影响后续正式版"
+        ],
+        "detail": "Spring 生态多个核心项目同步放出第二个里程碑版本，覆盖 Boot、Framework、Data、Security 和 Integration。这类版本面向尝鲜和测试，功能尚未定型，正式版发布前还会继续调整。",
+        "generatedAt": "2026-10-14T21:07:55+08:00"
+      }
+    },
+    {
+      "id": "570b71a7da4e2a3e",
+      "title": "千问办公杀入电商经营！3万开店成本压至几百元，一个Agent接管多平台生意",
+      "url": "https://infoq.cn/article/IAAteiFAzfescqFHIyQU",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T01:48:46+08:00",
+      "fetchedAt": "2026-10-14T21:07:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "千问办公入局电商经营，3万开店成本压至几百元",
+        "takeaway": "阿里千问办公推出电商经营 Agent，把多平台开店成本从数万元压到几百元，中小商家门槛大幅降低。",
+        "bullets": [
+          "千问办公切入电商经营场景，主打低成本开店",
+          "原本约3万元的开店成本被压缩到几百元",
+          "一个 Agent 可同时接管多个平台的店铺生意"
+        ],
+        "detail": "千问办公把 AI Agent 用到了电商经营上，原本动辄约 3 万元的开店成本被压到几百元。商家用一个 Agent 就能同时打理多个平台的店铺，运营门槛和人力投入都明显下降。",
+        "generatedAt": "2026-10-14T21:07:55+08:00"
+      }
+    },
+    {
+      "id": "fc037515aa5f95c7",
+      "title": "九成具身智能公司在东部沿海，长沙抢走了另一样东西",
+      "url": "https://infoq.cn/article/ZqJq0uHBPvvEewkc0ZFC",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T01:35:33+08:00",
+      "fetchedAt": "2026-10-14T21:07:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "九成具身智能公司在东部沿海，长沙抢走了另一样东西",
+        "takeaway": "具身智能企业高度集中在东部沿海，长沙则靠另一项资源切入赛道，区域格局值得关注。",
+        "bullets": [
+          "九成具身智能公司集中在东部沿海地区",
+          "长沙并未争抢企业，而是拿下了另一样东西",
+          "区域分布不均，产业资源向沿海倾斜"
+        ],
+        "detail": "据 InfoQ 中国报道，具身智能公司有九成聚集在东部沿海，产业资源明显向沿海集中。长沙没有直接争夺这些企业，而是抢走了另一样东西，具体是什么原文未展开，但反映出地方在具身智能赛道上的差异化打法。",
+        "generatedAt": "2026-10-14T21:07:55+08:00"
       }
     }
   ],
