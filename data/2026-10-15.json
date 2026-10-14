@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updatedAt": "2026-10-14T21:07:57+08:00",
+  "updatedAt": "2026-10-15T01:42:33+08:00",
   "items": [
     {
       "id": "85e37809c5c8dbe7",
@@ -41,6 +41,42 @@
       }
     },
     {
+      "id": "558d7c6880acff47",
+      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "url": "https://theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+      "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then pre…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T24:43:24+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "product"
+      ],
+      "confidence": 1,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 指控前员工窃取百余份产品计划文件并带往苹果",
+        "takeaway": "OpenAI 称一名前员工离职前带走超 100 份产品规划文件，随后加入苹果，已提交文件提出指控。",
+        "bullets": [
+          "OpenAI 称该员工离职前将 100 多份产品计划文件发到私人账户",
+          "该员工随后入职苹果，OpenAI 已向法院提交文件提出指控",
+          "事件涉及两家 AI 与科技巨头，或引发商业机密纠纷"
+        ],
+        "detail": "OpenAI 在周三提交的文件中指控一名未具名前员工，在加入苹果前带走了 100 多份与产品计划相关的文件，并把这些资料发送到个人账户。目前苹果方面尚未回应，事件可能演变为商业机密争议。",
+        "generatedAt": "2026-10-15T01:42:22+08:00"
+      }
+    },
+    {
       "id": "a99ceaade512911d",
       "title": "Cloudflare 正式发布 Python Workers，但关于冷启动和上游维护的问题仍待解答",
       "url": "https://infoq.cn/article/fycaxN0NvWHBq6B7d3zY",
@@ -74,6 +110,217 @@
         ],
         "detail": "Cloudflare 宣布 Python Workers 正式可用，开发者现在能用 Python 编写边缘函数。但官方尚未详细说明冷启动表现，以及运行时依赖如何跟随上游更新维护，这两点可能影响实际生产使用。",
         "generatedAt": "2026-10-14T21:07:44+08:00"
+      }
+    },
+    {
+      "id": "fe7e3bf246c62145",
+      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "url": "https://theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "summary": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they've found a new, cos…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T24:05:21+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tool"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软推出新机器学习工具，称可提升两周以上天气预报准确度",
+        "takeaway": "微软称用机器学习解决了传统物理模型和现有 AI 模型两周后预报失准的问题，值得关注。",
+        "bullets": [
+          "传统物理模型和现有 AI 天气预报超过两周后可靠性下降",
+          "微软研究人员称用机器学习找到了新方法解决该问题",
+          "该工具旨在提升中长期天气预报的准确度"
+        ],
+        "detail": "传统基于物理的天气预报，以及较新的 AI 模型，通常在两周之后就会变得不太可靠。微软表示，其研究人员利用机器学习找到了新方法，声称解决了这一难题，有望让更长期的天气预报更准确。",
+        "generatedAt": "2026-10-15T01:42:24+08:00"
+      }
+    },
+    {
+      "id": "02ae3f5fc0dc9f97",
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room",
+      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T24:41:49+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "paper"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 绝密会议室纸巾盒内藏录音设备，工程师被控外国间谍罪",
+        "takeaway": "OpenAI 一名工程师涉嫌在绝密会议室藏匿录音设备，被 FBI 指控为外国间谍，面临最高 5 年监禁和 25 万美元罚款。",
+        "bullets": [
+          "设备藏在纸巾盒内，位于 OpenAI 绝密会议室",
+          "涉事者为 OpenAI 工程师，被 FBI 指控外国间谍罪",
+          "若罪名成立，最高可判 5 年监禁及 25 万美元罚款"
+        ],
+        "detail": "OpenAI 一名工程师被指控在公司的绝密会议室里，将录音设备藏进纸巾盒中。FBI 已介入并对其提出外国间谍相关指控。该工程师可能面临最高 5 年监禁和 25 万美元罚款。",
+        "generatedAt": "2026-10-15T01:42:26+08:00"
+      }
+    },
+    {
+      "id": "672ebf75c430cf70",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T24:12:42+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "HiRO-ACEv2：以极低成本模拟3公里分辨率极端天气",
+        "takeaway": "Hugging Face 上发布 HiRO-ACEv2，能以极低成本实现3公里分辨率极端天气模拟，有望降低气候研究门槛。",
+        "bullets": [
+          "HiRO-ACEv2 在 Hugging Face 发布，可模拟3公里分辨率极端天气",
+          "号称成本仅为传统方法的一小部分",
+          "高分辨率模拟通常昂贵，该模型或推动气候研究普及"
+        ],
+        "detail": "Hugging Face 上出现了 HiRO-ACEv2，它能在3公里分辨率下模拟极端天气，而成本只是常规方法的一小部分。这意味着更精细的气候模拟可能不再需要巨额算力，对研究人员和气象机构是个好消息。",
+        "generatedAt": "2026-10-15T01:42:26+08:00"
+      }
+    },
+    {
+      "id": "0659125559370f17",
+      "title": "AI is mass decompiling games. That's both awesome and scary.",
+      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games",
+      "summary": "AI is mass decompiling games. That's both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game …",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T24:26:53+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 大规模反编译游戏：惊喜与隐忧并存",
+        "takeaway": "AI 正被用于批量反编译现有游戏，催生混搭创作热潮，但也引发版权与安全担忧。",
+        "bullets": [
+          "独立开发者 Popcar 讨论 AI 反编译游戏的新浪潮",
+          "反编译让不同游戏能混搭，催生创作爆发",
+          "这一趋势既令人兴奋，也带来法律和安全风险"
+        ],
+        "detail": "独立游戏开发者 Popcar 指出，近期出现了一波用 AI 大规模反编译现有游戏的热潮。这让不同游戏之间能进行奇怪的混搭，并带来游戏创作的爆发。但作者认为，这既令人惊叹，也让人感到害怕。",
+        "generatedAt": "2026-10-15T01:42:27+08:00"
+      }
+    },
+    {
+      "id": "ea8ee2c59aeb4439",
+      "title": "My AI doppelganger tells me what to eat",
+      "url": "https://theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T01:00:00+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "我的AI分身告诉我该吃什么",
+        "takeaway": "The Verge记者用AI分身指导饮食100天，探讨这类工具是否真能改变生活。",
+        "bullets": [
+          "The Verge资深评测员Victoria Song在专栏Optimizer中记录体验",
+          "她让AI分身决定自己吃什么，持续了100天",
+          "专栏聚焦那些声称能改变生活的科技产品和疗法"
+        ],
+        "detail": "The Verge的Optimizer专栏每周探讨号称能改变生活的新奇产品和疗法。资深评测员Victoria Song分享了自己过去100天让AI分身指导饮食的经历，试图验证这类工具是否真的有效。",
+        "generatedAt": "2026-10-15T01:42:29+08:00"
+      }
+    },
+    {
+      "id": "98d87062d63bbd59",
+      "title": "qwen3.8-flash-next-iq3_s vs -27B-GGUF:UD-Q4_K_XL",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x5vfs2/qwen38flashnextiq3_s_vs_27bggufudq4_k_xl",
+      "summary": "Sampling: temp 1.0, top_p 0.95, top_k 20 for both. Run with evalscope over the OpenAI-compatible API: Qwen3.8-Next on Strata (MI50 32GB), Qwen3.8-27B on llama.cpp (RX 7900 XTX 24GB). Caveat: These are only a portion of the full sets, since …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T24:13:14+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen3.8 量化版对比：Flash-Next 与 27B GGUF 实测",
+        "takeaway": "社区用 evalscope 对比两款 Qwen3.8 量化模型，为本地部署选型提供参考。",
+        "bullets": [
+          "对比对象：Qwen3.8-Flash-Next 与 Qwen3.8-27B 的 GGUF 量化版",
+          "采样参数统一：temp 1.0、top_p 0.95、top_k 20",
+          "分别跑在 MI50 32GB 与 RX 7900 XTX 24GB 上",
+          "测试仅覆盖部分数据集，结论需谨慎看待"
+        ],
+        "detail": "发帖者在 r/LocalLLaMA 分享了两款 Qwen3.8 量化模型的对比测试，通过 OpenAI 兼容接口用 evalscope 跑分。Flash-Next 跑在 32GB 的 MI50 上，27B GGUF 版跑在 24GB 的 RX 7900 XTX 上，采样参数一致。作者提醒测试只覆盖了完整数据集的一部分。",
+        "generatedAt": "2026-10-15T01:42:31+08:00"
       }
     },
     {
@@ -212,6 +459,42 @@
         ],
         "detail": "据 InfoQ 中国报道，具身智能公司有九成聚集在东部沿海，产业资源明显向沿海集中。长沙没有直接争夺这些企业，而是抢走了另一样东西，具体是什么原文未展开，但反映出地方在具身智能赛道上的差异化打法。",
         "generatedAt": "2026-10-14T21:07:55+08:00"
+      }
+    },
+    {
+      "id": "972ce96df38a5766",
+      "title": "Researchers use AI to design proteins that cut up other proteins",
+      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins",
+      "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T01:10:15+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tools"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 设计出能切割蛋白质的蛋白质",
+        "takeaway": "AI 设计工具造出可切断超稳定化学键的蛋白质，为生物技术开辟新可能。",
+        "bullets": [
+          "AI 设计出能切割其他蛋白质的蛋白质",
+          "这些蛋白质能打断可稳定数百年的化学键",
+          "研究由 Ars Technica AI 报道，属产品应用"
+        ],
+        "detail": "研究人员利用 AI 设计工具，创造出能够切割其他蛋白质的蛋白质。这些被切断的化学键通常极其稳定，可维持数百年。该成果展示了 AI 在蛋白质工程领域的潜力。",
+        "generatedAt": "2026-10-15T01:42:33+08:00"
       }
     }
   ],

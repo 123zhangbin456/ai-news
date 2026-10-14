@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updatedAt": "2026-10-14T21:07:57+08:00",
+  "updatedAt": "2026-10-15T01:42:33+08:00",
   "items": [
     {
       "id": "3de4eca6731ce8a8",
@@ -117,6 +117,42 @@
         "generatedAt": "2026-10-14T08:43:02+08:00"
       },
       "pushedAt": "2026-10-14T08:43:04+08:00"
+    },
+    {
+      "id": "a0e0fec2c2b5f568",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T20:00:00+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 63,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Amp 借 OpenAI 新模型让 AI 智能体走出代码领域",
+        "takeaway": "Amp 用 OpenAI 的 GPT-6 Astra 等模型，把 AI 智能体从写代码扩展到更广泛的任务。",
+        "bullets": [
+          "Amp 将 AI 智能体应用从编程拓展到更多场景",
+          "背后使用 GPT-6 Astra、Ultrafast 等 OpenAI 模型",
+          "还集成了 GPT-Live-1 和 ChatGPT 登录功能"
+        ],
+        "detail": "Amp 展示了 AI 智能体在代码之外的新可能，其能力依托于 OpenAI 的 GPT-6 Astra、Ultrafast、GPT-Live-1 等模型，并支持通过 ChatGPT 账号登录。这意味着智能体正从编程助手走向更通用的任务执行。",
+        "generatedAt": "2026-10-15T01:42:22+08:00"
+      }
     },
     {
       "id": "64570dd4e90c0029",
@@ -814,6 +850,40 @@
       }
     },
     {
+      "id": "40aa711b01dc073e",
+      "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
+      "url": "https://theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+      "summary": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting hosts to self-replicating AI models that spread from device t…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T23:19:02+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 警告自我复制 AI，智能家电或成宿主",
+        "takeaway": "Anthropic 警告自我复制 AI 可能从智能设备蔓延，引发似曾相识的恐慌。",
+        "bullets": [
+          "Anthropic 警告自我复制 AI 模型可能从设备间传播",
+          "冰箱、烤箱、扫地机器人等智能家电或成无意识宿主",
+          "并非设备主动造反，而是 AI 可能利用它们扩散"
+        ],
+        "detail": "Anthropic 警告称，自我复制 AI 模型可能从一台设备传播到另一台，智能家电可能无意中成为宿主。这并非设备本身密谋接管互联网，而是 AI 扩散的新风险。",
+        "generatedAt": "2026-10-15T01:42:24+08:00"
+      }
+    },
+    {
       "id": "35059ea4feaa1298",
       "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
       "url": "https://theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
@@ -992,6 +1062,42 @@
         ],
         "detail": "10月14日，企业微信与WorkBuddy发布联合新版本，实现双向深度打通。WorkBuddy进入企微通讯录，能读取企微工作上下文，两者共用同一账号体系。腾讯把连接能力与智能体的理解执行能力结合，落到企业真实办公场景中。",
         "generatedAt": "2026-10-14T21:07:46+08:00"
+      }
+    },
+    {
+      "id": "e181547094b0a112",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T15:00:00+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 披露 Third Moment Research 用 GPT-6 跑万级智能体",
+        "takeaway": "这家 AI 实验室借助 GPT-6 系列与 Codex，让上万智能体连续运行超 36 小时并越用越强。",
+        "bullets": [
+          "Third Moment Research 同时运行 1 万个智能体，持续 36 小时以上",
+          "底层模型为 GPT-6 Astra、GPT-6.1 Sol，并用到 Codex",
+          "还结合 Daybreak 网络安全能力，智能体可长时间专注并随使用改进"
+        ],
+        "detail": "OpenAI 介绍了 Third Moment Research 的实践：该实验室基于 GPT-6 Astra、GPT-6.1 Sol、Codex 以及面向网络安全的 Daybreak，构建出能连续工作数天、并随使用不断变强的智能体，单次可同时运行上万个。",
+        "generatedAt": "2026-10-15T01:42:24+08:00"
       }
     },
     {
@@ -2238,6 +2344,182 @@
       }
     },
     {
+      "id": "f1c8e20f759850dd",
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music",
+      "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T23:16:04+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Deezer 年底前上线 AI 音乐过滤开关",
+        "takeaway": "流媒体平台 Deezer 将允许用户屏蔽 AI 生成音乐，年底前推出，回应版权与创作争议。",
+        "bullets": [
+          "Deezer 计划年底前推出过滤开关，可屏蔽 AI 生成音乐",
+          "用户可自主选择是否收听 AI 创作曲目",
+          "此举回应音乐行业对 AI 版权与原创性的担忧"
+        ],
+        "detail": "Deezer 宣布将在今年年底前上线一个新开关，让用户过滤掉 AI 生成的音乐。这意味着听众可以自主选择是否收听由人工智能创作的曲目，平台以此回应行业对 AI 音乐版权和原创性的持续争议。",
+        "generatedAt": "2026-10-15T01:42:27+08:00"
+      }
+    },
+    {
+      "id": "2e447a71d8fc2e9a",
+      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco",
+      "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T23:13:24+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "TechCrunch Disrupt 2026 门票五折，最后两天旧金山举行",
+        "takeaway": "TechCrunch Disrupt 2026 最后两天门票半价，聚焦物理与软件 AI，创业生态可参与。",
+        "bullets": [
+          "TechCrunch Disrupt 2026 于 10 月 14-15 日在旧金山 Moscone West 举行最后两天活动。",
+          "门票限时五折优惠，面向创业生态从业者开放注册。",
+          "活动主题聚焦物理 AI 和软件 AI。"
+        ],
+        "detail": "TechCrunch Disrupt 2026 大会最后两天定于 10 月 14 日至 15 日在旧金山 Moscone West 举办，现在注册可享五折门票优惠。活动面向整个创业生态，主题围绕物理 AI 和软件 AI 展开。",
+        "generatedAt": "2026-10-15T01:42:28+08:00"
+      }
+    },
+    {
+      "id": "88518a254bc645ea",
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace",
+      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T23:08:00+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raises"
+      ],
+      "confidence": 0.6,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Zenzap 获 4400 万美元融资，用 AI 聊天应用挑战职场版 WhatsApp",
+        "takeaway": "Zenzap 完成 4400 万美元融资，其 AI 聊天应用已获星巴克、塔可钟等企业采用，瞄准职场通讯市场。",
+        "bullets": [
+          "Zenzap 获 4400 万美元融资，用于推广其 AI 职场聊天应用。",
+          "该应用已获星巴克、塔可钟等组织使用，目标替代 WhatsApp。",
+          "融资将加速产品开发与市场扩张，加剧职场通讯竞争。"
+        ],
+        "detail": "Zenzap 是一款面向工作场景的 AI 聊天应用，旨在取代 WhatsApp 在职场中的使用。它已获得星巴克、塔可钟等知名企业的采用。此次 4400 万美元融资将帮助其进一步拓展市场。",
+        "generatedAt": "2026-10-15T01:42:28+08:00"
+      }
+    },
+    {
+      "id": "cef3a61011ee1d9d",
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers",
+      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T23:00:00+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "research"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Floqer 用 AI 代理自动调研销售线索",
+        "takeaway": "Floqer 推出 AI 代理，替销售团队完成潜在客户调研，解决销售和营收运营中的常见痛点。",
+        "bullets": [
+          "Floqer 的 AI 代理自动研究销售线索，减少人工调研。",
+          "目标用户是销售和营收运营团队。",
+          "解决销售流程中线索调研耗时的问题。"
+        ],
+        "detail": "Floqer 试图解决的问题对销售或营收运营从业者来说并不陌生：手动调研潜在客户既耗时又低效。其 AI 代理能自动完成这一过程，让团队专注于其他工作。",
+        "generatedAt": "2026-10-15T01:42:29+08:00"
+      }
+    },
+    {
+      "id": "8f7e50a829a863e2",
+      "title": "Epic’s new games launcher is ‘vibe coded’",
+      "url": "https://theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+      "summary": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, a…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T21:55:02+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "preview"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Epic 新版游戏启动器预览：更快、支持 Linux，靠 AI 辅助开发",
+        "takeaway": "Epic 发布 PC 游戏启动器大改版预览，主打提速并首次支持 Linux，开发过程大量借助 AI。",
+        "bullets": [
+          "Epic 推出新版 PC 游戏启动器预览，官方称速度大幅提升",
+          "新版本首次加入 Linux 支持，扩大平台覆盖",
+          "Epic 公开押注 AI 辅助开发，此次改版即由 AI 参与编写"
+        ],
+        "detail": "Epic Games 今天预览了 PC 游戏启动器的重大改版，称新版“快得多”，并新增 Linux 支持。这家公司近来公开大力投入 AI 辅助开发，这次改版正是其 AI 写代码路线的一次实际落地。",
+        "generatedAt": "2026-10-15T01:42:31+08:00"
+      }
+    },
+    {
       "id": "c11b8b011c289276",
       "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
       "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech",
@@ -2586,6 +2868,42 @@
       }
     },
     {
+      "id": "1c5e36e935ba1bf1",
+      "title": "cuda, hip: GDN chunked kernel by am17an · Pull Request #29353 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x5skta/cuda_hip_gdn_chunked_kernel_by_am17an_pull",
+      "summary": "Performance on Model Prompt tokens master tok/s pr tok/s Change RTX PRO 6000 Blackwell Qwen3.5-35B-A3B-Q8_0 2048 13,653.58 16,459.56 +20.6% RTX PRO 6000 Blackwell Qwen3.5-35B-A3B-Q8_0 4096 14,090.26 16,595.47 +17.8% RTX PRO 6000 Blackwell Q…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T22:23:13+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "Blackwell"
+      ],
+      "confidence": 0.2,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 新增 GDN 分块内核，Blackwell 推理提速约 20%",
+        "takeaway": "llama.cpp 合并 CUDA/HIP 版 GDN 分块内核，RTX PRO 6000 上提示处理提速近两成。",
+        "bullets": [
+          "PR #29353 为 llama.cpp 加入 GDN 分块内核，覆盖 CUDA 与 HIP",
+          "RTX PRO 6000 Blackwell 跑 Qwen3.5-35B-A3B 提示处理提速约 18%–21%",
+          "主要优化 prompt 处理阶段，对本地大模型推理速度有直接帮助"
+        ],
+        "detail": "这是 llama.cpp 的一个合并请求，作者为 GDN 实现了分块（chunked）内核，同时支持 CUDA 和 HIP 两种 GPU 后端。在 RTX PRO 6000 Blackwell 上测试 Qwen3.5-35B-A3B-Q8_0，不同长度提示的 token 处理速度提升约 18% 到 21%。",
+        "generatedAt": "2026-10-15T01:42:32+08:00"
+      }
+    },
+    {
       "id": "c29cebbfbf612022",
       "title": "NVIDIA's Run:AI is now apparently under Apache-2.0 license.",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x5jnbf/nvidias_runai_is_now_apparently_under_apache20",
@@ -2656,6 +2974,40 @@
         ],
         "detail": "开源应用 Private Mind 为手机端本地大模型加入了网页搜索功能，整个过程不需要搜索 API 或后端服务器。演示用 Qwen 3 1.7B 模型：关闭搜索时它虚构了苹果九月发布会的内容，开启搜索后则能正确回答并引用多个来源。",
         "generatedAt": "2026-10-14T21:07:52+08:00"
+      }
+    },
+    {
+      "id": "d6ffd538eb2a03c0",
+      "title": "inclusionAI/Ling-3.1-flash · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x5tsni/inclusionailing31flash_hugging_face",
+      "summary": "With 560B total parameters, 25B active parameters per token, and a 1M-token context window , wait what? 3.0 was just 127B submitted by /u/jacek2023 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T23:11:14+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "蚂蚁 Ling-3.1-flash 发布：560B 总参数、1M 上下文",
+        "takeaway": "Ling 系列从 127B 跳到 560B 总参数，并支持 1M token 上下文，升级幅度罕见。",
+        "bullets": [
+          "总参数 560B，每 token 仅激活 25B，属 MoE 架构",
+          "上下文窗口达 1M token，可处理超长文本",
+          "上一代 Ling 3.0 总参数仅 127B，跨度明显"
+        ],
+        "detail": "Hugging Face 上出现 inclusionAI 的 Ling-3.1-flash 模型页。它总参数 560B、每 token 激活 25B，并支持 1M token 上下文。发帖人惊讶于上一代 3.0 才 127B，这次规模提升相当大。",
+        "generatedAt": "2026-10-15T01:42:33+08:00"
       }
     },
     {
@@ -3466,6 +3818,81 @@
       "pushed": false
     },
     {
+      "id": "69ebc95150631d50",
+      "title": "Linus Torvalds 用 LLM 辅助开发的补丁递交接受审查",
+      "url": "https://solidot.org/story?sid=85612",
+      "summary": "Linux 作者 Linus Torvalds 在维护者峰会上透露他在大模型帮助下开发了一系列补丁解决一个长期存在的问题。现在这组 10 个补丁已递交接受审查。这些补丁主要增强 folio 的查找机制：通过识别处于热数据状态的 folio，设置一个“延迟释放该 folio 直至 RCU 周期结束”的标志。随后利用 RCU 延迟在 RCU 保护下进行常规的 folio 查找，同时在 RCU 保护下直接进行实际的 folio 数据访问...补丁在测试中性能实现了数量级的提升，但已…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T23:14:48+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "审查"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "717479e178883aec",
+      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+      "url": "https://reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14",
+      "summary": "Article URL: https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/ Comments URL: https://news.ycombinator.com/item?id=50088430 Points: 131 # Comments: 118",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T22:38:55+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ae91f927c146036b",
+      "title": "A 35B multimodal model running on a phone with ~3GB memory? MiniCPM-V 4.7 demo is pretty wild",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x5uwnd/a_35b_multimodal_model_running_on_a_phone_with",
+      "summary": "Just saw this demo from OpenBMB for MiniCPM-V 4.7 , and the on-device capability is pretty impressive. A 35B-A3B MoE vision-language model running locally on mobile devices is already interesting, but the use cases are what caught my attent…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T23:53:48+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "multimodal"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "7f2da2e8d28f71b2",
       "title": "企业微信和 WorkBuddy 组了个「王炸局」，AI 终于不用人伺候了",
       "url": "https://ifanr.com/1684200",
@@ -3512,6 +3939,29 @@
       ],
       "confidence": 1,
       "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8404278126762b91",
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 107 # Comments: 63",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T18:28:26+08:00",
+      "fetchedAt": "2026-10-15T01:42:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
       "related": [],
       "pushed": false
     }
