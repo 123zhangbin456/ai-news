@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updatedAt": "2026-10-14T09:18:51+08:00",
+  "updatedAt": "2026-10-14T09:36:26+08:00",
   "items": [
     {
       "id": "3de4eca6731ce8a8",
@@ -336,6 +336,43 @@
         ],
         "detail": "Google DeepMind 公布了下一代模型 Gemini 4 Argon 的开发动向，标题突出“负责任且安全”。目前没有摘要或更多细节，说明官方可能只是释放信号，具体能力、上线时间和开放范围都还没定。",
         "generatedAt": "2026-10-14T08:02:54+08:00"
+      }
+    },
+    {
+      "id": "89a4fac1e51f36e8",
+      "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
+      "url": "https://qbitai.com/2026/10/503109.html",
+      "summary": "面壁开源MiniCPM-V 4.7",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T04:55:15+08:00",
+      "fetchedAt": "2026-10-14T09:36:20+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "新模型",
+        "多模态"
+      ],
+      "confidence": 0.17,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "面壁开源 MiniCPM-V 4.7：iPhone 断网跑 35B 多模态，仅占 3G 内存",
+        "takeaway": "国产开源多模态模型实现端侧离线运行，手机也能跑 35B 大模型，内存占用仅 3G。",
+        "bullets": [
+          "面壁智能开源 MiniCPM-V 4.7 多模态模型",
+          "可在 iPhone 断网状态下本地运行",
+          "模型规模 35B，内存占用仅 3G"
+        ],
+        "detail": "面壁智能发布并开源了 MiniCPM-V 4.7，这是一款多模态模型。它能在 iPhone 上断网离线运行，虽然参数量达到 35B，但内存占用只有 3G，意味着手机端侧也能跑大模型。",
+        "generatedAt": "2026-10-14T09:36:26+08:00"
       }
     },
     {
@@ -1528,6 +1565,42 @@
       "score": 35,
       "related": [],
       "pushed": false
+    },
+    {
+      "id": "a23e33fe3a22e296",
+      "title": "Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产",
+      "url": "https://infoq.cn/article/Jf88XAvrK0zmBj2Ud2OD",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T17:21:00+08:00",
+      "fetchedAt": "2026-10-14T09:36:20+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cloudflare 推出 Worker Previews，预览环境仍连生产",
+        "takeaway": "Cloudflare 新预览功能看似隔离，实际仍会连接生产环境，开发者需留意风险。",
+        "bullets": [
+          "Cloudflare 发布 Worker Previews 预览功能",
+          "官方称预览环境看似隔离，实则连接生产",
+          "开发者需注意预览操作可能影响线上数据"
+        ],
+        "detail": "Cloudflare 推出 Worker Previews，让开发者在部署前预览 Worker 效果。但该功能并非完全隔离，预览时仍会连接生产环境，可能对线上资源产生影响，使用时需谨慎。",
+        "generatedAt": "2026-10-14T09:36:26+08:00"
+      }
     },
     {
       "id": "a250916e886efa55",
