@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updatedAt": "2026-10-14T09:36:26+08:00",
+  "updatedAt": "2026-10-14T10:14:44+08:00",
   "items": [
     {
       "id": "3de4eca6731ce8a8",
@@ -117,6 +117,43 @@
         "generatedAt": "2026-10-14T08:43:02+08:00"
       },
       "pushedAt": "2026-10-14T08:43:04+08:00"
+    },
+    {
+      "id": "5cb1618c1db568b5",
+      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "source": {
+        "id": "deepmind",
+        "name": "Google DeepMind",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T10:00:14+08:00",
+      "fetchedAt": "2026-10-14T10:14:36+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "announce"
+      ],
+      "confidence": 0,
+      "score": 59,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Google DeepMind 与新加坡政府推出端侧 AI 反诈骗工具",
+        "takeaway": "用轻量 Gemma 模型在手机本地拦截聊天诈骗，数据不出设备，隐私与防护兼得。",
+        "bullets": [
+          "Google DeepMind 与新加坡 GovTech 联合发布反诈骗 AI 工具",
+          "基于轻量级 Gemma 模型，在设备端运行",
+          "可拦截私聊中的对话式诈骗，数据零上云",
+          "兼顾隐私保护与实时防骗"
+        ],
+        "detail": "Google DeepMind 和新加坡政府科技局合作，利用轻量级 Gemma 模型在手机本地运行，实时识别并拦截私聊中的诈骗对话。所有数据都在设备上处理，不会上传云端，既保护隐私又能防骗。",
+        "generatedAt": "2026-10-14T10:14:44+08:00"
+      }
     },
     {
       "id": "cf12248af09e37cf",
@@ -1603,6 +1640,42 @@
       }
     },
     {
+      "id": "a44246ea799e3be7",
+      "title": "无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践",
+      "url": "https://infoq.cn/article/EVQ0s2JRvxZyo9f9gSg6",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T18:00:00+08:00",
+      "fetchedAt": "2026-10-14T10:14:36+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "创始人"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "无问芯穹戴国浩将登QCon上海，讲Agentic Infra实践",
+        "takeaway": "无问芯穹联合创始人戴国浩确认出席QCon上海，分享智能体基础设施的技术探索。",
+        "bullets": [
+          "戴国浩是无问芯穹联合创始人，将出席QCon上海",
+          "演讲主题为Agentic Infra技术探索与实践",
+          "面向开发者分享智能体基础设施落地经验"
+        ],
+        "detail": "InfoQ中国消息，无问芯穹联合创始人戴国浩博士已确认参加QCon上海，并带来题为Agentic Infra技术探索与实践的分享。该议题聚焦智能体时代的基础设施建设，具体内容尚未披露。",
+        "generatedAt": "2026-10-14T10:14:44+08:00"
+      }
+    },
+    {
       "id": "a250916e886efa55",
       "title": "LiquidAI/LFM2.5-24B-A2B",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x52kco/liquidailfm2524ba2b",
@@ -1717,6 +1790,31 @@
       "category": "产品应用",
       "keywords": [
         "app"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7f9700f6e0c0ac97",
+      "title": "当二十年老牌行情软件遇上 AI：大智慧的智能化跃迁之路",
+      "url": "https://tmtpost.com/8166729.html",
+      "summary": "对大智慧而言，这场改造的意义不只是在产品里加了一个 AI 对话框，而是重新定义了金融软件与用户的关系。从提供数据的工具变为理解需求的伙伴。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T09:47:24+08:00",
+      "fetchedAt": "2026-10-14T10:14:36+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "产品"
       ],
       "confidence": 1,
       "score": 30,
