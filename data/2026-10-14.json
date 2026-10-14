@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updatedAt": "2026-10-15T01:42:33+08:00",
+  "updatedAt": "2026-10-15T05:59:43+08:00",
   "items": [
     {
       "id": "3de4eca6731ce8a8",
@@ -41,6 +41,46 @@
         "generatedAt": "2026-10-14T08:02:54+08:00"
       },
       "pushedAt": "2026-10-14T08:03:13+08:00"
+    },
+    {
+      "id": "c63c766bf807989b",
+      "title": "茶百道涉IPO欺诈，被暂停交易；字节Seed单独设立大模型安全与对齐部门；华为披露下一代麒麟芯片进展，已进入测试阶段丨雷峰早报",
+      "url": "https://leiphone.com/category/zaobao/CKsYHgrcdIkO3hvO.html",
+      "summary": "要闻提示 1.茶百道涉IPO欺诈，被暂停交易 2.字节跳动Seed单独设立大模型安全与对齐部门 3.华为披露下一代麒麟芯片进展，已进入测试阶段 4.中国刻蚀机之父尹志尧：AI可能会出现泡沫，国内半导体设备商500家得倒闭90% 5.DeepSeek融资翻倍至1000亿，新一轮投资方基本确定 6.传华人AI科学家姚顺宇开启RSI创业，估值高达20亿美金 7.阿里千问办公电商版曝光：近百人团队开发中，预计双十一预售前夕发布 8.马斯克谈中国制造：一旦掌握，扩产能力往往能超越全球总…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T23:48:00+08:00",
+      "fetchedAt": "2026-10-15T05:59:29+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "估值",
+        "投资",
+        "IPO"
+      ],
+      "confidence": 0.75,
+      "score": 65,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "茶百道涉IPO欺诈停牌，字节设大模型安全部门",
+        "takeaway": "茶百道因IPO欺诈被暂停交易；字节跳动Seed单独设立大模型安全与对齐部门，AI治理受关注。",
+        "bullets": [
+          "茶百道涉IPO欺诈，被暂停交易",
+          "字节Seed单独设立大模型安全与对齐部门",
+          "华为下一代麒麟芯片已进入测试阶段",
+          "DeepSeek融资翻倍至1000亿，投资方基本确定"
+        ],
+        "detail": "茶百道因涉嫌IPO欺诈被暂停交易。字节跳动Seed部门单独设立大模型安全与对齐团队，加强AI风险管控。华为披露下一代麒麟芯片进展，已进入测试阶段。",
+        "generatedAt": "2026-10-15T05:59:35+08:00"
+      }
     },
     {
       "id": "faf0794818f1fa0f",
@@ -990,6 +1030,42 @@
         ],
         "detail": "InfoQ 中国报道指出，开源项目中修复漏洞的 PR 刚提交，攻击者就在几分钟后发起利用。AI 让攻击者能快速分析公开的修复代码并反向构造攻击，原本留给维护者和用户的缓冲时间被大幅压缩，开源安全流程面临新挑战。",
         "generatedAt": "2026-10-13T19:27:18+08:00"
+      }
+    },
+    {
+      "id": "24cc989c02dbc2a2",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T20:00:00+08:00",
+      "fetchedAt": "2026-10-15T05:59:29+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "analysis"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "SentinelOne 借助 OpenAI 将恶意软件分析从数周缩至数小时",
+        "takeaway": "SentinelOne 用 OpenAI Daybreak 大幅提速恶意软件分析，释放人力以调查更多威胁。",
+        "bullets": [
+          "SentinelOne 采用 OpenAI Daybreak 工具",
+          "恶意软件分析从数周缩短到数小时",
+          "释放团队产能，可调查更多威胁"
+        ],
+        "detail": "SentinelOne 利用 OpenAI 的 Daybreak 能力，把原本需要数周的恶意软件分析压缩到几小时。效率提升后，团队能腾出精力去调查更多安全威胁。",
+        "generatedAt": "2026-10-15T05:59:37+08:00"
       }
     },
     {
