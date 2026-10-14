@@ -1,7 +1,47 @@
 {
   "date": "2026-10-14",
-  "updatedAt": "2026-10-14T03:41:18+08:00",
+  "updatedAt": "2026-10-14T08:03:13+08:00",
   "items": [
+    {
+      "id": "3de4eca6731ce8a8",
+      "title": "【钛晨报】“求索”4.0上线！国内首个人工智能全产业链评测基准发布；重庆市委原副书记、市政府原市长黄奇帆被查；DeepSeek据称将完成1000亿元融资",
+      "url": "https://tmtpost.com/8167674.html",
+      "summary": "字节跳动Seed单设安全与对齐部门，严林负责向吴永辉汇报；尊界V800公布制动踏板第三方检测结果；智元启动新融资，估值500亿元，IPO暂缓；马斯克披露Terafab芯片工厂规划：每年制造和测试10款芯片；苹果推出智能家居中枢HomeView，售价299美元；中证协明确券商跨境风险数据管理要求，个人信息出境须评估影响；外资持续撤出韩股，分析师警告：这比半导体基本面更令人担忧",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T07:20:00+08:00",
+      "fetchedAt": "2026-10-14T08:02:46+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "估值",
+        "IPO",
+        "亿元"
+      ],
+      "confidence": 0.43,
+      "score": 72,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "DeepSeek 据称将完成 1000 亿元融资",
+        "takeaway": "AI 大模型公司 DeepSeek 被曝接近完成千亿元级融资，规模罕见，值得关注。",
+        "bullets": [
+          "钛媒体晨报称 DeepSeek 据传将完成 1000 亿元融资",
+          "同期智元启动新融资，估值 500 亿元，IPO 暂缓",
+          "字节跳动 Seed 单设安全与对齐部门，严林向吴永辉汇报"
+        ],
+        "detail": "据钛媒体晨报消息，DeepSeek 据称将完成 1000 亿元融资，若属实将是 AI 领域罕见的大额交易。同一批资讯还提到智元启动新融资、估值 500 亿元且 IPO 暂缓，以及字节跳动 Seed 单独设立安全与对齐部门。",
+        "generatedAt": "2026-10-14T08:02:54+08:00"
+      },
+      "pushedAt": "2026-10-14T08:03:13+08:00"
+    },
     {
       "id": "faf0794818f1fa0f",
       "title": "刚亮相就传被英伟达收购：Gemini老兵团队凭什么还敢押注Coding Agent？",
@@ -25,7 +65,7 @@
       "confidence": 0.2,
       "score": 64,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Gemini老兵团队刚亮相就传被英伟达收购，仍押注Coding Agent",
         "takeaway": "一支Gemini背景的创业团队刚公开就传出被英伟达收购，却仍选择做编程智能体。",
@@ -36,7 +76,8 @@
         ],
         "detail": "这支由Gemini项目老兵组成的团队刚对外亮相，就传出被英伟达收购的消息。即便如此，他们依然选择押注Coding Agent（编程智能体）方向，说明该赛道被持续看好。",
         "generatedAt": "2026-10-13T19:27:16+08:00"
-      }
+      },
+      "pushedAt": "2026-10-14T08:03:13+08:00"
     },
     {
       "id": "cf12248af09e37cf",
@@ -187,6 +228,149 @@
       }
     },
     {
+      "id": "70093601d1461d3d",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case",
+      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T04:36:44+08:00",
+      "fetchedAt": "2026-10-14T08:02:46+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "interview"
+      ],
+      "confidence": 1,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "苹果诉OpenAI窃密案：法官令OpenAI交出招聘记录",
+        "takeaway": "联邦法官裁定苹果可调取OpenAI涉及前苹果员工的面试材料及关键人物私信与证词。",
+        "bullets": [
+          "法官要求OpenAI交出涉及前苹果员工的面试材料",
+          "苹果还可获取案件关键人物的私人信息和证词",
+          "此案涉及苹果指控OpenAI窃取商业机密"
+        ],
+        "detail": "一名联邦法官裁定，苹果公司可以在针对OpenAI的商业秘密诉讼中，获取OpenAI涉及前苹果员工的面试材料，以及案件关键人物的私人信息和证词。此举意味着苹果对OpenAI窃取商业机密的指控进入证据开示阶段。",
+        "generatedAt": "2026-10-14T08:02:54+08:00"
+      }
+    },
+    {
+      "id": "25432b6b093a311b",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+      "summary": "",
+      "source": {
+        "id": "deepmind",
+        "name": "Google DeepMind",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T03:43:07+08:00",
+      "fetchedAt": "2026-10-14T08:02:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Google DeepMind 预告 Gemini 4 Argon，强调负责任与安全开发",
+        "takeaway": "谷歌下一代大模型 Gemini 4 Argon 进入公众视野，官方称正以负责任、安全的方式推进研发。",
+        "bullets": [
+          "Google DeepMind 发布 Gemini 4 Argon 相关进展",
+          "官方强调负责任与安全是开发重点",
+          "具体能力、发布时间等细节尚未公布"
+        ],
+        "detail": "Google DeepMind 公布了下一代模型 Gemini 4 Argon 的开发动向，标题突出“负责任且安全”。目前没有摘要或更多细节，说明官方可能只是释放信号，具体能力、上线时间和开放范围都还没定。",
+        "generatedAt": "2026-10-14T08:02:54+08:00"
+      }
+    },
+    {
+      "id": "4a863ac766466900",
+      "title": "llm-gemini 0.35",
+      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini",
+      "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expect…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T06:28:54+08:00",
+      "fetchedAt": "2026-10-14T08:02:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Gemini"
+      ],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llm-gemini 0.35 发布，新增 Gemini 4 Argon 模型支持",
+        "takeaway": "Simon Willison 的 llm-gemini 插件更新，接入当天发布的 Gemini 4 Argon 模型。",
+        "bullets": [
+          "llm-gemini 0.35 新增对 Gemini 4 Argon 的支持",
+          "该模型当天通过 Gemini API 上线",
+          "同时面向每月 100 美元订阅用户开放"
+        ],
+        "detail": "Simon Willison 发布了 llm-gemini 0.35，为这个 LLM 命令行插件加入了对 Gemini 4 Argon 模型的支持。该模型今天通过 Gemini API 上线，同时也向每月 100 美元订阅计划的用户开放。",
+        "generatedAt": "2026-10-14T08:02:56+08:00"
+      }
+    },
+    {
+      "id": "ba0f4e6f020ffaa2",
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "url": "https://theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T04:45:25+08:00",
+      "fetchedAt": "2026-10-14T08:02:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 一名工程师涉嫌在会议室安装窃听设备被捕",
+        "takeaway": "OpenAI 称在办公室发现精密录音装置，一名 35 岁沙特籍工程师被控，事件涉及公司内部安全。",
+        "bullets": [
+          "OpenAI 在办公室发现隐藏的精密录音设备",
+          "涉案员工为 35 岁沙特籍工程师 Abdulrahman Alfozan",
+          "该员工已被逮捕并面临相关指控"
+        ],
+        "detail": "OpenAI 表示在其办公场所内发现了一个隐藏的“精密录音装置”，随后一名员工被逮捕。该员工被确认为 35 岁的沙特国民 Abdulrahman Alfozan，目前面临指控。事件引发对科技公司内部信息安全的关注。",
+        "generatedAt": "2026-10-14T08:02:57+08:00"
+      }
+    },
+    {
       "id": "35059ea4feaa1298",
       "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
       "url": "https://theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
@@ -220,6 +404,42 @@
         ],
         "detail": "作者在跑步、点单、公园阅读等日常活动中使用这款无摄像头眼镜，发现音频功能已足够，并未因缺少相机而感到不便。这或许说明，对部分用户而言，智能眼镜的拍照并非刚需。",
         "generatedAt": "2026-10-14T02:24:39+08:00"
+      }
+    },
+    {
+      "id": "2ce212c19db2f99b",
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T07:13:31+08:00",
+      "fetchedAt": "2026-10-14T08:02:46+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip"
+      ],
+      "confidence": 0.75,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Science Corporation 为首例 Stargardt 病患者植入视力恢复芯片",
+        "takeaway": "Neuralink 前总裁 Max Hodak 的公司完成首例 Stargardt 病芯片植入，向脑机接口目标迈进。",
+        "bullets": [
+          "Science Corporation 完成首例 Stargardt 病患者芯片植入",
+          "公司由 Neuralink 前总裁 Max Hodak 创立",
+          "该芯片是通往新型脑机接口的一步"
+        ],
+        "detail": "在 TechCrunch Disrupt 大会上，Neuralink 前总裁兼联合创始人 Max Hodak 介绍了其公司 Science Corporation 的 PRIMA 项目。该公司已为一名 Stargardt 病患者植入视力恢复芯片，这是其研发新型脑机接口道路上的重要进展。",
+        "generatedAt": "2026-10-14T08:02:56+08:00"
       }
     },
     {
@@ -438,6 +658,77 @@
       }
     },
     {
+      "id": "e540598aacd912ec",
+      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+      "url": "https://wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office",
+      "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T07:17:59+08:00",
+      "fetchedAt": "2026-10-14T08:02:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 员工被指用聊天机器人协助在办公室安装录音设备",
+        "takeaway": "一名 OpenAI 工程师涉嫌用聊天机器人策划在办公室安装窃听装置，引发内部安全担忧。",
+        "bullets": [
+          "涉事员工被指用聊天机器人获取安装隐蔽录音设备的指导",
+          "设备在高层管理人员使用的会议室被发现，时间仅隔数日",
+          "聊天记录成为调查该工程师涉嫌行为的关键证据"
+        ],
+        "detail": "据 Wired AI 报道，一名 OpenAI 工程师涉嫌借助聊天机器人策划在办公室安装隐蔽录音设备。相关聊天提示词显示，该工程师在设备被发现的数天前，曾试图在高层管理人员使用的会议室里设置窃听装置。",
+        "generatedAt": "2026-10-14T08:02:59+08:00"
+      }
+    },
+    {
+      "id": "cd11e5f3e071ca8e",
+      "title": "Claude CoWork for Local LLMs that runs on your Phone",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x5bawd/claude_cowork_for_local_llms_that_runs_on_your",
+      "summary": "Hi Friends, I am a solo developer. Ever since I had Qwen 3.8 running on my RTX4090, I had an itch to use it on my phone for everything. That gave me the idea to build SteerClaw Mobile - a complete agentic experience on the Phone where the e…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T06:54:38+08:00",
+      "fetchedAt": "2026-10-14T08:02:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开发者打造手机端本地大模型智能体 SteerClaw Mobile",
+        "takeaway": "独立开发者把本地 LLM 智能体体验搬上手机，让手机也能跑起类似 Claude CoWork 的自动化任务。",
+        "bullets": [
+          "开发者受 Qwen 在 RTX4090 上运行启发，想做手机版",
+          "项目名为 SteerClaw Mobile，主打手机端完整智能体体验",
+          "目前由单人开发，细节尚未完全公开"
+        ],
+        "detail": "一位独立开发者表示，自从在 RTX4090 上跑起 Qwen 后，就想把这种能力搬到手机上随时使用。于是他做了 SteerClaw Mobile，目标是在手机上提供完整的智能体式体验，类似 Claude CoWork 但面向本地大模型。",
+        "generatedAt": "2026-10-14T08:02:59+08:00"
+      }
+    },
+    {
       "id": "c06a934276cf5bae",
       "title": "Facebook is giving users more control over their algorithm",
       "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm",
@@ -543,6 +834,44 @@
         ],
         "detail": "复古游戏圈正因反编译和重编译技术而热闹非凡，玩家能把经典游戏移植到新设备，甚至将两款不同游戏的代码合并成全新体验。微软对此表示正式接纳这种 AI 驱动的游戏移植乱象。",
         "generatedAt": "2026-10-14T03:41:17+08:00"
+      }
+    },
+    {
+      "id": "c389ec381b1e284d",
+      "title": "Thank-you post for DeepSeek-V4-Flash-0731 with DSpark",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x592dl/thankyou_post_for_deepseekv4flash0731_with_dspark",
+      "summary": "DeepSeek guys, thank you so much! Don't give this up. mac setup [pi.dev] -> [ds 4 flash 0731 - brain] -> [qwen 3.6 35b a3b - body] - works perfect submitted by /u/AleksandrNikitin [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T05:18:18+08:00",
+      "fetchedAt": "2026-10-14T08:02:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户致谢 DeepSeek-V4-Flash-0731：Mac 本地跑通双模型组合",
+        "takeaway": "Reddit 用户用 Mac 搭配 DeepSeek-V4-Flash 与 Qwen 模型，本地推理组合运行顺畅，公开致谢。",
+        "bullets": [
+          "用户感谢 DeepSeek 发布 V4-Flash-0731 版本",
+          "在 Mac 上以 pi.dev 为入口搭建本地推理流程",
+          "DeepSeek 模型负责思考，Qwen 3.6 35B 负责执行",
+          "该组合运行效果被评价为完美"
+        ],
+        "detail": "一位 Reddit 用户在 LocalLLaMA 发帖，感谢 DeepSeek 团队并呼吁不要放弃该项目。他在 Mac 上搭建了一套本地流程：以 pi.dev 为入口，用 DeepSeek-V4-Flash-0731 充当“大脑”负责推理，用 Qwen 3.6 35B A3B 充当“身体”负责执行，整体运行非常顺畅。",
+        "generatedAt": "2026-10-14T08:03:02+08:00"
       }
     },
     {
@@ -793,6 +1122,148 @@
       }
     },
     {
+      "id": "14cee17a15e60d9d",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T07:05:34+08:00",
+      "fetchedAt": "2026-10-14T08:02:46+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "predicts",
+        "CEO",
+        "says"
+      ],
+      "confidence": 0.64,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cerebras CEO 预测：人人家里都将有个人 AI 助手",
+        "takeaway": "Cerebras CEO 认为个人 AI 助手将像家电一样普及，本地与云端混合运行。",
+        "bullets": [
+          "Cerebras CEO Andrew Feldman 预测个人 AI 助手将走进每个家庭",
+          "这类助手将像家电一样常见，成为日常生活的标配",
+          "运行方式为部分在本地设备、部分在云端协同完成"
+        ],
+        "detail": "Cerebras 首席执行官 Andrew Feldman 预测，未来个人 AI 助手会像家用电器一样普及。它们不会完全依赖云端，而是部分跑在本地设备上、部分放在云端，兼顾响应速度与算力。",
+        "generatedAt": "2026-10-14T08:03:02+08:00"
+      }
+    },
+    {
+      "id": "f267b0c17dba1c8c",
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks",
+      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T07:00:00+08:00",
+      "fetchedAt": "2026-10-14T08:02:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Industrial Next 让工厂机器人几分钟切换任务，而非数周",
+        "takeaway": "Industrial Next 推出新方案，使工厂机器人能快速切换任务，大幅缩短传统数周的调整时间。",
+        "bullets": [
+          "Industrial Next 致力于自动化复杂精细任务，这些任务以往依赖人工。",
+          "其技术可将机器人任务切换时间从数周压缩至几分钟。",
+          "该方案有望提升制造业灵活性和效率，减少对人工的依赖。"
+        ],
+        "detail": "Industrial Next 帮助制造商自动化那些传统上需要人工完成的复杂精细任务。其目标是让工厂机器人能在几分钟内切换任务，而不是像过去那样需要数周时间。",
+        "generatedAt": "2026-10-14T08:03:04+08:00"
+      }
+    },
+    {
+      "id": "f2fb2747c1a45191",
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
+      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T06:36:59+08:00",
+      "fetchedAt": "2026-10-14T08:02:46+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cerebras CEO 回击 AI 末日论：别光顾着吓人",
+        "takeaway": "Cerebras CEO 在 TechCrunch Disrupt 上批评 AI 领袖过度渲染风险，认为这掩盖了 AI 的潜在好处。",
+        "bullets": [
+          "Cerebras CEO 安德鲁·费尔德曼在 TechCrunch Disrupt 上发言",
+          "他喊话传播末日警告的 AI 领袖：也许该闭嘴了",
+          "他认为行业对 AI 风险的聚焦淹没了其潜在益处"
+        ],
+        "detail": "Cerebras 首席执行官安德鲁·费尔德曼在 TechCrunch Disrupt 活动上，对散布 AI 末日警告的行业领袖喊话：也许该停止谈论了。他认为，业界对 AI 风险的过度关注，正在淹没这项技术可能带来的好处。",
+        "generatedAt": "2026-10-14T08:03:04+08:00"
+      }
+    },
+    {
+      "id": "a8983c3740ba20e7",
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room",
+      "summary": "https://x.com/OpenAINewsroom/status/2110095403198849132 Comments URL: https://news.ycombinator.com/item?id=50078141 Points: 340 # Comments: 304",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T04:23:55+08:00",
+      "fetchedAt": "2026-10-14T08:02:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 工程师因在高管会议室装窃听设备被捕",
+        "takeaway": "OpenAI 一名工程师涉嫌在高管会议室安装窃听装置被逮捕，事件引发广泛关注。",
+        "bullets": [
+          "涉事者为 OpenAI 工程师，已被警方逮捕",
+          "事发地点为公司高管会议室，疑遭窃听",
+          "消息由 OpenAI 官方账号发布，Hacker News 热议"
+        ],
+        "detail": "OpenAI 官方在 X 上披露，一名公司工程师因在高管会议室安装窃听设备而被逮捕。该消息在 Hacker News 上迅速引发讨论，目前案件细节和动机尚不明确。",
+        "generatedAt": "2026-10-14T08:03:04+08:00"
+      }
+    },
+    {
       "id": "c11b8b011c289276",
       "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
       "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech",
@@ -816,6 +1287,40 @@
       "score": 39,
       "related": [],
       "pushed": false
+    },
+    {
+      "id": "a674b83b3ddb344d",
+      "title": "Shopify opens its catalog up to more AI agents",
+      "url": "https://theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products o…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T03:42:42+08:00",
+      "fetchedAt": "2026-10-14T08:02:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Shopify 向更多 AI 代理开放商品目录",
+        "takeaway": "Shopify 扩大代理式购物布局，让 AI 代理能浏览并代用户下单。",
+        "bullets": [
+          "Shopify 宣布向更多 AI 代理开放商品目录",
+          "用户可配置 AI 代理代为购买商品",
+          "这是其代理式商务野心的进一步扩张"
+        ],
+        "detail": "Shopify 周二宣布，将允许更多 AI 代理浏览其商品并完成购买，用户可自行配置代理代为下单。这标志着该公司在代理式商务方向上的野心进一步扩大。",
+        "generatedAt": "2026-10-14T08:03:07+08:00"
+      }
     },
     {
       "id": "b7f6f503206b41b5",
@@ -852,6 +1357,78 @@
         ],
         "detail": "Quartermaster 是一个本地推理管理器，用单个服务器在显存中切换 llama.cpp、图像、音频和视频模型。1.7 版本新增对决策模型的支持：把决策类 GGUF 文件放进去即可自动发现并托管，同时加入 playground 标签页方便试玩。",
         "generatedAt": "2026-10-14T03:41:18+08:00"
+      }
+    },
+    {
+      "id": "d0ff4b29b6ac65ca",
+      "title": "Someone is running Qwen 27B at ~20 tok/s on a jailbroken PS5's GPU",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x5ak2n/someone_is_running_qwen_27b_at_20_toks_on_a",
+      "summary": "submitted by /u/LatentSpacer [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T06:21:00+08:00",
+      "fetchedAt": "2026-10-14T08:02:46+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "有人在破解版 PS5 上跑 Qwen 27B，约 20 tok/s",
+        "takeaway": "玩家用破解 PS5 的 GPU 跑起 27B 大模型，速度约 20 token/秒，展示游戏主机当推理硬件的可能。",
+        "bullets": [
+          "Reddit 用户称在破解版 PS5 上运行 Qwen 27B",
+          "推理速度约 20 token/秒，达到可用水平",
+          "说明游戏主机 GPU 也能承担本地大模型推理"
+        ],
+        "detail": "Reddit 的 LocalLLaMA 版块有人发帖，称在破解后的 PS5 上跑 Qwen 27B 模型，生成速度约每秒 20 个 token。这属于个人实验，具体实现方式未在标题中说明，但显示游戏主机的 GPU 有被拿来跑本地大模型的潜力。",
+        "generatedAt": "2026-10-14T08:03:07+08:00"
+      }
+    },
+    {
+      "id": "3ea11eff781f840f",
+      "title": "Why AnythingLLM is moving from Ollama to Lemonade and llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x5720r/why_anythingllm_is_moving_from_ollama_to_lemonade",
+      "summary": "I'm excited to see our Lemonade embedded SDK getting used out there! submitted by /u/jfowers_amd [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T03:59:31+08:00",
+      "fetchedAt": "2026-10-14T08:02:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AnythingLLM 弃用 Ollama，转向 Lemonade 与 llama.cpp",
+        "takeaway": "AnythingLLM 将本地推理后端从 Ollama 换成 AMD 的 Lemonade 和 llama.cpp，本地部署格局生变。",
+        "bullets": [
+          "AnythingLLM 宣布从 Ollama 迁移到 Lemonade 和 llama.cpp",
+          "AMD 的 Lemonade 嵌入式 SDK 被采用，开发者表示兴奋",
+          "Ollama 在本地 LLM 工具链中的地位可能被削弱"
+        ],
+        "detail": "AnythingLLM 正在把本地模型运行后端从 Ollama 换成 AMD 的 Lemonade 和 llama.cpp。AMD 开发者 jfowers 在 Reddit 上确认 Lemonade 嵌入式 SDK 已被实际采用，并对此感到兴奋。",
+        "generatedAt": "2026-10-14T08:03:07+08:00"
       }
     },
     {
@@ -937,6 +1514,31 @@
       "pushed": false
     },
     {
+      "id": "94178e6833800768",
+      "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling",
+      "summary": "Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app : I need a Python 3.15 flame g…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-13T24:58:00+08:00",
+      "fetchedAt": "2026-10-14T08:02:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 0,
+      "score": 32,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "82bc781ec592467a",
       "title": "\"New AI fake text generator may be too dangerous to release, say creators\" (2019 Guardian headline)",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x52lsb/new_ai_fake_text_generator_may_be_too_dangerous",
@@ -957,6 +1559,29 @@
         "release"
       ],
       "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "50fa715419d75c59",
+      "title": "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x57zpx/characterai_files_for_bankruptcy_to_sell_some",
+      "summary": "Are we seeing early signs of the bubble popping? submitted by /u/jld1532 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T04:35:33+08:00",
+      "fetchedAt": "2026-10-14T08:02:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 30,
       "related": [],
       "pushed": false
