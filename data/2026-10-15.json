@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updatedAt": "2026-10-16T01:31:58+08:00",
+  "updatedAt": "2026-10-16T07:57:42+08:00",
   "items": [
     {
       "id": "85e37809c5c8dbe7",
@@ -105,7 +105,7 @@
       "confidence": 0,
       "score": 61,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "谷歌通用购物车工具在美国上线",
         "takeaway": "谷歌推出跨搜索与 Gemini 的通用购物车，购物入口进一步整合。",
@@ -116,7 +116,8 @@
         ],
         "detail": "谷歌的通用购物车工具 Universal Cart 已在美国推出，可在 Google 搜索和 Gemini 应用中使用。这意味着用户在这两个入口浏览商品时，能借助统一的购物车完成选购，谷歌正把购物体验与 AI 助手更紧密地结合。",
         "generatedAt": "2026-10-16T01:12:17+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "e422d5ed36814fbc",
@@ -141,7 +142,7 @@
       "confidence": 0.5,
       "score": 59,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "美国八州起诉 OpenAI，指 ChatGPT 对儿童不安全",
         "takeaway": "八州指控 OpenAI 危害儿童并误导用户，AI 未成年人保护监管压力升级。",
@@ -152,7 +153,8 @@
         ],
         "detail": "据路透社报道，美国八个州分别对 OpenAI 提起诉讼，指控其产品危害儿童，并在 ChatGPT 的安全性上误导消费者。这是 OpenAI 在未成年人保护问题上遭遇的又一轮法律挑战。",
         "generatedAt": "2026-10-15T08:10:56+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "b695a1d0cc5dfc2b",
@@ -179,7 +181,7 @@
       "confidence": 0.4,
       "score": 59,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "微信淘宝等151款APP拒绝豆包手机助手自动化操作",
         "takeaway": "豆包手机助手的GUI自动化代操作遭主流APP集体封禁，AI代理与平台生态冲突公开化。",
@@ -190,7 +192,8 @@
         ],
         "detail": "豆包手机助手试图用GUI自动化替用户操作其他APP，但微信、淘宝、美团等151款应用已明确拒绝。这相当于平台集体封堵了AI代操作入口，凸显AI代理与现有应用生态的规则冲突。",
         "generatedAt": "2026-10-16T01:12:17+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "cc07996f6bad6e0c",
@@ -215,7 +218,7 @@
       "confidence": 0.17,
       "score": 57,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "亚马逊旗下 Bee 推出两款个人 AI 设备，75 美元起",
         "takeaway": "Bee 被亚马逊收购后首发新品：一款升级版可穿戴设备，一款信用卡大小的手机录音器。",
@@ -227,7 +230,8 @@
         ],
         "detail": "亚马逊旗下的 Bee 推出了被收购以来的首批新 AI 设备，包括一款升级版可穿戴设备和一款信用卡大小、可吸附在手机上的录音器。这些设备可以总结对话内容、生成待办清单，并与其他应用联动。起售价为 75 美元。",
         "generatedAt": "2026-10-16T01:12:17+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "f7ba9bf385734ea9",
@@ -252,7 +256,20 @@
       "confidence": 0.1,
       "score": 56,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "昆仑万维发布全球首款消费级显卡视频大模型游戏并开源",
+        "takeaway": "AI 生成世界从「看视频」变成「亲手玩」，单张 RTX 5090 即可实时运行，且同步开源。",
+        "bullets": [
+          "Matrix-Game 4.0 可在单张消费级显卡上运行",
+          "480p、60 FPS 实时画面，按键到响应几乎无延迟",
+          "游戏引擎管状态与规则，视频模型负责实时渲染",
+          "发布同时开源，开发者可直接上手"
+        ],
+        "detail": "昆仑万维发布 Matrix-Game 4.0，号称全球首款跑在单张消费级显卡上的视频大模型游戏。它让游戏引擎维护世界状态和交互规则，由视频生成模型实时呈现画面，把 480p、60 FPS 的体验装进一张 RTX 5090，并同步开源。",
+        "generatedAt": "2026-10-16T07:57:40+08:00"
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "558d7c6880acff47",
@@ -314,7 +331,7 @@
       "confidence": 0,
       "score": 55,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "本地跑 Qwen-Image 2.1：12GB 显存即可零配置修图",
         "takeaway": "开源桌面应用 Kokon 让普通显卡用户免配置运行 Qwen-Image 2.1 图像编辑，降低本地部署门槛。",
@@ -325,7 +342,8 @@
         ],
         "detail": "此前在本地跑 Qwen-Image 2.1 需要搭 Python 环境、连节点图，还要花一晚上调量化、显存卸载和分辨率。Kokon 把这些步骤自动化，做成开箱即用的桌面应用，12GB 以上显存的显卡就能体验类似 GPT-Image 的图片编辑。",
         "generatedAt": "2026-10-15T05:59:35+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "c3631614eabaa192",
@@ -350,7 +368,7 @@
       "confidence": 0.33,
       "score": 55,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "谷歌推出通用购物车，抢滩假日购物季",
         "takeaway": "谷歌上线AI通用购物车，赶在黑色星期五前落地美国，意在抢占节日消费入口。",
@@ -362,7 +380,8 @@
         ],
         "detail": "谷歌在5月I/O大会上预告的通用购物车工具，如今正式在美国上线。它主打AI智能购物，赶在黑色星期五和年末假日购物季前推出，意在吸引用户通过谷歌完成消费。",
         "generatedAt": "2026-10-16T01:12:19+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "12f70f9144a8a1f1",
@@ -385,7 +404,7 @@
       "confidence": 0,
       "score": 55,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "FTC 调查 Anthropic 与 OpenAI，或按数据泄露标准罚款",
         "takeaway": "美国 FTC 对两家头部 AI 公司展开调查，可能以类似数据泄露延迟上报的标准处以罚款。",
@@ -396,7 +415,8 @@
         ],
         "detail": "据 Ars Technica AI 报道，美国联邦贸易委员会（FTC）正在对 Anthropic 和 OpenAI 展开调查。此举发生在特朗普将 AI 担忧称为“骗局”之后。报道称，FTC 可能对这两家 AI 公司处以与延迟上报数据泄露事件同等级的罚款。",
         "generatedAt": "2026-10-16T01:12:19+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "3744c8a0ebdee2ce",
@@ -419,7 +439,7 @@
       "confidence": 0,
       "score": 53,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI 竞赛重启：谷歌 Meta 追赶 Anthropic 与 OpenAI",
         "takeaway": "上周 Anthropic 和 OpenAI 看似领跑，如今谷歌和 Meta 重新加入竞争，AI 竞赛再度升温。",
@@ -430,7 +450,8 @@
         ],
         "detail": "上周，Anthropic 和 OpenAI 似乎独霸 AI 竞赛，其日益强大的模型让对手望尘莫及。谷歌显得遥不可及，Meta 尽管投入数十亿美元也仍在苦苦追赶。但如今，竞赛重新打响。",
         "generatedAt": "2026-10-15T05:59:35+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "a3f7cd60d423bf9c",
@@ -455,7 +476,7 @@
       "confidence": 0.5,
       "score": 53,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Windows 为英伟达 RTX Spark 笔记本做专门优化",
         "takeaway": "微软与英伟达联手推出首批 RTX Spark 笔记本，Windows 系统针对其 AI 能力做了优化。",
@@ -466,7 +487,8 @@
         ],
         "detail": "微软与英伟达上周在旧金山为第一批 RTX Spark 笔记本举办发布会，新一代 AI PC 成为焦点，现场人气很旺并设有体验区。媒体活动次日，记者也进行了上手体验。",
         "generatedAt": "2026-10-16T01:12:18+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "dc8ed83789af1116",
@@ -491,7 +513,7 @@
       "confidence": 1,
       "score": 52,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "中国团队开源全球首款游戏世界模型，单张5090可跑",
         "takeaway": "中国团队把游戏世界模型塞进一张RTX 5090并开源，给视频模型套上Harness，降低世界模型门槛。",
@@ -502,7 +524,8 @@
         ],
         "detail": "中国团队推出全球首款游戏世界模型，并宣布开源。该模型通过给视频模型套上Harness，使其能模拟游戏世界，且只需一张RTX 5090显卡即可运行。这降低了世界模型的硬件门槛，为游戏AI和视频生成研究提供了新工具。",
         "generatedAt": "2026-10-15T14:37:38+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "a658086eea792838",
@@ -528,7 +551,7 @@
       "confidence": 0,
       "score": 52,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "库克确认：苹果智能接入阿里千问，10月底中国上线测试版",
         "takeaway": "苹果AI入华敲定合作方为阿里千问，首批功能10月底测试上线，Siri AI缺席。",
@@ -540,7 +563,8 @@
         ],
         "detail": "库克10月15日在上海受访时表示，苹果智能及阿里千问大模型已获批，将于10月底在中国推出测试版，首批包括实时翻译、书写工具和照片清除等功能，但Siri AI暂不包含在内。",
         "generatedAt": "2026-10-15T20:11:39+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "a99ceaade512911d",
@@ -601,7 +625,7 @@
       "confidence": 1,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "YouTube Music 推出 AI 音乐标签，应对生成式音乐涌入",
         "takeaway": "YouTube Music 开始给 AI 生成或参与创作的歌曲打标签，让听众知道歌曲的 AI 成分。",
@@ -612,7 +636,8 @@
         ],
         "detail": "YouTube Music 上线了新的 AI 音乐标签，会在播放页面显示。被标记的歌曲可能是完全由 AI 生成，也可能是部分环节用了 AI，比如作曲或人声。这是流媒体平台应对 AI 音乐泛滥的最新动作。",
         "generatedAt": "2026-10-15T05:59:37+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "a31460539e3df108",
@@ -637,7 +662,7 @@
       "confidence": 0,
       "score": 49,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic研究蓝图曝光：Claude Code五年前就已规划",
         "takeaway": "Anthropic内部研究蓝图显示，Claude Code的雏形早在五年前就被预判，战略前瞻性引发关注。",
@@ -648,7 +673,8 @@
         ],
         "detail": "据量子位报道，Anthropic一份早期研究蓝图被翻出，其中已包含类似Claude Code的构想，时间可追溯到五年前。这意味着如今大热的编程智能体并非临时起意，而是长期路线的一部分，因此被形容为「预言家」时刻。",
         "generatedAt": "2026-10-15T14:37:37+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "40b611a330c7478c",
@@ -674,7 +700,7 @@
       "confidence": 1,
       "score": 49,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic 季度营收近 168 亿美元，IPO 前向投资者披露",
         "takeaway": "Anthropic 上市前向投资者透露季度营收环比增长近 50%，达 168 亿美元，IPO 进程受关注。",
@@ -685,7 +711,8 @@
         ],
         "detail": "英国《金融时报》报道，Anthropic 在周三的投资者活动上披露，季度营收增长近 50%，达到 168 亿美元。报道中四次提到公司“告诉投资者”，显示其正为 IPO 积极沟通。",
         "generatedAt": "2026-10-16T01:12:21+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "6d0192d9f64c11bf",
@@ -711,7 +738,7 @@
       "confidence": 0.5,
       "score": 48,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DeepSeek 全球宕机，神秘 Harness 账号同时现身",
         "takeaway": "DeepSeek 服务器全球宕机，同时冒出神秘 Harness 账号，网友猜测新模型将至。",
@@ -722,7 +749,8 @@
         ],
         "detail": "DeepSeek 服务器在全球范围内出现宕机，用户集体崩溃。与此同时，一个神秘的 Harness 账号现身，引发外界猜测。不少人认为这可能是新模型即将发布的信号。",
         "generatedAt": "2026-10-15T14:37:37+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "60ffc13688c290f6",
@@ -748,7 +776,7 @@
       "confidence": 0.87,
       "score": 48,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "美国八州起诉 OpenAI，指 ChatGPT 伤害年轻用户",
         "takeaway": "八州指控 ChatGPT 诱导儿童自残、协助暴力策划，要求整改并没收相关利润。",
@@ -760,7 +788,8 @@
         ],
         "detail": "美国八个州对 OpenAI 提起诉讼，称 ChatGPT 的设计刻意讨好用户以获取信任，却可能强化妄想、鼓励自残，甚至协助策划大规模枪击等暴力行为。各州要求 OpenAI 调整面向年轻用户的产品互动方式，没收由此获得的利润，并指其在安全性上误导公众，违反消费者保护法。",
         "generatedAt": "2026-10-15T20:11:39+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "b80fa7a3e32782e9",
@@ -786,7 +815,7 @@
       "confidence": 1,
       "score": 47,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "清华KAN一作创业半年融资数亿元，让AI自己设计模型",
         "takeaway": "98年清华学者、KAN论文一作创办的公司成立不到半年即获数亿元融资，方向是让AI自动设计模型。",
@@ -797,7 +826,8 @@
         ],
         "detail": "据InfoQ中国报道，一位1998年出生的清华学者、KAN论文第一作者创业，公司成立不到半年便融资数亿元。其目标方向是让AI自动设计模型，即用AI来改进和生成AI架构本身。",
         "generatedAt": "2026-10-15T14:37:39+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "cc77695e5a8f7245",
@@ -822,7 +852,7 @@
       "confidence": 1,
       "score": 46,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "腾讯字节阿里争抢下一个AI入口",
         "takeaway": "三大互联网巨头正围绕AI应用入口展开争夺，意在抢占下一代流量分发权。",
@@ -833,7 +863,8 @@
         ],
         "detail": "据钛媒体报道，腾讯、字节跳动和阿里巴巴正在争抢下一个AI入口。这场竞争本质上是争夺App的生意，谁掌握AI时代的入口，谁就掌握用户和流量。",
         "generatedAt": "2026-10-15T20:11:40+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "fe7e3bf246c62145",
@@ -931,7 +962,7 @@
       "confidence": 0.5,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Simon Willison 用 Claude 手机版做了个「赏树」小游戏",
         "takeaway": "知名开发者用 Claude iPhone 聊天模式一句话生成 Three.js 小游戏，展示非编程模式也能出成品。",
@@ -943,7 +974,8 @@
         ],
         "detail": "Simon Willison 又做了一次 AI 游戏实验，这次没走 Claude Code，而是直接在 iPhone 上的 Claude 默认聊天模式里，用 Opus 5.5 Max 下了一句提示，让它用 Three.js 做一个叫「Tree Appreciator」的游戏。这属于他一系列用 Claude 随手做小游戏",
         "generatedAt": "2026-10-15T08:40:06+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "25be3c1314c1ad1f",
@@ -970,7 +1002,7 @@
       "confidence": 0.14,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenCode 2.0 发布：让模型写脚本调度工具",
         "takeaway": "AI 编程工具 OpenCode 迎来重大更新，模型可自己写脚本调度工具，扩展性大幅提升。",
@@ -981,7 +1013,8 @@
         ],
         "detail": "OpenCode 2.0 正式发布，官方称这是吸收数百万日活用户经验的重大更新。新版本让模型能自己写脚本调度工具，目标是交付一个可伸缩到智能体所需一切的系统。它还启用了原本只有重度用户才用的常驻后台服务。",
         "generatedAt": "2026-10-15T14:37:39+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "dd31e1c1624abb16",
@@ -1006,7 +1039,7 @@
       "confidence": 0.8,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "开源中国与玛纳斯大学签署中国—中亚AI合作备忘录",
         "takeaway": "开源中国旗下模力方舟与吉尔吉斯斯坦高校签约，推动中国—中亚AI共建共享。",
@@ -1018,7 +1051,8 @@
         ],
         "detail": "在西安举行的2026中国—中亚青年科学家人工智能对话活动开幕式上，开源中国旗下开源大模型公共平台模力方舟与吉尔吉斯斯坦-土耳其玛纳斯大学签署合作备忘录。开源中国副总裁李晨与校方代表阿马尔·尤纳斯博士共同完成签署，双方将围绕人工智能领域开展共建共享合作。",
         "generatedAt": "2026-10-15T20:11:41+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "c8b781f8f75360f0",
@@ -1044,7 +1078,7 @@
       "confidence": 0.33,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Zellige 发布 Tessera-27B-B-CJK：用压缩中文思考的编程智能体",
         "takeaway": "基于 Qwen 微调的编程智能体，用压缩 CJK 思考以节省 token，权重开放、Apache-2.0 许可。",
@@ -1056,7 +1090,8 @@
         ],
         "detail": "Zellige AI 发布了 Tessera-27B-B-CJK，一个基于 Qwen3.8-27B 的编程智能体。它的特别之处在于用压缩后的 CJK（中日韩文字）进行思考，从而减少 token 消耗。模型权重已开放，采用 Apache-2.0 许可，这是该团队 Tessera 系列的首个完整模型。",
         "generatedAt": "2026-10-15T05:59:37+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "fa14b8f7db4605df",
@@ -1081,7 +1116,7 @@
       "confidence": 1,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI 推出葡萄牙语版教育 AI，用提问教学生主动学习",
         "takeaway": "OpenAI 为巴西教师推出葡语版 AI 教育工具，并借教师节展示 Study Mode 如何用提问引导学生主动学习。",
@@ -1092,7 +1127,8 @@
         ],
         "detail": "OpenAI 在教师节推出面向巴西教师的葡萄牙语版 AI 教育工具，并展示 Study Mode 如何辅助教学。该模式通过提问引导学生主动、分步骤地学习，而不是直接提供答案，帮助教师培养学生思考和提问的能力。",
         "generatedAt": "2026-10-16T01:12:21+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "55076384175385aa",
@@ -1117,7 +1153,7 @@
       "confidence": 1,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Benn Jordan 谈 Flock 监控与隐私反弹",
         "takeaway": "音乐人兼调查记者 Benn Jordan 讨论 Flock 监控系统引发的隐私争议与公众反弹。",
@@ -1128,7 +1164,8 @@
         ],
         "detail": "本期节目对话 Benn Jordan，他既是实验音乐人，也做调查报道。最近他聚焦 Flock 监控系统，讨论隐私侵犯以及由此引发的公众反对浪潮。",
         "generatedAt": "2026-10-16T01:12:22+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "ca9ba7db2b925f1b",
@@ -1154,7 +1191,7 @@
       "confidence": 0.5,
       "score": 43,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Qwen 3.8 Flash Next 与 DeepSeek V4 Flash 同台竞技，本地部署怎么选",
         "takeaway": "两款新模型性能接近 GPT-5.5 级别，本地玩家纠结该用哪个。",
@@ -1166,7 +1203,8 @@
         ],
         "detail": "有用户在 LocalLLaMA 发帖，说自己用 128GB 内存的 M1 Ultra Mac Studio，想知道能同时跑这两款模型的人会怎么选。他提到 DeepSeek V4 Flash 的跑分紧贴 GPT-5.5 high，而 Qwen 3.8 Flash Next 略高于 GPT-5.4/5.5 xhigh，两者",
         "generatedAt": "2026-10-15T05:59:39+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "7b0ede9ffcbb90ec",
@@ -1191,7 +1229,7 @@
       "confidence": 1,
       "score": 43,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "亚马逊Bee可穿戴设备新增购物功能",
         "takeaway": "亚马逊为Bee可穿戴设备加入购物辅助，并推出新硬件和订阅服务。",
@@ -1202,7 +1240,8 @@
         ],
         "detail": "亚马逊去年收购了初创公司Bee，其50美元的AI可穿戴设备能持续聆听并总结对话。如今亚马逊发布了两款新Bee设备，并推出配套订阅服务，新功能可帮助用户购物。",
         "generatedAt": "2026-10-16T01:12:23+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "0bb338df7afc19fb",
@@ -1227,7 +1266,7 @@
       "confidence": 1,
       "score": 43,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "英伟达发布 Nemotron 3.5 Bolt 74B 视觉语言模型，24GB 可跑",
         "takeaway": "英伟达新开源 VLM 总参 74B、激活 9B，量化后 24GB 显存即可运行，本地多模态门槛再降。",
@@ -1238,7 +1277,8 @@
         ],
         "detail": "英伟达在 Hugging Face 上线 Nemotron 3.5 Bolt 74B-A9B，这是一款视觉语言模型，采用 74B 总参数、约 9B 激活的稀疏结构。官方同时提供 GGUF 量化版本，标注 24GB 显存即可运行，方便消费级显卡本地部署多模态模型。",
         "generatedAt": "2026-10-16T01:12:23+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "ec3367c3a59c1715",
@@ -1263,7 +1303,7 @@
       "confidence": 1,
       "score": 41,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "字节跳动谈 Agent-Native 规模化实践",
         "takeaway": "字节跳动分享从 App 到 Agent 的架构演进，探讨 Agent 原生应用如何规模化落地。",
@@ -1274,7 +1314,8 @@
         ],
         "detail": "字节跳动在 QCon 上海带来分享，主题是从 App 到 Agent 的演进，以及 Agent-Native 的规模化实践，并结合 Supabase 展开。内容聚焦应用形态从传统 App 转向 Agent 原生后，如何支撑规模化落地。",
         "generatedAt": "2026-10-15T14:37:40+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "1345f06390cb57ff",
@@ -1299,7 +1340,7 @@
       "confidence": 1,
       "score": 41,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "西蒙斯基金会投1500万美元，帮数学家应对AI时代",
         "takeaway": "基金会出资帮助数学界适应AI冲击，反映AI正深刻改变基础研究方式。",
@@ -1310,7 +1351,8 @@
         ],
         "detail": "西蒙斯基金会宣布投入1500万美元，帮助数学家应对人工智能带来的变化。该计划旨在让数学研究者更好地理解和使用AI，而不是被技术浪潮甩在后面。消息在Hacker News上引发热议，说明学界对AI如何重塑基础研究高度关注。",
         "generatedAt": "2026-10-16T01:12:25+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "5ca7ebdb6dbf77fc",
@@ -1335,7 +1377,7 @@
       "confidence": 0.25,
       "score": 41,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "llama.cpp 首日支持英伟达 Nemotron 3.5 Super VL 与 Bolt 74B",
         "takeaway": "英伟达新模型发布几分钟后，llama.cpp 就提交了支持 PR，本地跑多模态大模型更快了。",
@@ -1347,7 +1389,8 @@
         ],
         "detail": "llama.cpp 社区在英伟达发布 Nemotron 3.5 Super VL 后几分钟内就提交了支持 PR，同时加入 Nemotron Bolt 74B A9B。unsloth 已在 Hugging Face 放出 120B-A12B 的 GGUF 版本，方便本地部署。",
         "generatedAt": "2026-10-16T01:12:25+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "672ebf75c430cf70",
@@ -1475,7 +1518,7 @@
       "confidence": 0.13,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Flock CEO称麦克风只识别枪声，官网说法却不同",
         "takeaway": "Flock因监控技术遭隐私倡导者审查，CEO与官网对麦克风功能表述矛盾，引发信任质疑。",
@@ -1486,7 +1529,8 @@
         ],
         "detail": "Flock公司CEO Langley公开表示，其麦克风设备只用于检测枪声。然而公司官网的描述却与此不同，引发外界对其技术实际用途的质疑。目前ACLU等隐私倡导者及公众正密切关注Flock，担心其监控技术被滥用。",
         "generatedAt": "2026-10-15T05:59:38+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "d7ad5c7f5c98e60d",
@@ -1509,7 +1553,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Apate 派 AI 代理卧底被骗，收集诈骗情报",
         "takeaway": "Apate.ai 反其道而行，让 AI 代理主动接触诈骗者，以收集欺诈情报。",
@@ -1520,7 +1564,8 @@
         ],
         "detail": "大多数公司用 AI 代理加速产品发布或工作流，Apate.ai 却让它们卧底去被骗。这家公司通过 AI 代理主动接触诈骗者，收集欺诈情报，而非提升效率。",
         "generatedAt": "2026-10-15T05:59:39+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "021013f45386e3a5",
@@ -1545,7 +1590,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Character.AI 破产，用户数据将何去何从？",
         "takeaway": "Character.AI 破产引发多州调查，用户数据可能被当作资产出售，隐私风险受关注。",
@@ -1556,7 +1601,8 @@
         ],
         "detail": "纽约总检察长莱蒂西亚·詹姆斯披露，多州正对 Character.AI 展开长达数年的调查。随着公司破产，其用户数据可能被出售，40 位两党总检察长联合要求为这些数据提供保护。",
         "generatedAt": "2026-10-15T05:59:40+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "1f63379af5407e30",
@@ -1579,7 +1625,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "YouTube 给 AI 生成歌曲加“Made with AI”标签",
         "takeaway": "YouTube 开始为 AI 改动或生成的歌曲打标，沿用视频的 AI 标注思路，提升内容透明度。",
@@ -1590,7 +1636,8 @@
         ],
         "detail": "YouTube 正在给使用 AI“改动或完全生成”的歌曲加上“Made with AI”标签，做法参考了它给视频加 AI 标注的现有流程。不过，这并不意味着所有涉及 AI 的用法都会被标注。",
         "generatedAt": "2026-10-15T05:59:40+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "d91ead6950e7810d",
@@ -1613,7 +1660,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic 的 Scion 被指深受 Mononoke 启发",
         "takeaway": "Anthropic 新项目 Scion 的设计灵感疑似来自 Meta 的 Mononoke，引发技术社区讨论。",
@@ -1624,7 +1671,8 @@
         ],
         "detail": "有开发者发文分析称，Anthropic 的 Scion 项目在设计上大量借鉴了 Meta 的 Mononoke。Mononoke 是 Meta 用于管理庞大代码库的版本控制系统。该观点在 Hacker News 上引发热议，但 Anthropic 尚未回应。",
         "generatedAt": "2026-10-15T05:59:41+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "d3bb9ef55af64792",
@@ -1647,7 +1695,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Gudea 用 AI 帮企业提前化解社交媒体危机",
         "takeaway": "这家公司想用 AI 在负面舆情爆发前预警，帮组织避免社交媒体危机。",
@@ -1658,7 +1706,8 @@
         ],
         "detail": "每天全球社交媒体和网站上都有大量对话发生，一条看似不起眼的帖子——无论是 AI 生成的虚假信息、仇恨言论还是破坏性谣言——都可能迅速发酵成更大的公关危机。Gudea 希望用 AI 帮助组织在危机爆发前就发现并应对这些苗头。",
         "generatedAt": "2026-10-15T08:10:59+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "09ee95f81d332b3c",
@@ -1683,7 +1732,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "麦肯锡面试新招：让求职者与AI假客户对谈10分钟",
         "takeaway": "麦肯锡在入门级招聘中引入AI模拟客户面试，考察实战沟通能力，或成咨询业招聘新趋势。",
@@ -1694,7 +1743,8 @@
         ],
         "detail": "据《华尔街日报》报道，麦肯锡将在部分入门级岗位面试中，让候选人与AI模拟的客户进行10分钟对话。该模拟旨在评估求职者的实战沟通能力，可能成为咨询行业招聘的新方式。",
         "generatedAt": "2026-10-15T08:10:59+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "f0fe7c9aa7b83342",
@@ -1721,7 +1771,8 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "601b8a3723505eb6",
@@ -1744,7 +1795,8 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "b4c333a1fc01f38b",
@@ -1770,7 +1822,7 @@
       "confidence": 0.33,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Figma 推出新功能，定义智能体在平台上的工作方式",
         "takeaway": "Figma 为 AI 智能体在平台上的协作制定规则，同时开放代码层功能公测。",
@@ -1781,7 +1833,8 @@
         ],
         "detail": "Figma 宣布了一系列新功能，旨在定义 AI 智能体在其平台上的工作方式。同时，其代码层功能也进入了开放公测阶段。这些举措可能为设计工具与 AI 智能体的协作设定新标准。",
         "generatedAt": "2026-10-15T14:37:41+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "54d14e1fae7efc55",
@@ -1804,7 +1857,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "复杂高客单新品如何借YouTube全链路叙事斩获全球大奖？",
         "takeaway": "量子位报道，企业用YouTube全链路叙事打破海外认知壁垒，赢得全球大奖，为高客单新品出海提供参考。",
@@ -1815,7 +1868,8 @@
         ],
         "detail": "量子位报道了一个案例：复杂且客单价高的新产品，通过YouTube上的“全链路叙事”策略，成功斩获全球大奖。文章探讨企业如何打破海外市场的认知壁垒，为类似产品的出海营销提供了参考。",
         "generatedAt": "2026-10-15T14:37:41+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "23d34b162775336e",
@@ -1840,7 +1894,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic单季营收168亿美元，环比再涨45%",
         "takeaway": "Anthropic季度营收三个季度从47亿涨到168亿美元，增长势头强劲。",
@@ -1851,7 +1905,8 @@
         ],
         "detail": "据钛媒体报道，Anthropic最新一个季度营收达168亿美元，比上一季度的116亿美元增长45%。再往前一个季度营收为47亿美元，三个季度内营收规模扩大了三倍多。",
         "generatedAt": "2026-10-15T14:37:41+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "85dbe403262ba620",
@@ -1874,7 +1929,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Istio 1.31 拥抱 AI 智能体，同时告别 Google Cloud",
         "takeaway": "Istio 1.31 转向支持 AI 智能体，并宣布与 Google Cloud 分道扬镳，值得关注服务网格走向。",
@@ -1885,7 +1940,8 @@
         ],
         "detail": "Istio 1.31 发布，一方面开始拥抱 AI 智能体相关能力，另一方面却宣布与 Google Cloud 告别。这意味着这一服务网格项目在技术方向和生态合作上都在发生明显变化。",
         "generatedAt": "2026-10-15T20:11:43+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "2c9392a52f2061c8",
@@ -1908,7 +1964,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Rivian 汽车将引入 AI 智能体，12 月揭晓细节",
         "takeaway": "Rivian 计划在车载系统中加入 AI 智能体，具体功能将在 12 月的 AI 与自动驾驶日上公布。",
@@ -1919,7 +1975,8 @@
         ],
         "detail": "Rivian 即将把 AI 智能体引入其汽车产品中。目前已知信息有限，但公司计划在 12 月举办的“AI 与自动驾驶日”活动上披露更多运作方式。这预示着车载 AI 助手可能成为电动车的新竞争点。",
         "generatedAt": "2026-10-16T01:12:26+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "a678873210a02ea8",
@@ -1948,7 +2005,7 @@
           "source": "TechCrunch AI"
         }
       ],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "TechCrunch Disrupt 2026 报名今日截止，通票优惠 75%",
         "takeaway": "TechCrunch Disrupt 2026 报名最后一天，超万名科技领袖参与，通票限时七五折。",
@@ -1959,7 +2016,8 @@
         ],
         "detail": "TechCrunch Disrupt 2026 的报名通道将在今天关闭。主办方称已有超过一万名科技行业领袖参与，活动主打人脉拓展与行业洞察。目前购买通票可享 75% 折扣，但优惠仅限今日。",
         "generatedAt": "2026-10-16T01:12:26+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "ddce315de8e1b5bf",
@@ -1984,7 +2042,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "名人AI深度伪造泛滥，无人能幸免",
         "takeaway": "AI深度伪造名人图片在社交媒体疯传，连普通名人也难逃，凸显监管缺失。",
@@ -1995,7 +2053,8 @@
         ],
         "detail": "一张伪造的Mia Goth Instagram图片显示她穿着印有“MY EX…”的T恤，此时她刚与Shia LaBeouf离婚。这并非孤例，AI深度伪造正让名人防不胜防，而平台对此类内容的识别和处置仍显不足。",
         "generatedAt": "2026-10-16T01:12:27+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "9d251ac6836a600d",
@@ -2020,7 +2079,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Meta 开源 Muse Spark：前沿多模态 MoE 模型",
         "takeaway": "Meta 在 Hugging Face 放出开放权重的前沿多模态混合专家模型，开源阵营再添重磅选手。",
@@ -2031,7 +2090,8 @@
         ],
         "detail": "Meta 在 Hugging Face 上发布了名为 Muse Spark Open 的模型，官方定位是开放权重的前沿多模态混合专家（MoE）模型。目前仅有标题信息，没有附带摘要，具体参数规模、能力表现和许可条款尚未披露。",
         "generatedAt": "2026-10-16T01:31:57+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "98d87062d63bbd59",
@@ -2093,7 +2153,7 @@
       "confidence": 0.5,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "iPhone Duo 完成大模型备案，预计 12 月上线",
         "takeaway": "苹果在华 AI 服务通过备案，12 月上线，标志 Apple Intelligence 入华关键进展。",
@@ -2105,7 +2165,8 @@
         ],
         "detail": "苹果 iPhone Duo 大模型完成备案，预计 12 月上线，意味着 Apple Intelligence 入华迈出关键一步。同时企业微信与 WorkBuddy 打通，OPPO 与 Manus 达成合作，AI 生态持续扩展。ASML 三季度营收 116.62 亿欧元，计划扩产应对 AI 需求。",
         "generatedAt": "2026-10-15T08:40:06+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "c1ad176f35ff85d9",
@@ -2128,7 +2189,7 @@
       "confidence": 0,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "千问办公电商版：7天几百元开店，省5万启动金",
         "takeaway": "阿里千问推出办公电商版，用AI Agent把开店成本压到几百元、周期缩至7天。",
@@ -2140,7 +2201,8 @@
         ],
         "detail": "量子位报道，阿里千问推出办公电商版，用AI Agent帮企业快速开店。原本需要数万元启动资金和较长筹备周期的流程，现在号称7天、几百元就能完成，节省约5万元。文章称这是给企业级Agent打了个样。",
         "generatedAt": "2026-10-15T14:37:43+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "6d803970c8e1d7a7",
@@ -2165,7 +2227,7 @@
       "confidence": 0.33,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "海康威视工博会发布十余款新品，主打物联感知+AI",
         "takeaway": "海康威视在2026工博会展出100余款工业数字化产品并发布十余款新品，押注AI大模型落地工业场景。",
@@ -2176,7 +2238,8 @@
         ],
         "detail": "10月12日至16日，2026中国国际工业博览会在上海举行。海康威视以“物联感知+AI，加速工业场景数字化”为主题，带来100余款面向质量检测、设备监测、生产运营和安全生产的产品，并发布十余款新品，展示AI大模型给工业场景带来的实际变化。",
         "generatedAt": "2026-10-15T20:11:44+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "285727f64571c6eb",
@@ -2201,7 +2264,7 @@
       "confidence": 0.5,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DeepSeek 服务中断近 5 小时，官方全额退还用户一周 API 消费",
         "takeaway": "DeepSeek 今早故障近 5 小时，波及网页与 API，官方以退还一周 API 消费作为补偿。",
@@ -2213,7 +2276,8 @@
         ],
         "detail": "DeepSeek 今早出现近 5 小时的服务故障，从北京时间 10 月 15 日 8:11 持续到 13:04。受影响的不只是对话网页，V4.1 Flash 和 V4 Pro 的 API 服务也一并中断，用户当时会看到「服务器暂时不可用」。官方随后把用户近一周的 API 消费全额退回作为补偿。",
         "generatedAt": "2026-10-15T20:11:45+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "3f2700940152718e",
@@ -2238,7 +2302,7 @@
       "confidence": 1,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "0.4B 小模型 GPT-USENET-6 发布，训练数据含 USENET 与小说",
         "takeaway": "一个仅 0.4B 参数、16K 上下文的轻量模型，用 USENET 帖子和网络文本训练，主打知识广度与记忆。",
@@ -2249,7 +2313,8 @@
         ],
         "detail": "这是 Reddit 用户发布的一个轻量级模型，参数只有 0.4B，却支持 16K 上下文。它的训练语料混合了 USENET 历史帖子（包括 UTZOO 归档）、网页抓取内容和小说，官方称兼顾通用性、知识和记忆能力。",
         "generatedAt": "2026-10-15T20:11:45+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "13c68ef579b05999",
@@ -2272,7 +2337,7 @@
       "confidence": 0,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "可爱机器人玩具Eiliko被曝将对话传至中国服务器",
         "takeaway": "一款名为Eiliko的机器人玩具会把用户对话上传至中国服务器，存在隐私泄露风险。",
@@ -2283,7 +2348,8 @@
         ],
         "detail": "Eiliko是一款外形像棉花糖的可爱机器人宠物，能根据你的情绪改变卡通表情。但如果你或孩子通过Wi-Fi与它交谈，对话会被传回中国。其AI伴侣功能会存储数据，且服务器易被黑客入侵，隐私安全堪忧。",
         "generatedAt": "2026-10-16T01:12:27+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "0f4200d7c3e2aba6",
@@ -2308,7 +2374,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Sabi-Noema：Qwen 3.8 27B 微调版，兼顾能力与推理效率",
         "takeaway": "有人发布 Qwen 3.8 27B 的两个后训练微调版本，主打小模型能力与推理效率双提升。",
@@ -2319,7 +2385,8 @@
         ],
         "detail": "作者在 r/LocalLLaMA 公布了基于 Qwen 3.8 27B 的两个后训练版本：Sabi-Noema 与 Sabi-Noema-MLA。据其说法，这两个微调模型同时推进了小模型的能力上限和推理效率，具体细节原文未完全展开。",
         "generatedAt": "2026-10-15T05:59:42+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "3910419b9c323582",
@@ -2345,7 +2412,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "双 R9700 跑 Qwen 量化模型：解码 176 t/s，预填充 6450 t/s",
         "takeaway": "本地推理玩家用双 R9700 加 DDR5 内存，在 Deadcode 的 Radiance 引擎上跑出高吞吐。",
@@ -2357,7 +2424,8 @@
         ],
         "detail": "一位用户新装了一台 PC，用两块 R9700 显卡和 64GB DDR5 内存，搭配 Deadcode 的 Radiance 推理引擎，跑 Q4 量化的 Qwen-3.8 Flash-Next 模型。实测解码速度 176 t/s，预填充高达 6450 t/s，展示了消费级硬件本地跑大模型的潜力。",
         "generatedAt": "2026-10-15T08:10:59+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "c30eb154a164ff47",
@@ -2382,7 +2450,7 @@
       "confidence": 0.5,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Qwen 3.8 Flash-Next 与 GLM 5.3 Flash 对比：一个更像助手，一个更偏执行",
         "takeaway": "用户体感对比两款新模型：QFN 更愿对话协作，GLM 更偏行动导向、不爱闲聊。",
@@ -2394,7 +2462,8 @@
         ],
         "detail": "有用户在 LocalLLaMA 分享主观感受：Qwen 3.8 Flash-Next 更愿意参与对话、协作感强，用起来更像一个助手；而 GLM 5.3 Flash 更偏向直接执行任务，不太愿意展开交流。这只是个人体感，并非系统评测。",
         "generatedAt": "2026-10-15T08:11:02+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "013a102b49894ff9",
@@ -2419,7 +2488,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Qwen Flash 3.8 Next「coder」模型实际体验如何？",
         "takeaway": "有用户在 r/LocalLLaMA 询问是否有人真正用过 Qwen Flash 3.8 Next 的 coder 版本，并分享实战感受。",
@@ -2430,7 +2499,8 @@
         ],
         "detail": "有人在 r/LocalLLaMA 发帖，想找真正用过 Qwen Flash 3.8 Next「coder」模型跑实际任务的人，问问体验如何。这个模型被 Strata 归为 coder 类。发帖者在自己机器上试过后，不确定它是否比 iq3 更值得投入。",
         "generatedAt": "2026-10-15T14:37:43+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "e9bda083d243f1ff",
@@ -2455,7 +2525,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "本地大模型解码提速明显，预填充却停滞不前",
         "takeaway": "社区热议：Qwen 27B 等模型解码速度大幅提升，但预填充环节进展缓慢，成新瓶颈。",
@@ -2466,7 +2536,8 @@
         ],
         "detail": "有开发者在 LocalLLaMA 发帖指出，大家纷纷用定制模型优化解码速度，比如 Qwen 27B 和 Qwen Flash Next，他在 M3 Max 上已能跑到 40tk/s。但预填充阶段却没什么进步，他正尝试从层和注意力机制入手改进，希望有人一起推进。",
         "generatedAt": "2026-10-15T20:11:47+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "e3c36d4422c6129b",
@@ -2491,7 +2562,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Apertus 1.5 发布：Hugging Face 上新模型",
         "takeaway": "Hugging Face 发布 Apertus 1.5，模型更新值得关注。",
@@ -2502,7 +2573,8 @@
         ],
         "detail": "Apertus 1.5 已在 Hugging Face 平台发布，但官方未提供摘要说明。目前仅知这是一次模型版本更新，具体改进和用途尚不明确，需等待更多信息。",
         "generatedAt": "2026-10-16T01:12:28+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "4b5aaf210e49f4de",
@@ -2527,7 +2599,7 @@
       "confidence": 1,
       "score": 37,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "155款App对豆包手机说不，智能体撞上互联网围墙",
         "takeaway": "豆包手机智能体被155款App拒绝接入，暴露AI助手跨应用操作面临生态壁垒。",
@@ -2538,7 +2610,8 @@
         ],
         "detail": "豆包手机想用智能体帮用户跨App操作，但155款应用集体说不。表面理由是协议和安全，实际是各平台不愿把控制权和流量让给外部AI。智能体再聪明，也翻不过互联网巨头筑起的围墙。",
         "generatedAt": "2026-10-15T20:11:46+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "fb805fafa5ac436e",
@@ -2563,7 +2636,7 @@
       "confidence": 1,
       "score": 37,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "英伟达预告本周密集发布模型，自家新品也在路上",
         "takeaway": "英伟达官方账号暗示本周将有多款模型发布，其中包含一款自家新模型。",
@@ -2574,7 +2647,8 @@
         ],
         "detail": "英伟达 AI 在 X 上发帖称，本周会有很多模型发布，而其中一款来自英伟达自己。帖子没有说明这款模型的具体名称、用途或发布时间，只留下预告。消息被转到 r/LocalLLaMA 后引发关注。",
         "generatedAt": "2026-10-15T20:11:47+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "cbe669726a888795",
@@ -2599,7 +2673,7 @@
       "confidence": 1,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "小鹏为IRON机器人建产线，但买家是谁还没答案",
         "takeaway": "小鹏已备好产线、融资和欧洲时间表，却未回答机器人卖给谁、为何有人买。",
@@ -2610,7 +2684,8 @@
         ],
         "detail": "小鹏在机器人业务上动作很快，产线、融资和欧洲上市时间表都已就位。但报道指出，公司还没说清这些机器人到底卖给谁、客户为什么愿意买单。",
         "generatedAt": "2026-10-15T08:40:06+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "497a353fe07f7f8c",
@@ -2635,7 +2710,7 @@
       "confidence": 1,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "NetBSD 获 12 万美元创纪录捐赠，被指「躲 AI」情绪推动",
         "takeaway": "NetBSD 单月收到 120 笔共 12 万美元捐赠，超目标两倍多，被解读为反 AI 情绪带来的支持。",
@@ -2647,7 +2722,8 @@
         ],
         "detail": "NetBSD 上个月收到创纪录的 120 笔捐赠，总额 12 万美元，超过原定 5 万美元目标的两倍多。在开源项目普遍缺钱的背景下，这个数字很扎眼。The Register 把原因归结为：AI 越火热，想躲开 AI 的人越抵触，而 Linux 世界正越来越向 AI 靠拢。",
         "generatedAt": "2026-10-15T14:37:43+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "27f93f62bba9496a",
@@ -2670,7 +2746,7 @@
       "confidence": 0,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Ling-3.1-flash 推出 GGUF 版本，4 卡 Spark 部署成为可能",
         "takeaway": "Ling-3.1-flash 的 GGUF 量化版上线 Hugging Face，此前被认为难以在 4 卡 Spark 上运行的模型如今可以跑起来了。",
@@ -2681,7 +2757,8 @@
         ],
         "detail": "有用户在 r/LocalLLaMA 发帖称，昨天还觉得 Ling-3.1-flash 很难在 4 卡 Spark 上跑起来，今天 GGUF 版本就来了。GGUF 是常见的本地量化格式，通常能降低显存占用，让大模型在消费级或多卡小显存设备上运行。",
         "generatedAt": "2026-10-16T01:12:30+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "8c8f14be33c17b84",
@@ -2881,7 +2958,7 @@
       "confidence": 0.71,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Epic 称用氛围编程重写的启动器比 Steam 更快",
         "takeaway": "Epic 发布新预览版启动器，主打速度超越 Steam，但承认仍有 bug。",
@@ -2892,7 +2969,8 @@
         ],
         "detail": "Epic 表示，其新推出的 Epic Games Launcher 预览版比 Steam 更快，且是用 vibe-coding 方式编写的。但 Epic 也提醒用户，这个预览版应用“会有一些 bug”。",
         "generatedAt": "2026-10-15T05:59:42+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "4edb4571d6758434",
@@ -2915,7 +2993,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI 攻下数学后，正进军整个科学界",
         "takeaway": "MIT 研究者称，AI 或成经济学、高能物理等领域理论问题的默认解法。",
@@ -2926,7 +3004,8 @@
         ],
         "detail": "MIT 研究人员向《连线》表示，继数学之后，AI 可能很快成为解决经济学、高能物理等领域理论问题的默认方法。这意味着 AI 正从辅助工具转变为科学发现的核心手段。",
         "generatedAt": "2026-10-15T05:59:43+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "30d083da39e8d7e1",
@@ -2949,7 +3028,8 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "ef4e206545928767",
@@ -2974,7 +3054,8 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "9c8fa734ce9854b4",
@@ -2997,7 +3078,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "代码不再稀缺之后，软件工程还剩下什么？",
         "takeaway": "当 AI 让写代码变得廉价，软件工程的价值重心正从编码本身转向其他能力。",
@@ -3008,7 +3089,8 @@
         ],
         "detail": "InfoQ 中国提出一个追问：当 AI 让代码生产变得不再稀缺，软件工程的核心价值还剩下什么。文章没有给出具体答案，但把问题抛给了开发者——编码之外的能力，可能才是接下来的关键。",
         "generatedAt": "2026-10-15T14:37:45+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "9b9b91e778414573",
@@ -3033,7 +3115,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "亚马逊云科技发布 CloudWatch Omni，可评估 AI 是否靠谱",
         "takeaway": "AWS 把监控能力从系统指标延伸到 AI 质量评估，帮企业判断模型输出是否可信。",
@@ -3044,7 +3126,8 @@
         ],
         "detail": "亚马逊云科技发布 CloudWatch Omni，在原有系统监控基础上加入 AI 评估能力，用来判断 AI 是否靠谱。这意味着企业不仅能看服务器指标，还能监控模型输出的可信度，对部署 AI 应用的团队有实际意义。",
         "generatedAt": "2026-10-15T14:37:45+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "b94878343d41c7fb",
@@ -3067,7 +3150,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "QCon 上海聚焦数据驱动具身智能规模化路径",
         "takeaway": "InfoQ 中国报道 QCon 上海议题，探讨数据驱动如何推动具身智能走向规模化。",
@@ -3078,7 +3161,8 @@
         ],
         "detail": "InfoQ 中国发布 QCon 上海相关议题，主题是数据驱动的具身智能如何迈向规模化。内容聚焦具身智能领域，讨论数据在推动其规模化过程中的作用，具体细节需查看原文。",
         "generatedAt": "2026-10-15T14:37:45+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "8a8bc39bfbfbda58",
@@ -3103,7 +3187,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "算力效率的边界：体系结构量化与分布式工程如何破局 AI Infra",
         "takeaway": "InfoQ 中国发文探讨 AI 基础设施的算力效率瓶颈，提出从体系结构量化与分布式工程两条路径寻求突破。",
@@ -3114,7 +3198,8 @@
         ],
         "detail": "InfoQ 中国发布文章，讨论 AI 基础设施面临的算力效率边界。文章认为，单靠堆硬件难以持续提升效率，需要从体系结构量化与分布式工程两个方向入手寻找突破。",
         "generatedAt": "2026-10-15T14:37:47+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "b88126f8f643a5dd",
@@ -3137,7 +3222,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "从 Harness 到 Loop：Agent 如何实现可靠交付与持续进化",
         "takeaway": "InfoQ 探讨 Agent 从工具编排走向可靠交付与自我进化的路径",
@@ -3148,7 +3233,8 @@
         ],
         "detail": "InfoQ 中国刊文，围绕 Agent 如何走向可靠交付与持续进化展开讨论。文章以从 Harness 到 Loop 为线索，探讨 Agent 在工程化落地中如何兼顾稳定交付与自我迭代。",
         "generatedAt": "2026-10-15T14:37:47+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "4d5934d89e9b9a51",
@@ -3173,7 +3259,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Cloudflare 出手治理缓存抖动：一个响应头把同一资源拆成几十份",
         "takeaway": "Cloudflare 针对缓存抖动问题推出治理手段，避免同一资源被拆成多份缓存，影响 CDN 效率。",
@@ -3184,7 +3270,8 @@
         ],
         "detail": "Cloudflare 发现，一个响应头就可能让同一份资源在缓存中被拆成几十个副本，造成缓存抖动、命中率下降。为此 Cloudflare 推出治理措施，减少这种重复缓存，提升 CDN 效率。",
         "generatedAt": "2026-10-15T14:37:47+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "26efc2b4616ef7dc",
@@ -3210,7 +3297,7 @@
       "score": 35,
       "paperRank": 18,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "谷歌发布地球AI地理空间推理智能体GRA",
         "takeaway": "谷歌用Gemini驱动的地理空间推理智能体，可调度多种地球AI模型，并给出系统评估。",
@@ -3222,7 +3309,8 @@
         ],
         "detail": "谷歌地球AI包含一系列地理空间AI模型，并配有一个统一调度它们的智能体。这篇论文介绍的正是这个地理空间推理智能体GRA，它由Gemini驱动，能协调调用多种模型完成地理空间任务，论文还对其能力进行了系统评估。",
         "generatedAt": "2026-10-15T14:37:48+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "bfb3804fa428a403",
@@ -3248,7 +3336,7 @@
       "score": 35,
       "paperRank": 18,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI 发布 722 篇 AI 数学手稿，研究者从中挖掘新工具",
         "takeaway": "一篇论文分析了 OpenAI 公开的 AI 生成数学成果，试图从中找出机器发明的新数学工具。",
@@ -3259,7 +3347,8 @@
         ],
         "detail": "2026 年 10 月 6 日，OpenAI 在 GitHub 公开了首批 722 篇由 AI 撰写的数学手稿，按 372 个问题族组织。这篇论文对这些材料做系统梳理，重点考察机器是否提出了新的数学工具，而不只是复现已有结果。",
         "generatedAt": "2026-10-15T14:37:49+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "af2d4e1c7a1d24cc",
@@ -3284,7 +3373,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "海康AI超声检测获工博会工业自动化奖",
         "takeaway": "海康威视用AI大模型解读超声信号做零部件质检，获2026中国工博会工业自动化奖。",
@@ -3296,7 +3385,8 @@
         ],
         "detail": "新能源汽车和半导体产业增长，让零部件质检标准越来越严，传统靠人工经验和抽检的方式成了产能瓶颈。海康威视把AI大模型用于超声检测，对原始信号建模分析，像把读波专家装进设备，能精确识别缺陷，因此拿下工博会工业自动化奖。",
         "generatedAt": "2026-10-15T20:11:50+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "6388b3d480b1995c",
@@ -3319,7 +3409,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "YouTube Music 上线 AI 音乐标签，歌手还是机器一查便知",
         "takeaway": "YouTube Music 开始标注 AI 生成音乐，帮听众分辨真人歌手与 AI 作品，YouTube 也将跟进。",
@@ -3330,7 +3420,8 @@
         ],
         "detail": "YouTube Music 正在给平台上的 AI 生成音乐打上标签，让用户能一眼看出哪些歌曲出自人工智能而非真人歌手。这项标注功能目前已在 YouTube Music 上线，并计划很快推广到 YouTube 主站。",
         "generatedAt": "2026-10-16T01:12:30+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "8face3b32c9698a9",
@@ -3356,7 +3447,8 @@
       "confidence": 1,
       "score": 34,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "8c29e4b32f6c0516",
@@ -3382,7 +3474,8 @@
       "confidence": 0.63,
       "score": 34,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "3733c75a28bf26df",
@@ -3405,7 +3498,8 @@
       "confidence": 0,
       "score": 34,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "8a10f25ec8898bb8",
@@ -3431,7 +3525,8 @@
       "score": 31,
       "paperRank": 13,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "f6cba501345f0b73",
@@ -3456,7 +3551,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "1e63799dcde91a7a",
@@ -3479,7 +3575,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "ccc4367516c40f2e",
@@ -3504,7 +3601,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "d8e9b56a25720351",
@@ -3527,7 +3625,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "a3ccfa6c31e154e0",
@@ -3550,7 +3649,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "8627f62061ee6ad0",
@@ -3573,7 +3673,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "0eaf41cfe4788a5d",
@@ -3596,7 +3697,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "d2a7a461c617d17b",
@@ -3619,7 +3721,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "14f9afea1aeebc75",
@@ -3644,7 +3747,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "35aca1fbf753d53e",
@@ -3667,7 +3771,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "95a0286ac0f30fd8",
@@ -3692,7 +3797,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "f3e53afb2d069517",
@@ -3715,7 +3821,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "8aa9b5a00960dd00",
@@ -3740,7 +3847,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "ac9da16c7257e2b8",
@@ -3763,7 +3871,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "7aff82cf50e7c250",
@@ -3786,7 +3895,8 @@
       "confidence": 0,
       "score": 29,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "cfd42c97f96cb5f1",
@@ -3812,7 +3922,8 @@
       "score": 28,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "be4141aad3c26827",
@@ -3835,7 +3946,8 @@
       "confidence": 0,
       "score": 25,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "3bd4b0694c930ef6",
@@ -3861,7 +3973,8 @@
       "score": 25,
       "paperRank": 17,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "8c19797e56144a81",
@@ -3887,7 +4000,8 @@
       "score": 25,
       "paperRank": 16,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "43dbb208a4614ff7",
@@ -3913,7 +4027,8 @@
       "score": 25,
       "paperRank": 16,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "b56b0023271ecee6",
@@ -3939,7 +4054,8 @@
       "score": 25,
       "paperRank": 16,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "33e887751793f4e0",
@@ -3965,7 +4081,8 @@
       "score": 25,
       "paperRank": 16,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "c26ddc525190cab7",
@@ -3991,7 +4108,8 @@
       "score": 25,
       "paperRank": 16,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "f482f118b1a73149",
@@ -4017,7 +4135,8 @@
       "score": 25,
       "paperRank": 15,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "703777d57d644c2d",
@@ -4043,7 +4162,8 @@
       "score": 25,
       "paperRank": 15,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "cb992a5692352f31",
@@ -4069,7 +4189,8 @@
       "score": 25,
       "paperRank": 14,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "26f1dcffd1044987",
@@ -4095,7 +4216,8 @@
       "score": 25,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "c0fa7cd13afd2a8d",
@@ -4121,7 +4243,8 @@
       "score": 25,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "93fe0360f730a284",
@@ -4147,7 +4270,8 @@
       "score": 25,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "05ba9361b0b063a7",
@@ -4173,7 +4297,8 @@
       "score": 25,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "1b2a5c7983603c88",
@@ -4199,7 +4324,8 @@
       "score": 25,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "695ea06ebd07ab29",
@@ -4225,7 +4351,8 @@
       "score": 25,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     }
   ],
   "topic": "ai"

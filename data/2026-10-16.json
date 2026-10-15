@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updatedAt": "2026-10-16T05:53:28+08:00",
+  "updatedAt": "2026-10-16T07:57:42+08:00",
   "items": [
     {
       "id": "d5bac5a69bce90a0",
@@ -26,7 +26,7 @@
       "confidence": 1,
       "score": 59,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Meta 联手苹果发布开源权重模型，可在 Mac 本地运行",
         "takeaway": "Meta 新模型 Muse Spark Open 借苹果芯片本地跑，开源权重加 Mac 生态是看点。",
@@ -37,7 +37,123 @@
         ],
         "detail": "Meta 与苹果联手推出其最新模型 Muse Spark Open，采用开放权重，可直接在搭载 Apple 芯片的 Mac 上本地运行。这是 Meta 在开源模型路线上的新动作，也借助苹果硬件把 AI 能力带到个人设备端。",
         "generatedAt": "2026-10-16T05:53:20+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
+    },
+    {
+      "id": "a72d1e4da6b0e106",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T03:00:00+08:00",
+      "fetchedAt": "2026-10-16T07:57:24+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing",
+        "GPT"
+      ],
+      "confidence": 0.75,
+      "score": 59,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "OpenAI 推出 GPT-Rosalind 学术计划，向科研实验室开放",
+        "takeaway": "OpenAI 面向符合条件的学术实验室提供 GPT-Rosalind 赞助访问，推动生命科学研究。",
+        "bullets": [
+          "OpenAI 发布 Rosalind 学术计划，提供 GPT-Rosalind 访问权限",
+          "面向符合条件的学术实验室，属赞助性质",
+          "配套工具用于推进生命科学研究"
+        ],
+        "detail": "OpenAI 宣布推出 Rosalind 学术计划，符合条件的学术实验室可获赞助，使用 GPT-Rosalind 及相关工具。该计划旨在支持生命科学领域的研究工作。",
+        "generatedAt": "2026-10-16T07:57:32+08:00"
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
+    },
+    {
+      "id": "090e3a2ea56614e9",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "url": "https://theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your brow…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T06:43:23+08:00",
+      "fetchedAt": "2026-10-16T07:57:24+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 57,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "ChatGPT 扩展升级：现在能读取你已打开的 Chrome 标签页",
+        "takeaway": "ChatGPT 的 Chrome 扩展获得新能力，可直接查看用户已打开的标签页，浏览器 AI 竞争再进一步。",
+        "bullets": [
+          "ChatGPT 的 Chrome 扩展新增读取已打开标签页的能力",
+          "此前 OpenAI 的 Atlas 浏览器已停用，重心转向扩展",
+          "用户需安装扩展，ChatGPT 才能查看浏览器标签内容",
+          "此举让 ChatGPT 更深入介入日常网页浏览场景"
+        ],
+        "detail": "OpenAI 的 ChatGPT Atlas 浏览器已经下线，但 ChatGPT 的 Chrome 扩展迎来升级。安装扩展后，ChatGPT 现在可以查看你当前打开的浏览器标签页，从而结合这些页面内容来回答问题或执行任务。",
+        "generatedAt": "2026-10-16T07:57:33+08:00"
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
+    },
+    {
+      "id": "ddf9d65ce9af32c6",
+      "title": "【钛晨报】潘功胜：全球失衡不能依靠汇率调节；DeepSeek发布补偿通知：将按账号7日内的消耗金额以赠金形式全额返还；工信部等三部门联合调查有关车辆刹车踏板支架断裂问题",
+      "url": "https://tmtpost.com/8170437.html",
+      "summary": "Tim之父、圆通总裁潘水苗出任影视飓风董事长，持股25.65%为第二大股东；腾讯上线“绿泡泡短剧”对标红果，采用IAA模式；台积电第三季度净利润7631亿元台币；OpenAI据报洽购Trail of Bits，拓展网络安全版图；苹果AI国内采用双合作伙伴：阿里提供模型能力，百度负责Siri和视觉智能；马斯克旗下Terafab项目或在明年年中迎来首台EUV光刻设备；四部门公布婴幼儿纸尿裤甲酰胺问题调查结果；交通运输部：重点推动内河电池、甲醇动力等新能源船舶发展；央行500亿元人…",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T07:20:00+08:00",
+      "fetchedAt": "2026-10-16T07:57:24+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "上线",
+        "DeepSeek"
+      ],
+      "confidence": 0.75,
+      "score": 56,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "DeepSeek 发布补偿通知：按账号 7 日内消耗金额全额返还赠金",
+        "takeaway": "DeepSeek 就此前服务问题给出补偿方案，按账号 7 日内消耗金额以赠金形式全额返还。",
+        "bullets": [
+          "补偿对象为受影响账号，按 7 日内消耗金额计算",
+          "返还形式为赠金，而非现金退款",
+          "同期钛媒体晨报还汇总了多条科技与行业动态"
+        ],
+        "detail": "DeepSeek 发布补偿通知，将按账号 7 日内的消耗金额，以赠金形式全额返还给用户。此举被视为对近期服务异常或中断的善后处理，具体受影响范围和触发原因未在摘要中说明。",
+        "generatedAt": "2026-10-16T07:57:32+08:00"
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "a4975bebfd36893f",
@@ -62,7 +178,7 @@
       "confidence": 1,
       "score": 54,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Meta 与苹果联手，让 Muse AI 模型在 Mac 上跑得更顺",
         "takeaway": "Meta 发布号称美国最强开源权重模型 Muse Spark，并首次与苹果合作优化 Mac 端运行。",
@@ -73,7 +189,8 @@
         ],
         "detail": "Meta 今天发布 Muse Spark 开放 AI 模型，称其是目前美国能力最强的开放权重模型。公司还表示，这是同类模型中首个能在桌面端运行的产品，借助两颗苹果 M5 芯片即可本地跑起来，背后有 Meta 与苹果的合作优化。",
         "generatedAt": "2026-10-16T05:53:20+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "a8e203058965de43",
@@ -136,7 +253,7 @@
       "confidence": 0,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Google DeepMind 用 Antigravity 加速抗菌肽发现",
         "takeaway": "Google DeepMind 将 Antigravity 用于科学，加速新型抗菌肽的搜索，有望应对耐药菌。",
@@ -147,7 +264,8 @@
         ],
         "detail": "Google DeepMind 宣布使用 Google Antigravity for Science 加速新型抗菌肽的搜索。抗菌肽有望成为对抗耐药菌的新武器，而 Antigravity 此前主要用于 AI 代理开发，此次应用展示了其在科学发现中的潜力。",
         "generatedAt": "2026-10-16T01:12:20+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "e925c3137a8af8ad",
@@ -170,7 +288,7 @@
       "confidence": 0,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic 向 METR 开放员工级访问权限",
         "takeaway": "Anthropic 允许 METR 深入内部评估风险，并放弃否决其发布结论的权利。",
@@ -181,7 +299,8 @@
         ],
         "detail": "Anthropic 给了 METR 研究人员类似员工的访问权限，让他们能深入了解公司内部。METR 会自行发布对 Anthropic 风险、事故和做法的评估，而 Anthropic 已放弃阻止这些评估发布的权利。",
         "generatedAt": "2026-10-16T05:53:20+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "bd9590f3e81292e5",
@@ -206,7 +325,7 @@
       "confidence": 1,
       "score": 47,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "蚂蚁百灵开源 560B 模型 Ling-3.0-flash，0.19 美元跑复杂工作流",
         "takeaway": "蚂蚁开源 560B 大模型，主打低成本复杂工作流，价格低至 0.19 美元。",
@@ -217,7 +336,8 @@
         ],
         "detail": "蚂蚁百灵发布并开源了 560B 参数的 Ling-3.0-flash 模型。官方强调其成本优势，称仅需 0.19 美元就能搞定复杂工作流，意在降低大模型在自动化任务中的使用门槛。",
         "generatedAt": "2026-10-15T20:11:41+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "7b45a5eb01c2a2c8",
@@ -242,7 +362,7 @@
       "confidence": 1,
       "score": 46,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Meta Muse 新功能引热议，苹果 HomeView 让人困惑",
         "takeaway": "本周 Uncanny Valley 播客聚焦 Meta Muse 意外功能、AI 超级 PAC 暗金和男性夸大 AI 认知的现象。",
@@ -253,7 +373,8 @@
         ],
         "detail": "本周播客节目 Uncanny Valley 探讨了 Meta 旗下 Muse 的一个意外功能，同时揭露了最大亲 AI 超级政治行动委员会的神秘支出，并聊到男性在 AI 知识上爱吹牛的现象。",
         "generatedAt": "2026-10-16T05:53:22+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "b0450d12d28b5a17",
@@ -278,7 +399,7 @@
       "confidence": 1,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Archestra 发布 OpenAPPA，防范提示词注入与幻觉导致的数据外泄",
         "takeaway": "Archestra 推出 OpenAPPA，针对提示词注入和模型幻觉引发的数据外泄风险提供防护。",
@@ -289,7 +410,8 @@
         ],
         "detail": "Archestra 发布了名为 OpenAPPA 的新工具，主要用来防范两类风险：提示词注入攻击，以及模型产生幻觉时可能造成的数据外泄。目前公开信息有限，具体机制和适用范围尚待官方进一步说明。",
         "generatedAt": "2026-10-15T20:11:42+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "a983409c8d0b9cd0",
@@ -314,7 +436,7 @@
       "confidence": 1,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "亚马逊设备主管：未来AI设备将取代App，主动预判需求",
         "takeaway": "亚马逊设备负责人潘诺斯·帕奈在TechCrunch Disrupt上预测，环境AI设备将取代App，主动服务用户。",
@@ -325,7 +447,8 @@
         ],
         "detail": "在TechCrunch Disrupt活动上，亚马逊设备主管帕诺斯·帕奈描绘了未来图景：环境AI设备在后台默默工作，提前预判用户需求，而不是被动等待命令。他认为这将取代人们使用App的必要性。",
         "generatedAt": "2026-10-16T05:53:23+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "6d26dc845c51e3d0",
@@ -350,7 +473,7 @@
       "confidence": 1,
       "score": 43,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "别让朋友把你的数据喂给 AI 助手",
         "takeaway": "消费电子新品热衷全天候监听，AI 助手让隐私侵犯更隐蔽，值得警惕。",
@@ -361,7 +484,8 @@
         ],
         "detail": "消费科技圈出现一种新趋势：设备被设计成时刻监视周围的一切人和事，不管对方是否同意。随着 Meta 等公司推出“AI 个人助手”，这种无差别数据采集变得更普遍，也引发对隐私的担忧。",
         "generatedAt": "2026-10-16T01:12:23+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "a300731d2a28337b",
@@ -384,7 +508,7 @@
       "confidence": 0,
       "score": 42,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "微软致谢23个漏洞，智谱GLM与白帽立功",
         "takeaway": "微软一次性致谢23个漏洞，背后有智谱GLM模型和一位顶级白帽的贡献，AI辅助安全研究值得关注。",
@@ -396,7 +520,46 @@
         ],
         "detail": "微软一次性致谢了23个漏洞，这些漏洞的发现背后有智谱GLM大模型和一位顶级白帽的参与。这表明AI模型正被用于辅助安全漏洞挖掘，可能提升漏洞发现的效率。",
         "generatedAt": "2026-10-15T20:11:43+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
+    },
+    {
+      "id": "efbe679c7fb621a3",
+      "title": "Ternary Bonsai 2 Family: 2B, 4B, & 9B based on Qwen 3.5",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x6yk1f/ternary_bonsai_2_family_2b_4b_9b_based_on_qwen_35",
+      "summary": "Going to try these out to see if they have the same looping behaviors that other Bonsai models have had. Still requires their fork of llama.cpp (branch prism) so dont expect it to work with vanilla llama.cpp. Edit: You can use with regular …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T05:45:44+08:00",
+      "fetchedAt": "2026-10-16T07:57:24+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Ternary Bonsai 2 系列发布：基于 Qwen 3.5 的 2B/4B/9B 三值模型",
+        "takeaway": "三值量化模型家族再添新成员，但需专用 llama.cpp 分支才能运行，兼容性仍是门槛。",
+        "bullets": [
+          "推出 2B、4B、9B 三个规模，均基于 Qwen 3.5 架构",
+          "需使用其 fork 的 llama.cpp（prism 分支），原版无法直接运行",
+          "用户关注是否仍存在此前 Bonsai 模型的循环输出问题"
+        ],
+        "detail": "Ternary Bonsai 2 家族发布了 2B、4B、9B 三个版本，底层基于 Qwen 3.5。目前必须搭配他们修改过的 llama.cpp prism 分支才能使用，原版 llama.cpp 不支持。有用户打算实测是否还会出现其他 Bonsai 模型常见的循环生成毛病。",
+        "generatedAt": "2026-10-16T07:57:34+08:00"
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "ba704a0917362f71",
@@ -422,7 +585,7 @@
       "confidence": 0.25,
       "score": 41,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "阶跃星辰开放 Step 5 Preview 权重，主打长程 Agent",
         "takeaway": "阶跃星辰开源 Step 5 Preview 模型权重，长程 Agent 竞争转向上下文管理与训练系统。",
@@ -433,7 +596,8 @@
         ],
         "detail": "阶跃星辰发布并开放了 Step 5 Preview 的模型权重，重点面向长程 Agent 场景。这意味着长程 Agent 的比拼不再只看模型本身，还涉及上下文管理和训练系统等底层能力。",
         "generatedAt": "2026-10-16T01:12:24+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "094e64325b5ebae1",
@@ -492,7 +656,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Granite Switch 4.1 发布：一个端点搞定对话、决策与语音",
         "takeaway": "IBM 的 Granite 模型更新，把聊天、决策和语音能力整合到单一接口，简化多模态调用。",
@@ -503,7 +667,8 @@
         ],
         "detail": "IBM 在 Hugging Face 上发布了 Granite Switch 4.1，主打用一个端点统一处理聊天、决策和语音任务。这意味着开发者不必再为不同模态分别调用模型，可以简化集成流程。目前官方未公布具体参数和性能数据。",
         "generatedAt": "2026-10-16T05:53:22+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "fc710191e832cb3b",
@@ -528,7 +693,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Simon Willison 用声波做双机对战游戏 Chirp Pong",
         "takeaway": "两台手机靠麦克风收发声波通信，纯静态 HTML 实现双人对战，验证了无网络连接也能联机。",
@@ -539,7 +704,8 @@
         ],
         "detail": "这是 Simon Willison 的又一个游戏实验。他想验证：两台独立手机在纯静态 HTML 下，能否用麦克风声波代替网络来联机对战。结果证明可行，Chirp Pong 已经能跑起来。",
         "generatedAt": "2026-10-16T05:53:24+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "35f04bc99ba5e049",
@@ -565,7 +731,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Bluesky 将 AI 应用 Attie 开放给所有人，可建网站和游戏",
         "takeaway": "Bluesky 把实验性 AI 平台 Attie 向所有用户开放，主打“社交氛围编程”，能直接触达其社交网络受众。",
@@ -577,7 +743,8 @@
         ],
         "detail": "Bluesky 正在把“社交氛围编程”带到其实验性平台 Attie 上。现在任何人都能用它创建游戏、测验、网站等互动体验，并直接触达 Bluesky 社交网络里的用户。",
         "generatedAt": "2026-10-16T05:53:24+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "d9d8114df72167e6",
@@ -602,7 +769,7 @@
       "confidence": 0.25,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "TechCrunch创始人峰会早鸟票10月16日截止，最高省200美元",
         "takeaway": "TechCrunch创始人峰会早鸟优惠即将结束，最高可省200美元，面向创始人和投资人。",
@@ -614,7 +781,8 @@
         ],
         "detail": "TechCrunch创始人峰会的早鸟优惠将于10月16日结束，创始人票和投资人票最高可省200美元。峰会定于11月4日在波士顿SoWa Power Station举行，预计约1000名创始人和投资人到场交流。",
         "generatedAt": "2026-10-16T05:53:24+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "661320cc40ff6411",
@@ -639,7 +807,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Bluesky 的 AI 工具 Attie 现在能帮你做小游戏和社交应用",
         "takeaway": "Bluesky 的 AI 工具 Attie 从只能做信息流，升级到能生成小游戏、投票和仪表盘并分享。",
@@ -650,7 +818,193 @@
         ],
         "detail": "Bluesky 的 AI 工具 Attie 最初只能帮你用 AI 搭建自己的信息流。现在它扩展了能力，可以生成小游戏、投票和仪表盘这类“小型”社交应用，并作为独立网站分享给别人。",
         "generatedAt": "2026-10-16T05:53:26+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
+    },
+    {
+      "id": "aae90d6b2dab6fff",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T07:44:56+08:00",
+      "fetchedAt": "2026-10-16T07:57:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Cal AI靠网红矩阵走红，两年营收超3000万美元后被收购",
+        "takeaway": "Cal AI用大量网红推广实现病毒式增长，两年营收超3000万美元，今年3月被MyFitness收购。",
+        "bullets": [
+          "Cal AI两年营收超3000万美元，增长主要靠网红推广",
+          "今年3月被MyFitness收购，金额未公开",
+          "小网红矩阵成为其病毒式传播的关键"
+        ],
+        "detail": "Cal AI通过大量中小网红推广实现病毒式增长，两年内营收超过3000万美元。今年3月，该公司被MyFitness收购，具体金额未披露。",
+        "generatedAt": "2026-10-16T07:57:34+08:00"
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
+    },
+    {
+      "id": "12fa98d37cbb975f",
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "url": "https://theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 201…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T06:35:55+08:00",
+      "fetchedAt": "2026-10-16T07:57:24+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launch"
+      ],
+      "confidence": 0.67,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "《全面战争：幕府将军2》重制版翻车，世嘉下架停售",
+        "takeaway": "世嘉因重制版Bug频出、疑似AI放大画面遭差评，紧急下架《幕府将军2：完整版》。",
+        "bullets": [
+          "世嘉将《全面战争：幕府将军2 完整版》从各商店下架",
+          "玩家投诉游戏Bug多，画面放大疑似用AI处理",
+          "该作是2011年经典游戏的重制版，首发即翻车"
+        ],
+        "detail": "世嘉下架了《全面战争：幕府将军2 完整版》，原因是这款重制作品发售表现糟糕。玩家反馈游戏存在大量Bug，画面放大效果疑似由AI生成，引发强烈不满。",
+        "generatedAt": "2026-10-16T07:57:35+08:00"
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
+    },
+    {
+      "id": "efa164a3921b8db4",
+      "title": "The tech backlash is now in theaters",
+      "url": "https://theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T05:39:52+08:00",
+      "fetchedAt": "2026-10-16T07:57:24+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "科技反思潮涌入院线：2026年多部电影批判硅谷",
+        "takeaway": "2026年多部电影批判科技巨头，反映公众对硅谷重塑现实的不满。",
+        "bullets": [
+          "2026年多部电影批判科技公司，如《社交清算》聚焦扎克伯格。",
+          "这些影片反映公众对科技巨头影响力的担忧。",
+          "科技反思成为文化现象，可能影响行业形象。"
+        ],
+        "detail": "虽然关于颠覆性科技创始人的电影并不新鲜，但2026年涌现了大量更批判性地审视硅谷如何重塑现实的作品。例如，阿伦·索金的《社交清算》将马克·扎克伯格作为焦点。",
+        "generatedAt": "2026-10-16T07:57:36+08:00"
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
+    },
+    {
+      "id": "ac13ec21a7ae4ad5",
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "url": "https://theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has sev…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T05:09:33+08:00",
+      "fetchedAt": "2026-10-16T07:57:24+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "series"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "特朗普晒白宫翻新照，其中一张被指AI修图",
+        "takeaway": "特朗普在Truth Social发布白宫翻新对比图，其中一张疑似用AI修改，引发对官方信息真实性的关注。",
+        "bullets": [
+          "特朗普在Truth Social发布白宫翻新照片",
+          "其中一张对比图疑似经过AI修改",
+          "图片对比旧柱与“修复后”柱子，细节存疑",
+          "事件引发对AI生成内容用于官方宣传的讨论"
+        ],
+        "detail": "特朗普在Truth Social上发了一组展示白宫翻新工程的照片，但其中一张对比新旧柱子的图看起来被AI动过手脚。这张图把旧柱子和所谓“修复后”的柱子放在一起，细节处有明显修改痕迹。此事让人再次关注AI修图在政治宣传中的使用。",
+        "generatedAt": "2026-10-16T07:57:37+08:00"
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
+    },
+    {
+      "id": "ff08a8815cebb1b5",
+      "title": "**DeepSeek-V4-Flash-0731 on 4x Radeon AI PRO R9700 with affinity: the \"refused\" 4-card config works, ~79 tok/s on real cards**",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x70e5r/deepseekv4flash0731_on_4x_radeon_ai_pro_r9700",
+      "summary": "Follow-up to u/neuromacmd 's post from a few weeks back ( https://www.reddit.com/r/LocalLLaMA/comments/1wod07t/ ). The affinity engine ( https://codeberg.org/StillDeadcode/affinity ) refuses to start on more than two cards because the autho…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T07:06:40+08:00",
+      "fetchedAt": "2026-10-16T07:57:24+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "DeepSeek-V4-Flash 在 4 张 R9700 上跑通，约 79 tok/s",
+        "takeaway": "此前被 affinity 引擎判定不可用的 4 卡配置实测成功，本地推理多卡方案又多一例。",
+        "bullets": [
+          "DeepSeek-V4-Flash-0731 在 4 张 Radeon AI PRO R9700 上成功运行",
+          "affinity 引擎原本限制超过两张卡就无法启动",
+          "实测速度约 79 tok/s，基于真实显卡而非模拟",
+          "是此前相关帖子的后续验证，属社区自发测试"
+        ],
+        "detail": "这是对几周前一篇帖子的跟进。作者使用的 affinity 推理引擎原本因作者设定，超过两张显卡就拒绝启动。但实测表明，4 张 Radeon AI PRO R9700 的配置可以正常跑起 DeepSeek-V4-Flash-0731，速度约 79 tok/s。",
+        "generatedAt": "2026-10-16T07:57:37+08:00"
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "72fc226582635752",
@@ -676,7 +1030,7 @@
       "confidence": 0.33,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Nemotron 3.5 Bolt/Super 与 Qwen 3.8 27B/FN 基准对比",
         "takeaway": "网友从模型卡汇总多款模型跑分，但版本口径不一，对比仅供参考。",
@@ -688,7 +1042,8 @@
         ],
         "detail": "有人把 Nemotron 3.5 Bolt、3.5 Super 和 Qwen 3.8 27B/FN 的模型卡跑分整理到一起。DeepSWE 上 Qwen 两款明显领先，GPQA-Diamond 则四款接近。但部分模型没写清版本，横向对比需谨慎。",
         "generatedAt": "2026-10-16T01:12:29+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "987d7c178614d5bb",
@@ -713,7 +1068,7 @@
       "confidence": 0.2,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Qwen3.8FN 推理实测：vLLM、llama.cpp 与 Ninfer6000 对比",
         "takeaway": "用户实测三款推理方案跑 Qwen3.8-Flash-Next，Ninfer6000 专为 Blackwell 与 Qwen 调优。",
@@ -724,7 +1079,46 @@
         ],
         "detail": "一位用户看到关于 Ninfer6000 的帖子后，决定自己动手测试。Ninfer6000 是 Ninfer 的衍生版本，专门为 6000 Blackwell 显卡和 Qwen3.8-Flash-Next 模型做了优化。他把 vLLM、llama.cpp 和 Ninfer6000 放在一起比较，想看看实际表现如何。",
         "generatedAt": "2026-10-16T05:53:26+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
+    },
+    {
+      "id": "5a00dbf39bd7a355",
+      "title": "model: add Muse Spark Open (text, vision and audio) by ServeurpersoCom · Pull Request #30616 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x6youd/model_add_muse_spark_open_text_vision_and_audio",
+      "summary": "https://huggingface.co/ggml-org/Muse-Spark-Open-816B-A42B-GGUF merged after 4h submitted by /u/jacek2023 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T05:51:31+08:00",
+      "fetchedAt": "2026-10-16T07:57:24+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Muse Spark Open 加入 llama.cpp：支持文本、视觉与音频",
+        "takeaway": "816B 参数 MoE 模型以 GGUF 形式并入 llama.cpp，本地多模态推理再添新选项。",
+        "bullets": [
+          "ServeurpersoCom 提交 PR，为 llama.cpp 新增 Muse Spark Open 支持",
+          "该模型覆盖文本、视觉和音频三种模态",
+          "GGUF 版本为 816B-A42B，已上传至 ggml-org 的 Hugging Face 仓库",
+          "PR 提交约 4 小时后被合并"
+        ],
+        "detail": "有人在 llama.cpp 提交 PR，加入 Muse Spark Open 模型，支持文本、视觉和音频输入。对应的 GGUF 版本是 816B-A42B，已发布在 ggml-org 的 Hugging Face 页面，该 PR 约 4 小时后被合并。",
+        "generatedAt": "2026-10-16T07:57:38+08:00"
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "9289bfdea5d0fc8d",
@@ -747,7 +1141,7 @@
       "confidence": 0,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Ternary Bonsai 2 发布：2B/4B/9B 三档，浏览器本地跑 500 tok/s",
         "takeaway": "三值量化小模型 Bonsai 2 上线 Hugging Face，2B 版可在浏览器本地推理，M4 Max 上最高 500 tok/s。",
@@ -759,7 +1153,8 @@
         ],
         "detail": "Prism ML 在 Hugging Face 上发布了 Ternary Bonsai 2 系列，包含 2B、4B 和 9B 三个版本。其中 2B 模型借助自定义 WebGPU 内核，可以完全在浏览器里本地推理，在 M4 Max 上速度最高达到 500 tok/s。官方还放出了 WebGPU 演示页面，方便直接试用。",
         "generatedAt": "2026-10-16T05:53:27+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "cb3e68379afd0e7b",
@@ -784,7 +1179,7 @@
       "confidence": 1,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "FLUX.3 Image Klein 权重已在 Hugging Face 发布",
         "takeaway": "Black Forest Labs 新图像生成模型开源权重上线，本地部署玩家可第一时间尝鲜。",
@@ -795,7 +1190,8 @@
         ],
         "detail": "Black Forest Labs 已将 FLUX.3 Image Klein 的模型权重发布到 Hugging Face，仓库地址为 black-forest-labs/flux-3-image-klein。该消息由 r/LocalLLaMA 用户分享，称其为更强的图像生成模型，对关注本地部署和开源生图工具的开发者来",
         "generatedAt": "2026-10-16T05:53:28+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "e1c5f3fbbeff9306",
@@ -820,7 +1216,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "国产 GPU 数量激增，为何反而更难用？",
         "takeaway": "国产 GPU 品牌增多导致生态碎片化，开发者适配成本上升，反而降低可用性。",
@@ -831,7 +1227,8 @@
         ],
         "detail": "InfoQ 中国文章指出，国产 GPU 厂商越来越多，但每家都有自己的编程接口和工具链，互不兼容。开发者要针对不同 GPU 分别适配，导致使用门槛和成本不降反升，生态碎片化成为国产算力落地的主要障碍。",
         "generatedAt": "2026-10-15T20:11:48+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "404f7daa3f87c95a",
@@ -856,7 +1253,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "黄仁勋：中国 AI 公司算力很缺，但就是拼命把事情做成",
         "takeaway": "黄仁勋评价中国 AI 公司算力受限却执行力惊人，点出算力短缺与落地能力并存的现状。",
@@ -867,7 +1264,8 @@
         ],
         "detail": "黄仁勋谈到中国 AI 公司时表示，它们面临算力短缺的现实困难，但依然在全力推进、把产品做出来。这番话既点出算力瓶颈，也肯定了中国团队在受限条件下的执行力。",
         "generatedAt": "2026-10-15T20:11:49+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "7a8e3800364605e6",
@@ -890,7 +1288,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "QCon上海聚焦AI落地：企业一号位如何把AI从试点带进业务",
         "takeaway": "QCon上海设AI专题，探讨企业决策者如何让AI从试点走向真实业务。",
@@ -901,7 +1299,8 @@
         ],
         "detail": "InfoQ中国消息，QCon上海将集结“AI侦察团”，围绕企业一号位如何把AI从试点推进到业务展开讨论。活动关注AI在企业的实际落地路径，而非停留在概念验证阶段。",
         "generatedAt": "2026-10-15T20:11:49+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "080930f1b3343932",
@@ -924,7 +1323,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "千问推2218元起AI眼镜，要抢现实世界的上下文",
         "takeaway": "千问发布新AI眼镜，起售价2218元，试图用现实场景上下文突破拍照翻译的局限。",
@@ -935,7 +1334,8 @@
         ],
         "detail": "千问发布新款AI眼镜，起售价2218元。文章指出，仅靠拍照和翻译功能难以让AI眼镜真正普及，千问此次想争夺的是现实世界中的上下文信息，让设备更深入理解用户所处场景。",
         "generatedAt": "2026-10-16T01:12:31+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "8cd920e1e1c9eae1",
@@ -961,7 +1361,8 @@
       "confidence": 0.67,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "90ac7b4578468e9c",
@@ -986,7 +1387,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI 攻击留下烂摊子，AI 公司却不愿买单",
         "takeaway": "强大 AI 模型不断引发混乱，受害者不仅难追责，反被劝说采用同类工具。",
@@ -997,7 +1398,8 @@
         ],
         "detail": "据 Wired AI 报道，强大的 AI 模型持续引发混乱，但被攻击的目标很少寻求法律追责。相反，它们被鼓励采用同样的 AI 工具，而 AI 公司并未为造成的烂摊子买单。",
         "generatedAt": "2026-10-16T05:53:28+08:00"
-      }
+      },
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
       "id": "87dafab8fa4731d9",
@@ -1022,7 +1424,32 @@
       "confidence": 0.5,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
+    },
+    {
+      "id": "9b001f1ba0f57600",
+      "title": "Craziest, strangest, funniest, and weirdest LLM fine tunes?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x6yuc1/craziest_strangest_funniest_and_weirdest_llm_fine",
+      "summary": "I wanna see a master list of the craziest/strangest/funniest LLM tunes. I heard one was talking like an expert in 1800s military vernacular and I figure there's some wacky stuff out there. I want to explore weird and experimental models. Sh…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T05:58:16+08:00",
+      "fetchedAt": "2026-10-16T07:57:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-16T07:57:42+08:00"
     }
   ],
   "topic": "ai"
