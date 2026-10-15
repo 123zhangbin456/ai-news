@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updatedAt": "2026-10-15T08:11:08+08:00",
+  "updatedAt": "2026-10-15T08:40:06+08:00",
   "items": [
     {
       "id": "85e37809c5c8dbe7",
@@ -366,6 +366,44 @@
         ],
         "detail": "OpenAI 一名工程师被指控在公司的绝密会议室里，将录音设备藏进纸巾盒中。FBI 已介入并对其提出外国间谍相关指控。该工程师可能面临最高 5 年监禁和 25 万美元罚款。",
         "generatedAt": "2026-10-15T01:42:26+08:00"
+      }
+    },
+    {
+      "id": "2c3ce0b13a2faeed",
+      "title": "Tree Appreciator",
+      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator",
+      "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows …",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T05:23:01+08:00",
+      "fetchedAt": "2026-10-15T08:39:55+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app",
+        "tool"
+      ],
+      "confidence": 0.5,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Simon Willison 用 Claude 手机版做了个「赏树」小游戏",
+        "takeaway": "知名开发者用 Claude iPhone 聊天模式一句话生成 Three.js 小游戏，展示非编程模式也能出成品。",
+        "bullets": [
+          "作者是开发者 Simon Willison，长期记录 AI 编程实验",
+          "用的是 Claude iPhone 默认聊天模式，而非 Claude Code",
+          "提示词要求用 Three.js 做一个「Tree Appreciator」游戏",
+          "说明手机端聊天也能直接产出可玩的小游戏"
+        ],
+        "detail": "Simon Willison 又做了一次 AI 游戏实验，这次没走 Claude Code，而是直接在 iPhone 上的 Claude 默认聊天模式里，用 Opus 5.5 Max 下了一句提示，让它用 Three.js 做一个叫「Tree Appreciator」的游戏。这属于他一系列用 Claude 随手做小游戏",
+        "generatedAt": "2026-10-15T08:40:06+08:00"
       }
     },
     {
@@ -829,6 +867,43 @@
       }
     },
     {
+      "id": "857f4d17c32ca324",
+      "title": "早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作",
+      "url": "https://ifanr.com/1684374",
+      "summary": "· 苹果公布 HomeView 维修费：保修外服务预估 279 美元 · ASML 第三季度营收 116.62 亿欧元，计划扩产应对 AI 需求 · 9 月消费电子价格普涨，存储设备同比上涨 46.7% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T08:13:28+08:00",
+      "fetchedAt": "2026-10-15T08:39:55+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "备案"
+      ],
+      "confidence": 0.5,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "iPhone Duo 完成大模型备案，预计 12 月上线",
+        "takeaway": "苹果在华 AI 服务通过备案，12 月上线，标志 Apple Intelligence 入华关键进展。",
+        "bullets": [
+          "iPhone Duo 大模型备案完成，有望 12 月上线",
+          "企业微信与 WorkBuddy 打通，提升办公协同",
+          "OPPO 与 Manus 官宣合作，AI 终端生态扩展",
+          "ASML 三季度营收 116.62 亿欧元，计划扩产应对 AI 需求"
+        ],
+        "detail": "苹果 iPhone Duo 大模型完成备案，预计 12 月上线，意味着 Apple Intelligence 入华迈出关键一步。同时企业微信与 WorkBuddy 打通，OPPO 与 Manus 达成合作，AI 生态持续扩展。ASML 三季度营收 116.62 亿欧元，计划扩产应对 AI 需求。",
+        "generatedAt": "2026-10-15T08:40:06+08:00"
+      }
+    },
+    {
       "id": "0f4200d7c3e2aba6",
       "title": "Sabi-Noema: A capability and efficiency focused fine-tune of Qwen 3.8 27B",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x62zrz/sabinoema_a_capability_and_efficiency_focused",
@@ -937,6 +1012,42 @@
         ],
         "detail": "有用户在 LocalLLaMA 分享主观感受：Qwen 3.8 Flash-Next 更愿意参与对话、协作感强，用起来更像一个助手；而 GLM 5.3 Flash 更偏向直接执行任务，不太愿意展开交流。这只是个人体感，并非系统评测。",
         "generatedAt": "2026-10-15T08:11:02+08:00"
+      }
+    },
+    {
+      "id": "cbe669726a888795",
+      "title": "机器人还没找好工作，小鹏为什么先建工厂？",
+      "url": "https://tmtpost.com/8168921.html",
+      "summary": "小鹏已经为IRON准备好了产线、融资和欧洲时间表，却还没完全回答一个最基础的问题：这么多机器人，准备卖给谁，又为什么会有人买？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T08:22:40+08:00",
+      "fetchedAt": "2026-10-15T08:39:55+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "小鹏为IRON机器人建产线，但买家是谁还没答案",
+        "takeaway": "小鹏已备好产线、融资和欧洲时间表，却未回答机器人卖给谁、为何有人买。",
+        "bullets": [
+          "小鹏已为IRON机器人准备好产线、融资和欧洲时间表",
+          "但最基础的问题仍未解答：这么多机器人卖给谁",
+          "为何会有人购买IRON，小鹏尚未给出明确答案"
+        ],
+        "detail": "小鹏在机器人业务上动作很快，产线、融资和欧洲上市时间表都已就位。但报道指出，公司还没说清这些机器人到底卖给谁、客户为什么愿意买单。",
+        "generatedAt": "2026-10-15T08:40:06+08:00"
       }
     },
     {
