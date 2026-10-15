@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updatedAt": "2026-10-15T05:59:43+08:00",
+  "updatedAt": "2026-10-15T08:11:08+08:00",
   "items": [
     {
       "id": "85e37809c5c8dbe7",
@@ -26,7 +26,7 @@
       "confidence": 0.8,
       "score": 64,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Google 发布 Gemini 4 Argon，重返前沿 AI 竞赛",
         "takeaway": "谷歌在观望数月后推出 Gemini 4 Argon，宣称其推理能力可与业界最强模型抗衡。",
@@ -38,6 +38,83 @@
         ],
         "detail": "谷歌在观望数月后，终于推出备受期待的 Gemini 4 Argon。官方称该模型具备前沿推理能力，可与业界顶尖产品竞争，标志着谷歌重新加入前沿 AI 竞赛。",
         "generatedAt": "2026-10-14T02:24:37+08:00"
+      },
+      "pushedAt": "2026-10-15T08:11:08+08:00"
+    },
+    {
+      "id": "2554c446d6772aba",
+      "title": "【钛晨报】中国最新金融数据出炉，债券和股票融资在社融增量中占比近半；含DeepSeek、微信等，151款应用拒绝接入豆包手机助手；恒生指数公司出手，茶百道遭多个指数剔除",
+      "url": "https://tmtpost.com/8168855.html",
+      "summary": "央行今日开展7000亿元期限为6个月的买断式逆回购操作；周生生回应香港门店发生“珠宝大劫案”；嘉元科技预计前三季度净利同比增长1197%-1319%；东百集团终止收购杭州快灵光电部分股权；光刻巨头CEO：订单已经谈到2030年；一箭十星，朱雀二号改进型遥四运载火箭发射成功。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T07:20:00+08:00",
+      "fetchedAt": "2026-10-15T08:10:39+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "收购",
+        "亿元",
+        "股权"
+      ],
+      "confidence": 0.33,
+      "score": 64,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "钛晨报：社融增量中债券股票融资占比近半，151款应用拒接豆包助手",
+        "takeaway": "金融数据与科技生态同日更新：直接融资占比提升，豆包手机助手遭多数应用拒绝接入。",
+        "bullets": [
+          "央行开展7000亿元6个月买断式逆回购操作",
+          "含DeepSeek、微信等151款应用拒绝接入豆包手机助手",
+          "恒生指数公司出手，茶百道遭多个指数剔除"
+        ],
+        "detail": "最新金融数据显示，债券和股票融资在社融增量中占比接近一半。同时，含DeepSeek、微信在内的151款应用拒绝接入豆包手机助手。恒生指数公司则将茶百道从多个指数中剔除。",
+        "generatedAt": "2026-10-15T08:10:56+08:00"
+      },
+      "pushedAt": "2026-10-15T08:11:08+08:00"
+    },
+    {
+      "id": "e422d5ed36814fbc",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "url": "https://theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, N…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T05:11:28+08:00",
+      "fetchedAt": "2026-10-15T08:10:39+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 0.5,
+      "score": 59,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "美国八州起诉 OpenAI，指 ChatGPT 对儿童不安全",
+        "takeaway": "八州指控 OpenAI 危害儿童并误导用户，AI 未成年人保护监管压力升级。",
+        "bullets": [
+          "爱荷华、堪萨斯等八州分别提起诉讼",
+          "指控 ChatGPT 危害儿童、安全宣传误导用户",
+          "OpenAI 面临新一轮法律与监管压力"
+        ],
+        "detail": "据路透社报道，美国八个州分别对 OpenAI 提起诉讼，指控其产品危害儿童，并在 ChatGPT 的安全性上误导消费者。这是 OpenAI 在未成年人保护问题上遭遇的又一轮法律挑战。",
+        "generatedAt": "2026-10-15T08:10:56+08:00"
       }
     },
     {
@@ -645,6 +722,76 @@
       }
     },
     {
+      "id": "d3bb9ef55af64792",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger publ…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T08:00:00+08:00",
+      "fetchedAt": "2026-10-15T08:10:39+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gudea 用 AI 帮企业提前化解社交媒体危机",
+        "takeaway": "这家公司想用 AI 在负面舆情爆发前预警，帮组织避免社交媒体危机。",
+        "bullets": [
+          "Gudea 利用 AI 监测社交媒体和网站上的对话",
+          "可识别 AI 虚假信息、仇恨言论和有害谣言",
+          "目标是在危机爆发前提前预警并干预"
+        ],
+        "detail": "每天全球社交媒体和网站上都有大量对话发生，一条看似不起眼的帖子——无论是 AI 生成的虚假信息、仇恨言论还是破坏性谣言——都可能迅速发酵成更大的公关危机。Gudea 希望用 AI 帮助组织在危机爆发前就发现并应对这些苗头。",
+        "generatedAt": "2026-10-15T08:10:59+08:00"
+      }
+    },
+    {
+      "id": "09ee95f81d332b3c",
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "url": "https://theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aim…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T06:53:31+08:00",
+      "fetchedAt": "2026-10-15T08:10:39+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "interview"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "麦肯锡面试新招：让求职者与AI假客户对谈10分钟",
+        "takeaway": "麦肯锡在入门级招聘中引入AI模拟客户面试，考察实战沟通能力，或成咨询业招聘新趋势。",
+        "bullets": [
+          "麦肯锡要求部分入门级候选人面试时与AI模拟客户对话10分钟",
+          "该AI模拟旨在测试候选人的沟通与应变能力",
+          "此举可能推动咨询行业招聘流程的AI化"
+        ],
+        "detail": "据《华尔街日报》报道，麦肯锡将在部分入门级岗位面试中，让候选人与AI模拟的客户进行10分钟对话。该模拟旨在评估求职者的实战沟通能力，可能成为咨询行业招聘的新方式。",
+        "generatedAt": "2026-10-15T08:10:59+08:00"
+      }
+    },
+    {
       "id": "98d87062d63bbd59",
       "title": "qwen3.8-flash-next-iq3_s vs -27B-GGUF:UD-Q4_K_XL",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x5vfs2/qwen38flashnextiq3_s_vs_27bggufudq4_k_xl",
@@ -715,6 +862,81 @@
         ],
         "detail": "作者在 r/LocalLLaMA 公布了基于 Qwen 3.8 27B 的两个后训练版本：Sabi-Noema 与 Sabi-Noema-MLA。据其说法，这两个微调模型同时推进了小模型的能力上限和推理效率，具体细节原文未完全展开。",
         "generatedAt": "2026-10-15T05:59:42+08:00"
+      }
+    },
+    {
+      "id": "3910419b9c323582",
+      "title": "176 t/s decode and 6,450 t/s prefill with Q4 Qwen-3.8 Flash-Next on 2xR9700 + 64GB DDR5 using Deadcode's Radiance engine",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x640u6/176_ts_decode_and_6450_ts_prefill_with_q4_qwen38",
+      "summary": "https://preview.redd.it/kudj7xii5ivh1.png?width=1508&format=png&auto=webp&s=07712e81310b81aceb2cf8f4d8a7c2eadeb0c304 Just built a new PC, full parts list is here. I am using Deadcode's Radiance inference engine , optimized for 2xR9700 and h…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T05:44:00+08:00",
+      "fetchedAt": "2026-10-15T08:10:39+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "preview",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "双 R9700 跑 Qwen 量化模型：解码 176 t/s，预填充 6450 t/s",
+        "takeaway": "本地推理玩家用双 R9700 加 DDR5 内存，在 Deadcode 的 Radiance 引擎上跑出高吞吐。",
+        "bullets": [
+          "硬件为两块 R9700 显卡加 64GB DDR5 内存",
+          "使用 Deadcode 的 Radiance 推理引擎，针对该配置优化",
+          "模型为 Q4 量化的 Qwen-3.8 Flash-Next",
+          "解码 176 t/s、预填充 6450 t/s，属本地推理高水准"
+        ],
+        "detail": "一位用户新装了一台 PC，用两块 R9700 显卡和 64GB DDR5 内存，搭配 Deadcode 的 Radiance 推理引擎，跑 Q4 量化的 Qwen-3.8 Flash-Next 模型。实测解码速度 176 t/s，预填充高达 6450 t/s，展示了消费级硬件本地跑大模型的潜力。",
+        "generatedAt": "2026-10-15T08:10:59+08:00"
+      }
+    },
+    {
+      "id": "c30eb154a164ff47",
+      "title": "Qwen 3.8 Flash-Next compared to GLM 5.3 Flash",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x6533a/qwen_38_flashnext_compared_to_glm_53_flash",
+      "summary": "Anecdotally, I've noticed that QFN seems more collaborative than GLM. QFN seems willing to engage in conversation. It feels more like an assistant. GLM seems more action-oriented and less willing to converse. That is, I ask GLM a question t…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T06:29:11+08:00",
+      "fetchedAt": "2026-10-15T08:10:39+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 Flash-Next 与 GLM 5.3 Flash 对比：一个更像助手，一个更偏执行",
+        "takeaway": "用户体感对比两款新模型：QFN 更愿对话协作，GLM 更偏行动导向、不爱闲聊。",
+        "bullets": [
+          "Reddit 用户主观对比 Qwen 3.8 Flash-Next 与 GLM 5.3 Flash",
+          "QFN 被形容为更愿交流、更像助手",
+          "GLM 被认为行动导向更强、对话意愿偏低",
+          "仅为个人体感，非正式评测，结论需谨慎参考"
+        ],
+        "detail": "有用户在 LocalLLaMA 分享主观感受：Qwen 3.8 Flash-Next 更愿意参与对话、协作感强，用起来更像一个助手；而 GLM 5.3 Flash 更偏向直接执行任务，不太愿意展开交流。这只是个人体感，并非系统评测。",
+        "generatedAt": "2026-10-15T08:11:02+08:00"
       }
     },
     {
