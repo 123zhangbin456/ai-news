@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updatedAt": "2026-10-15T08:11:08+08:00",
+  "updatedAt": "2026-10-16T01:12:31+08:00",
   "items": [
     {
       "id": "3de4eca6731ce8a8",
@@ -3540,6 +3540,29 @@
       "pushed": false
     },
     {
+      "id": "49aae9e462bc00ae",
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic",
+      "summary": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In Ma…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T07:00:06+08:00",
+      "fetchedAt": "2026-10-16T01:12:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "94178e6833800768",
       "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
       "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling",
@@ -4075,6 +4098,31 @@
       "keywords": [],
       "confidence": 0,
       "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a23dc4d7f9f970a7",
+      "title": "从 Agent 到 Loop：AI 正如何重构软件工程？｜QCon 上海 2026 即将开幕",
+      "url": "https://oschina.net/event/8598415",
+      "summary": "10 月 22—24 日，来自阿里巴巴、腾讯、字节跳动、美团、小红书、蚂蚁集团、无问芯穹、阶跃星辰、快手、百度、网易、微软、华为、携程、平安等企业的一线技术实践者，将从 AI 应用、Agent 工程、AI Coding、基础设施、数据系统、质量、安全、SRE 以及具身智能等方向，分享 AI 进入真实生产环境之后正在发生的变化。...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-14T13:13:53+08:00",
+      "fetchedAt": "2026-10-16T01:12:12+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "应用"
+      ],
+      "confidence": 1,
+      "score": 24,
       "related": [],
       "pushed": false
     }
