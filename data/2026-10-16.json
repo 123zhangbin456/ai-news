@@ -1,7 +1,80 @@
 {
   "date": "2026-10-16",
-  "updatedAt": "2026-10-16T01:12:31+08:00",
+  "updatedAt": "2026-10-16T05:53:28+08:00",
   "items": [
+    {
+      "id": "d5bac5a69bce90a0",
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T04:04:53+08:00",
+      "fetchedAt": "2026-10-16T05:53:11+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launch",
+        "launches"
+      ],
+      "confidence": 1,
+      "score": 59,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 联手苹果发布开源权重模型，可在 Mac 本地运行",
+        "takeaway": "Meta 新模型 Muse Spark Open 借苹果芯片本地跑，开源权重加 Mac 生态是看点。",
+        "bullets": [
+          "Meta 发布开源权重模型 Muse Spark Open",
+          "与苹果合作，可在 Apple 芯片 Mac 上本地运行",
+          "本地运行意味着数据不必上传云端"
+        ],
+        "detail": "Meta 与苹果联手推出其最新模型 Muse Spark Open，采用开放权重，可直接在搭载 Apple 芯片的 Mac 上本地运行。这是 Meta 在开源模型路线上的新动作，也借助苹果硬件把 AI 能力带到个人设备端。",
+        "generatedAt": "2026-10-16T05:53:20+08:00"
+      }
+    },
+    {
+      "id": "a4975bebfd36893f",
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "url": "https://theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 U…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T02:15:36+08:00",
+      "fetchedAt": "2026-10-16T05:53:11+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 与苹果联手，让 Muse AI 模型在 Mac 上跑得更顺",
+        "takeaway": "Meta 发布号称美国最强开源权重模型 Muse Spark，并首次与苹果合作优化 Mac 端运行。",
+        "bullets": [
+          "Meta 推出 Muse Spark 开源 AI 模型，自称美国最强开源权重模型",
+          "该模型首次可在搭载两颗苹果 M5 芯片的桌面设备上本地运行",
+          "Meta 与苹果合作，让 Muse AI 模型在 Mac 上表现更好"
+        ],
+        "detail": "Meta 今天发布 Muse Spark 开放 AI 模型，称其是目前美国能力最强的开放权重模型。公司还表示，这是同类模型中首个能在桌面端运行的产品，借助两颗苹果 M5 芯片即可本地跑起来，背后有 Meta 与苹果的合作优化。",
+        "generatedAt": "2026-10-16T05:53:20+08:00"
+      }
+    },
     {
       "id": "a8e203058965de43",
       "title": "Android is using AI to suss out scammers in Google Messages",
@@ -77,6 +150,40 @@
       }
     },
     {
+      "id": "e925c3137a8af8ad",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access",
+      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T03:14:26+08:00",
+      "fetchedAt": "2026-10-16T05:53:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 向 METR 开放员工级访问权限",
+        "takeaway": "Anthropic 允许 METR 深入内部评估风险，并放弃否决其发布结论的权利。",
+        "bullets": [
+          "METR 研究人员获员工级权限，可查看 Anthropic 内部运作",
+          "METR 将独立发布对 Anthropic 风险、事件和做法的评估",
+          "Anthropic 放弃阻止 METR 发布评估结果的权利"
+        ],
+        "detail": "Anthropic 给了 METR 研究人员类似员工的访问权限，让他们能深入了解公司内部。METR 会自行发布对 Anthropic 风险、事故和做法的评估，而 Anthropic 已放弃阻止这些评估发布的权利。",
+        "generatedAt": "2026-10-16T05:53:20+08:00"
+      }
+    },
+    {
       "id": "bd9590f3e81292e5",
       "title": "蚂蚁百灵开源 560B 模型 Ling-3.0-flash：0.19 美元搞定复杂工作流",
       "url": "https://infoq.cn/article/SxQO3Aw6JCTgNMTGPPE8",
@@ -113,6 +220,42 @@
       }
     },
     {
+      "id": "7b45a5eb01c2a2c8",
+      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+      "url": "https://wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview",
+      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T05:18:15+08:00",
+      "fetchedAt": "2026-10-16T05:53:11+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "feature"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta Muse 新功能引热议，苹果 HomeView 让人困惑",
+        "takeaway": "本周 Uncanny Valley 播客聚焦 Meta Muse 意外功能、AI 超级 PAC 暗金和男性夸大 AI 认知的现象。",
+        "bullets": [
+          "Meta 的 Muse 出现一个意想不到的功能，引发讨论",
+          "最大亲 AI 超级 PAC 的支出不透明，值得关注",
+          "研究显示男性倾向于夸大自己对 AI 的了解程度"
+        ],
+        "detail": "本周播客节目 Uncanny Valley 探讨了 Meta 旗下 Muse 的一个意外功能，同时揭露了最大亲 AI 超级政治行动委员会的神秘支出，并聊到男性在 AI 知识上爱吹牛的现象。",
+        "generatedAt": "2026-10-16T05:53:22+08:00"
+      }
+    },
+    {
       "id": "b0450d12d28b5a17",
       "title": "Archestra 发布 OpenAPPA，用于防范提示词注入或模型幻觉引发的数据外泄",
       "url": "https://infoq.cn/article/LQCqiPUzgZyB3v24rsNO",
@@ -146,6 +289,42 @@
         ],
         "detail": "Archestra 发布了名为 OpenAPPA 的新工具，主要用来防范两类风险：提示词注入攻击，以及模型产生幻觉时可能造成的数据外泄。目前公开信息有限，具体机制和适用范围尚待官方进一步说明。",
         "generatedAt": "2026-10-15T20:11:42+08:00"
+      }
+    },
+    {
+      "id": "a983409c8d0b9cd0",
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps",
+      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T03:55:25+08:00",
+      "fetchedAt": "2026-10-16T05:53:11+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "亚马逊设备主管：未来AI设备将取代App，主动预判需求",
+        "takeaway": "亚马逊设备负责人潘诺斯·帕奈在TechCrunch Disrupt上预测，环境AI设备将取代App，主动服务用户。",
+        "bullets": [
+          "帕奈认为未来AI设备在后台运行，主动预判需求而非等待指令",
+          "这一愿景意味着用户不再需要打开App来完成任务",
+          "亚马逊是智能设备主要玩家，其表态可能影响行业方向"
+        ],
+        "detail": "在TechCrunch Disrupt活动上，亚马逊设备主管帕诺斯·帕奈描绘了未来图景：环境AI设备在后台默默工作，提前预判用户需求，而不是被动等待命令。他认为这将取代人们使用App的必要性。",
+        "generatedAt": "2026-10-16T05:53:23+08:00"
       }
     },
     {
@@ -293,6 +472,187 @@
       }
     },
     {
+      "id": "a01e02239da0a38e",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T04:34:01+08:00",
+      "fetchedAt": "2026-10-16T05:53:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Granite Switch 4.1 发布：一个端点搞定对话、决策与语音",
+        "takeaway": "IBM 的 Granite 模型更新，把聊天、决策和语音能力整合到单一接口，简化多模态调用。",
+        "bullets": [
+          "Granite Switch 4.1 在 Hugging Face 上发布",
+          "一个端点同时提供聊天、决策和语音功能",
+          "开发者无需切换多个模型或接口"
+        ],
+        "detail": "IBM 在 Hugging Face 上发布了 Granite Switch 4.1，主打用一个端点统一处理聊天、决策和语音任务。这意味着开发者不必再为不同模态分别调用模型，可以简化集成流程。目前官方未公布具体参数和性能数据。",
+        "generatedAt": "2026-10-16T05:53:22+08:00"
+      }
+    },
+    {
+      "id": "fc710191e832cb3b",
+      "title": "Chirp Pong",
+      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong",
+      "summary": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work! Build a t…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T03:47:52+08:00",
+      "fetchedAt": "2026-10-16T05:53:11+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tool"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Simon Willison 用声波做双机对战游戏 Chirp Pong",
+        "takeaway": "两台手机靠麦克风收发声波通信，纯静态 HTML 实现双人对战，验证了无网络连接也能联机。",
+        "bullets": [
+          "两台手机各自运行静态 HTML 页面，无需服务器或网络连接",
+          "通信靠麦克风发送和接收声波（chirp）完成",
+          "作者 Simon Willison 称实验可行，游戏已能运行"
+        ],
+        "detail": "这是 Simon Willison 的又一个游戏实验。他想验证：两台独立手机在纯静态 HTML 下，能否用麦克风声波代替网络来联机对战。结果证明可行，Chirp Pong 已经能跑起来。",
+        "generatedAt": "2026-10-16T05:53:24+08:00"
+      }
+    },
+    {
+      "id": "35f04bc99ba5e049",
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more",
+      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T02:56:46+08:00",
+      "fetchedAt": "2026-10-16T05:53:11+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app",
+        "users"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Bluesky 将 AI 应用 Attie 开放给所有人，可建网站和游戏",
+        "takeaway": "Bluesky 把实验性 AI 平台 Attie 向所有用户开放，主打“社交氛围编程”，能直接触达其社交网络受众。",
+        "bullets": [
+          "Attie 是 Bluesky 的实验性 AI 应用，现已向所有人开放",
+          "用户可创建游戏、测验、网站等互动内容",
+          "作品能直接接入 Bluesky 的社交网络受众",
+          "Bluesky 将这一模式称为“社交氛围编程”"
+        ],
+        "detail": "Bluesky 正在把“社交氛围编程”带到其实验性平台 Attie 上。现在任何人都能用它创建游戏、测验、网站等互动体验，并直接触达 Bluesky 社交网络里的用户。",
+        "generatedAt": "2026-10-16T05:53:24+08:00"
+      }
+    },
+    {
+      "id": "d9d8114df72167e6",
+      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16",
+      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest quest…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T02:00:00+08:00",
+      "fetchedAt": "2026-10-16T05:53:11+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "founder"
+      ],
+      "confidence": 0.25,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "TechCrunch创始人峰会早鸟票10月16日截止，最高省200美元",
+        "takeaway": "TechCrunch创始人峰会早鸟优惠即将结束，最高可省200美元，面向创始人和投资人。",
+        "bullets": [
+          "早鸟优惠10月16日（周五）截止，最高省200美元",
+          "适用创始人票和投资人票，过期恢复原价",
+          "峰会11月4日在波士顿SoWa Power Station举行",
+          "预计约1000名创始人和投资人参加"
+        ],
+        "detail": "TechCrunch创始人峰会的早鸟优惠将于10月16日结束，创始人票和投资人票最高可省200美元。峰会定于11月4日在波士顿SoWa Power Station举行，预计约1000名创始人和投资人到场交流。",
+        "generatedAt": "2026-10-16T05:53:24+08:00"
+      }
+    },
+    {
+      "id": "661320cc40ff6411",
+      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+      "url": "https://theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own website…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T03:57:16+08:00",
+      "fetchedAt": "2026-10-16T05:53:11+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tool"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Bluesky 的 AI 工具 Attie 现在能帮你做小游戏和社交应用",
+        "takeaway": "Bluesky 的 AI 工具 Attie 从只能做信息流，升级到能生成小游戏、投票和仪表盘并分享。",
+        "bullets": [
+          "Attie 今年早些时候推出，最初用于 AI 生成自定义信息流",
+          "现在可制作小游戏、投票、仪表盘等轻量社交应用",
+          "生成的应用能作为独立网站分享给其他人"
+        ],
+        "detail": "Bluesky 的 AI 工具 Attie 最初只能帮你用 AI 搭建自己的信息流。现在它扩展了能力，可以生成小游戏、投票和仪表盘这类“小型”社交应用，并作为独立网站分享给别人。",
+        "generatedAt": "2026-10-16T05:53:26+08:00"
+      }
+    },
+    {
       "id": "72fc226582635752",
       "title": "Nemotron 3.5 Bolt vs Nemo 3.5 Super vs Qwen 3.8 27B/FN",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x6qc3j/nemotron_35_bolt_vs_nemo_35_super_vs_qwen_38_27bfn",
@@ -328,6 +688,113 @@
         ],
         "detail": "有人把 Nemotron 3.5 Bolt、3.5 Super 和 Qwen 3.8 27B/FN 的模型卡跑分整理到一起。DeepSWE 上 Qwen 两款明显领先，GPQA-Diamond 则四款接近。但部分模型没写清版本，横向对比需谨慎。",
         "generatedAt": "2026-10-16T01:12:29+08:00"
+      }
+    },
+    {
+      "id": "987d7c178614d5bb",
+      "title": "Qwen3.8FN vLLM vs. llama.cpp vs Ninfer6000",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x6wtqd/qwen38fn_vllm_vs_llamacpp_vs_ninfer6000",
+      "summary": "I saw u/lkarlslund 's post just over a week ago regarding Ninfer6000 (a fork of Ninfer specifically tuned for 6000 blackwell and Qwen3.8-Flash-Next) and figured \"Hey I'm an idiot & bought one of those and I primarily use that model, lets tr…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T04:34:35+08:00",
+      "fetchedAt": "2026-10-16T05:53:11+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "Blackwell"
+      ],
+      "confidence": 0.2,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen3.8FN 推理实测：vLLM、llama.cpp 与 Ninfer6000 对比",
+        "takeaway": "用户实测三款推理方案跑 Qwen3.8-Flash-Next，Ninfer6000 专为 Blackwell 与 Qwen 调优。",
+        "bullets": [
+          "发帖人受一周前 Ninfer6000 帖子启发，决定亲自测试",
+          "Ninfer6000 是 Ninfer 的分支，针对 6000 Blackwell 和 Qwen3.8-Flash-Next 调优",
+          "对比对象为 vLLM 与 llama.cpp，发帖人自购硬件并主用该模型"
+        ],
+        "detail": "一位用户看到关于 Ninfer6000 的帖子后，决定自己动手测试。Ninfer6000 是 Ninfer 的衍生版本，专门为 6000 Blackwell 显卡和 Qwen3.8-Flash-Next 模型做了优化。他把 vLLM、llama.cpp 和 Ninfer6000 放在一起比较，想看看实际表现如何。",
+        "generatedAt": "2026-10-16T05:53:26+08:00"
+      }
+    },
+    {
+      "id": "9289bfdea5d0fc8d",
+      "title": "Ternary Bonsai 2 (2B, 4B, and 9B) just released on Hugging Face. The 2B can run entirely locally in the browser at up to 500 tok/s on an M4 Max with custom WebGPU kernels.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x6w658/ternary_bonsai_2_2b_4b_and_9b_just_released_on",
+      "summary": "Models on HF: https://huggingface.co/collections/prism-ml/bonsai-2-small WebGPU demo: https://huggingface.co/spaces/webml-community/ternary-bonsai-2-hermes-webgpu submitted by /u/xenovatech [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T04:09:00+08:00",
+      "fetchedAt": "2026-10-16T05:53:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Ternary Bonsai 2 发布：2B/4B/9B 三档，浏览器本地跑 500 tok/s",
+        "takeaway": "三值量化小模型 Bonsai 2 上线 Hugging Face，2B 版可在浏览器本地推理，M4 Max 上最高 500 tok/s。",
+        "bullets": [
+          "Bonsai 2 提供 2B、4B、9B 三个规模，已发布在 Hugging Face",
+          "2B 版配合定制 WebGPU 内核，可完全在浏览器本地运行",
+          "在 M4 Max 上实测速度最高可达 500 tok/s",
+          "官方同时提供了 WebGPU 在线演示，可直接体验"
+        ],
+        "detail": "Prism ML 在 Hugging Face 上发布了 Ternary Bonsai 2 系列，包含 2B、4B 和 9B 三个版本。其中 2B 模型借助自定义 WebGPU 内核，可以完全在浏览器里本地推理，在 M4 Max 上速度最高达到 500 tok/s。官方还放出了 WebGPU 演示页面，方便直接试用。",
+        "generatedAt": "2026-10-16T05:53:27+08:00"
+      }
+    },
+    {
+      "id": "cb3e68379afd0e7b",
+      "title": "FLUX.3 Image Klein just got weights published on hugging face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x6t5fc/flux3_image_klein_just_got_weights_published_on",
+      "summary": "https://huggingface.co/black-forest-labs/flux-3-image-klein Better image generation model submitted by /u/wapswaps [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T02:14:35+08:00",
+      "fetchedAt": "2026-10-16T05:53:11+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "weights"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "FLUX.3 Image Klein 权重已在 Hugging Face 发布",
+        "takeaway": "Black Forest Labs 新图像生成模型开源权重上线，本地部署玩家可第一时间尝鲜。",
+        "bullets": [
+          "Black Forest Labs 在 Hugging Face 放出 FLUX.3 Image Klein 权重",
+          "被 r/LocalLLaMA 用户称为更强的图像生成模型",
+          "开源权重意味着可本地运行与二次开发"
+        ],
+        "detail": "Black Forest Labs 已将 FLUX.3 Image Klein 的模型权重发布到 Hugging Face，仓库地址为 black-forest-labs/flux-3-image-klein。该消息由 r/LocalLLaMA 用户分享，称其为更强的图像生成模型，对关注本地部署和开源生图工具的开发者来",
+        "generatedAt": "2026-10-16T05:53:28+08:00"
       }
     },
     {
@@ -493,6 +960,67 @@
       ],
       "confidence": 0.67,
       "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "90ac7b4578468e9c",
+      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+      "url": "https://wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up",
+      "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T05:00:28+08:00",
+      "fetchedAt": "2026-10-16T05:53:11+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tools"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 攻击留下烂摊子，AI 公司却不愿买单",
+        "takeaway": "强大 AI 模型不断引发混乱，受害者不仅难追责，反被劝说采用同类工具。",
+        "bullets": [
+          "AI 模型被滥用造成破坏，但受害方很少追究责任",
+          "AI 公司未承担善后成本，反而推动受害者使用 AI",
+          "这种模式可能让 AI 风险持续外溢，缺乏问责机制"
+        ],
+        "detail": "据 Wired AI 报道，强大的 AI 模型持续引发混乱，但被攻击的目标很少寻求法律追责。相反，它们被鼓励采用同样的 AI 工具，而 AI 公司并未为造成的烂摊子买单。",
+        "generatedAt": "2026-10-16T05:53:28+08:00"
+      }
+    },
+    {
+      "id": "87dafab8fa4731d9",
+      "title": "I turned a transformer into a game console that runs Pong, Tetris, Space Invaders and 116 more games.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x6uaav/i_turned_a_transformer_into_a_game_console_that",
+      "summary": "I turned a CHIP-8 game console into a decoder-only transformer. The transformer is the game engine. It executes instructions, updates machine memory, and renders every frame through next-token prediction. Every generated token is a memory w…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T02:57:13+08:00",
+      "fetchedAt": "2026-10-16T05:53:11+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip"
+      ],
+      "confidence": 0.5,
+      "score": 30,
       "related": [],
       "pushed": false
     }
