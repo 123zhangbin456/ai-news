@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updatedAt": "2026-10-15T09:56:19+08:00",
+  "updatedAt": "2026-10-15T14:37:49+08:00",
   "items": [
     {
       "id": "85e37809c5c8dbe7",
@@ -225,6 +225,42 @@
       }
     },
     {
+      "id": "dc8ed83789af1116",
+      "title": "全球首款 ！中国团队把游戏世界模型塞进一张5090，还开源了",
+      "url": "https://qbitai.com/2026/10/503353.html",
+      "summary": "给视频模型套上Harness",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T11:50:51+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 1,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "中国团队开源全球首款游戏世界模型，单张5090可跑",
+        "takeaway": "中国团队把游戏世界模型塞进一张RTX 5090并开源，给视频模型套上Harness，降低世界模型门槛。",
+        "bullets": [
+          "全球首款游戏世界模型，由中国团队研发并开源",
+          "可运行在单张RTX 5090上，硬件门槛大幅降低",
+          "方法是为视频模型套上Harness，实现游戏世界模拟"
+        ],
+        "detail": "中国团队推出全球首款游戏世界模型，并宣布开源。该模型通过给视频模型套上Harness，使其能模拟游戏世界，且只需一张RTX 5090显卡即可运行。这降低了世界模型的硬件门槛，为游戏AI和视频生成研究提供了新工具。",
+        "generatedAt": "2026-10-15T14:37:38+08:00"
+      }
+    },
+    {
       "id": "a99ceaade512911d",
       "title": "Cloudflare 正式发布 Python Workers，但关于冷启动和上游维护的问题仍待解答",
       "url": "https://infoq.cn/article/fycaxN0NvWHBq6B7d3zY",
@@ -294,6 +330,116 @@
         ],
         "detail": "YouTube Music 上线了新的 AI 音乐标签，会在播放页面显示。被标记的歌曲可能是完全由 AI 生成，也可能是部分环节用了 AI，比如作曲或人声。这是流媒体平台应对 AI 音乐泛滥的最新动作。",
         "generatedAt": "2026-10-15T05:59:37+08:00"
+      }
+    },
+    {
+      "id": "a31460539e3df108",
+      "title": "有预言家！A社研究蓝图曝光，Claude Code来自5年前",
+      "url": "https://qbitai.com/2026/10/503341.html",
+      "summary": "冷汗时刻",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T10:13:29+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic研究蓝图曝光：Claude Code五年前就已规划",
+        "takeaway": "Anthropic内部研究蓝图显示，Claude Code的雏形早在五年前就被预判，战略前瞻性引发关注。",
+        "bullets": [
+          "量子位曝光Anthropic早期研究蓝图",
+          "Claude Code的构想可追溯到五年前",
+          "被称「预言家」，凸显其路线规划之早"
+        ],
+        "detail": "据量子位报道，Anthropic一份早期研究蓝图被翻出，其中已包含类似Claude Code的构想，时间可追溯到五年前。这意味着如今大热的编程智能体并非临时起意，而是长期路线的一部分，因此被形容为「预言家」时刻。",
+        "generatedAt": "2026-10-15T14:37:37+08:00"
+      }
+    },
+    {
+      "id": "6d0192d9f64c11bf",
+      "title": "DeepSeek服务器全球宕机！神秘Harness账号同时现身",
+      "url": "https://qbitai.com/2026/10/503326.html",
+      "summary": "网友集体崩溃：新模型要来了？",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T10:04:09+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "新模型",
+        "DeepSeek"
+      ],
+      "confidence": 0.5,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 全球宕机，神秘 Harness 账号同时现身",
+        "takeaway": "DeepSeek 服务器全球宕机，同时冒出神秘 Harness 账号，网友猜测新模型将至。",
+        "bullets": [
+          "DeepSeek 服务器全球范围宕机，用户无法正常访问",
+          "一个名为 Harness 的神秘账号同时出现，引发关注",
+          "网友猜测宕机可能与新模型发布有关"
+        ],
+        "detail": "DeepSeek 服务器在全球范围内出现宕机，用户集体崩溃。与此同时，一个神秘的 Harness 账号现身，引发外界猜测。不少人认为这可能是新模型即将发布的信号。",
+        "generatedAt": "2026-10-15T14:37:37+08:00"
+      }
+    },
+    {
+      "id": "b80fa7a3e32782e9",
+      "title": "成立不到半年融资数亿元，98年清华学者、KAN一作创业：让AI学会设计模型",
+      "url": "https://infoq.cn/article/QdPWpubQFmegrsH9UZFC",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T18:30:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "亿元"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "清华KAN一作创业半年融资数亿元，让AI自己设计模型",
+        "takeaway": "98年清华学者、KAN论文一作创办的公司成立不到半年即获数亿元融资，方向是让AI自动设计模型。",
+        "bullets": [
+          "公司成立不到半年完成数亿元融资",
+          "创始人系98年清华学者、KAN论文一作",
+          "核心方向是让AI学会设计AI模型"
+        ],
+        "detail": "据InfoQ中国报道，一位1998年出生的清华学者、KAN论文第一作者创业，公司成立不到半年便融资数亿元。其目标方向是让AI自动设计模型，即用AI来改进和生成AI架构本身。",
+        "generatedAt": "2026-10-15T14:37:39+08:00"
       }
     },
     {
@@ -407,6 +553,44 @@
       }
     },
     {
+      "id": "25be3c1314c1ad1f",
+      "title": "AI 编程工具 OpenCode 2.0 正式发布，能让模型写脚本调度工具",
+      "url": "https://oschina.net/news/503031/opencode-2-0",
+      "summary": "OpenCode 2.0 已正式发布，官方称其是“重大更新”（major overhaul）。据称此版本吸收了数百万日活用户的经验，旨在交付一个“能伸缩到智能体需要的一切”的系统。新功能很多，这里挑几个对用户影响最大的说。一个常驻后台的服务 OpenCode 从一开始就采用了客户端/服务器模型，但默认没真正用起来，只有重度用户会用到...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T10:41:45+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "功能",
+        "客户",
+        "日活"
+      ],
+      "confidence": 0.14,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenCode 2.0 发布：让模型写脚本调度工具",
+        "takeaway": "AI 编程工具 OpenCode 迎来重大更新，模型可自己写脚本调度工具，扩展性大幅提升。",
+        "bullets": [
+          "OpenCode 2.0 正式发布，官方称是吸收数百万日活经验的重大更新",
+          "新版本让模型能写脚本调度工具，系统可伸缩到智能体所需的一切",
+          "延续客户端/服务器模型，常驻后台服务从重度用户专属变为默认可用"
+        ],
+        "detail": "OpenCode 2.0 正式发布，官方称这是吸收数百万日活用户经验的重大更新。新版本让模型能自己写脚本调度工具，目标是交付一个可伸缩到智能体所需一切的系统。它还启用了原本只有重度用户才用的常驻后台服务。",
+        "generatedAt": "2026-10-15T14:37:39+08:00"
+      }
+    },
+    {
       "id": "c8b781f8f75360f0",
       "title": "Tessera-27B-B-CJK, Zellige AIs new finetune of Qwen with novel approaches to how we think about token savings",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x5xm28/tessera27bbcjk_zellige_ais_new_finetune_of_qwen",
@@ -480,6 +664,42 @@
         ],
         "detail": "有用户在 LocalLLaMA 发帖，说自己用 128GB 内存的 M1 Ultra Mac Studio，想知道能同时跑这两款模型的人会怎么选。他提到 DeepSeek V4 Flash 的跑分紧贴 GPT-5.5 high，而 Qwen 3.8 Flash Next 略高于 GPT-5.4/5.5 xhigh，两者",
         "generatedAt": "2026-10-15T05:59:39+08:00"
+      }
+    },
+    {
+      "id": "ec3367c3a59c1715",
+      "title": "从 App 到 Agent：字节跳动 Supabase 的 Agent-Native 规模化实践｜QCon上海",
+      "url": "https://infoq.cn/article/kvzkXDXpKOXILlfirftW",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T18:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "字节跳动谈 Agent-Native 规模化实践",
+        "takeaway": "字节跳动分享从 App 到 Agent 的架构演进，探讨 Agent 原生应用如何规模化落地。",
+        "bullets": [
+          "字节跳动在 QCon 上海分享 Agent-Native 实践",
+          "主题为从 App 到 Agent 的架构演进路径",
+          "结合 Supabase 探讨规模化落地经验"
+        ],
+        "detail": "字节跳动在 QCon 上海带来分享，主题是从 App 到 Agent 的演进，以及 Agent-Native 的规模化实践，并结合 Supabase 展开。内容聚焦应用形态从传统 App 转向 Agent 原生后，如何支撑规模化落地。",
+        "generatedAt": "2026-10-15T14:37:40+08:00"
       }
     },
     {
@@ -880,6 +1100,113 @@
       "pushed": false
     },
     {
+      "id": "b4c333a1fc01f38b",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform",
+      "summary": "Figma is also releasing its code layers feature in open beta.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:30:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "feature",
+        "features"
+      ],
+      "confidence": 0.33,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Figma 推出新功能，定义智能体在平台上的工作方式",
+        "takeaway": "Figma 为 AI 智能体在平台上的协作制定规则，同时开放代码层功能公测。",
+        "bullets": [
+          "Figma 发布新功能，明确 AI 智能体在平台上的工作方式。",
+          "代码层功能进入开放公测阶段。",
+          "此举或影响设计工具与 AI 智能体的集成方式。"
+        ],
+        "detail": "Figma 宣布了一系列新功能，旨在定义 AI 智能体在其平台上的工作方式。同时，其代码层功能也进入了开放公测阶段。这些举措可能为设计工具与 AI 智能体的协作设定新标准。",
+        "generatedAt": "2026-10-15T14:37:41+08:00"
+      }
+    },
+    {
+      "id": "54d14e1fae7efc55",
+      "title": "复杂高客单新品如何靠YouTube 的“全链路叙事”斩获全球大奖？",
+      "url": "https://qbitai.com/2026/10/503350.html",
+      "summary": "企业该如何打破海外认知壁垒？",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T11:01:20+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "复杂高客单新品如何借YouTube全链路叙事斩获全球大奖？",
+        "takeaway": "量子位报道，企业用YouTube全链路叙事打破海外认知壁垒，赢得全球大奖，为高客单新品出海提供参考。",
+        "bullets": [
+          "量子位分享案例：复杂高客单新品靠YouTube全链路叙事获全球大奖",
+          "核心问题：企业如何打破海外认知壁垒",
+          "方法指向YouTube全链路叙事，或为出海营销提供新思路"
+        ],
+        "detail": "量子位报道了一个案例：复杂且客单价高的新产品，通过YouTube上的“全链路叙事”策略，成功斩获全球大奖。文章探讨企业如何打破海外市场的认知壁垒，为类似产品的出海营销提供了参考。",
+        "generatedAt": "2026-10-15T14:37:41+08:00"
+      }
+    },
+    {
+      "id": "23d34b162775336e",
+      "title": "Anthropic最新单季营收168亿美元，环比再涨45%",
+      "url": "https://tmtpost.com/8169578.html",
+      "summary": "47亿、116亿、168亿：三个季度翻了三倍多。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:42:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "亿美元"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic单季营收168亿美元，环比再涨45%",
+        "takeaway": "Anthropic季度营收三个季度从47亿涨到168亿美元，增长势头强劲。",
+        "bullets": [
+          "最新单季营收168亿美元，环比增长45%",
+          "此前两季营收分别为47亿和116亿美元",
+          "三个季度营收规模翻了三倍多"
+        ],
+        "detail": "据钛媒体报道，Anthropic最新一个季度营收达168亿美元，比上一季度的116亿美元增长45%。再往前一个季度营收为47亿美元，三个季度内营收规模扩大了三倍多。",
+        "generatedAt": "2026-10-15T14:37:41+08:00"
+      }
+    },
+    {
       "id": "98d87062d63bbd59",
       "title": "qwen3.8-flash-next-iq3_s vs -27B-GGUF:UD-Q4_K_XL",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x5vfs2/qwen38flashnextiq3_s_vs_27bggufudq4_k_xl",
@@ -951,6 +1278,41 @@
         ],
         "detail": "苹果 iPhone Duo 大模型完成备案，预计 12 月上线，意味着 Apple Intelligence 入华迈出关键一步。同时企业微信与 WorkBuddy 打通，OPPO 与 Manus 达成合作，AI 生态持续扩展。ASML 三季度营收 116.62 亿欧元，计划扩产应对 AI 需求。",
         "generatedAt": "2026-10-15T08:40:06+08:00"
+      }
+    },
+    {
+      "id": "c1ad176f35ff85d9",
+      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+      "url": "https://qbitai.com/2026/10/503303.html",
+      "summary": "给企业Agent打了个样",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T09:56:20+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "千问办公电商版：7天几百元开店，省5万启动金",
+        "takeaway": "阿里千问推出办公电商版，用AI Agent把开店成本压到几百元、周期缩至7天。",
+        "bullets": [
+          "千问办公电商版主打企业Agent能力",
+          "号称7天、几百元即可开一家店",
+          "相比传统方式可省约5万元启动资金",
+          "被视为给企业Agent打了个样"
+        ],
+        "detail": "量子位报道，阿里千问推出办公电商版，用AI Agent帮企业快速开店。原本需要数万元启动资金和较长筹备周期的流程，现在号称7天、几百元就能完成，节省约5万元。文章称这是给企业级Agent打了个样。",
+        "generatedAt": "2026-10-15T14:37:43+08:00"
       }
     },
     {
@@ -1065,6 +1427,42 @@
       }
     },
     {
+      "id": "013a102b49894ff9",
+      "title": "Did someone use/try the Qwen flash 3.8 next \"coder\" model on some work?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x6an4v/did_someone_usetry_the_qwen_flash_38_next_coder",
+      "summary": "Looking for people who have tried this model and was able to use it on real-world tasks. It's what Strata list as \"coder\". What was your experience like? On my setup I am not really sure if it is worth more than iq3 submitted by /u/JsThiago…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T10:58:58+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen Flash 3.8 Next「coder」模型实际体验如何？",
+        "takeaway": "有用户在 r/LocalLLaMA 询问是否有人真正用过 Qwen Flash 3.8 Next 的 coder 版本，并分享实战感受。",
+        "bullets": [
+          "发帖者想找用过该模型做真实任务的人交流经验。",
+          "该模型被 Strata 列为「coder」类别。",
+          "发帖者在自己环境里不确定它是否比 iq3 更值得用。"
+        ],
+        "detail": "有人在 r/LocalLLaMA 发帖，想找真正用过 Qwen Flash 3.8 Next「coder」模型跑实际任务的人，问问体验如何。这个模型被 Strata 归为 coder 类。发帖者在自己机器上试过后，不确定它是否比 iq3 更值得投入。",
+        "generatedAt": "2026-10-15T14:37:43+08:00"
+      }
+    },
+    {
       "id": "cbe669726a888795",
       "title": "机器人还没找好工作，小鹏为什么先建工厂？",
       "url": "https://tmtpost.com/8168921.html",
@@ -1098,6 +1496,43 @@
         ],
         "detail": "小鹏在机器人业务上动作很快，产线、融资和欧洲上市时间表都已就位。但报道指出，公司还没说清这些机器人到底卖给谁、客户为什么愿意买单。",
         "generatedAt": "2026-10-15T08:40:06+08:00"
+      }
+    },
+    {
+      "id": "497a353fe07f7f8c",
+      "title": "NetBSD 收到创纪录捐赠，12 万美元 ——「AI 越火热，越想躲 AI」",
+      "url": "https://oschina.net/news/503036/netbsd-may-have-found-a-new-role-the-ai-free-foss-os",
+      "summary": "NetBSD 上个月收到了创纪录的 120 笔捐赠，共 12 万美元，是原定目标（5 万美元）的两倍多。在开源项目普遍经费紧张的背景下，这个数字有点扎眼。 The Register 把原因归结为：AI 越火热，想躲开 AI 的人越抵触。Linux 世界越来越往 AI 靠——Linus Torvalds 7 月说 Linux 不是反 AI 项目，Debian 投票允许 AI 生成贡献，...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T14:23:20+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "NetBSD 获 12 万美元创纪录捐赠，被指「躲 AI」情绪推动",
+        "takeaway": "NetBSD 单月收到 120 笔共 12 万美元捐赠，超目标两倍多，被解读为反 AI 情绪带来的支持。",
+        "bullets": [
+          "NetBSD 上月获 120 笔捐赠共 12 万美元，是 5 万美元目标的两倍多",
+          "The Register 认为，AI 越火热，想躲开 AI 的人越抵触",
+          "对比之下，Linux 正逐步接纳 AI 相关贡献",
+          "开源项目普遍经费紧张，这笔捐赠显得格外突出"
+        ],
+        "detail": "NetBSD 上个月收到创纪录的 120 笔捐赠，总额 12 万美元，超过原定 5 万美元目标的两倍多。在开源项目普遍缺钱的背景下，这个数字很扎眼。The Register 把原因归结为：AI 越火热，想躲开 AI 的人越抵触，而 Linux 世界正越来越向 AI 靠拢。",
+        "generatedAt": "2026-10-15T14:37:43+08:00"
       }
     },
     {
@@ -1394,6 +1829,317 @@
       "pushed": false
     },
     {
+      "id": "9c8fa734ce9854b4",
+      "title": "代码不再稀缺之后，软件工程还剩下什么？",
+      "url": "https://infoq.cn/article/DTZRRtodmCvpfYwbpWbF",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T22:30:04+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "代码不再稀缺之后，软件工程还剩下什么？",
+        "takeaway": "当 AI 让写代码变得廉价，软件工程的价值重心正从编码本身转向其他能力。",
+        "bullets": [
+          "InfoQ 中国发文探讨 AI 时代代码不再稀缺的趋势",
+          "核心问题：编码之外，软件工程还剩下什么价值",
+          "面向开发者，提示需重新思考自身能力定位"
+        ],
+        "detail": "InfoQ 中国提出一个追问：当 AI 让代码生产变得不再稀缺，软件工程的核心价值还剩下什么。文章没有给出具体答案，但把问题抛给了开发者——编码之外的能力，可能才是接下来的关键。",
+        "generatedAt": "2026-10-15T14:37:45+08:00"
+      }
+    },
+    {
+      "id": "9b9b91e778414573",
+      "title": "亚马逊云科技推出 CloudWatch Omni：不仅监控系统，还要评估 AI 是否靠谱",
+      "url": "https://infoq.cn/article/5GOXqmJaGKbukSIWU4Uf",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T21:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "亚马逊云科技发布 CloudWatch Omni，可评估 AI 是否靠谱",
+        "takeaway": "AWS 把监控能力从系统指标延伸到 AI 质量评估，帮企业判断模型输出是否可信。",
+        "bullets": [
+          "亚马逊云科技推出 CloudWatch Omni 新功能",
+          "除传统系统监控外，还评估 AI 输出可靠性",
+          "面向使用 AI 的企业，降低模型不可信风险"
+        ],
+        "detail": "亚马逊云科技发布 CloudWatch Omni，在原有系统监控基础上加入 AI 评估能力，用来判断 AI 是否靠谱。这意味着企业不仅能看服务器指标，还能监控模型输出的可信度，对部署 AI 应用的团队有实际意义。",
+        "generatedAt": "2026-10-15T14:37:45+08:00"
+      }
+    },
+    {
+      "id": "b94878343d41c7fb",
+      "title": "数据驱动的具身智能：迈向规模化之路｜QCon 上海",
+      "url": "https://infoq.cn/article/a8LKxyL9AC4PWhB2r0XX",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T20:01:47+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "QCon 上海聚焦数据驱动具身智能规模化路径",
+        "takeaway": "InfoQ 中国报道 QCon 上海议题，探讨数据驱动如何推动具身智能走向规模化。",
+        "bullets": [
+          "议题为「数据驱动的具身智能：迈向规模化之路」",
+          "来源为 InfoQ 中国，属 QCon 上海内容",
+          "关注具身智能从技术到规模化的落地路径"
+        ],
+        "detail": "InfoQ 中国发布 QCon 上海相关议题，主题是数据驱动的具身智能如何迈向规模化。内容聚焦具身智能领域，讨论数据在推动其规模化过程中的作用，具体细节需查看原文。",
+        "generatedAt": "2026-10-15T14:37:45+08:00"
+      }
+    },
+    {
+      "id": "8a8bc39bfbfbda58",
+      "title": "算力效率的边界：以体系结构量化与分布式工程破局 AI Infra",
+      "url": "https://infoq.cn/article/JbzA5yvzl2BkuTpkfdrU",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T19:44:05+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "算力效率的边界：体系结构量化与分布式工程如何破局 AI Infra",
+        "takeaway": "InfoQ 中国发文探讨 AI 基础设施的算力效率瓶颈，提出从体系结构量化与分布式工程两条路径寻求突破。",
+        "bullets": [
+          "文章聚焦 AI Infra 中的算力效率边界问题",
+          "提出体系结构量化与分布式工程两条破局思路",
+          "来源为 InfoQ 中国，属算力芯片话题"
+        ],
+        "detail": "InfoQ 中国发布文章，讨论 AI 基础设施面临的算力效率边界。文章认为，单靠堆硬件难以持续提升效率，需要从体系结构量化与分布式工程两个方向入手寻找突破。",
+        "generatedAt": "2026-10-15T14:37:47+08:00"
+      }
+    },
+    {
+      "id": "b88126f8f643a5dd",
+      "title": "从 Harness 到 Loop：Agent 如何走向可靠交付与持续进化？",
+      "url": "https://infoq.cn/article/xKkEswgSftEcGrkK6oTY",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T19:05:26+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "从 Harness 到 Loop：Agent 如何实现可靠交付与持续进化",
+        "takeaway": "InfoQ 探讨 Agent 从工具编排走向可靠交付与自我进化的路径",
+        "bullets": [
+          "InfoQ 发文讨论 Agent 的可靠交付与持续进化",
+          "提出从 Harness 到 Loop 的演进思路",
+          "关注 Agent 工程化落地的可靠性问题"
+        ],
+        "detail": "InfoQ 中国刊文，围绕 Agent 如何走向可靠交付与持续进化展开讨论。文章以从 Harness 到 Loop 为线索，探讨 Agent 在工程化落地中如何兼顾稳定交付与自我迭代。",
+        "generatedAt": "2026-10-15T14:37:47+08:00"
+      }
+    },
+    {
+      "id": "4d5934d89e9b9a51",
+      "title": "一个响应头，就能把同一资源拆成几十份：Cloudflare 出手治理缓存抖动",
+      "url": "https://infoq.cn/article/APzdAA2AKyWydi04FpTY",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T19:05:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "治理"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cloudflare 出手治理缓存抖动：一个响应头把同一资源拆成几十份",
+        "takeaway": "Cloudflare 针对缓存抖动问题推出治理手段，避免同一资源被拆成多份缓存，影响 CDN 效率。",
+        "bullets": [
+          "问题根源是响应头导致同一资源被拆成几十份缓存",
+          "Cloudflare 出手治理缓存抖动，提升缓存命中率",
+          "对使用 Cloudflare CDN 的网站和开发者有直接影响"
+        ],
+        "detail": "Cloudflare 发现，一个响应头就可能让同一份资源在缓存中被拆成几十个副本，造成缓存抖动、命中率下降。为此 Cloudflare 推出治理措施，减少这种重复缓存，提升 CDN 效率。",
+        "generatedAt": "2026-10-15T14:37:47+08:00"
+      }
+    },
+    {
+      "id": "26efc2b4616ef7dc",
+      "title": "Google Earth AI Geospatial Reasoning Agent: Capabilities and a Systematic Evaluation",
+      "url": "https://arxiv.org/abs/2610.15750",
+      "summary": "arXiv:2610.15750v1 Announce Type: new Abstract: Google Earth AI is a family of geospatial AI models, together with an agent that orchestrates them. We present this agent, Google Earth AI's Geospatial Reasoning agent (GRA), a Gemini-powered …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "paperRank": 18,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌发布地球AI地理空间推理智能体GRA",
+        "takeaway": "谷歌用Gemini驱动的地理空间推理智能体，可调度多种地球AI模型，并给出系统评估。",
+        "bullets": [
+          "Google Earth AI 是一组地理空间AI模型家族",
+          "GRA 是其中负责编排这些模型的智能体",
+          "该智能体由 Gemini 提供底层能力支持",
+          "论文对其能力做了系统性评估"
+        ],
+        "detail": "谷歌地球AI包含一系列地理空间AI模型，并配有一个统一调度它们的智能体。这篇论文介绍的正是这个地理空间推理智能体GRA，它由Gemini驱动，能协调调用多种模型完成地理空间任务，论文还对其能力进行了系统评估。",
+        "generatedAt": "2026-10-15T14:37:48+08:00"
+      }
+    },
+    {
+      "id": "bfb3804fa428a403",
+      "title": "What the Machine Invented: Mining New Mathematical Instruments from OpenAI's October 2026 Release of AI-Generated Mathematics",
+      "url": "https://arxiv.org/abs/2610.17090",
+      "summary": "arXiv:2610.17090v1 Announce Type: cross Abstract: On 6 October 2026 OpenAI published an initial 722 AI-written mathematical manuscripts, organized into 372 problem families, in the public repository github.com/openai/math. The release inclu…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "paperRank": 18,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 发布 722 篇 AI 数学手稿，研究者从中挖掘新工具",
+        "takeaway": "一篇论文分析了 OpenAI 公开的 AI 生成数学成果，试图从中找出机器发明的新数学工具。",
+        "bullets": [
+          "OpenAI 于 2026 年 10 月公开 722 篇 AI 撰写的数学手稿，归为 372 个问题族。",
+          "论文对这些手稿进行挖掘，寻找机器自主提出的新数学概念与工具。",
+          "研究指向 AI 能否在数学发现中扮演独立角色，而非仅做计算辅助。"
+        ],
+        "detail": "2026 年 10 月 6 日，OpenAI 在 GitHub 公开了首批 722 篇由 AI 撰写的数学手稿，按 372 个问题族组织。这篇论文对这些材料做系统梳理，重点考察机器是否提出了新的数学工具，而不只是复现已有结果。",
+        "generatedAt": "2026-10-15T14:37:49+08:00"
+      }
+    },
+    {
+      "id": "8a10f25ec8898bb8",
+      "title": "ROI-Reasoning: Rational Optimization for Inference via Pre-Computation Meta-Cognition",
+      "url": "https://arxiv.org/abs/2601.03822",
+      "summary": "arXiv:2601.03822v2 Announce Type: replace Abstract: Large language models (LLMs) can achieve strong reasoning performance with sufficient computation, but they do not inherently know how much computation a task requires. We study budgeted i…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 31,
+      "paperRank": 13,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "f6cba501345f0b73",
       "title": "Banks are now trying to offload the AI data center debt they just underwrote",
       "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote",
@@ -1419,6 +2165,100 @@
       "pushed": false
     },
     {
+      "id": "1e63799dcde91a7a",
+      "title": "辛顿回怼黄仁勋：AI灭绝人类的概率，是10%到20%",
+      "url": "https://tmtpost.com/8169667.html",
+      "summary": "2023年辛顿称AI毁灭人类的概率为10%，如今已经变成10%到20%",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T13:18:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ccc4367516c40f2e",
+      "title": "上市破发，传音被AI坑惨了？",
+      "url": "https://tmtpost.com/8169572.html",
+      "summary": "低价走量加廉价供应链，不好使了。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:22:41+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "上市"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d8e9b56a25720351",
+      "title": "梁文锋，又出手了",
+      "url": "https://tmtpost.com/8169606.html",
+      "summary": "从宇树到Winverse AI，梁文锋的AGI路线图加速。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:22:35+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a3ccfa6c31e154e0",
+      "title": "Chicken-coop shed AI PC",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x6c5px/chickencoop_shed_ai_pc",
+      "summary": "Saw soneone post their bathroom AI PC a few weeks ago. Figured I’d contribute with my chicken-coop adjacent shed AI PC. Started with a single CMP 170HX (unlocked to 64GB) and ended up with three more for a total of 256gb VRAM. Found a deal …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:20:47+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "7aff82cf50e7c250",
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "url": "https://csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
@@ -1438,6 +2278,445 @@
       "keywords": [],
       "confidence": 0,
       "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cfd42c97f96cb5f1",
+      "title": "Visualizing the World Model in an Agent's Value Function",
+      "url": "https://arxiv.org/abs/2610.14186",
+      "summary": "arXiv:2610.14186v1 Announce Type: new Abstract: Could model-free reinforcement learning algorithms actually be learning a model of the environment? In this work, we apply counterfactual interventions which hold everything about a state fixe…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 28,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "be4141aad3c26827",
+      "title": "Has AI tells",
+      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 108 # Comments: 92",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T24:52:42+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 25,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3bd4b0694c930ef6",
+      "title": "G$^2$WAM: World Action Models for Efficient and Geometry Grounded Image-Goal Navigation",
+      "url": "https://arxiv.org/abs/2610.16558",
+      "summary": "arXiv:2610.16558v1 Announce Type: new Abstract: World models capture environment dynamics and support counterfactual reasoning for planning. In image-goal navigation, where the target often lies beyond the current field of view, the agent m…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 17,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8c19797e56144a81",
+      "title": "Self-Evolving Visual Agent via Margin Reward",
+      "url": "https://arxiv.org/abs/2610.15084",
+      "summary": "arXiv:2610.15084v1 Announce Type: new Abstract: Visual agents that interleave reasoning with tool invocation have posed a promising direction for multimodal tasks. However, learning effective tool invocation usually relies on curated questi…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 16,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "43dbb208a4614ff7",
+      "title": "ReTAC: Residual Test-Time Agentic Computation for Video Spatial Reasoning",
+      "url": "https://arxiv.org/abs/2610.16315",
+      "summary": "arXiv:2610.16315v1 Announce Type: new Abstract: Test-time agentic computation can improve multimodal large language models (MLLMs) through planning, tool use, iterative perception, and reflection, but indiscriminate computation may duplicat…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 16,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b56b0023271ecee6",
+      "title": "Neos: Learning to Interleave Search and Visual Reasoning",
+      "url": "https://arxiv.org/abs/2610.17043",
+      "summary": "arXiv:2610.17043v1 Announce Type: new Abstract: Recent multimodal deep search agents have advanced tool use and visual content retrieval, yet they still struggle to convert intermediate visual evidence into actionable guidance for subsequen…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 16,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "33e887751793f4e0",
+      "title": "Multi-agent Undercover Gaming: Hallucination Removal via Counterfactual Test for Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2511.11182",
+      "summary": "arXiv:2511.11182v2 Announce Type: replace Abstract: Hallucination continues to pose a major obstacle in the reasoning capabilities of large language models (LLMs). Although the Multi-Agent Debate (MAD) paradigm offers a promising solution b…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 16,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c26ddc525190cab7",
+      "title": "Towards a Data-Centric Understanding of Spatial Reasoning in Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2610.19108",
+      "summary": "arXiv:2610.19108v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have been widely applied in embodied agents and robotics for vision tasks. However, MLLMs suffer from limitations in spatial reasoning and perception…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 16,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f482f118b1a73149",
+      "title": "Overtaught, Underlearned: Learner-Centered Distillation from Multi-Agent Discussion",
+      "url": "https://arxiv.org/abs/2610.16543",
+      "summary": "arXiv:2610.16543v1 Announce Type: new Abstract: Multi-agent discussion produces reasoning collaboratively, while deployment still relies on a smaller student that must answer alone. Full-graph distillation transfers such discussions by trea…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 15,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "703777d57d644c2d",
+      "title": "REGEN: Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.19450",
+      "summary": "arXiv:2607.19450v4 Announce Type: replace-cross Abstract: Large-scale online reinforcement learning (RL) is the predominant means of eliciting advanced abilities including long-term reasoning and agentic tool use in large language models (L…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 15,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cb992a5692352f31",
+      "title": "GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.19100",
+      "summary": "arXiv:2610.19100v1 Announce Type: cross Abstract: Constructing robust GUI agents relies on multimodal visual grounding: the ability to precisely map natural language intents to actionable on-screen components. Despite abundant desktop, web,…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 14,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "26f1dcffd1044987",
+      "title": "ANASSA: From High-Level Framework to Low-Level Architecture for Spatial Agentic AI",
+      "url": "https://arxiv.org/abs/2610.14382",
+      "summary": "arXiv:2610.14382v1 Announce Type: new Abstract: Agentic AI systems operating over geospatial data require more than autonomous reasoning and tool use; they must also support explicit orchestration, spatial validation, governance, provenance…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c0fa7cd13afd2a8d",
+      "title": "CB-Agent: Concept-Based In-Context Learning for Sequential Action Selection",
+      "url": "https://arxiv.org/abs/2610.14574",
+      "summary": "arXiv:2610.14574v1 Announce Type: new Abstract: In-context learning (ICL) allows large language models to use demonstrations without updating their parameters. For interactive agents, demonstrations are trajectories of reasoning, actions, a…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "93fe0360f730a284",
+      "title": "A Reference Architecture for Integrating Agentic AI into Enterprise Software: Responsibilities, Interactions, and Variability",
+      "url": "https://arxiv.org/abs/2610.14818",
+      "summary": "arXiv:2610.14818v1 Announce Type: new Abstract: Agentic AI moves generative AI applications toward systems that coordinate reasoning, enterprise context, model inference, and external actions. Integrating these capabilities into enterprise …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "05ba9361b0b063a7",
+      "title": "From Stages to States: Unified Iterative Reasoning for MLLMs",
+      "url": "https://arxiv.org/abs/2610.15620",
+      "summary": "arXiv:2610.15620v1 Announce Type: new Abstract: Multimodal Chain-of-Thought (MCoT) substantially enhances the complex reasoning capabilities of Multimodal Large Language Models (MLLMs) by explicitly modeling intermediate reasoning processes…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1b2a5c7983603c88",
+      "title": "Efficient Multi-Agent Reasoning via Confidence-Guided Adaptive Debate",
+      "url": "https://arxiv.org/abs/2610.16343",
+      "summary": "arXiv:2610.16343v1 Announce Type: new Abstract: Multi-agent debate has shown promise for improving the reasoning of large language models, yet recent theory suggests its benefits are highly regime-dependent. While interaction can amplify in…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "695ea06ebd07ab29",
+      "title": "Observe, Share, or Predict? Disentangling Partner Information in Embodied Multi-Agent Collaboration",
+      "url": "https://arxiv.org/abs/2610.16895",
+      "summary": "arXiv:2610.16895v1 Announce Type: new Abstract: LLMs are used as high-level controllers for embodied agents, but it remains unclear whether they support collaborative reasoning, such as anticipating a collaborator's actions in real-time tea…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-15T12:00:00+08:00",
+      "fetchedAt": "2026-10-15T14:37:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
       "related": [],
       "pushed": false
     }
