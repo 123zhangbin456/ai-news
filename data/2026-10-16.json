@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updatedAt": "2026-10-16T08:31:36+08:00",
+  "updatedAt": "2026-10-16T09:45:51+08:00",
   "items": [
     {
       "id": "d5bac5a69bce90a0",
@@ -528,6 +528,43 @@
       "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
+      "id": "c7b4401b18cbbafd",
+      "title": "nvidia/Nemotron-3.5-Embed-1B-BF16 · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x70qhu/nvidianemotron35embed1bbf16_hugging_face",
+      "summary": "Nemotron-3.5-Embed-1B-BF16 is a versatile embedding model developed by NVIDIA for multimodal and multilingual question-answering retrieval. The model can embed a document page in the form of an image, text, or combined image–text input. Doc…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T07:22:20+08:00",
+      "fetchedAt": "2026-10-16T09:45:43+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.67,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达发布 Nemotron-3.5-Embed-1B 多模态嵌入模型",
+        "takeaway": "英伟达开源 1B 参数嵌入模型，支持图文混合检索，可用于多语言问答场景。",
+        "bullets": [
+          "模型名为 Nemotron-3.5-Embed-1B-BF16，BF16 精度",
+          "支持图片、文本及图文混合三种输入形式",
+          "面向多模态、多语言的问答检索任务",
+          "已在 Hugging Face 上发布，可下载使用"
+        ],
+        "detail": "英伟达在 Hugging Face 上放出 Nemotron-3.5-Embed-1B-BF16，这是一个通用嵌入模型，主打多模态和多语言问答检索。它能把整页文档以图片、纯文本或图文组合的形式转成向量，方便后续检索。",
+        "generatedAt": "2026-10-16T09:45:51+08:00"
+      }
+    },
+    {
       "id": "a300731d2a28337b",
       "title": "微软一口气致谢 23 个漏洞，背后是智谱 GLM 和一位顶级“白帽”",
       "url": "https://infoq.cn/article/JZZ6JSvRBq3R579uy8V3",
@@ -1009,6 +1046,41 @@
       "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
+      "id": "ba4e7337aba280a4",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T09:44:47+08:00",
+      "fetchedAt": "2026-10-16T09:45:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "印度语言预训练新突破：2.8万亿Token与开放数据流水线",
+        "takeaway": "Hugging Face发布印度语言预训练方案，含2.8万亿Token数据集和开源数据生成流程，推动低资源语言AI发展。",
+        "bullets": [
+          "发布2.8万亿Token的印度语言预训练数据集",
+          "开源数据生成流水线，可复现扩展",
+          "覆盖多种印度语言，缓解低资源困境",
+          "为多语言大模型研究提供重要资源"
+        ],
+        "detail": "Hugging Face 公开了一套面向印度语言的预训练方案，包含 2.8 万亿 token 的大规模数据集，并开源了数据生成流水线。该工作旨在解决印度语言在 AI 训练中数据稀缺的问题，让研究者和开发者能更轻松地构建多语言模型。",
+        "generatedAt": "2026-10-16T09:45:51+08:00"
+      }
+    },
+    {
       "id": "ff08a8815cebb1b5",
       "title": "**DeepSeek-V4-Flash-0731 on 4x Radeon AI PRO R9700 with affinity: the \"refused\" 4-card config works, ~79 tok/s on real cards**",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x70e5r/deepseekv4flash0731_on_4x_radeon_ai_pro_r9700",
@@ -1440,6 +1512,40 @@
         "generatedAt": "2026-10-16T05:53:28+08:00"
       },
       "pushedAt": "2026-10-16T07:57:42+08:00"
+    },
+    {
+      "id": "1e30bb0fedc77286",
+      "title": "GitLab 漏洞遭利用，可实现未认证数据外泄",
+      "url": "https://infoq.cn/article/DfJZA7hp0OhKMpaAIfG0",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T17:16:00+08:00",
+      "fetchedAt": "2026-10-16T09:45:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GitLab 漏洞遭利用，可未认证外泄数据",
+        "takeaway": "GitLab 曝出可被利用的漏洞，攻击者无需认证即可窃取数据，自建 GitLab 的用户需尽快排查。",
+        "bullets": [
+          "漏洞已被实际利用，可实现未认证数据外泄",
+          "影响 GitLab 用户，尤其是自建实例的团队",
+          "建议尽快升级或按官方指引修复"
+        ],
+        "detail": "据 InfoQ 中国报道，GitLab 存在一个已被利用的漏洞，攻击者无需通过认证就能外泄数据。这意味着暴露在外的 GitLab 实例可能被直接读取敏感信息，使用自建 GitLab 的团队应尽快检查版本并修复。",
+        "generatedAt": "2026-10-16T09:45:51+08:00"
+      }
     },
     {
       "id": "87dafab8fa4731d9",
