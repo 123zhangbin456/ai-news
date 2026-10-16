@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updatedAt": "2026-10-17T01:07:15+08:00",
+  "updatedAt": "2026-10-17T05:51:45+08:00",
   "items": [
     {
       "id": "95da7363b421ae34",
@@ -413,6 +413,43 @@
       "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
+      "id": "3d3011b3b2f663f4",
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2",
+      "summary": "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse Comments URL: https://news.ycombinator.com/item?id=50118688 Points: 16…",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T22:18:44+08:00",
+      "fetchedAt": "2026-10-17T05:51:28+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini",
+        "flagship"
+      ],
+      "confidence": 0.5,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gemini 4 Argon 在星际争霸基准中亮相",
+        "takeaway": "StarSkirmish Bench 更新，让大模型写代码打星际争霸，Gemini 4 Argon 等旗舰模型同台竞技。",
+        "bullets": [
+          "StarSkirmish Bench 更新，评测大模型写代码玩星际争霸的能力",
+          "参与模型包括 OpenAI、Anthropic、Google 及 Muse 的旗舰模型",
+          "标题提到 Gemini 4 Argon 参与，但摘要未给出具体成绩"
+        ],
+        "detail": "有人更新了 StarSkirmish Bench，这个基准让大语言模型通过写代码来玩《星际争霸：母巢之战》。此次加入了 OpenAI、Anthropic、Google 和 Muse 各自旗舰模型的结果，标题中的 Gemini 4 Argon 也在其中。",
+        "generatedAt": "2026-10-17T05:51:36+08:00"
+      }
+    },
+    {
       "id": "bd9590f3e81292e5",
       "title": "蚂蚁百灵开源 560B 模型 Ling-3.0-flash：0.19 美元搞定复杂工作流",
       "url": "https://infoq.cn/article/SxQO3Aw6JCTgNMTGPPE8",
@@ -632,6 +669,40 @@
       }
     },
     {
+      "id": "9db4940a53f86840",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T08:00:00+08:00",
+      "fetchedAt": "2026-10-17T05:51:28+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 案例：Stack Overflow for Agents 靠 ChatGPT 插件实现三倍注册增长",
+        "takeaway": "两名工程师用 Codex 数周做出面向智能体的问答平台，ChatGPT 插件带动注册量增长三倍。",
+        "bullets": [
+          "两名工程师借助 Codex 在几周内完成 Stack Overflow for Agents 开发",
+          "该平台是面向 AI 智能体的问答社区，类似智能体版 Stack Overflow",
+          "接入 ChatGPT 插件后，注册量增长三倍，智能体创建量最高提升 10 倍"
+        ],
+        "detail": "OpenAI 分享了一个案例：两名工程师用 Codex 在几周内搭建出 Stack Overflow for Agents，一个面向 AI 智能体的问答平台。它的 ChatGPT 插件成为增长引擎，让注册量增长三倍，智能体创建量最高提升到 10 倍。",
+        "generatedAt": "2026-10-17T05:51:37+08:00"
+      }
+    },
+    {
       "id": "f38d06b911842ba3",
       "title": "Linus用Claude Code改Linux内核，大神也没兜住代码里的Bug",
       "url": "https://infoq.cn/article/hRw4BZQQUW14sqYMo5F6",
@@ -665,6 +736,42 @@
         ],
         "detail": "Linux 创始人 Linus Torvalds 尝试用 Claude Code 修改内核代码，结果代码里还是留下了 Bug。这说明即便是顶级开发者加 AI 工具，也未必能保证代码完全正确，AI 编程助手仍需人工仔细审查。",
         "generatedAt": "2026-10-16T14:28:31+08:00"
+      }
+    },
+    {
+      "id": "f50edeef798d1deb",
+      "title": "Cloud Agent Canvases and Environment Improvements",
+      "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
+      "summary": "Cloud agents can now build and share interactive canvases. The Environments API is available in beta, environments support up to 300 repos, and large environments load 5x faster.",
+      "source": {
+        "id": "cursor-changelog",
+        "name": "Cursor Changelog",
+        "weight": 5,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T08:00:00+08:00",
+      "fetchedAt": "2026-10-17T05:51:28+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor 云代理支持交互式画布，环境 API 进入测试",
+        "takeaway": "Cursor 云代理可生成并分享交互式画布，环境能力同步升级，开发协作更灵活。",
+        "bullets": [
+          "云代理现在能构建并分享交互式画布",
+          "Environments API 开放测试，环境最多支持 300 个仓库",
+          "大型环境加载速度提升至原来的 5 倍"
+        ],
+        "detail": "Cursor 更新了云代理功能，现在可以创建和分享可交互的画布。同时 Environments API 进入测试阶段，单个环境最多能容纳 300 个代码仓库，而且大型环境的加载速度比之前快了 5 倍。",
+        "generatedAt": "2026-10-17T05:51:38+08:00"
       }
     },
     {
