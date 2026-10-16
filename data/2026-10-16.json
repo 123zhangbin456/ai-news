@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updatedAt": "2026-10-16T14:28:41+08:00",
+  "updatedAt": "2026-10-16T19:43:48+08:00",
   "items": [
     {
       "id": "95da7363b421ae34",
@@ -414,6 +414,43 @@
       }
     },
     {
+      "id": "e7c8697fdfc4d88f",
+      "title": "范式智能联合睿思智联推出开源一站式生产级AI部署平台 “模域ModelSphere”",
+      "url": "https://infoq.cn/article/VZPlIIdGRg062mgwJe5y",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T24:38:02+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源",
+        "部署"
+      ],
+      "confidence": 0.57,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "范式智能联合睿思智联发布开源AI部署平台模域ModelSphere",
+        "takeaway": "两家公司推出开源一站式生产级AI部署平台，降低企业落地大模型的门槛。",
+        "bullets": [
+          "范式智能与睿思智联联合推出开源平台模域ModelSphere",
+          "定位为一站式、生产级AI部署平台",
+          "面向企业AI部署场景，开源可降低使用门槛"
+        ],
+        "detail": "范式智能与睿思智联联合发布开源平台“模域ModelSphere”，主打一站式、生产级的AI部署能力。该平台以开源形式提供，意在帮助企业更便捷地完成AI模型的部署落地。目前公开信息有限，具体功能与适用场景待官方进一步披露。",
+        "generatedAt": "2026-10-16T19:43:39+08:00"
+      }
+    },
+    {
       "id": "7b45a5eb01c2a2c8",
       "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
       "url": "https://wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview",
@@ -449,6 +486,42 @@
         "generatedAt": "2026-10-16T05:53:22+08:00"
       },
       "pushedAt": "2026-10-16T07:57:42+08:00"
+    },
+    {
+      "id": "6c94a72681893fba",
+      "title": "DeepSeek V4.1 Flash on 4x DGX Spark: my numbers vs Patrick Moorhead's results via Wccftech.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x79ijg/deepseek_v41_flash_on_4x_dgx_spark_my_numbers_vs",
+      "summary": "A couple of weeks ago I read this Wccftech article about Patrick Moorhead's 4 Spark setup. I meant to post this a few days ago but ran some more tests first, and then my workstation had a problem after a kernel and NVIDIA driver update. Thi…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T15:11:48+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 0.25,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek V4.1 Flash 在 4 台 DGX Spark 上的实测数据对比",
+        "takeaway": "用户复现 Patrick Moorhead 的 4 台 DGX Spark 跑 DeepSeek V4.1 Flash 结果，并给出自己的实测数字。",
+        "bullets": [
+          "Reddit 用户复现 Wccftech 报道的 4 台 DGX Spark 配置",
+          "对比对象是 Patrick Moorhead 的公开测试结果",
+          "测试因内核和 NVIDIA 驱动更新一度中断"
+        ],
+        "detail": "这位 Reddit 用户看到 Wccftech 报道 Patrick Moorhead 用 4 台 DGX Spark 跑 DeepSeek V4.1 Flash 后，自己也做了测试并想发帖对比。他多跑了几轮测试，期间工作站因内核和 NVIDIA 驱动更新出了问题，所以发帖有所延迟。",
+        "generatedAt": "2026-10-16T19:43:40+08:00"
+      }
     },
     {
       "id": "f38d06b911842ba3",
@@ -821,6 +894,41 @@
         "generatedAt": "2026-10-16T01:12:24+08:00"
       },
       "pushedAt": "2026-10-16T07:57:42+08:00"
+    },
+    {
+      "id": "7bf04f5c3b8a6a7f",
+      "title": "tencent/Hy-Memory-30B-A3B · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x7cc2z/tencenthymemory30ba3b_hugging_face",
+      "summary": "interesting focus: \"A 3B active model beats Opus 5 at memory\" (whatever that means :D) submitted by /u/paf1138 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T18:10:59+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "腾讯开源 Hy-Memory-30B-A3B：3B 激活参数主打记忆能力",
+        "takeaway": "腾讯在 Hugging Face 放出 Hy-Memory-30B-A3B，社区称其以 3B 激活参数在记忆任务上胜过 Opus 5。",
+        "bullets": [
+          "模型名为 Hy-Memory-30B-A3B，已上线 Hugging Face",
+          "总参数 30B，激活参数仅 3B，走稀疏 MoE 路线",
+          "社区称其在记忆相关任务上超过 Opus 5",
+          "主打记忆能力，具体评测口径尚不明确"
+        ],
+        "detail": "腾讯在 Hugging Face 发布了 Hy-Memory-30B-A3B，从命名看是总参数 30B、激活 3B 的稀疏模型。r/LocalLLaMA 网友关注的点是它主打记忆能力，并称这个 3B 激活的模型在记忆任务上击败了 Opus 5，但具体指什么还不清楚。",
+        "generatedAt": "2026-10-16T19:43:40+08:00"
+      }
     },
     {
       "id": "094e64325b5ebae1",
@@ -1265,6 +1373,40 @@
       }
     },
     {
+      "id": "24df01fc5cb6dbba",
+      "title": "OpenAI入局，全球具身智能变天，中国企业如何打响资源整合反击战？",
+      "url": "https://tmtpost.com/8170706.html",
+      "summary": "谁还能留在牌桌上？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T15:36:38+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 入局具身智能，中国企业如何应对变局",
+        "takeaway": "OpenAI 进军具身智能，全球格局生变，中国企业需整合资源反击。",
+        "bullets": [
+          "OpenAI 入局，全球具身智能竞争加剧。",
+          "中国企业面临资源整合挑战，需反击。",
+          "谁还能留在牌桌上？行业洗牌在即。"
+        ],
+        "detail": "OpenAI 加入具身智能赛道，全球市场格局面临变化。中国企业需要整合资源，应对竞争，争取留在牌桌上。",
+        "generatedAt": "2026-10-16T19:43:41+08:00"
+      }
+    },
+    {
       "id": "ff08a8815cebb1b5",
       "title": "**DeepSeek-V4-Flash-0731 on 4x Radeon AI PRO R9700 with affinity: the \"refused\" 4-card config works, ~79 tok/s on real cards**",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x70e5r/deepseekv4flash0731_on_4x_radeon_ai_pro_r9700",
@@ -1301,6 +1443,42 @@
         "generatedAt": "2026-10-16T07:57:37+08:00"
       },
       "pushedAt": "2026-10-16T07:57:42+08:00"
+    },
+    {
+      "id": "e430ced2b006d1dd",
+      "title": "硅谷AI杀疯了，DeepSeek们的性价比还剩多少？",
+      "url": "https://tmtpost.com/8170871.html",
+      "summary": "硅谷羊毛薅爽了，国产大模型贵得“烧心”？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T16:58:45+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "硅谷AI价格战升级，国产大模型性价比受拷问",
+        "takeaway": "硅谷大模型接连降价，国产模型如DeepSeek的性价比优势正面临挑战。",
+        "bullets": [
+          "硅谷AI厂商掀起价格战，用户可低价甚至免费使用",
+          "国产大模型被指使用成本偏高，性价比遭质疑",
+          "DeepSeek等国产模型需应对硅谷降价冲击"
+        ],
+        "detail": "硅谷AI公司近期大打价格战，让用户享受到了低价甚至免费的服务。相比之下，国产大模型如DeepSeek的使用成本被指偏高，引发对其性价比的讨论。这场价格竞争可能迫使国产模型调整定价或优化成本。",
+        "generatedAt": "2026-10-16T19:43:41+08:00"
+      }
     },
     {
       "id": "72fc226582635752",
@@ -1417,6 +1595,154 @@
       "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
+      "id": "87ad4bd04649b068",
+      "title": "中控技术接入千问办公，打造流程工业领域AI Native标杆企业",
+      "url": "https://leiphone.com/category/industrynews/8IM46Vzpf7IFumo7.html",
+      "summary": "10月16日，中控技术股份有限公司（以下简称“中控技术”）正式接入千问办公，将Agent落地营销全链路。后续，千问办公还将优化中控技术的采购、供应链、财务、人力、研发等场景工作流，共建流程工业领域AI Native标杆企业。图示中控技术和千问办公签约现场中控技术成立于1999年，是以工业数据为基础、AI大模型为核心、全场景智能体为触手的工业AI平台型公司，基于“技术+场景+生态”的立体化布局，推动流程工业从单点智能向全链路智能跃迁，其业务覆盖全球50多个国家和地区，服务海内外…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T15:51:00+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "接入",
+        "落地"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "中控技术接入千问办公，共建流程工业AI Native标杆",
+        "takeaway": "中控技术将Agent落地营销全链路，后续扩展至采购、供应链等多场景，共建AI Native标杆。",
+        "bullets": [
+          "中控技术正式接入千问办公，Agent落地营销全链路",
+          "后续优化采购、供应链、财务、人力、研发等工作流",
+          "双方共建流程工业领域AI Native标杆企业",
+          "中控技术业务覆盖全球50多个国家和地区"
+        ],
+        "detail": "中控技术10月16日接入千问办公，先把Agent用在营销全链路，后续还将优化采购、供应链、财务、人力、研发等场景。双方要共建流程工业领域的AI Native标杆企业。中控技术是工业AI平台公司，业务覆盖全球50多个国家和地区。",
+        "generatedAt": "2026-10-16T19:43:41+08:00"
+      }
+    },
+    {
+      "id": "d315c45ab355135e",
+      "title": "Qwen Flash Next potential SOTA Q2 nobody talks about",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x7bboy/qwen_flash_next_potential_sota_q2_nobody_talks",
+      "summary": "Whenever it comes to Strata and low bit QFN discussion, everyone is talking about Unsloth, ISTA-lab and nobody mentions Agantai with his GYRO series of quants - https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-GGUF The quants alleg…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T17:08:25+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "SOTA"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen Flash Next 低比特量化被忽视的 SOTA 候选",
+        "takeaway": "社区讨论低比特量化时只提 Unsloth 和 ISTA-lab，却漏掉了 Agantai 的 GYRO 系列。",
+        "bullets": [
+          "Reddit 网友指出 GYRO 量化在讨论中被长期忽略",
+          "GYRO 系列由 Agantai 发布，托管在 Hugging Face",
+          "涉及 Qwen3.8-Flash-Next 的 GGUF 低比特版本",
+          "发帖者认为其表现可能达到 SOTA 水平"
+        ],
+        "detail": "在 LocalLLaMA 社区，谈到低比特量化和 QFN 时，大家几乎只提 Unsloth 和 ISTA-lab，Agantai 的 GYRO 系列却无人问津。发帖者贴出 Hugging Face 上的 Qwen3.8-Flash-Next-Gyro-GGUF，认为这套量化方案可能是被埋没的 SOTA。",
+        "generatedAt": "2026-10-16T19:43:42+08:00"
+      }
+    },
+    {
+      "id": "e52143f54cc08078",
+      "title": "cpu : reduce AVX2 tiled accumulators together by trivalik · Pull Request #30296 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x7a59i/cpu_reduce_avx2_tiled_accumulators_together_by",
+      "summary": "More t/s on CPU, For GPU poor people submitted by /u/jacek2023 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T15:52:47+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 合并 AVX2 优化 PR，CPU 推理速度再提升",
+        "takeaway": "llama.cpp 接受了一项 AVX2 优化，让没有 GPU 的用户在 CPU 上获得更高推理速度。",
+        "bullets": [
+          "PR #30296 由 trivalik 提交，优化 AVX2 分块累加器",
+          "目标用户是缺少 GPU 的本地推理玩家",
+          "合并后 CPU 推理的 token/s 有所提高"
+        ],
+        "detail": "llama.cpp 合并了 trivalik 的 PR #30296，通过改进 AVX2 分块累加器的归约方式，提升了 CPU 上的推理吞吐。对于没有 GPU、只能靠 CPU 跑模型的用户来说，这意味着每秒能生成更多 token。",
+        "generatedAt": "2026-10-16T19:43:43+08:00"
+      }
+    },
+    {
+      "id": "7ce60cd2f3c9a9bc",
+      "title": "model : MTP support for Mellum2.1 by Xarbirus · Pull Request #30612 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x7aple/model_mtp_support_for_mellum21_by_xarbirus_pull",
+      "summary": "Mellum2.1 Highlights Mellum2.1 is the next version of Mellum2 Thinking . The architecture is unchanged (a 12B mixture-of-experts model with 2.5B active parameters), and almost all of the work for this version went into post-training, primar…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T16:28:09+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 新增 Mellum2.1 的 MTP 支持",
+        "takeaway": "开发者 Xarbirus 提交 PR，为 llama.cpp 加入 Mellum2.1 的多令牌预测支持，本地跑模型又多一个选择。",
+        "bullets": [
+          "PR #30612 为 llama.cpp 添加 Mellum2.1 的 MTP 支持",
+          "Mellum2.1 是 Mellum2 Thinking 的升级版",
+          "架构不变：12B MoE，激活参数 2.5B",
+          "本次升级主要投入在后训练环节"
+        ],
+        "detail": "Mellum2.1 是 Mellum2 Thinking 的下一代版本，模型架构没有变化，仍是 12B 的混合专家模型，实际激活参数约 2.5B。这一版的改进几乎全部来自后训练。开发者 Xarbirus 提交 PR，让 llama.cpp 支持它的多令牌预测（MTP）。",
+        "generatedAt": "2026-10-16T19:43:43+08:00"
+      }
+    },
+    {
       "id": "9289bfdea5d0fc8d",
       "title": "Ternary Bonsai 2 (2B, 4B, and 9B) just released on Hugging Face. The 2B can run entirely locally in the browser at up to 500 tok/s on an M4 Max with custom WebGPU kernels.",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x6w658/ternary_bonsai_2_2b_4b_and_9b_just_released_on",
@@ -1525,6 +1851,80 @@
         ],
         "detail": "字节跳动 AI 实验室 Seed 近日成立一级部门「Seed Alignment & Preparedness」，专门应对大模型安全风险，据称是国内首家单独设立安全与对齐部门的前沿 AI 实验室。该部门计划在全球招募 10 位对 AGI 有使命感的顶尖研究员，工作地点包括北京、上海和圣何塞。",
         "generatedAt": "2026-10-16T14:28:37+08:00"
+      }
+    },
+    {
+      "id": "ec6ecca6fdb87816",
+      "title": "从\"会用工具\"到\"能创造工具\"，中国—中亚\"校长π圆桌\"，共话AI时代科技人才培养",
+      "url": "https://oschina.net/news/503064",
+      "summary": "西安，2026年10月16日 —— \"2026中国—中亚青年科学家人工智能对话活动\"第二日议程中，开源中国副总裁、教育及创新生态业务CEO李晨出席\"校长π圆桌：AI时代科技人才培养路径\"对话环节，与中学、科普场馆、高校的一线教育者及中外青年学子同台对话，系统阐述开源生态赋能青少年AI人才培养的路径与实践。本场圆桌由西安国...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T19:22:57+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.6,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "中国—中亚校长圆桌：开源生态如何培养青少年AI人才",
+        "takeaway": "开源中国高管在西安圆桌对话中，分享用开源生态赋能青少年AI人才培养的路径。",
+        "bullets": [
+          "开源中国副总裁李晨出席西安校长π圆桌对话",
+          "与中学、科普场馆、高校教育者及中外学子同台",
+          "主题聚焦AI时代科技人才培养路径与实践",
+          "提出从会用工具到能创造工具的培养方向"
+        ],
+        "detail": "2026中国—中亚青年科学家人工智能对话活动第二天，在西安举办校长π圆桌，讨论AI时代科技人才培养。开源中国副总裁李晨与一线教育者、中外青年学子同台，分享开源生态如何赋能青少年AI人才培养。",
+        "generatedAt": "2026-10-16T19:43:44+08:00"
+      }
+    },
+    {
+      "id": "dc16b1ceaa06a899",
+      "title": "New paper from Stanford, Together AI, UIUC, and Meta introduces Hybrid Reasoning Agents. These AI models think mostly in a hidden internal way (faster and cheaper), and only use normal text when they need tools or give the final answer.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x7a8i8/new_paper_from_stanford_together_ai_uiuc_and_meta",
+      "summary": "On many tests (math, science, medicine, etc.), they score about 10% higher, use half the tokens, run twice as fast, and cost much less than regular models. mod here, paper link: [2610.18861] Hybrid Reasoning Agents original post on tech_x. …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T15:58:04+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "paper"
+      ],
+      "confidence": 0.5,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "斯坦福等提出混合推理智能体：少用文本、多靠内部思考",
+        "takeaway": "新方法让模型多在内部推理、少输出文字，测试成绩更高且更快更省。",
+        "bullets": [
+          "斯坦福、Together AI、UIUC 与 Meta 联合发布新论文",
+          "模型默认在隐藏内部推理，仅在调用工具或给答案时输出文本",
+          "数学、科学、医学等测试得分约高 10%，token 用量减半",
+          "速度约为普通模型两倍，成本大幅降低"
+        ],
+        "detail": "该论文提出混合推理智能体：模型大部分思考在隐藏的内部完成，速度更快、成本更低，只在需要调用工具或给出最终答案时才输出普通文本。在数学、科学、医学等多项测试中，它比常规模型得分高约 10%，token 用量减半，运行速度翻倍，成本也低得多。",
+        "generatedAt": "2026-10-16T19:43:46+08:00"
       }
     },
     {
@@ -1908,6 +2308,136 @@
       }
     },
     {
+      "id": "9ecf29b97b87511a",
+      "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
+      "url": "https://wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content",
+      "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T19:00:00+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI生成美女盗用喜剧段子，为OnlyFans引流",
+        "takeaway": "AI假模特用喜剧演员的段子吸引流量，再导流到付费平台，喜剧演员维权困难。",
+        "bullets": [
+          "AI生成模特账号盗用喜剧演员的原创段子",
+          "目的是把流量引向OnlyFans和Fanvue等付费账号",
+          "喜剧演员几乎没有有效手段维权"
+        ],
+        "detail": "一个由AI生成模特组成的网络，直接拿喜剧演员的表演素材来制作内容，以此吸引观众点击，再把流量导向她们的OnlyFans和Fanvue账号。由于这些账号是AI生成的，喜剧演员很难追究责任，也缺乏有效的维权途径。",
+        "generatedAt": "2026-10-16T19:43:45+08:00"
+      }
+    },
+    {
+      "id": "40e7908f98ebd0b7",
+      "title": "AI 生成的代码，怎么才能进得了工程体系？",
+      "url": "https://infoq.cn/article/8iKz8xNQvxDfeuxH1QLA",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T24:56:30+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 生成的代码，怎么才能进得了工程体系？",
+        "takeaway": "InfoQ 中国发文探讨 AI 生成代码如何融入现有工程体系，值得关注落地路径。",
+        "bullets": [
+          "InfoQ 中国发文讨论 AI 生成代码与工程体系的衔接问题",
+          "核心议题是 AI 代码如何通过评审、测试等工程流程",
+          "面向开发者与团队，关注 AI 编码工具的落地实践"
+        ],
+        "detail": "InfoQ 中国发布文章，聚焦 AI 生成代码如何进入工程体系这一话题。文章围绕 AI 写出的代码怎样融入现有开发流程展开讨论，涉及开发者与团队在采用 AI 编码工具时的实际落地问题。",
+        "generatedAt": "2026-10-16T19:43:48+08:00"
+      }
+    },
+    {
+      "id": "40b56bbb5a4bce4b",
+      "title": "Cloudflare 计划推出公共证书颁发机构，用于签发量子安全的 TLS 证书",
+      "url": "https://infoq.cn/article/CoGZq3xgQhZI4rBH8pjA",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T23:41:00+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cloudflare 将推公共 CA，签发量子安全 TLS 证书",
+        "takeaway": "Cloudflare 计划推出公共证书颁发机构，为网站签发抗量子攻击的 TLS 证书，应对未来量子计算威胁。",
+        "bullets": [
+          "Cloudflare 计划推出公共证书颁发机构（CA）",
+          "新 CA 将签发量子安全的 TLS 证书",
+          "旨在应对量子计算对现有加密体系的威胁"
+        ],
+        "detail": "Cloudflare 宣布计划推出自己的公共证书颁发机构，专门用于签发量子安全的 TLS 证书。随着量子计算的发展，现有加密算法可能被破解，此举旨在提前布局，保障互联网通信安全。",
+        "generatedAt": "2026-10-16T19:43:48+08:00"
+      }
+    },
+    {
+      "id": "8a20ec3445ba6fcc",
+      "title": "【AI 智能运维平台】本周更新：AI 对话搭建仪表盘，主机巡检打通执行、报告与通知",
+      "url": "https://oschina.net/news/503059",
+      "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。 📢【平台·本周更新速递】 📊 运营分析 • AI 仪表盘搭建：支持对话式数据源检索与图表生成 • 新增内置应用拓扑大屏 • 3D 机房完善机房统计信息 • 仪表盘、报表、拓...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T16:10:57+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "产品",
+        "应用"
+      ],
+      "confidence": 0.5,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "3a91047e3f6eab83",
       "title": "当企业微信遇上WorkBuddy，AI 办公真正的王炸组合出现了",
       "url": "https://tmtpost.com/8170778.html",
@@ -1979,6 +2509,29 @@
       "confidence": 1,
       "score": 33,
       "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9693931f12978271",
+      "title": "日租金跌至几百元，人形机器人的“打工时代”来了",
+      "url": "https://tmtpost.com/8170280.html",
+      "summary": "实用经济的序幕正式拉开",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T15:36:41+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
       "related": [],
       "pushed": false
     },
@@ -2102,6 +2655,148 @@
         "benchmark"
       ],
       "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b73643b97018ca53",
+      "title": "特斯拉都飞了，还要自动驾驶？",
+      "url": "https://tmtpost.com/8171034.html",
+      "summary": "马斯克用一台不依赖盈利、不依赖监管、纯靠物理奇观的车，抢回 \"技术先锋\" 的定义权。他亲口说的 \"最后几辆人类驾驶汽车中的佼佼者\"，是对自动驾驶兑现周期最诚实的一句供认。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T17:50:09+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "监管"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "56b41a4d7727fe51",
+      "title": "新旧物种交手，机器人小店“吃”掉便利店的黄金周",
+      "url": "https://tmtpost.com/8171361.html",
+      "summary": "节后能否活下去才是真正的考验",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T17:35:31+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ce0d51b3291c260b",
+      "title": "Muse能带火国内个人AI智能体吗？",
+      "url": "https://tmtpost.com/8171318.html",
+      "summary": "穿不透的墙太多了。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T17:33:28+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7134e183700ae967",
+      "title": "商用机器人公司值得更高估值",
+      "url": "https://tmtpost.com/8170590.html",
+      "summary": "机器人产业存在商业化成熟与早期初创公司估值差异，商业化好的公司估值低，早期公司却能快速飞升，资本裂缝仍存。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T16:39:59+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "估值"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0ddfa159db055b22",
+      "title": "苹果为「家」开场，果然家庭 AI 还是绕不开「语音+屏幕」",
+      "url": "https://ifanr.com/1684640",
+      "summary": "家庭正在重新变成科技公司寻找下一个 AI 落点的地方 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T17:00:24+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0c3e15a4040c9b7c",
+      "title": "邀请函 | Agentic Infra 操作系统大会 & openEuler Summit 2026",
+      "url": "https://oschina.net/news/503062",
+      "summary": "",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T18:01:49+08:00",
+      "fetchedAt": "2026-10-16T19:43:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 30,
       "related": [],
       "pushed": false
