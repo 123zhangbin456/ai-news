@@ -1,7 +1,45 @@
 {
   "date": "2026-10-16",
-  "updatedAt": "2026-10-16T09:45:51+08:00",
+  "updatedAt": "2026-10-16T14:28:41+08:00",
   "items": [
+    {
+      "id": "95da7363b421ae34",
+      "title": "Meta 发布 Muse Spark Open：和苹果合作打造、声称是「美国目前最强开源权重模型」、支持全模态输入",
+      "url": "https://oschina.net/news/503051/meta-ai-muse-spark-open",
+      "summary": "Meta 把一个 816B 参数的模型做成了能在家跑的东西。 Muse Spark Open 今天发布，官方口径是「美国目前最强的开源权重模型」，但它真正抓眼球的地方不在参数，在于运行环境——两台 Apple M5 Ultra Mac Studio。模型本身：816B 总参数、42B 激活（MoE 架构），100 万 token 上下文，原生多模态。定位是编码和 agentic ...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T11:31:30+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源",
+        "权重"
+      ],
+      "confidence": 0.5,
+      "score": 60,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Meta 发布 Muse Spark Open：816B 开源权重模型，与苹果合作",
+        "takeaway": "Meta 推出号称美国最强开源权重模型，主打本地运行与全模态输入。",
+        "bullets": [
+          "816B 总参数、42B 激活的 MoE 架构，支持 100 万 token 上下文",
+          "原生多模态输入，定位编码与 agentic 场景",
+          "与苹果合作，可在两台 M5 Ultra Mac Studio 上运行"
+        ],
+        "detail": "Meta 发布 Muse Spark Open，官方称其为「美国目前最强的开源权重模型」。它采用 MoE 架构，总参数 816B、激活 42B，支持百万级上下文和原生多模态，主要面向编码与 agentic 任务。亮点是运行环境：与苹果合作，两台 M5 Ultra Mac Studio 即可本地跑起来。",
+        "generatedAt": "2026-10-16T14:28:31+08:00"
+      },
+      "pushedAt": "2026-10-16T14:28:41+08:00"
+    },
     {
       "id": "d5bac5a69bce90a0",
       "title": "Meta launches an open-weight AI model that runs on Macs",
@@ -340,6 +378,42 @@
       "pushedAt": "2026-10-16T07:57:42+08:00"
     },
     {
+      "id": "61fb382ae4fe1e8f",
+      "title": "Pizza Bot：开源的后台 AI 智能体收件箱",
+      "url": "https://infoq.cn/article/aMgWFmwZ2HoZDtw1g0MQ",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T19:06:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Pizza Bot：开源的后台 AI 智能体收件箱",
+        "takeaway": "InfoQ 中国介绍了一款名为 Pizza Bot 的开源工具，用于管理后台 AI 智能体的消息收件箱。",
+        "bullets": [
+          "Pizza Bot 是开源项目，定位为后台 AI 智能体的收件箱",
+          "由 InfoQ 中国报道，面向开发者与 AI 应用场景",
+          "可帮助集中处理 AI 智能体产生的消息或任务"
+        ],
+        "detail": "InfoQ 中国报道了一个名为 Pizza Bot 的开源项目，它被描述为“后台 AI 智能体的收件箱”。该工具旨在为 AI 智能体提供统一的消息接收与管理入口，方便开发者跟踪和处理智能体在后台产生的各类信息。",
+        "generatedAt": "2026-10-16T14:28:31+08:00"
+      }
+    },
+    {
       "id": "7b45a5eb01c2a2c8",
       "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
       "url": "https://wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview",
@@ -375,6 +449,42 @@
         "generatedAt": "2026-10-16T05:53:22+08:00"
       },
       "pushedAt": "2026-10-16T07:57:42+08:00"
+    },
+    {
+      "id": "f38d06b911842ba3",
+      "title": "Linus用Claude Code改Linux内核，大神也没兜住代码里的Bug",
+      "url": "https://infoq.cn/article/hRw4BZQQUW14sqYMo5F6",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T19:47:14+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Linus 用 Claude Code 改 Linux 内核，代码仍藏 Bug",
+        "takeaway": "连 Linus 用 AI 改内核都没能避开 Bug，说明 AI 编程工具尚不可全信。",
+        "bullets": [
+          "Linus 用 Claude Code 修改 Linux 内核代码",
+          "改动中仍存在未被发现的 Bug",
+          "AI 辅助编程的可靠性再受质疑"
+        ],
+        "detail": "Linux 创始人 Linus Torvalds 尝试用 Claude Code 修改内核代码，结果代码里还是留下了 Bug。这说明即便是顶级开发者加 AI 工具，也未必能保证代码完全正确，AI 编程助手仍需人工仔细审查。",
+        "generatedAt": "2026-10-16T14:28:31+08:00"
+      }
     },
     {
       "id": "b0450d12d28b5a17",
@@ -562,6 +672,42 @@
         ],
         "detail": "英伟达在 Hugging Face 上放出 Nemotron-3.5-Embed-1B-BF16，这是一个通用嵌入模型，主打多模态和多语言问答检索。它能把整页文档以图片、纯文本或图文组合的形式转成向量，方便后续检索。",
         "generatedAt": "2026-10-16T09:45:51+08:00"
+      }
+    },
+    {
+      "id": "578fa78138a09b11",
+      "title": "5 年前的机密文档被泄露：Anthropic 的所有胜利，早在 2021 年就写好了",
+      "url": "https://leiphone.com/category/yanxishe/gO1lTcRqFyRtbiFP.html",
+      "summary": "一张五年前的研发清单，兑现如今 AI 行业大半成果。作者丨高允毅编辑丨岑峰最近，一场版权官司意外曝光了 Anthropic 一份内部机密文件《Concise Research Roadmap》 ，这是 Anthropic 五年前的研究路线图。这个文档由 Anthropic 联创 Jared Kaplan 撰写，只有三四页，却出现了我们今天讨论的Coding Agent、Tool Use、长上下文、RL、自动化反馈，甚至Agent的安全问题...... 这份文档汇集了Anthr…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T07:55:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "版权"
+      ],
+      "confidence": 0.25,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 五年前机密路线图曝光，AI 行业大半成果早已写就",
+        "takeaway": "一场版权官司意外泄露 Anthropic 2021 年内部研究路线图，其预判几乎覆盖当下 AI 热点方向。",
+        "bullets": [
+          "文件为 Anthropic 联创 Jared Kaplan 所写，仅三四页",
+          "内容涵盖 Coding Agent、Tool Use、长上下文、RL 等方向",
+          "因版权官司被意外曝光，引发行业关注"
+        ],
+        "detail": "这份名为《Concise Research Roadmap》的文档写于五年前，出自 Anthropic 联合创始人 Jared Kaplan 之手，篇幅只有三四页。里面已经列出 Coding Agent、Tool Use、长上下文、强化学习、自动化反馈乃至 Agent 安全等议题，与今天行业讨论的重点高度重合。文档因一",
+        "generatedAt": "2026-10-16T14:28:33+08:00"
       }
     },
     {
@@ -1081,6 +1227,44 @@
       }
     },
     {
+      "id": "7d8be4c569afce87",
+      "title": "阿里千问上车宝马iX3",
+      "url": "https://leiphone.com/category/industrynews/1zjGZ4srbO3kyVEw.html",
+      "summary": "10月15日消息，在2026宝马集团中国创新日上，宝马宣布新世代BMW iX3将搭载专为中国市场打造的座舱AI能力。该能力由宝马与阿里巴巴联合开发，以阿里千问大模型为AI底座，并由斑马负责座舱应用与车端集成，融入BMW智能个人助理（BMW Intelligent Personal Assistant）。阿里巴巴集团副总裁、阿里云智能集团CTO李飞飞表示，阿里将从用户场景出发，让新世代宝马智能座舱更加聪明、自然。目前，阿里已经成为车企的全栈AI技术伙伴。IDC数据显示，2025…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T10:36:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "应用",
+        "集成",
+        "assistant"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阿里千问大模型上车宝马新世代iX3",
+        "takeaway": "宝马与阿里联合开发中国专属座舱AI，千问大模型成为底层能力，斑马负责车端集成。",
+        "bullets": [
+          "新世代BMW iX3将搭载专为中国市场打造的座舱AI",
+          "AI底座为阿里千问大模型，斑马负责应用与车端集成",
+          "能力融入BMW智能个人助理，阿里成车企全栈AI伙伴"
+        ],
+        "detail": "在2026宝马集团中国创新日上，宝马宣布新世代iX3将搭载与阿里巴巴联合开发的中国市场专属座舱AI。该能力以千问大模型为底座，由斑马负责座舱应用和车端集成，并融入BMW智能个人助理。阿里云CTO李飞飞称，将从用户场景出发让座舱更聪明自然。",
+        "generatedAt": "2026-10-16T14:28:36+08:00"
+      }
+    },
+    {
       "id": "ff08a8815cebb1b5",
       "title": "**DeepSeek-V4-Flash-0731 on 4x Radeon AI PRO R9700 with affinity: the \"refused\" 4-card config works, ~79 tok/s on real cards**",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x70e5r/deepseekv4flash0731_on_4x_radeon_ai_pro_r9700",
@@ -1304,6 +1488,44 @@
         "generatedAt": "2026-10-16T05:53:28+08:00"
       },
       "pushedAt": "2026-10-16T07:57:42+08:00"
+    },
+    {
+      "id": "c3e3a26ebc61e5e9",
+      "title": "字节 Seed 成立“大模型安全与对齐”部门，面向全球招 10 位研究员",
+      "url": "https://oschina.net/news/503048/seed-alignment-preparedness-team-looking-for-global-talents",
+      "summary": "字节跳动旗下 AI 实验室 Seed 成立了「Seed Alignment & Preparedness」一级部门，专门负责大模型安全风险，据称是国内首家单独成立安全与对齐部门的前沿 AI 实验室。 Seed 官方的说法更聚焦：这个近日成立的部门，计划在全球范围内邀请 10 位对 AGI 抱有使命感和研究热情的顶尖研究员加入，工作地点在北京、上海、圣何塞...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T11:00:04+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "对齐",
+        "风险",
+        "alignment"
+      ],
+      "confidence": 0.5,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "字节 Seed 设大模型安全与对齐部门，全球招募 10 位研究员",
+        "takeaway": "字节 Seed 成立专门安全与对齐部门，成国内首家单独设此部门的前沿 AI 实验室。",
+        "bullets": [
+          "字节 Seed 新设「Seed Alignment & Preparedness」一级部门",
+          "专责大模型安全风险，称国内前沿 AI 实验室首例",
+          "全球招募 10 位研究员，工作地含北京、上海、圣何塞"
+        ],
+        "detail": "字节跳动 AI 实验室 Seed 近日成立一级部门「Seed Alignment & Preparedness」，专门应对大模型安全风险，据称是国内首家单独设立安全与对齐部门的前沿 AI 实验室。该部门计划在全球招募 10 位对 AGI 有使命感的顶尖研究员，工作地点包括北京、上海和圣何塞。",
+        "generatedAt": "2026-10-16T14:28:37+08:00"
+      }
     },
     {
       "id": "e1c5f3fbbeff9306",
@@ -1548,6 +1770,245 @@
       }
     },
     {
+      "id": "f0274e86dbf7b669",
+      "title": "谷歌的 Android 安全状态库支持组件级安全校验",
+      "url": "https://infoq.cn/article/yZh3MeRrBa7IbsB1PrUp",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T22:17:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌 Android 安全状态库新增组件级安全校验",
+        "takeaway": "谷歌为 Android 安全状态库加入组件级校验，开发者能更细粒度地检查应用安全。",
+        "bullets": [
+          "谷歌 Android 安全状态库支持组件级安全校验",
+          "开发者可对单个应用组件进行安全状态检查",
+          "提升 Android 应用安全检测的精细度"
+        ],
+        "detail": "谷歌的 Android 安全状态库现在支持组件级安全校验，意味着开发者可以针对应用中的单个组件检查其安全状态，而不再只做整体判断。这有助于更精准地发现和定位安全问题。",
+        "generatedAt": "2026-10-16T14:28:38+08:00"
+      }
+    },
+    {
+      "id": "2d33aeafc1ee3d07",
+      "title": "Pi 抛出全新 Agent Harness，还把自己骂了一年的 MCP 装进了核心",
+      "url": "https://infoq.cn/article/hQOHf1ZXoBs7uMpWJQss",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T19:53:14+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Pi 推出全新 Agent Harness，并将 MCP 纳入核心",
+        "takeaway": "Pi 发布 Agent Harness，同时把此前批评一年的 MCP 集成进核心，态度反转值得关注。",
+        "bullets": [
+          "Pi 推出全新 Agent Harness 框架",
+          "曾批评 MCP 一年，如今将其装进核心",
+          "MCP 从被质疑到被接纳，或影响 Agent 生态"
+        ],
+        "detail": "Pi 发布了新的 Agent Harness，并把自己过去一年一直批评的 MCP 放进了核心。此前对 MCP 的质疑与现在的集成形成鲜明对比，这一转变可能影响相关 Agent 工具链的走向。",
+        "generatedAt": "2026-10-16T14:28:39+08:00"
+      }
+    },
+    {
+      "id": "ac29859f4d7ce3fb",
+      "title": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+      "url": "https://infoq.cn/article/t3XbHewuN37fsodaprUC",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T18:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "手淘 TEKO 实践：AI 写代码后如何自动验证修复",
+        "takeaway": "手淘分享 TEKO 框架，让 AI 写代码后能自动验证并修复，形成闭环。",
+        "bullets": [
+          "手淘团队提出 TEKO 框架，实现 AI 写代码后的自动验证与修复",
+          "该实践在 QCon 上海分享，聚焦“写—验—修”自主闭环",
+          "目标解决 AI 生成代码的可靠性问题，减少人工介入"
+        ],
+        "detail": "手淘团队在 QCon 上海介绍了 TEKO 框架，它让 AI 写完代码后自动进行验证，发现问题还能自动修复，形成“写—验—修”闭环。这套工程实践旨在提升 AI 生成代码的可靠性，减少人工检查成本。",
+        "generatedAt": "2026-10-16T14:28:39+08:00"
+      }
+    },
+    {
+      "id": "5d30ffc16eb5f807",
+      "title": "手机厂商的麻烦，AI背不了锅",
+      "url": "https://tmtpost.com/8170793.html",
+      "summary": "等手机重新便宜下来，发布会照样热闹，新品配置仍会一年比一年漂亮。至于消费者会不会因此掏钱，恐怕还得看他手里的旧手机答不答应",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:26:40+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "手机厂商的麻烦，AI背不了锅",
+        "takeaway": "手机市场疲软不能全怪AI，等价格回落、新品照发，消费者换不换机还得看旧手机能不能用。",
+        "bullets": [
+          "手机厂商增长乏力，AI被当成新卖点但难救市",
+          "等手机重新便宜，发布会仍会热闹，配置照旧升级",
+          "消费者是否掏钱，取决于手里的旧手机是否还能用"
+        ],
+        "detail": "手机厂商面临增长压力，AI功能被推上前台，但文章认为这口锅不该由AI来背。等手机价格降下来，发布会依然会热闹，新品配置也会一年比一年漂亮。可消费者愿不愿意买单，最终还得看他们手里的旧手机答不答应。",
+        "generatedAt": "2026-10-16T14:28:40+08:00"
+      }
+    },
+    {
+      "id": "3a91047e3f6eab83",
+      "title": "当企业微信遇上WorkBuddy，AI 办公真正的王炸组合出现了",
+      "url": "https://tmtpost.com/8170778.html",
+      "summary": "企业微信 × WorkBuddy 实现双向打通，市场争了近两年的 AI 办公入口，腾讯给了一个最温和的答案。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:05:39+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f194a62f2ab7f785",
+      "title": "库克确认：国行苹果 AI 十月底上线测试版",
+      "url": "https://oschina.net/news/503053",
+      "summary": "国行 Apple Intelligence 终于有了具体时间表。APPSO 在现场采访中与苹果执行董事长蒂姆·库克确认：首批功能将于今年 10 月底在中国大陆推出测试版。国行用户等了两年多的苹果 AI，这次是真的要来了。首批功能是写作工具、图像消除、实时翻译这一档。想用上全新的 Siri AI 助手还得再等等——它不在这次首批测试范围内...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T11:50:16+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出",
+        "上线"
+      ],
+      "confidence": 0.43,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b012ceea72acf0fc",
+      "title": "LLM-as-an-Investigator: Evidence-First Agentic Reasoning for Robust Interactive Problem Diagnosis",
+      "url": "https://arxiv.org/abs/2606.13220",
+      "summary": "arXiv:2606.13220v2 Announce Type: replace Abstract: Large language models (LLMs) are used for technical troubleshooting, where problem descriptions are often incomplete and multiple causes can explain the same symptoms. Effective diagnosis …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 33,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4ba135beb7fc614e",
+      "title": "RSIFlow: Adaptive Self-Improvement Workflows with an Evolving Meta-Agent",
+      "url": "https://arxiv.org/abs/2610.21791",
+      "summary": "arXiv:2610.21791v1 Announce Type: new Abstract: Large language model (LLM) agents have demonstrated strong capabilities in complex tasks, including code generation, tool use, and multi-hop question answering. Existing self-improvement metho…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 31,
+      "paperRank": 12,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "87dafab8fa4731d9",
       "title": "I turned a transformer into a game console that runs Pong, Tetris, Space Invaders and 116 more games.",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x6uaav/i_turned_a_transformer_into_a_game_console_that",
@@ -1596,6 +2057,519 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-10-16T07:57:42+08:00"
+    },
+    {
+      "id": "7aeedbaa73e3198e",
+      "title": "双十一的AI经济学",
+      "url": "https://tmtpost.com/8170394.html",
+      "summary": "商家付费的理由只有一个",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T11:21:28+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c1369c8b8df11ea4",
+      "title": "ALoDLM 8b looped diffusion language model: ~3x inference speed vs its base model qwen3-8b with better benchmark results",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x75bme/alodlm_8b_looped_diffusion_language_model_3x",
+      "summary": "Diffusion language models are the future! submitted by /u/billy_booboo [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T11:09:36+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "benchmark"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2a7d6e3ad1200f43",
+      "title": "苹果AI加速补课：库克打通中国，特努斯抢攻客厅",
+      "url": "https://tmtpost.com/8170670.html",
+      "summary": "起大早赶晚集，有了AI的苹果疯狂补课。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T10:12:04+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c1e7d0c0c00018fa",
+      "title": "Constrained Multi-Agent Reinforcement Learning in Imagination",
+      "url": "https://arxiv.org/abs/2610.21319",
+      "summary": "arXiv:2610.21319v1 Announce Type: new Abstract: Predicting cost in a multi-agent world model moves most constrained policy updates into imagination: the stronger model-free baseline needs $10$ to $20$ times CA-MAMBA's interactions on the me…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 28,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c7f3b2b0449e6fd6",
+      "title": "CoWorld Reasoner: Agentic Multimodal Reasoning with the Evolving Video World Model-Driven Harness",
+      "url": "https://arxiv.org/abs/2610.21910",
+      "summary": "arXiv:2610.21910v1 Announce Type: new Abstract: As Vision-Language Models (VLMs) advance, they are increasingly expected to perform spatiotemporal reasoning over motion, actions, and view changes beyond what the input images show. Video Wor…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 22,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5a4c85ab654b4c13",
+      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+      "url": "https://arxiv.org/abs/2610.20665",
+      "summary": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ec55d30545d8454c",
+      "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
+      "url": "https://arxiv.org/abs/2610.20675",
+      "summary": "arXiv:2610.20675v1 Announce Type: new Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking ex…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "16911c902ab392c5",
+      "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
+      "url": "https://arxiv.org/abs/2610.20681",
+      "summary": "arXiv:2610.20681v1 Announce Type: new Abstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations. We introduce IneqAgent, an agentic framewo…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1196b522abf53e95",
+      "title": "StepSafe: Learning Timely Intervention with Context-Aware Safety Reasoning",
+      "url": "https://arxiv.org/abs/2610.20960",
+      "summary": "arXiv:2610.20960v1 Announce Type: new Abstract: Safety in agentic systems is inherently sequential: whether an action is safe depends on prior actions, tool outputs, information disclosures, and interactions among agents. Recent work has sh…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b75930b6f12bda5e",
+      "title": "AutoOnboarder: Autonomously Onboarding LLM Agents",
+      "url": "https://arxiv.org/abs/2610.21218",
+      "summary": "arXiv:2610.21218v1 Announce Type: new Abstract: Agentic large language models have been documented to lose reasoning capability when placed inside a harness, the software that mediates their observations and actions. To reconcile these loss…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "17a60afca50ce2bd",
+      "title": "Mallea: Building, Steering, and Memorizing Worlds with Coding Agent",
+      "url": "https://arxiv.org/abs/2610.21283",
+      "summary": "arXiv:2610.21283v1 Announce Type: new Abstract: Code world models represent world dynamics through explicit state and executable rules. We investigate how to coordinate object representations, behavioral revisions, and visual memory within …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cafbaa21260c525f",
+      "title": "Bias Control and Injection for Multi-Agent Aggregation",
+      "url": "https://arxiv.org/abs/2610.21290",
+      "summary": "arXiv:2610.21290v1 Announce Type: new Abstract: Multi-agent reasoning with large language models (LLMs) raises a central question for collective decision-making: when agents disagree, whose decision should be trusted? Resolving such disagre…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8a042b1cace24dd2",
+      "title": "QREF: Improving DeepSearch Agents by Aligning Search with Reasoning via Query Refinement and Evidence Filtering",
+      "url": "https://arxiv.org/abs/2610.21512",
+      "summary": "arXiv:2610.21512v1 Announce Type: new Abstract: DeepSearch agents achieve strong performance on complex information-seeking tasks through iterative search and reasoning. However, they often issue intent-misaligned, under-constrained, or red…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "95241b90a0c6bff4",
+      "title": "Evaluating Inquiry Learning in LLM-Based Agents: Hypothesizing, Reasoning, and Exploration",
+      "url": "https://arxiv.org/abs/2610.21604",
+      "summary": "arXiv:2610.21604v1 Announce Type: new Abstract: Scientific inquiry involves iterative cycles of exploration, hypothesis generation, and reasoning over observations to uncover relationships in complex systems. Large language models (LLMs) ha…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a2a9fa92d6b0d353",
+      "title": "When Reasoning Is Not Enough: Proactive Inquiry for Cross-Modal Safety in Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2610.22068",
+      "summary": "arXiv:2610.22068v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) can act unsafely when individually benign images and texts are interpreted jointly. Beyond implicit reasoning risk, where reasoning drifts toward harm,…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d9d064c17c1febe4",
+      "title": "ReasonUni: Reasoning-Augmented Reconstruction Advances Unified Multimodal Models",
+      "url": "https://arxiv.org/abs/2610.20781",
+      "summary": "arXiv:2610.20781v1 Announce Type: cross Abstract: Image-to-text (I2T) understanding and text-to-image (T2I) generation are dual tasks in unified multimodal models (UMMs). Reconstructive post-training couples these tasks, but existing recons…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2a3a8c33e4616899",
+      "title": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+      "url": "https://arxiv.org/abs/2610.22273",
+      "summary": "arXiv:2610.22273v1 Announce Type: cross Abstract: Reasoning over long document contexts remains a challenge for large language models (LLMs). Standard retrieval methods are inherently reactive, bottlenecking agents with complex, cross-docum…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e744f31dc88d6f40",
+      "title": "Constructing and Evaluating Clinical Reasoning Trajectories for Medical Agent",
+      "url": "https://arxiv.org/abs/2609.05090",
+      "summary": "arXiv:2609.05090v2 Announce Type: replace Abstract: Evaluation of medical artificial intelligence agents remains predominantly answer-centric, assessing only the correctness of final outputs while overlooking the quality of intermediate rea…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "add4f766eead1997",
+      "title": "Enhancing Multimodal RLVR with Pairwise Token Contrast and Adaptive Trajectory Confidence",
+      "url": "https://arxiv.org/abs/2610.21671",
+      "summary": "arXiv:2610.21671v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) improves multimodal reasoning, but group-relative policy optimization broadcasts a single sequence-level advantage to every token of a res…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "824f8145b7832df7",
+      "title": "OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
+      "url": "https://arxiv.org/abs/2610.22355",
+      "summary": "arXiv:2610.22355v1 Announce Type: new Abstract: Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visual verifiers in complex multimodal scenarios involving compositional requ…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-16T12:00:00+08:00",
+      "fetchedAt": "2026-10-16T14:28:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
