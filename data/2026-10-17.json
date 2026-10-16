@@ -1,7 +1,115 @@
 {
   "date": "2026-10-17",
-  "updatedAt": "2026-10-16T19:43:48+08:00",
+  "updatedAt": "2026-10-17T01:07:15+08:00",
   "items": [
+    {
+      "id": "1aa8b1ac1c09583d",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T24:01:37+08:00",
+      "fetchedAt": "2026-10-17T01:07:04+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 57,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Elorian 发布首个 AI 模型 Glimpse，主打图像推理",
+        "takeaway": "Elorian 推出首款模型 Glimpse，声称在图表推理和短视频描述上超越 GPT-6 Astra。",
+        "bullets": [
+          "Elorian 发布首个 AI 模型 Glimpse，专注图像推理",
+          "官方评测称其在科学图表推理和短视频描述上超越 GPT-6 Astra",
+          "其他视觉推理任务表现也具竞争力"
+        ],
+        "detail": "Elorian 发布了其首个 AI 模型 Glimpse，目标不仅是理解图像，而是用图像进行推理。根据其内部评测，Glimpse 在科学图表推理和短视频描述任务上超过了 GPT-6 Astra，在其他视觉推理任务上也表现不俗。",
+        "generatedAt": "2026-10-17T01:07:12+08:00"
+      }
+    },
+    {
+      "id": "84c2c565c396ae83",
+      "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards s…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T24:30:00+08:00",
+      "fetchedAt": "2026-10-17T01:07:04+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.33,
+      "score": 56,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "前英伟达机器人业务高管：机器人还没迎来ChatGPT时刻",
+        "takeaway": "一位在英伟达机器人平台做了七年产品营销、如今转做风投的人认为，机器人仍处于拼积木的早期阶段。",
+        "bullets": [
+          "Amulya Vishwanath 在英伟达机器人平台负责产品营销七年，现转做风投",
+          "她把机器人现状比作“乐高时代”，执行器、机械手、软件、安全标准都还在搭积木",
+          "结论是机器人尚未出现类似 ChatGPT 的爆发拐点"
+        ],
+        "detail": "这位前英伟达机器人业务高管、现风投人 Amulya Vishwanath 表示，机器人行业目前还处在“乐高时代”：执行器、机械手、软件和安全标准这些基础模块都还在拼装阶段，因此还没等来属于自己的 ChatGPT 时刻。",
+        "generatedAt": "2026-10-17T01:07:13+08:00"
+      }
+    },
+    {
+      "id": "1db14d807722c8b3",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards s…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T24:30:00+08:00",
+      "fetchedAt": "2026-10-17T01:07:04+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.33,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达前高管：物理AI不止是机器人，正处乐高时代",
+        "takeaway": "英伟达机器人业务前产品营销负责人转行投资物理AI，认为行业仍处早期拼装阶段。",
+        "bullets": [
+          "Amulya Vishwanath 在英伟达机器人平台做了七年产品营销，如今转向投资物理AI。",
+          "他把机器人行业比作乐高时代：执行器、机械手、软件、安全标准等基础件仍在拼装。",
+          "物理AI不止是机器人，基础模块成熟后才会迎来规模化应用。"
+        ],
+        "detail": "在英伟达机器人平台负责产品营销七年的 Amulya Vishwanath，如今转而投资物理AI。他认为机器人行业还处在“乐高时代”，执行器、机械手、软件和安全标准等基础模块仍在搭建，远未到成熟阶段。",
+        "generatedAt": "2026-10-17T01:07:13+08:00"
+      }
+    },
     {
       "id": "55767033a55b6f98",
       "title": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
@@ -71,6 +179,29 @@
         "detail": "InfoQ 中国发布了一份名为《生产级大模型平台工程实战手册》的内容，从标题看，它面向的是把大模型从试验阶段推进到生产环境的工程实践。原文未提供更多细节，具体内容需点击原文查看。",
         "generatedAt": "2026-10-16T19:43:47+08:00"
       }
+    },
+    {
+      "id": "43a9416c4a5f72c5",
+      "title": "The debt-fueled AI boom is cracking",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x7lcdu/the_debtfueled_ai_boom_is_cracking",
+      "summary": "submitted by /u/slippery [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T24:47:11+08:00",
+      "fetchedAt": "2026-10-17T01:07:04+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
