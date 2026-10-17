@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updatedAt": "2026-10-17T22:03:00+08:00",
+  "updatedAt": "2026-10-18T24:03:21+08:00",
   "items": [
     {
       "id": "1aa8b1ac1c09583d",
@@ -364,6 +364,40 @@
         ],
         "detail": "Akka 正在 65 个开源项目里试验一种基于规格的 AI 交付方式，即先写好规格，再让 AI 按规格完成代码交付。目前公开信息只提到测试范围，具体效果和细节还需看原文。",
         "generatedAt": "2026-10-17T18:59:08+08:00"
+      }
+    },
+    {
+      "id": "3e7a8c91741b3469",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "url": "https://theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms pag…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T23:04:36+08:00",
+      "fetchedAt": "2026-10-18T24:03:06+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 修改条款，删除可能允许抓取新闻网站内容的表述",
+        "takeaway": "Meta 在舆论压力下修改商业条款，移除可能被解读为允许抓取新闻网站内容训练 AI 的措辞。",
+        "bullets": [
+          "Meta 更新商业条款，删除涉及抓取网站内容训练 AI 的表述。",
+          "此举回应外界对 Meta 抓取新闻网站内容的批评。",
+          "条款修改后，Meta 抓取内容的权限范围更明确。"
+        ],
+        "detail": "Meta 再次更新条款，删除了可能暗示其可抓取网站（包括新闻网站）内容用于训练 AI 的表述。此前相关措辞引发批评，Meta 随后作出调整。",
+        "generatedAt": "2026-10-18T24:03:21+08:00"
       }
     },
     {
@@ -1060,6 +1094,42 @@
       }
     },
     {
+      "id": "f34e9f9b2f2a354c",
+      "title": "DeepSeek V4.1 Flash (1017) Now Leads Open-Weight Models",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x8bb6b/deepseek_v41_flash_1017_now_leads_openweight",
+      "summary": "submitted by /u/Informal-Trouble2183 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T22:15:01+08:00",
+      "fetchedAt": "2026-10-18T24:03:06+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek V4.1 Flash 登顶开源权重模型榜首",
+        "takeaway": "DeepSeek 新版本在开源权重模型中排名第一，值得关注开源模型竞争格局变化。",
+        "bullets": [
+          "DeepSeek V4.1 Flash（1017）在开源权重模型中排名领先",
+          "消息来自 r/LocalLLaMA 社区讨论，具体评测细节未在摘要中说明",
+          "开源权重模型竞争加剧，可能影响开发者的模型选型"
+        ],
+        "detail": "Reddit 的 LocalLLaMA 社区有帖子称，DeepSeek V4.1 Flash（1017）目前在开源权重模型中处于领先位置。帖子未提供具体评测数据或对比细节，但反映出开源模型领域的竞争持续升温。",
+        "generatedAt": "2026-10-18T24:03:21+08:00"
+      }
+    },
+    {
       "id": "0342f39befa10261",
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "url": "https://github.com/cobanov/PS5LM",
@@ -1275,6 +1345,43 @@
         ],
         "detail": "llama.cpp 已通过 PR 加入对 Aleph Alpha 的 Kolibri-1 模型支持。这是一个 78B 参数、激活 3.4B 的混合专家推理模型，重点面向德语和英语。目前社区还在等待对应的 GGUF 文件发布，之后就能在本地运行。",
         "generatedAt": "2026-10-17T22:02:59+08:00"
+      }
+    },
+    {
+      "id": "7569497eee5cdb57",
+      "title": "CUDA: faster MMVQ for low-bit types by am17an · Pull Request #30517 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x8bqqs/cuda_faster_mmvq_for_lowbit_types_by_am17an_pull",
+      "summary": "big speedup, but only for specific quantizations like Q2_K and Q3_K submitted by /u/jacek2023 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T22:33:53+08:00",
+      "fetchedAt": "2026-10-18T24:03:06+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 合并 CUDA 优化：低比特量化推理提速",
+        "takeaway": "llama.cpp 的 CUDA 后端针对 Q2_K、Q3_K 等低比特量化优化矩阵向量乘，推理速度明显提升。",
+        "bullets": [
+          "PR #30517 由 am17an 提交，已合入 ggml-org/llama.cpp",
+          "优化对象是 CUDA 后端的 MMVQ，即量化矩阵向量乘",
+          "提速仅限 Q2_K、Q3_K 等特定低比特量化类型",
+          "低比特量化用户可获更快的本地推理速度"
+        ],
+        "detail": "llama.cpp 合并了一个 CUDA 优化 PR，改进了低比特量化下的矩阵向量乘（MMVQ）实现。作者称提速幅度很大，但只对 Q2_K、Q3_K 这类特定量化生效，其他量化类型不受影响。",
+        "generatedAt": "2026-10-18T24:03:21+08:00"
       }
     },
     {
@@ -2000,6 +2107,29 @@
       ],
       "confidence": 0,
       "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0913988ccbedf140",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 176 # Comments: 59",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T12:36:53+08:00",
+      "fetchedAt": "2026-10-18T24:03:06+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 26,
       "related": [],
       "pushed": false
     }
