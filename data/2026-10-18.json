@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-18",
+  "updatedAt": "2026-10-18T02:57:48+08:00",
+  "items": [
+    {
+      "id": "27d0e2fc1a87d037",
+      "title": "how do teams catch AI chatbots giving customers wrong answers? ours promised free repairs",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x8f7cc/how_do_teams_catch_ai_chatbots_giving_customers",
+      "summary": "so we moved our support bot onto our own self-hosted model earlier this year so customer data stays in house. It answers from our help docs with RAG and for months it was fine and just ast week a customer sent a screenshot where the bot tol…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T24:55:59+08:00",
+      "fetchedAt": "2026-10-18T02:57:41+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "customers"
+      ],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "自托管客服机器人承诺免费维修，团队如何发现AI错误回答？",
+        "takeaway": "企业自托管RAG客服机器人运行数月后出现错误承诺，暴露AI输出监控难题。",
+        "bullets": [
+          "团队将客服机器人迁移至自托管模型，用RAG基于帮助文档回答。",
+          "运行数月正常，上周客户截图显示机器人给出错误承诺（如免费维修）。",
+          "问题核心：团队如何及时发现AI聊天机器人的错误回答。"
+        ],
+        "detail": "该团队今年初把客服机器人换成自托管模型，用RAG从帮助文档生成回答，以保护客户数据。几个月来运行正常，但上周有客户发来截图，显示机器人给出了错误承诺（如免费维修）。这引发讨论：团队该如何捕捉AI聊天机器人的错误回答。",
+        "generatedAt": "2026-10-18T02:57:47+08:00"
+      }
+    },
+    {
+      "id": "fa796824301f11c6",
+      "title": "Amazon uses AI to monitor union risk in UK warehouses",
+      "url": "https://opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
+      "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 116 # Comments: 41",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T24:04:23+08:00",
+      "fetchedAt": "2026-10-18T02:57:41+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "29c63ddb4c1e37ca",
+      "title": "Linux creator says anti-AI rules are \"idiotic.\" (Absolute god-tier take.)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic",
+      "summary": "submitted by /u/HolidayBit143 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T24:13:13+08:00",
+      "fetchedAt": "2026-10-18T02:57:41+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    }
+  ],
+  "topic": "ai"
+}

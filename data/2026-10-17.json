@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updatedAt": "2026-10-18T24:03:21+08:00",
+  "updatedAt": "2026-10-18T02:57:48+08:00",
   "items": [
     {
       "id": "1aa8b1ac1c09583d",
@@ -1130,6 +1130,43 @@
       }
     },
     {
+      "id": "2cd7adf5688c7dcf",
+      "title": "DeepSeek V4.1 Flash 1017 token efficiency",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x8dh83/deepseek_v41_flash_1017_token_efficiency",
+      "summary": "https://preview.redd.it/thtq5y7zr1wh1.png?width=3706&format=png&auto=webp&s=e75b7f205d4c7d9bed8b45bf964e9535f3492a72 I only found one sloppy-ass slop channel that published see pic attached. Obviously they celebrate its cost efficiency and …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T23:46:46+08:00",
+      "fetchedAt": "2026-10-18T02:57:41+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "preview",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek V4.1 Flash 曝光：1017 token 效率引关注",
+        "takeaway": "社区曝光 DeepSeek V4.1 Flash 的 token 效率数据，成本优势成讨论焦点。",
+        "bullets": [
+          "Reddit 用户贴图展示 DeepSeek V4.1 Flash 的 token 效率表现",
+          "发帖者称仅一家质量不高的频道报道了该消息",
+          "该频道重点宣传其成本效率，但发帖者态度存疑"
+        ],
+        "detail": "有用户在 LocalLLaMA 版块贴出一张截图，显示 DeepSeek V4.1 Flash 在 1017 个 token 上的效率数据。发帖者表示只找到一家不太靠谱的频道报道此事，该频道大力称赞其成本效率，但发帖者语气中带着保留。",
+        "generatedAt": "2026-10-18T02:57:48+08:00"
+      }
+    },
+    {
       "id": "0342f39befa10261",
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "url": "https://github.com/cobanov/PS5LM",
@@ -1382,6 +1419,43 @@
         ],
         "detail": "llama.cpp 合并了一个 CUDA 优化 PR，改进了低比特量化下的矩阵向量乘（MMVQ）实现。作者称提速幅度很大，但只对 Q2_K、Q3_K 这类特定量化生效，其他量化类型不受影响。",
         "generatedAt": "2026-10-18T24:03:21+08:00"
+      }
+    },
+    {
+      "id": "a60fb67dc418fd22",
+      "title": "游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易",
+      "url": "https://solidot.org/story?sid=85638",
+      "summary": "协作游戏逆向工程网站 decomp.dev 宣布将关闭，管理员称 AI 让游戏反编译变得快且易于操作，基于人工的社区协作模式实际上已经瓦解，无法再区分哪些项目是以人工为主导的，哪些是由 AI 完成的。decomp.dev 管理员 Encounter 在官网声明中表示，从历史上看，匹配反编译一直是极其困难且耗时的任务，即便是对那些有适量活跃贡献者的中等规模游戏来说，反编译要以“年”为单位计时，但 GPT-6-Astra 之类的前沿 AI 模型最近已让反编译游戏变得极其轻松：它们…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T23:55:34+08:00",
+      "fetchedAt": "2026-10-18T02:57:41+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 让游戏反编译太容易，协作逆向工程网站 decomp.dev 宣布关闭",
+        "takeaway": "AI 大幅降低游戏反编译门槛，人工社区协作模式难以为继，decomp.dev 选择关站。",
+        "bullets": [
+          "decomp.dev 管理员称 AI 让反编译变得快且易操作",
+          "人工社区协作模式已瓦解，无法区分人工与 AI 项目",
+          "此前中等规模游戏反编译需以年计，如今 AI 轻松完成",
+          "前沿模型如 GPT-6-Astra 是推动这一变化的关键"
+        ],
+        "detail": "协作游戏逆向工程网站 decomp.dev 宣布关闭。管理员 Encounter 表示，过去匹配反编译极其困难耗时，中等规模游戏也要以年计；但 GPT-6-Astra 等前沿 AI 模型让反编译变得极其轻松，基于人工的社区协作模式实际已瓦解，也无法再区分项目是人工主导还是 AI 完成。",
+        "generatedAt": "2026-10-18T02:57:48+08:00"
       }
     },
     {
