@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updatedAt": "2026-10-17T18:59:13+08:00",
+  "updatedAt": "2026-10-17T22:03:00+08:00",
   "items": [
     {
       "id": "1aa8b1ac1c09583d",
@@ -146,6 +146,40 @@
         ],
         "detail": "本周AI行业动态密集：英伟达CEO黄仁勋表示，若客户开发不安全的AI软件，将停止供应芯片；字节跳动Seed团队新设安全与对齐部门；微软在AI改革中重组Azure云部门。此外，英伟达与思科推出新型光模块以扩展AI工厂，英国机构呼吁加强前沿AI安全管理。",
         "generatedAt": "2026-10-17T14:17:14+08:00"
+      }
+    },
+    {
+      "id": "f155d49d3345aeb5",
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T21:00:00+08:00",
+      "fetchedAt": "2026-10-17T22:02:50+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "网站开始对AI代理关上大门",
+        "takeaway": "自主AI代理正成为热点，但网站开始限制其访问，可能影响AI代理的实用性。",
+        "bullets": [
+          "OpenAI、Meta、Google等公司推出能代用户上网的AI代理。",
+          "部分网站开始限制或阻止AI代理访问。",
+          "这可能导致AI代理功能受限，影响用户体验。"
+        ],
+        "detail": "自主AI代理是当前AI领域的热门方向，OpenAI、Meta、Google等公司都承诺其代理能替用户浏览互联网，完成订餐、清理收件箱、购物等任务。然而，一些网站开始对AI代理关闭大门，限制其访问。",
+        "generatedAt": "2026-10-17T22:02:58+08:00"
       }
     },
     {
@@ -551,6 +585,44 @@
       }
     },
     {
+      "id": "965c6b5f8a0812b7",
+      "title": "Qwen 27B (IQ4_XS, Q8/Q4 KV) at full 262k context on a 16GB RX 9070 XT: 80+ t/s decode with Adaptive KV Streaming",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x89ptz/qwen_27b_iq4_xs_q8q4_kv_at_full_262k_context_on_a",
+      "summary": "I have been working on implementing adaptive KV streaming and RDNA 4 / ROCm optimizations for llama.cpp to enable running Qwen3.8-27B (IQ4_XS weights, Q8_0/Q4_0 KV cache) with its full 262,144-token context window on a single 16 GB RX 9070 …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T21:01:59+08:00",
+      "fetchedAt": "2026-10-17T22:02:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 0.5,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "16GB 显卡跑满 262K 上下文：Qwen 27B 解码超 80 t/s",
+        "takeaway": "llama.cpp 新增自适应 KV 流式与 ROCm 优化，让单张 16GB RX 9070 XT 跑满 Qwen 27B 全上下文。",
+        "bullets": [
+          "在 16GB RX 9070 XT 上跑 Qwen 27B，量化 IQ4_XS，KV 缓存 Q8/Q4",
+          "支持完整 262,144 token 上下文，解码速度 80+ t/s",
+          "靠自适应 KV 流式和 RDNA 4/ROCm 优化实现",
+          "对本地大模型玩家是显存效率的重要进展"
+        ],
+        "detail": "作者为 llama.cpp 实现了自适应 KV 流式传输和 RDNA 4/ROCm 优化，使 Qwen3.8-27B 在单张 16GB RX 9070 XT 上以 IQ4_XS 权重、Q8_0/Q4_0 KV 缓存跑满 262,144 token 上下文，解码速度超过 80 t/s。",
+        "generatedAt": "2026-10-17T22:02:58+08:00"
+      }
+    },
+    {
       "id": "9d010c1314ee292d",
       "title": "Designing more efficient quantum circuits with Claude",
       "url": "https://anthropic.com/research/designing-efficient-quantum-circuits",
@@ -584,6 +656,42 @@
         ],
         "detail": "Anthropic 在官方研究博客发文，介绍如何利用 Claude 设计更高效的量子电路。该内容在 Hacker News 引发讨论，获得 122 分和 25 条评论，说明 AI 辅助量子计算设计受到开发者关注。",
         "generatedAt": "2026-10-17T14:17:15+08:00"
+      }
+    },
+    {
+      "id": "469d06f12e1777d1",
+      "title": "Qwen Flash Next quant and temp comparison - performance vs task time vs quality",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x88fvj/qwen_flash_next_quant_and_temp_comparison",
+      "summary": "Following a recent interesting post that challenges the performance of higher vs lower quants and generally advised sampling parameters (namely temp), I decided that I had too much free time on my hands and ran 12 test tasks. I ran three mo…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T19:58:07+08:00",
+      "fetchedAt": "2026-10-17T22:02:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen Flash Next 量化与温度参数实测对比",
+        "takeaway": "用户实测12项任务，比较不同量化精度与温度设置对性能、耗时和质量的影响。",
+        "bullets": [
+          "测试涵盖三种量化精度与不同温度参数组合",
+          "关注性能、任务耗时与输出质量三个维度",
+          "结果挑战了高量化一定优于低量化的常见观点"
+        ],
+        "detail": "受近期关于量化精度与采样参数（尤其是温度）讨论的启发，一位用户用12项测试任务，对比了Qwen Flash Next在三种量化精度和不同温度设置下的表现，从性能、任务耗时和输出质量三方面进行评估。",
+        "generatedAt": "2026-10-17T22:02:57+08:00"
       }
     },
     {
@@ -1098,6 +1206,78 @@
       }
     },
     {
+      "id": "5db71574b6d7de91",
+      "title": "Why not run Qwen 3.8 Flash Next with the full n-gram-table?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x8am0i/why_not_run_qwen_38_flash_next_with_the_full",
+      "summary": "Already posted here https://www.reddit.com/r/LocalLLaMA/comments/1x85hfj/strata_qwen_38_flash_next_fast_but_whats_it/phavui9/ , but I believe this topic deserves it's own post. The PLE, aka the n-gram table that sits on the SSD, is quantize…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T21:44:17+08:00",
+      "fetchedAt": "2026-10-17T22:02:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 Flash Next 的 SSD n-gram 表能否全量运行？",
+        "takeaway": "社区讨论把放在 SSD 上的 n-gram 表（PLE）量化后全量运行，以兼顾速度与效果。",
+        "bullets": [
+          "讨论对象是 Qwen 3.8 Flash Next 的 PLE 表",
+          "该表存放在 SSD 上，摘要提到可量化",
+          "发帖者认为该话题值得单独开帖讨论"
+        ],
+        "detail": "这是 r/LocalLLaMA 上的一则讨论帖。发帖者此前已在别处提过 Strata Qwen 3.8 Flash Next 速度快但效果存疑，这次单独开帖，聚焦放在 SSD 上的 n-gram 表（PLE）量化后能否全量运行。",
+        "generatedAt": "2026-10-17T22:03:00+08:00"
+      }
+    },
+    {
+      "id": "3d48ebd28e6ad1ba",
+      "title": "model : add Kolibri-1 (Aleph-Alpha) support by riteme · Pull Request #30673 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x87kgj/model_add_kolibri1_alephalpha_support_by_riteme",
+      "summary": "European 78B A3.4B model is now supported by llama.cpp, I am waiting for some GGUFs https://huggingface.co/Aleph-Alpha/Kolibri-1 Kolibri is Aleph Alpha's mixture-of-experts (MoE) reasoning model, with a focus on German and English. The mode…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T19:07:59+08:00",
+      "fetchedAt": "2026-10-17T22:02:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 新增 Kolibri-1 支持，欧洲 78B MoE 模型可本地运行",
+        "takeaway": "Aleph Alpha 的 78B MoE 推理模型 Kolibri-1 获 llama.cpp 支持，GGUF 文件待发布。",
+        "bullets": [
+          "llama.cpp 合并 PR，新增 Kolibri-1 模型支持",
+          "Kolibri-1 是 Aleph Alpha 的 78B MoE 推理模型，主攻德英双语",
+          "GGUF 量化文件尚未发布，作者正在等待"
+        ],
+        "detail": "llama.cpp 已通过 PR 加入对 Aleph Alpha 的 Kolibri-1 模型支持。这是一个 78B 参数、激活 3.4B 的混合专家推理模型，重点面向德语和英语。目前社区还在等待对应的 GGUF 文件发布，之后就能在本地运行。",
+        "generatedAt": "2026-10-17T22:02:59+08:00"
+      }
+    },
+    {
       "id": "4c63ba4708495b06",
       "title": "Qwen 27B - sacrificing context in order run better quants, pros and cons.",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x7m3gf/qwen_27b_sacrificing_context_in_order_run_better",
@@ -1131,6 +1311,43 @@
         ],
         "detail": "有用户在 LocalLLaMA 分享 Qwen 27B 的使用体验：之前用 Unsloth IQ4_XS 量化，20GB 显存能撑起 96K 上下文，但草稿阶段毛病不少，反复修补还白白消耗本地 token。于是他开始尝试牺牲上下文长度，换取更稳定的量化表现，并讨论其中的利弊。",
         "generatedAt": "2026-10-17T05:51:44+08:00"
+      }
+    },
+    {
+      "id": "9e2b63427075dac3",
+      "title": "Holy shit what happened to the r9700 ai pro gpu prices after nvidia killed the rtx 5090???",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x88zh6/holy_shit_what_happened_to_the_r9700_ai_pro_gpu",
+      "summary": "I swear I managed to get mine for like 1500 euro about 2 months ago but they're suddenly up by more than 1000 euro hovering about 2500-2800, what the hell is happening? Bro i shoulve bought two submitted by /u/BreadUndPeeTears [link] [comme…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T20:25:58+08:00",
+      "fetchedAt": "2026-10-17T22:02:50+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU",
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达停售RTX 5090后，R9700 AI Pro显卡价格暴涨逾千欧元",
+        "takeaway": "英伟达停售RTX 5090引发连锁反应，AMD R9700 AI Pro二手价两个月内从1500欧涨至2500-2800欧。",
+        "bullets": [
+          "用户称两个月前1500欧元买到R9700 AI Pro，现价2500-2800欧元",
+          "涨价与英伟达停售RTX 5090直接相关，高端AI显卡供给收紧",
+          "发帖人后悔没多买一张，反映本地AI玩家抢购情绪"
+        ],
+        "detail": "有用户在r/LocalLLaMA发帖称，自己约两个月前花1500欧元买到R9700 AI Pro，如今价格突然上涨超过1000欧元，达到2500至2800欧元区间。他把这波涨价归因于英伟达停售RTX 5090，并后悔当时没有多买一张。",
+        "generatedAt": "2026-10-17T22:03:00+08:00"
       }
     },
     {
@@ -1470,6 +1687,31 @@
       ],
       "confidence": 1,
       "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "baae64a619c8518c",
+      "title": "Otaku — an LLM frontend for creative writing",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x865rk/otaku_an_llm_frontend_for_creative_writing",
+      "summary": "I understand this kind of product may not be exactly right for this subreddit, but I still think it deserves some attention, as it's an LLM frontend for local engines in the first place, and can be used for general-purpose chats with LLMs o…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T17:42:14+08:00",
+      "fetchedAt": "2026-10-17T22:02:50+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "product"
+      ],
+      "confidence": 1,
+      "score": 33,
       "related": [],
       "pushed": false
     },
