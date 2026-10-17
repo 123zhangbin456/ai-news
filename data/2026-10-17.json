@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updatedAt": "2026-10-17T05:51:45+08:00",
+  "updatedAt": "2026-10-17T08:01:39+08:00",
   "items": [
     {
       "id": "1aa8b1ac1c09583d",
@@ -110,6 +110,42 @@
         ],
         "detail": "Replit 联合创始人兼 CEO Amjad Masad 在 TechCrunch Disrupt 2026 大会上表示，公司已不再与 Anthropic 合作。Replit 是一个流行的 AI 编程平台，此前曾集成 Anthropic 的模型。目前尚不清楚终止合作的具体原因，以及 Replit 将改用哪家供应商。",
         "generatedAt": "2026-10-17T05:51:36+08:00"
+      }
+    },
+    {
+      "id": "65442e708214c10b",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T03:00:00+08:00",
+      "fetchedAt": "2026-10-17T08:01:15+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "customers"
+      ],
+      "confidence": 1,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Itaú 用生成式 AI 服务全部客户",
+        "takeaway": "巴西最大银行 Itaú 推出对话界面 ia.i 和治理平台 IARA，将 AI 优先战略落地到客户和员工。",
+        "bullets": [
+          "Itaú 推出对话界面 ia.i，面向全部客户提供生成式 AI 服务。",
+          "配套 IARA 治理平台，确保在巴西高度监管的金融业合规。",
+          "该行将 AI 优先战略同时应用于客户服务和内部员工。"
+        ],
+        "detail": "巴西银行 Itaú 正在把生成式 AI 推广到所有客户。它推出了对话界面 ia.i，并配套 IARA 治理平台，以应对巴西金融业严格的监管。这一 AI 优先战略同时覆盖客户和员工。",
+        "generatedAt": "2026-10-17T08:01:37+08:00"
       }
     },
     {
@@ -256,6 +292,43 @@
       }
     },
     {
+      "id": "53162a5fc64dddbd",
+      "title": "I don't get the qwen 3.8 flash next hype",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x7uf15/i_dont_get_the_qwen_38_flash_next_hype",
+      "summary": "My experience is based on running Qwen 3.8 Flash Next UD-Q4_K_XL on 4x 3090's Compared directly to Qwen 3.8 27b Q8 it is not even close. To add to this, strata results were even worse than llama.cpp even thought generation speeds were faste…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T06:48:28+08:00",
+      "fetchedAt": "2026-10-17T08:01:15+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户实测 Qwen 3.8 Flash Next：四卡 3090 上表现不及 27B Q8",
+        "takeaway": "有用户实测后认为 Qwen 3.8 Flash Next 被过誉，性能明显不如 Qwen 3.8 27B Q8。",
+        "bullets": [
+          "测试环境为 4 张 RTX 3090，运行 UD-Q4_K_XL 量化版本",
+          "对比对象是 Qwen 3.8 27B 的 Q8 量化版，差距明显",
+          "作者称 strata 结果比 llama.cpp 更差，尽管生成速度更快"
+        ],
+        "detail": "一位用户在 r/LocalLLaMA 分享实测：用 4 张 3090 跑 Qwen 3.8 Flash Next 的 UD-Q4_K_XL 量化版，直接对比 Qwen 3.8 27B Q8，结果差距很大。他还提到 strata 的表现比 llama.cpp 更差，虽然生成速度更快。",
+        "generatedAt": "2026-10-17T08:01:37+08:00"
+      }
+    },
+    {
       "id": "c74e5a79a0e1f484",
       "title": "India becomes the latest country to report rogue AI agent activity",
       "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
@@ -396,6 +469,43 @@
       }
     },
     {
+      "id": "50e25bfb1e8370f9",
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "url": "https://simonwillison.net/2026/Oct/16/code-review",
+      "summary": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking that question also changed when review happens. Before, review w…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T06:06:37+08:00",
+      "fetchedAt": "2026-10-17T08:01:15+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "review"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 时代代码评审：别只问「人看过吗」",
+        "takeaway": "Simon Willison 引用三位工程师观点：以「是否有人读过代码」判断风险已不准确，应改问「这次改动可能出什么问题、该由哪种检查来兜底」。",
+        "bullets": [
+          "「人是否读过代码」被指为不精确的风险代理指标",
+          "更该问：改动可能出什么错、哪种检查能抓住它",
+          "这一提问方式也改变了代码评审发生的时机",
+          "观点来自 Addy Osmani、Morgan Westlee Lunt、Qing Wang"
+        ],
+        "detail": "这几位工程师认为，用「有没有人读过这段代码」来判断改动风险并不精确，真正该问的是：这次改动可能出什么问题，以及哪种检查——自动化的还是人工的——最适合发现它。换了这个问法之后，代码评审的时机也随之改变。",
+        "generatedAt": "2026-10-17T08:01:38+08:00"
+      }
+    },
+    {
       "id": "0342f39befa10261",
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "url": "https://github.com/cobanov/PS5LM",
@@ -430,6 +540,43 @@
         ],
         "detail": "有开发者在 GitHub 发布 PS5LM 项目，把 llama.cpp 移植到已越狱的 PS5 上，让这台游戏主机能直接加载并运行任意 GGUF 格式的大语言模型。该消息在 Hacker News 上引发讨论，说明社区对在消费级主机上做本地 AI 推理的兴趣正在上升。",
         "generatedAt": "2026-10-17T05:51:43+08:00"
+      }
+    },
+    {
+      "id": "456f6ae457967a68",
+      "title": "10 Things you maybe didn't know you can do with Qwen 3.6 27B right now. (For Noobs)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x7sq8e/10_things_you_maybe_didnt_know_you_can_do_with",
+      "summary": "I know everyone's excited about 3.8, but honestly I'm still refining 3.6. And I hate the way 3.8 talks, so... I keep seeing all these posts about what's the use of open source, so I figured I'd submit my own answer with this post. Qwen 3.5 …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T05:35:36+08:00",
+      "fetchedAt": "2026-10-17T08:01:15+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open source"
+      ],
+      "confidence": 0.2,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.6 27B 还能这么用：10 个新手不知道的玩法",
+        "takeaway": "一位 LocalLLaMA 用户分享 Qwen 3.6 27B 的 10 个实用技巧，回应开源模型到底有啥用的质疑。",
+        "bullets": [
+          "作者仍在打磨 Qwen 3.6，而非追新 3.8",
+          "他直言不喜欢 3.8 的说话风格",
+          "帖子是对「开源有啥用」质疑的回应",
+          "面向新手，列出 10 个可立即上手的用法"
+        ],
+        "detail": "作者说大家都为 3.8 兴奋，但他还在继续打磨 3.6，而且不喜欢 3.8 的表达方式。看到很多人问开源模型到底有什么用，他就用这篇帖子给出自己的答案，列出 Qwen 3.6 27B 现在就能做的 10 件事，面向新手。",
+        "generatedAt": "2026-10-17T08:01:39+08:00"
       }
     },
     {
@@ -678,6 +825,31 @@
       ],
       "confidence": 1,
       "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "73d22837648446ef",
+      "title": "Why naive cosine routing fails: Using Absorbing Markov Chains over a 768D embedding space for <2ms zero-token intent triage (before waking the LLM)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x7l0ct/why_naive_cosine_routing_fails_using_absorbing",
+      "summary": "What you're looking at: When routing support tickets, agent tool calls, or classification queries, direct cosine similarity (cos(q, option)) gets easily baited by surface keywords. Example alert says: \"Checkout payment webhook failed due to…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T24:34:18+08:00",
+      "fetchedAt": "2026-10-17T08:01:15+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tool"
+      ],
+      "confidence": 0,
+      "score": 28,
       "related": [],
       "pushed": false
     }
