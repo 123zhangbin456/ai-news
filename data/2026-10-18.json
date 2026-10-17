@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updatedAt": "2026-10-18T05:14:17+08:00",
+  "updatedAt": "2026-10-18T07:35:26+08:00",
   "items": [
     {
       "id": "6435f671229b69ca",
@@ -26,7 +26,7 @@
       "confidence": 0.5,
       "score": 65,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Replit 将 OpenAI 设为默认模型，取代 Anthropic",
         "takeaway": "Replit 调整默认模型供应商，OpenAI 上位，但 Claude 仍可用，反映 AI 编程平台竞争加剧。",
@@ -37,7 +37,8 @@
         ],
         "detail": "Replit CEO Masad 澄清，OpenAI 将取代 Anthropic 成为平台默认模型提供商。不过，Claude 仍会向客户开放，用户依然可以选择使用。",
         "generatedAt": "2026-10-18T05:14:15+08:00"
-      }
+      },
+      "pushedAt": "2026-10-18T07:35:26+08:00"
     },
     {
       "id": "0dabc6c10b97c37b",
@@ -62,7 +63,7 @@
       "confidence": 1,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic：员工资历变深，会议时间增多",
         "takeaway": "Anthropic披露过去一年团队结构和工作方式显著变化，反映AI公司扩张中的组织调整。",
@@ -73,7 +74,45 @@
         ],
         "detail": "Anthropic表示，过去一年公司员工构成和工作内容发生了显著变化：团队整体更资深，初级员工占比下降，同时员工投入会议的时间变多。这反映出公司在快速扩张中组织形态和工作重心的调整。",
         "generatedAt": "2026-10-18T05:14:15+08:00"
-      }
+      },
+      "pushedAt": "2026-10-18T07:35:26+08:00"
+    },
+    {
+      "id": "d4d8a21bd9972e11",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T05:31:32+08:00",
+      "fetchedAt": "2026-10-18T07:35:13+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raised"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Meta修改条款，移除引发抓取与AI训练担忧的表述",
+        "takeaway": "Meta更新条款删除涉及数据抓取和AI训练的敏感措辞，但称实际爬取方式未变。",
+        "bullets": [
+          "Meta更新服务条款，删除引发数据抓取和AI训练担忧的表述",
+          "Meta发言人强调，条款修改不代表网页爬取方式变化",
+          "此举或为缓解监管与公众对AI训练数据来源的质疑"
+        ],
+        "detail": "Meta更新了服务条款，删除了可能引发数据抓取和AI训练担忧的措辞。但Meta发言人坚称，这并不代表其网页爬取方式有任何改变。外界关注此举是否意在淡化AI训练数据来源的争议。",
+        "generatedAt": "2026-10-18T07:35:20+08:00"
+      },
+      "pushedAt": "2026-10-18T07:35:26+08:00"
     },
     {
       "id": "b9d0c1dc38b3ea1a",
@@ -99,7 +138,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "用户吐槽新模型文风雷同，怀念旧模型技术写作",
         "takeaway": "有用户认为 Qwen3.8 27B、DeepSeek V4 Flash 等新模型文风趋同，像 Claude，不适合技术写作。",
@@ -110,7 +149,8 @@
         ],
         "detail": "这位用户在 LocalLLaMA 发帖说，Qwen3.8 27B、DeepSeek V4 Flash 等新模型的写作风格高度相似，都带着一股 Claude 味，自己实在受不了。他举例说，这类模型写技术内容时腔调做作，因此想问问大家是否该退回旧模型来做技术写作。",
         "generatedAt": "2026-10-18T05:14:15+08:00"
-      }
+      },
+      "pushedAt": "2026-10-18T07:35:26+08:00"
     },
     {
       "id": "9be0b0284193abe4",
@@ -135,7 +175,7 @@
       "confidence": 1,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DeepSeek V4.1 Flash 1017 发布，社区推出 GGUF 量化与去审查版",
         "takeaway": "新模型刚发布，社区就放出 GGUF 量化和去审查版本，方便本地运行和自由微调。",
@@ -147,7 +187,8 @@
         ],
         "detail": "DeepSeek V4.1 Flash 1017 昨天刚发布，就有社区成员为原版和去审查版制作了 GGUF 量化文件，方便在本地设备上运行。去审查版移除了大部分内容限制，但基于 imatrix 的量化还在开发中。",
         "generatedAt": "2026-10-18T05:14:17+08:00"
-      }
+      },
+      "pushedAt": "2026-10-18T07:35:26+08:00"
     },
     {
       "id": "2d06bd5d0c27fa37",
@@ -172,7 +213,7 @@
       "confidence": 0.5,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DeepSeek V4.1 Flash 1017 获 ds4 项目支持",
         "takeaway": "antirez 的 ds4 项目提交 PR，为 DeepSeek 新模型加入兼容支持，本地运行更便利。",
@@ -184,7 +225,45 @@
         ],
         "detail": "antirez 在 ds4 项目提交 PR，让 dwarfstar 兼容 DeepSeek V4.1 Flash 1017。改动主要是适配新的文件版本，并加入检查，确保视觉和语言模型文件能正确配对。",
         "generatedAt": "2026-10-18T05:14:17+08:00"
-      }
+      },
+      "pushedAt": "2026-10-18T07:35:26+08:00"
+    },
+    {
+      "id": "c2acf21e79d6c17a",
+      "title": "Xolotl (Strata based) - DeepSeek-V4.1-Flash (552B) on a single 4090 at ~27 tok/s, Uncensored 1017 quant coming in a couple of days",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x8m0jj/xolotl_strata_based_deepseekv41flash_552b_on_a",
+      "summary": "Hey all, been meaning to post this for a while. I've been building an inference engine based off Strata called Xolotl that runs DeepSeek-V4.1-Flash, all 552B of it, on one gaming PC. My setup is a single RTX 4090 (24GB), a Ryzen 7 5700X, 90…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T05:40:27+08:00",
+      "fetchedAt": "2026-10-18T07:35:13+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "单张4090跑552B DeepSeek-V4.1-Flash，约27 tok/s",
+        "takeaway": "开发者用自研推理引擎Xolotl在单张24GB 4090上跑起552B大模型，速度约27 tok/s。",
+        "bullets": [
+          "Xolotl基于Strata构建，可在单张RTX 4090上运行552B参数模型",
+          "实测速度约27 tok/s，搭配Ryzen 7 5700X和90GB内存",
+          "作者称无审查的1017量化版本将在几天内发布"
+        ],
+        "detail": "有开发者基于Strata做了推理引擎Xolotl，把552B参数的DeepSeek-V4.1-Flash塞进一台游戏PC，硬件是单张24GB的RTX 4090、Ryzen 7 5700X和90GB内存，速度约27 tok/s。作者还预告无审查的1017量化版几天内放出。",
+        "generatedAt": "2026-10-18T07:35:22+08:00"
+      },
+      "pushedAt": "2026-10-18T07:35:26+08:00"
     },
     {
       "id": "27d0e2fc1a87d037",
@@ -209,7 +288,7 @@
       "confidence": 0,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "自托管客服机器人承诺免费维修，团队如何发现AI错误回答？",
         "takeaway": "企业自托管RAG客服机器人运行数月后出现错误承诺，暴露AI输出监控难题。",
@@ -220,7 +299,8 @@
         ],
         "detail": "该团队今年初把客服机器人换成自托管模型，用RAG从帮助文档生成回答，以保护客户数据。几个月来运行正常，但上周有客户发来截图，显示机器人给出了错误承诺（如免费维修）。这引发讨论：团队该如何捕捉AI聊天机器人的错误回答。",
         "generatedAt": "2026-10-18T02:57:47+08:00"
-      }
+      },
+      "pushedAt": "2026-10-18T07:35:26+08:00"
     },
     {
       "id": "fa796824301f11c6",
@@ -243,7 +323,8 @@
       "confidence": 0,
       "score": 34,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-18T07:35:26+08:00"
     },
     {
       "id": "29c63ddb4c1e37ca",
@@ -268,7 +349,34 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-18T07:35:26+08:00"
+    },
+    {
+      "id": "c2b60a4450ceb9a9",
+      "title": "AnimLang, Built simple workflow/repo for creating animation using LLM (GSAP, ThreeJS, and Manim)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x8lovk/animlang_built_simple_workflowrepo_for_creating",
+      "summary": "So after playing arround with capability of Strata GSQ-RCO Coder vs Unsloth IQ4, many of such test are creating animation. Welp turns out it somewhat created good animation and also comment from reddit asking for the same stuff https://www.…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T05:25:30+08:00",
+      "fetchedAt": "2026-10-18T07:35:13+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "repo"
+      ],
+      "confidence": 0.25,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-18T07:35:26+08:00"
     }
   ],
   "topic": "ai"
