@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updatedAt": "2026-10-17T09:40:30+08:00",
+  "updatedAt": "2026-10-17T14:17:21+08:00",
   "items": [
     {
       "id": "1aa8b1ac1c09583d",
@@ -108,6 +108,44 @@
         ],
         "detail": "华为云将于下月调整AI专业服务价格，其中原型开发基础版升至85.12万元。曾任职Kimi的17岁研究员陈广宇已离职，并否认将加入Anthropic。此外，四部门要求车企规范产品宣传，不得诱导驾驶人忽视安全责任。",
         "generatedAt": "2026-10-17T08:38:59+08:00"
+      }
+    },
+    {
+      "id": "5809bcc94ba02bb3",
+      "title": "【数智周报】英伟达CEO黄仁勋称会对开发不安全AI软件的客户断供芯片；字节跳动Seed单设安全与对齐部门;微软在AI改革中重组Azure云部门",
+      "url": "https://tmtpost.com/8171854.html",
+      "summary": "（10月12日~10月17日）英伟达与思科推出新型光模块，以扩展AI工厂；英国机构呼吁加强前沿AI安全管理；OpenAI宣称攻克数百未解数学难题；Anthropic据悉第三季度营收跃升至168亿美元；Meta推出“最强”开源权重大模型",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T10:34:16+08:00",
+      "fetchedAt": "2026-10-17T14:17:07+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "英伟达"
+      ],
+      "confidence": 0.5,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋：开发不安全AI的客户将被断供芯片",
+        "takeaway": "英伟达以芯片供应为筹码约束AI安全，叠加字节、微软组织调整，AI治理进入实操阶段。",
+        "bullets": [
+          "黄仁勋称对开发不安全AI软件的客户断供芯片",
+          "字节跳动Seed单设安全与对齐部门",
+          "微软在AI改革中重组Azure云部门",
+          "英伟达与思科推出新型光模块扩展AI工厂"
+        ],
+        "detail": "本周AI行业动态密集：英伟达CEO黄仁勋表示，若客户开发不安全的AI软件，将停止供应芯片；字节跳动Seed团队新设安全与对齐部门；微软在AI改革中重组Azure云部门。此外，英伟达与思科推出新型光模块以扩展AI工厂，英国机构呼吁加强前沿AI安全管理。",
+        "generatedAt": "2026-10-17T14:17:14+08:00"
       }
     },
     {
@@ -365,6 +403,42 @@
       }
     },
     {
+      "id": "9d010c1314ee292d",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://anthropic.com/research/designing-efficient-quantum-circuits",
+      "summary": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 122 # Comments: 25",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T02:00:18+08:00",
+      "fetchedAt": "2026-10-17T14:17:07+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0.75,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 用 Claude 设计更高效量子电路",
+        "takeaway": "Anthropic 研究展示 Claude 能辅助设计更高效的量子电路，AI 参与量子计算硬件设计值得关注。",
+        "bullets": [
+          "Anthropic 发布研究，用 Claude 设计更高效的量子电路",
+          "成果登上 Hacker News，获 122 分、25 条评论",
+          "显示大模型可辅助量子计算底层电路优化"
+        ],
+        "detail": "Anthropic 在官方研究博客发文，介绍如何利用 Claude 设计更高效的量子电路。该内容在 Hacker News 引发讨论，获得 122 分和 25 条评论，说明 AI 辅助量子计算设计受到开发者关注。",
+        "generatedAt": "2026-10-17T14:17:15+08:00"
+      }
+    },
+    {
       "id": "c74e5a79a0e1f484",
       "title": "India becomes the latest country to report rogue AI agent activity",
       "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
@@ -539,6 +613,78 @@
         ],
         "detail": "这几位工程师认为，用「有没有人读过这段代码」来判断改动风险并不精确，真正该问的是：这次改动可能出什么问题，以及哪种检查——自动化的还是人工的——最适合发现它。换了这个问法之后，代码评审的时机也随之改变。",
         "generatedAt": "2026-10-17T08:01:38+08:00"
+      }
+    },
+    {
+      "id": "eceff50d761a1fa3",
+      "title": "Anthropic 值 2 万亿美元吗？",
+      "url": "https://tmtpost.com/8171640.html",
+      "summary": "市场似乎已经不再愿意给出更高的溢价。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T13:36:00+08:00",
+      "fetchedAt": "2026-10-17T14:17:07+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "亿美元"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic估值2万亿美元，市场为何不再买单？",
+        "takeaway": "钛媒体质疑Anthropic的2万亿美元估值，市场似乎不再愿意给出更高溢价。",
+        "bullets": [
+          "Anthropic估值达2万亿美元，引发市场质疑。",
+          "市场对高溢价的接受度下降，不再愿意追高。",
+          "估值合理性成为关注焦点，影响AI投资情绪。"
+        ],
+        "detail": "钛媒体发文讨论Anthropic是否值2万亿美元，指出市场似乎已不愿给出更高溢价。这反映出投资者对AI公司高估值的谨慎态度，可能影响后续融资环境。",
+        "generatedAt": "2026-10-17T14:17:17+08:00"
+      }
+    },
+    {
+      "id": "5b89cbe1d1a09f0e",
+      "title": "DeepSeek 4.1 Flash 1017 Incoming? --> DeepSeek users report a possible V4.1-Flash-1017 refresh across its API",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x825su/deepseek_41_flash_1017_incoming_deepseek_users",
+      "summary": "DeepSeek users report a possible V4.1-Flash-1017 refresh across its API\" title=\"DeepSeek 4.1 Flash 1017 Incoming? --> DeepSeek users report a possible V4.1-Flash-1017 refresh across its API\" /> Was waiting for this. submitted by /u/chemist_…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T13:34:11+08:00",
+      "fetchedAt": "2026-10-17T14:17:07+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 或推 V4.1-Flash-1017 API 更新",
+        "takeaway": "用户发现 DeepSeek API 疑似出现 V4.1-Flash-1017 版本，可能是一次模型刷新。",
+        "bullets": [
+          "DeepSeek 用户报告 API 中疑似出现 V4.1-Flash-1017 版本",
+          "该版本号指向一次模型刷新，但官方尚未确认",
+          "若属实，将影响使用 DeepSeek API 的开发者"
+        ],
+        "detail": "有 DeepSeek 用户在社区反映，其 API 中可能出现了 V4.1-Flash-1017 的版本更新。目前这还只是用户观察到的迹象，官方并未发布正式公告，具体更新内容尚不清楚。",
+        "generatedAt": "2026-10-17T14:17:17+08:00"
       }
     },
     {
@@ -826,6 +972,110 @@
       }
     },
     {
+      "id": "26481043f0cf4236",
+      "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+      "url": "https://infoq.cn/article/JMZ6WUx4a4cVqAwhwviU",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T18:00:00+08:00",
+      "fetchedAt": "2026-10-17T14:17:07+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "dataset"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "世界不是数据集：AI 系统如何持续从现实中学习",
+        "takeaway": "QCon上海议题指出，真实世界并非静态数据集，AI 系统需要持续从现实中学习。",
+        "bullets": [
+          "议题聚焦构建能持续从现实反馈中学习的 AI 系统",
+          "点出把世界当作固定数据集的思路存在局限",
+          "面向开发者，探讨 AI 系统落地的工程路径"
+        ],
+        "detail": "这是 QCon 上海的一场分享，主题是“世界不是数据集”。它讨论如何构建能持续从真实环境中学习的 AI 系统，而不是只依赖一次性静态数据集训练。具体内容需查看原文。",
+        "generatedAt": "2026-10-17T14:17:19+08:00"
+      }
+    },
+    {
+      "id": "d700820545c3fdeb",
+      "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+      "url": "https://infoq.cn/article/AF1qxLVCRls3R6MdWwBh",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T18:00:00+08:00",
+      "fetchedAt": "2026-10-17T14:17:07+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Java 生态动态：JobRunr 9、OpenXava 8、Quarkus 等更新",
+        "takeaway": "InfoQ 汇总了近期 Java 生态多个项目的版本更新，涵盖任务调度、低代码、云原生和 AI 集成。",
+        "bullets": [
+          "JobRunr 9 发布，分布式任务调度框架迎来新版本",
+          "OpenXava 8 更新，低代码企业应用开发平台升级",
+          "Quarkus、LangChain4j、JNoSQL、Lathe 等项目也有新动态"
+        ],
+        "detail": "InfoQ 中国汇总了 Java 领域近期的重要更新，包括 JobRunr 9、OpenXava 8，以及 Quarkus、LangChain4j、JNoSQL 和 Lathe 等项目的新进展。这些更新涉及任务调度、低代码开发、云原生框架和 AI 集成等方向，值得 Java 开发者关注。",
+        "generatedAt": "2026-10-17T14:17:19+08:00"
+      }
+    },
+    {
+      "id": "c85ff8d094bbc158",
+      "title": "为了查“公园哪个门人最多”，一批腾讯AI智能体，在高德上折腾了11天",
+      "url": "https://tmtpost.com/8171881.html",
+      "summary": "在智能体时代，谁的AI能调用更多真实世界的服务和信息，谁的入口就更有价值。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T10:42:00+08:00",
+      "fetchedAt": "2026-10-17T14:17:07+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "腾讯AI智能体为查公园人流在高德上折腾11天",
+        "takeaway": "智能体时代，能调用真实世界服务的AI入口更有价值，腾讯的测试凸显了这一点。",
+        "bullets": [
+          "腾讯AI智能体为查询公园哪个门人最多，在高德上耗时11天。",
+          "事件反映智能体需要接入真实世界服务与信息。",
+          "入口价值取决于AI能调用多少外部服务。"
+        ],
+        "detail": "腾讯的AI智能体为了回答“公园哪个门人最多”，在高德地图上反复尝试了11天。这背后是智能体时代的关键：谁的AI能调用更多真实世界的服务和信息，谁的入口就更有价值。",
+        "generatedAt": "2026-10-17T14:17:21+08:00"
+      }
+    },
+    {
       "id": "62076c691b0e7cef",
       "title": "How to undo \"Import VS Code Extensions and Settings\"",
       "url": "https://forum.cursor.com/t/how-to-undo-import-vs-code-extensions-and-settings/175066",
@@ -899,6 +1149,100 @@
       "pushed": false
     },
     {
+      "id": "45555a53d0b23f0a",
+      "title": "我被AI诈骗盯上了",
+      "url": "https://tmtpost.com/8171813.html",
+      "summary": "当诈骗用上AI，照片、声音、视频都不是真的。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T13:36:15+08:00",
+      "fetchedAt": "2026-10-17T14:17:07+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "efc93a184f222401",
+      "title": "AI开始接管毛孩子的“终身大事”",
+      "url": "https://tmtpost.com/8171403.html",
+      "summary": "智能养宠，从单品走向长期服务",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T13:18:11+08:00",
+      "fetchedAt": "2026-10-17T14:17:07+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c3866dd3f51aab12",
+      "title": "公用事业股高股息，而且比其他AI概念股更稳",
+      "url": "https://tmtpost.com/8171902.html",
+      "summary": "该板块在经历了表现平平的一年后，目前估值颇具吸引力，并提供可观的股息以及强劲的盈利增长。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T11:09:11+08:00",
+      "fetchedAt": "2026-10-17T14:17:07+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "估值"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e601c0d667a40be1",
+      "title": "溢价上万元、首发秒售罄，AI也抢不到iPhone Duo",
+      "url": "https://tmtpost.com/8171849.html",
+      "summary": "新的“理财神器”，这大概率是今年最难抢的手机了。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T10:36:17+08:00",
+      "fetchedAt": "2026-10-17T14:17:07+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "2425f3153984e15e",
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://mercor.com/research/labor-index/benchmark-map",
@@ -921,6 +1265,29 @@
         "research"
       ],
       "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "422aa25a0dcb60be",
+      "title": "14.8% 的 AI 商品，撑起全球贸易近半增量：买家集中在几家云厂商",
+      "url": "https://tmtpost.com/8171227.html",
+      "summary": "全球经济降温，全球贸易却在 AI 基建的拉动下加速。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-17T09:58:32+08:00",
+      "fetchedAt": "2026-10-17T14:17:07+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 29,
       "related": [],
       "pushed": false
