@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-20",
+  "updatedAt": "2026-10-18T19:47:25+08:00",
+  "items": [
+    {
+      "id": "6a991c51e19070a9",
+      "title": "Cloudflare 修复了容器中的跨租户数据泄露问题",
+      "url": "https://infoq.cn/article/YmllSwKbZXY0bcVjjw70",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T24:00:00+08:00",
+      "fetchedAt": "2026-10-18T19:47:16+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cloudflare 修复容器跨租户数据泄露漏洞",
+        "takeaway": "云平台容器隔离出现跨租户泄露，已修复，提醒多租户云服务重视隔离风险。",
+        "bullets": [
+          "Cloudflare 修复了容器环境中的跨租户数据泄露问题",
+          "问题涉及多租户隔离，可能影响使用其容器服务的客户",
+          "官方已修复，具体影响范围与细节未在摘要中说明"
+        ],
+        "detail": "Cloudflare 修复了其容器环境中的一个跨租户数据泄露问题。该问题涉及多租户之间的隔离，可能让不同客户的数据发生越界访问。官方已完成修复，但摘要未披露受影响范围和具体技术细节。",
+        "generatedAt": "2026-10-18T19:47:25+08:00"
+      }
+    }
+  ],
+  "topic": "ai"
+}

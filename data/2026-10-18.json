@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updatedAt": "2026-10-18T14:39:24+08:00",
+  "updatedAt": "2026-10-18T19:47:25+08:00",
   "items": [
     {
       "id": "6435f671229b69ca",
@@ -113,6 +113,40 @@
         "generatedAt": "2026-10-18T07:35:20+08:00"
       },
       "pushedAt": "2026-10-18T07:35:26+08:00"
+    },
+    {
+      "id": "5f3fe56efca119c5",
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "url": "https://wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty",
+      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T18:30:00+08:00",
+      "fetchedAt": "2026-10-18T19:47:16+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 允许 AI 聊骚，成人创作者却遭限号",
+        "takeaway": "Meta 的 AI 能说露骨情话，真人成人创作者却被封号，双重标准引发不满。",
+        "bullets": [
+          "Meta 的 AI 代理 Muse 被允许进行露骨性对话。",
+          "成人表演者质疑 Meta 限制其社交媒体账号。",
+          "创作者认为平台对 AI 和真人采取双重标准。"
+        ],
+        "detail": "成人内容创作者发现，Meta 的 AI 代理 Muse 可以跟用户进行露骨性对话，而他们自己的社交媒体账号却因成人内容被限制。他们质疑 Meta 为何对 AI 和真人区别对待，这种双重标准让他们感到不满。",
+        "generatedAt": "2026-10-18T19:47:23+08:00"
+      }
     },
     {
       "id": "b9d0c1dc38b3ea1a",
@@ -376,6 +410,43 @@
       }
     },
     {
+      "id": "48479cd7194ad72c",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search",
+      "summary": "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 245 # Comments: 116",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T14:50:36+08:00",
+      "fetchedAt": "2026-10-18T19:47:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 推出搜索与抓取 API，千次成功请求 0.75 美元",
+        "takeaway": "DeepSeek 上线联网搜索与网页抓取接口，按成功请求计费，价格低，开发者可低成本接入实时信息。",
+        "bullets": [
+          "DeepSeek 发布搜索与抓取 API，按成功请求计费",
+          "定价为每 1000 次成功请求 0.75 美元",
+          "Hacker News 热度 245 分、116 条评论，关注度高",
+          "开发者可低成本为应用接入实时搜索与网页内容"
+        ],
+        "detail": "DeepSeek 在 API 文档中新增搜索与抓取功能，按成功请求收费，每 1000 次 0.75 美元。该功能可让开发者以较低成本为应用接入实时搜索和网页内容抓取，Hacker News 上讨论热烈。",
+        "generatedAt": "2026-10-18T19:47:23+08:00"
+      }
+    },
+    {
       "id": "5c45fc8a32a550b2",
       "title": "Inline rendering with document​.currentScript",
       "url": "https://simonwillison.net/2026/Oct/17/document-currentscript",
@@ -407,6 +478,43 @@
         ],
         "detail": "Lean Rada 介绍了一个利用 document.currentScript 属性的小技巧。你可以用它来插入一段极简的内联脚本，比如定义一个快捷函数 $，从而简化代码。",
         "generatedAt": "2026-10-18T14:39:24+08:00"
+      }
+    },
+    {
+      "id": "34545222509ff75c",
+      "title": "We all joke about our rigs being space heaters, so I had Qwen vibecode it",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x8v97a/we_all_joke_about_our_rigs_being_space_heaters_so",
+      "summary": "With winter coming up where I'm at, I wanted to see if this could actually work. Running my 4x V620 server flat out made my apartment too hot anyway, so the problem really was control. I settled on using a motherboard temperature sensor wit…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T13:40:13+08:00",
+      "fetchedAt": "2026-10-18T19:47:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "玩家用 Qwen 写代码，把 4 卡服务器变成可控暖气",
+        "takeaway": "本地大模型玩家用 Qwen 生成代码，靠主板温度传感器控制服务器发热供暖，把玩笑变成实用方案。",
+        "bullets": [
+          "用户让 Qwen 写代码，用主板温度传感器控制 4x V620 服务器发热",
+          "背景是冬季将至，服务器满载运行本就使公寓过热，问题在于控制",
+          "方案把“显卡当暖气”的玩笑变成可调节的供暖系统",
+          "体现本地模型在硬件控制与自动化场景的实用潜力"
+        ],
+        "detail": "这位用户所在地冬季将至，想验证“服务器当暖气”是否真能行。他的 4 块 V620 显卡满载时公寓本就过热，关键在控制。于是他让 Qwen 生成代码，用主板温度传感器来调节服务器发热。",
+        "generatedAt": "2026-10-18T19:47:23+08:00"
       }
     },
     {
@@ -445,6 +553,42 @@
         "generatedAt": "2026-10-18T02:57:47+08:00"
       },
       "pushedAt": "2026-10-18T07:35:26+08:00"
+    },
+    {
+      "id": "d3c35db34ec3acb3",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/ite…",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T12:33:49+08:00",
+      "fetchedAt": "2026-10-18T19:47:16+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "workflow"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Sphinx：上线前先考考你是否真懂 AI 写的代码",
+        "takeaway": "开源工具 Sphinx 在推送生产前弹出问卷，检验你是否理解 AI 生成的代码，防止盲目上线。",
+        "bullets": [
+          "Sphinx 是开源工具，可接入现有 AI 编码工作流",
+          "每次推送到生产环境前触发问卷，考察代码理解",
+          "目的是防止开发者在不理解 AI 代码的情况下上线"
+        ],
+        "detail": "Sphinx 是一个免费开源工具，能嵌入你现有的 AI 编码代理流程。每次你准备把代码推送到生产环境时，它会弹出一份问卷，检查你是否真正理解这次要上线的代码是如何工作的。",
+        "generatedAt": "2026-10-18T19:47:24+08:00"
+      }
     },
     {
       "id": "5add1aadada8ba83",
@@ -550,6 +694,42 @@
         ],
         "detail": "据钛媒体报道，AI行业叙事正在转变，从过去比拼烧钱投入，转向关注投入产出回报。微软和Meta开始踩刹车，强调财务纪律，而苹果则因相对稳健的策略成为AI赢家。",
         "generatedAt": "2026-10-18T14:39:24+08:00"
+      }
+    },
+    {
+      "id": "23197d791d966419",
+      "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
+      "url": "https://wired.com/story/data-center-industry-is-trying-to-woo-kids",
+      "summary": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T18:30:00+08:00",
+      "fetchedAt": "2026-10-18T19:47:16+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "数据中心公关新招：邀孩子实地参观",
+        "takeaway": "面对公众反弹，行业团体用亲子参观等老办法争取年轻一代好感。",
+        "bullets": [
+          "数据中心遭遇公众反对浪潮，行业团体开始公关自救。",
+          "策略包括邀请学生实地参观，以亲身体验拉近距离。",
+          "目标受众是青少年，意在培养未来支持者。"
+        ],
+        "detail": "在遭遇一波公众反对后，一些与行业关系密切的团体采用了富有创意且久经考验的策略来吸引年轻人，比如组织孩子的实地参观活动，以此改善数据中心的公众形象。",
+        "generatedAt": "2026-10-18T19:47:25+08:00"
       }
     },
     {
@@ -765,6 +945,29 @@
       "topic": "ai",
       "publishedAt": "2026-10-18T12:37:04+08:00",
       "fetchedAt": "2026-10-18T14:39:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "53c17d42ba43988a",
+      "title": "美光崛起背后：美国内存“独苗”的生存战、资本博弈与AI重生",
+      "url": "https://tmtpost.com/8172334.html",
+      "summary": "独特的“美国与东亚二象性”",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T15:55:14+08:00",
+      "fetchedAt": "2026-10-18T19:47:16+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
