@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updatedAt": "2026-10-18T09:36:19+08:00",
+  "updatedAt": "2026-10-18T14:39:24+08:00",
   "items": [
     {
       "id": "6435f671229b69ca",
@@ -266,6 +266,150 @@
       "pushedAt": "2026-10-18T07:35:26+08:00"
     },
     {
+      "id": "604bfec1a4174fdb",
+      "title": "DeepSeek v4.1 Flash 1017 for Dwarfstar (ds4)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x8tr2c/deepseek_v41_flash_1017_for_dwarfstar_ds4",
+      "summary": "Hey y'all, just following up on my PR to get the new vision tower for 1017 working in ds4 with the quant I promised (the language model loads already, but vision needed my PR). I built to the exact same recipe antirez used for his original …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T12:12:24+08:00",
+      "fetchedAt": "2026-10-18T14:39:15+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek v4.1 Flash 1017 视觉模块适配 ds4 项目",
+        "takeaway": "开发者提交 PR，让 DeepSeek v4.1 Flash 1017 的视觉塔在 ds4 中可用，并附上量化版本。",
+        "bullets": [
+          "语言模型此前已能在 ds4 中加载，视觉部分需额外 PR 支持",
+          "作者按 antirez 原版配方构建了量化版本",
+          "面向 LocalLLaMA 社区，方便本地部署多模态模型"
+        ],
+        "detail": "有开发者在 LocalLLaMA 发帖跟进自己的 PR：为了让 DeepSeek v4.1 Flash 1017 的视觉塔在 ds4 项目中运行，他按 antirez 原版配方做了量化。语言模型部分本来就能加载，但视觉功能需要这个 PR 才能用。",
+        "generatedAt": "2026-10-18T14:39:22+08:00"
+      }
+    },
+    {
+      "id": "8b008924045b8661",
+      "title": "Ling 3.1 Flash (560B MoE) loaded across 4 DGX Sparks using llama.cpp RPC",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x8v7cp/ling_31_flash_560b_moe_loaded_across_4_dgx_sparks",
+      "summary": "sudoing posted that he's loaded Ling 3.1 Flash across four DGX Sparks. It's a 560B MoE with 25B active parameters per token. He'd enjoyed the earlier Ling models and wanted to test this one, but it wouldn't fit on his two Sparks with the se…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T13:37:02+08:00",
+      "fetchedAt": "2026-10-18T14:39:15+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Ling 3.1 Flash 560B MoE 模型用四台 DGX Spark 跑起来了",
+        "takeaway": "560B 参数 MoE 模型通过 llama.cpp RPC 跨四台 DGX Spark 分布式加载，本地跑大模型又进一步。",
+        "bullets": [
+          "Ling 3.1 Flash 是 560B 总参数、每 token 激活 25B 的 MoE 模型",
+          "用户 sudoing 用 llama.cpp RPC 把模型分摊到四台 DGX Spark 上",
+          "两台 DGX Spark 装不下，才扩展到四台",
+          "说明消费级/桌面级设备集群跑超大 MoE 模型可行"
+        ],
+        "detail": "用户 sudoing 在 r/LocalLLaMA 分享，他把 Ling 3.1 Flash 加载到了四台 DGX Spark 上。这是一个总参数 560B、每 token 激活 25B 的 MoE 模型。他之前喜欢 Ling 系列，想测试新模型，但两台 Spark 放不下，于是用 llama.cpp RPC 扩展到四",
+        "generatedAt": "2026-10-18T14:39:22+08:00"
+      }
+    },
+    {
+      "id": "909ab7f64cba26fa",
+      "title": "What are the odds Qwen 4 models are going to think less?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x8uqig/what_are_the_odds_qwen_4_models_are_going_to",
+      "summary": "Qwen4s are hopefully coming pre-Xmas… there was all the announcements recently but no exact release date. I’m running qwen flash next 3.8 at about 28tokens per second and gotta be real, most of those go into thinking. Thinking less with the…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T13:09:25+08:00",
+      "fetchedAt": "2026-10-18T14:39:15+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 4 发布在即，用户期待减少“思考”开销",
+        "takeaway": "社区讨论 Qwen 4 是否会在推理时减少思考 token，以提升实际输出效率。",
+        "bullets": [
+          "Qwen 4 有望在圣诞节前发布，但尚无确切日期",
+          "用户当前用 Qwen Flash 3.8 约 28 token/秒，多数耗在思考上",
+          "讨论焦点：新模型是否会降低思考 token 占比"
+        ],
+        "detail": "Reddit 用户发帖猜测 Qwen 4 系列可能在圣诞节前推出，但官方只有预告没有具体日期。发帖人表示自己用 Qwen Flash 3.8 时速度约每秒 28 个 token，其中大部分都花在“思考”上，因此希望新模型能减少思考开销。",
+        "generatedAt": "2026-10-18T14:39:22+08:00"
+      }
+    },
+    {
+      "id": "5c45fc8a32a550b2",
+      "title": "Inline rendering with document​.currentScript",
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript",
+      "summary": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline If you define a shortcut function like this: $=(...n)=>doc…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T05:11:12+08:00",
+      "fetchedAt": "2026-10-18T14:39:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用 document.currentScript 实现内联渲染的小技巧",
+        "takeaway": "Lean Rada 分享了一个利用 document.currentScript 属性进行内联渲染的巧妙方法，可简化前端脚本注入。",
+        "bullets": [
+          "Lean Rada 提出利用 document.currentScript 属性实现内联渲染。",
+          "通过定义快捷函数 $ 来简化脚本注入操作。",
+          "该技巧可减少代码量，提升前端开发效率。"
+        ],
+        "detail": "Lean Rada 介绍了一个利用 document.currentScript 属性的小技巧。你可以用它来插入一段极简的内联脚本，比如定义一个快捷函数 $，从而简化代码。",
+        "generatedAt": "2026-10-18T14:39:24+08:00"
+      }
+    },
+    {
       "id": "27d0e2fc1a87d037",
       "title": "how do teams catch AI chatbots giving customers wrong answers? ours promised free repairs",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x8f7cc/how_do_teams_catch_ai_chatbots_giving_customers",
@@ -339,6 +483,76 @@
       }
     },
     {
+      "id": "a3c440cf290b969e",
+      "title": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+      "url": "https://infoq.cn/article/qZPH971CbfHkaCfgG0cb",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T18:00:00+08:00",
+      "fetchedAt": "2026-10-18T14:39:15+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "大模型走向终端：QCon上海谈量产落地",
+        "takeaway": "大模型正从云端走向手机等终端设备，量产落地成为行业关注焦点。",
+        "bullets": [
+          "QCon上海聚焦大模型在终端设备的探索",
+          "讨论重点从技术验证转向量产落地",
+          "终端侧AI或改变应用与硬件的结合方式"
+        ],
+        "detail": "InfoQ中国的这篇内容围绕“AI+终端”展开，讨论大模型在终端设备上的探索与量产落地。它关注的不只是技术可行性，还包括如何真正规模化部署到终端产品中。",
+        "generatedAt": "2026-10-18T14:39:24+08:00"
+      }
+    },
+    {
+      "id": "721e0ba7d5cabefe",
+      "title": "当烧钱不再是通行证：微软、Meta踩刹车，苹果成了AI赢家",
+      "url": "https://tmtpost.com/8171909.html",
+      "summary": "AI叙事转向重视投入回报，进入财务纪律驱动新阶段",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T09:57:28+08:00",
+      "fetchedAt": "2026-10-18T14:39:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "烧钱不再是通行证：微软Meta踩刹车，苹果成AI赢家",
+        "takeaway": "AI竞争从拼投入转向看回报，财务纪律成新阶段关键词，苹果意外受益。",
+        "bullets": [
+          "微软、Meta在AI投入上放缓节奏，强调财务纪律",
+          "AI叙事转向重视投入回报，不再唯烧钱论",
+          "苹果因稳健策略被视作本轮AI竞争赢家"
+        ],
+        "detail": "据钛媒体报道，AI行业叙事正在转变，从过去比拼烧钱投入，转向关注投入产出回报。微软和Meta开始踩刹车，强调财务纪律，而苹果则因相对稳健的策略成为AI赢家。",
+        "generatedAt": "2026-10-18T14:39:24+08:00"
+      }
+    },
+    {
       "id": "fa796824301f11c6",
       "title": "Amazon uses AI to monitor union risk in UK warehouses",
       "url": "https://opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
@@ -361,6 +575,79 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-10-18T07:35:26+08:00"
+    },
+    {
+      "id": "12e408d9995df3c4",
+      "title": "为AI这碟醋，腾讯包上了“绿泡泡”这盘“饺子”",
+      "url": "https://tmtpost.com/8172155.html",
+      "summary": "为AI这碟醋，腾讯包上了“绿泡泡”这盘“饺子”",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T09:57:07+08:00",
+      "fetchedAt": "2026-10-18T14:39:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "302ace587bfea61d",
+      "title": "You don’t need that expensive of a build for local llms.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x8s73i/you_dont_need_that_expensive_of_a_build_for_local",
+      "summary": "Been seeing a lot of people with their 64gb of ddr5 4x3090 or whatever strata builds and it’s been sorta depressing knowing i cant afford that but i finally finished my setup today so here we go, Qwen 3.8 27b at 262k context, unsloth iq4XS …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T10:46:36+08:00",
+      "fetchedAt": "2026-10-18T14:39:15+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0ee13042ae730990",
+      "title": "当地方政府成为机器人的第一大客户",
+      "url": "https://tmtpost.com/8172207.html",
+      "summary": "数采中心的本质，是政府对具身智能的补贴形式从现金补贴改成了采购订单。这在产业史上不新鲜——光伏、新能源车、AI四小龙都走过同一条路。它的正面价值和财务副作用是同一枚硬币的两面。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T09:57:25+08:00",
+      "fetchedAt": "2026-10-18T14:39:15+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "客户"
+      ],
+      "confidence": 1,
+      "score": 33,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "29c63ddb4c1e37ca",
@@ -413,6 +700,169 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-10-18T07:35:26+08:00"
+    },
+    {
+      "id": "7f99db89f326fb10",
+      "title": "AI让服饰下单转化率提升近20%，2026天猫双11将开启AI电商元年？",
+      "url": "https://tmtpost.com/8172255.html",
+      "summary": "价格已经不再是双11大促的看点，AI和旗舰店才是是今年天猫双11的关键词。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T14:06:43+08:00",
+      "fetchedAt": "2026-10-18T14:39:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "781b5dd437788c2d",
+      "title": "Huggingface发榜，中国模型StartLux稳居决策模型SOTA",
+      "url": "https://tmtpost.com/8172283.html",
+      "summary": "当 AI 从“生成内容”迈向“执行任务”，一个能够控制计算成本、理解关键细节并准确表达不确定性的决策中枢，将成为智能体和全本地智能系统不可或缺的基础设施。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T12:20:06+08:00",
+      "fetchedAt": "2026-10-18T14:39:15+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "SOTA"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "19ef7362b1ee367b",
+      "title": "My 5070 ti/3070 Chimera build.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x8u6eg/my_5070_ti3070_chimera_build",
+      "summary": "Got lucky with a 5070 Ti for $750 AFTER TAX (might be the best decision I've ever made tbh) back in November 2025. If only I had known I'd be getting into local llms at the time...anyways. I recently decided to start messing with local AI. …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T12:37:04+08:00",
+      "fetchedAt": "2026-10-18T14:39:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3b2c5e52317b2ba9",
+      "title": "小红书的AI，开始和自己的生意算账",
+      "url": "https://tmtpost.com/8172205.html",
+      "summary": "AI开始重构小红书的流量、广告与创作者生意。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T09:57:23+08:00",
+      "fetchedAt": "2026-10-18T14:39:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8129ddd9fffb5907",
+      "title": "动辄千集的AI短剧，越长越赚钱？",
+      "url": "https://tmtpost.com/8172188.html",
+      "summary": "AI提高了制作效率，长篇网文则为持续开发提供了充足的故事。有漫剧从业者估算，单季爆款收入约在100万至200万元之间，十季收入在千万以上。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T09:57:21+08:00",
+      "fetchedAt": "2026-10-18T14:39:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a87f5513aff679df",
+      "title": "从假靳东到AI小海：变脸的AI，不变的生意",
+      "url": "https://tmtpost.com/8172140.html",
+      "summary": "这个孩子不必长大，只需要不停地遇上麻烦",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T09:57:12+08:00",
+      "fetchedAt": "2026-10-18T14:39:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ddd9a388c7a88959",
+      "title": "AIGCPanel v2.6.0 照片直接生成数字人形象，语音合成参数可调",
+      "url": "https://oschina.net/news/503072",
+      "summary": "做数字人形象不用录视频了，一张自拍就行。语音合成参数改到生成时微调、任务调度补上兜底，也都在这一版里。 📷 一张照片，就是一个数字人形象过去建形象要录一段 10 到 30 秒的视频： 全程正脸、光线稳定、表情别太夸张。不少人卡在第一步。现在弹窗里切到「图片形象」，传一张高清正脸自拍就能继续。先说清楚边界...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T10:07:54+08:00",
+      "fetchedAt": "2026-10-18T14:39:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
