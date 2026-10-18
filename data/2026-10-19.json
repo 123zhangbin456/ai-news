@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updatedAt": "2026-10-19T24:16:31+08:00",
+  "updatedAt": "2026-10-19T03:07:48+08:00",
   "items": [
     {
       "id": "2009e586e757c56c",
@@ -39,6 +39,42 @@
       }
     },
     {
+      "id": "56b1c8aea7595b33",
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
+      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T24:25:19+08:00",
+      "fetchedAt": "2026-10-19T03:07:39+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "findings"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 向外部监督机构开放“员工级”访问权限",
+        "takeaway": "外部 AI 监督机构获准像内部员工一样访问 Anthropic，并可独立发布审查结果。",
+        "bullets": [
+          "外部监督机构获得接近内部员工的访问权限",
+          "审查结论无需经 Anthropic 批准即可公开发布",
+          "此举意在提升 AI 安全治理的透明度与独立性"
+        ],
+        "detail": "Anthropic 允许一家外部 AI 监督机构以类似内部员工的权限访问其系统。该机构可以自行发布审查发现，无需事先获得 Anthropic 批准，这提升了外部监督的独立性。",
+        "generatedAt": "2026-10-19T03:07:48+08:00"
+      }
+    },
+    {
       "id": "a28c03a13af8cce5",
       "title": "17岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想",
       "url": "https://infoq.cn/article/UdT804ujpGxrv0pQfxv2",
@@ -73,6 +109,100 @@
         "detail": "据InfoQ中国报道，一位17岁的Kimi架构核心参与者已离职，并确认将前往湾区，但下一站具体去向引发外界猜想。该消息让Kimi团队的人才变动受到关注。",
         "generatedAt": "2026-10-19T24:16:29+08:00"
       }
+    },
+    {
+      "id": "218f77bb959f0137",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T24:30:00+08:00",
+      "fetchedAt": "2026-10-19T03:07:39+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "迪士尼同意聘用Character.AI多数员工",
+        "takeaway": "迪士尼拟接收Character.AI大部分团队，但交易为假马竞标，仍存变数。",
+        "bullets": [
+          "迪士尼同意聘用Character.AI多数员工",
+          "获聘员工中绝大多数已接受offer",
+          "该交易为假马竞标，其他公司或加价",
+          "事件涉及迪士尼与Character.AI双方"
+        ],
+        "detail": "文件显示，迪士尼同意聘用Character.AI的大部分员工，且收到录用通知的员工中绝大多数已接受。不过，这属于假马竞标，意味着可能有其他公司提出更高报价，交易尚未最终敲定。",
+        "generatedAt": "2026-10-19T03:07:48+08:00"
+      }
+    },
+    {
+      "id": "f1180bde7a40d39c",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "url": "https://theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T02:28:10+08:00",
+      "fetchedAt": "2026-10-19T03:07:39+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "费城女子因阻挡Uber送货机器人被捕",
+        "takeaway": "一名女子因阻挡送货机器人并拒绝让路被控扰乱治安，引发对机器人取代人工的争议。",
+        "bullets": [
+          "卡罗琳·马文在费城阻挡Uber送货机器人，拒绝让路后被捕。",
+          "她被控扰乱治安，称担心机器人抢走人类送货员的工作。",
+          "事件凸显自动化配送与公众接受度之间的冲突。"
+        ],
+        "detail": "卡罗琳·马文因在费城阻挡Uber送货机器人的去路并拒绝移动而被捕，面临扰乱治安指控。她向当地媒体表示，自己担心这类机器人正在取代人类送货员的工作。事件引发对自动化配送与就业影响的讨论。",
+        "generatedAt": "2026-10-19T03:07:48+08:00"
+      }
+    },
+    {
+      "id": "ac587e4f060853fe",
+      "title": "Embedding model can be used to search text inside image",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x9acj4/embedding_model_can_be_used_to_search_text_inside",
+      "summary": "Just something I've been testing over few week since Embedding Gemma 2 released which is about 330MB at Q8. Not sure if this would count as 'resource' flair... Image shows cosine similarity changes as I refine the text query (aka text embed…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T02:22:43+08:00",
+      "fetchedAt": "2026-10-19T03:07:39+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"

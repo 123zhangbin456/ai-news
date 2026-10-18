@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updatedAt": "2026-10-19T24:16:31+08:00",
+  "updatedAt": "2026-10-19T03:07:48+08:00",
   "items": [
     {
       "id": "6435f671229b69ca",
@@ -1270,6 +1270,32 @@
       "category": "其他",
       "keywords": [],
       "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6991490e2cff1c06",
+      "title": "browsecomp-plus-mini: 15 of BrowseComp-Plus's 830 queries that rank deep-research agents roughly like the full set, no LLM judge",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x94mu0/browsecompplusmini_15_of_browsecomppluss_830",
+      "summary": "I needed a cheap way to compare search agents on BrowseComp-Plus without burning hours of agent time every run. So I built a 15-query subset of the full 830 that ranks systems roughly the way the full benchmark does. - weighted Spearman ran…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-18T22:30:57+08:00",
+      "fetchedAt": "2026-10-19T03:07:39+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "benchmark",
+        "research"
+      ],
+      "confidence": 1,
       "score": 29,
       "related": [],
       "pushed": false
