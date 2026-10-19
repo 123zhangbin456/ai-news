@@ -1,7 +1,122 @@
 {
   "date": "2026-10-20",
-  "updatedAt": "2026-10-20T02:55:36+08:00",
+  "updatedAt": "2026-10-20T06:43:02+08:00",
   "items": [
+    {
+      "id": "0e19bec78e364455",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted",
+      "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T06:04:28+08:00",
+      "fetchedAt": "2026-10-20T06:42:49+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 55,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "微软：AI代理如内部威胁，前沿模型不可信",
+        "takeaway": "微软提醒企业警惕员工使用的AI代理，因其可能带来安全风险。",
+        "bullets": [
+          "微软将AI代理比作内部威胁，强调需密切监控。",
+          "企业应关注员工使用的非OpenAI、Anthropic控制的系统。",
+          "前沿模型不可信，需加强安全管控。"
+        ],
+        "detail": "微软建议企业密切监控员工使用的AI代理，尤其是那些连接非OpenAI、Anthropic等AI实验室控制系统的代理。微软认为前沿模型不可信，这些代理可能像内部威胁一样带来安全风险。",
+        "generatedAt": "2026-10-20T06:42:55+08:00"
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
+    },
+    {
+      "id": "8a1ba0c934b076ba",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T04:09:24+08:00",
+      "fetchedAt": "2026-10-20T06:42:49+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chips",
+        "NVIDIA"
+      ],
+      "confidence": 0.6,
+      "score": 54,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "亚马逊推出TorchNeuron工具，挑战英伟达在PyTorch生态的主导地位",
+        "takeaway": "亚马逊发布新开发工具TorchNeuron，旨在降低开发者使用其自研芯片运行PyTorch应用的门槛，从而削弱英伟达对AI芯片市场的控制。",
+        "bullets": [
+          "亚马逊推出TorchNeuron开发工具，帮助开发者在自研芯片上运行PyTorch应用。",
+          "PyTorch是构建大多数AI应用的主流免费工具包，目前主要与英伟达芯片生态绑定。",
+          "此举是亚马逊对英伟达发起的最强挑战，可能推动AI芯片市场多元化。"
+        ],
+        "detail": "亚马逊发布了名为TorchNeuron的新开发工具，目标是打破英伟达对PyTorch工具包的掌控。PyTorch是构建大多数AI应用的免费工具，目前开发者主要用它配合英伟达芯片。亚马逊希望借助该工具，让更多开发者将应用迁移到自家芯片等替代硬件上运行。",
+        "generatedAt": "2026-10-20T06:42:55+08:00"
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
+    },
+    {
+      "id": "141841bfba33c1b9",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
+      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing …",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T03:28:34+08:00",
+      "fetchedAt": "2026-10-20T06:42:49+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users",
+        "tool",
+        "tools"
+      ],
+      "confidence": 0.5,
+      "score": 49,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "OpenCode 遭黑客攻击，用户 AI 账户被刷爆",
+        "takeaway": "开源 AI 编程工具 OpenCode 平台被入侵，用户 API 密钥泄露，导致 AI 账户产生高额费用。",
+        "bullets": [
+          "黑客入侵 OpenCode 在线平台，窃取部分用户 API 密钥",
+          "被盗密钥被用于调用 AI 服务，产生额外费用",
+          "OpenCode 是 Claude Code 和 Cursor 的热门开源替代品",
+          "事件暴露 AI 编程工具密钥管理风险"
+        ],
+        "detail": "OpenCode 是一款开源 AI 编程代理，常被当作 Claude Code 和 Cursor 的替代品。但黑客侵入了其在线平台的部分系统，偷走了一些用户的 API 密钥，并用这些密钥在用户的 AI 账户上产生费用。事发后 OpenCode 求助的 AI 工具还多次拒绝提供帮助。",
+        "generatedAt": "2026-10-20T06:42:57+08:00"
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
+    },
     {
       "id": "9711248d79e917ee",
       "title": "谷歌开源Harness，支持 OpenCode 和 Codex：国内开发者接入Jev实测“真行”",
@@ -25,7 +140,7 @@
       "confidence": 0.4,
       "score": 47,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "谷歌开源 Harness，支持 OpenCode 与 Codex",
         "takeaway": "谷歌开源 Harness，可接入 OpenCode 和 Codex，国内开发者实测可用。",
@@ -36,7 +151,8 @@
         ],
         "detail": "谷歌开源了 Harness，支持 OpenCode 和 Codex 两种接入方式。有国内开发者接入 Jev 后实测，反馈“真行”，说明实际使用可行。",
         "generatedAt": "2026-10-19T22:23:09+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "5a12ec1a06c61476",
@@ -61,7 +177,7 @@
       "confidence": 1,
       "score": 46,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "StartLux登顶决策模型榜单，学会“拿不准再想”",
         "takeaway": "中国团队StartLux在决策模型榜单超越Jev，并引入“不确定时再思考”机制，值得关注。",
@@ -72,7 +188,82 @@
         ],
         "detail": "InfoQ中国报道，中国挑战者StartLux在决策模型榜单上登顶，超越此前的领先者Jev。该模型还学会了“拿不准再想”，即在不确定时进行额外思考。这显示决策模型在推理策略上的新探索。",
         "generatedAt": "2026-10-19T22:23:09+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
+    },
+    {
+      "id": "fef6e80895790548",
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T04:21:53+08:00",
+      "fetchedAt": "2026-10-20T06:42:49+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "被控为间谍的前OpenAI工程师，FBI称其存有“沙特政府文件”文件夹",
+        "takeaway": "一名前OpenAI工程师被控从事间谍活动，FBI发现其存有“沙特政府文件”文件夹，美方担忧沙特政府协助其逃避指控。",
+        "bullets": [
+          "前OpenAI工程师被控从事间谍活动，FBI在其处发现名为“沙特政府文件”的文件夹。",
+          "美国方面担心沙特政府可能帮助这名前工程师逃避间谍指控。",
+          "案件涉及AI行业与国家安全，引发对技术人才流动风险的关注。"
+        ],
+        "detail": "美国联邦调查局称，一名被控从事间谍活动的前OpenAI工程师持有一个名为“沙特政府文件”的文件夹。美方担心沙特政府会协助这名前工程师逃避相关指控。此案凸显AI领域技术人才流动可能带来的国家安全风险。",
+        "generatedAt": "2026-10-20T06:42:57+08:00"
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
+    },
+    {
+      "id": "19bb02dae50727e7",
+      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+      "url": "https://wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody",
+      "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T03:49:17+08:00",
+      "fetchedAt": "2026-10-20T06:42:49+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "OpenAI前工程师涉监视高管 法官裁定继续羁押",
+        "takeaway": "一名前OpenAI工程师被控监视公司高管，法官拒绝沙特政府保释担保，裁定继续羁押。",
+        "bullets": [
+          "被告Abdulrahman Alfozan被指监视OpenAI高管",
+          "沙特政府提出担保释放，法官称如同“空白支票”",
+          "法官裁定继续羁押，案件涉及国家安全与外交因素"
+        ],
+        "detail": "一名前OpenAI工程师Abdulrahman Alfozan被指控监视公司高管。沙特政府提出担保以争取其释放，但法官认为这相当于“空白支票”，裁定其继续羁押。案件凸显AI公司内部安全与跨国法律风险。",
+        "generatedAt": "2026-10-20T06:42:57+08:00"
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "25c38f880dd1c0b8",
@@ -100,7 +291,7 @@
       "confidence": 0.42,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Tenstorrent 融资 15 亿美元，估值达 62 亿，坚持独立发展",
         "takeaway": "英伟达挑战者 Tenstorrent 完成大额融资，估值 62 亿美元，将加速开放权重 AI 芯片布局。",
@@ -111,7 +302,8 @@
         ],
         "detail": "Tenstorrent 今年早些时候曾引发收购兴趣，但最终选择独立发展。这家英伟达的挑战者最新融资 15 亿美元，估值达到 62 亿美元，计划用这笔钱扩大开放权重 AI 芯片的规模。",
         "generatedAt": "2026-10-20T02:55:27+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "5b7e0b7861961864",
@@ -136,7 +328,7 @@
       "confidence": 1,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "为AI代理优化互联网，可能让普通用户更糟",
         "takeaway": "网站为AI代理调整设计，可能牺牲普通用户体验，值得关注互联网生态变化。",
@@ -148,7 +340,8 @@
         ],
         "detail": "文章指出，以往网站只需区分机器人和真人用户。但随着AI代理增多，网站开始为它们做专门优化，这可能无意中损害普通用户的浏览体验。",
         "generatedAt": "2026-10-20T02:55:26+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "a8d6030b440a2677",
@@ -173,7 +366,7 @@
       "confidence": 0,
       "score": 43,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Replika创始人再创业：Wabi免费个人AI助手面世",
         "takeaway": "Eugenia Kuyda新公司Wabi推出免费个人AI助手，实现她12年前在Disrupt大会上的构想。",
@@ -184,7 +377,8 @@
         ],
         "detail": "Eugenia Kuyda是Replika的创始人，她的新创业公司Wabi推出了一款个人AI助手，现已免费开放下载。这款产品实现的是她十多年前在TechCrunch Disrupt大会上展示过的想法。",
         "generatedAt": "2026-10-20T02:55:28+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "69bd463197ee8fc6",
@@ -209,7 +403,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "用户用AI给智能电视“减负”，重夺控制权",
         "takeaway": "智能电视广告多、追踪多、界面卡，部分用户借助AI代理清理预装软件，夺回控制权。",
@@ -220,7 +414,8 @@
         ],
         "detail": "一些智能电视用户受够了广告、追踪和卡顿的界面，开始用AI代理清理预装软件和冗余功能，重新掌控自己的电视。这反映出用户对智能电视体验的不满，以及AI在设备管理上的新用法。",
         "generatedAt": "2026-10-20T02:55:30+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "92c294f17fe5c809",
@@ -243,7 +438,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI研究员发长文颠覆神经网络认知",
         "takeaway": "Goodfire研究员Nick Cammarata以2.6万字博文提出关于神经网络本质的爆炸性观点，引发AI界震动。",
@@ -254,7 +449,83 @@
         ],
         "detail": "AI初创公司Goodfire的研究员Nick Cammarata发表了一篇2.6万字的长文，开头便说“关于神经网络的本质，我有好消息”。这篇博文提出了一个爆炸性观点，彻底颠覆了AI界对神经网络的认知，迅速引发热议。",
         "generatedAt": "2026-10-20T02:55:31+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
+    },
+    {
+      "id": "1ef5dd457f6d1430",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life",
+      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T03:00:12+08:00",
+      "fetchedAt": "2026-10-20T06:42:49+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app",
+        "users"
+      ],
+      "confidence": 0.33,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "AI伴侣应用Tolan获3000万美元融资，活跃用户超25万",
+        "takeaway": "Tolan凭借25万活跃用户再获3000万美元融资，AI伴侣赛道热度不减。",
+        "bullets": [
+          "Tolan是一款帮助用户应对生活的AI伴侣应用。",
+          "在吸引超25万活跃用户后，它新融资3000万美元。",
+          "本轮融资显示资本持续看好AI情感陪伴类产品。"
+        ],
+        "detail": "AI伴侣应用Tolan在积累超过25万活跃用户后，又完成了3000万美元的新一轮融资。这款应用主打帮助用户应对日常生活，此次融资表明市场对AI情感陪伴类产品的兴趣和信心正在增强。",
+        "generatedAt": "2026-10-20T06:42:58+08:00"
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
+    },
+    {
+      "id": "8f0ccb03f0182257",
+      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+      "url": "https://theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapi…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T05:28:20+08:00",
+      "fetchedAt": "2026-10-20T06:42:49+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "investors"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "CoreWeave 债券跌入困境区间，AI 行业债务风险引关注",
+        "takeaway": "AI 云服务商 CoreWeave 债券收益率飙升，其债务问题可能波及整个 AI 行业。",
+        "bullets": [
+          "CoreWeave 债券收益率比国债高 1000 个基点，进入困境区间。",
+          "知名投资人 Chamath Palihapitiya 上周二就此发表评论。",
+          "作为 AI 算力供应商，其债务状况引发行业连锁担忧。"
+        ],
+        "detail": "CoreWeave 上周经历糟糕一周，其债券按常见标准已陷入困境——投资者要求的收益率比国债高出 1000 个基点。上周二，有“SPAC 之王”之称的 Chamath Palihapitiya 也对此发表了看法。这家 AI 云服务商的债务问题正成为整个 AI 行业需要面对的风险。",
+        "generatedAt": "2026-10-20T06:42:59+08:00"
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "428ebaed686771dd",
@@ -279,7 +550,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "BitNet、Bonsai 低比特模型 CPU 实测：bitnet.cpp 输出仍错误",
         "takeaway": "有人用参考输出而非肉眼观感对比低比特 GGUF 运行时，发现 bitnet.cpp 主分支结果不正确，Bonsai 1.7B 稳定正确。",
@@ -291,7 +562,8 @@
         ],
         "detail": "作者想弄清哪些低比特 GGUF 在 CPU 上真能给出正确结果，于是逐个运行时与参考输出对比，而不是看生成文本像不像。结论是 bitnet.cpp 主分支仍有错误输出，Bonsai 1.7B 只要加载成功就正确，ik_llama.cpp 配 -rtr 通常最快。",
         "generatedAt": "2026-10-20T02:55:33+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "0c63a761301701ac",
@@ -316,7 +588,7 @@
       "confidence": 1,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Inception Labs 发布 Mercury 3：扩散模型规模化落地",
         "takeaway": "Mercury 3 主打扩散模型的大规模应用，登上 Hacker News 热榜，值得关注其技术路线。",
@@ -327,7 +599,8 @@
         ],
         "detail": "Inception Labs 发布了 Mercury 3，官方博客标题强调“扩散模型的大规模应用”。该消息在 Hacker News 上获得 109 分和 44 条评论，说明社区对扩散语言模型路线有一定关注。具体能力与评测细节需查看原文。",
         "generatedAt": "2026-10-20T02:55:34+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "6a991c51e19070a9",
@@ -384,7 +657,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenCode 遭黑客围攻 48 小时，大批 API 账户被刷爆",
         "takeaway": "OpenCode 连续两天遭攻击致大量 API 账户被盗刷，官方归因“蒸馏攻击”引发质疑。",
@@ -396,7 +669,8 @@
         ],
         "detail": "OpenCode 遭遇持续约 48 小时的黑客攻击，导致大量用户的 API 账户被刷爆、额度被耗尽。官方将原因归结为“蒸馏攻击”，但这一解释受到外界质疑。事件也提醒开发者重视 API 密钥与账户的安全防护。",
         "generatedAt": "2026-10-19T22:23:19+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "70bfbb945acdf925",
@@ -421,7 +695,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Karmada 从 CNCF 毕业，多集群管理进入成熟期",
         "takeaway": "Kubernetes 多集群项目 Karmada 完成 CNCF 毕业，意味着其成熟度与社区认可度再上一个台阶。",
@@ -432,7 +706,8 @@
         ],
         "detail": "Karmada 是面向 Kubernetes 的多集群管理项目，此次完成 CNCF 毕业，说明项目在成熟度和社区治理上通过了基金会评估。对需要跨集群调度和管理的团队来说，这意味着多了一个更可信的选择。",
         "generatedAt": "2026-10-19T22:23:19+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "1375bb961f6a8369",
@@ -455,7 +730,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI游戏克隆让独立开发者不敢展示作品",
         "takeaway": "AI克隆游戏导致独立开发者推迟Steam Next Fest演示，暴露行业新问题。",
@@ -466,7 +741,58 @@
         ],
         "detail": "独立开发者因担心自己的游戏被AI快速克隆，选择推迟在Steam Next Fest上展示演示。这一事件凸显了AI游戏克隆问题日益严重，让创作者对公开作品感到不安。",
         "generatedAt": "2026-10-20T02:55:35+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
+    },
+    {
+      "id": "f8a2b990286bb95d",
+      "title": "Let's delve into the tapestry of AI slop on r/LocalLLaMA",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xa7hi8/lets_delve_into_the_tapestry_of_ai_slop_on",
+      "summary": "Hi everyone, I got annoyed a bit with all the AI slop post I have seen here on this subreddit (and reddit in general). It has gotten better in the last few months, but that hasn't stopped me from doing an in depth analysis of AI slop in dif…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T04:05:12+08:00",
+      "fetchedAt": "2026-10-20T06:42:49+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "analysis"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
+    },
+    {
+      "id": "407de5407cf9fdb6",
+      "title": "Jev Based Adaptive Thinking for LLMs",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xa9ffa/jev_based_adaptive_thinking_for_llms",
+      "summary": "Hi, I experimented with the following idea, using JEV logic to make the thinking process of LLMs adaptive. For every single word we measure the entropy and when the model is unsure we use a JEV like gate where we ask the model if it should …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T05:18:28+08:00",
+      "fetchedAt": "2026-10-20T06:42:49+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     }
   ],
   "topic": "ai"

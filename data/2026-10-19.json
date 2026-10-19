@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updatedAt": "2026-10-20T02:55:36+08:00",
+  "updatedAt": "2026-10-20T06:43:02+08:00",
   "items": [
     {
       "id": "2009e586e757c56c",
@@ -100,7 +100,7 @@
       "confidence": 0.4,
       "score": 57,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "英伟达推出新开放模型，瞄准企业数据中心与PC端智能体",
         "takeaway": "英伟达发布开放模型，让企业能在自有数据中心和PC上运行AI智能体，推动私有化部署。",
@@ -111,7 +111,8 @@
         ],
         "detail": "英伟达正大力押注企业希望在自己的数据中心运行自有开放模型的趋势，同时试图让设备端私有AI智能体成为现实。新模型旨在满足企业对数据控制和隐私的需求。",
         "generatedAt": "2026-10-20T02:55:27+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "7fb3beb5d76c262b",
@@ -137,7 +138,7 @@
       "confidence": 0.2,
       "score": 56,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "特斯拉飞行汽车被质疑噱头，OpenAI人形机器人有新进展",
         "takeaway": "特斯拉飞行汽车遭网友质疑营销大于实质，同时OpenAI披露人形机器人项目进展，AI硬件竞赛升温。",
@@ -149,7 +150,8 @@
         ],
         "detail": "特斯拉飞行汽车被网友质疑是噱头，有人调侃若国内厂商推出会遭更严厉批评。OpenAI透露了人形机器人项目进展。此外DeepSeek发布V4.1 Flash新版本获好评，英伟达将Kimi K3模型推理速度优化了1.68倍。",
         "generatedAt": "2026-10-19T15:00:27+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "e3b7253d1777f3d8",
@@ -176,7 +178,7 @@
       "confidence": 0.25,
       "score": 53,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "钛晨报：央行债券新规征求意见，智界获独立资质，英伟达辟谣RTX5090停产",
         "takeaway": "今日要闻涵盖央行债券发行规则征求意见、智界独立造车资质及上市计划、英伟达澄清RTX5090停产传闻。",
@@ -187,7 +189,8 @@
         ],
         "detail": "央行就银行间债券市场债券发行管理规则公开征求意见。智界将获得独立造车资质，内部人士确认公司计划上市。英伟达否认RTX5090停产，称只是产能不足，不会断供。",
         "generatedAt": "2026-10-19T07:46:23+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "52e98e5bb3606ff6",
@@ -212,7 +215,7 @@
       "confidence": 0.4,
       "score": 53,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Kapitsa：面向 Apple Silicon 的开源 Metal 推理引擎，专为 Qwen 与 Nemotron 优化",
         "takeaway": "开发者发布开源 Metal 引擎 Kapitsa，针对 Qwen、Nemotron 优化，并公布多款 Mac 芯片的基准测试。",
@@ -223,7 +226,8 @@
         ],
         "detail": "作者在企业内网环境工作，常遇到无法联网、云端模型过旧的问题，而团队用的是 MacBook，于是自建了 Kapitsa 这个开源 Metal 推理引擎。它针对 Qwen 和 Nemotron 做了优化，并公开了多款模型在三档 Apple Silicon 芯片上的基准数据。",
         "generatedAt": "2026-10-19T22:23:08+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "b9d8a24f9b96d581",
@@ -248,7 +252,7 @@
       "confidence": 0.4,
       "score": 51,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "YOLO Data Agent v1.0.2 发布：让数据问答更可信",
         "takeaway": "开源数据智能 Agent 新版本，解决大模型直接生成 SQL 导致的数据不可信问题。",
@@ -259,7 +263,43 @@
         ],
         "detail": "业务方问 AI 数据时，常遇到答案与报表对不上、换问法数字就变、追问时忘记上一轮口径等问题。根源在于把 SQL 生成权直接交给大模型不可信。YOLO Data Agent v1.0.2 发布，旨在提供更可靠的数据智能问答方案。",
         "generatedAt": "2026-10-19T22:23:08+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
+    },
+    {
+      "id": "7a364f356aab4946",
+      "title": "Advancing Coding in Low-Resource Programming Languages",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T20:00:00+08:00",
+      "fetchedAt": "2026-10-20T06:42:49+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 51,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "OpenAI 提升 ChatGPT 对低资源编程语言的支持",
+        "takeaway": "OpenAI 正在改进 ChatGPT 对低资源编程语言的支持，并新增软件工程、SQLite 和 COBOL 迁移的评估。",
+        "bullets": [
+          "OpenAI 宣布提升 ChatGPT 在低资源编程语言上的表现。",
+          "新增针对软件工程、SQLite 和 COBOL 迁移的评估。",
+          "此举旨在让 AI 编程助手覆盖更小众的语言场景。"
+        ],
+        "detail": "OpenAI 正在让 ChatGPT 更好地支持那些训练数据较少的编程语言。为此，他们新增了软件工程、SQLite 和 COBOL 迁移方面的评估，以衡量和改进模型在这些场景下的能力。",
+        "generatedAt": "2026-10-20T06:42:55+08:00"
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "efeb3746fdd37d80",
@@ -321,7 +361,7 @@
       "confidence": 0,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenCode 2.0 正式发布：重大改造导致旧插件全部失效",
         "takeaway": "OpenCode 2.0 是一次不兼容旧版的重大改造，现有插件全部失效，用户需评估升级成本。",
@@ -332,7 +372,8 @@
         ],
         "detail": "OpenCode 2.0 正式发布，官方将其定位为一次重大改造。最直接的影响是旧插件全部失效，依赖现有插件生态的用户需要重新适配或重写插件，升级前应先评估迁移成本。",
         "generatedAt": "2026-10-19T15:00:26+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "048da226d17ea2b3",
@@ -357,7 +398,7 @@
       "confidence": 1,
       "score": 49,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI智能体被困虚拟荒岛30小时，竟开始“玩耍”",
         "takeaway": "研究发现，无指令时AI智能体会自发“玩耍”，揭示其自主行为倾向。",
@@ -368,7 +409,8 @@
         ],
         "detail": "如果不对AI智能体下达任何指令，它们会做什么？研究人员把Claude等智能体反复单独放在虚拟荒岛上30个小时，结果它们的行为看起来很像在“玩耍”。这个实验让人联想到电影《荒岛余生》，旨在观察AI在无任务时的自发行为。",
         "generatedAt": "2026-10-19T22:23:08+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "7d670bb9b339095f",
@@ -395,7 +437,7 @@
       "confidence": 0.81,
       "score": 48,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "速卖通设专项资金，天使轮投资AI硬件品牌",
         "takeaway": "电商平台首次下场做天使投资，把品牌争夺提前到品牌诞生之前。",
@@ -407,7 +449,8 @@
         ],
         "detail": "10月19日速卖通在深圳举办年度峰会，超1.5万名跨境商家到场。会上速卖通与天猫发布“中国品牌全球增长计划”，其中速卖通将拿出专项资金，参与优秀AI硬件品牌的天使轮融资。平台做天使投资在电商行业还是头一回，意味着对出海品牌的争夺已提前到品牌诞生之前。",
         "generatedAt": "2026-10-19T22:23:10+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "dda295fa43feb901",
@@ -433,7 +476,7 @@
       "confidence": 1,
       "score": 47,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Qwen 3.8 FN NVFP4 实测：社区小挑战跑通多图提示",
         "takeaway": "Reddit 网友用 Qwen 3.8 FN NVFP4 跑社区小挑战，验证多图提示下的模型表现。",
@@ -444,7 +487,8 @@
         ],
         "detail": "有网友在 DeepSeek 相关讨论帖里看到一个“小挑战”，于是拿 Qwen 3.8 FN NVFP4 试了试。提示本身很直白，文档里附了 4 张图。原帖在对比不同工具和模型的表现，这次分享的是 Qwen 这一组的结果。",
         "generatedAt": "2026-10-19T07:46:23+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "01aa8a28b9453f5d",
@@ -469,7 +513,7 @@
       "confidence": 1,
       "score": 47,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "谷歌广告误判开源 macOS 术语为恶意内容并暂停",
         "takeaway": "谷歌广告系统将开源 macOS 术语误判为恶意内容，导致相关广告暂停，凸显自动审核风险。",
@@ -480,7 +524,8 @@
         ],
         "detail": "谷歌广告系统将开源 macOS 术语误判为恶意内容，导致相关广告被暂停。这一误判影响了开源项目的正常推广，也反映出自动审核机制可能对技术术语产生误伤。",
         "generatedAt": "2026-10-19T09:53:58+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "f28eaf1dd4cb18c0",
@@ -505,7 +550,7 @@
       "confidence": 1,
       "score": 46,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Kimi与DeepSeek走向分岔：模型路线差异日益明显",
         "takeaway": "两家国产大模型公司正从趋同走向分化，路线差异值得关注。",
@@ -516,7 +561,8 @@
         ],
         "detail": "钛媒体指出，Kimi和DeepSeek虽然表面上有趋同迹象，但实际正在走向不同的发展路径。这种分岔是当前正在发生的事实，反映出两家公司在模型路线上的差异日益明显。",
         "generatedAt": "2026-10-19T22:23:11+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "56b1c8aea7595b33",
@@ -578,7 +624,7 @@
       "confidence": 1,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Gemini 4 Argon 发布，主打攻克最棘手问题",
         "takeaway": "谷歌推出新一代 Gemini 4 Argon 模型，宣称专攻高难度任务，值得关注其实际能力。",
@@ -589,7 +635,8 @@
         ],
         "detail": "InfoQ 中国报道了 Gemini 4 Argon 的发布，标题称其“为您解决最棘手的问题”。目前公开信息只有这一宣传口径，模型的具体能力、参数和开放方式都还没有细节。",
         "generatedAt": "2026-10-19T15:00:28+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "c60a8be61f89e641",
@@ -615,7 +662,7 @@
       "confidence": 0.83,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic 弃用 Git 自研 Scion，AI 编码倒逼工具链改造",
         "takeaway": "AI 生成代码量暴增让 Git 和密钥扫描不堪重负，传统开发工具链正被 AI 编码反向重塑。",
@@ -626,7 +673,8 @@
         ],
         "detail": "Anthropic 因 Claude 持续生成大量代码，Git 已难以承载，于是自研 Scion 并迁移核心仓库。其日均合并变更从 5 月约 2500 项增至 9 月超 3 万项，CI 每天约 2500 万次检出。GitHub 密钥扫描也被指又慢又贵，两家被迫改造系统。",
         "generatedAt": "2026-10-19T15:00:28+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "86789d7085154e50",
@@ -652,7 +700,7 @@
       "confidence": 1,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DeepSeek-V4.1-Flash-1017 终端基准成绩三方不一",
         "takeaway": "同一模型在 Terminal-Bench 4.0 上，模型卡报 42.3%，AA 和 Vals 分别只有 34% 和 31.82%，差距明显。",
@@ -663,7 +711,8 @@
         ],
         "detail": "DeepSeek-V4.1-Flash-1017 在 Terminal-Bench 4.0 上的成绩出现三个版本：官方模型卡写 42.3%，AA 指数测出 34%，Vals 指数只有 31.82%。模型卡提到跑分用的是 Claude Code harness，社区猜测第三方可能未采用相同配置，导致结果不一致。",
         "generatedAt": "2026-10-19T15:00:29+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "85c23fc65a1f4e84",
@@ -689,7 +738,7 @@
       "confidence": 0.11,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "RuleGo v1.0.0 发布：API 稳定、多副本部署与规则链回滚",
         "takeaway": "开源 Go 规则引擎 RuleGo 迎来首个稳定版，承诺 API 稳定并新增多副本部署和版本回滚。",
@@ -701,7 +750,8 @@
         ],
         "detail": "RuleGo 是用 Go 写的轻量高性能嵌入式规则引擎，通过 JSON 或可视化拖拽编排规则链，不写代码就能做物联网采集、边缘计算、业务自动化和 AI 智能体编排。开源三年后发布 v1.0.0 首个稳定版，承诺 v1.x 内公开 API 无破坏性变更，并带来多副本部署和规则链版本回滚。",
         "generatedAt": "2026-10-19T22:23:11+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "7e3c9be5130cf9a5",
@@ -724,7 +774,7 @@
       "confidence": 0,
       "score": 43,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "主流网站开始屏蔽AI智能体，代操作遇阻",
         "takeaway": "AI代浏览愿景撞上平台壁垒，网站正用技术手段限制智能体访问。",
@@ -736,7 +786,8 @@
         ],
         "detail": "OpenAI、Meta等公司曾承诺AI智能体能代用户订餐、清邮箱、购物，但近期用户发现，使用Meta Muse、xAI Grok、OpenAI Dots等智能体访问主流网站时被屏蔽。Yelp要求智能体付费参与数据许可，达美航空阻止代订机票，摩根大通和嘉信理财也证实限制。平台正用技术手段对AI智能体关上大门。",
         "generatedAt": "2026-10-19T22:23:11+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "a28c03a13af8cce5",
@@ -798,7 +849,7 @@
       "confidence": 0,
       "score": 42,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DeepSeek V4.1 Flash 量化至 2.61 bpw，双 3090 跑出 26 t/s",
         "takeaway": "社区用 dsx 引擎把 DeepSeek V4.1 Flash 压到 2.6bit，双 3090 即可本地跑编程与智能体任务。",
@@ -809,7 +860,8 @@
         ],
         "detail": "有用户在 LocalLLaMA 分享，借助 lxe 的 dsx 引擎把 DeepSeek-V4.1-Flash 量化成 2.6bit 版本，专为编程和智能体任务优化，权重已公开。在双 RTX 3090 上实测速度约 26 t/s，摘要还给出专家 KL、Top-1 命中率和困惑度等指标对比。",
         "generatedAt": "2026-10-19T22:23:13+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "bbfec9a7106fa7e7",
@@ -835,7 +887,7 @@
       "confidence": 0.63,
       "score": 41,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DeepSeek V4.1 Flash 更新：许愿式编程增强，搜索 API 开放",
         "takeaway": "模型性能提升且更省时省 token，自研搜索 API 开放对开发者影响最直接。",
@@ -847,7 +899,8 @@
         ],
         "detail": "DeepSeek 发布 V4.1 Flash（版本 1017）。官方称其为「性能-费用的帕累托改进」：基准测试全面提升，同时缩短任务运行时间和输出长度，跑得更快、输出更精简。「许愿式编程」从零建项目能力提升，自研搜索 API 正式开放，对用 DeepSeek API 做应用的开发者影响更直接。",
         "generatedAt": "2026-10-19T15:00:30+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "d651ae069276fbba",
@@ -872,7 +925,7 @@
       "confidence": 1,
       "score": 41,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "蚂蚁 inclusionAI 发布 Ming-3.0-audio-flash：126B MoE 音频模型，MIT 开源",
         "takeaway": "一个能听懂音频、也能开口说话的 126B MoE 模型以 MIT 协议开源，本地部署多了一个强选项。",
@@ -884,7 +937,8 @@
         ],
         "detail": "inclusionAI 在 Hugging Face 上线 Ming-3.0-audio-flash，这是一个 126B 总参数、6.5B 激活的 MoE 音频模型。它接收音频和文本指令，既能输出文字也能直接生成语音回答。模型卡列出的能力包括转写、语音问答、长录音理解和语音及环境声推理，采用 MIT 许可证。",
         "generatedAt": "2026-10-20T02:55:29+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "218f77bb959f0137",
@@ -1019,7 +1073,7 @@
       "confidence": 0.25,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "llm-tools-datasette 0.1.1 修复 httpx 依赖问题",
         "takeaway": "LLM 0.33 改用 httpx2 后，依赖 httpx 的插件会出错，该插件已修复。",
@@ -1030,7 +1084,8 @@
         ],
         "detail": "Simon Willison 将 LLM 升级到 0.33 时改用 httpx2，忘了这会破坏那些使用 httpx 但未直接依赖它的插件。llm-tools-datasette 就是其中之一，现在 0.1.1 版本已修复该问题。",
         "generatedAt": "2026-10-19T08:19:07+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "8f1b78fcf0c44ef0",
@@ -1055,7 +1110,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "llm-echo 0.5 发布：无 LLM 的调试插件更新",
         "takeaway": "Simon Willison 发布 llm-echo 0.5，一个不调用 LLM、仅回显提示的调试插件，为 LLM 新版本铺路。",
@@ -1066,7 +1121,8 @@
         ],
         "detail": "Simon Willison 发布 llm-echo 0.5 版本。该插件是 LLM 的调试工具，提供一个不调用真实 LLM 的“模型”，只把收到的提示原样返回。作者在测试 PR 时重新审视了它，并借此为新的 LLM 版本发布做准备。",
         "generatedAt": "2026-10-19T08:19:07+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "fbcf4e9ec25fbf3e",
@@ -1089,7 +1145,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "阿里云发布 7 个样板间，探索 AI 原生研发组织",
         "takeaway": "阿里云用 7 个样板间展示 AI 原生研发组织怎么落地，值得关注组织变革实践。",
@@ -1100,7 +1156,8 @@
         ],
         "detail": "阿里云总结了 7 个样板间，用来展示 AI 原生研发组织在实践中怎么搭建和运转。内容围绕研发团队的组织方式与工作流程展开，为计划推进 AI 原生转型的企业提供参考案例。",
         "generatedAt": "2026-10-19T15:00:30+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "b1ad5daf5f4a5a6d",
@@ -1123,7 +1180,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "民主党人认为严管AI或成中期选举优势",
         "takeaway": "民主党有望夺回国会控制权，正将AI监管作为竞选议题，可能影响未来科技政策走向。",
@@ -1134,7 +1191,8 @@
         ],
         "detail": "民主党人有望在11月夺回国会至少一院的控制权，届时需决定如何应对AI这一棘手的新政治议题。民调预测民主党将翻转至少一个议院，AI监管或成为其政策抓手。",
         "generatedAt": "2026-10-19T22:23:13+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "13457fd25402e873",
@@ -1159,7 +1217,7 @@
       "confidence": 0,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Skyeye 零代码智能制造系统财务板块升级至 v4.1.8",
         "takeaway": "Skyeye 发布 v4.1.8，重点更新财务板块，强化零代码与 AI 在智能制造中的一体化能力。",
@@ -1170,7 +1228,8 @@
         ],
         "detail": "Skyeye 是一个采用零代码模式开发的企业级智能制造系统，集成了 AI 能力。v4.1.8 版本主要更新了财务板块，该系统还包含 CRM、ERP、MES、OA、EHR、商城、考勤、薪资等众多功能模块。",
         "generatedAt": "2026-10-19T15:00:31+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "89f92fec6e4de819",
@@ -1193,7 +1252,7 @@
       "confidence": 0,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI人才争夺引爆BAT薪酬倒挂，老员工直呼人麻了",
         "takeaway": "大厂一边收紧招聘，一边高价抢AI人才，导致新老员工薪酬倒挂，内部矛盾加剧。",
@@ -1205,7 +1264,8 @@
         ],
         "detail": "大厂整体招聘收紧，但对AI人才的争夺没停。猎头表示，遇到真正想要的人通常不卡预算，甚至竞对OpenAI的人一来就腾坑。这导致内部薪酬倒挂：做基础模型的低职级员工，薪水已超过高职级同事，公司还传出可能取消职级的消息。",
         "generatedAt": "2026-10-19T22:23:14+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "86ff08ae99e614f6",
@@ -1230,7 +1290,7 @@
       "confidence": 0.25,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DeepSeek推出自研搜索，千次5元且失败不收费",
         "takeaway": "DeepSeek为Agent自研搜索，按次收费且失败免单，价格远低于Tavily。",
@@ -1241,7 +1301,8 @@
         ],
         "detail": "DeepSeek发布自研搜索工具，专为Agent场景设计。该搜索按使用次数收费，每千次5元，若搜索失败则不收费。相比Tavily，价格只有其零头，能显著降低Agent的搜索成本。",
         "generatedAt": "2026-10-19T22:23:14+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "3ced6e7eb075c6a4",
@@ -1266,7 +1327,7 @@
       "confidence": 0.33,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "陶哲轩称数学界进入战时状态，AI 冲击年轻学者",
         "takeaway": "OpenAI 一次性发布 350 多项数学成果，陶哲轩警告 AI 正颠覆数学研究规则，新人受冲击最大。",
@@ -1277,7 +1338,8 @@
         ],
         "detail": "陶哲轩在 UCLA 数学研讨会上直言自己处于战时状态，讨论 AI 给数学带来的生存危机。他指出 OpenAI 10 月 6 日发布 350 多项研究成果，横跨代数、数论、理论计算机科学、数理逻辑和拓扑学等分支，让数学家震惊——有人多年攻坚的难题被 AI 瞬间超越。他认为刚入行的年轻数学家面临更大威胁。",
         "generatedAt": "2026-10-19T22:23:15+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "99c5023d5ecdf0df",
@@ -1302,7 +1364,7 @@
       "confidence": 1,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "伊利诺伊州长：AI或助人活到百岁，也可能像核武般威胁",
         "takeaway": "伊利诺伊州长普利兹克谈AI双重性：既能延长寿命，也可能带来核武级风险。",
@@ -1313,7 +1375,8 @@
         ],
         "detail": "伊利诺伊州州长JB·普利兹克在访谈中分享了对AI、科技和隐私的看法。他认为AI既能帮助人类延长寿命，也可能像核武器一样带来威胁。",
         "generatedAt": "2026-10-20T02:55:31+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "72f398965877575c",
@@ -1338,7 +1401,7 @@
       "confidence": 1,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "黑客用AI智能体自主攻破百余网站，含John Deere与SharkNinja",
         "takeaway": "AI安全公司Norforge披露，黑客利用自主运行的AI智能体入侵超100个网站，攻击自动化程度引发关注。",
@@ -1349,7 +1412,8 @@
         ],
         "detail": "AI安全公司Norforge发现，一名黑客利用大量AI智能体自主入侵了100多个网站。虽然Norforge未点名目标，但路透社报道称受害者包括John Deere和SharkNinja。这凸显了AI驱动攻击的自动化新趋势。",
         "generatedAt": "2026-10-20T02:55:31+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "5891a90cc110226e",
@@ -1374,7 +1438,7 @@
       "confidence": 0.5,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Qwen 3.8 Flash Next 双 CMP 170HX 矿卡优化跑通",
         "takeaway": "玩家用两张矿卡在 PCIe 2.0 x4 窄带宽下成功优化运行 Qwen 3.8 Flash Next，值得低成本本地部署关注。",
@@ -1385,7 +1449,8 @@
         ],
         "detail": "作者一直在本地用两张 CMP 170HX 显卡优化 Qwen 3.8 Flash Next，终于把效果调到值得分享的程度。两张卡都通过 PCIe Gen2 x4 连接，没有做 x16 改装，也没用 TP2，具体配置在原帖中给出。",
         "generatedAt": "2026-10-19T08:50:36+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "f39c8877affe136f",
@@ -1410,7 +1475,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "新版 DeepSeek 实测：4 块钱让特斯拉“飞起来”",
         "takeaway": "爱范儿体验新版 DeepSeek，称其好用且成本极低，4 元即可完成让特斯拉“飞起来”的任务。",
@@ -1421,7 +1486,8 @@
         ],
         "detail": "爱范儿发文体验新版 DeepSeek，作者以“许愿”方式测试模型能力，结果仅花 4 块钱就实现了让特斯拉“飞起来”的效果。文章用“好用到原地起飞”形容使用感受，但摘要未透露具体操作和模型版本细节。",
         "generatedAt": "2026-10-19T22:23:16+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "358416179cf7a255",
@@ -1447,7 +1513,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "llama.cpp 服务默认端口从 8080 改为 9931",
         "takeaway": "llama.cpp v0.7.0 起默认端口变更，未显式配置端口的用户升级后会遇到连接中断。",
@@ -1458,7 +1524,8 @@
         ],
         "detail": "llama.cpp 从 v0.7.0 版本开始，把 llama server 的默认端口从 8080 换成了 9931。如果你之前没有在配置里明确写端口，升级后服务会监听新端口，旧连接方式会失效。使用写死 8080 端口的工具或脚本也需要相应调整。",
         "generatedAt": "2026-10-19T22:23:16+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "58b8c9bd180b511e",
@@ -1484,7 +1551,7 @@
       "confidence": 0.64,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "RDNA2 显卡跑本地大模型，除了 llama.cpp 还有别的选择吗？",
         "takeaway": "用户抱怨多数 AMD GPU 方案依赖 RDNA3 才有的 WMMA，RDNA2 支持有限，寻求替代方案。",
@@ -1495,7 +1562,8 @@
         ],
         "detail": "发帖者指出，社区里为 AMD GPU 做的本地 LLM 方案大多依赖 WMMA 指令，而该指令只有 RDNA3 及更新架构才支持。在图像视频生成中有时能用 triton 绕过限制，但在本地大模型场景下，RDNA2 显卡要么能用要么不能用，因此想寻找 llama.cpp 之外的替代方案。",
         "generatedAt": "2026-10-19T22:23:17+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "448617650f8a8e3b",
@@ -1518,7 +1586,7 @@
       "confidence": 0,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "密歇根大学衍生公司Laplace Intelligence用AI模拟红队测试机器人",
         "takeaway": "这家盈利的初创公司通过AI代理和交互式模拟，在机器人上路前进行压力测试，并参加TechCrunch创业竞技场。",
@@ -1529,7 +1597,8 @@
         ],
         "detail": "Laplace Intelligence是一家从密歇根大学分拆出来的公司，它使用AI代理和交互式模拟技术，在机器人和自动驾驶汽车投入真实世界之前进行红队压力测试。这家已经盈利的初创公司正在TechCrunch Disrupt的Startup Battlefield竞赛中亮相。",
         "generatedAt": "2026-10-20T02:55:32+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "d3a6d6aed6ba1798",
@@ -1554,7 +1623,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Cohere 模型获 llama.cpp 支持，本地运行更方便",
         "takeaway": "Cohere 官方宣布其模型接入 llama.cpp，本地部署多了一个选择。",
@@ -1565,7 +1634,8 @@
         ],
         "detail": "Cohere 的 Nick 在社区发帖，宣布 llama.cpp 已支持 Cohere 模型。他回顾了今年早些时候发布 Command A+、以及和社区一起 beta 测试 North Mini Code 的经历，称用户反馈帮助改进了模型和交付方式。",
         "generatedAt": "2026-10-20T02:55:32+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "01b06fdb8323b3c8",
@@ -1590,7 +1660,7 @@
       "confidence": 0,
       "score": 37,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "SonicBoom 发布：AI 运行时框架告别手工调优",
         "takeaway": "HardenedLinux 社区推出 GPLv3 的 AI 运行时框架，用 C API 支持多语言，并借 Guile 实现死计算消除。",
@@ -1602,7 +1672,8 @@
         ],
         "detail": "SonicBoom 是一个新的 AI 运行时框架，由 HardenedLinux 社区开发，采用 GPLv3 许可证。它通过 C API 让任何编程语言都能绑定使用，目前官方支持 GNU Guile，并利用其 delimited continuation 特性在应用层消除无效计算。运行时还集成了 LLVM MLIR，旨",
         "generatedAt": "2026-10-19T22:23:18+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "dd8ec3bec8db4535",
@@ -1627,7 +1698,7 @@
       "confidence": 1,
       "score": 37,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "CERN与Mistral签署意向书，共建战略合作加速科学AI",
         "takeaway": "欧洲核子研究中心与法国AI公司Mistral联手，推动AI在科学研究中的应用。",
@@ -1638,7 +1709,80 @@
         ],
         "detail": "欧洲核子研究中心（CERN）与法国人工智能公司Mistral签署意向书，计划建立战略合作伙伴关系，共同加速人工智能在科学研究中的应用。该消息在Hacker News上获得218点关注和43条评论。",
         "generatedAt": "2026-10-20T02:55:34+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
+    },
+    {
+      "id": "99c3849117a33510",
+      "title": "The obscure trust looming over Anthropic's IPO",
+      "url": "https://wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink Comments URL: https://news.ycombinator.com/item?id=50151376 Points: 124 # Comments: 88",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T20:06:03+08:00",
+      "fetchedAt": "2026-10-20T06:42:49+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Anthropic 上市背后：一个鲜为人知的信托基金",
+        "takeaway": "WSJ 披露 Anthropic IPO 背后存在一个不显眼的信托，可能影响其上市进程与治理结构。",
+        "bullets": [
+          "WSJ 报道 Anthropic IPO 背后有一个鲜为人知的信托",
+          "该信托可能对 Anthropic 的上市与公司治理产生影响",
+          "话题在 Hacker News 引发 124 分、88 条讨论"
+        ],
+        "detail": "《华尔街日报》报道称，Anthropic 的 IPO 背后存在一个外界不太了解的信托安排。报道聚焦这一信托在上市过程中扮演的角色，但摘要未披露其具体结构或控制方。该话题在 Hacker News 上引发关注和讨论。",
+        "generatedAt": "2026-10-20T06:42:59+08:00"
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
+    },
+    {
+      "id": "e7fd8cf2b3223b89",
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "summary": "I saw this LinkedIn post from a Meta engineer and it resonated with me: https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m... > I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days …",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T19:24:34+08:00",
+      "fetchedAt": "2026-10-20T06:42:49+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 37,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Meta工程师坦言：AI写的代码看不懂，如何交付？",
+        "takeaway": "Hacker News热议：工程师用AI生成代码却难以理解，交付时面临信任与责任困境。",
+        "bullets": [
+          "Meta工程师发帖称对AI生成代码感到不安，引发共鸣。",
+          "HN讨论如何应对交付自己不懂的AI代码的挑战。",
+          "涉及代码审查、责任归属和团队信任等实际问题。"
+        ],
+        "detail": "一位Meta工程师在LinkedIn上表示，如今写代码时感到前所未有的不安，因为大量代码由AI生成，自己却难以完全理解。这引发Hacker News讨论：工程师该如何处理交付这种代码的困境，包括审查、责任和信任问题。",
+        "generatedAt": "2026-10-20T06:43:00+08:00"
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "8ce62867b20076e5",
@@ -1663,7 +1807,7 @@
       "confidence": 0.6,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "TensorSharp 新增 Video Studio，48GB M5 Pro 本地跑 LTX 2.5",
         "takeaway": "开源推理引擎 TensorSharp 加入视频生成工作台，MacBook Pro 本地即可运行 LTX 2.5。",
@@ -1675,7 +1819,8 @@
         ],
         "detail": "TensorSharp 维护者为其开源本地推理引擎新增 Video Studio，把本地视频生成、可编辑时间线和可选的本地大模型助手整合进同一项目。演示在 48GB 内存的 M5 Pro MacBook Pro 上本地运行 LTX 2.5，说明消费级设备也能跑视频生成。",
         "generatedAt": "2026-10-19T15:00:32+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "3a11e60ee8cf431d",
@@ -1701,7 +1846,7 @@
       "confidence": 0.4,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Mistral 发布 Timestral 时间序列基础模型",
         "takeaway": "Mistral 进军时间序列领域，推出专用基础模型，值得关注其能否复刻语言模型成功。",
@@ -1712,7 +1857,8 @@
         ],
         "detail": "Mistral 正式推出时间序列基础模型 Timestral，相关消息在 Hacker News 引发讨论。该模型面向时间序列数据，具体能力与开放方式需查看官方公告。",
         "generatedAt": "2026-10-19T22:23:18+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "af8de657f4ed1d9f",
@@ -1772,7 +1918,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenTelemetry 将 Kubernetes 属性处理器升级为稳定版",
         "takeaway": "可观测性标准走向成熟，K8s 元数据采集能力可放心用于生产环境。",
@@ -1783,7 +1929,8 @@
         ],
         "detail": "OpenTelemetry 把 Kubernetes Attribute Processor 从实验阶段提升为稳定版本。该组件负责给指标、日志、追踪等遥测数据补充 Kubernetes 属性，随着可观测性模式日趋成熟，这一能力可以更放心地用于生产环境。",
         "generatedAt": "2026-10-19T15:00:32+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "4ea315f209f64602",
@@ -1808,7 +1955,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Cloudflare 推出 AI 代理专用 CLI，Wrangler 将逐步停用",
         "takeaway": "Cloudflare 为 AI 代理场景推出新命令行工具，并计划逐步停用现有 Wrangler，开发者工具链面临调整。",
@@ -1819,7 +1966,8 @@
         ],
         "detail": "Cloudflare 推出了一款面向 AI 代理的命令行工具，同时宣布将逐步停用现有的 Wrangler CLI。这意味着使用 Wrangler 管理 Cloudflare 服务的开发者，后续需要迁移到新工具，相关开发流程可能随之调整。",
         "generatedAt": "2026-10-19T15:00:33+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "5fb2884608625460",
@@ -1842,7 +1990,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "QCon上海聚焦生产级Agent落地",
         "takeaway": "QCon上海设专场探讨如何把AI Agent从Demo推进到生产环境，值得关注落地实践。",
@@ -1853,7 +2001,8 @@
         ],
         "detail": "InfoQ中国消息，QCon上海大会设置了“打造生产级的Agent”相关议题，讨论如何把AI Agent真正用于生产环境。具体内容需查看原文。",
         "generatedAt": "2026-10-19T15:00:34+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "b0fd7473dc6af21c",
@@ -1876,7 +2025,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "数学家集体抗议：AI别欺人太甚",
         "takeaway": "数学家公开抗议AI公司，指责其滥用数学成果却不尊重数学界，引发对AI与学术关系的讨论。",
@@ -1887,7 +2036,8 @@
         ],
         "detail": "钛媒体报道，数学家们对OpenAI等AI公司发出抗议，直言“别欺数学家太甚”。这反映出AI公司在使用数学成果时可能缺乏对数学界的尊重，引发学术界的反弹。",
         "generatedAt": "2026-10-19T15:00:34+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "50c4213a40b83bb0",
@@ -1910,7 +2060,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DoorDash 用 Flux 云端智能体跑通 13 万个工程任务",
         "takeaway": "DoorDash 披露 Flux 在云端智能体上完成 13 万个工程任务，展示大规模自动化落地样本。",
@@ -1921,7 +2071,8 @@
         ],
         "detail": "DoorDash 介绍了其 Flux 系统，它依托云端智能体运行，已累计处理 13 万个工程任务。这一规模表明智能体正被用于实际工程场景，而不只是概念验证。",
         "generatedAt": "2026-10-19T22:23:19+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "cfcd513a5be1258f",
@@ -1946,7 +2097,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "CNCC 2026 论坛聚焦射频计算：从信号处理走向智能重塑",
         "takeaway": "射频计算正从处理物理信号转向重塑智能形态，本届论坛引入大模型等新议题。",
@@ -1957,7 +2108,8 @@
         ],
         "detail": "射频计算指在射频空间内对信号做变换以完成信息处理。随着人工智能深度渗透，其内涵不断拓展，从信号感知走向空间认知，并涉及可编程电磁环境与无源智能系统。本届 CNCC 论坛在前两届探讨基础上，进一步引入大模型等议题。",
         "generatedAt": "2026-10-20T02:55:35+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "0774f3ed0042dafa",
@@ -1986,7 +2138,7 @@
           "source": "r/LocalLLaMA"
         }
       ],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "蚂蚁 inclusionAI 发布 Ming-3.0-audio-flash 原生音频语言模型",
         "takeaway": "一款原生音频语言模型上线 Hugging Face，可同时接收音频与文字指令，覆盖语音识别与口语问答。",
@@ -1997,7 +2149,8 @@
         ],
         "detail": "Ming-3.0-audio-flash 是 inclusionAI 推出的原生音频语言模型，能同时接收音频和文字指令。它可完成语音识别、口语问答等任务，模型权重已在 Hugging Face 上发布，方便开发者试用与集成。",
         "generatedAt": "2026-10-20T02:55:36+08:00"
-      }
+      },
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "03710f6c99ed477c",
@@ -2022,7 +2175,8 @@
       "confidence": 1,
       "score": 34,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "b3d41182461bd0cf",
@@ -2045,7 +2199,8 @@
       "confidence": 0,
       "score": 34,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "eae97477420b5d4f",
@@ -2070,7 +2225,8 @@
       "confidence": 0.25,
       "score": 34,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "8cecdb07d2d381fe",
@@ -2096,7 +2252,8 @@
       "confidence": 0.63,
       "score": 33,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "2ddee32c260a5d0d",
@@ -2122,7 +2279,32 @@
       "score": 31,
       "paperRank": 12,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
+    },
+    {
+      "id": "9dbc0d55ff9123c6",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T08:00:00+08:00",
+      "fetchedAt": "2026-10-20T06:42:49+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 31,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "ac587e4f060853fe",
@@ -2182,7 +2364,8 @@
       "confidence": 0.2,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "fc073807e5826f86",
@@ -2207,7 +2390,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "8f717d9856c8b82d",
@@ -2230,7 +2414,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "418d5e23399bf82a",
@@ -2253,7 +2438,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "df164c6f7f56848b",
@@ -2276,7 +2462,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "7da675e1b15bfd95",
@@ -2299,7 +2486,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "9e039670235b60f0",
@@ -2324,7 +2512,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "fd4524b1c2095dd0",
@@ -2347,7 +2536,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "62db711bd607b05f",
@@ -2372,7 +2562,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "1823968dc6a3f9ea",
@@ -2397,7 +2588,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "a368dd8165ed830b",
@@ -2420,7 +2612,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "d988114bad150ce7",
@@ -2443,7 +2636,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "b60560cce4e67686",
@@ -2468,7 +2662,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "9e54ed499df479dc",
@@ -2493,7 +2688,8 @@
       "confidence": 1,
       "score": 29,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "7850bf447025f65b",
@@ -2519,7 +2715,8 @@
       "score": 29,
       "paperRank": 15,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "e39da58de4824a95",
@@ -2545,7 +2742,8 @@
       "score": 29,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "7b441771ae5d2bab",
@@ -2568,7 +2766,8 @@
       "confidence": 0,
       "score": 29,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "52c07928950d347d",
@@ -2593,7 +2792,8 @@
       "confidence": 0.17,
       "score": 29,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "4ea1d83871244159",
@@ -2619,7 +2819,8 @@
       "score": 25,
       "paperRank": 16,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "c83a12f1751857d9",
@@ -2645,7 +2846,8 @@
       "score": 25,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "b3e7291897518d13",
@@ -2671,7 +2873,8 @@
       "score": 25,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "963849ab775b21aa",
@@ -2697,7 +2900,8 @@
       "score": 25,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "5b82df70b0b6acd8",
@@ -2723,7 +2927,8 @@
       "score": 25,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "8e983b6721c7fdde",
@@ -2749,7 +2954,8 @@
       "score": 25,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "9f200ac8976bffc0",
@@ -2775,7 +2981,8 @@
       "score": 25,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "9384c51870cb2c9c",
@@ -2801,7 +3008,8 @@
       "score": 25,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "5b558b7f7b5d023d",
@@ -2827,7 +3035,8 @@
       "score": 25,
       "paperRank": 10,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "2cfaa81bc66c8633",
@@ -2853,7 +3062,8 @@
       "score": 25,
       "paperRank": 10,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "b4039a157123063b",
@@ -2879,7 +3089,8 @@
       "score": 25,
       "paperRank": 10,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "2a8b0e7485594d6b",
@@ -2905,7 +3116,8 @@
       "score": 25,
       "paperRank": 10,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "6d779eb5b2eabb45",
@@ -2931,7 +3143,8 @@
       "score": 25,
       "paperRank": 10,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "cea39f94035ab5af",
@@ -2957,7 +3170,8 @@
       "score": 25,
       "paperRank": 10,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
       "id": "d2e2b582e2726ffa",
@@ -2980,7 +3194,8 @@
       "confidence": 0,
       "score": 24,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-20T06:43:02+08:00"
     }
   ],
   "topic": "ai"
