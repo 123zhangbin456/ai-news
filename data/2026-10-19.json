@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updatedAt": "2026-10-19T09:53:58+08:00",
+  "updatedAt": "2026-10-19T15:00:36+08:00",
   "items": [
     {
       "id": "2009e586e757c56c",
@@ -38,6 +38,81 @@
         "generatedAt": "2026-10-19T24:16:29+08:00"
       },
       "pushedAt": "2026-10-19T06:42:08+08:00"
+    },
+    {
+      "id": "b1b1271dc03a1458",
+      "title": "Calling all GPUs: help us benchmark SonicBoom v0.0.3 — a compiler-first AI runtime that beats llama.cpp on decode",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x9mitw/calling_all_gpus_help_us_benchmark_sonicboom_v003",
+      "summary": "Hi folks! We are HardenedLinux, an old-school free software community. SonicBoom is our open-source (GPLv3) inference runtime: a compiler-first alternative to the usual Python stack. No Python at build or run time — one shared library, a C …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T11:40:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs"
+      ],
+      "confidence": 0,
+      "score": 63,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "SonicBoom v0.0.3 开源推理运行时，解码性能超 llama.cpp",
+        "takeaway": "HardenedLinux 发布编译器优先的 AI 推理运行时 SonicBoom，声称解码速度超越 llama.cpp，现征集 GPU 基准测试。",
+        "bullets": [
+          "SonicBoom 是 GPLv3 开源推理运行时，采用编译器优先设计，构建和运行均无需 Python。",
+          "官方称其在解码任务上性能超过 llama.cpp，现向社区征集 GPU 基准测试。",
+          "项目由老牌自由软件社区 HardenedLinux 发起，以单一共享库和 C 语言实现。"
+        ],
+        "detail": "HardenedLinux 社区发布了 SonicBoom v0.0.3，这是一个编译器优先的开源推理运行时，完全摆脱 Python 依赖，以单一共享库和 C 语言实现。官方声称其解码性能优于 llama.cpp，目前正呼吁社区用各类 GPU 参与基准测试。",
+        "generatedAt": "2026-10-19T15:00:26+08:00"
+      },
+      "pushedAt": "2026-10-19T15:00:36+08:00"
+    },
+    {
+      "id": "7fb3beb5d76c262b",
+      "title": "特斯拉飞行汽车被质疑是噱头！网友：若是国内厂商，分分钟被骂到退市；王自如称「想与罗永浩和解」 ；OpenAI透露人形机器人项目进展",
+      "url": "https://leiphone.com/category/zaobao/DlLESyleeLkyq5Dy.html",
+      "summary": "要闻提示 1.特斯拉飞行汽车被质疑是噱头！网友：若是国内厂商，分分钟被骂到退市 2.加价大几千买iPhone Duo消费者发声：想成为朋友圈第一个用上的人 3.王自如称“想与罗永浩和解” 4.DeepSeek V4.1 Flash新版本发布！网友怒赞：太上进，超级斩杀线 5.比亚迪第三代秦 PLUS 实车曝光，预计 10 月下旬上市 6.英伟达优化 Kimi K3 模型推理速度，提升 1.68 倍 7.京东：未来 5 年将创造超 10 万个机器人维修工程师就业岗位 8.Ope…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T09:40:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "DeepSeek"
+      ],
+      "confidence": 0.2,
+      "score": 56,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "特斯拉飞行汽车被质疑噱头，OpenAI人形机器人有新进展",
+        "takeaway": "特斯拉飞行汽车遭网友质疑营销大于实质，同时OpenAI披露人形机器人项目进展，AI硬件竞赛升温。",
+        "bullets": [
+          "特斯拉飞行汽车被批噱头，网友称国内厂商早被骂退市",
+          "OpenAI透露人形机器人项目最新进展，引发关注",
+          "DeepSeek V4.1 Flash发布，网友赞其进步神速",
+          "英伟达优化Kimi K3推理速度，提升1.68倍"
+        ],
+        "detail": "特斯拉飞行汽车被网友质疑是噱头，有人调侃若国内厂商推出会遭更严厉批评。OpenAI透露了人形机器人项目进展。此外DeepSeek发布V4.1 Flash新版本获好评，英伟达将Kimi K3模型推理速度优化了1.68倍。",
+        "generatedAt": "2026-10-19T15:00:27+08:00"
+      }
     },
     {
       "id": "e3b7253d1777f3d8",
@@ -113,6 +188,42 @@
         "generatedAt": "2026-10-19T06:41:57+08:00"
       },
       "pushedAt": "2026-10-19T06:42:08+08:00"
+    },
+    {
+      "id": "4c9c8d2afd35e243",
+      "title": "OpenCode 2.0 正式发布：一次“重大改造”，旧插件全部报废",
+      "url": "https://infoq.cn/article/IK5AWDwovCu5lx3e3mhc",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T17:51:45+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenCode 2.0 正式发布：重大改造导致旧插件全部失效",
+        "takeaway": "OpenCode 2.0 是一次不兼容旧版的重大改造，现有插件全部失效，用户需评估升级成本。",
+        "bullets": [
+          "OpenCode 2.0 正式发布，官方称其为一次重大改造",
+          "旧插件全部失效，依赖插件的用户需要迁移或重写",
+          "升级前需评估兼容性风险与迁移成本"
+        ],
+        "detail": "OpenCode 2.0 正式发布，官方将其定位为一次重大改造。最直接的影响是旧插件全部失效，依赖现有插件生态的用户需要重新适配或重写插件，升级前应先评估迁移成本。",
+        "generatedAt": "2026-10-19T15:00:26+08:00"
+      }
     },
     {
       "id": "dda295fa43feb901",
@@ -225,6 +336,116 @@
       "pushedAt": "2026-10-19T06:42:08+08:00"
     },
     {
+      "id": "63726491a1df4dc1",
+      "title": "Gemini 4 Argon：为您解决最棘手的问题",
+      "url": "https://infoq.cn/article/LkxBOvOJWmQGMQemUOrX",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T19:10:27+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gemini 4 Argon 发布，主打攻克最棘手问题",
+        "takeaway": "谷歌推出新一代 Gemini 4 Argon 模型，宣称专攻高难度任务，值得关注其实际能力。",
+        "bullets": [
+          "谷歌发布 Gemini 4 Argon 模型",
+          "官方定位为解决最棘手的问题",
+          "具体能力与参数尚未披露"
+        ],
+        "detail": "InfoQ 中国报道了 Gemini 4 Argon 的发布，标题称其“为您解决最棘手的问题”。目前公开信息只有这一宣传口径，模型的具体能力、参数和开放方式都还没有细节。",
+        "generatedAt": "2026-10-19T15:00:28+08:00"
+      }
+    },
+    {
+      "id": "c60a8be61f89e641",
+      "title": "Git 被换掉，LLM 被替代：AI 编码开始反噬传统工具链？",
+      "url": "https://leiphone.com/category/ai/wHcf2tZUiQkXGM0i.html",
+      "summary": "Anthropic 代码量暴涨，GitHub 密钥扫描又慢又贵，两家被迫改造系统。作者丨郑佳美编辑丨岑峰 Git 已经支撑软件开发二十多年，Anthropic 却决定把它换掉。为了让 Claude 持续生成的代码顺利进入开发流程，7 名工程师花了 5 个月，开发出版本控制系统 Scion，并将核心代码仓库迁移过去。今年 5 月，Anthropic 每天平均合并约 2500 项代码变更，到 9 月已超过 3 万项，仅 CI 系统每天就要执行约 2500 万次代码检出。写代码的速…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:27:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "工具链",
+        "github"
+      ],
+      "confidence": 0.83,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 弃用 Git 自研 Scion，AI 编码倒逼工具链改造",
+        "takeaway": "AI 生成代码量暴增让 Git 和密钥扫描不堪重负，传统开发工具链正被 AI 编码反向重塑。",
+        "bullets": [
+          "Anthropic 7 名工程师花 5 个月开发版本控制系统 Scion，核心仓库已迁移",
+          "其日均代码合并量从 5 月约 2500 项涨到 9 月超 3 万项",
+          "CI 系统每天需执行约 2500 万次代码检出，GitHub 密钥扫描又慢又贵"
+        ],
+        "detail": "Anthropic 因 Claude 持续生成大量代码，Git 已难以承载，于是自研 Scion 并迁移核心仓库。其日均合并变更从 5 月约 2500 项增至 9 月超 3 万项，CI 每天约 2500 万次检出。GitHub 密钥扫描也被指又慢又贵，两家被迫改造系统。",
+        "generatedAt": "2026-10-19T15:00:28+08:00"
+      }
+    },
+    {
+      "id": "86789d7085154e50",
+      "title": "DeepSeek-V4.1-Flash-1017 on AA & Vals index",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x9owju/deepseekv41flash1017_on_aa_vals_index",
+      "summary": "DeepSeek-V4.1-Flash-1017's Terminal bench 4.0 score: - Model card reported 42.3% - AA reports 34% - Vals index reports 31.82% AA Vals Index Model card Model card quotes: We use the Claude Code harness for Terminal-Bench 4.0 I am guessing AA…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T13:56:18+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek-V4.1-Flash-1017 终端基准成绩三方不一",
+        "takeaway": "同一模型在 Terminal-Bench 4.0 上，模型卡报 42.3%，AA 和 Vals 分别只有 34% 和 31.82%，差距明显。",
+        "bullets": [
+          "模型卡自报 42.3%，AA 实测 34%，Vals 实测 31.82%",
+          "模型卡称使用 Claude Code harness 跑分",
+          "第三方怀疑测试环境或配置差异导致分数偏低"
+        ],
+        "detail": "DeepSeek-V4.1-Flash-1017 在 Terminal-Bench 4.0 上的成绩出现三个版本：官方模型卡写 42.3%，AA 指数测出 34%，Vals 指数只有 31.82%。模型卡提到跑分用的是 Claude Code harness，社区猜测第三方可能未采用相同配置，导致结果不一致。",
+        "generatedAt": "2026-10-19T15:00:29+08:00"
+      }
+    },
+    {
       "id": "a28c03a13af8cce5",
       "title": "17岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想",
       "url": "https://infoq.cn/article/UdT804ujpGxrv0pQfxv2",
@@ -260,6 +481,44 @@
         "generatedAt": "2026-10-19T24:16:29+08:00"
       },
       "pushedAt": "2026-10-19T06:42:08+08:00"
+    },
+    {
+      "id": "bbfec9a7106fa7e7",
+      "title": "DeepSeek V4.1 Flash 更新：“许愿式编程”成真 + 搜索 API 开放",
+      "url": "https://oschina.net/news/503080",
+      "summary": "DeepSeek 更新了 V4.1 Flash，版本号 1017。这次的更新有两个看点：「许愿式编程」从零建项目的能力提升，以及自研搜索 API 正式开放——后者对用 DeepSeek API 做应用的开发者影响更直接。先看性能。官方说这是「性能-费用的帕累托改进」：基准测试全面提升的同时，缩短了任务运行时间和输出长度——也就是跑得更快、输...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T10:37:42+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "开放",
+        "DeepSeek"
+      ],
+      "confidence": 0.63,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek V4.1 Flash 更新：许愿式编程增强，搜索 API 开放",
+        "takeaway": "模型性能提升且更省时省 token，自研搜索 API 开放对开发者影响最直接。",
+        "bullets": [
+          "V4.1 Flash 版本 1017 更新，基准测试全面提升",
+          "任务运行时间和输出长度缩短，更快更省",
+          "「许愿式编程」从零建项目能力增强",
+          "自研搜索 API 正式开放，利好 API 应用开发者"
+        ],
+        "detail": "DeepSeek 发布 V4.1 Flash（版本 1017）。官方称其为「性能-费用的帕累托改进」：基准测试全面提升，同时缩短任务运行时间和输出长度，跑得更快、输出更精简。「许愿式编程」从零建项目能力提升，自研搜索 API 正式开放，对用 DeepSeek API 做应用的开发者影响更直接。",
+        "generatedAt": "2026-10-19T15:00:30+08:00"
+      }
     },
     {
       "id": "218f77bb959f0137",
@@ -444,6 +703,76 @@
       }
     },
     {
+      "id": "fbcf4e9ec25fbf3e",
+      "title": "阿里云 7 个样板间，探索 AI 原生研发组织的实践",
+      "url": "https://infoq.cn/article/2uG3W14THqtLhb5Vou51",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T22:38:24+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阿里云发布 7 个样板间，探索 AI 原生研发组织",
+        "takeaway": "阿里云用 7 个样板间展示 AI 原生研发组织怎么落地，值得关注组织变革实践。",
+        "bullets": [
+          "阿里云推出 7 个样板间，聚焦 AI 原生研发组织",
+          "面向研发团队，探索组织与流程的 AI 化改造",
+          "为想转型 AI 原生的企业提供可参考样本"
+        ],
+        "detail": "阿里云总结了 7 个样板间，用来展示 AI 原生研发组织在实践中怎么搭建和运转。内容围绕研发团队的组织方式与工作流程展开，为计划推进 AI 原生转型的企业提供参考案例。",
+        "generatedAt": "2026-10-19T15:00:30+08:00"
+      }
+    },
+    {
+      "id": "13457fd25402e873",
+      "title": "Skyeye 云企业级AI+零代码智能制造系统-财务板块 - v4.1.8发布",
+      "url": "https://oschina.net/news/503085",
+      "summary": "Skyeye 云企业级AI+零代码智能制造，智能制造一体化，采用 SpringBoot+ UNI-APP + Ant Design Vue 的零代码平台开发模式。包含 100 多种电子流程，CRM、PM、ERP、MES、ADM、OA、EHR、AI、项目、商城、财务、多班次考勤、薪资、招聘、云售后、论坛、问卷、报表设计、工作流、Saas 等功能。打造全网首套零代码、AI应用最广...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T11:42:43+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Skyeye 零代码智能制造系统财务板块升级至 v4.1.8",
+        "takeaway": "Skyeye 发布 v4.1.8，重点更新财务板块，强化零代码与 AI 在智能制造中的一体化能力。",
+        "bullets": [
+          "本次发布聚焦财务板块，版本号 v4.1.8。",
+          "系统基于 SpringBoot、UNI-APP、Ant Design Vue 零代码开发。",
+          "涵盖 CRM、ERP、MES、OA、AI 等 100 多种电子流程。"
+        ],
+        "detail": "Skyeye 是一个采用零代码模式开发的企业级智能制造系统，集成了 AI 能力。v4.1.8 版本主要更新了财务板块，该系统还包含 CRM、ERP、MES、OA、EHR、商城、考勤、薪资等众多功能模块。",
+        "generatedAt": "2026-10-19T15:00:31+08:00"
+      }
+    },
+    {
       "id": "5891a90cc110226e",
       "title": "Qwen 3.8 Flash Next optimized for two CMP 170hx GPUs",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x9iufz/qwen_38_flash_next_optimized_for_two_cmp_170hx",
@@ -477,6 +806,43 @@
         ],
         "detail": "作者一直在本地用两张 CMP 170HX 显卡优化 Qwen 3.8 Flash Next，终于把效果调到值得分享的程度。两张卡都通过 PCIe Gen2 x4 连接，没有做 x16 改装，也没用 TP2，具体配置在原帖中给出。",
         "generatedAt": "2026-10-19T08:50:36+08:00"
+      }
+    },
+    {
+      "id": "8ce62867b20076e5",
+      "title": "LTX 2.5 running locally on a 48GB M5 Pro MacBook Pro in TensorSharp’s Video Studio",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x9p6cp/ltx_25_running_locally_on_a_48gb_m5_pro_macbook",
+      "summary": "I maintain TensorSharp , an open-source local inference engine and agent runtime. I’ve added Video Studio to bring local video generation, an editable timeline, and an optional local LLM assistant into the same project. The attached demo ru…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T14:12:26+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 0.6,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "TensorSharp 新增 Video Studio，48GB M5 Pro 本地跑 LTX 2.5",
+        "takeaway": "开源推理引擎 TensorSharp 加入视频生成工作台，MacBook Pro 本地即可运行 LTX 2.5。",
+        "bullets": [
+          "TensorSharp 是开源本地推理引擎与智能体运行时",
+          "新增 Video Studio：本地视频生成、可编辑时间线",
+          "可选本地 LLM 助手，48GB M5 Pro 实机演示",
+          "面向本地部署用户，降低视频生成门槛"
+        ],
+        "detail": "TensorSharp 维护者为其开源本地推理引擎新增 Video Studio，把本地视频生成、可编辑时间线和可选的本地大模型助手整合进同一项目。演示在 48GB 内存的 M5 Pro MacBook Pro 上本地运行 LTX 2.5，说明消费级设备也能跑视频生成。",
+        "generatedAt": "2026-10-19T15:00:32+08:00"
       }
     },
     {
@@ -515,6 +881,170 @@
         "generatedAt": "2026-10-19T06:41:57+08:00"
       },
       "pushedAt": "2026-10-19T06:42:08+08:00"
+    },
+    {
+      "id": "2ed849b03687d900",
+      "title": "随着可观测性模式日趋成熟，OpenTelemetry 将 Kubernetes Attribute Processor 提升为稳定版本",
+      "url": "https://infoq.cn/article/zBfzQbuxFmP1qrIpZWTG",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T22:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenTelemetry 将 Kubernetes 属性处理器升级为稳定版",
+        "takeaway": "可观测性标准走向成熟，K8s 元数据采集能力可放心用于生产环境。",
+        "bullets": [
+          "OpenTelemetry 将 Kubernetes Attribute Processor 提升为稳定版本",
+          "该组件用于为遥测数据补充 K8s 属性信息",
+          "稳定版意味着接口与行为趋于固定，可放心用于生产"
+        ],
+        "detail": "OpenTelemetry 把 Kubernetes Attribute Processor 从实验阶段提升为稳定版本。该组件负责给指标、日志、追踪等遥测数据补充 Kubernetes 属性，随着可观测性模式日趋成熟，这一能力可以更放心地用于生产环境。",
+        "generatedAt": "2026-10-19T15:00:32+08:00"
+      }
+    },
+    {
+      "id": "4ea315f209f64602",
+      "title": "Cloudflare 推出面向 AI 代理的 CLI，并逐步停用 Wrangler",
+      "url": "https://infoq.cn/article/Ddda0DF68laqfoqa4Lju",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T19:27:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cloudflare 推出 AI 代理专用 CLI，Wrangler 将逐步停用",
+        "takeaway": "Cloudflare 为 AI 代理场景推出新命令行工具，并计划逐步停用现有 Wrangler，开发者工具链面临调整。",
+        "bullets": [
+          "Cloudflare 发布面向 AI 代理的 CLI 工具",
+          "现有 Wrangler 命令行工具将逐步停用",
+          "开发者需关注工具迁移与工作流调整"
+        ],
+        "detail": "Cloudflare 推出了一款面向 AI 代理的命令行工具，同时宣布将逐步停用现有的 Wrangler CLI。这意味着使用 Wrangler 管理 Cloudflare 服务的开发者，后续需要迁移到新工具，相关开发流程可能随之调整。",
+        "generatedAt": "2026-10-19T15:00:33+08:00"
+      }
+    },
+    {
+      "id": "5fb2884608625460",
+      "title": "打造生产级的 Agent｜QCon上海",
+      "url": "https://infoq.cn/article/oZHrjYAsXvjOZXRwLt6T",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T18:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "QCon上海聚焦生产级Agent落地",
+        "takeaway": "QCon上海设专场探讨如何把AI Agent从Demo推进到生产环境，值得关注落地实践。",
+        "bullets": [
+          "QCon上海设“打造生产级的Agent”议题",
+          "面向开发者，聚焦Agent工程化与上线",
+          "关注从原型到生产环境的实际挑战"
+        ],
+        "detail": "InfoQ中国消息，QCon上海大会设置了“打造生产级的Agent”相关议题，讨论如何把AI Agent真正用于生产环境。具体内容需查看原文。",
+        "generatedAt": "2026-10-19T15:00:34+08:00"
+      }
+    },
+    {
+      "id": "b0fd7473dc6af21c",
+      "title": "AI，别欺数学家太甚",
+      "url": "https://tmtpost.com/8173028.html",
+      "summary": "收手吧，OpenAI们，外面都是数学家的抗议。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:27:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "数学家集体抗议：AI别欺人太甚",
+        "takeaway": "数学家公开抗议AI公司，指责其滥用数学成果却不尊重数学界，引发对AI与学术关系的讨论。",
+        "bullets": [
+          "数学家抗议OpenAI等AI公司，称其欺人太甚",
+          "抗议可能涉及AI使用数学成果却不尊重数学家",
+          "事件引发对AI与学术界关系的关注"
+        ],
+        "detail": "钛媒体报道，数学家们对OpenAI等AI公司发出抗议，直言“别欺数学家太甚”。这反映出AI公司在使用数学成果时可能缺乏对数学界的尊重，引发学术界的反弹。",
+        "generatedAt": "2026-10-19T15:00:34+08:00"
+      }
+    },
+    {
+      "id": "2ddee32c260a5d0d",
+      "title": "RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards",
+      "url": "https://arxiv.org/abs/2605.10899",
+      "summary": "arXiv:2605.10899v2 Announce Type: replace Abstract: Deep research agents plan, search, evaluate evidence, and synthesize long-form reports. Training these agents with reinforcement learning (RL) is challenging because they operate over long…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 31,
+      "paperRank": 12,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "ac587e4f060853fe",
@@ -667,6 +1197,518 @@
       "keywords": [],
       "confidence": 0,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7da675e1b15bfd95",
+      "title": "220亿机器人明星项目，打五折卖不出去",
+      "url": "https://tmtpost.com/8173088.html",
+      "summary": "去年抢着求购的机器人老股，今年打了五折也难脱手。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:30:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9e039670235b60f0",
+      "title": "新江湖演义——当AI代理参战，竞争变成什么？",
+      "url": "https://tmtpost.com/8172977.html",
+      "summary": "当AI代理替各方争取利益，个体效率的提升，可能抬高共同的竞争成本。本文从定价、筛选与资源争夺出发，讨论“局部忠诚悖论”：为什么每个AI都听话，参与竞争的门槛却可能越来越高？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T11:36:57+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "定价"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "fd4524b1c2095dd0",
+      "title": "实测 Lovart 2.0 ，设计 AI 进入个人助理时代",
+      "url": "https://ifanr.com/1684840",
+      "summary": "你下班了，Arti 还能继续工作 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T10:53:15+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9e54ed499df479dc",
+      "title": "传音的AI，不是用来涨价的",
+      "url": "https://tmtpost.com/8172842.html",
+      "summary": "AI救不了没有定价权的生意。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T10:42:54+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "定价"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7850bf447025f65b",
+      "title": "Beyond Reward Scoring: Online Multi-Agent Preference Learning for Multimodal Response Generation",
+      "url": "https://arxiv.org/abs/2610.23256",
+      "summary": "arXiv:2610.23256v1 Announce Type: new Abstract: Multimodal preference alignment often follows a score-based RLHF pipeline: a reward model is first trained to learn human preferences, then used to score on-policy responses and optimize the r…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "paperRank": 15,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e39da58de4824a95",
+      "title": "Towards Unified World Models for Visual Navigation via Memory-Augmented Planning and Foresight",
+      "url": "https://arxiv.org/abs/2510.08713",
+      "summary": "arXiv:2510.08713v4 Announce Type: replace Abstract: Enabling embodied agents to imagine future states is essential for robust and generalizable visual navigation. Yet, state-of-the-art systems typically rely on modular designs that decouple…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4ea1d83871244159",
+      "title": "MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection",
+      "url": "https://arxiv.org/abs/2610.23307",
+      "summary": "arXiv:2610.23307v1 Announce Type: cross Abstract: Multimodal large language model (MLLM)-based mobile agents are rapidly evolving from conversational assistants into autonomous systems that perceive, reason over, and act on smartphone envir…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 16,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c83a12f1751857d9",
+      "title": "PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents",
+      "url": "https://arxiv.org/abs/2610.22426",
+      "summary": "arXiv:2610.22426v1 Announce Type: new Abstract: LLM agents are used to check records against an organization's requirements, for example whether a vulnerability report is ready for investigation. Requirements often allow several ways to be …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b3e7291897518d13",
+      "title": "Testing the Planning Claims of LLM-Based Agents against Formal Semantics",
+      "url": "https://arxiv.org/abs/2610.22469",
+      "summary": "arXiv:2610.22469v1 Announce Type: new Abstract: LLM-based agents are increasingly credited with the competences of practical reasoning: planning, monitoring, and correcting their own actions. Their success is attributed to the prompting str…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "963849ab775b21aa",
+      "title": "From Trajectories to Differentiated Skills: Cognitive Differentiation for Self-Improving Agents",
+      "url": "https://arxiv.org/abs/2610.23599",
+      "summary": "arXiv:2610.23599v1 Announce Type: new Abstract: Large language model (LLM) agents tackle complex tasks through reasoning and interaction with external environments. Agent skills provide persistent, transferable capabilities that guide task …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5b82df70b0b6acd8",
+      "title": "Learning to Reason About Implicit Multimodal Harm: From Diagnosis to Generalization",
+      "url": "https://arxiv.org/abs/2605.29951",
+      "summary": "arXiv:2605.29951v2 Announce Type: replace Abstract: A benign image paired with a benign caption can become harmful only in combination, making detection fundamentally a cross-modal reasoning problem. Existing multimodal harm benchmarks eval…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8e983b6721c7fdde",
+      "title": "BEAR-Bench: A Bilingual Enterprise and Academic Reasoning Benchmark for Multimodal Models",
+      "url": "https://arxiv.org/abs/2608.17895",
+      "summary": "arXiv:2608.17895v2 Announce Type: replace-cross Abstract: While Multimodal Large Language Models (MLLMs) have made significant strides in visual comprehension, their ability to reason about text-dense, professional documents remains incompl…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9f200ac8976bffc0",
+      "title": "Think More or Read More? A Token-Budget Theory of Reasoning with Shared Context",
+      "url": "https://arxiv.org/abs/2610.23246",
+      "summary": "arXiv:2610.23246v1 Announce Type: new Abstract: Reasoning systems increasingly improve answers by incorporating additional context into the model's input, from multi-agent debate, where agents read their peers' responses, to self-refinement…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9384c51870cb2c9c",
+      "title": "SAFE-Mem: Secure Agentic Memory with Fine-Grained Authority and Governance-Aware Retrieval",
+      "url": "https://arxiv.org/abs/2610.22959",
+      "summary": "arXiv:2610.22959v1 Announce Type: cross Abstract: Large language model (LLM) agents increasingly rely on persistent memory to support long-term reasoning and personalized interactions. However, information collected from external sources ca…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5b558b7f7b5d023d",
+      "title": "Adaptation of Computer Use Agents to New Software with User Manuals",
+      "url": "https://arxiv.org/abs/2610.23012",
+      "summary": "arXiv:2610.23012v1 Announce Type: new Abstract: Recent advances in multimodal foundation models have significantly improved the ability to operate real-world software through graphical user interfaces (GUIs) using visual observations and na…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2cfaa81bc66c8633",
+      "title": "Towards Adaptive and Real-Survey-Aligned Simulated Urban Mobility Behaviour of Generative Agents",
+      "url": "https://arxiv.org/abs/2610.22407",
+      "summary": "arXiv:2610.22407v1 Announce Type: cross Abstract: In existing agent-based simulations of multimodal urban mobility, agents, representing humans, choose their travel modes either using discrete choice or machine learning models fitted on str…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b4039a157123063b",
+      "title": "ActiveEvidence: Decision-Focused Evidence Graphs with Verifiable Acquisition Gaps",
+      "url": "https://arxiv.org/abs/2610.20532",
+      "summary": "arXiv:2610.20532v2 Announce Type: replace Abstract: A multimodal agent must decide whether visual evidence is worth acquiring, which candidate or resolution to query, and when further interaction can no longer change its decision. We study …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2a8b0e7485594d6b",
+      "title": "EKLAV: Elicited Key CoT Learning via Answer only superVision",
+      "url": "https://arxiv.org/abs/2607.25182",
+      "summary": "arXiv:2607.25182v2 Announce Type: replace-cross Abstract: Reasoning distillation trains a student to reproduce both the teacher's chain-of-thought trace and its final answer. We ask whether the trace is better used as privileged training co…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6d779eb5b2eabb45",
+      "title": "Multimodal Filesystem Memory For Long-Horizon Embodied Agents",
+      "url": "https://arxiv.org/abs/2610.22686",
+      "summary": "arXiv:2610.22686v1 Announce Type: new Abstract: Agents operating over long horizons need an effective memory that allows them to reuse their experience throughout long interactions. If the entire history of an interaction is retained, it be…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cea39f94035ab5af",
+      "title": "Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation",
+      "url": "https://arxiv.org/abs/2610.23831",
+      "summary": "arXiv:2610.23831v1 Announce Type: new Abstract: A reasoning trace can accompany a correct answer without providing effective supervision for a particular student. We study how to construct traces that improve learning beyond answer-only sup…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T12:00:00+08:00",
+      "fetchedAt": "2026-10-19T15:00:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 10,
       "related": [],
       "pushed": false
     }
