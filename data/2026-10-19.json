@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updatedAt": "2026-10-19T08:19:07+08:00",
+  "updatedAt": "2026-10-19T08:50:37+08:00",
   "items": [
     {
       "id": "2009e586e757c56c",
@@ -408,6 +408,42 @@
       }
     },
     {
+      "id": "5891a90cc110226e",
+      "title": "Qwen 3.8 Flash Next optimized for two CMP 170hx GPUs",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x9iufz/qwen_38_flash_next_optimized_for_two_cmp_170hx",
+      "summary": "I've been working on optimizing Qwen 3.8 Flash Next on my local setup with two CMP 170HX cards and finally got to a place where I feel like the results are worth sharing. Both cards are running over PCIe Gen2 x4 - no x16 mod or TP2. The set…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T08:29:52+08:00",
+      "fetchedAt": "2026-10-19T08:50:30+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 Flash Next 双 CMP 170HX 矿卡优化跑通",
+        "takeaway": "玩家用两张矿卡在 PCIe 2.0 x4 窄带宽下成功优化运行 Qwen 3.8 Flash Next，值得低成本本地部署关注。",
+        "bullets": [
+          "作者在双 CMP 170HX 矿卡上优化 Qwen 3.8 Flash Next",
+          "未改 x16、未用 TP2，仅 PCIe Gen2 x4 互联",
+          "结果达到可分享水平，细节见原帖设置"
+        ],
+        "detail": "作者一直在本地用两张 CMP 170HX 显卡优化 Qwen 3.8 Flash Next，终于把效果调到值得分享的程度。两张卡都通过 PCIe Gen2 x4 连接，没有做 x16 改装，也没用 TP2，具体配置在原帖中给出。",
+        "generatedAt": "2026-10-19T08:50:36+08:00"
+      }
+    },
+    {
       "id": "af8de657f4ed1d9f",
       "title": "Google Open Sources Harness2 for Self Improving AI Agents",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x9gfnb/google_open_sources_harness2_for_self_improving",
@@ -525,6 +561,29 @@
         "ads"
       ],
       "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8f717d9856c8b82d",
+      "title": "烧钱已成过去式，AI竞赛方向有变化？",
+      "url": "https://tmtpost.com/8172463.html",
+      "summary": "烧钱本身不再是通行证，烧出什么东西来才是。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T08:30:46+08:00",
+      "fetchedAt": "2026-10-19T08:50:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 30,
       "related": [],
       "pushed": false
