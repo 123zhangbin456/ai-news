@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updatedAt": "2026-10-19T07:46:23+08:00",
+  "updatedAt": "2026-10-19T08:19:07+08:00",
   "items": [
     {
       "id": "2009e586e757c56c",
@@ -334,6 +334,78 @@
         "generatedAt": "2026-10-19T06:41:57+08:00"
       },
       "pushedAt": "2026-10-19T06:42:08+08:00"
+    },
+    {
+      "id": "ad547968d473b564",
+      "title": "llm-tools-datasette 0.1.1",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette",
+      "summary": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: d…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T07:43:09+08:00",
+      "fetchedAt": "2026-10-19T08:19:01+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tools"
+      ],
+      "confidence": 0.25,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llm-tools-datasette 0.1.1 修复 httpx 依赖问题",
+        "takeaway": "LLM 0.33 改用 httpx2 后，依赖 httpx 的插件会出错，该插件已修复。",
+        "bullets": [
+          "LLM 0.33 切换到 httpx2，导致未显式依赖 httpx 的插件失效",
+          "llm-tools-datasette 是受影响插件之一，现已发布 0.1.1 修复",
+          "提醒插件开发者应显式声明依赖，避免底层库变更导致故障"
+        ],
+        "detail": "Simon Willison 将 LLM 升级到 0.33 时改用 httpx2，忘了这会破坏那些使用 httpx 但未直接依赖它的插件。llm-tools-datasette 就是其中之一，现在 0.1.1 版本已修复该问题。",
+        "generatedAt": "2026-10-19T08:19:07+08:00"
+      }
+    },
+    {
+      "id": "8f1b78fcf0c44ef0",
+      "title": "llm-echo 0.5",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
+      "summary": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have bee…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T07:16:16+08:00",
+      "fetchedAt": "2026-10-19T08:19:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llm-echo 0.5 发布：无 LLM 的调试插件更新",
+        "takeaway": "Simon Willison 发布 llm-echo 0.5，一个不调用 LLM、仅回显提示的调试插件，为 LLM 新版本铺路。",
+        "bullets": [
+          "llm-echo 是 LLM 的调试插件，提供不涉及 LLM 的“模型”，仅重复提示。",
+          "作者在测试 PR 时重新审视该插件，并发布 0.5 版本。",
+          "此举是为即将到来的 LLM 新版本做准备。"
+        ],
+        "detail": "Simon Willison 发布 llm-echo 0.5 版本。该插件是 LLM 的调试工具，提供一个不调用真实 LLM 的“模型”，只把收到的提示原样返回。作者在测试 PR 时重新审视了它，并借此为新的 LLM 版本发布做准备。",
+        "generatedAt": "2026-10-19T08:19:07+08:00"
+      }
     },
     {
       "id": "af8de657f4ed1d9f",
