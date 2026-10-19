@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updatedAt": "2026-10-19T22:23:20+08:00",
+  "updatedAt": "2026-10-20T02:55:36+08:00",
   "items": [
     {
       "id": "2009e586e757c56c",
@@ -75,6 +75,43 @@
         "generatedAt": "2026-10-19T15:00:26+08:00"
       },
       "pushedAt": "2026-10-19T15:00:36+08:00"
+    },
+    {
+      "id": "c33a66b4df035b2b",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T23:37:09+08:00",
+      "fetchedAt": "2026-10-20T02:55:19+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA",
+        "data centers"
+      ],
+      "confidence": 0.4,
+      "score": 57,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达推出新开放模型，瞄准企业数据中心与PC端智能体",
+        "takeaway": "英伟达发布开放模型，让企业能在自有数据中心和PC上运行AI智能体，推动私有化部署。",
+        "bullets": [
+          "英伟达推出新开放模型，支持企业自建数据中心运行智能体。",
+          "同时瞄准PC端，推动设备本地运行私有AI智能体。",
+          "顺应企业希望用开放模型自主掌控AI的趋势。"
+        ],
+        "detail": "英伟达正大力押注企业希望在自己的数据中心运行自有开放模型的趋势，同时试图让设备端私有AI智能体成为现实。新模型旨在满足企业对数据控制和隐私的需求。",
+        "generatedAt": "2026-10-20T02:55:27+08:00"
+      }
     },
     {
       "id": "7fb3beb5d76c262b",
@@ -813,6 +850,43 @@
       }
     },
     {
+      "id": "d651ae069276fbba",
+      "title": "inclusionAI releases Ming-3.0-audio-flash: 126B MoE / 6.5B active, audio understanding + speech output, MIT",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x9yrfi/inclusionai_releases_ming30audioflash_126b_moe",
+      "summary": "Ming-3.0-audio-flash is up on Hugging Face . It takes audio alongside text instructions and can return text or a spoken response. The model card lists transcription, spoken Q&A, long-recording understanding, and reasoning about speech, envi…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T22:42:49+08:00",
+      "fetchedAt": "2026-10-20T02:55:19+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "releases"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "蚂蚁 inclusionAI 发布 Ming-3.0-audio-flash：126B MoE 音频模型，MIT 开源",
+        "takeaway": "一个能听懂音频、也能开口说话的 126B MoE 模型以 MIT 协议开源，本地部署多了一个强选项。",
+        "bullets": [
+          "126B 总参数、6.5B 激活，走 MoE 路线，推理成本相对可控",
+          "支持音频加文本指令输入，可返回文字或语音回答",
+          "覆盖转写、语音问答、长录音理解与语音环境推理",
+          "MIT 协议，权重已上 Hugging Face，可商用可本地跑"
+        ],
+        "detail": "inclusionAI 在 Hugging Face 上线 Ming-3.0-audio-flash，这是一个 126B 总参数、6.5B 激活的 MoE 音频模型。它接收音频和文本指令，既能输出文字也能直接生成语音回答。模型卡列出的能力包括转写、语音问答、长录音理解和语音及环境声推理，采用 MIT 许可证。",
+        "generatedAt": "2026-10-20T02:55:29+08:00"
+      }
+    },
+    {
       "id": "218f77bb959f0137",
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce",
@@ -1206,6 +1280,78 @@
       }
     },
     {
+      "id": "99c5023d5ecdf0df",
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "url": "https://theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind o…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T22:30:00+08:00",
+      "fetchedAt": "2026-10-20T02:55:19+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "privacy"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "伊利诺伊州长：AI或助人活到百岁，也可能像核武般威胁",
+        "takeaway": "伊利诺伊州长普利兹克谈AI双重性：既能延长寿命，也可能带来核武级风险。",
+        "bullets": [
+          "普利兹克认为AI有潜力帮助人类活到100岁",
+          "同时警告AI可能像核武器一样构成威胁",
+          "他还关注科技与隐私等议题"
+        ],
+        "detail": "伊利诺伊州州长JB·普利兹克在访谈中分享了对AI、科技和隐私的看法。他认为AI既能帮助人类延长寿命，也可能像核武器一样带来威胁。",
+        "generatedAt": "2026-10-20T02:55:31+08:00"
+      }
+    },
+    {
+      "id": "72f398965877575c",
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "url": "https://theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims in…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T21:58:41+08:00",
+      "fetchedAt": "2026-10-20T02:55:19+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "findings"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黑客用AI智能体自主攻破百余网站，含John Deere与SharkNinja",
+        "takeaway": "AI安全公司Norforge披露，黑客利用自主运行的AI智能体入侵超100个网站，攻击自动化程度引发关注。",
+        "bullets": [
+          "黑客使用AI智能体集群，大部分攻击自主完成",
+          "受害网站超100个，包括John Deere和SharkNinja",
+          "AI安全公司Norforge发布此发现，路透社报道了受害者信息"
+        ],
+        "detail": "AI安全公司Norforge发现，一名黑客利用大量AI智能体自主入侵了100多个网站。虽然Norforge未点名目标，但路透社报道称受害者包括John Deere和SharkNinja。这凸显了AI驱动攻击的自动化新趋势。",
+        "generatedAt": "2026-10-20T02:55:31+08:00"
+      }
+    },
+    {
       "id": "5891a90cc110226e",
       "title": "Qwen 3.8 Flash Next optimized for two CMP 170hx GPUs",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x9iufz/qwen_38_flash_next_optimized_for_two_cmp_170hx",
@@ -1352,6 +1498,76 @@
       }
     },
     {
+      "id": "448617650f8a8e3b",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrup…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T20:30:00+08:00",
+      "fetchedAt": "2026-10-20T02:55:19+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "密歇根大学衍生公司Laplace Intelligence用AI模拟红队测试机器人",
+        "takeaway": "这家盈利的初创公司通过AI代理和交互式模拟，在机器人上路前进行压力测试，并参加TechCrunch创业竞技场。",
+        "bullets": [
+          "Laplace Intelligence是密歇根大学衍生公司，专注机器人红队测试。",
+          "利用AI代理和交互式模拟，在部署前对机器人和自动驾驶车进行压力测试。",
+          "公司已实现盈利，并参加TechCrunch Disrupt的Startup Battlefield。"
+        ],
+        "detail": "Laplace Intelligence是一家从密歇根大学分拆出来的公司，它使用AI代理和交互式模拟技术，在机器人和自动驾驶汽车投入真实世界之前进行红队压力测试。这家已经盈利的初创公司正在TechCrunch Disrupt的Startup Battlefield竞赛中亮相。",
+        "generatedAt": "2026-10-20T02:55:32+08:00"
+      }
+    },
+    {
+      "id": "d3a6d6aed6ba1798",
+      "title": "llama.cpp support for Cohere models",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xa0cyz/llamacpp_support_for_cohere_models",
+      "summary": "Hey guys, Nick here from Cohere. It's been a minute. We had a great time launching Command A+ and beta-testing North Mini Code with you guys earlier this year, your feedback has really helped make our models and delivery much better. one of…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T23:43:29+08:00",
+      "fetchedAt": "2026-10-20T02:55:19+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cohere 模型获 llama.cpp 支持，本地运行更方便",
+        "takeaway": "Cohere 官方宣布其模型接入 llama.cpp，本地部署多了一个选择。",
+        "bullets": [
+          "Cohere 员工在 r/LocalLLaMA 宣布 llama.cpp 支持其模型",
+          "此前已推出 Command A+ 并测试 North Mini Code",
+          "本地推理框架生态再添一家模型厂商"
+        ],
+        "detail": "Cohere 的 Nick 在社区发帖，宣布 llama.cpp 已支持 Cohere 模型。他回顾了今年早些时候发布 Command A+、以及和社区一起 beta 测试 North Mini Code 的经历，称用户反馈帮助改进了模型和交付方式。",
+        "generatedAt": "2026-10-20T02:55:32+08:00"
+      }
+    },
+    {
       "id": "01b06fdb8323b3c8",
       "title": "SonicBoom发布：AI框架告别手工调优",
       "url": "https://solidot.org/story?sid=85645",
@@ -1386,6 +1602,42 @@
         ],
         "detail": "SonicBoom 是一个新的 AI 运行时框架，由 HardenedLinux 社区开发，采用 GPLv3 许可证。它通过 C API 让任何编程语言都能绑定使用，目前官方支持 GNU Guile，并利用其 delimited continuation 特性在应用层消除无效计算。运行时还集成了 LLVM MLIR，旨",
         "generatedAt": "2026-10-19T22:23:18+08:00"
+      }
+    },
+    {
+      "id": "dd8ec3bec8db4535",
+      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science",
+      "summary": "Article URL: https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/ Comments URL: https://news.ycombinator.com/item?id=50153630 Points: 218 # Comments: 43",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T23:28:24+08:00",
+      "fetchedAt": "2026-10-20T02:55:19+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Mistral"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "CERN与Mistral签署意向书，共建战略合作加速科学AI",
+        "takeaway": "欧洲核子研究中心与法国AI公司Mistral联手，推动AI在科学研究中的应用。",
+        "bullets": [
+          "CERN与Mistral签署意向书，建立战略合作伙伴关系。",
+          "合作目标是加速AI在科学领域的应用。",
+          "消息在Hacker News引发关注，获218点热度。"
+        ],
+        "detail": "欧洲核子研究中心（CERN）与法国人工智能公司Mistral签署意向书，计划建立战略合作伙伴关系，共同加速人工智能在科学研究中的应用。该消息在Hacker News上获得218点关注和43条评论。",
+        "generatedAt": "2026-10-20T02:55:34+08:00"
       }
     },
     {
@@ -1672,6 +1924,82 @@
       }
     },
     {
+      "id": "cfcd513a5be1258f",
+      "title": "射频计算：探索智能边界｜CNCC 2026",
+      "url": "https://leiphone.com/category/private/7vTJq8gu376Dldil.html",
+      "summary": "来源：物联网研究与创新文章链接：https://mp.weixin.qq.com/s/JVhpxoANJIjLvIfi8YiUqQ 从信号感知到空间认知，从可编程电磁环境到无源智能系统， 射频计算正从对物理信号的处理走向对智能形态的重塑。射频计算是指在射频空间内对射频信号做变换从而完成相应的信息处理和转换的过程，其内涵正随人工智能的深度渗透而不断拓展。本届论坛以 \" 射频计算 \" 为核心主题，在前两届关于射频信号信息载体、通感智能和空间计算重构等探讨基础上，进一步引入大模型、…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T23:36:00+08:00",
+      "fetchedAt": "2026-10-20T02:55:19+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "研究"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "CNCC 2026 论坛聚焦射频计算：从信号处理走向智能重塑",
+        "takeaway": "射频计算正从处理物理信号转向重塑智能形态，本届论坛引入大模型等新议题。",
+        "bullets": [
+          "论坛主题为射频计算，探讨信号感知到空间认知的演进。",
+          "涉及可编程电磁环境与无源智能系统等方向。",
+          "在前两届基础上，进一步引入大模型等新议题。"
+        ],
+        "detail": "射频计算指在射频空间内对信号做变换以完成信息处理。随着人工智能深度渗透，其内涵不断拓展，从信号感知走向空间认知，并涉及可编程电磁环境与无源智能系统。本届 CNCC 论坛在前两届探讨基础上，进一步引入大模型等议题。",
+        "generatedAt": "2026-10-20T02:55:35+08:00"
+      }
+    },
+    {
+      "id": "0774f3ed0042dafa",
+      "title": "inclusionAI/Ming-3.0-audio-flash · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x9yd01/inclusionaiming30audioflash_hugging_face",
+      "summary": "Hear clearly. Understand deeply. Act intelligently. Ming-3.0-audio-flash is a native audio-language model from inclusionAI. It accepts audio together with text instructions and supports speech recognition, spoken question answering, audio u…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T22:27:16+08:00",
+      "fetchedAt": "2026-10-20T02:55:19+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [
+        {
+          "title": "inclusionAI/Ming-3.0-audio-tiny · Hugging Face",
+          "url": "https://reddit.com/r/LocalLLaMA/comments/1x9yf3m/inclusionaiming30audiotiny_hugging_face",
+          "source": "r/LocalLLaMA"
+        }
+      ],
+      "pushed": false,
+      "interpret": {
+        "headline": "蚂蚁 inclusionAI 发布 Ming-3.0-audio-flash 原生音频语言模型",
+        "takeaway": "一款原生音频语言模型上线 Hugging Face，可同时接收音频与文字指令，覆盖语音识别与口语问答。",
+        "bullets": [
+          "inclusionAI 推出 Ming-3.0-audio-flash，原生支持音频与文本联合输入",
+          "支持语音识别、口语问答等音频理解任务",
+          "模型已发布在 Hugging Face，开发者可直接获取使用"
+        ],
+        "detail": "Ming-3.0-audio-flash 是 inclusionAI 推出的原生音频语言模型，能同时接收音频和文字指令。它可完成语音识别、口语问答等任务，模型权重已在 Hugging Face 上发布，方便开发者试用与集成。",
+        "generatedAt": "2026-10-20T02:55:36+08:00"
+      }
+    },
+    {
       "id": "03710f6c99ed477c",
       "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
       "url": "https://wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card",
@@ -1692,6 +2020,54 @@
         "safety"
       ],
       "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b3d41182461bd0cf",
+      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
+      "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T22:45:43+08:00",
+      "fetchedAt": "2026-10-20T02:55:19+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "eae97477420b5d4f",
+      "title": "华中师大 CoReFuse-Med：先净化再融合，让低质模态不再拖后腿｜ACM MM 2026",
+      "url": "https://leiphone.com/category/private/QgMWStz8hCPsFf68.html",
+      "summary": "来源：多模态信息融合文章链接：https://mp.weixin.qq.com/s/SVr9DmtPyzORLYad-tNR-g 多模态融合何时失效？ ACM MM 2026 · CoReFuse-Med 多模态并不是越多越好。当MRI已经空间对齐，但是T1、T2、FLAIR等模态的采样质量差别很大时，低质量模态可能会把高质量模态中产生的重采样伪影一起带入到融合网络中去。CoReFuse-Med从浅层污染和深层模态偏置这两个方面来对症下药地进行修复。论文标题： When Fu…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T20:47:00+08:00",
+      "fetchedAt": "2026-10-20T02:55:19+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "论文"
+      ],
+      "confidence": 0.25,
       "score": 34,
       "related": [],
       "pushed": false
@@ -2065,6 +2441,31 @@
       "category": "其他",
       "keywords": [],
       "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b60560cce4e67686",
+      "title": "We built our own inference engine so a 32B model could keep 262K context inside a 16 GB GPU budget. Here's an uncut run.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xa02iw/we_built_our_own_inference_engine_so_a_32b_model",
+      "summary": "Hey r/LocalLLaMA , Blockway here, a small team from Hong Kong. After our v1 post, the most common question was basically \"ok, but why does this model exist?\" Totally fair. Here's our honest answer. The problem Long agent sessions eat VRAM. …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T23:32:37+08:00",
+      "fetchedAt": "2026-10-20T02:55:19+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU"
+      ],
+      "confidence": 1,
       "score": 30,
       "related": [],
       "pushed": false
