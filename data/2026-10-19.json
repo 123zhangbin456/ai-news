@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updatedAt": "2026-10-19T15:00:36+08:00",
+  "updatedAt": "2026-10-19T22:23:20+08:00",
   "items": [
     {
       "id": "2009e586e757c56c",
@@ -153,6 +153,78 @@
       }
     },
     {
+      "id": "52e98e5bb3606ff6",
+      "title": "Kapitsa: open-source Apple Silicon optimized Metal engine built for Qwen and Nemotron. See benchmarks of Qwen 27B, Nemotron + 8 other models on an M1 Pro (16GB), M4 Pro (48GB) and M5 Max (128GB)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x9pzt0/kapitsa_opensource_apple_silicon_optimized_metal",
+      "summary": "hey, my name is Ye, I vibecode at Nace.ai and we do a lot of work with enterprises, and a lot of the time we're inside their networks with no internet access and outdated cloud hosted models. considering we work on macbooks, we have built K…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T15:04:45+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 0.4,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Kapitsa：面向 Apple Silicon 的开源 Metal 推理引擎，专为 Qwen 与 Nemotron 优化",
+        "takeaway": "开发者发布开源 Metal 引擎 Kapitsa，针对 Qwen、Nemotron 优化，并公布多款 Mac 芯片的基准测试。",
+        "bullets": [
+          "由 Nace.ai 开发者 Ye 发布，主打企业内网无联网、模型老旧场景",
+          "专为 Qwen 和 Nemotron 优化，基于 Apple Silicon 的 Metal 后端",
+          "公布 Qwen 27B、Nemotron 等 10 款模型在 M1 Pro、M4 Pro、M5 Max 上的跑分"
+        ],
+        "detail": "作者在企业内网环境工作，常遇到无法联网、云端模型过旧的问题，而团队用的是 MacBook，于是自建了 Kapitsa 这个开源 Metal 推理引擎。它针对 Qwen 和 Nemotron 做了优化，并公开了多款模型在三档 Apple Silicon 芯片上的基准数据。",
+        "generatedAt": "2026-10-19T22:23:08+08:00"
+      }
+    },
+    {
+      "id": "b9d8a24f9b96d581",
+      "title": "开源数据智能 Agent：YOLO Data Agent v1.0.2 发布",
+      "url": "https://oschina.net/news/503098",
+      "summary": "你有没有遇到过这种尴尬：业务方问“上个月华东区 GMV”，AI 答得头头是道，结果和报表对不上；换个问法再问一次，数字又变了；追问一句“那华南呢”，它把上一轮的口径忘得一干二净。这不是模型不够聪明，而是把 SQL 生成权直接交给大模型，本身就是一条不可信的路。 YOLO Data Agent v1.1.0 发布了。它不是又一个“会...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T19:20:22+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.4,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "YOLO Data Agent v1.0.2 发布：让数据问答更可信",
+        "takeaway": "开源数据智能 Agent 新版本，解决大模型直接生成 SQL 导致的数据不可信问题。",
+        "bullets": [
+          "针对大模型直接生成 SQL 导致答案与报表不符、口径不一致的问题。",
+          "YOLO Data Agent 提供更可信的数据问答方案，避免数字随意变化。",
+          "v1.0.2 版本发布，面向开源用户，提升数据智能 Agent 的可靠性。"
+        ],
+        "detail": "业务方问 AI 数据时，常遇到答案与报表对不上、换问法数字就变、追问时忘记上一轮口径等问题。根源在于把 SQL 生成权直接交给大模型不可信。YOLO Data Agent v1.0.2 发布，旨在提供更可靠的数据智能问答方案。",
+        "generatedAt": "2026-10-19T22:23:08+08:00"
+      }
+    },
+    {
       "id": "efeb3746fdd37d80",
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
       "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
@@ -226,6 +298,81 @@
       }
     },
     {
+      "id": "048da226d17ea2b3",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Al…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T17:08:05+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI智能体被困虚拟荒岛30小时，竟开始“玩耍”",
+        "takeaway": "研究发现，无指令时AI智能体会自发“玩耍”，揭示其自主行为倾向。",
+        "bullets": [
+          "研究人员将Claude等AI智能体反复置于虚拟荒岛，每次30小时。",
+          "没有任务指令时，智能体表现出类似“玩耍”的行为。",
+          "实验灵感来自电影《荒岛余生》，旨在观察AI自主性。"
+        ],
+        "detail": "如果不对AI智能体下达任何指令，它们会做什么？研究人员把Claude等智能体反复单独放在虚拟荒岛上30个小时，结果它们的行为看起来很像在“玩耍”。这个实验让人联想到电影《荒岛余生》，旨在观察AI在无任务时的自发行为。",
+        "generatedAt": "2026-10-19T22:23:08+08:00"
+      }
+    },
+    {
+      "id": "7d670bb9b339095f",
+      "title": "平台做天使投资：速卖通把品牌争夺战，打到了品牌诞生前",
+      "url": "https://leiphone.com/category/industrynews/prCErk1x9AsQgxw1.html",
+      "summary": "平台做天使投资，在电商行业还是头一回。这两年，AI硬件行业吸引了大量机构的投资资金。从录音设备、智能眼镜到陪伴机器人，创业者进入不同赛道，却有一个相近的目标：做全球企业，到海外赚钱。出海平台争夺这些品牌的动作，也变得更直接——开始给创业公司“撒钱”。 10月19日，2026阿里速卖通年度峰会暨双11商家大会在深圳举行，超过1.5万名跨境商家到场。会上，速卖通与天猫联合发布“中国品牌全球增长计划”，其中最出人意料的一个，就是参与优秀AI硬件品牌的天使轮融资。速卖通将拿出专项资金…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T20:04:00+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "轮融资",
+        "投资"
+      ],
+      "confidence": 0.81,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "速卖通设专项资金，天使轮投资AI硬件品牌",
+        "takeaway": "电商平台首次下场做天使投资，把品牌争夺提前到品牌诞生之前。",
+        "bullets": [
+          "速卖通与天猫联合发布中国品牌全球增长计划",
+          "速卖通将拿出专项资金参与AI硬件品牌天使轮融资",
+          "平台做天使投资在电商行业尚属首次",
+          "AI硬件创业者普遍瞄准海外市场，平台争夺更直接"
+        ],
+        "detail": "10月19日速卖通在深圳举办年度峰会，超1.5万名跨境商家到场。会上速卖通与天猫发布“中国品牌全球增长计划”，其中速卖通将拿出专项资金，参与优秀AI硬件品牌的天使轮融资。平台做天使投资在电商行业还是头一回，意味着对出海品牌的争夺已提前到品牌诞生之前。",
+        "generatedAt": "2026-10-19T22:23:10+08:00"
+      }
+    },
+    {
       "id": "dda295fa43feb901",
       "title": "Little Sweet Room Challenge | Strata Fork | Qwen 3.8 FN NVFP4 | DeepSeek Harness",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x9hpb3/little_sweet_room_challenge_strata_fork_qwen_38",
@@ -296,6 +443,42 @@
         ],
         "detail": "谷歌广告系统将开源 macOS 术语误判为恶意内容，导致相关广告被暂停。这一误判影响了开源项目的正常推广，也反映出自动审核机制可能对技术术语产生误伤。",
         "generatedAt": "2026-10-19T09:53:58+08:00"
+      }
+    },
+    {
+      "id": "f28eaf1dd4cb18c0",
+      "title": "Kimi和DeepSeek，差异越来越明显",
+      "url": "https://tmtpost.com/8172461.html",
+      "summary": "趋同是表象。分岔，才是正在发生的事实。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T19:03:13+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Kimi与DeepSeek走向分岔：模型路线差异日益明显",
+        "takeaway": "两家国产大模型公司正从趋同走向分化，路线差异值得关注。",
+        "bullets": [
+          "Kimi与DeepSeek的差异正变得越来越明显",
+          "趋同只是表象，分岔才是正在发生的事实",
+          "两家公司的模型发展路线出现明显分化"
+        ],
+        "detail": "钛媒体指出，Kimi和DeepSeek虽然表面上有趋同迹象，但实际正在走向不同的发展路径。这种分岔是当前正在发生的事实，反映出两家公司在模型路线上的差异日益明显。",
+        "generatedAt": "2026-10-19T22:23:11+08:00"
       }
     },
     {
@@ -446,6 +629,79 @@
       }
     },
     {
+      "id": "85c23fc65a1f4e84",
+      "title": "RuleGo v1.0.0 发布：API 稳定承诺、多副本部署、规则链版本回滚",
+      "url": "https://oschina.net/news/503095",
+      "summary": "RuleGo 是一个基于 Go 语言的轻量级、高性能、嵌入式规则引擎：用规则链（JSON 或可视化拖拽）编排组件，不写代码就能完成物联网数据采集、边缘计算、业务自动化和 AI 智能体编排。开源三年，v1.0.0 是第一个稳定版本。对你来说，它意味着三件事： 升级放心——v1.x 内公开 API 遵循语义化版本，不再有破坏性变更；本版...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T17:35:15+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源",
+        "部署"
+      ],
+      "confidence": 0.11,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "RuleGo v1.0.0 发布：API 稳定、多副本部署与规则链回滚",
+        "takeaway": "开源 Go 规则引擎 RuleGo 迎来首个稳定版，承诺 API 稳定并新增多副本部署和版本回滚。",
+        "bullets": [
+          "v1.x 内公开 API 遵循语义化版本，不再有破坏性变更",
+          "新增多副本部署能力，适合生产环境高可用场景",
+          "支持规则链版本回滚，降低变更风险",
+          "面向物联网、边缘计算、业务自动化和 AI 智能体编排"
+        ],
+        "detail": "RuleGo 是用 Go 写的轻量高性能嵌入式规则引擎，通过 JSON 或可视化拖拽编排规则链，不写代码就能做物联网采集、边缘计算、业务自动化和 AI 智能体编排。开源三年后发布 v1.0.0 首个稳定版，承诺 v1.x 内公开 API 无破坏性变更，并带来多副本部署和规则链版本回滚。",
+        "generatedAt": "2026-10-19T22:23:11+08:00"
+      }
+    },
+    {
+      "id": "7e3c9be5130cf9a5",
+      "title": "网站对 AI 智能体关上大门",
+      "url": "https://solidot.org/story?sid=85649",
+      "summary": "OpenAI、Meta、Google、Instinct 等公司承诺，AI 智能体能代你浏览互联网，完成从预订餐厅、清理邮箱到购买新鞋等任务。但如果平台不予以配合会怎样？使用 Meta 的 Muse、xAI 的 Grok、OpenAI 的 Dots 以及 Instinct 等智能体服务的用户最近几周发现其智能体在访问部分主流网站时遭到屏蔽，无法执行任务。Yelp 表示该平台仅允许付费参与其数据许可计划的智能体进行访问；达美航空阻止了智能体代用户预订机票。摩根大通和嘉信理财也证实…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T18:41:15+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "主流网站开始屏蔽AI智能体，代操作遇阻",
+        "takeaway": "AI代浏览愿景撞上平台壁垒，网站正用技术手段限制智能体访问。",
+        "bullets": [
+          "Yelp仅允许付费许可的智能体访问数据",
+          "达美航空阻止智能体代订机票",
+          "摩根大通、嘉信理财也证实限制访问",
+          "Meta、xAI、OpenAI用户近期遭遇屏蔽"
+        ],
+        "detail": "OpenAI、Meta等公司曾承诺AI智能体能代用户订餐、清邮箱、购物，但近期用户发现，使用Meta Muse、xAI Grok、OpenAI Dots等智能体访问主流网站时被屏蔽。Yelp要求智能体付费参与数据许可，达美航空阻止代订机票，摩根大通和嘉信理财也证实限制。平台正用技术手段对AI智能体关上大门。",
+        "generatedAt": "2026-10-19T22:23:11+08:00"
+      }
+    },
+    {
       "id": "a28c03a13af8cce5",
       "title": "17岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想",
       "url": "https://infoq.cn/article/UdT804ujpGxrv0pQfxv2",
@@ -481,6 +737,42 @@
         "generatedAt": "2026-10-19T24:16:29+08:00"
       },
       "pushedAt": "2026-10-19T06:42:08+08:00"
+    },
+    {
+      "id": "0d4c0a65406dffb1",
+      "title": "DeepSeek V4.1 Flash at 2.61 bpw + Engram: 26 t/s on dual RTX 3090s with dsx",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x9umtv/deepseek_v41_flash_at_261_bpw_engram_26_ts_on",
+      "summary": "Using u/lxe 's https://github.com/lxe/dsx engine, I created DeepSeek-V4.1-Flash-1017-dsx-2.6bit for programming and agentic tasks. The model's weight has been uploaded. Config Experts KL ↓ Top-1 ↑ Perplexity ↓ FP8 / FP4 teacher FP4 0 100% 8…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T19:43:42+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 0,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek V4.1 Flash 量化至 2.61 bpw，双 3090 跑出 26 t/s",
+        "takeaway": "社区用 dsx 引擎把 DeepSeek V4.1 Flash 压到 2.6bit，双 3090 即可本地跑编程与智能体任务。",
+        "bullets": [
+          "基于 lxe 的 dsx 引擎制作 2.6bit 量化版，权重已上传",
+          "面向编程和 agentic 任务，双 RTX 3090 达 26 t/s",
+          "摘要列出专家 KL、Top-1、困惑度等对比数据"
+        ],
+        "detail": "有用户在 LocalLLaMA 分享，借助 lxe 的 dsx 引擎把 DeepSeek-V4.1-Flash 量化成 2.6bit 版本，专为编程和智能体任务优化，权重已公开。在双 RTX 3090 上实测速度约 26 t/s，摘要还给出专家 KL、Top-1 命中率和困惑度等指标对比。",
+        "generatedAt": "2026-10-19T22:23:13+08:00"
+      }
     },
     {
       "id": "bbfec9a7106fa7e7",
@@ -737,6 +1029,40 @@
       }
     },
     {
+      "id": "b1ad5daf5f4a5a6d",
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "url": "https://theverge.com/policy/1013113/democrats-ai-midterms",
+      "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Con…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T20:00:00+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "民主党人认为严管AI或成中期选举优势",
+        "takeaway": "民主党有望夺回国会控制权，正将AI监管作为竞选议题，可能影响未来科技政策走向。",
+        "bullets": [
+          "民主党预计在11月中期选举中至少翻转一院。",
+          "党内正权衡如何应对AI这一新兴政治议题。",
+          "若获胜，AI监管立法可能提速。"
+        ],
+        "detail": "民主党人有望在11月夺回国会至少一院的控制权，届时需决定如何应对AI这一棘手的新政治议题。民调预测民主党将翻转至少一个议院，AI监管或成为其政策抓手。",
+        "generatedAt": "2026-10-19T22:23:13+08:00"
+      }
+    },
+    {
       "id": "13457fd25402e873",
       "title": "Skyeye 云企业级AI+零代码智能制造系统-财务板块 - v4.1.8发布",
       "url": "https://oschina.net/news/503085",
@@ -770,6 +1096,113 @@
         ],
         "detail": "Skyeye 是一个采用零代码模式开发的企业级智能制造系统，集成了 AI 能力。v4.1.8 版本主要更新了财务板块，该系统还包含 CRM、ERP、MES、OA、EHR、商城、考勤、薪资等众多功能模块。",
         "generatedAt": "2026-10-19T15:00:31+08:00"
+      }
+    },
+    {
+      "id": "89f92fec6e4de819",
+      "title": "AI 引爆 BAT「薪酬倒挂」潮，老员工：人麻了",
+      "url": "https://leiphone.com/category/industrynews/uCsyLxONvXeV9qXc.html",
+      "summary": "大厂正在收紧招聘，但对 AI 人才的争夺并没有停止。 “所有大厂目前都处于 HC（招聘名额）收缩状态，人才招聘是优中选优”。猎头 Mia 对雷峰网表示，另一个现实局面是：各家依然缺人、抢人，遇到真正想要的人，通常不会卡预算。 “有牛的竞品（比如 OpenAI）的人来，立马腾坑。” 这种抢人逻辑，引发公司的另一种内部矛盾。一位互联网从业者表示，“现在内部做基础模型的员工即便职级不高，薪酬已经吊打职级更高的同事。”他还提到，公司近期传出可能取消职级的消息。尽管这一说法尚未得到证实…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T16:51:00+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI人才争夺引爆BAT薪酬倒挂，老员工直呼人麻了",
+        "takeaway": "大厂一边收紧招聘，一边高价抢AI人才，导致新老员工薪酬倒挂，内部矛盾加剧。",
+        "bullets": [
+          "大厂招聘名额收缩，但AI人才招聘优中选优，不卡预算。",
+          "竞品公司（如OpenAI）人才跳槽可立即腾坑，抢人激烈。",
+          "内部基础模型员工职级低却薪酬高于高职级同事，引发不满。",
+          "有传言称公司可能取消职级，但未证实。"
+        ],
+        "detail": "大厂整体招聘收紧，但对AI人才的争夺没停。猎头表示，遇到真正想要的人通常不卡预算，甚至竞对OpenAI的人一来就腾坑。这导致内部薪酬倒挂：做基础模型的低职级员工，薪水已超过高职级同事，公司还传出可能取消职级的消息。",
+        "generatedAt": "2026-10-19T22:23:14+08:00"
+      }
+    },
+    {
+      "id": "86ff08ae99e614f6",
+      "title": "千次5元、搜不到不收钱：DeepSeek给Agent装上自研搜索，价格只有Tavily的零头",
+      "url": "https://tmtpost.com/8173434.html",
+      "summary": "搜索按次收费，失败不收钱。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T18:57:17+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 0.25,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek推出自研搜索，千次5元且失败不收费",
+        "takeaway": "DeepSeek为Agent自研搜索，按次收费且失败免单，价格远低于Tavily。",
+        "bullets": [
+          "搜索按次计费，千次5元，失败不收钱",
+          "自研搜索专为Agent设计，替代第三方",
+          "价格仅为Tavily零头，降低Agent成本"
+        ],
+        "detail": "DeepSeek发布自研搜索工具，专为Agent场景设计。该搜索按使用次数收费，每千次5元，若搜索失败则不收费。相比Tavily，价格只有其零头，能显著降低Agent的搜索成本。",
+        "generatedAt": "2026-10-19T22:23:14+08:00"
+      }
+    },
+    {
+      "id": "3ced6e7eb075c6a4",
+      "title": "陶哲轩谈数学的生存危机",
+      "url": "https://solidot.org/story?sid=85648",
+      "summary": "在 UCLA 举办的一场数学研讨会上，陶哲轩说，“我正处于战时状态。”研讨会讨论了 AI 对数学带来的生存危机。51 岁的陶哲轩指出现在不再存在规则。10 月 6 日 OpenAI 发布了 350 多项研究成果，涵盖了代数、数论、理论计算机科学、数理逻辑和拓扑学等几乎所有数学分支。数学家们震惊不已——部分人已接近攻克他们钻研多年的难题，却发现自己瞬间被 AI 击败了。陶哲轩 24 岁时便已成为终身教授，他认为刚入行的年轻数学家面临的威胁更大。他早从 2023 年就开始使用 O…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T17:41:54+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0.33,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "陶哲轩称数学界进入战时状态，AI 冲击年轻学者",
+        "takeaway": "OpenAI 一次性发布 350 多项数学成果，陶哲轩警告 AI 正颠覆数学研究规则，新人受冲击最大。",
+        "bullets": [
+          "陶哲轩在 UCLA 研讨会上称自己处于战时状态，数学界不再有既定规则。",
+          "OpenAI 10 月 6 日发布 350 多项成果，覆盖代数、数论、拓扑学等几乎所有分支。",
+          "部分数学家多年钻研的难题被 AI 瞬间攻克，刚入行的年轻学者威胁更大。"
+        ],
+        "detail": "陶哲轩在 UCLA 数学研讨会上直言自己处于战时状态，讨论 AI 给数学带来的生存危机。他指出 OpenAI 10 月 6 日发布 350 多项研究成果，横跨代数、数论、理论计算机科学、数理逻辑和拓扑学等分支，让数学家震惊——有人多年攻坚的难题被 AI 瞬间超越。他认为刚入行的年轻数学家面临更大威胁。",
+        "generatedAt": "2026-10-19T22:23:15+08:00"
       }
     },
     {
@@ -809,6 +1242,153 @@
       }
     },
     {
+      "id": "f39c8877affe136f",
+      "title": "我向新版 DeepSeek 许了个愿，4 块钱让特斯拉飞起来",
+      "url": "https://ifanr.com/1684880",
+      "summary": "好用到原地「起飞」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T17:21:16+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "新版 DeepSeek 实测：4 块钱让特斯拉“飞起来”",
+        "takeaway": "爱范儿体验新版 DeepSeek，称其好用且成本极低，4 元即可完成让特斯拉“飞起来”的任务。",
+        "bullets": [
+          "爱范儿发布新版 DeepSeek 体验文章，标题称“4 块钱让特斯拉飞起来”。",
+          "文章强调新版 DeepSeek“好用到原地起飞”，突出使用体验。",
+          "具体实现方式与功能细节未在摘要中展开，需看原文。"
+        ],
+        "detail": "爱范儿发文体验新版 DeepSeek，作者以“许愿”方式测试模型能力，结果仅花 4 块钱就实现了让特斯拉“飞起来”的效果。文章用“好用到原地起飞”形容使用感受，但摘要未透露具体操作和模型版本细节。",
+        "generatedAt": "2026-10-19T22:23:16+08:00"
+      }
+    },
+    {
+      "id": "358416179cf7a255",
+      "title": "llama server's default port changed from 8080 to 9931",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x9tbg2/llama_servers_default_port_changed_from_8080_to",
+      "summary": "Ref: release , PR Starting from v0.7.0 , the default port for llama server is now 9931 (ggml). Those who did not explicitly set the port, expect breaking change upon upgrading. Those who use harnesses that have hardcoded 8080 port, good luc…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T18:32:07+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 服务默认端口从 8080 改为 9931",
+        "takeaway": "llama.cpp v0.7.0 起默认端口变更，未显式配置端口的用户升级后会遇到连接中断。",
+        "bullets": [
+          "v0.7.0 起 llama server 默认端口由 8080 改为 9931",
+          "未手动指定端口的用户升级后将遭遇破坏性变更",
+          "硬编码 8080 的测试框架和工具需同步修改"
+        ],
+        "detail": "llama.cpp 从 v0.7.0 版本开始，把 llama server 的默认端口从 8080 换成了 9931。如果你之前没有在配置里明确写端口，升级后服务会监听新端口，旧连接方式会失效。使用写死 8080 端口的工具或脚本也需要相应调整。",
+        "generatedAt": "2026-10-19T22:23:16+08:00"
+      }
+    },
+    {
+      "id": "58b8c9bd180b511e",
+      "title": "Is there an alternative to base llama.cpp for RDNA2 gpus in general with local LLM usage ?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x9we92/is_there_an_alternative_to_base_llamacpp_for",
+      "summary": "Most of the stuff built for amd gpus posted here or ai in general depends on WMMA which exists only from RDNA3 and up. In image-video generation I can bypass it with triton some of the time. But here, a thing works or not on rdna2. Somethin…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T21:06:21+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs",
+        "AMD"
+      ],
+      "confidence": 0.64,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "RDNA2 显卡跑本地大模型，除了 llama.cpp 还有别的选择吗？",
+        "takeaway": "用户抱怨多数 AMD GPU 方案依赖 RDNA3 才有的 WMMA，RDNA2 支持有限，寻求替代方案。",
+        "bullets": [
+          "多数 AMD GPU 本地 LLM 方案依赖 WMMA，仅 RDNA3 及以上支持",
+          "RDNA2 用户难以找到可用的替代方案，llama.cpp 之外选择少",
+          "图像生成可用 triton 绕过，但 LLM 场景不行"
+        ],
+        "detail": "发帖者指出，社区里为 AMD GPU 做的本地 LLM 方案大多依赖 WMMA 指令，而该指令只有 RDNA3 及更新架构才支持。在图像视频生成中有时能用 triton 绕过限制，但在本地大模型场景下，RDNA2 显卡要么能用要么不能用，因此想寻找 llama.cpp 之外的替代方案。",
+        "generatedAt": "2026-10-19T22:23:17+08:00"
+      }
+    },
+    {
+      "id": "01b06fdb8323b3c8",
+      "title": "SonicBoom发布：AI框架告别手工调优",
+      "url": "https://solidot.org/story?sid=85645",
+      "summary": "Nala Ginrut 写道： SonicBoom是全新的AI运行时框架[0]，采用 GPLv3 许可证，由 HardenedLinux 社区主导开发。它提供语言无关的C API接口，这意味着你可以用任意语言绑定这个库，从而实现任何编程语言都能进行高性能AI研发。目前 GNU Guile 是官方支持的语言，同时利用 Guile 的 delimited continuation 实现了应用层的“死计算消除”，只有真正有效的计算才会进入运行时。而运行时包含 LLVM MLIR，它…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T14:37:25+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "SonicBoom 发布：AI 运行时框架告别手工调优",
+        "takeaway": "HardenedLinux 社区推出 GPLv3 的 AI 运行时框架，用 C API 支持多语言，并借 Guile 实现死计算消除。",
+        "bullets": [
+          "SonicBoom 是全新 AI 运行时框架，由 HardenedLinux 社区主导，采用 GPLv3 许可证。",
+          "提供语言无关的 C API，任意语言可绑定，目前官方支持 GNU Guile。",
+          "利用 Guile 的 delimited continuation 在应用层消除死计算，只让有效计算进入运行时。",
+          "运行时包含 LLVM MLIR，目标是不再依赖手工调优。"
+        ],
+        "detail": "SonicBoom 是一个新的 AI 运行时框架，由 HardenedLinux 社区开发，采用 GPLv3 许可证。它通过 C API 让任何编程语言都能绑定使用，目前官方支持 GNU Guile，并利用其 delimited continuation 特性在应用层消除无效计算。运行时还集成了 LLVM MLIR，旨",
+        "generatedAt": "2026-10-19T22:23:18+08:00"
+      }
+    },
+    {
       "id": "8ce62867b20076e5",
       "title": "LTX 2.5 running locally on a 48GB M5 Pro MacBook Pro in TensorSharp’s Video Studio",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1x9p6cp/ltx_25_running_locally_on_a_48gb_m5_pro_macbook",
@@ -843,6 +1423,43 @@
         ],
         "detail": "TensorSharp 维护者为其开源本地推理引擎新增 Video Studio，把本地视频生成、可编辑时间线和可选的本地大模型助手整合进同一项目。演示在 48GB 内存的 M5 Pro MacBook Pro 上本地运行 LTX 2.5，说明消费级设备也能跑视频生成。",
         "generatedAt": "2026-10-19T15:00:32+08:00"
+      }
+    },
+    {
+      "id": "3a11e60ee8cf431d",
+      "title": "Timestral: Mistral release time-series foundation models",
+      "url": "https://mistral.ai/news/timestral",
+      "summary": "Article URL: https://mistral.ai/news/timestral/ Comments URL: https://news.ycombinator.com/item?id=50150434 Points: 205 # Comments: 41",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T17:59:32+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Mistral"
+      ],
+      "confidence": 0.4,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Mistral 发布 Timestral 时间序列基础模型",
+        "takeaway": "Mistral 进军时间序列领域，推出专用基础模型，值得关注其能否复刻语言模型成功。",
+        "bullets": [
+          "Mistral 发布名为 Timestral 的时间序列基础模型",
+          "消息在 Hacker News 获 205 分、41 条评论，关注度较高",
+          "时间序列基础模型或影响预测、金融、运维等场景"
+        ],
+        "detail": "Mistral 正式推出时间序列基础模型 Timestral，相关消息在 Hacker News 引发讨论。该模型面向时间序列数据，具体能力与开放方式需查看官方公告。",
+        "generatedAt": "2026-10-19T22:23:18+08:00"
       }
     },
     {
@@ -1019,6 +1636,91 @@
         "detail": "钛媒体报道，数学家们对OpenAI等AI公司发出抗议，直言“别欺数学家太甚”。这反映出AI公司在使用数学成果时可能缺乏对数学界的尊重，引发学术界的反弹。",
         "generatedAt": "2026-10-19T15:00:34+08:00"
       }
+    },
+    {
+      "id": "50c4213a40b83bb0",
+      "title": "DoorDash的Flux在云端智能体上运行130000个工程任务",
+      "url": "https://infoq.cn/article/4IPptJpXQqX5Lr77uBFZ",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T23:42:00+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DoorDash 用 Flux 云端智能体跑通 13 万个工程任务",
+        "takeaway": "DoorDash 披露 Flux 在云端智能体上完成 13 万个工程任务，展示大规模自动化落地样本。",
+        "bullets": [
+          "DoorDash 的 Flux 在云端智能体上运行了 13 万个工程任务",
+          "规模数字说明智能体已进入真实工程流程而非演示",
+          "为其他团队评估智能体自动化提供参考案例"
+        ],
+        "detail": "DoorDash 介绍了其 Flux 系统，它依托云端智能体运行，已累计处理 13 万个工程任务。这一规模表明智能体正被用于实际工程场景，而不只是概念验证。",
+        "generatedAt": "2026-10-19T22:23:19+08:00"
+      }
+    },
+    {
+      "id": "03710f6c99ed477c",
+      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+      "url": "https://wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card",
+      "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T17:00:00+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8cecdb07d2d381fe",
+      "title": "光量子计算，距离真正的产业化还有多远？",
+      "url": "https://leiphone.com/category/chips/1LbhTsMb0OyPhsw6.html",
+      "summary": "导语：产业化落地，光量子计算的新考场记者：郭思编辑：包永刚摩尔定律走到红利尽头，AI、新药研发、新材料探索对算力的需求还在不断扩张。依靠持续堆 GPU 提升算力的老路越来越不划算，存算一体、Chiplet、光互连等技术竞相寻找算力增量，量子计算因此被寄予厚望，光量子路线更是长期收到行业关注与讨论。它在实验室创下震撼的量子优越性记录，其工程化进展与产业化时间表也始终是业界关注的焦点。光量子计算，会成为下一代算力的破局钥匙，还是一场尚待产业化验证的技术革命？ 2026 年 10 …",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T14:48:00+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力",
+        "GPU"
+      ],
+      "confidence": 0.63,
+      "score": 33,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "2ddee32c260a5d0d",
@@ -1272,6 +1974,102 @@
       "pushed": false
     },
     {
+      "id": "62db711bd607b05f",
+      "title": "纽娲机器人杨睿刚：无人配送跑了十年，机器人为何还到不了家门？",
+      "url": "https://tmtpost.com/8171183.html",
+      "summary": "难题集中在几笔容易被低估的事件上：新场地的部署、既有设施的改造，以及异常发生时的人工兜底。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T21:02:51+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "部署"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1823968dc6a3f9ea",
+      "title": "万亿级机器人市场，可否成为美的第二增长曲线？",
+      "url": "https://tmtpost.com/8172784.html",
+      "summary": "这些成果，不等于商业市场的大规模落地。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T19:03:26+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a368dd8165ed830b",
+      "title": "Cue一周实测：给AI配了身份证，却还做不到“随时可用”",
+      "url": "https://tmtpost.com/8173445.html",
+      "summary": "出走、回购与Cue，Manus的Personal AI“本土化”大考。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T18:57:22+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d988114bad150ce7",
+      "title": "LinkedIn 清理其平台上的 AI slop",
+      "url": "https://solidot.org/story?sid=85650",
+      "summary": "微软旗下的职业社交网络 LinkedIn 正在清理其平台上的 AI slop。Pangram 在 7 月曾发表报告称，LinkedIn 四成的长文由 AI 生成，相比下 X 和 Medium 上的这一比例为 30%，而 Reddit 和 Substack 比例更低。对 LinkedIn 而言，低质量 AI slop 正演变成商业问题。平台主编 Dan Roth 指出，AI slop 读起来千篇一律。如果用户在平台上看到太多同质化的 AI 生成帖子，无法获取真正有价值的知识，也…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T19:56:04+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "9e54ed499df479dc",
       "title": "传音的AI，不是用来涨价的",
       "url": "https://tmtpost.com/8172842.html",
@@ -1345,6 +2143,54 @@
       "confidence": 1,
       "score": 29,
       "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7b441771ae5d2bab",
+      "title": "苹果第一个 AI 机器人，可能是个能动的 HomeView",
+      "url": "https://ifanr.com/1684921",
+      "summary": "给屏幕装上脖子 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T18:09:25+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "52c07928950d347d",
+      "title": "AI labs report benchmark scores 6.4% higher than independent testers, on average",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x9skrx/ai_labs_report_benchmark_scores_64_higher_than",
+      "summary": "I've been building whatmodel.sh , an open source AI leaderboard, and wanted to see how a labs' own benchmark scores compare with independent testers. Using 1,629 published benchmark results, I matched 611 comparisons of 180 models on 103 be…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T17:47:55+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "benchmark"
+      ],
+      "confidence": 0.17,
+      "score": 29,
       "related": [],
       "pushed": false
     },
@@ -1709,6 +2555,29 @@
       "confidence": 1,
       "score": 25,
       "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d2e2b582e2726ffa",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
+      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 241 # Comments: 159",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-19T05:09:12+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 24,
       "related": [],
       "pushed": false
     }

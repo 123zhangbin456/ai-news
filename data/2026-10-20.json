@@ -1,7 +1,79 @@
 {
   "date": "2026-10-20",
-  "updatedAt": "2026-10-18T19:47:25+08:00",
+  "updatedAt": "2026-10-19T22:23:20+08:00",
   "items": [
+    {
+      "id": "9711248d79e917ee",
+      "title": "谷歌开源Harness，支持 OpenCode 和 Codex：国内开发者接入Jev实测“真行”",
+      "url": "https://infoq.cn/article/AD1M3mJ2SH1dJrTA1r5q",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T02:22:05+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.4,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌开源 Harness，支持 OpenCode 与 Codex",
+        "takeaway": "谷歌开源 Harness，可接入 OpenCode 和 Codex，国内开发者实测可用。",
+        "bullets": [
+          "谷歌开源 Harness 工具",
+          "支持 OpenCode 和 Codex 两种接入",
+          "国内开发者接入 Jev 实测称可行"
+        ],
+        "detail": "谷歌开源了 Harness，支持 OpenCode 和 Codex 两种接入方式。有国内开发者接入 Jev 后实测，反馈“真行”，说明实际使用可行。",
+        "generatedAt": "2026-10-19T22:23:09+08:00"
+      }
+    },
+    {
+      "id": "5a12ec1a06c61476",
+      "title": "Jev迎来中国挑战者：StartLux登顶决策模型榜单，还学会了“拿不准再想”",
+      "url": "https://infoq.cn/article/bROfcYFpijQQVBz4NqDi",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T04:33:34+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "榜单"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "StartLux登顶决策模型榜单，学会“拿不准再想”",
+        "takeaway": "中国团队StartLux在决策模型榜单超越Jev，并引入“不确定时再思考”机制，值得关注。",
+        "bullets": [
+          "StartLux在决策模型榜单上登顶，挑战Jev的领先地位。",
+          "该模型学会“拿不准再想”，即不确定时触发额外推理。",
+          "研究来自InfoQ中国，属决策模型方向的新进展。"
+        ],
+        "detail": "InfoQ中国报道，中国挑战者StartLux在决策模型榜单上登顶，超越此前的领先者Jev。该模型还学会了“拿不准再想”，即在不确定时进行额外思考。这显示决策模型在推理策略上的新探索。",
+        "generatedAt": "2026-10-19T22:23:09+08:00"
+      }
+    },
     {
       "id": "6a991c51e19070a9",
       "title": "Cloudflare 修复了容器中的跨租户数据泄露问题",
@@ -34,6 +106,77 @@
         ],
         "detail": "Cloudflare 修复了其容器环境中的一个跨租户数据泄露问题。该问题涉及多租户之间的隔离，可能让不同客户的数据发生越界访问。官方已完成修复，但摘要未披露受影响范围和具体技术细节。",
         "generatedAt": "2026-10-18T19:47:25+08:00"
+      }
+    },
+    {
+      "id": "122236c401adb26c",
+      "title": "大批API账户被刷爆！OpenCode遭黑客围攻48小时，官方甩锅“蒸馏攻击”被质疑",
+      "url": "https://infoq.cn/article/K5J7yb60djWKM6vUZqwq",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T05:48:11+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenCode 遭黑客围攻 48 小时，大批 API 账户被刷爆",
+        "takeaway": "OpenCode 连续两天遭攻击致大量 API 账户被盗刷，官方归因“蒸馏攻击”引发质疑。",
+        "bullets": [
+          "OpenCode 遭黑客持续攻击约 48 小时",
+          "大批用户 API 账户额度被刷爆",
+          "官方称系“蒸馏攻击”，外界质疑其说法",
+          "事件暴露 API 密钥与账户安全风险"
+        ],
+        "detail": "OpenCode 遭遇持续约 48 小时的黑客攻击，导致大量用户的 API 账户被刷爆、额度被耗尽。官方将原因归结为“蒸馏攻击”，但这一解释受到外界质疑。事件也提醒开发者重视 API 密钥与账户的安全防护。",
+        "generatedAt": "2026-10-19T22:23:19+08:00"
+      }
+    },
+    {
+      "id": "70bfbb945acdf925",
+      "title": "Kubernetes多集群项目Karmada完成CNCF毕业",
+      "url": "https://infoq.cn/article/4t84hFyjYP6gq9KNWE60",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T01:23:00+08:00",
+      "fetchedAt": "2026-10-19T22:23:00+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "集群"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Karmada 从 CNCF 毕业，多集群管理进入成熟期",
+        "takeaway": "Kubernetes 多集群项目 Karmada 完成 CNCF 毕业，意味着其成熟度与社区认可度再上一个台阶。",
+        "bullets": [
+          "Karmada 是 Kubernetes 多集群管理项目",
+          "已完成 CNCF 毕业，进入成熟阶段",
+          "对采用多集群架构的团队是积极信号"
+        ],
+        "detail": "Karmada 是面向 Kubernetes 的多集群管理项目，此次完成 CNCF 毕业，说明项目在成熟度和社区治理上通过了基金会评估。对需要跨集群调度和管理的团队来说，这意味着多了一个更可信的选择。",
+        "generatedAt": "2026-10-19T22:23:19+08:00"
       }
     }
   ],
