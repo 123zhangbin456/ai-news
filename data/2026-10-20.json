@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updatedAt": "2026-10-20T21:04:23+08:00",
+  "updatedAt": "2026-10-21T01:40:20+08:00",
   "items": [
     {
       "id": "992e176472e85c5f",
@@ -114,6 +114,42 @@
         "generatedAt": "2026-10-20T06:42:55+08:00"
       },
       "pushedAt": "2026-10-20T06:43:02+08:00"
+    },
+    {
+      "id": "b3fcb2e42d321123",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T18:00:00+08:00",
+      "fetchedAt": "2026-10-21T01:40:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "workflow"
+      ],
+      "confidence": 1,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "加盟商用ChatGPT Work对账，现金核对时间省94%",
+        "takeaway": "一家Schlotzsky's与Cinnabon加盟商借助ChatGPT Work大幅压缩对账和改价时间，并释放现金流。",
+        "bullets": [
+          "独立加盟商把菜单改价时间缩短了95%",
+          "现金核对耗时减少94%",
+          "新工作流预计可释放10万美元现金流"
+        ],
+        "detail": "这家同时经营Schlotzsky's和Cinnabon的独立加盟商，用ChatGPT Work重构了日常财务与运营流程。结果菜单重新定价时间下降95%，现金对账时间减少94%，并搭建出一套有望释放10万美元现金流的工作流。",
+        "generatedAt": "2026-10-21T01:40:11+08:00"
+      }
     },
     {
       "id": "8a1ba0c934b076ba",
@@ -418,6 +454,42 @@
         "generatedAt": "2026-10-20T06:42:57+08:00"
       },
       "pushedAt": "2026-10-20T06:43:02+08:00"
+    },
+    {
+      "id": "3309b6ce15f483d4",
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
+      "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T21:07:24+08:00",
+      "fetchedAt": "2026-10-21T01:40:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "美国下令联邦机构移除DeepSeek产品",
+        "takeaway": "美国以国家安全为由，要求联邦文职机构清除DeepSeek及其技术构建的第三方服务。",
+        "bullets": [
+          "美国联邦文职机构被要求移除DeepSeek产品",
+          "第三方基于DeepSeek技术构建的服务也在清除范围",
+          "官方理由是国家安全担忧"
+        ],
+        "detail": "美国政府已下令联邦文职机构从系统中移除DeepSeek的产品，以及使用其技术构建的第三方服务。此举基于国家安全考虑，可能影响相关机构的技术使用。",
+        "generatedAt": "2026-10-21T01:40:11+08:00"
+      }
     },
     {
       "id": "9711248d79e917ee",
@@ -855,6 +927,79 @@
         ],
         "detail": "关于AI在工作场所的讨论大多来自硅谷视角，但把科技业当作孤岛会错过真实的采用趋势。科技只是第一个大规模应用AI的行业，其他行业的实践正在揭示后续的落地路径。",
         "generatedAt": "2026-10-20T21:04:16+08:00"
+      }
+    },
+    {
+      "id": "c6c2448352b870f1",
+      "title": "The new economics of enterprise AI",
+      "url": "https://technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai",
+      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends …",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T23:20:25+08:00",
+      "fetchedAt": "2026-10-21T01:40:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "enterprise"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "企业AI经济学：从尝鲜到基础设施的转折",
+        "takeaway": "企业AI正从低效尝鲜转向基础设施化，成本与效率成为核心议题。",
+        "bullets": [
+          "类比电力普及：初期低效但价值明显，后期依赖基础设施。",
+          "企业AI进入新阶段，效率与成本管理成关键。",
+          "涉及所有企业，需重新思考AI投入与产出。"
+        ],
+        "detail": "文章用电力普及类比企业AI：早期只有少数机器用电，没人担心效率；一旦电力成为基础设施，所有流程都依赖它。企业AI正经历类似转变，从实验性应用转向核心依赖，经济性考量变得至关重要。",
+        "generatedAt": "2026-10-21T01:40:12+08:00"
+      }
+    },
+    {
+      "id": "915b6a238ccfa8eb",
+      "title": "ornith-ai/Ornith-1.5-122B (Qwen finetune)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xatebw/ornithaiornith15122b_qwen_finetune",
+      "summary": "from Ornith: Ornith-1.5-122B Chirp Chirp! 🐦 We are introducing Ornith-1.5, a major step toward building foundation models through end-to-end self-improvement. Ornith-1.5 extends Ornith-1.0 (which was developed on top of Qwen3.5 and Gemma4 …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T22:19:07+08:00",
+      "fetchedAt": "2026-10-21T01:40:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Ornith-1.5-122B 发布：基于 Qwen 微调的自改进基础模型",
+        "takeaway": "Ornith 团队推出 122B 新模型，主打端到端自我改进，值得关注其微调路线。",
+        "bullets": [
+          "Ornith-1.5-122B 是在 Qwen 基础上微调的大模型",
+          "团队称这是迈向端到端自我改进的重要一步",
+          "前代 Ornith-1.0 曾基于 Qwen3.5 和 Gemma4 开发"
+        ],
+        "detail": "Ornith 团队发布 Ornith-1.5-122B，称其是构建基础模型、实现端到端自我改进的重要进展。该模型延续 Ornith-1.0 的路线，后者曾基于 Qwen3.5 和 Gemma4 开发，本次则是在 Qwen 上微调而来。",
+        "generatedAt": "2026-10-21T01:40:12+08:00"
       }
     },
     {
@@ -1400,6 +1545,149 @@
       }
     },
     {
+      "id": "94e7f4f5c0e52bb7",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T23:19:48+08:00",
+      "fetchedAt": "2026-10-21T01:40:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ALTK-Evolve：靠学习记忆登顶客服任务榜单，无需前沿模型",
+        "takeaway": "Hugging Face 发布 ALTK-Evolve，用学习记忆在 τ²-bench 客服任务上超越前沿模型，值得关注。",
+        "bullets": [
+          "ALTK-Evolve 在 τ²-bench 客服任务排行榜登顶。",
+          "该方法不依赖前沿大模型，靠学习记忆机制。",
+          "成果来自 Hugging Face，展示记忆学习潜力。"
+        ],
+        "detail": "Hugging Face 介绍了 ALTK-Evolve 方法，它通过让模型学习并利用记忆，在 τ²-bench 的客服任务评测中排名第一，且没有使用前沿模型。这表明记忆机制可能成为提升任务表现的有效途径。",
+        "generatedAt": "2026-10-21T01:40:14+08:00"
+      }
+    },
+    {
+      "id": "b3c5441d5c6702b6",
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol",
+      "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T22:13:32+08:00",
+      "fetchedAt": "2026-10-21T01:40:03+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "founder"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Figma 联合创始人：MCP 协议并不完美",
+        "takeaway": "Figma 联合创始人 Dylan Field 认为 MCP 协议有缺陷，但 Figma 仍计划支持多种标准。",
+        "bullets": [
+          "Dylan Field 公开表示 MCP 并非完美协议。",
+          "Figma 计划支持尽可能多的标准。",
+          "但不会因此暴露全部数据。"
+        ],
+        "detail": "Figma 联合创始人 Dylan Field 认为 MCP 协议并不完美，但 Figma 仍打算支持尽可能多的标准，同时强调不会把所有数据都暴露出去。",
+        "generatedAt": "2026-10-21T01:40:16+08:00"
+      }
+    },
+    {
+      "id": "5b6885c6efbc9923",
+      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+      "url": "https://theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommen…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T22:18:37+08:00",
+      "fetchedAt": "2026-10-21T01:40:03+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Spotify 一年清理 5000 万首 AI 垃圾歌曲",
+        "takeaway": "Spotify 首次披露大规模清理 AI 生成垃圾内容，推荐系统开始主动过滤低质歌曲。",
+        "bullets": [
+          "过去一年从推荐中移除超 5000 万首 AI 生成或垃圾歌曲",
+          "Spotify 同时调整了推荐算法规则",
+          "平台开始主动治理 AI 内容泛滥问题"
+        ],
+        "detail": "Spotify 周二宣布，过去一年已从用户推荐中移除超过 5000 万首被认定为 AI 生成垃圾或 spam 的歌曲。同时，平台也调整了推荐机制，以减少这类低质内容对用户体验的影响。",
+        "generatedAt": "2026-10-21T01:40:16+08:00"
+      }
+    },
+    {
+      "id": "bb8363984aac1aca",
+      "title": "Qwen3.8-Flash-Next vs Opus 5.5: Six-way benchmark on a real Rust feature with Claude Code and Pi",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xatxqk/qwen38flashnext_vs_opus_55_sixway_benchmark_on_a",
+      "summary": "A few of you pointed out in my last post that comparing Flash-Next and Opus with different harnesses and effort levels wasn't fair. So here is a more controlled comparison. Same task for every run: a real feature from the LlamaStash roadmap…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T22:40:52+08:00",
+      "fetchedAt": "2026-10-21T01:40:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "benchmark"
+      ],
+      "confidence": 0.33,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen3.8-Flash-Next 与 Opus 5.5 六路基准对比：同一 Rust 功能实测",
+        "takeaway": "作者回应上次对比不公平的质疑，用统一任务和配置重新对比两款模型在真实 Rust 功能开发上的表现。",
+        "bullets": [
+          "上次对比因 harness 和 effort 不同被指不公平",
+          "本次统一任务：LlamaStash 路线图中的真实 Rust 功能",
+          "六路对比涵盖 Qwen3.8-Flash-Next 与 Opus 5.5",
+          "结果可为本地模型与闭源模型选型提供参考"
+        ],
+        "detail": "作者上次比较 Flash-Next 和 Opus 时，使用了不同的测试框架和努力等级，被读者指出不公平。这次他做了更受控的对比：每次运行都完成同一个来自 LlamaStash 路线图的真实 Rust 功能，共六种组合。",
+        "generatedAt": "2026-10-21T01:40:18+08:00"
+      }
+    },
+    {
       "id": "d5c8fa4b16bd3ba5",
       "title": "DeepSeek学霸的降维打击：没刷榜，在工位打游戏，模型能力却控制不住地涨",
       "url": "https://tmtpost.com/8173268.html",
@@ -1580,6 +1868,77 @@
       }
     },
     {
+      "id": "84cd8d44e9825e73",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T08:00:00+08:00",
+      "fetchedAt": "2026-10-21T01:40:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Hugging Face 原生支持 TorchTPU，TPU 生态再进一步",
+        "takeaway": "Hugging Face 与 TorchTPU 集成，让开发者能更原生地在 TPU 上运行模型，降低使用门槛。",
+        "bullets": [
+          "Hugging Face 宣布与 TorchTPU 合作，实现 TPU 原生支持。",
+          "开发者可直接在 Hugging Face 生态中使用 TPU 加速。",
+          "此举有望简化 TPU 上的模型训练与部署流程。"
+        ],
+        "detail": "Hugging Face 发文宣布对 TorchTPU 的原生支持，标题为“Hugging Face ❤️ TorchTPU: TPUs, Natively”。这意味着 Hugging Face 平台与 TPU 的集成更加紧密，用户能更方便地利用 TPU 进行模型开发。",
+        "generatedAt": "2026-10-21T01:40:18+08:00"
+      }
+    },
+    {
+      "id": "4922bfa72a8982d2",
+      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+      "url": "https://theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+      "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T21:06:44+08:00",
+      "fetchedAt": "2026-10-21T01:40:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app",
+        "available"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Adobe Lightroom 移动版新增一键睁眼功能",
+        "takeaway": "Lightroom 移动版用生成式 AI 一键修复闭眼照片，修图门槛再降低。",
+        "bullets": [
+          "iOS、iPadOS 和 Android 版 Lightroom 均可使用",
+          "AI 检测到人物闭眼后，轻点即可生成睁眼效果",
+          "面向普通用户，减少因闭眼重拍或精修的麻烦"
+        ],
+        "detail": "Adobe 宣布，Lightroom 移动版新增生成式 AI 功能：当应用检测到照片中有人闭眼时，用户只需轻点一下，就能让闭眼变成睁眼。该功能覆盖 iOS、iPadOS 和 Android 平台，旨在简化人像照片的后期处理。",
+        "generatedAt": "2026-10-21T01:40:18+08:00"
+      }
+    },
+    {
       "id": "428ebaed686771dd",
       "title": "I checked BitNet and Bonsai on CPU against references: bitnet.cpp main still gives wrong output, Bonsai 1.7B is correct wherever it loads, and ik_llama.cpp with -rtr is usually fastest",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xa3yqk/i_checked_bitnet_and_bonsai_on_cpu_against",
@@ -1729,6 +2088,44 @@
       }
     },
     {
+      "id": "07b052d9d35b6420",
+      "title": "AI slop 游戏充斥着 Steam 新品节",
+      "url": "https://solidot.org/story?sid=85667",
+      "summary": "Steam 新品节于 10 月 19 日拉开帷幕，玩家立即注意到其中充斥着大量的 AI slop 游戏。曾经以发掘隐藏瑰宝著称的游戏活动，如今沦为廉价 AI 生成游戏的展示场。玩家通过社交媒体呼吁运营 Steam 平台的 Valve 公司引入 AI 过滤器功能，一键过滤掉这些 AI 生成游戏。随着 AI 工具的进步，逆向工程比以往任何时候都轻松，以至于部分游戏开发商不太愿意公开免费的 DEMO 试玩，担心 DEMO 会被破解会被克隆，被人抢在开发商之前发布克隆产品。",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T23:33:08+08:00",
+      "fetchedAt": "2026-10-21T01:40:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "产品",
+        "功能"
+      ],
+      "confidence": 0.25,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Steam 新品节被 AI 生成游戏淹没，玩家呼吁加过滤器",
+        "takeaway": "曾以发掘独立佳作闻名的 Steam 新品节，如今充斥廉价 AI 游戏，玩家要求 Valve 出手过滤。",
+        "bullets": [
+          "10 月 19 日开幕的 Steam 新品节出现大量 AI slop 游戏",
+          "玩家在社交媒体呼吁 Valve 增加一键过滤 AI 游戏功能",
+          "部分开发商因担心 DEMO 被破解克隆，不愿公开免费试玩",
+          "AI 工具进步让逆向工程更容易，加剧克隆风险"
+        ],
+        "detail": "Steam 新品节本应是发掘隐藏独立佳作的窗口，但今年玩家发现大量廉价 AI 生成游戏混入其中。玩家在社交平台呼吁 Valve 推出 AI 过滤器，一键屏蔽这类作品。同时，由于 AI 让逆向工程更简单，一些开发商担心免费 DEMO 被破解克隆，不敢提前放出试玩。",
+        "generatedAt": "2026-10-21T01:40:19+08:00"
+      }
+    },
+    {
       "id": "0c63a761301701ac",
       "title": "Mercury 3: Diffusion at scale",
       "url": "https://inceptionlabs.ai/blog/introducing-mercury-3",
@@ -1867,6 +2264,42 @@
         ],
         "detail": "PyTorch 2.15 版本开始支持 MPS（Metal Performance Shaders）后端，让搭载 Apple 芯片的 Mac 能直接调用 GPU 进行深度学习计算。此前 MPS 支持多为实验性质，此次整合意味着 Mac 用户可获得更稳定、高效的本地训练与推理体验。",
         "generatedAt": "2026-10-20T21:04:22+08:00"
+      }
+    },
+    {
+      "id": "89345f38dad91c5c",
+      "title": "[Paper] DLite: History-free Speculative Decoding for Agentic AI",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xasomp/paper_dlite_historyfree_speculative_decoding_for",
+      "summary": "Speculative decoding has become a mainstream technique for accelerating large language model (LLM) inference by using a lightweight draft model to generate candidate tokens that are subsequently verified by the target model. However, agenti…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T21:50:16+08:00",
+      "fetchedAt": "2026-10-21T01:40:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "paper"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DLite：面向智能体AI的无历史推测解码新方法",
+        "takeaway": "研究提出DLite，一种无需历史信息的推测解码方法，旨在加速智能体场景下的LLM推理。",
+        "bullets": [
+          "推测解码用轻量草稿模型生成候选token，再由目标模型验证，以加速LLM推理。",
+          "现有方法在智能体场景下可能因依赖历史信息而效率受限。",
+          "DLite提出无历史推测解码，针对智能体AI优化推理加速。"
+        ],
+        "detail": "推测解码是加速大语言模型推理的主流技术，它让轻量草稿模型先产生候选词，再由大模型验证。但在智能体AI场景中，现有方法可能因依赖历史信息而效率不高。DLite提出一种无历史的推测解码方案，专门针对智能体任务优化推理速度。",
+        "generatedAt": "2026-10-21T01:40:19+08:00"
       }
     },
     {
@@ -2292,6 +2725,42 @@
         ],
         "detail": "具身智能的后训练对机器人落地至关重要，但过去依赖真机交互，成本高、难度大。北大董豪团队提出HIL-UMI，让后训练摆脱真机依赖，为行业提供新思路。",
         "generatedAt": "2026-10-20T15:46:25+08:00"
+      }
+    },
+    {
+      "id": "5afa1bd2185a2d0e",
+      "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+      "url": "https://wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding",
+      "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T23:07:43+08:00",
+      "fetchedAt": "2026-10-21T01:40:03+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "privacy"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI代理混入7500人研究邮件组，回复风暴暴露隐私旧观念",
+        "takeaway": "一个AI代理加入顶级互联网研究者邮件组引发混乱，显示专家对隐私的认知已过时。",
+        "bullets": [
+          "AI代理加入7500人邮件列表，触发回复混乱",
+          "事件暴露互联网专家隐私观念过时",
+          "讨论围绕AI在封闭社区中的行为边界"
+        ],
+        "detail": "一个AI代理被加入一个拥有7500名成员的顶级互联网研究者邮件列表，随即引发回复混乱。这场风波表明，即使是互联网专家，对隐私和AI行为的理解也已跟不上现实。",
+        "generatedAt": "2026-10-21T01:40:19+08:00"
       }
     },
     {
@@ -2892,6 +3361,29 @@
         "创始人"
       ],
       "confidence": 0.6,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6a01ce2d8f264031",
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "summary": "Article URL: https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web Comments URL: https://news.ycombinator.com/item?id=50165801 Points: 195 # Comments: 104",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T21:06:22+08:00",
+      "fetchedAt": "2026-10-21T01:40:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 29,
       "related": [],
       "pushed": false
