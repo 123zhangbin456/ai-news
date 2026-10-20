@@ -1,7 +1,83 @@
 {
   "date": "2026-10-20",
-  "updatedAt": "2026-10-20T15:46:26+08:00",
+  "updatedAt": "2026-10-20T21:04:23+08:00",
   "items": [
+    {
+      "id": "992e176472e85c5f",
+      "title": "停止加薪！大众计划冻结全球大量员工薪酬至2030年；突发！美国发布DeepSeek禁令；马斯克：明年向全美儿童赠送SpaceX股票",
+      "url": "https://leiphone.com/category/zaobao/Y7039p8HsmmeQClm.html",
+      "summary": "要闻提示 1.停止加薪！大众计划冻结员工薪酬至2030年，涉及全球大量员工 2.突发！美国发布DeepSeek禁令 3.花钱之前先问网友意见！「钱包请等等」突然爆火：主打「劝你别买」 4.豆包辟谣超一半算力在造爽剧：不靠谱，只有10% 5.特斯拉喊话：没有「速成车」 6.“山姆品质暴跌你还敢去吗”热搜第一，山姆回应：热搜视频系AI造假 7.字节Seed模型评测负责人黄文灏离职 8.马斯克：明年向全美儿童赠送 SpaceX 股票今日头条停止加薪！大众计划冻结员工薪酬至2030年…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T18:39:00+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "DeepSeek"
+      ],
+      "confidence": 0,
+      "score": 60,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "大众冻结薪酬至2030年，美国发布DeepSeek禁令",
+        "takeaway": "大众计划冻结全球大量员工薪酬至2030年，美国发布DeepSeek禁令，科技行业人事变动。",
+        "bullets": [
+          "大众计划冻结全球大量员工薪酬至2030年。",
+          "美国发布DeepSeek禁令。",
+          "马斯克称明年向全美儿童赠送SpaceX股票。",
+          "字节Seed模型评测负责人黄文灏离职。"
+        ],
+        "detail": "大众汽车计划将全球大量员工的薪酬冻结至2030年，停止加薪。美国突然发布针对DeepSeek的禁令。马斯克表示明年将向全美儿童赠送SpaceX股票。字节跳动Seed模型评测负责人黄文灏已离职。",
+        "generatedAt": "2026-10-20T21:04:13+08:00"
+      }
+    },
+    {
+      "id": "236220a4395d114c",
+      "title": "Vals AI found DeepSeek V4.1 Flash 1017 beats GPT 6 Sol on their multi-step offensive cybersecurity task. Sol was tested via the Daybreak trusted access program.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xap2aq/vals_ai_found_deepseek_v41_flash_1017_beats_gpt_6",
+      "summary": "From Vals AI on 𝕏: https://x.com/ValsAI/status/2112471082397778083 submitted by /u/Nunki08 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T18:59:16+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 57,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Vals AI 测试：DeepSeek V4.1 Flash 1017 在攻防安全任务上胜过 GPT 6 Sol",
+        "takeaway": "第三方评测显示国产模型在多步攻击性网络安全任务中领先，但 GPT 6 Sol 走的是受限访问通道，可比性存疑。",
+        "bullets": [
+          "Vals AI 公布多步攻击性网络安全任务评测结果",
+          "DeepSeek V4.1 Flash 1017 得分超过 GPT 6 Sol",
+          "GPT 6 Sol 通过 Daybreak 可信访问计划受测",
+          "评测细节与分数未在摘要中披露"
+        ],
+        "detail": "Vals AI 在社交平台公布，其多步攻击性网络安全任务中，DeepSeek V4.1 Flash 1017 的表现优于 GPT 6 Sol。后者是通过 Daybreak 可信访问计划测试的，具体分数和测试条件尚未公开，需谨慎看待结论。",
+        "generatedAt": "2026-10-20T21:04:13+08:00"
+      }
+    },
     {
       "id": "0e19bec78e364455",
       "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
@@ -155,6 +231,43 @@
       }
     },
     {
+      "id": "71166a2fa409dfeb",
+      "title": "DeepSeek 开源推理框架 DeepInfer：服务链路的最后一块拼图",
+      "url": "https://oschina.net/news/503116",
+      "summary": "DeepSeek 把压箱底的推理框架开源了。这次不是模型，是那个决定算力成本和电费多少的中间层——DeepInfer。推理框架这个角色，普通用户感受不到，但它每天都在起作用。训练让模型「学有所成」，推理让模型「为人所用」——海量用户调用时，是推理框架在统筹调度庞大的算力集群，它的效率直接决定 AI 服务的算力成本和电...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T18:39:12+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源",
+        "框架"
+      ],
+      "confidence": 0.56,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 开源推理框架 DeepInfer，补齐服务链路",
+        "takeaway": "DeepSeek 开源决定算力成本的推理中间层，开发者可自建高效推理服务。",
+        "bullets": [
+          "开源的是推理框架 DeepInfer，不是模型",
+          "推理框架负责调度算力集群，直接影响成本",
+          "开发者可基于它优化自家 AI 服务效率"
+        ],
+        "detail": "DeepSeek 这次开源的是推理框架 DeepInfer，而非新模型。它位于模型和用户之间，负责统筹调度算力集群，效率高低直接决定 AI 服务的算力成本和电费。普通用户感知不到，但它每天都在支撑海量调用。",
+        "generatedAt": "2026-10-20T21:04:12+08:00"
+      }
+    },
+    {
       "id": "c86664b601af4728",
       "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
       "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal",
@@ -225,6 +338,45 @@
         ],
         "detail": "苹果宣布下周发布新品，触屏MacBook Pro可能首次登场。市场数据显示华为和苹果已占据中国手机市场四成份额。此外，OpenAI为OpenCode受攻击用户退还API额度，杨立昆与马斯克就特斯拉飞车隔空互怼。",
         "generatedAt": "2026-10-20T08:46:50+08:00"
+      }
+    },
+    {
+      "id": "6628ab51bcba408b",
+      "title": "喊出300万张订单，英伟达RTX PRO 5500为何遭到提前疯抢？",
+      "url": "https://leiphone.com/category/chips/STx9ZzfDNh5W80Bm.html",
+      "summary": "在AI算力市场，等风声传开再下注，往往已经慢了半拍。早在8月份，服务器产品经理夏寅卿已经开始向客户推介还未面世的RTX PRO 5500。一个月后，这张最新PRO系列专业工作站显卡才默默出现在英伟达官网。然而，RTX PRO 5500在中国市场引发的动静，远不如它正式亮相时那般低调——有大厂被传计划采购100万张；跨界布局算力租赁的天阳科技，签订2万张采购合同的消息经公众号平台发布当天，股价上涨12.38%。夏寅卿用“疯狂”来形容国内采购热潮，称订购规模已达数百万张，接近英伟…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T18:27:00+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力",
+        "显卡",
+        "英伟达",
+        "服务器"
+      ],
+      "confidence": 0.76,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达RTX PRO 5500未发先火，中国市场订单喊出300万张",
+        "takeaway": "专业显卡RTX PRO 5500未上市就被中国客户疯抢，传大厂计划采购百万张，显示AI算力需求旺盛。",
+        "bullets": [
+          "服务器产品经理提前向客户推介未面世的RTX PRO 5500",
+          "有大厂被传计划采购100万张，天阳科技签2万张合同后股价涨12.38%",
+          "国内订购规模已达数百万张，接近300万张"
+        ],
+        "detail": "英伟达RTX PRO 5500专业工作站显卡在正式亮相前，就已在中国市场被提前抢购。有服务器产品经理提前向客户推介，随后传出大厂计划采购100万张，天阳科技签订2万张合同当天股价大涨12.38%。业内人士用“疯狂”形容采购热潮，称订购规模已达数百万张。",
+        "generatedAt": "2026-10-20T21:04:14+08:00"
       }
     },
     {
@@ -522,6 +674,42 @@
       "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
+      "id": "c0a13f471aae6af1",
+      "title": "Qwen 3.8 Flash Next: drastically faster and much more precise in reaching the result.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xapakf/qwen_38_flash_next_drastically_faster_and_much",
+      "summary": "Some time ago in this same place someone had suggested having your model create paintings through python (with programming) leaving it quite free. Doing so I had noticed how the model, after creating the first draft, made visual checks and …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T19:11:12+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 Flash Next 发布：更快更准",
+        "takeaway": "Qwen 3.8 Flash Next 模型发布，号称速度大幅提升且结果更精确，值得关注。",
+        "bullets": [
+          "Qwen 3.8 Flash Next 是模型发布，主打速度与精度提升。",
+          "有用户曾建议让模型通过 Python 编程自由作画。",
+          "该用户观察到模型初稿后会进行视觉检查。"
+        ],
+        "detail": "Qwen 3.8 Flash Next 发布，宣称速度大幅提升且结果更精确。有用户分享此前建议让模型用 Python 编程自由作画，并注意到模型在生成初稿后会进行视觉检查。",
+        "generatedAt": "2026-10-20T21:04:14+08:00"
+      }
+    },
+    {
       "id": "25c38f880dd1c0b8",
       "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
       "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
@@ -600,6 +788,76 @@
       "pushedAt": "2026-10-20T06:43:02+08:00"
     },
     {
+      "id": "15705003f60bff47",
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving",
+      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T21:00:00+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Eka 估值 14.5 亿美元，物理 AI 模型获专家盛赞",
+        "takeaway": "Eka Robotics 的机械臂因抓取能力出色、动作流畅拟人而受行业追捧，估值达 14.5 亿美元。",
+        "bullets": [
+          "Eka Robotics 估值达 14.5 亿美元，靠物理 AI 模型获专家好评",
+          "其机械臂能抓取多种物体，动作流畅拟人，被赞行业罕见",
+          "可能成为首个真正擅长广泛抓取任务的机械臂"
+        ],
+        "detail": "Eka Robotics 的机械臂可能是首个真正擅长抓取各种物体的机器人，动作流畅自然，令业界惊叹。凭借这一物理 AI 模型，公司估值达到 14.5 亿美元，并获得专家高度评价。",
+        "generatedAt": "2026-10-20T21:04:15+08:00"
+      }
+    },
+    {
+      "id": "678424bafb0509cf",
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "url": "https://technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn",
+      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T20:00:00+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "adoption"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI落地不止硅谷：各行业采用趋势揭示后续路径",
+        "takeaway": "科技业只是AI采用的第一站，其他行业的实践能为后来者提供借鉴。",
+        "bullets": [
+          "当前AI职场叙事过度由硅谷主导，忽略其他行业实际进展。",
+          "科技业是AI采用的首个行业，而非孤岛。",
+          "其他行业的采用趋势可帮助后来者少走弯路。"
+        ],
+        "detail": "关于AI在工作场所的讨论大多来自硅谷视角，但把科技业当作孤岛会错过真实的采用趋势。科技只是第一个大规模应用AI的行业，其他行业的实践正在揭示后续的落地路径。",
+        "generatedAt": "2026-10-20T21:04:16+08:00"
+      }
+    },
+    {
       "id": "a8d6030b440a2677",
       "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
       "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago",
@@ -668,6 +926,112 @@
         ],
         "detail": "谷歌宣布 Spanner Omni 正式可用。它用软件方案替代了原先依赖的原子钟和文件系统，使 Spanner 不再强依赖专用硬件，有望降低部署门槛。",
         "generatedAt": "2026-10-20T15:46:18+08:00"
+      }
+    },
+    {
+      "id": "2596ff929aeef557",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T08:00:00+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AnyLanguageModel 1.0 发布：苹果平台本地模型的一年",
+        "takeaway": "AnyLanguageModel 迎来 1.0 版本，回顾过去一年在苹果设备上运行本地 AI 模型的进展。",
+        "bullets": [
+          "AnyLanguageModel 发布 1.0 版本",
+          "项目聚焦苹果平台本地模型运行",
+          "总结一年来的开发与迭代"
+        ],
+        "detail": "AnyLanguageModel 是一个让开发者在苹果平台（如 iOS、macOS）上本地运行语言模型的项目。1.0 版本标志着项目推出一周年，回顾了这一年里在本地模型支持上的进展。",
+        "generatedAt": "2026-10-20T21:04:16+08:00"
+      }
+    },
+    {
+      "id": "add383da2fc04409",
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations",
+      "summary": "A single query is all that's required to find thousands of conversations listed by title.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T20:33:13+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta Muse 分享对话即泄露隐私，单次查询可搜出数千条",
+        "takeaway": "Meta 的 AI 产品 Muse 存在隐私漏洞，用户分享对话时可能暴露个人和商业机密。",
+        "bullets": [
+          "只需一次查询就能找到数千条按标题列出的对话",
+          "泄露内容涉及用户个人和商业机密",
+          "问题出在对话分享功能的设计上"
+        ],
+        "detail": "Meta 的 AI 产品 Muse 被曝出隐私问题：用户分享对话时，只需一次简单查询，就能找到数千条按标题列出的对话，导致个人和商业机密泄露。问题源于分享功能的设计缺陷。",
+        "generatedAt": "2026-10-20T21:04:17+08:00"
+      }
+    },
+    {
+      "id": "fc83f2c27f0ef0a6",
+      "title": "\"How Gufo caches a hybrid model\", first blog post for Gufo, The Open Source Strix Halo AI engine",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xaojci/how_gufo_caches_a_hybrid_model_first_blog_post",
+      "summary": "Hello hello 👋 , first post here, and it's self-promotion, so feel free to ping me to remove it if it violates rule 4. Sorry in advance. A friend and I started Gufo as a pet project (MIT license) to get the most out of the AMD Strix Halo ch…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T18:28:59+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open source"
+      ],
+      "confidence": 0.7,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gufo 开源引擎详解混合模型缓存机制",
+        "takeaway": "开源项目 Gufo 发布首篇博客，介绍如何在 AMD Strix Halo 上缓存混合模型，值得关注本地 AI 部署的读者一看。",
+        "bullets": [
+          "Gufo 是 MIT 许可的开源 AI 引擎，专为 AMD Strix Halo 优化",
+          "首篇博客聚焦混合模型缓存策略，提升推理效率",
+          "项目由两人业余发起，作者在 r/LocalLLaMA 自荐"
+        ],
+        "detail": "Gufo 是一个旨在充分发挥 AMD Strix Halo 芯片性能的开源 AI 引擎，采用 MIT 许可证。作者在 r/LocalLLaMA 发布首篇博客，讲解其如何缓存混合模型，为本地 AI 推理提供优化思路。",
+        "generatedAt": "2026-10-20T21:04:18+08:00"
       }
     },
     {
@@ -924,6 +1288,118 @@
       }
     },
     {
+      "id": "b0930e389e924a60",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
+      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T19:00:00+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features",
+        "app"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Yelp 新增 AI 功能：可代打电话查餐厅等位时间",
+        "takeaway": "Yelp 将 AI 嵌入应用，能代用户致电餐厅查询等位时间，并生成个性化推荐。",
+        "bullets": [
+          "Yelp 应用新增 AI 功能，可代用户打电话询问餐厅等位时间。",
+          "AI 还能根据用户偏好生成个性化推荐，并记住用户喜好。",
+          "这些功能旨在提升用户查找餐厅和决策的效率。"
+        ],
+        "detail": "Yelp 正在其应用中嵌入多项新 AI 功能，包括代用户致电餐厅查询等位时间，以及生成能记住用户偏好的个性化推荐。这些功能旨在让用户更便捷地获取信息并做出用餐决策。",
+        "generatedAt": "2026-10-20T21:04:18+08:00"
+      }
+    },
+    {
+      "id": "82497db5b87aeee6",
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
+      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketin…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T19:00:00+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raises",
+        "raised"
+      ],
+      "confidence": 0.71,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Otter.ai 获 3.2 亿美元融资，会议记录工具再受资本青睐",
+        "takeaway": "Otter.ai 从 General Catalyst 增长基金获 3.2 亿美元，以非稀释性方式融资，值得关注其会议 AI 工具的商业化进展。",
+        "bullets": [
+          "Otter.ai 获 3.2 亿美元，来自 General Catalyst 的 Customer Value Fund。",
+          "该基金提供非稀释性资本，回报基于营销成果。",
+          "资金将用于会议记录工具，可能加速产品与市场扩张。"
+        ],
+        "detail": "会议记录工具 Otter.ai 周二宣布，从 General Catalyst 的客户价值基金（CVF）获得 3.2 亿美元融资。该基金以不稀释股权的方式向初创公司提供资金，并通过营销成果获取回报。这笔资金将用于支持其会议工具的发展。",
+        "generatedAt": "2026-10-20T21:04:19+08:00"
+      }
+    },
+    {
+      "id": "0e27f9a1857344a6",
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "url": "https://technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub",
+      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing compl…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T17:00:00+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chips",
+        "GPUs",
+        "semiconductor"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "探访三星巨型半导体新园区：为AI芯片扩产存储",
+        "takeaway": "三星新建大型半导体制造园区，以应对AI热潮下对专用存储芯片的激增需求。",
+        "bullets": [
+          "生成式AI依赖GPU，GPU需要与处理器封装在一起的专用存储芯片堆叠。",
+          "三星正在建设大型半导体制造园区，以满足不断增长的存储需求。",
+          "该园区规模庞大，但具体产能和投产时间未在摘要中说明。"
+        ],
+        "detail": "生成式AI模型运行在GPU上，而GPU离不开与处理器封装在一起的专用存储芯片堆叠。为满足日益增长的存储需求，三星正在建设一座大型半导体制造园区。MIT科技评论探访了该园区，但摘要未透露具体产能和投产时间。",
+        "generatedAt": "2026-10-20T21:04:20+08:00"
+      }
+    },
+    {
       "id": "d5c8fa4b16bd3ba5",
       "title": "DeepSeek学霸的降维打击：没刷榜，在工位打游戏，模型能力却控制不住地涨",
       "url": "https://tmtpost.com/8173268.html",
@@ -993,6 +1469,114 @@
         ],
         "detail": "美国国土安全部下令，联邦民用机构要从信息系统中移除所有DeepSeek相关产品，包括用DeepSeek技术构建的第三方产品和服务。机构还得查清采购的软件背后调用了什么模型。该命令针对联邦文职机构的信息系统与政府采购，不涉及普通用户和企业。",
         "generatedAt": "2026-10-20T15:46:20+08:00"
+      }
+    },
+    {
+      "id": "adc222d72e14be7a",
+      "title": "涉嫌监听 OpenAI 高管的沙特籍工程师手机上有名为 Saudi Gov Docs 的文件夹",
+      "url": "https://solidot.org/story?sid=85662",
+      "summary": "涉嫌监听 OpenAI 高管的沙特籍工程师 Abdulrahman Alfozan 被拒绝释放，美国检方称其动机可能是为了个人商业利益，也可能是为了沙特王国的利益。美国政府指出，有证据显示，Alfozan 曾通过 WhatsApp 与沙特王室成员保持联络；与此同时他还在寻求机会永久搬回沙特——沙特正在大力发展 AI。Alfozan 的 iPhone 手机内有一个名为 Saudi Gov Docs 的文件夹。FBI 是在 Alfozan 即将登机离开美国前将其逮捕的。他为自己、…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T16:30:33+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "沙特籍工程师涉监听 OpenAI 高管，手机现“Saudi Gov Docs”文件夹",
+        "takeaway": "一名沙特籍工程师被控监听 OpenAI 高管，手机中发现沙特政府文件，案件动机或涉个人利益与沙特国家利益。",
+        "bullets": [
+          "涉事工程师 Abdulrahman Alfozan 被拒保释，FBI 在其登机离美前逮捕。",
+          "检方称其动机可能是个人商业利益，也可能是为沙特王国利益。",
+          "证据显示他曾用 WhatsApp 与沙特王室成员联络，并寻求永久回沙特。",
+          "其 iPhone 内有一个名为“Saudi Gov Docs”的文件夹。"
+        ],
+        "detail": "沙特籍工程师 Abdulrahman Alfozan 因涉嫌监听 OpenAI 高管被美国检方拒绝释放。检方认为其动机可能是个人商业利益，也可能是为沙特利益。证据显示他曾通过 WhatsApp 与沙特王室成员联络，并寻求永久搬回正在大力发展 AI 的沙特。FBI 在他即将登机离开美国前将其逮捕，其 iPhone 中有一",
+        "generatedAt": "2026-10-20T21:04:20+08:00"
+      }
+    },
+    {
+      "id": "79e072c528493212",
+      "title": "DeepSeek just open-sourced its inference engine",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 828 # Comments: 281",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T17:08:54+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 开源推理引擎 DeepInfer",
+        "takeaway": "DeepSeek 把自家推理引擎开源，开发者可复用其推理优化，HN 热度很高。",
+        "bullets": [
+          "DeepSeek 在 GitHub 开源推理引擎 DeepInfer",
+          "面向开发者，可参考其模型推理部署实现",
+          "Hacker News 获 828 分、281 条评论，关注度高"
+        ],
+        "detail": "DeepSeek 在 GitHub 上开源了推理引擎 DeepInfer，代码已公开。该消息在 Hacker News 引发热议，获得 828 分和 281 条评论，说明社区对 DeepSeek 的推理部署方案很关注。",
+        "generatedAt": "2026-10-20T21:04:20+08:00"
+      }
+    },
+    {
+      "id": "6a3818bee010264a",
+      "title": "Deepseek released DeepInfer - Open Source high-performance, large-scale inference framework for DeepSeek models!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xanm55/deepseek_released_deepinfer_open_source",
+      "summary": "This is crazy good for studying to improve existing custom engines by community like gufo, halogen, strixite, Strata... by learning their secret sauces. submitted by /u/feelspeaceman [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T17:33:27+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open source",
+        "framework"
+      ],
+      "confidence": 0.75,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 开源高性能推理框架 DeepInfer",
+        "takeaway": "DeepSeek 发布开源推理框架 DeepInfer，社区可借鉴其技术优化自定义引擎。",
+        "bullets": [
+          "DeepSeek 推出开源高性能大规模推理框架 DeepInfer",
+          "面向 DeepSeek 模型，提升推理效率与规模",
+          "社区可学习其技术，改进 gufo、halogen 等自定义引擎"
+        ],
+        "detail": "DeepSeek 开源了名为 DeepInfer 的高性能大规模推理框架，专为 DeepSeek 模型设计。社区开发者认为，这有助于研究并改进现有的自定义推理引擎，如 gufo、halogen、strixite、Strata 等，学习其中的关键技术。",
+        "generatedAt": "2026-10-20T21:04:21+08:00"
       }
     },
     {
@@ -1249,6 +1833,40 @@
         ],
         "detail": "MemT 1.0 宣布开源，提出「记忆原生」的新解法，试图解决养成系 AI 在长期互动中记忆能力不足的问题。该方案面向开发者开放，为 AI 记忆管理提供了新的实现路径。",
         "generatedAt": "2026-10-20T15:46:21+08:00"
+      }
+    },
+    {
+      "id": "3eb18e5ff7f2a0ef",
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T08:00:00+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "PyTorch 2.15 正式支持苹果 MPS 后端",
+        "takeaway": "PyTorch 2.15 将 MPS 纳入官方后端，Mac 用户可直接用 GPU 加速训练与推理。",
+        "bullets": [
+          "PyTorch 2.15 版本新增 MPS 后端支持",
+          "Mac 用户可利用 Apple GPU 加速计算",
+          "此前 MPS 多为实验性，现更稳定可用"
+        ],
+        "detail": "PyTorch 2.15 版本开始支持 MPS（Metal Performance Shaders）后端，让搭载 Apple 芯片的 Mac 能直接调用 GPU 进行深度学习计算。此前 MPS 支持多为实验性质，此次整合意味着 Mac 用户可获得更稳定、高效的本地训练与推理体验。",
+        "generatedAt": "2026-10-20T21:04:22+08:00"
       }
     },
     {
@@ -1700,6 +2318,31 @@
       "pushed": false
     },
     {
+      "id": "44377744ecb6ff6b",
+      "title": "具身智能，卡在哪——王兴兴的\"一两年\"到底承诺了什么",
+      "url": "https://tmtpost.com/8174435.html",
+      "summary": "具身智能的时间表随GPT版本号前移，市场把模型进步误读为具身进度。模型是翻译官，Agent是场景决策者，物理载体是手脚。三把尺子量下来：走完一整步，卡在第三步——迭代方向标准，它只由真实场景的数据主权决定。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T16:39:21+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "84ab1f41950ad94e",
       "title": "WhatsApp 帮助页面曾隐藏针对 AI 的秘密指令",
       "url": "https://solidot.org/story?sid=85658",
@@ -1745,6 +2388,55 @@
         "banned"
       ],
       "confidence": 0.5,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "769218ccd93afeee",
+      "title": "580天暗战，爱奇艺的AI闯关路",
+      "url": "https://leiphone.com/category/industrynews/jJI2TPXI1eYWxECq.html",
+      "summary": "今年4月，在北京的一场影视行业论坛上，爱奇艺基础架构与智能分发事业群总裁刘文峰正通过大屏幕演示手机端的一个新功能“跳看”：前一秒还是画师在寺庙中留下一幅未完成点睛的画作，手指一滑，屏幕中一个黑衣人潜入寺中，还未走出几步，便在惊雷中暴毙而亡。一段原本8分钟的开场戏，就浓缩成3分钟，紧凑又充满悬念。 “这不跟看短剧一样么？”这一刻起，长视频不再只有一种打开方式。而能够实现“长剧短看”、进退自如切换剧情的秘密武器正是生成式AI。时间拨回三个月前，一次内部会议上，爱奇艺创始人、CEO…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T14:15:00+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "创始人",
+        "CEO"
+      ],
+      "confidence": 0.6,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "172711783c470888",
+      "title": "奥斯卡大师加持，「电影精神」怎么造就AI剧场？",
+      "url": "https://leiphone.com/category/industrynews/6Vycsmo3EhndKZSe.html",
+      "summary": "“我73岁转型，我要去拥抱新的技术、去驾驭它，做到真正想做的东西，这就是我的决心。”——鲍德熹十一月的北京已略带寒意，我们在爱奇艺青春中心见到了一代传奇影人鲍德熹。这里是他和爱奇艺合作“鲍德熹·爱奇艺 AI 剧场”的创作营授课现场。其他课程导师上课时，他也会每天早早来到教室，与学员们一同聆听关于电影知识与审美的课程。他时不时自然地接过话筒分享几句感悟，就会引来台下一片会心的笑声与掌声。在影视圈里发光发热四十余年，鲍德熹是《卧虎藏龙》《功夫之王》《繁花》等多个殿堂级项目的核心主…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T14:08:00+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 33,
       "related": [],
       "pushed": false
@@ -1896,6 +2588,77 @@
       "pushed": false
     },
     {
+      "id": "cf11d0db2873160c",
+      "title": "AI短剧里的“彩票工厂”不再赚钱",
+      "url": "https://tmtpost.com/8174771.html",
+      "summary": "一些议论",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T18:29:13+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e9dd82d989faa42a",
+      "title": "挣真钱：中国 AI 独角兽的成人礼",
+      "url": "https://tmtpost.com/8173526.html",
+      "summary": "从调用量全球第一，到涨价 101%。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T17:40:09+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "独角兽"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1f594755b70d8d04",
+      "title": "OpenCode陷入“密钥泄露”风波，AI时代如何守住安全红线？",
+      "url": "https://tmtpost.com/8174735.html",
+      "summary": "AI给黑客带来的便利，远大于对安全防护措施的助益。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T17:29:55+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "b1e1a8cfa3bd4c85",
       "title": "WorkBuddy住进企业微信，AI同事几分靠谱？",
       "url": "https://tmtpost.com/8173787.html",
@@ -2032,6 +2795,103 @@
       "category": "其他",
       "keywords": [],
       "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f3bd32d6b670fa73",
+      "title": "做了10年影视制片人，现在我每天陪老板搓“AI玩具”",
+      "url": "https://tmtpost.com/8174207.html",
+      "summary": "做了10年影视制片人，现在我每天陪老板搓“AI玩具”",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T16:40:57+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9bfc133aa8a97639",
+      "title": "这届年轻人，花钱“手搓”AI人设",
+      "url": "https://tmtpost.com/8174252.html",
+      "summary": "聊天框变虚拟片场",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T16:39:30+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2dbdc341909ee9c6",
+      "title": "对话Dyna Robotics：被部署教训了300天后，找到机器人Scaling Law",
+      "url": "https://tmtpost.com/8174365.html",
+      "summary": "“世界上最无聊”的机器人公司？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T16:39:27+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "部署"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e96ce10d727d6a85",
+      "title": "DHH 吐槽中国软件：AI 模型很强，但许多软件依旧很粗糙",
+      "url": "https://oschina.net/news/503113",
+      "summary": "DHH 对中国科技产品发了一条评论，矛头不在 AI 模型，而在软件体验：「我尊重中国制造的 AI 模型和硬件，但同样困惑于大多数软件还这么粗糙。无论是微信、支付宝还是鸿蒙。你会以为独特的审美、完美的保真度和流畅的用户体验应该很容易，但显然不是。」 DHH 是 Ruby on Rails 的创始人，Basecamp 的联合创始人，也是著名...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T15:56:57+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "评论",
+        "创始人"
+      ],
+      "confidence": 0.6,
       "score": 29,
       "related": [],
       "pushed": false

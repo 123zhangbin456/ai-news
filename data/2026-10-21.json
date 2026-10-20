@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updatedAt": "2026-10-20T02:55:36+08:00",
+  "updatedAt": "2026-10-20T21:04:23+08:00",
   "items": [
     {
       "id": "190687157a4d4168",
@@ -36,6 +36,76 @@
         ],
         "detail": "WhatsApp网站上的约80个帮助页面意外暴露了为Meta聊天机器人编写的隐藏指令，其中包含“禁止说的话”等明确限制。Meta表示这是一个漏洞造成的，但没有透露更多细节。",
         "generatedAt": "2026-10-20T02:55:28+08:00"
+      }
+    },
+    {
+      "id": "a23c4665363be8f5",
+      "title": "主题征文 ｜ 让鸿蒙应用，玩出新可能！",
+      "url": "https://infoq.cn/article/D8uCYSG2Sf29ybwp4i2g",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T02:36:03+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "应用"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "InfoQ 发起鸿蒙应用主题征文",
+        "takeaway": "InfoQ 中国征集鸿蒙应用开发实践稿件，开发者可分享经验。",
+        "bullets": [
+          "InfoQ 中国发起鸿蒙应用主题征文活动",
+          "面向开发者征集鸿蒙应用相关实践内容",
+          "具体参与方式需查看原文"
+        ],
+        "detail": "InfoQ 中国发布鸿蒙应用主题征文，邀请开发者围绕鸿蒙应用开发分享实践与经验。摘要未披露活动细则，参与方式和奖励需查看原文。",
+        "generatedAt": "2026-10-20T21:04:22+08:00"
+      }
+    },
+    {
+      "id": "a67f1841e48a7400",
+      "title": "处理了 4000 万条消息后，我们总结了 Kafka 有序处理的几个关键设计",
+      "url": "https://infoq.cn/article/HoUf1pHD3WcZCK3YMe7m",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T01:00:00+08:00",
+      "fetchedAt": "2026-10-20T21:04:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "4000 万条消息实战：Kafka 有序处理的关键设计",
+        "takeaway": "团队基于 4000 万条消息的实践，总结 Kafka 有序处理的设计要点，值得做消息队列的开发者参考。",
+        "bullets": [
+          "团队处理 4000 万条消息后总结 Kafka 有序处理经验",
+          "聚焦消息顺序保障的关键设计取舍",
+          "面向使用 Kafka 的开发者，提供实践参考"
+        ],
+        "detail": "InfoQ 中国分享了一支团队在累计处理 4000 万条消息后，对 Kafka 有序处理的经验总结。文章围绕保证消息顺序的几个关键设计展开，属于工程实践类内容，适合正在用 Kafka 做消息处理的开发者参考。",
+        "generatedAt": "2026-10-20T21:04:23+08:00"
       }
     }
   ],
