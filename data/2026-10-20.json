@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updatedAt": "2026-10-21T08:13:32+08:00",
+  "updatedAt": "2026-10-21T09:18:43+08:00",
   "items": [
     {
       "id": "992e176472e85c5f",
@@ -599,6 +599,42 @@
         ],
         "detail": "Linux 基金会报告系统评估了开源 AI 在 APEC 经济体的采用率、投资规模及经济社会影响。研究基于文献综述和与澳大利亚、日本、韩国、新加坡等 11 个经济体百余位专家的对话，指出开源 AI 通过降低成本、避免供应商锁定、促进创新，为中小企业和发展中经济体带来重要机遇，并分析了在制造业、医疗等领域的应用。",
         "generatedAt": "2026-10-20T15:46:16+08:00"
+      }
+    },
+    {
+      "id": "a84b6a7bee5c68a6",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-20T15:00:00+08:00",
+      "fetchedAt": "2026-10-21T09:18:32+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Terminal X 用 GPT-6.1 评估投资，与资深投资人判断一致率 88.6%",
+        "takeaway": "AI 评估工具在投资合规检查上接近人类专家水平，或提升基金风控效率。",
+        "bullets": [
+          "Terminal X 的 Eval Agent 基于 54 项标准评分，与资深投资人判断一致率达 88.6%。",
+          "使用 GPT-6.1 Sol 后，该工具对基金任务偏离的检出率提高了 25%。",
+          "该进展可能影响基金合规监控和投资决策流程。"
+        ],
+        "detail": "Terminal X 的评估代理使用 54 项标准评分体系，在 GPT-6.1 Sol 加持下，对基金任务偏离的检出率比之前高 25%，且与资深投资人的判断一致率达到 88.6%。",
+        "generatedAt": "2026-10-21T09:18:42+08:00"
       }
     },
     {
