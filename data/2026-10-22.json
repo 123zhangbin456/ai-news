@@ -1,7 +1,265 @@
 {
   "date": "2026-10-22",
-  "updatedAt": "2026-10-22T01:48:30+08:00",
+  "updatedAt": "2026-10-22T06:03:05+08:00",
   "items": [
+    {
+      "id": "1f413756a0cb0525",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "url": "https://theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's avail…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T03:53:20+08:00",
+      "fetchedAt": "2026-10-22T06:02:44+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "preview",
+        "Claude"
+      ],
+      "confidence": 0.83,
+      "score": 65,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Anthropic 推出 Claude Duet AI 代理，对标 Meta Muse",
+        "takeaway": "Anthropic 发布面向专业人士和小企业主的 AI 代理 Claude Duet，以研究预览形式上线，加入与 Meta、OpenAI 的代理竞争。",
+        "bullets": [
+          "Claude Duet 是 Anthropic 新推出的 AI 代理，对标 Meta Muse 和 OpenAI Dots。",
+          "目标用户为专业人士和小企业主，目前以研究预览形式发布。",
+          "此举意味着 Anthropic 正式加入 AI 代理产品的竞争行列。"
+        ],
+        "detail": "Anthropic 宣布推出 AI 代理 Claude Duet，直接竞争 Meta 的 Muse 和 OpenAI 的 Dots。该代理面向专业人士和小企业主，目前以“研究预览”形式上线，具体可用范围尚未完全披露。",
+        "generatedAt": "2026-10-22T06:02:54+08:00"
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "7104bc51c29585cc",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T02:26:30+08:00",
+      "fetchedAt": "2026-10-22T06:02:44+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 56,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "英伟达Kumo关系模型无需训练即超越监督学习",
+        "takeaway": "英伟达发布Kumo关系模型，在关系数据上无需训练即优于监督机器学习，或降低AI应用门槛。",
+        "bullets": [
+          "英伟达推出Kumo关系模型，专攻关系数据。",
+          "无需训练即可超越传统监督学习方法。",
+          "可能简化AI部署，影响数据科学工作流。"
+        ],
+        "detail": "英伟达在Hugging Face发布Kumo关系模型，声称在关系数据上无需训练就能超越监督机器学习。这意味着用户可能省去模型训练环节，直接获得更好效果，为关系数据处理带来新思路。",
+        "generatedAt": "2026-10-22T06:02:54+08:00"
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "4ab93569e260b2b0",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T01:00:00+08:00",
+      "fetchedAt": "2026-10-22T06:02:44+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 54,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "AT&T 携手 OpenAI 重塑内部法务工作",
+        "takeaway": "AT&T 用 OpenAI 技术让法律知识更易获取，其 LegalEdge 团队正重新设计案件受理流程并规模化法律判断。",
+        "bullets": [
+          "AT&T 与 OpenAI 合作，提升法律知识可及性",
+          "LegalEdge 团队重新思考案件受理方式",
+          "目标是将法律判断规模化应用"
+        ],
+        "detail": "AT&T 正在与 OpenAI 合作，让内部法律知识更容易被获取。其 LegalEdge 团队借此重新设计案件受理流程，并尝试将法律判断规模化，以提升法务工作效率。",
+        "generatedAt": "2026-10-22T06:02:54+08:00"
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "d777d785a3acdbe6",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T04:27:41+08:00",
+      "fetchedAt": "2026-10-22T06:02:44+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launches"
+      ],
+      "confidence": 0.33,
+      "score": 54,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Recursive 发布 Flint：一款主要由 AI 自研的笔记本编程模型",
+        "takeaway": "初创公司 Recursive 推出免费、可在笔记本运行的编程模型 Flint，号称大部分由自家 AI 研究系统构建，是 AI 自我改进的早期试验。",
+        "bullets": [
+          "Flint 是免费、可在笔记本本地运行的编程模型",
+          "Recursive 称其大部分由自家 AI 研究系统构建",
+          "被视为 AI 自我改进能力的早期测试",
+          "模型规模小，面向本地编程场景"
+        ],
+        "detail": "初创公司 Recursive 发布了 Flint，这是一款免费、体积小到能在笔记本上运行的编程模型。公司表示，Flint 的大部分构建工作由自家 AI 研究系统完成，目的是初步检验 AI 自我改进的能力。",
+        "generatedAt": "2026-10-22T06:02:56+08:00"
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "2ed22a61b2f19a0c",
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T05:00:00+08:00",
+      "fetchedAt": "2026-10-22T06:02:44+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "OpenAI 发布统一标准，规范分发合作伙伴访问",
+        "takeaway": "OpenAI 通过统一标准与分发伙伴合作，确保安全访问并明确使用政策。",
+        "bullets": [
+          "OpenAI 与分发合作伙伴共同维护一致的安全保障措施。",
+          "支持负责任地访问 AI 技术，并明确使用政策期望。",
+          "此举旨在规范通过第三方渠道获取 OpenAI 服务的方式。"
+        ],
+        "detail": "OpenAI 发文说明其如何与分发合作伙伴协作，以维持一致的安全防护、支持负责任的访问，并在使用政策中明确相关期望。这有助于确保用户通过不同渠道使用 OpenAI 服务时，都能遵循相同的标准。",
+        "generatedAt": "2026-10-22T06:02:56+08:00"
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "4472664e9020983e",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T03:30:00+08:00",
+      "fetchedAt": "2026-10-22T06:02:44+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing"
+      ],
+      "confidence": 0.5,
+      "score": 50,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "亚马逊封杀AI代理，沃尔玛反其道推AI代购",
+        "takeaway": "沃尔玛允许AI代理代客下单，并设消费与审批控制，与亚马逊封杀做法形成对比。",
+        "bullets": [
+          "沃尔玛推出新技术，允许AI代理代表客户完成购买。",
+          "该技术提供消费额度与交易审批等控制措施。",
+          "亚马逊则阻止AI代理在其网站购物，两家策略相反。"
+        ],
+        "detail": "亚马逊正阻止AI代理在其网站购物，沃尔玛却反其道而行，推出新技术让AI代理能代客户下单。沃尔玛还设置了消费金额控制和交易审批机制，以保障用户对AI代购的掌控。",
+        "generatedAt": "2026-10-22T06:02:56+08:00"
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "e9fc4036438cc691",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T05:14:19+08:00",
+      "fetchedAt": "2026-10-22T06:02:44+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app",
+        "users"
+      ],
+      "confidence": 0.33,
+      "score": 46,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Meta 的 AI 应用 Muse 用户破千万，购物成热门场景",
+        "takeaway": "Meta 在 Q3 财报中披露 Muse 用户超 1000 万，购物与个人效率是主要用途。",
+        "bullets": [
+          "Meta 在 Q3 财报电话会上公布 Muse 用户数已超 1000 万",
+          "用户主要用它购物和个人效率，而非单纯聊天",
+          "这是 Meta 在 AI 消费级应用上的重要进展"
+        ],
+        "detail": "Meta 在第三季度财报电话会上表示，其 AI 应用 Muse 的用户数已超过 1000 万。公司称用户正把这款应用用于购物和个人效率场景，说明它正从聊天工具向实用助手延伸。",
+        "generatedAt": "2026-10-22T06:02:58+08:00"
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
     {
       "id": "87c5cb39af2eeb6f",
       "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
@@ -23,7 +281,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "植物用电信号“说话”，这家初创公司用AI翻译",
         "takeaway": "Electric Plant 开发AI模型，解读植物茎秆中的微弱电信号，让人类听懂植物语言。",
@@ -34,7 +292,8 @@
         ],
         "detail": "植物并非沉默，它们通过茎秆中微弱的电流传递信息。Electric Plant 公司开发了一款AI翻译工具，旨在解读这些电信号，让人类能“听懂”植物在说什么。",
         "generatedAt": "2026-10-21T01:40:16+08:00"
-      }
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
     },
     {
       "id": "354f89a6c7dbf10c",
@@ -57,7 +316,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "小模型专用词表可降推理成本77%",
         "takeaway": "Hugging Face 分享方法：为小语言模型定制词表，真实应用推理成本降77%。",
@@ -68,7 +327,8 @@
         ],
         "detail": "Hugging Face 发文介绍，通过为小语言模型专门设计词表，可以在实际应用中把推理成本降低 77%。这为部署轻量模型提供了新的优化思路。",
         "generatedAt": "2026-10-22T01:48:23+08:00"
-      }
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
     },
     {
       "id": "f9b499debdda31c0",
@@ -91,7 +351,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "TorchNeuron 性能分析指南：AWS Trainium 系统级调优",
         "takeaway": "Hugging Face 发布教程，教你在 AWS Trainium 芯片上对 TorchNeuron 做系统级性能分析，帮助定位训练瓶颈。",
@@ -102,7 +362,8 @@
         ],
         "detail": "这是 Hugging Face 博客系列的第一部分，主题是如何在 AWS Trainium 上对 TorchNeuron 进行系统级性能分析。文章没有摘要，但标题表明它面向想优化 Trainium 训练效率的开发者，教他们从系统层面采集性能数据。",
         "generatedAt": "2026-10-22T01:48:23+08:00"
-      }
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
     },
     {
       "id": "5158d3df898bb242",
@@ -127,7 +388,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "开源游戏 Battle Drones 发布次日即获法语蒸汽朋克改版",
         "takeaway": "Simon Willison 以 Apache 2.0 协议开源游戏后，社区迅速推出法语分支，将背景改为 1900 年代蒸汽朋克法国。",
@@ -138,7 +399,343 @@
         ],
         "detail": "Simon Willison 昨天以 Apache 2.0 许可证发布了游戏 Battle Drones，没想到很快就出现了一个法语分支。这个分支名为 Panache，把游戏背景改成了 1900 年代蒸汽朋克风格的法国，并加入了一些新内容。",
         "generatedAt": "2026-10-22T01:48:24+08:00"
-      }
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "918065aafd8b1ca4",
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "url": "https://simonwillison.net/2026/Oct/21/php-security-release",
+      "summary": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been …",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T02:41:53+08:00",
+      "fetchedAt": "2026-10-22T06:02:44+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 0.67,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "PHP 8.x 全系安全更新：修复两个远程代码执行漏洞",
+        "takeaway": "PHP 官方发布安全更新，修复两个可致远程代码执行的高危漏洞，所有 PHP 8.x 用户应尽快升级。",
+        "bullets": [
+          "更新覆盖整个 PHP 8.x 系列，修复两个远程代码执行漏洞。",
+          "远程代码执行漏洞可能被攻击者利用控制服务器，风险极高。",
+          "官方同时公布了加强 PHP 安全性的长期措施。",
+          "运行 PHP 的站点管理员需立即升级到最新版本。"
+        ],
+        "detail": "PHP 官方发布了安全更新，覆盖所有 PHP 8.x 版本，修复了两个远程代码执行漏洞。这类漏洞可能让攻击者远程控制服务器，危害极大。官方还介绍了加强 PHP 安全性的后续计划。如果你在用 PHP，务必尽快升级。",
+        "generatedAt": "2026-10-22T06:02:58+08:00"
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "bee997298d409898",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T05:16:20+08:00",
+      "fetchedAt": "2026-10-22T06:02:44+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "founder"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "TechCrunch 2026 创始人峰会定档波士顿，11 月 4 日举行",
+        "takeaway": "TechCrunch 将于 11 月 4 日在波士顿举办全天创始人峰会，连接创业者、顶级 VC 与资深企业家。",
+        "bullets": [
+          "活动为全天线下聚会，地点在波士顿，面向各阶段创始人",
+          "参与者可与顶级风投和资深创业者交流，获取公司搭建与规模化实战经验",
+          "峰会侧重战术性洞察，而非泛泛趋势讨论"
+        ],
+        "detail": "TechCrunch 创始人峰会将于 2026 年 11 月 4 日在波士顿举行，为期一天。活动面向不同发展阶段的创始人，安排他们与顶级风投和资深企业家面对面交流，重点分享公司搭建和规模化过程中的实操经验。",
+        "generatedAt": "2026-10-22T06:02:59+08:00"
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "c722db5f4d7983b5",
+      "title": "Walmart is inviting AI agents to shop for you",
+      "url": "https://theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spending limits. The em…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T03:30:00+08:00",
+      "fetchedAt": "2026-10-22T06:02:44+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "review"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "沃尔玛将允许AI代理代你购物，可设预算并审核订单",
+        "takeaway": "沃尔玛下月开放AI代理接入网站代购，用户可审批订单并设消费限额，零售业AI购物迈出实质一步。",
+        "bullets": [
+          "沃尔玛下月起允许用户将自己的AI代理连接到其网站代购",
+          "系统支持用户审批和查看订单，并可设置消费限额",
+          "此举将AI代理购物从概念推向实际零售场景"
+        ],
+        "detail": "沃尔玛宣布下个月起，用户可以把个人AI代理接入其网站，让代理代为购物。平台会提供审批和查看订单的机制，用户还能设定消费上限，在便利与掌控之间取得平衡。",
+        "generatedAt": "2026-10-22T06:02:59+08:00"
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "939258c0eb55b7a6",
+      "title": "The new human-crafted Apple Music brand matters in an AI world",
+      "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world",
+      "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T03:44:40+08:00",
+      "fetchedAt": "2026-10-22T06:02:44+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "opinion"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "苹果音乐新品牌由人手打造，AI 时代凸显人情味",
+        "takeaway": "在 AI 生成内容泛滥的当下，苹果音乐强调人工创作，以人情味作为品牌差异化。",
+        "bullets": [
+          "苹果音乐推出新品牌，强调由人类手工打造。",
+          "Ars Technica 评论认为，在 AI 内容泛滥时，展示人工制作过程有助于建立信任。",
+          "这反映了科技行业对 AI 生成内容的一种回应趋势。"
+        ],
+        "detail": "Ars Technica 评论指出，在 AI 生成内容泛滥的环境下，展示人类亲手制作的过程有助于建立信任。苹果音乐的新品牌强调人工创作，正是这一趋势的体现。",
+        "generatedAt": "2026-10-22T06:02:59+08:00"
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "5dbb54a005401fc7",
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 208 # Comments: 180",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T03:14:01+08:00",
+      "fetchedAt": "2026-10-22T06:02:44+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0.5,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Claude Duet 亮相 Hacker News，Anthropic 推出新模型产品",
+        "takeaway": "Anthropic 发布 Claude Duet，登上 Hacker News 热榜，引发 180 条讨论。",
+        "bullets": [
+          "Anthropic 上线新产品 Claude Duet",
+          "Hacker News 热度 208 分、180 条评论",
+          "具体能力与定价原文未披露"
+        ],
+        "detail": "Anthropic 在官网产品页上线了 Claude Duet，相关链接被发到 Hacker News 后迅速获得 208 分和 180 条评论。目前公开信息只有产品页链接，具体功能、可用范围和定价尚未在摘要中说明。",
+        "generatedAt": "2026-10-22T06:03:01+08:00"
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "fec3f8f0dab00f96",
+      "title": "Tried running 748B DeepSeek-V4.1-Flash on a €2k PC",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xburkx/tried_running_748b_deepseekv41flash_on_a_2k_pc",
+      "summary": "I bought a used PC with an RTX 3090 24 GB, 128 GB DDR4 and an Intel i9-9900X last year for under €2,000. With the release of DeepSeek-V4.1-Flash-1017 I decided to try running it on my machine. It is of course the smallest quant available (1…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T02:11:28+08:00",
+      "fetchedAt": "2026-10-22T06:02:44+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "DeepSeek"
+      ],
+      "confidence": 0.71,
+      "score": 39,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "用户尝试在2000欧元PC上运行748B DeepSeek-V4.1-Flash",
+        "takeaway": "有人用二手高端PC挑战运行748B大模型，展示本地部署极限。",
+        "bullets": [
+          "用户用2000欧元二手PC（RTX 3090 24GB、128GB内存、i9-9900X）尝试运行。",
+          "模型为DeepSeek-V4.1-Flash-1017，748B参数，使用最小量化版本。",
+          "结果未明，但凸显大模型本地运行的硬件挑战。"
+        ],
+        "detail": "一位用户去年花不到2000欧元买了台二手PC，配置RTX 3090 24GB显存、128GB DDR4内存和i9-9900X处理器。DeepSeek-V4.1-Flash-1017发布后，他决定在这台机器上尝试运行这个748B参数的大模型，用的是最小的量化版本。",
+        "generatedAt": "2026-10-22T06:03:01+08:00"
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "52ef68092ee725bf",
+      "title": "llama: create new fused op for QSA mask by am17an · Pull Request #30640 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xbx12a/llama_create_new_fused_op_for_qsa_mask_by_am17an",
+      "summary": "it's time to update your llama.cpp for another speedup (sparse attention models) submitted by /u/jacek2023 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T03:34:04+08:00",
+      "fetchedAt": "2026-10-22T06:02:44+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "llama.cpp 新增 QSA 掩码融合算子，稀疏注意力模型提速",
+        "takeaway": "llama.cpp 合并新 PR，为稀疏注意力模型加入融合算子，本地推理有望再提速。",
+        "bullets": [
+          "PR #30640 由 am17an 提交，为 QSA 掩码新增融合算子。",
+          "面向稀疏注意力模型，属于 llama.cpp 的性能优化。",
+          "用户更新 llama.cpp 后即可获得这项加速。"
+        ],
+        "detail": "llama.cpp 合并了 PR #30640，为 QSA 掩码实现新的融合算子。该改动针对稀疏注意力模型做性能优化，更新代码后即可获得推理加速。",
+        "generatedAt": "2026-10-22T06:03:01+08:00"
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "fecb02db6a1f664a",
+      "title": "Qwen researching Qwen",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xbya5m/qwen_researching_qwen",
+      "summary": "I always feel a little bad asking LLMs to do research into itself or newer versions. It's like asking someone to face their own mortality, although that's anthropomorphizing. The user is asking me to investigate the system requirements for …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T04:21:13+08:00",
+      "fetchedAt": "2026-10-22T06:02:44+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0.75,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "用户让Qwen研究自身系统需求，AI“直面自我”引热议",
+        "takeaway": "一则Reddit帖子展示用户让Qwen调查自身系统需求，引发对AI自我认知的趣味讨论。",
+        "bullets": [
+          "用户要求Qwen调查自身系统需求，AI被指“面对自我”。",
+          "帖子来自r/LocalLLaMA，属模型发布分类。",
+          "讨论带有人性化比喻，但非技术发布。"
+        ],
+        "detail": "在r/LocalLLaMA论坛，有用户发帖称让大语言模型研究自身或新版本时感到不忍，并举例要求Qwen调查其系统需求。这更像一则社区趣谈，而非正式模型发布。",
+        "generatedAt": "2026-10-22T06:03:03+08:00"
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "c3da19bcc618836c",
+      "title": "If the bubble bursts we keep local AI forever",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xbxmoo/if_the_bubble_bursts_we_keep_local_ai_forever",
+      "summary": "Hey guys! I'm the dev from the open-source Observer project. We made this video about how even if the AI bubble bursts, local model advancements are bubble-proof. Hope you guys like it :DD Subscribe to the youtube if you liked the video! We…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T03:57:03+08:00",
+      "fetchedAt": "2026-10-22T06:02:44+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "开源开发者：AI 泡沫破裂，本地模型依然长存",
+        "takeaway": "Observer 项目开发者发视频称，本地模型进步不依赖 AI 泡沫，泡沫破裂后仍可保留。",
+        "bullets": [
+          "开源 Observer 项目开发者发布视频讨论本地 AI 前景",
+          "核心观点：本地模型技术进步不受 AI 泡沫破裂影响",
+          "视频在 r/LocalLLaMA 发布，呼吁观众订阅 YouTube 频道"
+        ],
+        "detail": "开源 Observer 项目的开发者制作了一期视频，主题是即使 AI 泡沫破裂，本地模型的进步也不会消失。他在 r/LocalLLaMA 发帖分享，希望观众喜欢，并呼吁订阅 YouTube 频道。",
+        "generatedAt": "2026-10-22T06:03:03+08:00"
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
     },
     {
       "id": "cf8c5844437cd109",
@@ -164,7 +761,7 @@
       "confidence": 0.4,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "制造业AI从试点走向规模化，高管支持成关键",
         "takeaway": "制造业AI落地进入规模化阶段，领导者需推动应用并争取高管层支持。",
@@ -175,7 +772,8 @@
         ],
         "detail": "文章讨论制造业企业如何把AI从试点项目推进到规模化应用，并指出领导者在这一过程中的推动作用，以及赢得高管层支持对落地的重要性。",
         "generatedAt": "2026-10-21T21:16:08+08:00"
-      }
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
     },
     {
       "id": "12874d6d1a40c47b",
@@ -198,7 +796,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Cloudflare 用 R2 对象存储重做事件流，Kafka 会被取代吗？",
         "takeaway": "Cloudflare 尝试用对象存储 R2 承载事件流，挑战 Kafka 在消息队列中的主流地位。",
@@ -209,7 +807,8 @@
         ],
         "detail": "Cloudflare 提出用 R2 对象存储来做事件流，而不是依赖 Kafka 这类专用消息系统。这一思路把存储和流处理结合，引发对对象存储是否会蚕食 Kafka 应用场景的讨论。",
         "generatedAt": "2026-10-21T21:16:09+08:00"
-      }
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
     },
     {
       "id": "56fd8f9def350e3c",
@@ -234,7 +833,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "亚马逊CTO：仍招初级工程师，关注中国开放模型",
         "takeaway": "亚马逊CTO回应招聘与AI模型策略，澄清初级岗位未消失，并表达对中国开源模型的关注。",
@@ -245,7 +844,45 @@
         ],
         "detail": "亚马逊CTO在对话中表示，公司并未停止招聘初级工程师，同时透露团队正在关注中国开放模型。这一表态有助于缓解外界对AI冲击初级技术岗位的担忧，也显示中国开源模型正受到国际大厂注意。",
         "generatedAt": "2026-10-22T01:48:30+08:00"
-      }
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "8b3dcb15f7a3dd4b",
+      "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+      "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits",
+      "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T02:20:40+08:00",
+      "fetchedAt": "2026-10-22T06:02:44+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center"
+      ],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "法院驳回特朗普政府主张：EPA无权单方面撤销数据中心污染诉讼",
+        "takeaway": "联邦法官裁定EPA不能单方面撤销针对SpaceXAI数据中心污染诉讼，明确行政权力边界。",
+        "bullets": [
+          "法官驳回特朗普政府关于EPA可单方面撤销诉讼的主张。",
+          "案件涉及SpaceXAI数据中心涉嫌污染，诉讼将继续进行。",
+          "裁决强调行政机构无权随意终止环境诉讼，影响监管权威。"
+        ],
+        "detail": "联邦法官裁定，特朗普政府的环保署不能单方面撤销针对SpaceXAI数据中心污染的诉讼。法院认为EPA没有法律权限直接驳回此类案件，诉讼将继续推进。这一裁决限制了行政机构干预环境诉讼的能力。",
+        "generatedAt": "2026-10-22T06:03:03+08:00"
+      },
+      "pushedAt": "2026-10-22T06:03:05+08:00"
     }
   ],
   "topic": "ai"
