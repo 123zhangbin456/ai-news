@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updatedAt": "2026-10-21T01:40:20+08:00",
+  "updatedAt": "2026-10-21T21:16:12+08:00",
   "items": [
     {
       "id": "87c5cb39af2eeb6f",
@@ -34,6 +34,77 @@
         ],
         "detail": "植物并非沉默，它们通过茎秆中微弱的电流传递信息。Electric Plant 公司开发了一款AI翻译工具，旨在解读这些电信号，让人类能“听懂”植物在说什么。",
         "generatedAt": "2026-10-21T01:40:16+08:00"
+      }
+    },
+    {
+      "id": "cf8c5844437cd109",
+      "title": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+      "url": "https://infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T02:00:00+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "应用",
+        "落地"
+      ],
+      "confidence": 0.4,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "制造业AI从试点走向规模化，高管支持成关键",
+        "takeaway": "制造业AI落地进入规模化阶段，领导者需推动应用并争取高管层支持。",
+        "bullets": [
+          "聚焦制造业AI从试点到规模化落地的路径",
+          "强调企业领导者推动AI应用的作用",
+          "高管层支持被视为AI规模化的重要条件"
+        ],
+        "detail": "文章讨论制造业企业如何把AI从试点项目推进到规模化应用，并指出领导者在这一过程中的推动作用，以及赢得高管层支持对落地的重要性。",
+        "generatedAt": "2026-10-21T21:16:08+08:00"
+      }
+    },
+    {
+      "id": "12874d6d1a40c47b",
+      "title": "对象存储正在“吃掉”Kafka？Cloudflare 用 R2 重做事件流",
+      "url": "https://infoq.cn/article/hEHy8XHKyfwKuyIhpyFe",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T01:12:00+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cloudflare 用 R2 对象存储重做事件流，Kafka 会被取代吗？",
+        "takeaway": "Cloudflare 尝试用对象存储 R2 承载事件流，挑战 Kafka 在消息队列中的主流地位。",
+        "bullets": [
+          "Cloudflare 基于 R2 对象存储构建事件流方案",
+          "目标指向 Kafka 主导的消息队列场景",
+          "对象存储能否替代专用消息系统引发讨论"
+        ],
+        "detail": "Cloudflare 提出用 R2 对象存储来做事件流，而不是依赖 Kafka 这类专用消息系统。这一思路把存储和流处理结合，引发对对象存储是否会蚕食 Kafka 应用场景的讨论。",
+        "generatedAt": "2026-10-21T21:16:09+08:00"
       }
     }
   ],

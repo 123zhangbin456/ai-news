@@ -1,7 +1,43 @@
 {
   "date": "2026-10-21",
-  "updatedAt": "2026-10-21T15:50:27+08:00",
+  "updatedAt": "2026-10-21T21:16:12+08:00",
   "items": [
+    {
+      "id": "61f4d0141ff303c0",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T20:00:00+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 0,
+      "score": 65,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 前沿模型与 Codex 将登陆 Google Cloud",
+        "takeaway": "OpenAI 模型首次进入 Google Cloud 的 Gemini Model Garden，企业可通过 Marketplace 直接调用。",
+        "bullets": [
+          "OpenAI 前沿模型和 Codex 工作流将上架 Gemini Model Garden",
+          "用户可通过 Google Cloud Marketplace 获取，简化采购流程",
+          "这是 OpenAI 与 Google Cloud 的首次模型分发合作"
+        ],
+        "detail": "OpenAI 与 Google Cloud 达成合作，将把 OpenAI 的前沿模型和 Codex 工作流引入 Gemini 的 Model Garden，并通过 Google Cloud Marketplace 提供。这意味着企业客户可以在 Google Cloud 上直接使用 OpenAI 的模型能力。",
+        "generatedAt": "2026-10-21T21:16:01+08:00"
+      }
+    },
     {
       "id": "aeaa448f66c5e86e",
       "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
@@ -595,6 +631,43 @@
       }
     },
     {
+      "id": "38715d90bd30f009",
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T20:51:24+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "series"
+      ],
+      "confidence": 0,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达发布Kumo Forecast：预训练时序模型结合历史模式检索",
+        "takeaway": "英伟达推出Kumo Forecast，将预训练时序表示与历史模式检索结合，提升预测可解释性。",
+        "bullets": [
+          "英伟达发布Kumo Forecast时序预测新方法",
+          "融合预训练表示与历史模式检索",
+          "强调预测结果的可解释性",
+          "面向时间序列预测场景"
+        ],
+        "detail": "英伟达在Hugging Face上发布了Kumo Forecast，该方法将预训练的时序表示与历史模式检索相结合，并注重预测的可解释性。这有助于提升时间序列预测的准确性和透明度。",
+        "generatedAt": "2026-10-21T21:16:01+08:00"
+      }
+    },
+    {
       "id": "4168438b63a2e8e2",
       "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
       "url": "https://theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
@@ -956,6 +1029,117 @@
       }
     },
     {
+      "id": "68c1d6e8e445807e",
+      "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+      "url": "https://wired.com/story/openai-startup-brain-implants-detect-cancer",
+      "summary": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T18:30:00+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 投资脑植入物检测癌症初创公司",
+        "takeaway": "OpenAI 押注脑数据领域，投资用脑植入物检测癌症的初创公司，反映 AI 公司对脑数据兴趣渐浓。",
+        "bullets": [
+          "OpenAI 投资一家利用脑植入物检测癌症的初创公司。",
+          "这是 AI 公司对脑数据领域日益增长的投资浪潮中的最新一笔。",
+          "交易细节未披露，但显示 AI 与医疗健康交叉领域受关注。"
+        ],
+        "detail": "OpenAI 投资了一家开发脑植入物以检测癌症的初创公司。这是 AI 公司纷纷押注脑数据的最新案例，表明 AI 在医疗诊断领域的探索正在加速。",
+        "generatedAt": "2026-10-21T21:16:01+08:00"
+      }
+    },
+    {
+      "id": "6249a740a130f2d2",
+      "title": "IDC最新报告：阿里云占中国汽车公共云市场份额超45%",
+      "url": "https://leiphone.com/category/industrynews/L23qmcHSvNTiUNii.html",
+      "summary": "根据国际数据公司（IDC）最新发布的《中国汽车云市场（2026年上半年）跟踪》报告，2026年上半年中国汽车公共云基础设施市场规模约83.4亿元人民币。其中，阿里云市场份额达45.1%，接近半壁江山，在该市场的收入同比增长111%。这也是自2021年起，阿里云已连续11期位居中国汽车公共云基础设施市场第一。随着大模型在智能座舱、智能辅助驾驶等场景中加速落地，汽车行业对算力资源与AI技术的需求持续增长。阿里云作为提供全栈人工智能服务的全球领导者，凭借以千问大模型、平头哥自研AI…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T17:28:00+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 0.25,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "IDC：阿里云占中国汽车公共云市场45.1%，收入翻倍",
+        "takeaway": "2026上半年中国汽车公共云规模83.4亿元，阿里云近半份额且同比增111%，连续11期第一。",
+        "bullets": [
+          "2026上半年中国汽车公共云基础设施市场约83.4亿元",
+          "阿里云份额45.1%，收入同比增长111%",
+          "自2021年起连续11期位居该市场第一",
+          "大模型上车带动车企算力与AI需求增长"
+        ],
+        "detail": "IDC报告显示，2026年上半年中国汽车公共云基础设施市场规模约83.4亿元，阿里云以45.1%的份额接近半壁江山，收入同比翻倍增长。自2021年起，阿里云已连续11期排名第一。智能座舱和辅助驾驶加速落地大模型，车企对算力和AI服务的需求持续上升。",
+        "generatedAt": "2026-10-21T21:16:03+08:00"
+      }
+    },
+    {
+      "id": "73861ef97b2d1446",
+      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+      "url": "https://qbitai.com/2026/10/504730.html",
+      "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T17:45:22+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 43,
+      "related": [
+        {
+          "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+          "url": "https://leiphone.com/category/industrynews/kgEaqVuNRRnvxpfp.html",
+          "source": "雷锋网"
+        }
+      ],
+      "pushed": false,
+      "interpret": {
+        "headline": "生数科技直播世界模型Motubrain 2.0训练全流程",
+        "takeaway": "生数科技把世界模型训练全过程搬上直播，持续半个月，AI研发少见地公开透明。",
+        "bullets": [
+          "10月21日起直播Motubrain 2.0训练全流程",
+          "由生数科技世界模型团队主导，为期半个月",
+          "面向Physical AI方向，展示训练各环节"
+        ],
+        "detail": "生数科技世界模型团队从10月21日开始，公开直播Motubrain 2.0的训练全流程，持续半个月。观众可以看到Physical AI模型训练过程中的各个环节，这种长时间公开研发细节的做法在业内并不多见。",
+        "generatedAt": "2026-10-21T21:16:03+08:00"
+      }
+    },
+    {
       "id": "ee1c454193a7651e",
       "title": "17岁Kimi前研究员陈广宇被曝投奔Jeff Dean创业团队，新公司正寻求500亿美元估值",
       "url": "https://infoq.cn/article/yH0DHL8Nil26ES43TeF1",
@@ -1173,6 +1357,44 @@
       }
     },
     {
+      "id": "9fbf6acb35d69566",
+      "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+      "url": "https://wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse",
+      "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T20:35:00+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "feature",
+        "assistant",
+        "users"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta AI助手Muse分享链接存设计缺陷，泄露用户私密对话",
+        "takeaway": "Meta的AI助手Muse因分享链接设计缺陷泄露用户敏感对话，已暂停该功能。",
+        "bullets": [
+          "安全研究人员发现分享链接易被访问，导致敏感信息泄露。",
+          "Meta已暂停Muse的分享功能，防止进一步暴露。",
+          "事件涉及使用Muse分享对话的用户，隐私风险引发关注。"
+        ],
+        "detail": "安全研究人员发现，Meta的AI助手Muse的分享链接存在设计缺陷，使得他人能够轻易访问用户与AI分享的敏感信息。为此，Meta已暂停该功能，以避免更多用户隐私泄露。",
+        "generatedAt": "2026-10-21T21:16:03+08:00"
+      }
+    },
+    {
       "id": "ca293d8533a3487d",
       "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
       "url": "https://huggingface.co/blog/allenai/fairstress",
@@ -1385,6 +1607,76 @@
       }
     },
     {
+      "id": "0c073ae221e10ce2",
+      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+      "url": "https://qbitai.com/2026/10/504734.html",
+      "summary": "医疗AI质变时刻",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T19:30:59+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "清华AIR孵化医疗AI：多智能体协同，医生AI分身坐诊医院",
+        "takeaway": "清华AIR孵化项目用多智能体协同重构医疗AI，让医生AI分身在医院坐诊，或推动医疗AI质变。",
+        "bullets": [
+          "清华AIR孵化项目推出多智能体协同医疗AI",
+          "医生AI分身可在医院“坐诊”",
+          "被指医疗AI质变时刻，或改变诊疗模式"
+        ],
+        "detail": "量子位报道，清华AIR孵化的项目通过多智能体协同技术重构医疗AI，让医生的AI分身能在医院“坐诊”。这被视为医疗AI的质变时刻，可能提升诊疗效率。",
+        "generatedAt": "2026-10-21T21:16:04+08:00"
+      }
+    },
+    {
+      "id": "c46f106d9ac63bf6",
+      "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+      "url": "https://qbitai.com/2026/10/504653.html",
+      "summary": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T15:15:05+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "预测"
+      ],
+      "confidence": 0.33,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "LeCun押注的世界模型，中国清华系公司已落地机器人",
+        "takeaway": "千诀科技在世界模型隐变量可辨识性上的研究早于LeCun相近工作一年，并已用于机器人。",
+        "bullets": [
+          "千诀科技为清华系公司，专注世界模型与机器人结合。",
+          "其隐变量可辨识性研究比LeCun相近工作早一年。",
+          "技术不堆画面预测，主打物理规律与跨本体复用。"
+        ],
+        "detail": "量子位报道，LeCun看好的世界模型方向，中国清华系公司千诀科技已将其做进机器人。该公司在隐变量可辨识性上的研究比LeCun相近工作早一年，且不依赖画面预测，强调物理规律与跨本体复用。",
+        "generatedAt": "2026-10-21T21:16:05+08:00"
+      }
+    },
+    {
       "id": "ab9dee7fb156cbef",
       "title": "Eagle-4 Released: Faster than DFlash2 & DSpark",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xb6zds/eagle4_released_faster_than_dflash2_dspark",
@@ -1492,6 +1784,81 @@
       }
     },
     {
+      "id": "aeda14333c442e90",
+      "title": "Open Inference Code Narrows the Gap Between Rival AI Chips",
+      "url": "https://tmtpost.com/8176740.html",
+      "summary": "DeepSeek released serving software that builds for Huawei accelerators and Nvidia GPUs from one codebase. In China, where boards are scarce and token traffic is rising, that choice could reshape how teams pick hardware—if live traffic backs…",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T18:29:05+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chips",
+        "GPUs",
+        "NVIDIA"
+      ],
+      "confidence": 0.87,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek开源推理代码，一套代码同时适配华为与英伟达芯片",
+        "takeaway": "DeepSeek发布推理服务软件，同一代码库可编译到华为加速器和英伟达GPU，或降低国产芯片使用门槛。",
+        "bullets": [
+          "DeepSeek推出推理服务软件，一套代码库同时支持华为加速器和英伟达GPU。",
+          "在中国，芯片板卡稀缺且token流量上升，这一选择可能改变团队选硬件的逻辑。",
+          "实际效果仍需线上流量验证，但已为国产芯片生态提供新路径。"
+        ],
+        "detail": "DeepSeek发布了推理服务软件，同一套代码库既能编译到华为加速器，也能编译到英伟达GPU。在中国板卡供应紧张、token流量持续增长的情况下，这种兼容性可能影响团队如何选择硬件，但最终效果还要看真实流量下的表现。",
+        "generatedAt": "2026-10-21T21:16:05+08:00"
+      }
+    },
+    {
+      "id": "a83e74026dad6730",
+      "title": "ApiGo 5.4.0发布，加固安全认证",
+      "url": "https://oschina.net/news/503138",
+      "summary": "ApiGo 5.2.0：接口认证新增 OAuth2 与企业 IdP JWT 两种方式 ApiGo 做的事没变——把 ERP、CRM 这类企业存量系统的数据封装成标准 REST API 和 MCP 工具，让 AI 智能体在安全管控下访问。这次更新动的是\"谁能访问\"这一层：在原有的AppKey认证、签名认证之外，新增了 OAuth2 客户端凭证和企业 IdP JWT 两种企业内部更常用...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T15:45:23+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0.67,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ApiGo 5.4.0 发布：新增 OAuth2 与企业 IdP JWT 认证",
+        "takeaway": "ApiGo 把企业系统数据封装成 API 和 MCP 工具，这次更新强化了 AI 智能体访问时的身份认证。",
+        "bullets": [
+          "新增 OAuth2 客户端凭证认证方式",
+          "支持企业 IdP JWT 认证",
+          "在原有 AppKey 和签名认证基础上扩展",
+          "让 AI 智能体访问企业数据更安全可控"
+        ],
+        "detail": "ApiGo 的核心功能不变：把 ERP、CRM 等企业存量系统数据封装成标准 REST API 和 MCP 工具，供 AI 智能体在安全管控下访问。本次更新聚焦“谁能访问”这一层，在 AppKey 认证和签名认证之外，新增了 OAuth2 客户端凭证和企业 IdP JWT 两种企业内部更常用的认证方式。",
+        "generatedAt": "2026-10-21T21:16:06+08:00"
+      }
+    },
+    {
       "id": "b81d1c3120516748",
       "title": "Agnes-AI/Agnes-3.0-Qwen (QFN finetune)",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xaxz80/agnesaiagnes30qwen_qfn_finetune",
@@ -1566,6 +1933,42 @@
       }
     },
     {
+      "id": "6f002022acff38d8",
+      "title": "InternScience/Sage-A1.5 [Finetune of Qwen 3.6 35b-a3b]",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xbi1hj/internsciencesagea15_finetune_of_qwen_36_35ba3b",
+      "summary": "Gguf's: https://huggingface.co/InternScience/Sage-A1.5-Q4_K_M-GGUF https://huggingface.co/InternScience/Sage-A1.5-Q8_0-GGUF \" Sage‑A1.5 is a 35B Mixture‑of‑Experts agentic model based on Qwen3.6-35B-A3B from Shanghai AI Laboratory, built to…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T16:59:41+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "上海AI实验室发布Sage-A1.5：基于Qwen3.6的35B MoE智能体模型",
+        "takeaway": "InternScience推出Sage-A1.5，基于Qwen3.6-35B-A3B微调的智能体模型，并已提供GGUF量化版本。",
+        "bullets": [
+          "Sage-A1.5是35B混合专家（MoE）智能体模型，基于Qwen3.6-35B-A3B微调。",
+          "由上海AI实验室（InternScience）推出，面向智能体任务。",
+          "已发布Q4_K_M和Q8_0两种GGUF量化版本，方便本地部署。"
+        ],
+        "detail": "Sage-A1.5是上海AI实验室基于Qwen3.6-35B-A3B微调的35B混合专家智能体模型，专为智能体场景设计。该模型已在Hugging Face上发布Q4_K_M和Q8_0两种GGUF量化版本，便于本地运行。",
+        "generatedAt": "2026-10-21T21:16:07+08:00"
+      }
+    },
+    {
       "id": "6b7d106404376531",
       "title": "XHToken/Spark-X2.6-4B · Hugging Face",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xb0nr9/xhtokensparkx264b_hugging_face",
@@ -1634,6 +2037,42 @@
         ],
         "detail": "TorchTPU是谷歌和Meta合作的开源项目，为谷歌TPU打造了原生的PyTorch后端。它采用即时执行与编译混合的架构，让PyTorch模型无需额外适配就能直接在TPU上运行，简化了跨硬件部署流程。",
         "generatedAt": "2026-10-21T15:50:24+08:00"
+      }
+    },
+    {
+      "id": "3bedc2e80f6c2cdc",
+      "title": "当Agent“有工号”：从一人一工具到一人一团队，组织如何做好AI时代的分工与协作？",
+      "url": "https://leiphone.com/category/industrynews/wiMNbdfLr54ciVBE.html",
+      "summary": "智能体也开始领“工号”了。8月31日，张江科学之门模力社区， 智能体身份码节点管理平台正式上线，30家单位参与节点发放。越来越多的智能体将拥有可识别、可管理的数字身份。但当Agent从个人电脑里的工具，变成能够跨系统调用、参与业务流程的“数字同事”，一个比技术更现实的问题随之浮现：谁给它派活，谁来验收成果，出了问题又由谁担责？这道题，考验的已不只是智能体的能力，更是组织的管理能力。图1张江科学之门模力社区，身份码节点管理平台正式上线活动现场，上海市人工智能行业协会与中国电子技…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T14:14:00+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "上线"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "智能体开始领“工号”：AI 协作进入组织管理时代",
+        "takeaway": "智能体身份码平台上线，Agent 从个人工具变为可管理的“数字同事”，组织分工与责任归属成新课题。",
+        "bullets": [
+          "8月31日智能体身份码节点管理平台上线，30家单位参与节点发放。",
+          "智能体将拥有可识别、可管理的数字身份，能跨系统调用并参与业务流程。",
+          "谁派活、谁验收、谁担责成为比技术更现实的组织管理问题。"
+        ],
+        "detail": "智能体也开始领“工号”了。8月31日，张江科学之门模力社区上线智能体身份码节点管理平台，30家单位参与节点发放。当 Agent 从个人电脑里的工具变成跨系统调用、参与业务流程的“数字同事”，派活、验收和担责等管理问题随之浮现，考验的不只是智能体能力，更是组织管理能力。",
+        "generatedAt": "2026-10-21T21:16:08+08:00"
       }
     },
     {
@@ -1974,6 +2413,112 @@
       "pushed": false
     },
     {
+      "id": "8b427c4ddce6e790",
+      "title": "金融智能分析本体：四大核心要素与五条建设路线",
+      "url": "https://infoq.cn/article/Be94YQbRtbWj3pzZ9rSh",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T24:13:17+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "金融智能分析本体：四大要素与五条建设路线",
+        "takeaway": "InfoQ 中国介绍金融智能分析本体的核心构成与落地路径，为金融机构搭建智能分析体系提供参考框架。",
+        "bullets": [
+          "提出金融智能分析本体的四大核心要素",
+          "给出五条本体建设路线供机构选择",
+          "面向金融场景的智能分析体系搭建参考"
+        ],
+        "detail": "InfoQ 中国刊文梳理金融智能分析本体，归纳出四大核心要素，并总结五条建设路线。文章面向金融机构，讨论如何围绕本体组织数据与分析能力，为智能分析落地提供框架性思路。",
+        "generatedAt": "2026-10-21T21:16:10+08:00"
+      }
+    },
+    {
+      "id": "01ee749b3329d27c",
+      "title": "电商巨头的AI战略分野：阿里抢算力，京东抢扳手",
+      "url": "https://tmtpost.com/8176414.html",
+      "summary": "阿里和京东的分野，表面是技术路线不同，实际是两家公司各自从最熟悉的资产出发。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T17:36:12+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阿里抢算力，京东抢扳手：电商AI战略分野",
+        "takeaway": "阿里和京东的AI路线差异，本质是从各自最熟悉的资产出发，而非单纯技术选择。",
+        "bullets": [
+          "阿里侧重算力布局，京东侧重工具（扳手）方向",
+          "表面是技术路线不同，实际是资产禀赋驱动",
+          "两家公司均从自身最熟悉的领域切入AI"
+        ],
+        "detail": "阿里和京东在AI战略上出现明显分野：阿里抢算力，京东抢扳手。这种差异表面看是技术路线不同，实际是两家公司各自从最熟悉的资产出发做出的选择。",
+        "generatedAt": "2026-10-21T21:16:11+08:00"
+      }
+    },
+    {
+      "id": "29924a5e1aac983a",
+      "title": "KRAFTON/Raon-1-mini-preview · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xbh0ev/kraftonraon1minipreview_hugging_face",
+      "summary": "Raon-1 mini is a 30B-A4B Mixture-of-Experts (MoE) language model, designed and trained from scratch by KRAFTON AI . It demonstrates strong capabilities in Korean conversation and agentic tasks . As part of the Raon open model family, it is …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T15:54:08+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "preview"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "KRAFTON 发布 Raon-1 mini 预览版：30B-A4B MoE 模型",
+        "takeaway": "KRAFTON AI 从零训练 30B-A4B MoE 模型，韩语对话与智能体任务表现突出。",
+        "bullets": [
+          "KRAFTON AI 从零设计并训练 Raon-1 mini 模型",
+          "采用 30B-A4B 混合专家架构，属 Raon 开放模型家族",
+          "在韩语对话和智能体任务上展现较强能力"
+        ],
+        "detail": "KRAFTON AI 推出 Raon-1 mini 预览版，这是一个 30B-A4B 的混合专家语言模型，完全从零训练。它在韩语对话和智能体任务上表现强劲，是 Raon 开放模型系列的一部分。",
+        "generatedAt": "2026-10-21T21:16:11+08:00"
+      }
+    },
+    {
       "id": "afe5d96a9d4684fb",
       "title": "Voxtral 3",
       "url": "https://mistral.ai/news/voxtral-3",
@@ -2043,6 +2588,108 @@
       ],
       "confidence": 1,
       "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a69d1e05218cb727",
+      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
+      "url": "https://wired.com/story/europe-data-centers-climate-change",
+      "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T16:30:00+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8428fd8801f03b4d",
+      "title": "I built a small on-device voice front-end for local assistants: type any wake word, keep only your voice before STT (5 models, 7.5 MB, Apache-2.0, early preview)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xbmhct/i_built_a_small_ondevice_voice_frontend_for_local",
+      "summary": "Hi r/LocalLLaMA , A bit about me first: my day job is building LLM systems in production, a tool-calling assistant with its RAG, and two audio-heavy pipelines. The first turns a company's latest content into a two-host radio show in several…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T20:59:41+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "apache"
+      ],
+      "confidence": 0.33,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "48591f7b27b1f90e",
+      "title": "真机实干，产训一体：具身智能的下一座基础设施，为什么是“实景实训平台”？",
+      "url": "https://leiphone.com/category/industrynews/uxVZGVMwc8JuD0Px.html",
+      "summary": "机器人在哪里练，练成后用在哪里？越来越多的探索指向同一个答案：把训练放进真实的工位，这就是“实景实训平台”。据中国信息通信研究院《具身智能训练场研究报告（2026年）》及多家机构测算，训练通用具身模型至少需要千万小时级真实交互数据，而目前全球可用的高质量真机具身语料仅在百万小时量级，相差约一个数量级。若主要依靠专家遥控真机采集，产出往往不过每天数十小时。缺的不是又一间展厅，而是能把采集、标注、训练、部署失败样本再送回去的数据流水线。在张江的觅蜂科技实训实验室，00后数据采集组…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T14:53:00+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "研究",
+        "实验"
+      ],
+      "confidence": 0.5,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "242eb8588db337dc",
+      "title": "一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？",
+      "url": "https://leiphone.com/category/industrynews/me3CuOBHyOqL14Pd.html",
+      "summary": "质检线上，一台人形机器人从料框里取出平板，送进检测柜；完成检测后，再将成品分流。抓取入柜、多项目质检、成品分拣，机器人与工人同线作业，一气呵成。一次看似简单的抓取，背后串联起感知、判断与执行。在智元2026年9月公开的具身模型中，一帧画面可编码为24个视觉词元（Token）；相关实验还展示了模型生成连续动作的低延迟能力。但若要算清抓取的成本，不能只数视觉词元，还需综合推理耗时、芯片功耗、执行成功率和设备投入。这恰好引出智能经济的两块硬成本：一端是模型处理信息的词元用量，另一端…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T14:29:00+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "算力"
+      ],
+      "confidence": 0.83,
+      "score": 33,
       "related": [],
       "pushed": false
     },
@@ -2329,6 +2976,125 @@
       "confidence": 1,
       "score": 30,
       "paperRank": 15,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "88e04222ed76a852",
+      "title": "AI 泡沫监测·之一：债务层已经先动了",
+      "url": "https://tmtpost.com/8175985.html",
+      "summary": "判断 AI 泡沫别盯股价，盯债：CoreWeave 债券 76 美分，甲骨文 CDS 创历史新高，私募信贷在挤兑——债务层已经先动了。四张考卷已出，10 月 27 日财报周交卷，对账见。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T17:49:23+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1365ad6db8f8867b",
+      "title": "数字造星时代来临，流水线式AI艺人能挣到谁的钱？",
+      "url": "https://tmtpost.com/8176501.html",
+      "summary": "观众究竟为什么要为一张AI脸买单？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T17:36:33+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c13dd12409e61fb9",
+      "title": "智能体手机加速爆发？换机困境、端侧AI与下一代入口之争",
+      "url": "https://tmtpost.com/8176382.html",
+      "summary": "手机需要“新故事”。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T17:36:18+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "76f9c54918a11783",
+      "title": "[Paper] Specter: Fast MoE Inference via Quantization-Enabled Multi-Step Speculative Offloading",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xbj6an/paper_specter_fast_moe_inference_via",
+      "summary": "Mixture-of-experts (MoE) models often exceed a single accelerator's memory capacity. Offloading experts to host memory creates a severe PCIe I/O bottleneck because data-dependent routing keeps transfers on the critical path. We present Spec…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T18:09:24+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "paper"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8f84a0b3f336f38b",
+      "title": "[Paper] TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xbkzll/paper_tokengate_adapting_llms_for_fast_and",
+      "summary": "Expert human readers process large inputs (e.g., code repositories and long documents) by skimming to closely read only what matters. On the other hand, language models process all input tokens through each model layer, resulting in signifi…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T19:49:21+08:00",
+      "fetchedAt": "2026-10-21T21:15:47+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "paper"
+      ],
+      "confidence": 1,
+      "score": 30,
       "related": [],
       "pushed": false
     },
