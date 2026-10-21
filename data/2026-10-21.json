@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updatedAt": "2026-10-21T09:18:43+08:00",
+  "updatedAt": "2026-10-21T10:06:05+08:00",
   "items": [
     {
       "id": "aeaa448f66c5e86e",
@@ -553,6 +553,46 @@
       }
     },
     {
+      "id": "4bd4466217fa72e3",
+      "title": "How to squeeze the Max Token from M1 Max 64gb?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xb9ax1/how_to_squeeze_the_max_token_from_m1_max_64gb",
+      "summary": "For last 9 ​months, been using cloud frontier 99% the from Gemini Flash Pro, Claude, Deepseek, ​Groq & Cerebras. Ready to give 32B, 70B, 120B another try. Was getting decent 45 token/sec on 7B Llama MLX, but 7B is too simple for most task. …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T08:51:56+08:00",
+      "fetchedAt": "2026-10-21T10:05:58+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude",
+        "Gemini",
+        "Llama",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "M1 Max 64GB 如何榨出最大 token 吞吐？",
+        "takeaway": "用户想从云端转回本地，在 M1 Max 上跑 32B～120B 模型，寻求提速经验。",
+        "bullets": [
+          "发帖人过去 9 个月几乎全用云端前沿模型",
+          "7B Llama MLX 约 45 token/秒，但能力不够用",
+          "想重新尝试 32B、70B、120B 本地模型",
+          "核心问题是 M1 Max 64GB 上如何最大化 token 速度"
+        ],
+        "detail": "这位用户长期依赖 Gemini、Claude、Deepseek 等云端服务，现在想回归本地推理。他用 MLX 跑 7B Llama 能到约 45 token/秒，但觉得 7B 太简单，想试试 32B 到 120B 的模型，于是发帖请教如何在 M1 Max 64GB 上榨出最高 token 吞吐。",
+        "generatedAt": "2026-10-21T10:06:03+08:00"
+      }
+    },
+    {
       "id": "190687157a4d4168",
       "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
       "url": "https://wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot",
@@ -911,6 +951,44 @@
       }
     },
     {
+      "id": "e9186e33f7fbcae6",
+      "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xb9z8e/exclusive_bytedance_alibaba_tencent_place_over_35",
+      "summary": "China just ordered 3mil RTX 5500 Pro for $11.4 a pop. Probably for llm inference and AI video gen. I suppose this card is now out of reach for local llm. submitted by /u/Ok_Warning2146 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T09:24:31+08:00",
+      "fetchedAt": "2026-10-21T10:05:58+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip",
+        "NVIDIA"
+      ],
+      "confidence": 0.71,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "字节、阿里、腾讯向英伟达下单超350亿美元芯片",
+        "takeaway": "中国三大互联网巨头集体采购英伟达芯片，规模空前，凸显AI算力军备竞赛加剧。",
+        "bullets": [
+          "字节跳动、阿里巴巴、腾讯合计下单超350亿美元英伟达芯片。",
+          "据称其中包含300万块RTX 5500 Pro，单价约11.4美元。",
+          "这批芯片可能用于大模型推理和AI视频生成。",
+          "个人开发者获取该型号显卡的难度可能加大。"
+        ],
+        "detail": "据外媒独家消息，字节跳动、阿里巴巴和腾讯已向英伟达下达总价值超过350亿美元的芯片订单。社区讨论提到，其中包含约300万块RTX 5500 Pro，单价11.4美元，推测主要用于大语言模型推理和AI视频生成。如此大规模的采购可能挤压零售市场，个人用户更难买到该型号显卡。",
+        "generatedAt": "2026-10-21T10:06:04+08:00"
+      }
+    },
+    {
       "id": "6b7d106404376531",
       "title": "XHToken/Spark-X2.6-4B · Hugging Face",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xb0nr9/xhtokensparkx264b_hugging_face",
@@ -1049,6 +1127,76 @@
       }
     },
     {
+      "id": "3bac377301efc936",
+      "title": "美团企业级 Agent 的平台化应用实践｜QCon上海",
+      "url": "https://infoq.cn/article/BQJltkL1FJ9AG3cMeUmB",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T18:00:00+08:00",
+      "fetchedAt": "2026-10-21T10:05:58+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "应用"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "美团企业级 Agent 平台化实践亮相 QCon 上海",
+        "takeaway": "美团分享企业级 Agent 平台化应用经验，为行业提供落地参考。",
+        "bullets": [
+          "美团在 QCon 上海分享企业级 Agent 平台化实践",
+          "内容聚焦平台化应用，面向企业级场景",
+          "为关注 Agent 落地的开发者提供参考"
+        ],
+        "detail": "在 QCon 上海站，美团介绍了其企业级 Agent 的平台化应用实践。分享围绕如何将 Agent 能力平台化并应用于企业场景展开，为相关从业者提供参考。",
+        "generatedAt": "2026-10-21T10:06:03+08:00"
+      }
+    },
+    {
+      "id": "eed623b601b8fc15",
+      "title": "Grab 日均 10 亿次请求换掉旧存储，P99 延迟降低 50%",
+      "url": "https://infoq.cn/article/39xM9CkCb4jcZ9yra6o6",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T17:21:00+08:00",
+      "fetchedAt": "2026-10-21T10:05:58+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Grab 日均 10 亿次请求迁移存储，P99 延迟降低 50%",
+        "takeaway": "Grab 在日均 10 亿次请求规模下完成旧存储替换，P99 延迟降低一半，值得关注大规模系统迁移的实践。",
+        "bullets": [
+          "Grab 日均处理 10 亿次请求，完成旧存储系统替换",
+          "迁移后 P99 延迟降低 50%",
+          "为大规模系统存储迁移提供参考案例"
+        ],
+        "detail": "Grab 在日均 10 亿次请求的负载下，把旧存储系统换掉，迁移后 P99 延迟降低了一半。这说明大规模存储迁移可以兼顾性能提升，对做高并发系统的团队有参考价值。",
+        "generatedAt": "2026-10-21T10:06:04+08:00"
+      }
+    },
+    {
       "id": "afe5d96a9d4684fb",
       "title": "Voxtral 3",
       "url": "https://mistral.ai/news/voxtral-3",
@@ -1160,6 +1308,52 @@
       "topic": "ai",
       "publishedAt": "2026-10-21T08:51:05+08:00",
       "fetchedAt": "2026-10-21T09:18:32+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "468191ab2d6a051f",
+      "title": "AI办公，最不重要的是中场战事",
+      "url": "https://tmtpost.com/8175019.html",
+      "summary": "AI办公的竞逐，远比我们每一个人所想象的更为精彩，也更加漫长。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T09:36:30+08:00",
+      "fetchedAt": "2026-10-21T10:05:58+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "46e5a59309046e6e",
+      "title": "错失AI的王兴兴们，正在争抢进厂的最后窗口",
+      "url": "https://tmtpost.com/8174997.html",
+      "summary": "打法变了。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-21T09:21:56+08:00",
+      "fetchedAt": "2026-10-21T10:05:58+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
