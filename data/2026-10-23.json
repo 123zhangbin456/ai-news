@@ -1,7 +1,44 @@
 {
   "date": "2026-10-23",
-  "updatedAt": "2026-10-22T21:03:54+08:00",
+  "updatedAt": "2026-10-23T01:47:05+08:00",
   "items": [
+    {
+      "id": "374464c5687b489e",
+      "title": "DeepSeek and MiniMax Clear China’s AI Export Rules for Overseas Open-Source Releases",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xcoelw/deepseek_and_minimax_clear_chinas_ai_export_rules",
+      "summary": "On October 22, Chinese media reported that DeepSeek and MiniMax have officially completed the required registration filings under China’s new temporary AI export regulations. By submitting their technologies for cross-border review, both co…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T01:07:31+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "releases",
+        "DeepSeek"
+      ],
+      "confidence": 0,
+      "score": 66,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 与 MiniMax 完成 AI 出口备案，可向海外开源发布",
+        "takeaway": "两家中国大模型公司通过跨境审查备案，为海外开源发布扫清合规障碍。",
+        "bullets": [
+          "DeepSeek 和 MiniMax 已完成中国 AI 出口新规要求的登记备案",
+          "备案涉及技术跨境审查，是海外开源发布的前置条件",
+          "此举为其他中国模型厂商提供合规范本"
+        ],
+        "detail": "据中国媒体 10 月 22 日报道，DeepSeek 与 MiniMax 已按中国临时 AI 出口法规完成登记备案，将技术提交跨境审查。这意味着两家公司可合规地向海外开源发布模型，也为同行提供了参考路径。",
+        "generatedAt": "2026-10-23T01:46:51+08:00"
+      }
+    },
     {
       "id": "b675dbd13367cd6b",
       "title": "又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV",
@@ -39,6 +76,42 @@
       }
     },
     {
+      "id": "eaa0ebff7daf626e",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T24:11:31+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "state-of-the-art"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OlmoEarth v1.3 发布：面向全球的顶尖嵌入模型",
+        "takeaway": "Hugging Face 上更新了 OlmoEarth v1.3，主打为整个地球提供最先进的嵌入表示。",
+        "bullets": [
+          "OlmoEarth v1.3 在 Hugging Face 发布，定位为全球尺度的嵌入模型。",
+          "标题强调“state-of-the-art embeddings”，但未披露具体指标或对比。",
+          "面向地球观测相关任务，可能影响遥感与地理空间 AI 应用。"
+        ],
+        "detail": "OlmoEarth v1.3 是 Hugging Face 上发布的新版本，官方称其能为整个地球提供最先进的嵌入表示。由于没有摘要，具体改进幅度、覆盖范围和评测结果尚不明确，但该方向通常与遥感、地理空间分析等任务相关。",
+        "generatedAt": "2026-10-23T01:46:54+08:00"
+      }
+    },
+    {
       "id": "dec161b773fab733",
       "title": "面向 Qwen 系列模型线性注意力的高性能优化实践",
       "url": "https://infoq.cn/article/o9OcWNkkwgKvsZmgY45d",
@@ -72,6 +145,188 @@
         ],
         "detail": "InfoQ 中国发布文章，介绍针对 Qwen 系列模型线性注意力的高性能优化实践。内容聚焦如何通过优化提升模型推理效率，具体技术方案需查看原文。",
         "generatedAt": "2026-10-22T21:03:44+08:00"
+      }
+    },
+    {
+      "id": "d1b19037538aa4f5",
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise",
+      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T24:47:17+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "customers"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "中国关联黑客借AI代理攻破ConnectWise，数千企业遭间谍活动",
+        "takeaway": "微软指控中国关联黑客利用AI代理快速入侵IT巨头ConnectWise的数千客户，企业间谍风险升级。",
+        "bullets": [
+          "微软称黑客组织利用AI代理加速攻击ConnectWise客户",
+          "攻击波及数千家企业，目的为间谍活动",
+          "事件凸显AI代理被用于自动化网络入侵的新威胁"
+        ],
+        "detail": "微软指出，一个与中国有关联的黑客组织入侵了IT服务商ConnectWise，并借助AI代理快速攻入其数千家客户企业，实施间谍活动。这起事件表明，AI代理正被用于自动化、规模化网络攻击，给企业安全带来新挑战。",
+        "generatedAt": "2026-10-23T01:46:57+08:00"
+      }
+    },
+    {
+      "id": "18837672148b90d3",
+      "title": "Someone hacked the Switch 2 by using an old game and AI",
+      "url": "https://theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve f…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T01:21:31+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Switch 2 被破解：老游戏加 AI 实现越狱",
+        "takeaway": "黑客利用旧游戏和 AI 工具破解 Switch 2，并展示运行自定义版《马力欧赛车世界》。",
+        "bullets": [
+          "破解者用旧游戏和 AI 工具绕过 Switch 2 防护",
+          "已展示运行自定义《马力欧赛车世界》",
+          "自定义版加入玉桂狗、红怒鸟、彼得·格里芬等角色",
+          "破解可能引发任天堂安全更新或法律行动"
+        ],
+        "detail": "任天堂 Switch 2 似乎已被越狱。一名模组制作者展示了主机运行自定义版《马力欧赛车世界》，其中新增了玉桂狗、红色愤怒的小鸟、彼得·格里芬和史蒂夫等可玩角色。破解手法据称结合了旧游戏和 AI 工具。",
+        "generatedAt": "2026-10-23T01:46:59+08:00"
+      }
+    },
+    {
+      "id": "cc47211c4f362eed",
+      "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+      "url": "https://theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+      "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - inc…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T24:16:15+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "莱卡工作室导演：AI 与我们的创作理念完全相悖",
+        "takeaway": "定格动画工作室莱卡导演公开反对 AI，强调手工艺术与 AI 本质冲突，引发行业对 AI 应用的讨论。",
+        "bullets": [
+          "莱卡导演称 AI 与工作室理念完全相悖",
+          "新片《Wildwood》耗时五年，使用超 230 个木偶",
+          "手工定格动画强调人工投入，与 AI 自动化对立"
+        ],
+        "detail": "莱卡工作室以《鬼妈妈》《通灵男孩诺曼》等定格动画闻名，新片《Wildwood》是迄今最具野心的作品，耗时五年完成，使用了超过 230 个木偶。导演表示，AI 与工作室的创作理念完全相悖，凸显了手工艺术与 AI 自动化之间的张力。",
+        "generatedAt": "2026-10-23T01:47:01+08:00"
+      }
+    },
+    {
+      "id": "d3c712f2c2628be1",
+      "title": "Is 128GB RAM worth it?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xcmkyh/is_128gb_ram_worth_it",
+      "summary": "I have 48GB VRAM (2x3090 24GB) and 48GB DDR4 RAM. If I get 128 GB DDR4 RAM can I run things like Deepseek V4.1 1017 and GLM 5.3 Flash at low quants with at least 20T/s or so and have it be better than Qwen 3.8 Flash Next etc? If not, is the…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T24:00:55+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "48GB显存够用吗？玩家纠结是否升级128GB内存跑大模型",
+        "takeaway": "本地跑大模型时，内存容量决定能否加载模型，显存决定速度，升级前需算清这笔账。",
+        "bullets": [
+          "用户已有双3090共48GB显存和48GB DDR4内存",
+          "想升级128GB内存跑DeepSeek、GLM低量化版本",
+          "目标是至少20 token/秒，并优于Qwen小模型",
+          "核心疑问是加内存能否弥补显存不足"
+        ],
+        "detail": "这位用户在LocalLLaMA发帖，说自己有48GB显存（两张3090）和48GB DDR4内存，想知道升级到128GB内存后，能否以低量化方式运行DeepSeek V4.1、GLM 5.3 Flash等大模型，并达到至少20 token/秒的速度，效果还比Qwen 3.8 Flash Next更好。本质上是在问：加内",
+        "generatedAt": "2026-10-23T01:47:03+08:00"
+      }
+    },
+    {
+      "id": "ee2500ed4cf475d6",
+      "title": "Ling-3.0-tiny-UBTree DFlash draft for stock mainline llama.cpp (+8% prose, +61% code speedup)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xcnsrj/ling30tinyubtree_dflash_draft_for_stock_mainline",
+      "summary": "I use Ling-3.0-tiny on my LLM server for text processing. I convert a lot of PDF documents to markdown for downstream LLM processing, and I built my custom harness for it. It uses ONNX model to parse layout, extracts text, and then runs LLM…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T24:45:30+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Ling-3.0-tiny 为 llama.cpp 主线提供 DFlash 草稿，代码提速 61%",
+        "takeaway": "社区为 llama.cpp 主线适配 Ling-3.0-tiny 草稿模型，散文提速 8%、代码提速 61%，本地推理更实用。",
+        "bullets": [
+          "作者在自建 LLM 服务器上用 Ling-3.0-tiny 处理 PDF 转 Markdown",
+          "为 stock mainline llama.cpp 提供 DFlash 草稿，提升推理速度",
+          "实测散文生成提速 8%，代码生成提速 61%",
+          "对本地部署和文档处理工作流有直接帮助"
+        ],
+        "detail": "作者用 Ling-3.0-tiny 在 LLM 服务器上做文本处理，把大量 PDF 转成 Markdown 供下游模型使用。其自建流程先用 ONNX 模型解析版面、提取文本，再交给 LLM 处理。此次为 llama.cpp 主线加入 DFlash 草稿，实测散文提速 8%、代码提速 61%。",
+        "generatedAt": "2026-10-23T01:47:03+08:00"
       }
     },
     {

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updatedAt": "2026-10-22T21:03:54+08:00",
+  "updatedAt": "2026-10-23T01:47:05+08:00",
   "items": [
     {
       "id": "1f413756a0cb0525",
@@ -41,6 +41,42 @@
       "pushedAt": "2026-10-22T06:03:05+08:00"
     },
     {
+      "id": "49b6eb261a64f99c",
+      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "url": "https://theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anth…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T23:50:30+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 65,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI、Anthropic、英伟达游说支出创季度新高",
+        "takeaway": "三家AI巨头夏季游说花费均创纪录，英伟达以220万美元居首，显示AI监管议题升温。",
+        "bullets": [
+          "OpenAI、Anthropic、英伟达7-9月游说支出均创各自季度新高",
+          "英伟达花费220万美元，为三家中最高",
+          "联邦披露文件显示，AI公司正加大政策游说力度"
+        ],
+        "detail": "联邦披露文件显示，今年7月至9月，Anthropic、OpenAI和英伟达的游说支出均创下各自季度最高纪录。其中英伟达花费220万美元，在三家中最多，Anthropic紧随其后。这反映出AI公司正积极应对监管政策。",
+        "generatedAt": "2026-10-23T01:46:51+08:00"
+      }
+    },
+    {
       "id": "7508297b3f1c0148",
       "title": "Benchmark: Recursive's Flint 40B A2.5B Q4 achieves 128 tok/s on MacBook Pro M4 Pro 48GB using Kapitsa, an open-source Apple Silicon optimized engine, Claude/Codex/Pi/OpenCode compatible.",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xcgzp4/benchmark_recursives_flint_40b_a25b_q4_achieves",
@@ -75,6 +111,44 @@
         ],
         "detail": "Kapitsa 贡献者 Ye 介绍，这款开源引擎针对苹果芯片优化，可让普通 MacBook 运行 Qwen 和 Nemotron 系列模型。实测 Flint 40B 量化版在 M4 Pro 上达到 128 tok/s，且能与多个 AI 编程工具配合使用。",
         "generatedAt": "2026-10-22T21:03:39+08:00"
+      }
+    },
+    {
+      "id": "8e16d6a954270ec1",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T21:53:26+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app",
+        "users",
+        "available"
+      ],
+      "confidence": 0.5,
+      "score": 60,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 推出 Claude Duet 应用，押注智能体",
+        "takeaway": "Anthropic 发布 Claude Duet，以候补名单形式向 Pro 和 Max 用户开放，是其布局智能体方向的产品尝试。",
+        "bullets": [
+          "Claude Duet 是 Anthropic 推出的新应用，主打智能体能力",
+          "目前仅通过候补名单开放，面向 Pro 和 Max 订阅用户",
+          "此举显示 Anthropic 正将智能体作为产品重点方向"
+        ],
+        "detail": "Anthropic 推出了名为 Claude Duet 的新应用，目前需要加入候补名单才能使用，且仅面向 Pro 和 Max 套餐用户。这款应用被视作 Anthropic 在智能体方向上的重要押注。",
+        "generatedAt": "2026-10-23T01:46:50+08:00"
       }
     },
     {
@@ -149,6 +223,42 @@
         ],
         "detail": "中电信人工智能科技有限公司星辰通用人工智能实验室发布了意图理解专用模型Xing4.0-29B-Intent，并宣布开源。该模型既能处理选择题式的意图分类，也能完成填空题式的意图槽位填充，为开发者提供更灵活的意图识别工具。",
         "generatedAt": "2026-10-22T21:03:39+08:00"
+      }
+    },
+    {
+      "id": "ba6fa07d677a8221",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T08:00:00+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "brings"
+      ],
+      "confidence": 0.75,
+      "score": 57,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Uber 向全体员工部署 ChatGPT 企业版",
+        "takeaway": "Uber 与 OpenAI 合作，为超 3 万名员工配备 ChatGPT 企业版，用于研究、数据分析与复杂工作流。",
+        "bullets": [
+          "Uber 将 ChatGPT 企业版推广至 3 万多名员工",
+          "覆盖研究、数据分析、制作演示和复杂流程",
+          "由 OpenAI 提供支持，属企业级 AI 落地案例"
+        ],
+        "detail": "Uber 正在向超过 3 万名员工推广 ChatGPT 企业版，帮助团队做调研、分析数据、制作演示文稿并完成复杂的工作流程。这是 OpenAI 企业产品在大型公司全面落地的一个案例。",
+        "generatedAt": "2026-10-23T01:46:52+08:00"
       }
     },
     {
@@ -332,6 +442,45 @@
       }
     },
     {
+      "id": "2bef5e15539918e4",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions",
+      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T21:11:13+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "funding",
+        "raises",
+        "raised",
+        "billion"
+      ],
+      "confidence": 0.81,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 据报融资 150 亿美元，美方限制后数日完成",
+        "takeaway": "DeepSeek 在美方以国家安全为由限制其技术后数日，据报完成 150 亿美元融资，为中国最大融资轮之一。",
+        "bullets": [
+          "据报融资 150 亿美元，属中国最大融资轮之一",
+          "融资发生在美方要求联邦机构移除其技术后数日",
+          "美方限制理由是国家安全关切"
+        ],
+        "detail": "据 TechCrunch AI 报道，DeepSeek 据报完成 150 亿美元融资，是中国规模最大的融资轮之一。这轮融资距美国下令联邦机构因其技术存在国家安全关切而移除该技术仅数日。",
+        "generatedAt": "2026-10-23T01:46:53+08:00"
+      }
+    },
+    {
       "id": "96dfa23c20904718",
       "title": "【钛晨报】推动科技创新和产业创新深度融合，中办、国办最新部署；比亚迪回应L3车辆落地时间；证监会：促进北交所新股合理定价，稳步推出北证50ETF",
       "url": "https://tmtpost.com/8176877.html",
@@ -445,6 +594,40 @@
         ],
         "detail": "团队发布 Carbon-X，一个 14B 参数的开源模型，首次把 DNA 序列和自然语言放在一起建模。它在五项 DNA 基准测试中胜过所有被测开源语言模型，并追平 GPT-6.1 Sol，而成本约低 1000 倍。模型可通过 llama.cpp 在本地运行。",
         "generatedAt": "2026-10-22T21:03:42+08:00"
+      }
+    },
+    {
+      "id": "63c31ca523f91ccf",
+      "title": "What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T14:00:00+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 解读 FDE：前置部署工程是什么",
+        "takeaway": "OpenAI 官方阐释 FDE 角色，揭示其如何将技术落地客户场景，值得关注 AI 落地模式。",
+        "bullets": [
+          "OpenAI 发文解释 FDE（前置部署工程）的含义",
+          "FDE 或指工程师深入客户现场推动技术落地",
+          "该角色可能加速 AI 产品在企业中的实际应用"
+        ],
+        "detail": "OpenAI 发布文章，专门解释“前置部署工程”（Forward Deployed Engineering，FDE）在 OpenAI 的含义。这通常指工程师直接进驻客户现场，帮助将技术方案落地到实际业务场景中。",
+        "generatedAt": "2026-10-23T01:46:53+08:00"
       }
     },
     {
@@ -629,6 +812,42 @@
         ],
         "detail": "OpenAI发展具身智能需要大量物理世界数据，有公司已挤进其全球核心供应链。这显示具身数据正成为AI竞赛的关键资源。",
         "generatedAt": "2026-10-22T21:03:43+08:00"
+      }
+    },
+    {
+      "id": "96c78f78f0415bc7",
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "url": "https://leiphone.com/category/industrynews/vv6pTluWIUjUHMbi.html",
+      "summary": "企业AI转型正在走向深水区，从单点工具和业务场景提效，向系统性的组织重构延伸。麦肯锡曾在《组织状态报告2026》中指出，尽管AI被视为新一轮生产力革命的重要驱动力，但真正将其转化为经营业绩的企业仍是少数，背后的关键在于，不少企业仍将AI转型停留在“工具升级”层面，却忽视了更本质的“组织重构”。如何将AI能力融入组织，转化为持续的生产力，将成为影响企业未来竞争力的关键。11月12日，百度将在百度世界2026大会上聚焦“智能组织”议题，或将提出AI时代的组织进化范式。 10月21…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T20:03:00+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "升级"
+      ],
+      "confidence": 1,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "百度世界2026前瞻：设10+分论坛解码AI时代智能组织",
+        "takeaway": "百度世界2026大会将聚焦AI时代的组织重构，探讨企业如何把AI能力转化为持续生产力。",
+        "bullets": [
+          "11月12日百度世界2026大会设10+重磅分论坛",
+          "聚焦“智能组织”议题，或提出AI时代组织进化范式",
+          "麦肯锡报告指出多数企业AI转型仍停留在工具升级层面"
+        ],
+        "detail": "企业AI转型正从单点工具提效走向系统性组织重构。麦肯锡《组织状态报告2026》指出，真正把AI转化为经营业绩的企业仍是少数，问题在于忽视组织重构。百度世界2026大会将聚焦智能组织议题，或提出AI时代的组织进化范式。",
+        "generatedAt": "2026-10-23T01:46:55+08:00"
       }
     },
     {
@@ -852,6 +1071,40 @@
       }
     },
     {
+      "id": "655df0fb22ace891",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "source": {
+        "id": "deepmind",
+        "name": "Google DeepMind",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T22:30:24+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌DeepMind发布全球森林类型地图，精度达10米",
+        "takeaway": "该地图将地表每10米划分为不同森林类型，为生态研究和保护提供高精度数据。",
+        "bullets": [
+          "覆盖全球每10米地块，分类为不同森林类型",
+          "由Google DeepMind发布，属高精度全球制图",
+          "有助于生态监测、碳汇评估和森林保护"
+        ],
+        "detail": "谷歌DeepMind绘制了一张全球森林类型地图，把地球表面每10米见方的土地都归入不同的森林类型。相比传统只看树冠覆盖率，这能更细致区分森林种类，方便科研与环保应用。",
+        "generatedAt": "2026-10-23T01:46:57+08:00"
+      }
+    },
+    {
       "id": "b2a0925cab0c012f",
       "title": "PHP 漏洞惊动日本首相：拖了两年的 OOM 问题，在 AI 时代爆发",
       "url": "https://oschina.net/news/503146",
@@ -1032,6 +1285,43 @@
         ],
         "detail": "2026 上海开源软件应用创新大赛的「AI+工业软件赛道」今天公布了决赛入围名单，10 支队伍晋级。这些队伍将于 10 月 29 日在上海张江人工智能创新小镇参加总决赛，名单按报名时间顺序公示，并附有各项目的代码仓库地址。",
         "generatedAt": "2026-10-22T21:03:44+08:00"
+      }
+    },
+    {
+      "id": "d4a36e492a304277",
+      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+      "url": "https://theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+      "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishin…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T22:00:00+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "says"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "比尔·盖茨：AI颠覆将动荡20年，需提前准备",
+        "takeaway": "盖茨警告AI带来的社会冲击将持续约20年，提醒个人与机构尽早适应。",
+        "bullets": [
+          "盖茨称AI颠覆期长达20年，社会需做好准备",
+          "他近期频繁发声，借新书宣传阐述AI观点",
+          "言论面向公众，强调长期影响而非短期炒作"
+        ],
+        "detail": "比尔·盖茨在播客中表示，未来约20年AI将带来剧烈颠覆，社会应提前准备。他近期因新书宣传频繁露面，借此机会分享对AI长期影响的判断。",
+        "generatedAt": "2026-10-23T01:46:56+08:00"
       }
     },
     {
@@ -1652,6 +1942,113 @@
       }
     },
     {
+      "id": "6cf146c7e71fd559",
+      "title": "Quoting Armin Ronacher",
+      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher",
+      "summary": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. &mdash; Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T23:34:13+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "research"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Armin Ronacher 调侃：AI 热潮是对过去30年烂软件的惩罚",
+        "takeaway": "知名开发者 Armin Ronacher 用幽默方式指出，AI 虽有趣，但过去30年积累的糟糕软件正带来反噬。",
+        "bullets": [
+          "Armin Ronacher 是知名开发者，以幽默口吻评论 AI 与软件质量。",
+          "他认为过去30年构建了大量糟糕软件，如今正为此付出代价。",
+          "该言论被 Simon Willison 引用，引发对 AI 时代软件安全的思考。"
+        ],
+        "detail": "Armin Ronacher 调侃道，AI 虽然好玩，但过去30年我们构建了太多糟糕的软件，现在宇宙正在惩罚我们的罪过。这句话以幽默方式点出了软件质量问题的历史积累，以及 AI 可能放大这些问题的隐忧。",
+        "generatedAt": "2026-10-23T01:46:58+08:00"
+      }
+    },
+    {
+      "id": "12d0b1a8654611df",
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose",
+      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T23:03:58+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "explains"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Spotify押注AI代理：让音乐服务成为智能体首选",
+        "takeaway": "Spotify联合CEO认为AI代理崛起对音乐服务是利好，正押注成为代理选择的音乐平台。",
+        "bullets": [
+          "Spotify联合CEO Gustav Söderström解释AI代理崛起为何对音乐服务有利",
+          "Spotify的AI策略是成为AI代理首选的音乐服务",
+          "这一定位可能影响未来用户通过代理获取音乐的方式"
+        ],
+        "detail": "Spotify联合CEO古斯塔夫·瑟德斯特伦表示，AI代理的兴起可能对音乐服务是件好事。Spotify当前的AI押注是让自己成为这些代理会选择的音乐服务，从而在代理主导的交互中占据有利位置。",
+        "generatedAt": "2026-10-23T01:46:59+08:00"
+      }
+    },
+    {
+      "id": "fe017749f2095f3b",
+      "title": "PHP: The three little letters wreaking havoc across the web",
+      "url": "https://theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+      "summary": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other po…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T23:12:27+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "PHP 两个漏洞威胁全球七成网站安全",
+        "takeaway": "PHP 新发现的两个漏洞可能影响大量网站，需尽快修复。",
+        "bullets": [
+          "PHP 语言被约 70% 网站使用，包括维基百科、WordPress 等。",
+          "两个漏洞可能让攻击者控制或破坏网站。",
+          "网站管理员应检查并更新 PHP 版本以修复漏洞。"
+        ],
+        "detail": "PHP 编程语言中发现两个安全漏洞，可能危及大量网站。据统计，高达 70% 的网站使用 PHP，包括维基百科、WordPress、Drupal 等知名平台。建议相关管理员尽快更新修复。",
+        "generatedAt": "2026-10-23T01:47:00+08:00"
+      }
+    },
+    {
       "id": "fec3f8f0dab00f96",
       "title": "Tried running 748B DeepSeek-V4.1-Flash on a €2k PC",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xburkx/tried_running_748b_deepseekv41flash_on_a_2k_pc",
@@ -1864,6 +2261,76 @@
         ],
         "detail": "钛媒体发布文章《谁在养活 Anthropic？》，以“抵达营业现场”的视角，探讨这家 Claude 模型背后公司的收入来源。报道未在摘要中展开具体客户或财务数据，但指向对其商业模式和营收结构的关注。",
         "generatedAt": "2026-10-22T21:03:51+08:00"
+      }
+    },
+    {
+      "id": "d2c9aa9349dca1be",
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you",
+      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T21:26:52+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raises"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Nirva 获 3300 万美元融资，推 249 美元 AI 吊坠",
+        "takeaway": "Nirva 融资 3300 万美元，年底前发售只监听佩戴者的 249 美元 AI 吊坠。",
+        "bullets": [
+          "Nirva 完成 3300 万美元融资，投资方未披露。",
+          "产品为 249 美元环境 AI 吊坠，仅响应佩戴者语音。",
+          "计划今年年底前开始发货。"
+        ],
+        "detail": "Nirva 获得 3300 万美元融资，用于推进其 AI 吊坠产品。这款吊坠售价 249 美元，主打环境感知，但只监听佩戴者本人的声音。公司计划在今年年底前开始发货。",
+        "generatedAt": "2026-10-23T01:47:01+08:00"
+      }
+    },
+    {
+      "id": "f7403dc55170bd22",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T06:45:34+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta拟发新股为AI扩张融资",
+        "takeaway": "Meta计划通过发行新类别股票，为其AI模型和服务的广泛投资提供资金支持。",
+        "bullets": [
+          "Meta计划创建新类别股票，为AI投资融资。",
+          "资金将用于AI模型和服务的广泛投资。",
+          "此举可能影响股东结构和公司资本策略。"
+        ],
+        "detail": "Meta计划推出一种新类别股票，以资助其在AI模型和服务上的大规模投资。这一股票策略旨在为公司的AI扩张提供资金，可能改变其资本结构和股东权益。",
+        "generatedAt": "2026-10-23T01:47:02+08:00"
       }
     },
     {
@@ -2342,6 +2809,77 @@
       }
     },
     {
+      "id": "837ba959e3101148",
+      "title": "超智深融算力圳浓——第二十二届CCF全国高性能计算学术大会在深圳成功举办",
+      "url": "https://leiphone.com/category/chips/ZciUaXjdyyGRgNRl.html",
+      "summary": "鹏城向海潮起处，算力奔腾启新程。10月17-20日，第二十二届CCF全国高性能计算学术大会（CCF HPC2026）于深圳国际会展中心正式拉开帷幕。本次大会与2026世界算力博览会（WEC2026）同期同馆举办，让滨海都市的开放蓬勃与超级算力的澎湃革新、前沿学术的深耕探索与产业生态的落地赋能在此碰撞交融，以“学术顶会+产业博览”双轮驱动的全新模式，书写了算力产业数实融合、科创赋能、共生共荣的崭新篇章。本届大会立足全国算力产业发展前沿，聚焦国产算力自主创新、超智深度融合、算力互…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T19:08:00+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 0.63,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "第二十二届CCF全国高性能计算学术大会在深圳举办",
+        "takeaway": "CCF HPC2026与2026世界算力博览会同期同馆举行，聚焦国产算力与超智融合。",
+        "bullets": [
+          "大会于10月17-20日在深圳国际会展中心举行",
+          "与2026世界算力博览会同期同馆举办",
+          "聚焦国产算力自主创新与超智深度融合",
+          "采用学术顶会加产业博览的双轮驱动模式"
+        ],
+        "detail": "第二十二届CCF全国高性能计算学术大会（CCF HPC2026）于10月17日至20日在深圳国际会展中心举行，并与2026世界算力博览会同期同馆举办。大会聚焦国产算力自主创新、超智深度融合和算力互联等方向，以学术会议加产业博览的方式推动算力产业与实体经济的融合。",
+        "generatedAt": "2026-10-23T01:47:04+08:00"
+      }
+    },
+    {
+      "id": "7400ea4b87527017",
+      "title": "inclusionAI/Ling-3.0-flash-Sante · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xclfkp/inclusionailing30flashsante_hugging_face",
+      "summary": "from inclusionAI: Introduction Ling-3.0-flash-Sante is our healthcare-specialized model built on Ling-3.0-flash . Its name comes from the French word santé , meaning “health.” With 124B total parameters and 5.1B active parameters per token …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T23:18:35+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "蚂蚁 inclusionAI 发布医疗专用模型 Ling-3.0-flash-Sante",
+        "takeaway": "基于 Ling-3.0-flash 打造的医疗垂类模型，124B 总参数、每 token 仅激活 5.1B，值得关注其医疗场景表现。",
+        "bullets": [
+          "inclusionAI 推出医疗专用模型 Ling-3.0-flash-Sante",
+          "名称取自法语 santé（健康），基于 Ling-3.0-flash 构建",
+          "总参数 124B，每 token 激活 5.1B，属稀疏架构"
+        ],
+        "detail": "inclusionAI 发布了医疗垂类模型 Ling-3.0-flash-Sante，名字来自法语“健康”一词。它建立在 Ling-3.0-flash 之上，总参数 124B，但每个 token 只激活 5.1B，属于稀疏激活设计。",
+        "generatedAt": "2026-10-23T01:47:05+08:00"
+      }
+    },
+    {
       "id": "cf8c5844437cd109",
       "title": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
       "url": "https://infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM",
@@ -2715,6 +3253,40 @@
       "pushed": false
     },
     {
+      "id": "01440c58175255e5",
+      "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+      "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
+      "summary": "Hackers were already probing the bug before defenders were told it existed.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T23:25:02+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黑客提前四天利用PHP2Shell漏洞，防御方措手不及",
+        "takeaway": "黑客在漏洞公开前四天已开始探测PHP2Shell，暴露漏洞披露与防御的时间差风险。",
+        "bullets": [
+          "黑客在防御方知晓前四天探测PHP2Shell漏洞",
+          "漏洞披露与防御响应存在时间差",
+          "可能影响PHP生态安全，需关注后续修复"
+        ],
+        "detail": "据Ars Technica AI报道，黑客在安全团队得知PHP2Shell漏洞存在之前，就已经开始探测该漏洞，获得了四天的先发优势。这凸显了漏洞披露过程中防御方往往处于被动，可能增加被攻击的风险。",
+        "generatedAt": "2026-10-23T01:47:05+08:00"
+      }
+    },
+    {
       "id": "e319e8c28f3fd098",
       "title": "Inference time abliteration",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xc1e9y/inference_time_abliteration",
@@ -2755,6 +3327,29 @@
       "topic": "ai",
       "publishedAt": "2026-10-22T16:03:47+08:00",
       "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "563d2800aea381b0",
+      "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+      "url": "https://wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything",
+      "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T21:00:00+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
@@ -3003,6 +3598,31 @@
       "category": "融资并购",
       "keywords": [
         "亿元"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a120e7d1051cdc4a",
+      "title": "Non LLM Models",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xchup0/non_llm_models",
+      "summary": "I'm building an app where I need some specialist language models, but not necessarily LLM models. Is there a sub or place where they talk about specialist models beyond just searching on HF? I know that discussion doesn't really fit this su…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T20:57:54+08:00",
+      "fetchedAt": "2026-10-23T01:46:42+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app"
       ],
       "confidence": 1,
       "score": 29,
