@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updatedAt": "2026-10-22T21:03:54+08:00",
+  "updatedAt": "2026-10-23T06:01:24+08:00",
   "items": [
     {
       "id": "61f4d0141ff303c0",
@@ -1337,7 +1337,7 @@
       "confidence": 1,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Cloudflare 借 OpenAI 模型加速漏洞发现与修复",
         "takeaway": "Cloudflare 用 OpenAI Daybreak 查漏洞、提修复方案，开发者用 Codex 提效，展示 AI 安全防御新路径。",
@@ -1349,7 +1349,8 @@
         ],
         "detail": "Cloudflare 利用 OpenAI 的 Daybreak 模型排查安全漏洞，并自动生成修复方案供人工审核。同时，其开发者借助 Codex 加快编码速度、改善代码质量。这体现了 AI 在安全防御和开发效率上的实际应用。",
         "generatedAt": "2026-10-22T09:14:55+08:00"
-      }
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
     },
     {
       "id": "6249a740a130f2d2",
@@ -4545,7 +4546,8 @@
       "confidence": 1,
       "score": 17,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-23T06:01:24+08:00"
     }
   ],
   "topic": "ai"

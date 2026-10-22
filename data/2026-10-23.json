@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updatedAt": "2026-10-23T01:47:05+08:00",
+  "updatedAt": "2026-10-23T06:01:24+08:00",
   "items": [
     {
       "id": "374464c5687b489e",
@@ -26,7 +26,7 @@
       "confidence": 0,
       "score": 66,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DeepSeek 与 MiniMax 完成 AI 出口备案，可向海外开源发布",
         "takeaway": "两家中国大模型公司通过跨境审查备案，为海外开源发布扫清合规障碍。",
@@ -37,7 +37,45 @@
         ],
         "detail": "据中国媒体 10 月 22 日报道，DeepSeek 与 MiniMax 已按中国临时 AI 出口法规完成登记备案，将技术提交跨境审查。这意味着两家公司可合规地向海外开源发布模型，也为同行提供了参考路径。",
         "generatedAt": "2026-10-23T01:46:51+08:00"
-      }
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "09c9f9d097fbda6f",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "url": "https://theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a des…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T05:51:25+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launch"
+      ],
+      "confidence": 1,
+      "score": 58,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Canva推出首个AI图像模型Canva Craft，采用两阶段架构",
+        "takeaway": "Canva发布自研图像生成模型，直接挑战OpenAI、微软和谷歌，值得关注。",
+        "bullets": [
+          "Canva推出首个AI图像模型Canva Craft，与OpenAI、微软、谷歌竞争。",
+          "该模型采用两阶段架构，先生成设计规划再生成图像。",
+          "可能影响设计工具市场的AI竞争格局。"
+        ],
+        "detail": "Canva正式进军AI图像生成领域，推出名为Canva Craft的模型，直接对标OpenAI、微软和谷歌的产品。该模型采用两阶段架构，能够先规划设计方案再生成图像，旨在提升生成结果的质量和可控性。",
+        "generatedAt": "2026-10-23T06:01:12+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
     },
     {
       "id": "b675dbd13367cd6b",
@@ -62,7 +100,7 @@
       "confidence": 0.4,
       "score": 56,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "国产决策模型发布，23项开源基测准确率超微软和JEV",
         "takeaway": "又一国产决策模型问世，面向企业高频判断任务，在23项开源基测中准确率领先微软和JEV。",
@@ -73,7 +111,156 @@
         ],
         "detail": "一款新的国产决策模型正式发布，主要面向企业高频判断任务。在23项开源基准测试中，其准确率超过了微软和JEV的同类模型。目前具体模型名称和更多技术细节尚未公布。",
         "generatedAt": "2026-10-22T21:03:40+08:00"
-      }
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "865ffb65f1d593f0",
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T03:00:00+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "releases"
+      ],
+      "confidence": 0.33,
+      "score": 56,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Canva 推出首个自研图像生成模型，向所有用户开放",
+        "takeaway": "Canva 发布首款自研图像生成模型，主打更可定制、成本更低，向全体用户开放。",
+        "bullets": [
+          "Canva 推出首个自研图像生成模型，面向所有用户开放。",
+          "官方称新模型性能更好、可定制性更强，成本更低。",
+          "此举让 Canva 从设计工具延伸至底层图像生成能力。"
+        ],
+        "detail": "Canva 正式发布其首个自研图像生成模型，所有用户均可使用。官方表示，新模型在效果和可定制性上更好，同时成本更低。这意味着 Canva 不再只依赖外部模型，而是把图像生成能力直接内置到设计流程中。",
+        "generatedAt": "2026-10-23T06:01:11+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "d26ae9b2d9ce501c",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T02:43:53+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 0.75,
+      "score": 54,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "微软AI诊断系统在疑难病例上超越全科医生",
+        "takeaway": "微软新AI诊断系统在疑难病例上胜过全科医生，但提升主要来自底层模型而非系统本身。",
+        "bullets": [
+          "微软AI诊断系统在《科学》研究中的疑难病例表现优于全科医生。",
+          "研究显示，性能提升主要归功于底层AI模型，而非微软系统设计。",
+          "微软AI负责人Mustafa Suleyman称正追求“医疗超级智能”。"
+        ],
+        "detail": "微软的新AI诊断系统在《科学》杂志的一项研究中，于疑难病例上击败了全科医生。但研究指出，大部分改进似乎来自底层的AI模型，而非微软系统本身。Mustafa Suleyman表示，他正在追求“医疗超级智能”。",
+        "generatedAt": "2026-10-23T06:01:12+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "fe52d49759b6b59c",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T03:07:09+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launches"
+      ],
+      "confidence": 0.67,
+      "score": 51,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "1Password 推出新功能：AI 代理可代登录而不见密码",
+        "takeaway": "1Password 让 AI 代理能代用户登录账户，同时不暴露密码，兼顾便利与安全。",
+        "bullets": [
+          "1Password 发布新功能，允许 AI 代理代用户登录个人账户。",
+          "代理在登录过程中无法看到用户的密码等私密凭证。",
+          "该功能旨在平衡 AI 自动化便利与账户安全保护。"
+        ],
+        "detail": "1Password 推出了一项新功能，让 AI 代理可以代表用户登录其个人账户，同时确保代理无法接触用于保护账户的私密凭证。这意味着用户能享受 AI 自动化的便利，而密码等敏感信息仍受到保护。",
+        "generatedAt": "2026-10-23T06:01:14+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "5d204276414bcfa2",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T03:00:00+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "available"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "OpenAI 推出决策模型，正面挑战 Jev",
+        "takeaway": "OpenAI 将决策模型向全球开放，与 Jev 展开直接竞争，决策模型赛道升温。",
+        "bullets": [
+          "OpenAI 正式向全球推出其决策模型",
+          "该模型被定位为 Jev 的直接竞争对手",
+          "决策模型领域的竞争进一步加剧"
+        ],
+        "detail": "OpenAI 宣布将其决策模型向全球开放，此举被视为对现有领先者 Jev 的直接挑战。随着 OpenAI 入局，决策模型市场的竞争将更加激烈。",
+        "generatedAt": "2026-10-23T06:01:13+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
     },
     {
       "id": "eaa0ebff7daf626e",
@@ -98,7 +285,7 @@
       "confidence": 1,
       "score": 49,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OlmoEarth v1.3 发布：面向全球的顶尖嵌入模型",
         "takeaway": "Hugging Face 上更新了 OlmoEarth v1.3，主打为整个地球提供最先进的嵌入表示。",
@@ -109,7 +296,297 @@
         ],
         "detail": "OlmoEarth v1.3 是 Hugging Face 上发布的新版本，官方称其能为整个地球提供最先进的嵌入表示。由于没有摘要，具体改进幅度、覆盖范围和评测结果尚不明确，但该方向通常与遥感、地理空间分析等任务相关。",
         "generatedAt": "2026-10-23T01:46:54+08:00"
-      }
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "c744e4ea5afb21a2",
+      "title": "Meta’s AI could still scrape news sites, legal experts say",
+      "url": "https://theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to re…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T04:32:05+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Meta调整条款避嫌，法律专家称AI抓取新闻仍存疑",
+        "takeaway": "Meta修改商业条款，删除可自由用新闻网站训练AI的表述，但法律专家认为这不足以消除担忧。",
+        "bullets": [
+          "Meta调整商业条款，移除可自由用新闻网站训练AI的表述。",
+          "法律专家指出，条款修改并未解决核心问题。",
+          "新闻网站对AI抓取内容的担忧持续存在。"
+        ],
+        "detail": "Meta修改了商业条款，删除了暗示可自由使用新闻网站内容训练AI模型的措辞。但法律专家表示，这些修改不足以解决他们的担忧，认为问题并未真正解决。",
+        "generatedAt": "2026-10-23T06:01:13+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "b3eae99609101714",
+      "title": "Meta turns Muse sharing back on",
+      "url": "https://theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T04:24:04+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "review"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Meta 重新开放 Muse 分享，此前曾被曝公开链接易被搜到",
+        "takeaway": "Meta 恢复 Muse 分享功能，但此前安全研究者发现公开对话链接可被轻易找到，隐私风险仍存。",
+        "bullets": [
+          "Meta 重新启用 Muse 分享功能",
+          "安全研究者曾发现公开链接易被检索",
+          "示例包括营销公司内部营收评估页面",
+          "用户需注意分享内容可能被公开访问"
+        ],
+        "detail": "Meta 重新开放了 Muse 的分享功能。此前安全研究者指出，公开的对话链接很容易被找到，他们甚至能搜到像营销公司内部营收评估这样的 Muse 页面。",
+        "generatedAt": "2026-10-23T06:01:15+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "8bd29f6029cca085",
+      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+      "url": "https://theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelent…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T02:15:00+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Meta 描绘未来：AI 代理网络将代劳生活",
+        "takeaway": "扎克伯格设想 AI 代理替我们购物、工作、社交，人类是否准备好？",
+        "bullets": [
+          "扎克伯格预测未来由自主 AI 代理网络运行生活",
+          "代理可替用户购物、工作、与其他人的 AI 代理沟通",
+          "文章质疑人类是否准备好迎接这种未来"
+        ],
+        "detail": "马克·扎克伯格正推动一个未来：自主 AI 代理网络将打理我们的生活，替我们购物、工作，甚至与其他人的 AI 代理交谈。The Verge 发文探讨人类是否已准备好迎接这种不可避免的变化。",
+        "generatedAt": "2026-10-23T06:01:16+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "27825e3003584012",
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T03:00:00+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "OpenAI 推出 Decisions API，让应用决策更快速低成本",
+        "takeaway": "OpenAI 发布 Decisions API，为应用提供快速、专注、低成本的决策能力，值得开发者关注。",
+        "bullets": [
+          "OpenAI 推出 Decisions API，面向各类应用提供决策功能。",
+          "该 API 主打快速、专注且低成本，适合需要实时决策的场景。",
+          "开发者可借此在应用中集成 AI 决策能力，降低开发成本。"
+        ],
+        "detail": "OpenAI 发布了 Decisions API，旨在为任何应用提供快速、专注且低成本的决策服务。该 API 强调高效与低成本，适合需要快速响应的应用场景，帮助开发者轻松集成 AI 决策功能。",
+        "generatedAt": "2026-10-23T06:01:15+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "f29afd1567254e52",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills",
+      "summary": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under …",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T02:09:56+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Anthropic 将 Agent Skills 标准捐给 AAIF",
+        "takeaway": "Anthropic 把 Agent Skills 标准交给中立基金会，推动其开放与厂商中立。",
+        "bullets": [
+          "Anthropic 宣布捐赠 Agent Skills 标准给 AAIF",
+          "目标是保持开放、社区驱动和厂商中立",
+          "此举可能影响 AI 智能体技能的标准化进程"
+        ],
+        "detail": "Anthropic 今天宣布，将 Agent Skills 标准捐赠给 Agentic AI Foundation（AAIF）。他们表示致力于让该标准保持开放、由社区驱动且不绑定特定厂商。",
+        "generatedAt": "2026-10-23T06:01:17+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "7bc6770bad9512d6",
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "url": "https://theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T02:00:00+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "says"
+      ],
+      "confidence": 0.33,
+      "score": 45,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "微软称其AI工具诊断病情优于医生",
+        "takeaway": "微软宣称AI诊断能力超越医生，医疗AI竞争进入新阶段，但实际效果待验证。",
+        "bullets": [
+          "微软AI CEO表示医疗AI终于成为现实",
+          "公司声称其工具诊断准确率高于医生",
+          "该言论引发对AI医疗落地的关注"
+        ],
+        "detail": "微软AI负责人穆斯塔法·苏莱曼对The Verge表示，公司已开发出一款AI工具，在诊断疾病方面比医生更准确。他强调，多年来科技界一直将医疗视为AI改善生活的典型场景，如今“它终于来了”。",
+        "generatedAt": "2026-10-23T06:01:17+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "9c6552bd6dc00a41",
+      "title": "DE STAAT - FREEDOM (Official Music Video)",
+      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom",
+      "summary": "DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : The visual effects are credited to Matties Grooten of Fake it or Leave it . Via flir on H…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T03:42:26+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 44,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "荷兰乐队De Staat新MV特效由AI工具制作",
+        "takeaway": "音乐视频视觉特效首次由AI工具完成，展示AI在创意产业的应用潜力。",
+        "bullets": [
+          "荷兰另类摇滚乐队De Staat发布新歌《Freedom》官方MV。",
+          "MV视觉特效由Fake it or Leave it的Matties Grooten负责。",
+          "Simon Willison表示这是首次看到AI工具参与音乐视频制作。"
+        ],
+        "detail": "荷兰另类摇滚乐队De Staat的新歌《Freedom》官方音乐视频中，视觉特效由Fake it or Leave it的Matties Grooten负责。科技博主Simon Willison表示，这是他第一次看到AI工具被用于音乐视频制作。",
+        "generatedAt": "2026-10-23T06:01:17+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "c6b16d28af7e721a",
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "url": "https://theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you f…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T03:45:00+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chips",
+        "NVIDIA"
+      ],
+      "confidence": 0.14,
+      "score": 44,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "SpaceX与特斯拉设特别委员会讨论合并，同时SpaceX拟借400亿买英伟达芯片",
+        "takeaway": "两家公司探讨合并，而SpaceX高负债买芯片引发信用风险担忧，值得关注。",
+        "bullets": [
+          "SpaceX和特斯拉已成立特别委员会，讨论合并事宜。",
+          "SpaceX计划再借400亿美元用于购买英伟达芯片。",
+          "其信用风险已较高，合并讨论与巨额支出同时进行。"
+        ],
+        "detail": "SpaceX和特斯拉分别成立了特别委员会，商讨两家公司合并的可能性。与此同时，SpaceX因计划再借400亿美元采购英伟达芯片，信用风险处于高位。原文以讽刺口吻质疑外界对此的漠视。",
+        "generatedAt": "2026-10-23T06:01:19+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
     },
     {
       "id": "dec161b773fab733",
@@ -134,7 +611,7 @@
       "confidence": 1,
       "score": 43,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Qwen 线性注意力优化实践：提升推理效率",
         "takeaway": "InfoQ 分享针对 Qwen 系列线性注意力的高性能优化，旨在提升模型推理效率。",
@@ -145,7 +622,8 @@
         ],
         "detail": "InfoQ 中国发布文章，介绍针对 Qwen 系列模型线性注意力的高性能优化实践。内容聚焦如何通过优化提升模型推理效率，具体技术方案需查看原文。",
         "generatedAt": "2026-10-22T21:03:44+08:00"
-      }
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
     },
     {
       "id": "d1b19037538aa4f5",
@@ -170,7 +648,7 @@
       "confidence": 1,
       "score": 43,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "中国关联黑客借AI代理攻破ConnectWise，数千企业遭间谍活动",
         "takeaway": "微软指控中国关联黑客利用AI代理快速入侵IT巨头ConnectWise的数千客户，企业间谍风险升级。",
@@ -181,7 +659,8 @@
         ],
         "detail": "微软指出，一个与中国有关联的黑客组织入侵了IT服务商ConnectWise，并借助AI代理快速攻入其数千家客户企业，实施间谍活动。这起事件表明，AI代理正被用于自动化、规模化网络攻击，给企业安全带来新挑战。",
         "generatedAt": "2026-10-23T01:46:57+08:00"
-      }
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
     },
     {
       "id": "18837672148b90d3",
@@ -204,7 +683,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Switch 2 被破解：老游戏加 AI 实现越狱",
         "takeaway": "黑客利用旧游戏和 AI 工具破解 Switch 2，并展示运行自定义版《马力欧赛车世界》。",
@@ -216,7 +695,8 @@
         ],
         "detail": "任天堂 Switch 2 似乎已被越狱。一名模组制作者展示了主机运行自定义版《马力欧赛车世界》，其中新增了玉桂狗、红色愤怒的小鸟、彼得·格里芬和史蒂夫等可玩角色。破解手法据称结合了旧游戏和 AI 工具。",
         "generatedAt": "2026-10-23T01:46:59+08:00"
-      }
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
     },
     {
       "id": "cc47211c4f362eed",
@@ -241,7 +721,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "莱卡工作室导演：AI 与我们的创作理念完全相悖",
         "takeaway": "定格动画工作室莱卡导演公开反对 AI，强调手工艺术与 AI 本质冲突，引发行业对 AI 应用的讨论。",
@@ -252,7 +732,119 @@
         ],
         "detail": "莱卡工作室以《鬼妈妈》《通灵男孩诺曼》等定格动画闻名，新片《Wildwood》是迄今最具野心的作品，耗时五年完成，使用了超过 230 个木偶。导演表示，AI 与工作室的创作理念完全相悖，凸显了手工艺术与 AI 自动化之间的张力。",
         "generatedAt": "2026-10-23T01:47:01+08:00"
-      }
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "73123e6ebe0ba203",
+      "title": "Discord now formats Markdown previews right",
+      "url": "https://theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instruc…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T02:58:19+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "update"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Discord 修复 Markdown 预览，AI 代理指令显示更清晰",
+        "takeaway": "Discord 更新后 Markdown 预览能正确渲染，不再显示乱码符号，对依赖 Markdown 的 AI 代理更友好。",
+        "bullets": [
+          "Discord 最新更新修复了 Markdown 预览的渲染问题",
+          "此前预览会显示一堆符号，影响阅读体验",
+          "LLM 和 AI 代理常依赖 Markdown 文件传递指令"
+        ],
+        "detail": "Discord 今天发布更新，改进了 Markdown 预览功能。公司表示，现在预览能正确渲染，而不是像以前那样显示“一堆符号”。由于大语言模型和 AI 代理经常使用 Markdown 文件来传递指令，这一修复对相关用户更有意义。",
+        "generatedAt": "2026-10-23T06:01:19+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "712bc0d815dcfe0f",
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capabili…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T05:17:29+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "enterprise"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "企业AI竞争转向：模型之外的服务框架才是关键",
+        "takeaway": "企业AI的下一个优势不在于选哪个模型，而在于围绕模型构建什么。",
+        "bullets": [
+          "过去几年AI讨论多集中在模型能力上",
+          "MIT Tech Review指出竞争焦点已转向模型周边建设",
+          "企业需构建持久可用的AI服务框架以形成优势"
+        ],
+        "detail": "企业AI的下一轮竞争优势，与其说取决于你选了哪个模型，不如说取决于你在模型周围搭建了什么。这是一个重要转变：过去几年，AI话题大多围绕模型能力展开。",
+        "generatedAt": "2026-10-23T06:01:19+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "ab838d8755d52b23",
+      "title": "The Foundations of Scalable AI",
+      "url": "https://technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to bui…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T02:48:04+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "review"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "MIT科技评论：可扩展AI需数据、工程、平台、运营与治理协同",
+        "takeaway": "MIT科技评论指出，可扩展AI系统不是单点技术，而是数据、工程、平台、运营和治理五要素的融合。",
+        "bullets": [
+          "MIT科技评论EmTech Future会议探讨构建可扩展AI的基础。",
+          "强调数据、工程、平台、运营模式和治理必须协同运作。",
+          "观点认为可扩展AI需要系统性基础，而非单一技术突破。"
+        ],
+        "detail": "MIT科技评论在EmTech Future会议上指出，可扩展的AI系统需要坚实基础。数据、工程、平台、运营模式和治理必须融合为一，协同运作，才能支撑AI的规模化发展。",
+        "generatedAt": "2026-10-23T06:01:21+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
     },
     {
       "id": "d3c712f2c2628be1",
@@ -278,7 +870,7 @@
       "confidence": 1,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "48GB显存够用吗？玩家纠结是否升级128GB内存跑大模型",
         "takeaway": "本地跑大模型时，内存容量决定能否加载模型，显存决定速度，升级前需算清这笔账。",
@@ -290,7 +882,8 @@
         ],
         "detail": "这位用户在LocalLLaMA发帖，说自己有48GB显存（两张3090）和48GB DDR4内存，想知道升级到128GB内存后，能否以低量化方式运行DeepSeek V4.1、GLM 5.3 Flash等大模型，并达到至少20 token/秒的速度，效果还比Qwen 3.8 Flash Next更好。本质上是在问：加内",
         "generatedAt": "2026-10-23T01:47:03+08:00"
-      }
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
     },
     {
       "id": "ee2500ed4cf475d6",
@@ -315,7 +908,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Ling-3.0-tiny 为 llama.cpp 主线提供 DFlash 草稿，代码提速 61%",
         "takeaway": "社区为 llama.cpp 主线适配 Ling-3.0-tiny 草稿模型，散文提速 8%、代码提速 61%，本地推理更实用。",
@@ -327,7 +920,83 @@
         ],
         "detail": "作者用 Ling-3.0-tiny 在 LLM 服务器上做文本处理，把大量 PDF 转成 Markdown 供下游模型使用。其自建流程先用 ONNX 模型解析版面、提取文本，再交给 LLM 处理。此次为 llama.cpp 主线加入 DFlash 草稿，实测散文提速 8%、代码提速 61%。",
         "generatedAt": "2026-10-23T01:47:03+08:00"
-      }
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "02de41696f3ee7f9",
+      "title": "Massive B70 spec-decoding improvement - Intel XMX matrix engines refactored by budiony · Pull Request #29864 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xcqb3p/massive_b70_specdecoding_improvement_intel_xmx",
+      "summary": "This made a huge improvement to speculate decoding speeds on my B70 running SYCL. Below examples are for Muse Glimmer Q6_K (30B) running with DFlash2. NOTE: Due to the significantly reduced cost of token verification, the n-max was increase…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T02:16:49+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Intel B70 投机解码大幅提速：llama.cpp 重构 XMX 矩阵引擎",
+        "takeaway": "llama.cpp 合并的 PR 重构 Intel XMX 矩阵引擎，让 B70 上 SYCL 投机解码速度显著提升。",
+        "bullets": [
+          "贡献者 budiony 提交 PR #29864，重构 llama.cpp 的 Intel XMX 矩阵引擎",
+          "在 B70 上跑 SYCL 后端，投机解码速度获得大幅提升",
+          "示例为 Muse Glimmer Q6_K（30B）搭配 DFlash2",
+          "token 验证成本大降，n-max 参数相应调高"
+        ],
+        "detail": "llama.cpp 的 PR #29864 由 budiony 提交，重构了 Intel XMX 矩阵引擎。作者称这让自己 B70 上基于 SYCL 的投机解码速度大幅提升，测试用的是 Muse Glimmer Q6_K（30B）加 DFlash2。由于 token 验证开销明显降低，n-max 也被调高。",
+        "generatedAt": "2026-10-23T06:01:21+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "ddf29ae601446d91",
+      "title": "HuggingFaceBio/Carbon-X (DNA understanding and generation, Qwen 3 finetune)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xcqbsn/huggingfacebiocarbonx_dna_understanding_and",
+      "summary": "Carbon-X is a 14.8B-parameter decoder-only language model trained jointly on DNA sequences and natural-language text. You give it raw DNA inside an ordinary chat conversation and it answers in English: it predicts whether mutations are beni…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T02:17:32+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0.25,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "HuggingFace 发布 Carbon-X：14.8B DNA 语言模型",
+        "takeaway": "基于 Qwen 3 微调的 14.8B 模型，能直接在聊天中读 DNA 并用英文回答，值得关注。",
+        "bullets": [
+          "Carbon-X 是 14.8B 参数解码器模型，同时训练 DNA 与自然语言。",
+          "用户可在普通对话中粘贴原始 DNA，模型用英文回答突变影响等问题。",
+          "基于 Qwen 3 微调，发布在 HuggingFace，面向本地与开源社区。"
+        ],
+        "detail": "Carbon-X 是一个 14.8B 参数、仅解码器的语言模型，训练数据同时包含 DNA 序列和自然语言文本。你可以在普通聊天对话里直接输入原始 DNA，它用英文回答，比如预测突变是否有害。该模型基于 Qwen 3 微调，发布在 HuggingFace。",
+        "generatedAt": "2026-10-23T06:01:21+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
     },
     {
       "id": "569656095f97db35",
@@ -384,7 +1053,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Recursive 押注 AI 自我改进，新模型表现惊人",
         "takeaway": "一家初创公司主张用 AI 造 AI 利大于弊，并推出能力突出的新模型。",
@@ -396,7 +1065,8 @@
         ],
         "detail": "Recursive 公司押注递归自我改进，即让 AI 参与构建更强的 AI。其最新模型表现非常出色，公司借此论证：用 AI 造 AI 带来的好处大于风险。",
         "generatedAt": "2026-10-22T01:48:28+08:00"
-      }
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
     },
     {
       "id": "79eda6057713d529",
@@ -421,7 +1091,8 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-23T06:01:24+08:00"
     },
     {
       "id": "34e1dc7f55339192",
@@ -446,7 +1117,102 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "70399cbe269f8443",
+      "title": "The Social Society Helping Women Join the AI Boom",
+      "url": "https://wired.com/story/aged-intelligence-society-interview",
+      "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T03:56:32+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tools",
+        "brings"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "女性AI社群Aged Intelligence Society走红，助中年女性拥抱前沿工具",
+        "takeaway": "一个快速成长的活动创业公司，通过社群活动帮助女性用前沿AI工具解决中年生活问题。",
+        "bullets": [
+          "Aged Intelligence Society是一个快速增长的活动创业公司。",
+          "社群面向女性，聚焦用前沿工具解决中年问题。",
+          "WIRED采访了其创始人，探讨女性参与AI热潮。"
+        ],
+        "detail": "WIRED采访了Aged Intelligence Society的创始人。这个快速发展的活动创业公司把女性聚在一起，用前沿工具解决中年阶段遇到的问题，帮助她们加入AI热潮。",
+        "generatedAt": "2026-10-23T06:01:22+08:00"
+      },
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "4dcdb95578272074",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 213 # Comments: 112",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T01:44:06+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 0.25,
+      "score": 33,
+      "related": [
+        {
+          "title": "NVIDIA/OpenShell: safe, private runtime for autonomous AI agents",
+          "url": "https://reddit.com/r/LocalLLaMA/comments/1xcs9e2/nvidiaopenshell_safe_private_runtime_for",
+          "source": "r/LocalLLaMA"
+        }
+      ],
+      "pushed": true,
+      "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "374db3b9194f7c3a",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 102 # Comments: 138",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T24:08:00+08:00",
+      "fetchedAt": "2026-10-23T06:00:59+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-23T06:01:24+08:00"
     }
   ],
   "topic": "ai"
