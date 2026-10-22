@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updatedAt": "2026-10-22T15:09:25+08:00",
+  "updatedAt": "2026-10-22T21:03:54+08:00",
   "items": [
     {
       "id": "1f413756a0cb0525",
@@ -41,6 +41,117 @@
       "pushedAt": "2026-10-22T06:03:05+08:00"
     },
     {
+      "id": "7508297b3f1c0148",
+      "title": "Benchmark: Recursive's Flint 40B A2.5B Q4 achieves 128 tok/s on MacBook Pro M4 Pro 48GB using Kapitsa, an open-source Apple Silicon optimized engine, Claude/Codex/Pi/OpenCode compatible.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xcgzp4/benchmark_recursives_flint_40b_a25b_q4_achieves",
+      "summary": "hey folks, im Ye, im one of the contributors to Kapitsa , an open source inference engine optimized specifically for Apple Silicon (all the way from M1 chips to M6) to run Qwen & Nemotron models that would fit a regular MacBook. its custom …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T20:17:54+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source",
+        "open source"
+      ],
+      "confidence": 0.6,
+      "score": 61,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开源引擎 Kapitsa 让 MacBook 跑 40B 模型达 128 tok/s",
+        "takeaway": "苹果芯片专用推理引擎 Kapitsa 实测 Flint 40B 模型高速运行，兼容主流 AI 编程工具。",
+        "bullets": [
+          "Kapitsa 是专为 Apple Silicon 优化的开源推理引擎，覆盖 M1 到 M6 芯片。",
+          "在 M4 Pro 48GB 上运行 Flint 40B A2.5B Q4 模型，速度达 128 tok/s。",
+          "兼容 Claude、Codex、Pi、OpenCode 等工具，降低本地大模型使用门槛。"
+        ],
+        "detail": "Kapitsa 贡献者 Ye 介绍，这款开源引擎针对苹果芯片优化，可让普通 MacBook 运行 Qwen 和 Nemotron 系列模型。实测 Flint 40B 量化版在 M4 Pro 上达到 128 tok/s，且能与多个 AI 编程工具配合使用。",
+        "generatedAt": "2026-10-22T21:03:39+08:00"
+      }
+    },
+    {
+      "id": "f1aceef01416a8ef",
+      "title": "Anthropic 推出“主动式 AI Agent” Claude Duet——无需等你开口就干活、关键操作先问批准",
+      "url": "https://oschina.net/news/503159/claude-duet",
+      "summary": "在 Codex、ChatGPT 们把 AI Agent 卷成日常工具之后，Anthropic 终于发布了自己的常驻型 AI 助手。 Anthropic 今日推出 Claude Duet——一个「主动式」AI Agent。和 Claude 主应用「你问我答」的模式不同，Duet 会自己从你连接的应用里发现需要处理的事，在你还未开口前发来提醒，甚至能在你离开设备后继续干活。 Duet 的...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T17:39:06+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "推出",
+        "Claude"
+      ],
+      "confidence": 0.69,
+      "score": 59,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 发布主动式 AI Agent Claude Duet，无需开口即干活",
+        "takeaway": "Claude Duet 能主动发现任务并提醒，甚至在你离开后继续工作，但关键操作需批准。",
+        "bullets": [
+          "与 Claude 主应用「你问我答」不同，Duet 会主动从连接的应用中发现待办事项。",
+          "它能在用户未开口前发来提醒，并在用户离开设备后继续干活。",
+          "关键操作会先询问用户批准，兼顾主动性与控制权。"
+        ],
+        "detail": "在 Codex、ChatGPT 等把 AI Agent 变成日常工具后，Anthropic 推出了常驻型助手 Claude Duet。它不再被动等待提问，而是主动从你连接的应用里发现需要处理的事，提前提醒你，甚至在你离开设备后继续工作。不过涉及关键操作时，它会先征求你的批准。",
+        "generatedAt": "2026-10-22T21:03:39+08:00"
+      }
+    },
+    {
+      "id": "c94cf51d03c678d0",
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "url": "https://qbitai.com/2026/10/504832.html",
+      "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T15:11:14+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0.17,
+      "score": 57,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "星辰开源意图理解模型Xing4.0-29B-Intent，兼顾选择与填空",
+        "takeaway": "中电信AI实验室开源意图理解专用模型，能处理选择题和填空题，降低意图识别门槛。",
+        "bullets": [
+          "中电信人工智能公司星辰实验室发布并开源Xing4.0-29B-Intent模型。",
+          "该模型专注意图理解，支持选择题和填空题两种任务形式。",
+          "开源将方便开发者集成，推动意图识别应用落地。"
+        ],
+        "detail": "中电信人工智能科技有限公司星辰通用人工智能实验室发布了意图理解专用模型Xing4.0-29B-Intent，并宣布开源。该模型既能处理选择题式的意图分类，也能完成填空题式的意图槽位填充，为开发者提供更灵活的意图识别工具。",
+        "generatedAt": "2026-10-22T21:03:39+08:00"
+      }
+    },
+    {
       "id": "7104bc51c29585cc",
       "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
       "url": "https://huggingface.co/blog/nvidia/kumo-relational",
@@ -76,6 +187,42 @@
         "generatedAt": "2026-10-22T06:02:54+08:00"
       },
       "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "48aaaba50a593524",
+      "title": "Claude did not invent scorpion antivenom",
+      "url": "https://theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+      "summary": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T20:21:07+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0.25,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude未能研发蝎子抗毒血清，AI制药神话遇挫",
+        "takeaway": "投资研究公司与Anthropic合作测试未发布版Claude研发蝎子抗毒血清，结果失败，但提出了一些有希望的思路。",
+        "bullets": [
+          "投资研究公司联手Anthropic，用未发布版Claude尝试研发蝎子抗毒血清。",
+          "Claude未能成功研发出抗毒血清，但提出了一些有前景的方向。",
+          "实验旨在验证AI能否革新药物开发，结果喜忧参半。"
+        ],
+        "detail": "一家投资研究公司想证明AI能彻底改变药物研发，于是与Anthropic合作，测试未发布版Claude能否制造蝎子抗毒血清。结果Claude没能成功，不过它提出了一些有希望的思路。",
+        "generatedAt": "2026-10-22T21:03:41+08:00"
+      }
     },
     {
       "id": "4ab93569e260b2b0",
@@ -225,6 +372,82 @@
       }
     },
     {
+      "id": "1e5b5ce3c2bad894",
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "url": "https://leiphone.com/category/industrynews/IshbO1ikAgjvB6G9.html",
+      "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。该模型专为快速决策打造，在处理结构化决策任务时，具备准确率更高、响应更快、Token成本更低等优势，尤其适合产业AI场景。LingDT-Decision-1.0提供4B和27B两个版本，目前，模型已经在蚂蚁数科 DTMaaS 平台上线，开发者可限时免费体验。蚂蚁数科团队在客服、风控、金融等真实业务场景测试显示，在处理同样任务时，LingDT-Decision-1.0相比于大语言模型，可将Token…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T18:54:00+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "上线"
+      ],
+      "confidence": 1,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "蚂蚁数科发布决策模型 LingDT-Decision-1.0，准确率超微软等模型",
+        "takeaway": "国产决策专用模型上线，主打高准确率、快响应、低 Token 成本，面向产业 AI 场景。",
+        "bullets": [
+          "蚂蚁数科发布 LingDT-Decision-1.0，专为快速决策打造。",
+          "提供 4B 和 27B 两个版本，已在 DTMaaS 平台限时免费体验。",
+          "官方称在结构化决策任务上准确率超过微软和 Jev 等决策模型。",
+          "客服、风控、金融等场景测试显示 Token 成本低于大语言模型。"
+        ],
+        "detail": "10 月 22 日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0，专为快速决策设计，在处理结构化决策任务时准确率更高、响应更快、Token 成本更低，适合产业 AI 场景。该模型有 4B 和 27B 两个版本，已在蚂蚁数科 DTMaaS 平台上线，开发者可限时免费体验。团队在客服、风控、金融等真实业",
+        "generatedAt": "2026-10-22T21:03:41+08:00"
+      }
+    },
+    {
+      "id": "5172aeeaceb7e3de",
+      "title": "Carbon-X: the best open DNA language model runs locally with llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xcew36/carbonx_the_best_open_dna_language_model_runs",
+      "summary": "Hi everyone, we just released Carbon-X, a 14B model that brings DNA and natural language together for the first time 🧬 On five DNA benchmarks it beats every open language model we tested and matches GPT-6.1 Sol, at about 1,000x lower cost:…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T18:28:40+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT",
+        "Llama"
+      ],
+      "confidence": 0.5,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Carbon-X：14B 开源 DNA 语言模型可在本地用 llama.cpp 运行",
+        "takeaway": "首个把 DNA 与自然语言结合的开源 14B 模型，五项 DNA 基准超越所有测试过的开源模型并追平 GPT-6.1 Sol，成本低约千倍。",
+        "bullets": [
+          "Carbon-X 是 14B 开源模型，首次将 DNA 与自然语言统一建模",
+          "在五项 DNA 基准上超过所有测试过的开源语言模型",
+          "性能追平 GPT-6.1 Sol，成本约低 1000 倍",
+          "支持 llama.cpp 本地运行，便于隐私敏感场景部署"
+        ],
+        "detail": "团队发布 Carbon-X，一个 14B 参数的开源模型，首次把 DNA 序列和自然语言放在一起建模。它在五项 DNA 基准测试中胜过所有被测开源语言模型，并追平 GPT-6.1 Sol，而成本约低 1000 倍。模型可通过 llama.cpp 在本地运行。",
+        "generatedAt": "2026-10-22T21:03:42+08:00"
+      }
+    },
+    {
       "id": "2ed22a61b2f19a0c",
       "title": "Broad access through consistent standards",
       "url": "https://openai.com/index/broad-access-through-consistent-standards",
@@ -336,6 +559,112 @@
         ],
         "detail": "据 Bloomberg 报道，杭州公司 DeepSeek 在最新一轮融资中募得约 1000 亿元人民币（150 亿美元）。融资目标在谈判中至少上调两次，从 500 亿到 800 亿，最终落定 1000 亿。宁德时代和腾讯是这轮最大的投资者。",
         "generatedAt": "2026-10-22T15:09:16+08:00"
+      }
+    },
+    {
+      "id": "743209465415f010",
+      "title": "1Password lets AI agents use your passwords without seeing them",
+      "url": "https://theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+      "summary": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected ac…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T21:00:00+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing"
+      ],
+      "confidence": 0.5,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "1Password 推出新功能：AI 代理可登录账户但看不到密码",
+        "takeaway": "1Password 让 AI 代理代你登录账户，却无需接触密码本身，兼顾便利与安全。",
+        "bullets": [
+          "1Password 发布 1Password for Agents 功能，允许 AI 代理登录账户。",
+          "AI 代理不会看到或处理你的实际密码，降低泄露风险。",
+          "该功能并非让机器人无限制访问所有已连接账户。"
+        ],
+        "detail": "1Password 推出名为 1Password for Agents 的新功能，让 AI 代理能代替用户登录账户，但全程不会看到或接触真实密码。这并非给机器人开放所有账户的完全权限，而是在安全前提下实现自动化登录。",
+        "generatedAt": "2026-10-22T21:03:42+08:00"
+      }
+    },
+    {
+      "id": "b7acf8ecf445dab3",
+      "title": "谁在给OpenAI供应具身数据？",
+      "url": "https://qbitai.com/2026/10/504800.html",
+      "summary": "挤进全球Physical AI核心供应链",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T15:05:59+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谁在给OpenAI供应具身数据？",
+        "takeaway": "揭秘OpenAI具身智能数据供应链，有公司挤进全球核心圈。",
+        "bullets": [
+          "OpenAI的Physical AI依赖外部具身数据供应。",
+          "某供应商成功进入全球核心供应链。",
+          "具身数据成为AI竞争的新焦点。"
+        ],
+        "detail": "OpenAI发展具身智能需要大量物理世界数据，有公司已挤进其全球核心供应链。这显示具身数据正成为AI竞赛的关键资源。",
+        "generatedAt": "2026-10-22T21:03:43+08:00"
+      }
+    },
+    {
+      "id": "d524ded1295e7b8b",
+      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "url": "https://wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna",
+      "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T18:00:00+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Hugging Face 发布开源 AI 生物模型，可与 DNA 对话",
+        "takeaway": "Hugging Face 推出开源模型，用对话方式解读 DNA 序列变化对基因活性和健康的影响。",
+        "bullets": [
+          "模型开源，研究者可免费使用和修改",
+          "能预测 DNA 变化对基因活性的影响",
+          "面向科研，助力理解健康与疾病机制"
+        ],
+        "detail": "Hugging Face 的新开源模型能“说” DNA 语言，帮助研究人员理解任意 DNA 变化如何影响基因活性和健康。该模型开放给科研社区，有望加速基因研究与疾病机制探索。",
+        "generatedAt": "2026-10-22T21:03:44+08:00"
       }
     },
     {
@@ -670,6 +999,42 @@
       }
     },
     {
+      "id": "d01523a77e0850d3",
+      "title": "2026 上海开源软件应用创新大赛「AI+工业软件赛道」决赛名单公布",
+      "url": "https://oschina.net/news/503162",
+      "summary": "2026 上海开源软件应用创新大赛「AI+工业软件赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级，将于 10 月 29 日在上海张江人工智能创新小镇参加总决赛。现将入围名单按报名时间顺序公示如下： 项目名称团队负责人代码仓库地址 EasyAIoT 张志翔 https://gitee.com/volara/easyaiot LISSIO 王鹏恒 https://codebe...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T18:37:59+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.6,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "2026 上海开源软件大赛 AI+工业软件赛道决赛十强出炉",
+        "takeaway": "十支队伍晋级 10 月 29 日张江总决赛，AI 与工业软件结合的开源项目受关注。",
+        "bullets": [
+          "决赛名单按报名时间顺序公示，共 10 支队伍晋级",
+          "总决赛 10 月 29 日在上海张江人工智能创新小镇举行",
+          "入围项目含 EasyAIoT 等，代码仓库公开可查"
+        ],
+        "detail": "2026 上海开源软件应用创新大赛的「AI+工业软件赛道」今天公布了决赛入围名单，10 支队伍晋级。这些队伍将于 10 月 29 日在上海张江人工智能创新小镇参加总决赛，名单按报名时间顺序公示，并附有各项目的代码仓库地址。",
+        "generatedAt": "2026-10-22T21:03:44+08:00"
+      }
+    },
+    {
       "id": "3f5c069d84e83276",
       "title": "GitHub 通过 AI 辅助重构，将 Copilot 运行时迁移至 Rust",
       "url": "https://infoq.cn/article/zGqDWHF8tHDtlYcImAJS",
@@ -703,6 +1068,45 @@
         ],
         "detail": "GitHub 通过 AI 辅助重构，把 Copilot 的运行时迁移到了 Rust。这意味着 AI 不仅写代码，还能参与大型基础设施的改造，对关注工程效率和 Rust 生态的开发者有参考价值。",
         "generatedAt": "2026-10-22T15:09:20+08:00"
+      }
+    },
+    {
+      "id": "a62e0e039569b9f4",
+      "title": "独家丨灵钜创新完成数千万元天使轮，南山战新投、龙华资本联合投资",
+      "url": "https://leiphone.com/category/weiwu/ofJthQTqIHVZaF0M.html",
+      "summary": "首款产品定位“个人 CNC 工作站”，将于今年 11 月开启众筹。作者丨姚单编辑丨董子博雷峰网·鲸犀独家获悉，桌面 CNC 公司灵钜创新（品牌名 CubiFab）近期完成数千万元天使轮融资，由南山战新投、龙华资本联合投资。此前，啟赋资本参与了其种子轮投资。灵钜创新以 x86 为技术底座，把 AI 算力与实时控制放到机器端侧（Edge） 。首款桌面 CNC 产品 CubiFab C1 定位“个人 CNC 工作站”，面向全球 Maker，帮助用户在自己的桌面上完成从设计到金属功能…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T18:06:00+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "轮融资",
+        "投资"
+      ],
+      "confidence": 0.75,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "灵钜创新获数千万元天使轮，桌面CNC工作站11月众筹",
+        "takeaway": "桌面CNC公司灵钜创新完成数千万元天使轮，南山战新投、龙华资本联合投资，首款产品11月众筹。",
+        "bullets": [
+          "灵钜创新完成数千万元天使轮，南山战新投、龙华资本联合投资",
+          "此前种子轮由啟赋资本参与投资",
+          "首款产品CubiFab C1定位个人CNC工作站，面向全球Maker",
+          "产品将于今年11月开启众筹"
+        ],
+        "detail": "灵钜创新（品牌CubiFab）近期完成数千万元天使轮融资，投资方为南山战新投和龙华资本，种子轮曾获啟赋资本投资。公司以x86为技术底座，将AI算力与实时控制放在机器端侧。首款桌面CNC产品CubiFab C1定位“个人CNC工作站”，面向全球Maker，帮助用户在桌面上完成从设计到金属功能件的制作，计划今年11月众筹。",
+        "generatedAt": "2026-10-22T21:03:46+08:00"
       }
     },
     {
@@ -1106,6 +1510,148 @@
       }
     },
     {
+      "id": "539f4c724b07ccc1",
+      "title": "AI agents are ready to shop. Some retailers are wary.",
+      "url": "https://theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+      "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buy…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T20:30:00+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "available"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI代理代购来了，部分零售商态度谨慎",
+        "takeaway": "AI代理开始替用户购物，科技公司力推，但零售商对开放接口仍存顾虑。",
+        "bullets": [
+          "AI代理可代用户完成购物，体验新奇但尚不成熟",
+          "科技公司将其包装为普惠的个人助理服务",
+          "部分零售商对AI代理接入持谨慎观望态度"
+        ],
+        "detail": "用AI代理替你购物是一种奇特的体验。科技公司把它们宣传成个人助理，让原本只有富人才能享有的劳动力服务变得大众化。但实际使用中，至少从购买环节看，体验并不完美，一些零售商也对此保持警惕。",
+        "generatedAt": "2026-10-22T21:03:46+08:00"
+      }
+    },
+    {
+      "id": "ba03d4448fb3c959",
+      "title": "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+      "url": "https://theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+      "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T19:00:00+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Eiliko 机器人被曝安全漏洞，厂商称将聘独立安全公司调查",
+        "takeaway": "主打 AI 对话的挂饰机器人 Eiliko 被曝聊天记录可被黑客轻易读取，厂商回应将聘请独立安全公司。",
+        "bullets": [
+          "Eiliko 是挂在包上的 AI 对话机器人挂饰，宣称能保守秘密。",
+          "The Verge 报道称黑客可轻易读取用户完整对话记录。",
+          "厂商表示将聘请独立安全公司进行调查。"
+        ],
+        "detail": "Eiliko 是一款可挂在包上的可爱 AI 机器人挂饰，能进行对话，并告诉用户“你的秘密在我这里很安全”。但 The Verge 报道指出，它其实是安全噩梦，黑客能轻易读取所有对话的完整记录。厂商随后回应，将聘请独立安全公司处理此事。",
+        "generatedAt": "2026-10-22T21:03:46+08:00"
+      }
+    },
+    {
+      "id": "3b1852bb0011105e",
+      "title": "Making the case for context-aware AI",
+      "url": "https://technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T18:00:00+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "enterprise"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "企业AI需理解业务上下文，否则难落地",
+        "takeaway": "企业AI虽能提效，但缺乏对业务运作的理解会忽略关键约束，影响决策质量。",
+        "bullets": [
+          "企业AI可生成建议、自动化任务并加速决策",
+          "但若不了解业务实际运作，模型会遗漏约束和关系",
+          "上下文感知AI成为企业应用的关键挑战"
+        ],
+        "detail": "企业AI能提供建议、自动化任务并加快决策，但如果不理解企业实际如何运作，再强大的模型也可能忽略业务中的约束条件和关联关系，导致建议不切实际。",
+        "generatedAt": "2026-10-22T21:03:48+08:00"
+      }
+    },
+    {
+      "id": "e14922a56626d2a7",
+      "title": "OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了",
+      "url": "https://ifanr.com/1685507",
+      "summary": "大的还在后面 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T19:15:20+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 发现 PHP「世纪漏洞」，全球七成网站受威胁",
+        "takeaway": "OpenAI 披露 PHP 重大漏洞，影响全球约 70% 网站，安全风险极高。",
+        "bullets": [
+          "OpenAI 发现 PHP 存在「世纪漏洞」，波及全球约 70% 网站。",
+          "漏洞可能危及大量使用 PHP 的网站安全。",
+          "具体细节尚未公开，后续影响值得关注。"
+        ],
+        "detail": "OpenAI 发现了一个被称为「世纪漏洞」的 PHP 安全问题，全球约 70% 的网站可能受到影响。目前漏洞的具体细节和利用方式尚未公开，但鉴于 PHP 的广泛使用，潜在风险不容忽视。",
+        "generatedAt": "2026-10-22T21:03:48+08:00"
+      }
+    },
+    {
       "id": "fec3f8f0dab00f96",
       "title": "Tried running 748B DeepSeek-V4.1-Flash on a €2k PC",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xburkx/tried_running_748b_deepseekv41flash_on_a_2k_pc",
@@ -1142,6 +1688,183 @@
         "generatedAt": "2026-10-22T06:03:01+08:00"
       },
       "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "5d118fadbe793ddd",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T15:51:31+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "series"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "IBM Granite 时序模型推出集成预测功能",
+        "takeaway": "IBM 在 Hugging Face 发布 Granite 时序模型的集成预测方法，提升预测可靠性。",
+        "bullets": [
+          "IBM Granite 时序模型新增集成预测能力",
+          "该方法通过组合多个模型降低预测偏差",
+          "面向使用 Granite 进行时间序列分析的用户"
+        ],
+        "detail": "IBM 在 Hugging Face 上介绍了其 Granite 时间序列模型的集成预测方法。该方法通过组合多个模型的预测结果，来提高时间序列预测的准确性和稳健性。",
+        "generatedAt": "2026-10-22T21:03:48+08:00"
+      }
+    },
+    {
+      "id": "8cacaf29b1375238",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a mode…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T16:41:18+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI推理的隐藏账单：存储成本被忽视",
+        "takeaway": "AI成本不只GPU，推理产生的数据存储开销同样巨大，却常被忽略。",
+        "bullets": [
+          "高管多关注GPU和算力，忽视存储成本。",
+          "推理后数据留存带来持续存储开销。",
+          "存储成本可能成为AI总成本的重要部分。"
+        ],
+        "detail": "多数高管想到AI成本时，只看到GPU和电力，却忽略了数据存储费用。模型推理后留下的数据需要长期保存，这笔隐藏账单正悄然累积，可能影响AI项目的整体经济性。",
+        "generatedAt": "2026-10-22T21:03:50+08:00"
+      }
+    },
+    {
+      "id": "aabe9ef968a320ed",
+      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+      "url": "https://qbitai.com/2026/10/504841.html",
+      "summary": "FSD一年增长70万付费用户",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T15:14:48+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "特斯拉利润腰斩，市值一夜蒸发超通用汽车，马斯克称FSD在华将领先",
+        "takeaway": "特斯拉利润大幅下滑致市值暴跌，但马斯克仍对FSD前景充满信心，尤其看好中国市场。",
+        "bullets": [
+          "特斯拉利润遭遇腰斩，市值一夜蒸发超过通用汽车的总市值。",
+          "马斯克公开表示，FSD在中国市场也会保持遥遥领先。",
+          "FSD付费用户一年内增长了70万，显示业务仍在扩张。"
+        ],
+        "detail": "特斯拉最新财报显示利润大幅下滑，导致市值一夜之间跌去超过通用汽车的规模。尽管如此，马斯克强调FSD业务一年新增70万付费用户，并预言FSD在中国也将遥遥领先。",
+        "generatedAt": "2026-10-22T21:03:50+08:00"
+      }
+    },
+    {
+      "id": "497df76f73ff02ce",
+      "title": "千问AI硬件：一副眼镜的「越界」，与一个Agent的野心",
+      "url": "https://leiphone.com/category/weiwu/ft2h4iM9MlbukXOj.html",
+      "summary": "一副44g的眼镜能做什么？会议开始前自动录音，骑行时根据心率提醒你调整呼吸，在咖啡店看一眼外文菜单就知道你想问哪道菜，甚至点头就能完成支付。这是千问日前发布的AI眼镜N1 Pro给出的答案。同一天，它还发布了一款1099元起的AI耳夹式耳机。三款硬件同日开售，眼镜到手价2218元起，耳机1099元起。价格本身已经足够有信号意义。但真正值得讨论的，不是价格，而是千问想通过这些硬件做什么，以及这条路究竟能不能走通。 01 跨过工具与助手的距离过去几年AI眼镜留给消费者的印象并不好…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T16:14:00+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0.33,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "千问发布AI眼镜N1 Pro与耳夹耳机，三款硬件同日开售",
+        "takeaway": "千问用44克AI眼镜和低价耳机把Agent装进日常场景，价格背后是入口争夺战。",
+        "bullets": [
+          "N1 Pro眼镜重44克，支持会议录音、骑行心率提醒、菜单识别和点头支付",
+          "同日发布AI耳夹式耳机，1099元起，眼镜到手价2218元起",
+          "三款硬件同日开售，千问意在让Agent跨过工具与助手的距离",
+          "真正看点是千问想用硬件做什么，以及这条路能否走通"
+        ],
+        "detail": "千问发布AI眼镜N1 Pro，重44克，能自动录音会议、骑行时按心率提醒呼吸、识别外文菜单，甚至点头完成支付。同一天还推出1099元起的AI耳夹式耳机，三款硬件同日开售，眼镜到手价2218元起。价格有信号意义，但更值得关注的是千问通过这些硬件让Agent融入日常场景的野心。",
+        "generatedAt": "2026-10-22T21:03:51+08:00"
+      }
+    },
+    {
+      "id": "d8d5ef1f947766b4",
+      "title": "谁在养活 Anthropic？",
+      "url": "https://tmtpost.com/8177367.html",
+      "summary": "让我们一起抵达Anthropic的营业现场。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T16:03:53+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谁在养活 Anthropic？揭秘其营收来源",
+        "takeaway": "钛媒体探访 Anthropic 营业现场，解析这家 AI 公司靠什么赚钱。",
+        "bullets": [
+          "钛媒体发文追问 Anthropic 的营收来源",
+          "报道以“抵达营业现场”方式呈现其业务实况",
+          "Anthropic 是 Claude 系列模型背后的公司"
+        ],
+        "detail": "钛媒体发布文章《谁在养活 Anthropic？》，以“抵达营业现场”的视角，探讨这家 Claude 模型背后公司的收入来源。报道未在摘要中展开具体客户或财务数据，但指向对其商业模式和营收结构的关注。",
+        "generatedAt": "2026-10-22T21:03:51+08:00"
+      }
     },
     {
       "id": "52ef68092ee725bf",
@@ -1361,6 +2084,115 @@
         ],
         "detail": "有用户此前询问，在只能跑动 Qwen Flash Next 的 Q2 量化版、但能跑 27B 模型 Q8 版的情况下，是否值得尝试。大家普遍认为两者差不多或 Q8 会完胜，但实际体验并非如此，Qwen Flash Next 的 IQ2 版表现更好。",
         "generatedAt": "2026-10-22T15:09:20+08:00"
+      }
+    },
+    {
+      "id": "b3cb6b9ecffc7ba3",
+      "title": "OpenAI CLI",
+      "url": "https://github.com/openai/openai-cli",
+      "summary": "Article URL: https://github.com/openai/openai-cli Comments URL: https://news.ycombinator.com/item?id=50191507 Points: 165 # Comments: 83",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T13:23:11+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 发布官方命令行工具 openai-cli",
+        "takeaway": "OpenAI 在 GitHub 开源官方 CLI，开发者可在终端直接调用其能力，社区关注度高。",
+        "bullets": [
+          "OpenAI 在 GitHub 上线官方命令行工具 openai-cli",
+          "Hacker News 上获 165 分、83 条评论，讨论活跃",
+          "开发者可在终端直接调用 OpenAI 能力，简化工作流"
+        ],
+        "detail": "OpenAI 在 GitHub 开源了官方命令行工具 openai-cli，让开发者无需写代码就能在终端调用 OpenAI 的能力。该消息在 Hacker News 上引发热议，获得 165 分和 83 条评论，显示出社区对官方 CLI 工具的关注。",
+        "generatedAt": "2026-10-22T21:03:51+08:00"
+      }
+    },
+    {
+      "id": "606ca7a19acce9ac",
+      "title": "Llama.cpp PR: How to beat strata decode performance with a R9700",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xcf8kb/llamacpp_pr_how_to_beat_strata_decode_performance",
+      "summary": "submitted by /u/keyboardhack [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T18:48:15+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Llama.cpp 新 PR：用 R9700 显卡提升 strata 解码性能",
+        "takeaway": "Llama.cpp 社区提交 PR，展示如何用 R9700 显卡超越 strata 解码性能，值得本地推理用户关注。",
+        "bullets": [
+          "Llama.cpp 出现新 PR，讨论用 R9700 显卡提升解码性能。",
+          "目标是对标并超越 strata 的解码表现。",
+          "对本地运行大模型的用户有参考价值。"
+        ],
+        "detail": "Llama.cpp 社区出现一个 PR，介绍如何用 R9700 显卡在解码性能上超过 strata。帖子来自 r/LocalLLaMA，具体实现细节需查看原链接。",
+        "generatedAt": "2026-10-22T21:03:53+08:00"
+      }
+    },
+    {
+      "id": "a4ab5341c2d8e74d",
+      "title": "webgpu : add Q2_0 support by teddygood · Pull Request #30914 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xcdpks/webgpu_add_q2_0_support_by_teddygood_pull_request",
+      "summary": "Tested on an RTX 3060 with native Dawn WebGPU . llama-bench -m MODEL -p 512 -n 128 -r 5 -ngl 99 -dev WebGPU -t 2 -fa off Model Test master (t/s) PR (t/s) Ternary Bonsai 1.7B Q2_0 pp512 35.03 ± 0.46 1915.91 ± 3.36 Ternary Bonsai 1.7B Q2_0 tg…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T17:17:46+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 为 WebGPU 后端加入 Q2_0 量化支持",
+        "takeaway": "llama.cpp 的 WebGPU 后端新增 Q2_0 低比特量化支持，在 RTX 3060 上测试预填充速度提升约 54 倍。",
+        "bullets": [
+          "PR #30914 为 WebGPU 后端添加 Q2_0 量化格式支持",
+          "在 RTX 3060 上用 Dawn WebGPU 原生后端测试",
+          "Ternary Bonsai 1.7B Q2_0 模型预填充速度从 35 t/s 提升至 1916 t/s",
+          "低比特量化在浏览器/WebGPU 场景下推理效率显著改善"
+        ],
+        "detail": "该 PR 在 llama.cpp 的 WebGPU 后端中实现了 Q2_0 量化支持。测试使用 RTX 3060 和原生 Dawn WebGPU，对 Ternary Bonsai 1.7B Q2_0 模型进行基准测试，预填充速度从 master 分支的约 35 t/s 提升到 PR 分支的约 1916 t/s。",
+        "generatedAt": "2026-10-22T21:03:53+08:00"
       }
     },
     {
@@ -1835,6 +2667,54 @@
       }
     },
     {
+      "id": "a38bf864a5f67a47",
+      "title": "企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？",
+      "url": "https://infoq.cn/article/Ei2spcFKComKqkPv6osN",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T24:24:29+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "092aae77e3b9acc8",
+      "title": "AI把整个软件生态打成筛子，全栈开发者的至暗时刻",
+      "url": "https://infoq.cn/article/glAvFT7PWdZ53mbgPbgC",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T23:30:05+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "e319e8c28f3fd098",
       "title": "Inference time abliteration",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xc1e9y/inference_time_abliteration",
@@ -1856,6 +2736,54 @@
       ],
       "confidence": 0.5,
       "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0a1f7377c340390c",
+      "title": "腾讯姚顺宇的 AI “加班论”",
+      "url": "https://tmtpost.com/8177215.html",
+      "summary": "AI牌桌上，情绪正在变得极度焦灼。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T16:03:47+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a69c336598926516",
+      "title": "独家｜阿维塔副总裁孙百功即将离职，未来将投身AI与出海领域",
+      "url": "https://tmtpost.com/8177799.html",
+      "summary": "曾在华为体系工作近20年",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T18:32:41+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "离职"
+      ],
+      "confidence": 1,
+      "score": 33,
       "related": [],
       "pushed": false
     },
@@ -1980,6 +2908,104 @@
       ],
       "confidence": 1,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8005366785f89d57",
+      "title": "亚马逊云科技Ozgur Tohumcu：决定物理AI规模化落地速度的，往往不是技术本身",
+      "url": "https://tmtpost.com/8177096.html",
+      "summary": "大量企业的AI项目停留在概念验证阶段，没有真正走向量产与工业化落地。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T20:06:46+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "955e47d13f67a45c",
+      "title": "万播收益低至5元，AI短剧的生意为何越做越亏？",
+      "url": "https://tmtpost.com/8177437.html",
+      "summary": "98.7%的AI短剧都在赔钱，可钱究竟被谁赚走了？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T16:04:02+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d822785daed72ac3",
+      "title": "宁德时代，AI时代卖铲人的卖铲人",
+      "url": "https://tmtpost.com/8177328.html",
+      "summary": "今年上半年，宁德储能业务收入532.6亿元，同比增长87.5%，已经接近去年全年储能收入的85%。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T16:03:44+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "亿元"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e159f12ffa8af61e",
+      "title": "600亿元国家AI基金投向了谁",
+      "url": "https://tmtpost.com/8177374.html",
+      "summary": "600亿国家AI基金投出多项目，覆盖AI全产业链多环节。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T16:03:43+08:00",
+      "fetchedAt": "2026-10-22T21:03:29+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "亿元"
+      ],
+      "confidence": 1,
+      "score": 29,
       "related": [],
       "pushed": false
     },
