@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updatedAt": "2026-10-22T06:03:05+08:00",
+  "updatedAt": "2026-10-22T08:17:48+08:00",
   "items": [
     {
       "id": "1f413756a0cb0525",
@@ -151,6 +151,80 @@
       "pushedAt": "2026-10-22T06:03:05+08:00"
     },
     {
+      "id": "a61190ef2d9200f3",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T01:59:12+08:00",
+      "fetchedAt": "2026-10-22T08:17:38+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 揪出 PHP 古老漏洞，互联网安全拉响警报",
+        "takeaway": "OpenAI 与 Google 旗下 Wiz 用 AI 发现 PHP 历史漏洞，既展示 AI 防护力，也警示 AI 加剧攻击风险。",
+        "bullets": [
+          "OpenAI 和 Google 的 Wiz 利用 AI 发现 PHP 中潜伏已久的漏洞",
+          "漏洞被命名为“PHP Armageddon”，引发互联网安全担忧",
+          "事件凸显 AI 既能防御漏洞，也可能被用于加速攻击"
+        ],
+        "detail": "OpenAI 和 Google 旗下的安全公司 Wiz 借助 AI 发现了 PHP 中一些年代久远的漏洞，这些漏洞可能影响大量网站。此事之所以受关注，是因为它既说明 AI 能帮助提前发现并阻止安全问题，也提醒人们 AI 同样可能被用来放大风险。",
+        "generatedAt": "2026-10-22T08:17:44+08:00"
+      }
+    },
+    {
+      "id": "96dfa23c20904718",
+      "title": "【钛晨报】推动科技创新和产业创新深度融合，中办、国办最新部署；比亚迪回应L3车辆落地时间；证监会：促进北交所新股合理定价，稳步推出北证50ETF",
+      "url": "https://tmtpost.com/8176877.html",
+      "summary": "腾讯系企业Supercell全资收购《庄园合合》开发商；曝问界海外车型弃用华为智驾，改用博世方案出海欧洲；消息称Groq正计划将3D堆叠式DRAM封装技术应用于下一代芯片；OpenAI将ChatGPT广告业务扩展至26个新国家和地区；星巴克中国2027财年计划新增投入超3亿元；《电动汽车动力蓄电池在役检测试验方法》国标发布，覆盖电池隐患排查、二手车交易与功能检测等应用场景；工信部：2030年建设500个左右国家级零碳工厂和零碳算力设施；三季度末银行理财市场存续规模35.37万…",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T07:20:00+08:00",
+      "fetchedAt": "2026-10-22T08:17:38+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "功能",
+        "应用",
+        "落地",
+        "定价"
+      ],
+      "confidence": 0.44,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "钛晨报：中办国办部署科技产业融合，比亚迪回应L3落地",
+        "takeaway": "政策推动科技与产业深度融合，同时比亚迪L3时间表、北交所改革等动态值得关注。",
+        "bullets": [
+          "中办、国办部署推动科技创新和产业创新深度融合",
+          "比亚迪回应L3车辆落地时间，具体节点受关注",
+          "证监会将促进北交所新股合理定价，推北证50ETF",
+          "腾讯系Supercell全资收购《庄园合合》开发商"
+        ],
+        "detail": "中办、国办最新部署要求推动科技创新与产业创新深度融合。比亚迪就L3车辆落地时间作出回应。证监会表示将促进北交所新股合理定价，并稳步推出北证50ETF。此外，腾讯系Supercell全资收购《庄园合合》开发商。",
+        "generatedAt": "2026-10-22T08:17:44+08:00"
+      }
+    },
+    {
       "id": "2ed22a61b2f19a0c",
       "title": "Broad access through consistent standards",
       "url": "https://openai.com/index/broad-access-through-consistent-standards",
@@ -259,6 +333,42 @@
         "generatedAt": "2026-10-22T06:02:58+08:00"
       },
       "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "15efdecd25aa6847",
+      "title": "Meta to create a new class of shares to fund AI push",
+      "url": "https://theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compe…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T05:30:02+08:00",
+      "fetchedAt": "2026-10-22T08:17:38+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 拟发无投票权新股，为 AI 投入筹资",
+        "takeaway": "Meta 通过发行无投票权股票筹资，用于 AI 计划、潜在收购和员工薪酬，同时不稀释控制权。",
+        "bullets": [
+          "Meta 在第三季度财报中宣布发行一类无投票权股票。",
+          "资金将用于 AI 计划、潜在收购和员工薪酬。",
+          "无投票权设计可避免创始团队控制权被稀释。"
+        ],
+        "detail": "Meta 在周三发布的第三季度财报中宣布，将发行一类无投票权的新股票。所筹资金将用于支持其 AI 计划，也可能用于潜在收购和员工薪酬。由于新股没有投票权，现有股东的控制权不会被稀释。",
+        "generatedAt": "2026-10-22T08:17:44+08:00"
+      }
     },
     {
       "id": "87c5cb39af2eeb6f",
@@ -589,6 +699,78 @@
       "pushedAt": "2026-10-22T06:03:05+08:00"
     },
     {
+      "id": "3acc865d1f4fc7f5",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T06:51:22+08:00",
+      "fetchedAt": "2026-10-22T08:17:38+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黑石AI负责人：市场对AI基建债务的担忧被夸大",
+        "takeaway": "黑石AI主管回应市场对AI基建债务的担忧，认为恐慌过度，私募巨头并不焦虑。",
+        "bullets": [
+          "黑石AI负责人Jas Khaira称市场对AI基建债务的担忧被夸大",
+          "黑石作为私募巨头，对当前市场波动并不感到恐慌",
+          "此番表态回应了近期市场对AI投资过热的担忧"
+        ],
+        "detail": "黑石集团AI业务负责人Jas Khaira表示，市场对AI基础设施建设所涉债务的担忧被过度放大。他解释了这家私募巨头为何不因市场情绪波动而恐慌，认为当前担忧缺乏依据。",
+        "generatedAt": "2026-10-22T08:17:46+08:00"
+      }
+    },
+    {
+      "id": "c777cca0670d3561",
+      "title": "Data centers could erase decades of air quality gains",
+      "url": "https://theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T06:33:44+08:00",
+      "fetchedAt": "2026-10-22T08:17:38+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "数据中心激增或让得州空气污染倒退二十年",
+        "takeaway": "生成式AI背后的数据中心在得州快速扩张，可能使当地空气污染回到2000年代水平。",
+        "bullets": [
+          "得州成为生成式AI基础设施建设的核心地带",
+          "新建和规划中的数据中心带来巨大电力与排放需求",
+          "空气污染可能回升至2000年代水平，影响居民健康"
+        ],
+        "detail": "得州正成为生成式AI物理基础设施的中心，大量新建和规划中的数据中心推高了电力需求。这些设施可能让当地空气污染回升到2000年代的水平，逆转数十年来的空气质量改善成果。",
+        "generatedAt": "2026-10-22T08:17:46+08:00"
+      }
+    },
+    {
       "id": "fec3f8f0dab00f96",
       "title": "Tried running 748B DeepSeek-V4.1-Flash on a €2k PC",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xburkx/tried_running_748b_deepseekv41flash_on_a_2k_pc",
@@ -699,6 +881,116 @@
         "generatedAt": "2026-10-22T06:03:03+08:00"
       },
       "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "7427c42a84e4ca5b",
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c",
+      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T01:18:27+08:00",
+      "fetchedAt": "2026-10-22T08:17:38+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "valuation",
+        "series",
+        "billion"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Blacksmith获红杉领投6600万美元C轮，估值达10亿美元",
+        "takeaway": "AI代码构建测试平台Blacksmith完成C轮融资，跻身独角兽行列，红杉资本领投。",
+        "bullets": [
+          "Blacksmith完成6600万美元C轮融资，红杉资本领投。",
+          "此轮融资后公司估值达到10亿美元，成为新晋独角兽。",
+          "平台帮助企业更高效地构建和测试AI代码。"
+        ],
+        "detail": "Blacksmith是一家提供AI代码构建与测试平台的初创公司，近日宣布完成6600万美元C轮融资，由红杉资本领投。本轮融资使公司估值达到10亿美元，成功跻身独角兽行列。该平台旨在帮助企业更有效地开发和测试AI代码。",
+        "generatedAt": "2026-10-22T08:17:46+08:00"
+      }
+    },
+    {
+      "id": "9411db60f1d2c75a",
+      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "url": "https://wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure",
+      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T06:39:50+08:00",
+      "fetchedAt": "2026-10-22T08:17:38+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "扎克伯格留加州，新股票协议绑定AI野心",
+        "takeaway": "Meta董事会担心CEO离开影响AI战略，用新股票协议给扎克伯格财务激励留任。",
+        "bullets": [
+          "扎克伯格同意留在加州，应对亿万富翁税公投。",
+          "Meta董事会担忧CEO离职会打乱公司AI布局。",
+          "新股票协议提供财务激励，确保其留任。"
+        ],
+        "detail": "Meta董事会担心CEO离开会打乱公司的AI计划。一项新的股票协议给扎克伯格提供了财务激励，让他留在加州。此前有亿万富翁税公投，扎克伯格最终同意留下。",
+        "generatedAt": "2026-10-22T08:17:48+08:00"
+      }
+    },
+    {
+      "id": "9ab87a69a24e1634",
+      "title": "models: Add Flint model (FlintForCausalLM) by alexey-rsi · Pull Request #30928 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xc01z8/models_add_flint_model_flintforcausallm_by",
+      "summary": "now you can use Flint in llama.cpp (merged after 6h) Model specifications Property Flint Developer Recursive Architecture Decoder-only mixture-of-experts Transformer Total parameters 39.8B Active parameters per token Approximately 2.5B, inc…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T05:29:48+08:00",
+      "fetchedAt": "2026-10-22T08:17:38+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 合并 Flint 模型：39.8B 参数 MoE，每 token 仅激活 2.5B",
+        "takeaway": "Flint 模型正式进入 llama.cpp，稀疏 MoE 架构让本地推理更高效。",
+        "bullets": [
+          "Flint 是 39.8B 总参数的解码器 MoE 模型，每 token 仅激活约 2.5B。",
+          "开发者 Recursive 提交 PR，6 小时内被 llama.cpp 合并。",
+          "llama.cpp 用户现在可直接运行 Flint 模型。"
+        ],
+        "detail": "Flint 是一个总参数 39.8B 的混合专家（MoE）Transformer 模型，但每个 token 只激活约 2.5B 参数，推理成本较低。该模型的 llama.cpp 支持 PR 已合并，意味着本地推理用户可以直接使用。",
+        "generatedAt": "2026-10-22T08:17:47+08:00"
+      }
     },
     {
       "id": "c3da19bcc618836c",
@@ -883,6 +1175,31 @@
         "generatedAt": "2026-10-22T06:03:03+08:00"
       },
       "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "e319e8c28f3fd098",
+      "title": "Inference time abliteration",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xc1e9y/inference_time_abliteration",
+      "summary": "AbliteratedOutTheBox is a llama.cpp fork that abliterates any model you load, live at inference, with no fine-tuning and no extra files. This eliminates any hassle of abliteration without requiring any more vram. https://github.com/heterodo…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T06:24:42+08:00",
+      "fetchedAt": "2026-10-22T08:17:38+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 0.5,
+      "score": 34,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
