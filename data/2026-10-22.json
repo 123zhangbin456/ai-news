@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updatedAt": "2026-10-22T10:00:10+08:00",
+  "updatedAt": "2026-10-22T15:09:25+08:00",
   "items": [
     {
       "id": "1f413756a0cb0525",
@@ -297,6 +297,48 @@
       "pushedAt": "2026-10-22T06:03:05+08:00"
     },
     {
+      "id": "c7f2abcf6c43af45",
+      "title": "DeepSeek 融了 150 亿美元 —— 宁德时代和腾讯领投，目标两次上调",
+      "url": "https://oschina.net/news/503150/deepseek-raises-15-billion-in-challenge-to-leading-us-labs",
+      "summary": "DeepSeek 融到了 150 亿美元，跻身中国最大规模的融资之一。据 Bloomberg 报道，这家杭州公司在最新一轮融资中募得约 1000 亿元人民币（$15B），目标在谈判中至少上调了两次——从 500 亿到 800 亿，最后落定 1000 亿。宁德时代（CATL）和腾讯是这轮最大的投资者。这个数字的份量要放在对比里看。150 亿美元，是 DeepSe...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T11:40:47+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "轮融资",
+        "投资",
+        "亿美元",
+        "亿元",
+        "领投"
+      ],
+      "confidence": 0.87,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 完成 150 亿美元融资，宁德时代与腾讯领投",
+        "takeaway": "DeepSeek 募资约 1000 亿元人民币，跻身中国最大规模融资之一，目标两度上调。",
+        "bullets": [
+          "DeepSeek 最新一轮融资约 1000 亿元人民币（150 亿美元）",
+          "宁德时代和腾讯是这轮最大的投资者",
+          "融资目标在谈判中从 500 亿上调至 800 亿，最终定为 1000 亿",
+          "该金额使其跻身中国最大规模融资之列"
+        ],
+        "detail": "据 Bloomberg 报道，杭州公司 DeepSeek 在最新一轮融资中募得约 1000 亿元人民币（150 亿美元）。融资目标在谈判中至少上调两次，从 500 亿到 800 亿，最终落定 1000 亿。宁德时代和腾讯是这轮最大的投资者。",
+        "generatedAt": "2026-10-22T15:09:16+08:00"
+      }
+    },
+    {
       "id": "e9fc4036438cc691",
       "title": "Meta says Muse has over 10M users, with shopping a top activity",
       "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
@@ -371,6 +413,116 @@
       }
     },
     {
+      "id": "54a3914439ac2544",
+      "title": "[New Model] Sage-A1.5 released based on Qwen3.6-35B MoE with marketed benchmarks: \"highly competitive performance against frontier-scale systems such as Kimi-K3, GLM-5.3, and GPT-5.6-sol\"",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xcac1u/new_model_sagea15_released_based_on_qwen3635b_moe",
+      "summary": "In the process of setting up the model and running local benchmarks on it on the official q4_k_m quant; it might work in Strata too. Reports soon. Anyone played around with this one yet? submitted by /u/yehyakar [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T13:46:29+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "benchmarks"
+      ],
+      "confidence": 0.33,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Sage-A1.5 发布：基于 Qwen3.6-35B MoE，对标前沿模型",
+        "takeaway": "新开源 MoE 模型宣称性能比肩 Kimi-K3、GLM-5.3 等前沿系统，但尚待独立验证。",
+        "bullets": [
+          "Sage-A1.5 基于 Qwen3.6-35B MoE 架构发布",
+          "官方称其性能可与 Kimi-K3、GLM-5.3、GPT-5.6-sol 竞争",
+          "发帖者正用官方 q4_k_m 量化版跑本地基准，结果待公布"
+        ],
+        "detail": "Sage-A1.5 是一款基于 Qwen3.6-35B MoE 的新模型，官方宣传其性能足以与 Kimi-K3、GLM-5.3、GPT-5.6-sol 等前沿规模系统竞争。发帖者正在官方 q4_k_m 量化版本上搭建并运行本地基准测试，称该模型或许也能在 Strata 上运行，结果稍后公布，并询问是否有人已经试用过。",
+        "generatedAt": "2026-10-22T15:09:16+08:00"
+      }
+    },
+    {
+      "id": "1c8f14c544b68d14",
+      "title": "靳玉志：自动驾驶将重构新的出行方式",
+      "url": "https://leiphone.com/category/industrynews/PlEsyIhjrOGsxbYo.html",
+      "summary": "10月21日，2026世界智能网联汽车大会在北京举行。华为公司高级副总裁、引望公司CEO靳玉志出席巅峰对话环节，围绕智能化下半场的变化、引望在技术生态中的角色等话题分享了观点。靳玉志指出， “智能化下半场”正发生三大变化。第一是产业加速从辅助驾驶迈向自动驾驶。根据工信部统计数据，截至今年9月，L2及以上辅助驾驶搭载率已达到70%。工信部正有序开展L3级自动驾驶准入测试，强标也已正式发布，并将于2027年7月1日起正式落地实施，我认为这一政策给整个产业发展奠定了非常好的基础。第…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T10:27:00+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "观点",
+        "CEO"
+      ],
+      "confidence": 0.4,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "华为靳玉志：自动驾驶将重构出行方式",
+        "takeaway": "华为高管在智能网联汽车大会谈智能化下半场三大变化，L3准入与强标落地成关键节点。",
+        "bullets": [
+          "靳玉志称智能化下半场正发生三大变化，产业从辅助驾驶迈向自动驾驶",
+          "截至今年9月，L2及以上辅助驾驶搭载率已达70%",
+          "工信部有序开展L3准入测试，强标2027年7月1日实施"
+        ],
+        "detail": "10月21日，2026世界智能网联汽车大会在北京举行，华为高级副总裁、引望CEO靳玉志在巅峰对话中分享观点。他表示智能化下半场正发生三大变化，首先是产业加速从辅助驾驶迈向自动驾驶；工信部数据显示L2及以上辅助驾驶搭载率已达70%，L3准入测试有序推进，相关强标将于2027年7月1日落地。",
+        "generatedAt": "2026-10-22T15:09:16+08:00"
+      }
+    },
+    {
+      "id": "d4c0acaa841686e2",
+      "title": "Claude推出主动型Agent Duet，满脑子还是上班",
+      "url": "https://tmtpost.com/8177295.html",
+      "summary": "不用提问，主动干活，Anthropic也推出个人Agent了",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T14:17:04+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出",
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic推出主动型Agent Duet，无需提问即可干活",
+        "takeaway": "Anthropic发布个人Agent Duet，能主动执行任务，标志Agent从被动响应转向主动工作。",
+        "bullets": [
+          "Duet是Anthropic推出的主动型个人Agent，无需用户提问即可自主干活。",
+          "该产品定位偏向工作场景，强调“满脑子还是上班”。",
+          "这标志着Agent形态从被动响应向主动执行演进。"
+        ],
+        "detail": "Anthropic推出了名为Duet的主动型个人Agent，它不需要用户先提问就能主动执行任务。该产品主要面向工作场景，强调能帮用户处理上班相关事务。这体现了Agent从被动响应向主动工作的转变。",
+        "generatedAt": "2026-10-22T15:09:18+08:00"
+      }
+    },
+    {
       "id": "b2a0925cab0c012f",
       "title": "PHP 漏洞惊动日本首相：拖了两年的 OOM 问题，在 AI 时代爆发",
       "url": "https://oschina.net/news/503146",
@@ -405,6 +557,152 @@
         ],
         "detail": "日本首相高市早苗 10 月 21 日晚在 X 上发出紧急请求，称 PHP 安全团队披露了两个重大漏洞，而许多网站都在使用 PHP，呼吁国民尽快打补丁。这条推文浏览量超过 5700 万。开源语言漏洞惊动一国首相并公开喊话，在安全史上极为罕见。",
         "generatedAt": "2026-10-22T10:00:10+08:00"
+      }
+    },
+    {
+      "id": "d1e2a231ba3baf56",
+      "title": "拾趣 (Magpie) v0.1.16 发布，二级菜单交互升级，新增 7 家翻译服务",
+      "url": "https://oschina.net/news/503148",
+      "summary": "拾趣 (Magpie) v0.1.16 发布，二级菜单交互升级，新增 7 家翻译服务，并支持 OpenAI Responses API 拾趣是一款划词工具：屏幕上任何文字（包括图片里的），选中即可翻译、解释、总结、查询或存入笔记，结果就地呈现，无需切换窗口。本次版本聚焦二级菜单交互成型与翻译/模型服务生态扩充。新增新增 7 家机器翻译服务：...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T09:55:51+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "升级"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "拾趣 v0.1.16 发布：二级菜单交互升级，新增 7 家翻译服务",
+        "takeaway": "划词工具拾趣更新，优化二级菜单交互，并扩充翻译服务生态，支持 OpenAI Responses API。",
+        "bullets": [
+          "二级菜单交互升级，操作更顺手",
+          "新增 7 家机器翻译服务，选择更多",
+          "支持 OpenAI Responses API，模型接入更灵活"
+        ],
+        "detail": "拾趣是一款屏幕划词工具，选中任何文字（包括图片中的）即可就地翻译、解释、总结或存入笔记。v0.1.16 版本重点改进二级菜单交互，并新增 7 家翻译服务，同时支持 OpenAI Responses API，让服务生态更丰富。",
+        "generatedAt": "2026-10-22T15:09:18+08:00"
+      }
+    },
+    {
+      "id": "3a1d387bf91c35b3",
+      "title": "豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
+      "url": "https://infoq.cn/article/w065UmVL9EsVI6IVbBd7",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T18:00:00+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "插件"
+      ],
+      "confidence": 0.33,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "豆包工作上线 IGA Pages 插件，一句话生成可分享网页",
+        "takeaway": "豆包工作新增 IGA Pages 插件，用户用一句话即可创建可分享、可共创的网页，降低网页制作门槛。",
+        "bullets": [
+          "豆包工作推出 IGA Pages 插件，支持自然语言生成网页",
+          "生成的网页可分享、可共创，便于协作",
+          "面向需要快速制作网页的用户，简化流程"
+        ],
+        "detail": "豆包工作上线 IGA Pages 插件，用户只需一句话描述需求，就能生成可分享、可共同编辑的网页。该功能旨在降低网页制作门槛，方便团队协作和内容传播。",
+        "generatedAt": "2026-10-22T15:09:18+08:00"
+      }
+    },
+    {
+      "id": "30f6c8c852302224",
+      "title": "What's your favorite medium to large (~50-150b params) MOE model? Aside from Qwen flash next.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xc84ht/whats_your_favorite_medium_to_large_50150b_params",
+      "summary": "I recently got some more RAM on my desktop, which has opened up running larger MOEs by splitting them into RAM/VRAM. I know everyone loves Qwen flash next, but I'm curious what other ones are worth trying. On my list of to-try, I have: GPT …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T11:44:31+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "本地跑50-150B MoE模型，除了Qwen还有哪些值得试？",
+        "takeaway": "用户升级内存后想尝试更大MoE模型，社区讨论除Qwen外的选择。",
+        "bullets": [
+          "用户升级内存，可拆分模型到RAM/VRAM运行更大MoE",
+          "Qwen flash next受追捧，但用户寻求其他选项",
+          "待试清单包括GPT等模型，引发社区推荐讨论"
+        ],
+        "detail": "一位用户最近给台式机加了内存，现在能把大模型拆分到内存和显存里跑，于是想试试50到150B参数的中大型MoE模型。虽然大家都喜欢Qwen flash next，但他好奇还有哪些值得一试，并分享了自己的待试清单。",
+        "generatedAt": "2026-10-22T15:09:20+08:00"
+      }
+    },
+    {
+      "id": "3f5c069d84e83276",
+      "title": "GitHub 通过 AI 辅助重构，将 Copilot 运行时迁移至 Rust",
+      "url": "https://infoq.cn/article/zGqDWHF8tHDtlYcImAJS",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T21:17:00+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 0.5,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GitHub 用 AI 辅助重构，将 Copilot 运行时迁移至 Rust",
+        "takeaway": "GitHub 借助 AI 辅助完成 Copilot 运行时向 Rust 的迁移，展示 AI 参与大型重构的可行性。",
+        "bullets": [
+          "GitHub 将 Copilot 运行时从原有语言迁移到 Rust",
+          "重构过程借助 AI 辅助完成",
+          "为大型项目语言迁移提供新思路"
+        ],
+        "detail": "GitHub 通过 AI 辅助重构，把 Copilot 的运行时迁移到了 Rust。这意味着 AI 不仅写代码，还能参与大型基础设施的改造，对关注工程效率和 Rust 生态的开发者有参考价值。",
+        "generatedAt": "2026-10-22T15:09:20+08:00"
       }
     },
     {
@@ -1030,6 +1328,79 @@
       }
     },
     {
+      "id": "851c21505eabe81d",
+      "title": "I have an answer! Qwen Flash Next IQ2 IS better than Q8 of 27B (for me).",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xc7n0n/i_have_an_answer_qwen_flash_next_iq2_is_better",
+      "summary": "I asked a while ago if it would be worth it to try and run qwen flash next at q2 since I can only really fit it and nothing bigger, but I can run Q8 of 27B. Everyone told me it’s either a toss up or Q8 would obliterate it. Not the case. Now…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T11:18:34+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户实测：Qwen Flash Next 低量化版反超 27B 模型 Q8 版",
+        "takeaway": "社区用户实测发现，Qwen Flash Next 的 IQ2 量化版表现优于 27B 模型的 Q8 版，挑战了“量化越低越差”的直觉。",
+        "bullets": [
+          "用户原以为 Q8 版 27B 模型会完胜，结果 Qwen Flash Next IQ2 更好",
+          "此前社区普遍认为两者差不多或 Q8 会碾压",
+          "该结果基于个人使用体验，非系统评测"
+        ],
+        "detail": "有用户此前询问，在只能跑动 Qwen Flash Next 的 Q2 量化版、但能跑 27B 模型 Q8 版的情况下，是否值得尝试。大家普遍认为两者差不多或 Q8 会完胜，但实际体验并非如此，Qwen Flash Next 的 IQ2 版表现更好。",
+        "generatedAt": "2026-10-22T15:09:20+08:00"
+      }
+    },
+    {
+      "id": "4e9768704a8d7044",
+      "title": "全球算力价格指数启动九章云极核心共建算力定价基准",
+      "url": "https://leiphone.com/category/industrynews/NV7ccFeqrbG1oHSS.html",
+      "summary": "10月21日，全球算力价格指数及综合信息服务平台在金融街论坛正式启动。该指数由中国经济信息社发起建设，旨在填补算力定价基准空白、完善算力价格形成体系，推动建立具有自主知识产权的中国算力价格基准。北京九章云极科技股份有限公司（下称“九章云极”）作为核心共建单位参与建设。当前，人工智能产业快速发展，算力需求持续攀升，算力产业进入加速发展阶段。与此同时，算力市场仍缺乏统一的定价基准与公认的价格标尺，制约了产业协同与市场交易的效率。全球算力价格指数及综合信息服务平台的启动，将为算力跨…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T10:13:00+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 0.25,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "全球算力价格指数启动，九章云极参与共建定价基准",
+        "takeaway": "算力市场长期缺统一价格标尺，这一指数试图填补空白，为交易和产业协同提供参考。",
+        "bullets": [
+          "指数由中国经济信息社发起，10月21日在金融街论坛启动",
+          "九章云极作为核心共建单位参与建设",
+          "目标建立有自主知识产权的中国算力价格基准",
+          "算力需求攀升但缺乏统一定价，制约市场交易效率"
+        ],
+        "detail": "10月21日，全球算力价格指数及综合信息服务平台在金融街论坛正式启动。该指数由中国经济信息社发起，九章云极作为核心共建单位参与，旨在填补算力定价基准空白，推动建立具有自主知识产权的中国算力价格基准。当前算力需求持续攀升，但市场缺乏统一价格标尺，影响产业协同与交易效率。",
+        "generatedAt": "2026-10-22T15:09:22+08:00"
+      }
+    },
+    {
       "id": "c3da19bcc618836c",
       "title": "If the bubble bursts we keep local AI forever",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xbxmoo/if_the_bubble_bursts_we_keep_local_ai_forever",
@@ -1065,6 +1436,78 @@
         "generatedAt": "2026-10-22T06:03:03+08:00"
       },
       "pushedAt": "2026-10-22T06:03:05+08:00"
+    },
+    {
+      "id": "6e54c1bb1c355e79",
+      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+      "url": "https://wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched",
+      "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T10:24:17+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黑客在PHP漏洞修补前数日已开始利用",
+        "takeaway": "PHP严重漏洞在官方补丁发布前就被黑客利用，现已在互联网上广泛传播，需紧急防护。",
+        "bullets": [
+          "AWS四天前记录到利用PHP2Shell漏洞的攻击尝试",
+          "该漏洞可导致互联网服务瘫痪，现已被广泛利用",
+          "官方补丁尚未发布，攻击者已抢先行动",
+          "使用PHP的网站和服务面临严重风险"
+        ],
+        "detail": "亚马逊云服务（AWS）四天前就检测到有人尝试利用被称为“PHP2Shell”的严重PHP漏洞，这些漏洞能造成互联网服务瘫痪。目前这些漏洞正在互联网上被“广泛利用”，而官方补丁尚未发布，情况紧急。",
+        "generatedAt": "2026-10-22T15:09:22+08:00"
+      }
+    },
+    {
+      "id": "33eca01a47b14660",
+      "title": "撬开万亿 AI 硬件市场，一副普通眼镜刚刚好",
+      "url": "https://tmtpost.com/8177459.html",
+      "summary": "算力可以租，模型可以开源，芯片可以买——AI 产业里，第一次出现了钱买不到的东西。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T14:27:22+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "算力"
+      ],
+      "confidence": 0.38,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI硬件万亿市场，普通眼镜成关键入口",
+        "takeaway": "AI产业中算力、模型、芯片皆可获取，普通眼镜却成为撬动万亿硬件市场的独特切入点。",
+        "bullets": [
+          "算力、模型、芯片均可购买或租用，AI产业首次出现钱买不到的东西。",
+          "普通眼镜被视为撬动万亿AI硬件市场的关键产品形态。",
+          "这一观点来自钛媒体对AI硬件市场的分析。"
+        ],
+        "detail": "在AI产业里，算力可以租、模型可以开源、芯片可以买，但钛媒体指出，第一次出现了钱买不到的东西。而一副普通眼镜，恰恰成为撬动万亿AI硬件市场的合适载体。",
+        "generatedAt": "2026-10-22T15:09:22+08:00"
+      }
     },
     {
       "id": "cf8c5844437cd109",
@@ -1284,6 +1727,114 @@
       }
     },
     {
+      "id": "489dfe39a69f3e6e",
+      "title": "与 Redis 分道扬镳两年后，Valkey 不只要做缓存：单进程吞吐破百万，Rust 统一客户端底座",
+      "url": "https://infoq.cn/article/ud4r6jvkmuKNAu9NTHxF",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T23:00:00+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "客户"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Valkey 单进程吞吐破百万，Rust 统一客户端底座",
+        "takeaway": "Redis 分叉项目 Valkey 交出两年成绩单：性能破百万 QPS，并用 Rust 重做客户端底座。",
+        "bullets": [
+          "Valkey 与 Redis 分道扬镳两年后，单进程吞吐突破百万",
+          "不只定位缓存，正扩展为更通用的数据存储",
+          "用 Rust 统一客户端底座，降低多语言维护成本"
+        ],
+        "detail": "Valkey 是 Redis 变更许可证后从社区分叉出来的项目。如今它公布进展：单进程吞吐突破百万，并明确不只做缓存；同时用 Rust 统一客户端底座，减少各语言客户端各自为战的问题。",
+        "generatedAt": "2026-10-22T15:09:23+08:00"
+      }
+    },
+    {
+      "id": "6fa9d11514e3712a",
+      "title": "Shopify 将 Checkout Blocks 升级为 Polaris Web 组件，包体积最高缩减 85%",
+      "url": "https://infoq.cn/article/40B7RzB3uez5MvM1mCqW",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T19:17:00+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "升级"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Shopify 将 Checkout Blocks 升级为 Polaris Web 组件，包体积最高缩减 85%",
+        "takeaway": "Shopify 把结账页自定义模块改用 Polaris Web 组件，包体积最多减少 85%，结账页会更快。",
+        "bullets": [
+          "Shopify 将 Checkout Blocks 迁移到 Polaris Web 组件",
+          "包体积最高缩减 85%，结账页加载更轻",
+          "面向使用 Checkout Blocks 的商家和开发者"
+        ],
+        "detail": "Shopify 宣布把 Checkout Blocks 升级为 Polaris Web 组件。改造后包体积最高缩减 85%，结账页面的加载负担明显降低。对使用该功能的商家和开发者来说，结账体验有望更轻快。",
+        "generatedAt": "2026-10-22T15:09:24+08:00"
+      }
+    },
+    {
+      "id": "8862b682b26b55f2",
+      "title": "从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势",
+      "url": "https://infoq.cn/article/OX9rfbmh7V7thvWrkULb",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T18:00:00+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "趋势"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Snowflake 自适应计算：从固定规格到按需分配",
+        "takeaway": "Snowflake 提出按需分配算力思路，替代固定规格，值得关注数据仓库成本与弹性走向。",
+        "bullets": [
+          "Snowflake 介绍自适应计算底层逻辑",
+          "核心是从固定规格转向按需分配资源",
+          "面向数据仓库场景，或影响算力成本与弹性"
+        ],
+        "detail": "InfoQ 中国刊文梳理 Snowflake 自适应计算的底层逻辑，重点是从固定规格的资源模式转向按需分配。文章属于技术趋势类行业观点，讨论这种转变背后的设计思路。",
+        "generatedAt": "2026-10-22T15:09:25+08:00"
+      }
+    },
+    {
       "id": "e319e8c28f3fd098",
       "title": "Inference time abliteration",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xc1e9y/inference_time_abliteration",
@@ -1309,6 +1860,32 @@
       "pushed": false
     },
     {
+      "id": "78d67363177066e0",
+      "title": "Deep Reasoning in General Purpose Agents via Structured Meta-Cognition",
+      "url": "https://arxiv.org/abs/2605.11388",
+      "summary": "arXiv:2605.11388v2 Announce Type: replace Abstract: Humans intuitively solve complex problems by flexibly shifting among reasoning modes: they plan, execute, revise intermediate goals, resolve ambiguity through associative judgment, and app…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T12:00:00+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 31,
+      "paperRank": 18,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "5ec73d24cd65b474",
       "title": "Open source LLM appreciation post",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xc5qac/open_source_llm_appreciation_post",
@@ -1330,6 +1907,105 @@
       ],
       "confidence": 1,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6e3aebfc1fae2ca0",
+      "title": "PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网",
+      "url": "https://ifanr.com/1685446",
+      "summary": "网站被攻破后，数据、密码和令牌都可能受到影响 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T13:58:07+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "75559b28fb32de68",
+      "title": "Huawei Atlas AI Accelerator Latest Comparison Overview",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xc9oje/huawei_atlas_ai_accelerator_latest_comparison",
+      "summary": "https://preview.redd.it/hwwhtgar5ywh1.png?width=1688&format=png&auto=webp&s=1aabdbd2bead7b89baece7308d4daf2463885712 Hey, your friendly neighborhood Atlas advocate here, here with an update--just got off the call with our Silver rated Huawe…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T13:08:49+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "preview"
+      ],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1197a6bfee75c66c",
+      "title": "what can you do with smaller gpu's?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xca46l/what_can_you_do_with_smaller_gpus",
+      "summary": "I mean gpu's with 6/8/12GB vram. All discussion around llm/AI these days is around coding, and this is probably too small for agentic coding models. Are there models that can run in these that can accomplish useful tasks? eg things like hel…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T13:33:26+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e4b4ff6ffe2940d3",
+      "title": "MOSAIC: An Omni-Modal Benchmark for Long-Term Memory and Cross-Modal Reasoning in Conversational Agents",
+      "url": "https://arxiv.org/abs/2610.29249",
+      "summary": "arXiv:2610.29249v1 Announce Type: new Abstract: Omni-modal assistants must remember not only what users say, but also what they show and convey. Existing long-term memory benchmarks are mostly text-and-image or report a single end-to-end sc…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T12:00:00+08:00",
+      "fetchedAt": "2026-10-22T15:09:09+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
       "related": [],
       "pushed": false
     }
