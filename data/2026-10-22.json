@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updatedAt": "2026-10-22T09:14:55+08:00",
+  "updatedAt": "2026-10-22T10:00:10+08:00",
   "items": [
     {
       "id": "1f413756a0cb0525",
@@ -368,6 +368,43 @@
         ],
         "detail": "Meta 在周三发布的第三季度财报中宣布，将发行一类无投票权的新股票。所筹资金将用于支持其 AI 计划，也可能用于潜在收购和员工薪酬。由于新股没有投票权，现有股东的控制权不会被稀释。",
         "generatedAt": "2026-10-22T08:17:44+08:00"
+      }
+    },
+    {
+      "id": "b2a0925cab0c012f",
+      "title": "PHP 漏洞惊动日本首相：拖了两年的 OOM 问题，在 AI 时代爆发",
+      "url": "https://oschina.net/news/503146",
+      "summary": "日本首相高市早苗昨晚在 X 上向国民发出「大至急」请求，内容是 PHP 的两个重大漏洞——一个开源语言的漏洞，让一国首相连夜出面呼吁国民尽快打补丁，这在安全史上极为罕见。这条推文浏览量超过 5700 万。高市早苗的推文（10 月 21 日 20:55 发布）说得很直白：「许多网站都在使用的 PHP 语言，PHP 安全团队对两个重大漏...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T09:27:20+08:00",
+      "fetchedAt": "2026-10-22T10:00:01+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.4,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "PHP 两个重大漏洞惊动日本首相，连夜呼吁国民打补丁",
+        "takeaway": "PHP 曝出两个重大漏洞，日本首相罕见公开呼吁打补丁，推文浏览量超 5700 万。",
+        "bullets": [
+          "日本首相高市早苗在 X 上紧急呼吁国民尽快修复 PHP 漏洞",
+          "涉事的是 PHP 两个重大安全漏洞，影响大量使用该语言的网站",
+          "相关推文浏览量超过 5700 万，一国首相连夜发声极为罕见",
+          "标题提到的拖了两年的 OOM 问题在 AI 时代被放大"
+        ],
+        "detail": "日本首相高市早苗 10 月 21 日晚在 X 上发出紧急请求，称 PHP 安全团队披露了两个重大漏洞，而许多网站都在使用 PHP，呼吁国民尽快打补丁。这条推文浏览量超过 5700 万。开源语言漏洞惊动一国首相并公开喊话，在安全史上极为罕见。",
+        "generatedAt": "2026-10-22T10:00:10+08:00"
       }
     },
     {
@@ -1211,6 +1248,42 @@
       }
     },
     {
+      "id": "ec31ffb7501a0aa3",
+      "title": "AWS Lambda推动无服务器向长时间运行的工作负载发展",
+      "url": "https://infoq.cn/article/0vwVMhufb66SBofWsvRz",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T17:11:00+08:00",
+      "fetchedAt": "2026-10-22T10:00:01+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "服务器"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AWS Lambda 扩展支持长时间运行工作负载",
+        "takeaway": "AWS Lambda 向长时间运行任务延伸，无服务器适用范围扩大，值得开发者关注。",
+        "bullets": [
+          "AWS Lambda 推动无服务器支持长时间运行工作负载",
+          "面向需要持续运行的任务场景",
+          "可能影响开发者对无服务器架构的选型"
+        ],
+        "detail": "AWS Lambda 正在把无服务器能力扩展到运行时间更长的工作负载。这意味着原本不适合无服务器架构的持续型任务，可能有了新的部署选择。",
+        "generatedAt": "2026-10-22T10:00:09+08:00"
+      }
+    },
+    {
       "id": "e319e8c28f3fd098",
       "title": "Inference time abliteration",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xc1e9y/inference_time_abliteration",
@@ -1232,6 +1305,31 @@
       ],
       "confidence": 0.5,
       "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5ec73d24cd65b474",
+      "title": "Open source LLM appreciation post",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xc5qac/open_source_llm_appreciation_post",
+      "summary": "I just downloaded Raon-1-mini 30B A4B as well as Flint 40B A2.5B and it just blows my mind that we have so many options now from so many countries. It feels like the countries are all working together and trying to contribute useful softwar…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-22T09:45:47+08:00",
+      "fetchedAt": "2026-10-22T10:00:01+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open source"
+      ],
+      "confidence": 1,
+      "score": 30,
       "related": [],
       "pushed": false
     }
