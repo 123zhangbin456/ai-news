@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updatedAt": "2026-10-24T01:37:56+08:00",
+  "updatedAt": "2026-10-24T05:46:47+08:00",
   "items": [
     {
       "id": "374464c5687b489e",
@@ -883,6 +883,42 @@
         ],
         "detail": "Meta 推迟了其新商业条款的执行，因为出版商担心这些条款可能允许 Meta 抓取新闻网站内容用于 AI 训练。Meta 在给 The Verge 的声明中作出了回应，但未提供更多细节。",
         "generatedAt": "2026-10-24T01:37:52+08:00"
+      }
+    },
+    {
+      "id": "48e2274fdf2ba9fe",
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T18:00:00+08:00",
+      "fetchedAt": "2026-10-24T05:46:37+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "explains"
+      ],
+      "confidence": 0.33,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 加固前沿模型训练环境的安全隔离",
+        "takeaway": "OpenAI 披露如何强化前沿模型训练与评估的隔离措施，涉及离线环境和高算力红队测试。",
+        "bullets": [
+          "OpenAI 介绍前沿模型训练环境的安全加固措施",
+          "措施包括离线运行环境与高算力红队测试",
+          "旨在降低训练和评估过程中的安全风险"
+        ],
+        "detail": "OpenAI 发文说明其如何加强前沿模型训练与评估的隔离防护，具体措施包括搭建离线环境，以及开展高算力红队测试，以提升整体安全性。",
+        "generatedAt": "2026-10-24T05:46:43+08:00"
       }
     },
     {

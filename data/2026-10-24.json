@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updatedAt": "2026-10-24T01:37:56+08:00",
+  "updatedAt": "2026-10-24T05:46:47+08:00",
   "items": [
     {
       "id": "298c8de07d18f423",
@@ -36,6 +36,42 @@
         ],
         "detail": "OpenAI 发文介绍如何扩展 Habitat 存储系统以服务超 10 亿 ChatGPT 用户。通过可靠的多租户设计、全局缓存和 Azure Cosmos DB，ChatGPT 的读取速度提升了 12 倍。",
         "generatedAt": "2026-10-24T01:37:50+08:00"
+      }
+    },
+    {
+      "id": "6c51129e93f61d6b",
+      "title": "Introducing Kimi K3.1 Pro",
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro",
+      "summary": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at …",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T03:40:54+08:00",
+      "fetchedAt": "2026-10-24T05:46:37+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing"
+      ],
+      "confidence": 0.63,
+      "score": 59,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Kimi K3.1 Pro 上线 API，权重承诺 2026 年 11 月前开源",
+        "takeaway": "月之暗面发布 Kimi K3.1 Pro，先开放 API 调用，开源权重还要等两年多。",
+        "bullets": [
+          "Kimi K3.1 Pro 今日上线 Kimi API，暂未开放模型权重",
+          "官方承诺 2026 年 11 月 4 日前发布完整模型权重",
+          "同步推出 Highspeed 版本，速度提升 2～3 倍"
+        ],
+        "detail": "月之暗面今天在 Kimi API 上线了 Kimi K3.1 Pro，但目前还不能下载模型权重。官方承诺最晚 2026 年 11 月 4 日放出完整权重，同时提供一个速度提升 2～3 倍的 Highspeed 版本。",
+        "generatedAt": "2026-10-24T05:46:43+08:00"
       }
     },
     {
@@ -187,6 +223,44 @@
       }
     },
     {
+      "id": "5ff2a4c65b8c7a06",
+      "title": "qwen4exp : build the QSA selection without the kq_mask by sanmai · Pull Request #30965 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xdmek0/qwen4exp_build_the_qsa_selection_without_the_kq",
+      "summary": "gigabytes of VRAM saved (Qwen Flash Next) \"This is one of the things Strata does to squeeze the most juice from the experts' cache.\" submitted by /u/jacek2023 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T02:43:46+08:00",
+      "fetchedAt": "2026-10-24T05:46:37+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 新 PR：Qwen 模型省下数 GB 显存",
+        "takeaway": "llama.cpp 合并 PR，通过去掉 kq_mask 优化 QSA 选择，为 Qwen 模型节省数 GB 显存。",
+        "bullets": [
+          "PR #30965 由 sanmai 提交，改动了 QSA 选择逻辑",
+          "核心是去掉 kq_mask，减少显存占用",
+          "针对 Qwen Flash Next 模型，可省数 GB 显存",
+          "属于 llama.cpp 本地推理优化，影响本地部署用户"
+        ],
+        "detail": "这个 PR 在 llama.cpp 中重构了 QSA 选择，不再依赖 kq_mask，从而为 Qwen Flash Next 模型节省数 GB 显存。提交者称这是 Strata 从专家缓存中榨取性能的手段之一，对本地跑大模型的用户是实打实的显存减负。",
+        "generatedAt": "2026-10-24T05:46:44+08:00"
+      }
+    },
+    {
       "id": "d5dfb55b012918e7",
       "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
       "url": "https://huggingface.co/blog/allenai/litpivot",
@@ -290,6 +364,153 @@
         ],
         "detail": "AgentionAI 在 Hugging Face 上线了 Gyro Coder Large，这是 Qwen3.8 Flash Next 的编程专用微调模型。它和 Gyro-S 体积相当，但专家数减半、每个专家的位数更多，因此能塞进 32GB 显存。更多细节见模型卡。",
         "generatedAt": "2026-10-24T01:37:54+08:00"
+      }
+    },
+    {
+      "id": "4f8bba4990b7ebd9",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026",
+      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scalin…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T03:06:23+08:00",
+      "fetchedAt": "2026-10-24T05:46:37+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "founder"
+      ],
+      "confidence": 0.5,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "TechCrunch 2026 创始人峰会嘉宾揭晓：Toast 与 Bessemer 高管将分享实战经验",
+        "takeaway": "TechCrunch 与 Fidelity 合办的创始人峰会公布演讲阵容，聚焦获客、团队与领导力等创业现实议题。",
+        "bullets": [
+          "TechCrunch 与 Fidelity Private Shares 合作举办全天峰会",
+          "Toast 和 Bessemer 等公司高管将出席分享",
+          "议题超越融资与 AI，涵盖获客、团队建设、路演打磨与领导力",
+          "活动面向创始人，探讨规模化等实际挑战"
+        ],
+        "detail": "TechCrunch 将与 Fidelity Private Shares 合作举办 2026 年创始人峰会，为期一天。活动不仅讨论融资和 AI，还关注寻找客户、组建团队、打磨路演、培养创始人领导力以及规模化等现实问题。Toast 和 Bessemer 等机构的高管将到场分享。",
+        "generatedAt": "2026-10-24T05:46:46+08:00"
+      }
+    },
+    {
+      "id": "6643f32ed82d5f61",
+      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising",
+      "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T04:19:55+08:00",
+      "fetchedAt": "2026-10-24T05:46:37+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "privacy",
+        "policy"
+      ],
+      "confidence": 0.4,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌隐私政策更新：开启个人智能或让Gmail数据用于广告",
+        "takeaway": "谷歌更新隐私政策，用户开启个人智能功能后，Gmail数据可能被用于广告定向。",
+        "bullets": [
+          "谷歌更新隐私政策，明确个人智能功能会收集更多数据。",
+          "开启该功能后，Gmail内容可能被用于广告定向。",
+          "用户需留意设置，权衡便利与隐私。"
+        ],
+        "detail": "谷歌更新隐私政策，说明开启“个人智能”功能后，公司会获得更多数据用于广告定向，其中可能包括Gmail内容。用户需注意该功能设置对隐私的影响。",
+        "generatedAt": "2026-10-24T05:46:45+08:00"
+      }
+    },
+    {
+      "id": "bcfd3c4b77970aaa",
+      "title": "I ran all the popular Qwen 3.8 FN engines on a single 5090 + 128GB of RAM, here are the numbers",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xdlunp/i_ran_all_the_popular_qwen_38_fn_engines_on_a",
+      "summary": "Before you read: I'm the developer of Basalt, one of the engines benchmarked below. I tried to keep this as fair as possible: same checkpoint, GPU and requests, and every engine set up the way its own docs recommend. How it was run is at th…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T02:22:56+08:00",
+      "fetchedAt": "2026-10-24T05:46:37+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 各推理引擎在单卡 5090 上实测对比",
+        "takeaway": "开发者自测多款 Qwen 3.8 推理引擎，同硬件同模型比性能，选型有参考。",
+        "bullets": [
+          "测试覆盖多款热门 Qwen 3.8 推理引擎",
+          "统一使用单张 5090 与 128GB 内存",
+          "作者是 Basalt 引擎开发者，已声明利益相关",
+          "各引擎按官方文档推荐配置运行"
+        ],
+        "detail": "作者在单张 RTX 5090 加 128GB 内存的机器上，用同一模型权重和相同请求测试了多款 Qwen 3.8 推理引擎，每个引擎都按其官方文档推荐方式配置。他本人是参测引擎 Basalt 的开发者，但表示尽量保证公平，具体测试方法见原文。",
+        "generatedAt": "2026-10-24T05:46:46+08:00"
+      }
+    },
+    {
+      "id": "1cac7093e7019b77",
+      "title": "Strata now supports Qwen 3.6 35B",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xdktmz/strata_now_supports_qwen_36_35b",
+      "summary": "Tried it on a build for gfx906(mi50 16gb) and ran worse than llamacpp on decode speed. submitted by /u/JsThiago5 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T01:44:20+08:00",
+      "fetchedAt": "2026-10-24T05:46:37+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Strata 新增支持 Qwen 3.6 35B 模型",
+        "takeaway": "Strata 宣布支持 Qwen 3.6 35B，但用户实测在旧 AMD 卡上解码速度不及 llamacpp。",
+        "bullets": [
+          "Strata 新增对 Qwen 3.6 35B 模型的支持",
+          "用户用 gfx906（MI50 16GB）构建版本实测",
+          "实测解码速度比 llamacpp 更差"
+        ],
+        "detail": "Strata 现在支持 Qwen 3.6 35B 模型。一位用户在 gfx906（MI50 16GB）上构建并测试后表示，其解码速度不如 llamacpp。该反馈来自 r/LocalLLaMA 社区。",
+        "generatedAt": "2026-10-24T05:46:47+08:00"
       }
     },
     {
@@ -538,6 +759,52 @@
         "detail": "美国针对外国制造机器人的禁令存在模糊之处，引发英特尔担忧其芯片工厂可能受影响。英特尔表示，外国制造的机器人车辆对美国的芯片生产至关重要。最终，英特尔获得了豁免，得以继续使用这些设备。",
         "generatedAt": "2026-10-24T01:37:55+08:00"
       }
+    },
+    {
+      "id": "2e4e85db49603fa8",
+      "title": "Here's where the last RTX 5090 cards are going: Massive AI conversion factory exposed in China, Founders Edition included",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xdlj42/heres_where_the_last_rtx_5090_cards_are_going",
+      "summary": "submitted by /u/fallingdowndizzyvr [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T02:10:51+08:00",
+      "fetchedAt": "2026-10-24T05:46:37+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a4761cd5ecfd623f",
+      "title": "🌋 Pushing PCIe x1 to the limit: lvgale concurrently serving 27B, 9B, and 2B LLMs on a hardware abomination 📈",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xdq2cj/pushing_pcie_x1_to_the_limit_lvgale_concurrently",
+      "summary": "Everyone loves a clean, unified server rack, but my standby node ( lvgale ) is an absolute physical abomination. It is a Frankenstein collection of mismatched parts and bolted-together VRAM that has no business running efficiently. The Hard…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T05:05:21+08:00",
+      "fetchedAt": "2026-10-24T05:46:37+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
