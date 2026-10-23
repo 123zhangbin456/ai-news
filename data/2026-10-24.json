@@ -1,7 +1,43 @@
 {
   "date": "2026-10-24",
-  "updatedAt": "2026-10-23T20:53:34+08:00",
+  "updatedAt": "2026-10-24T01:37:56+08:00",
   "items": [
+    {
+      "id": "298c8de07d18f423",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T01:00:00+08:00",
+      "fetchedAt": "2026-10-24T01:37:44+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users"
+      ],
+      "confidence": 0,
+      "score": 59,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 如何将在线存储扩展至服务超 10 亿 ChatGPT 用户（下篇）",
+        "takeaway": "OpenAI 分享 Habitat 存储系统扩展经验，通过多租户、全局缓存和 Cosmos DB 实现读速度提升 12 倍。",
+        "bullets": [
+          "OpenAI 为支撑超 10 亿 ChatGPT 用户，扩展了 Habitat 在线存储系统。",
+          "采用可靠的多租户架构和全局缓存技术。",
+          "借助 Azure Cosmos DB，实现读取速度提升 12 倍。"
+        ],
+        "detail": "OpenAI 发文介绍如何扩展 Habitat 存储系统以服务超 10 亿 ChatGPT 用户。通过可靠的多租户设计、全局缓存和 Azure Cosmos DB，ChatGPT 的读取速度提升了 12 倍。",
+        "generatedAt": "2026-10-24T01:37:50+08:00"
+      }
+    },
     {
       "id": "2e9a4426b96429c2",
       "title": "Uber puts all 30,000 employees on ChatGPT Work",
@@ -39,6 +75,46 @@
       }
     },
     {
+      "id": "97597de85741a1d4",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T24:52:55+08:00",
+      "fetchedAt": "2026-10-24T01:37:44+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features",
+        "ads",
+        "adds",
+        "update"
+      ],
+      "confidence": 0.58,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌隐私政策更新：个性化AI功能或致个人数据用于广告",
+        "takeaway": "谷歌修改隐私政策，使用个性化AI功能时，Gmail和Google Photos数据可能被用于定向广告。",
+        "bullets": [
+          "谷歌更新隐私政策，新增例外条款",
+          "使用个性化AI功能时，个人数据可能用于广告",
+          "涉及Gmail和Google Photos等数据",
+          "用户需留意隐私设置变化"
+        ],
+        "detail": "谷歌近日更新隐私政策，被Android Authority发现新增了一项例外条款。如果用户使用个性化AI功能，谷歌可能利用其Gmail和Google Photos等个人数据来推送定向广告。这改变了谷歌此前对用户数据的承诺，值得关注。",
+        "generatedAt": "2026-10-24T01:37:52+08:00"
+      }
+    },
+    {
       "id": "bc9445d804942f66",
       "title": "奥特曼最新 45 分钟访谈：一年不写代码、压力大到不想起床，还嫌 ChatGPT 太谄媚",
       "url": "https://infoq.cn/article/sI3z2UMCrB5PPVDWTsLo",
@@ -72,6 +148,148 @@
         ],
         "detail": "在最新45分钟访谈中，OpenAI CEO奥特曼坦言自己已一年不写代码，压力大到不想起床，并直言ChatGPT太谄媚。这些言论展现了AI行业高管的真实状态和对产品体验的批判性思考。",
         "generatedAt": "2026-10-23T20:53:24+08:00"
+      }
+    },
+    {
+      "id": "7108843a8e5eb669",
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xdiecx/nvidianvidianemotron35bolte4b4gb_hugging_face",
+      "summary": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB is a small language model (SLM) further post-trained from Gemma-4-E4B-it by NVIDIA. Nemotron-3.5-Bolt-E4B carries forward Gemma’s strong conversational capabilities and further improves multi-turn tool use, …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T24:13:05+08:00",
+      "fetchedAt": "2026-10-24T01:37:44+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.67,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达发布 Nemotron-3.5-Bolt 小模型，基于 Gemma 微调",
+        "takeaway": "英伟达推出 4GB 小语言模型，强化多轮工具调用，适合本地部署。",
+        "bullets": [
+          "模型名为 Nemotron-3.5-Bolt-E4B-4GB，由 Gemma-4-E4B-it 后训练而来",
+          "继承 Gemma 对话能力，重点提升多轮工具使用表现",
+          "4GB 体积面向轻量本地推理场景，已上线 Hugging Face"
+        ],
+        "detail": "英伟达在 Hugging Face 发布 Nemotron-3.5-Bolt-E4B-4GB，这是一个从 Gemma-4-E4B-it 进一步后训练得到的小语言模型。它保留了 Gemma 较强的对话能力，并着重改进了多轮工具调用。模型体积约 4GB，适合资源有限的本地部署。",
+        "generatedAt": "2026-10-24T01:37:52+08:00"
+      }
+    },
+    {
+      "id": "d5dfb55b012918e7",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T24:15:50+08:00",
+      "fetchedAt": "2026-10-24T01:37:44+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "research"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "LitPivot：在文献全景中动态定位，催生研究灵感",
+        "takeaway": "Hugging Face 上的一项研究提出 LitPivot，帮研究者从文献中动态挖掘选题思路。",
+        "bullets": [
+          "LitPivot 聚焦研究想法生成，而非简单文献检索。",
+          "核心思路是让研究者在文献全景中动态定位自身方向。",
+          "目前仅公开标题，具体方法、数据与效果尚未披露。"
+        ],
+        "detail": "LitPivot 是一项来自 Hugging Face 的研究，目标是帮助研究者从已有文献中形成新的研究想法。它强调“动态情境化”，即把研究问题放回文献脉络里重新定位，而不是只做关键词搜索。目前没有摘要，具体实现和评测结果还不清楚。",
+        "generatedAt": "2026-10-24T01:37:54+08:00"
+      }
+    },
+    {
+      "id": "4e972ac672531c67",
+      "title": "The iPhone Duo should have been an iPad",
+      "url": "https://theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+      "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. O…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T01:00:18+08:00",
+      "fetchedAt": "2026-10-24T01:37:44+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "iPhone Duo 评测：7分背后，它本应是iPad？",
+        "takeaway": "The Verge给iPhone Duo打7分，但评分曾变动，引发对这款新形态手机定位的思考。",
+        "bullets": [
+          "The Verge对iPhone Duo给出7/10的评分，但并非最初计划。",
+          "评测者认为这款产品本应是iPad，暗示定位偏差。",
+          "评分可能随使用体验变化，反映新形态产品的评估难度。"
+        ],
+        "detail": "The Verge给iPhone Duo打了7分，但评分并非一成不变。评测者认为这款产品本应是iPad，暗示其定位可能有问题。这反映了评估一款关于史上最受欢迎智能手机的大胆新想法时的挑战。",
+        "generatedAt": "2026-10-24T01:37:54+08:00"
+      }
+    },
+    {
+      "id": "6129b79e158b1ee2",
+      "title": "agentionai/Qwen3.8-Flash-Next-Gyro-Coder-GGUF · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xdihql/agentionaiqwen38flashnextgyrocodergguf_hugging",
+      "summary": "AgentionAI Gyro Coder Large is now live 🚢 This coding specific finetune of Qwen 3.8 Flash Next is the same size as Gyro-S, but with half the experts and more bits per expert. The model fits in 32GB VRAM. More details in the model card subm…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T24:16:38+08:00",
+      "fetchedAt": "2026-10-24T01:37:44+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AgentionAI 发布 Gyro Coder Large：Qwen3.8 Flash Next 编程微调模型",
+        "takeaway": "一款面向编程的 Qwen3.8 Flash Next 微调模型上线，32GB 显存即可运行，适合本地部署。",
+        "bullets": [
+          "AgentionAI 推出 Gyro Coder Large，基于 Qwen3.8 Flash Next 的编程专用微调版。",
+          "模型体积与 Gyro-S 相同，但专家数量减半、每个专家位数更高。",
+          "可在 32GB 显存内运行，降低本地编程助手的硬件门槛。"
+        ],
+        "detail": "AgentionAI 在 Hugging Face 上线了 Gyro Coder Large，这是 Qwen3.8 Flash Next 的编程专用微调模型。它和 Gyro-S 体积相当，但专家数减半、每个专家的位数更多，因此能塞进 32GB 显存。更多细节见模型卡。",
+        "generatedAt": "2026-10-24T01:37:54+08:00"
       }
     },
     {
@@ -283,6 +501,42 @@
         ],
         "detail": "全球学术期刊评价正在改变过去依赖单一指标的做法，转向更多元的评价标准。与此同时，中国的期刊评价体系开始加入国际版图，意味着中国在相关国际规则中有了更多参与。",
         "generatedAt": "2026-10-23T20:53:32+08:00"
+      }
+    },
+    {
+      "id": "b2b7ebe6730fbedf",
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs",
+      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T01:18:31+08:00",
+      "fetchedAt": "2026-10-24T01:37:44+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "ban"
+      ],
+      "confidence": 0.5,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英特尔获豁免：美国对外国机器人禁令或波及芯片厂",
+        "takeaway": "美国对外国制造机器人的模糊禁令引发担忧，英特尔称其对外国机器人依赖关键，最终获得豁免。",
+        "bullets": [
+          "英特尔担忧美国对外国制造机器人的禁令可能影响其芯片工厂运营。",
+          "公司表示外国制造的机器人车辆对美国芯片生产至关重要。",
+          "英特尔最终获得豁免，避免生产受到干扰。"
+        ],
+        "detail": "美国针对外国制造机器人的禁令存在模糊之处，引发英特尔担忧其芯片工厂可能受影响。英特尔表示，外国制造的机器人车辆对美国的芯片生产至关重要。最终，英特尔获得了豁免，得以继续使用这些设备。",
+        "generatedAt": "2026-10-24T01:37:55+08:00"
       }
     }
   ],
