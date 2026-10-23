@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updatedAt": "2026-10-23T09:14:09+08:00",
+  "updatedAt": "2026-10-23T10:03:38+08:00",
   "items": [
     {
       "id": "374464c5687b489e",
@@ -1065,6 +1065,42 @@
       }
     },
     {
+      "id": "f1c49438fe377830",
+      "title": "Gemini 4 Argon Token消耗量暴涨3倍，谷歌CEO首谈砍掉3.5 Pro内幕",
+      "url": "https://tmtpost.com/8177973.html",
+      "summary": "下一代Gemini 5.0将比4.0 Argon强得多。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T09:43:14+08:00",
+      "fetchedAt": "2026-10-23T10:03:31+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gemini 4 Argon Token 消耗涨三倍，谷歌 CEO 谈砍掉 3.5 Pro",
+        "takeaway": "谷歌下一代模型 Gemini 4 Argon 的 Token 消耗量大幅上升，CEO 首次解释放弃 3.5 Pro 的原因。",
+        "bullets": [
+          "Gemini 4 Argon 的 Token 消耗量较此前暴涨约 3 倍",
+          "谷歌 CEO 首次公开谈及砍掉 Gemini 3.5 Pro 的内幕",
+          "官方称下一代 Gemini 5.0 将比 4.0 Argon 强得多"
+        ],
+        "detail": "据钛媒体报道，Gemini 4 Argon 的 Token 消耗量出现约三倍增长，谷歌 CEO 首次回应了为何砍掉 Gemini 3.5 Pro。官方同时透露，下一代 Gemini 5.0 的能力将明显超过 4.0 Argon。",
+        "generatedAt": "2026-10-23T10:03:37+08:00"
+      }
+    },
+    {
       "id": "d3c712f2c2628be1",
       "title": "Is 128GB RAM worth it?",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xcmkyh/is_128gb_ram_worth_it",
@@ -1521,6 +1557,42 @@
       }
     },
     {
+      "id": "4e9bfd07ae02849d",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://anthropic.com/research/formal-verification",
+      "summary": "Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 120 # Comments: 58",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T06:54:43+08:00",
+      "fetchedAt": "2026-10-23T10:03:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "research"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "大模型让形式化软件验证走向大规模应用",
+        "takeaway": "Anthropic 研究指出，LLM 能显著降低形式化验证门槛，让更大规模软件获得数学级正确性保证。",
+        "bullets": [
+          "Anthropic 发布研究，称 LLM 让形式化验证可扩展到更大规模软件",
+          "形式化验证用数学证明代码正确，过去成本高、难普及",
+          "该话题在 Hacker News 获 120 分、58 条评论，引发讨论"
+        ],
+        "detail": "Anthropic 在研究中提出，大语言模型能帮助完成形式化软件验证，使这项原本昂贵、难以规模化的技术变得可行。形式化验证通过数学证明保证代码符合规范，LLM 的介入有望降低人力成本，让更多大型软件用上这种高保障方法。",
+        "generatedAt": "2026-10-23T10:03:37+08:00"
+      }
+    },
+    {
       "id": "f114a5f54e8676e8",
       "title": "Swift-1.5-Qwen3.8-27B in hipfire for AMD cards: ~2.2x faster end-to-end than Q4_K_S GGUF on a 7900XT",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xcwkfi/swift15qwen3827b_in_hipfire_for_amd_cards_22x",
@@ -1576,6 +1648,102 @@
       ],
       "pushed": true,
       "pushedAt": "2026-10-23T06:01:24+08:00"
+    },
+    {
+      "id": "adf941bf85491986",
+      "title": "从“坐不住”到“不买账”，陶哲轩称AI的数学成果是“有毒废料”",
+      "url": "https://tmtpost.com/8177772.html",
+      "summary": "722 篇 AI 论文引发震荡一个月后，陶哲轩与邓煜在播客对谈：理解数学证明的责任，仍然在人。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T09:55:05+08:00",
+      "fetchedAt": "2026-10-23T10:03:31+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "论文"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "15fb2ea7f578e06c",
+      "title": "具身智能集体早熟，谁来买单？",
+      "url": "https://tmtpost.com/8177987.html",
+      "summary": "怕亏钱，但更怕融不到钱。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T09:36:17+08:00",
+      "fetchedAt": "2026-10-23T10:03:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "712e40aa3bf9c097",
+      "title": "精明如迪士尼，为何要买下一家快破产的AI公司？",
+      "url": "https://tmtpost.com/8177974.html",
+      "summary": "AI角色扮演，迪士尼的新IP战略初现端倪。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T09:36:11+08:00",
+      "fetchedAt": "2026-10-23T10:03:31+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "48bf91d72128d6f2",
+      "title": "资本开抢AI 3D，「御三家」半年吸纳超80亿元",
+      "url": "https://tmtpost.com/8178004.html",
+      "summary": "Vast、Meshy、影眸，AI 3D“御三家”要重塑内容产业的未来。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-23T09:31:01+08:00",
+      "fetchedAt": "2026-10-23T10:03:31+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "亿元"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "374db3b9194f7c3a",
