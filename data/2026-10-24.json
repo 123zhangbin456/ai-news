@@ -1,7 +1,43 @@
 {
   "date": "2026-10-24",
-  "updatedAt": "2026-10-24T20:06:59+08:00",
+  "updatedAt": "2026-10-25T24:05:57+08:00",
   "items": [
+    {
+      "id": "e4ac1d3f295acd60",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T23:00:00+08:00",
+      "fetchedAt": "2026-10-25T24:05:49+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 0.5,
+      "score": 63,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "研究：Grok推荐共和党候选人，GPT倾向民主党",
+        "takeaway": "一项新研究发现，两个主流AI模型在选举推荐上存在严重党派倾向，且分歧率超90%。",
+        "bullets": [
+          "近500场选举中，Grok压倒性推荐共和党，GPT则倾向民主党。",
+          "两模型在超过90%的选举中给出不同推荐。",
+          "研究揭示AI模型可能隐含政治偏见，影响选民信息获取。"
+        ],
+        "detail": "一项新研究对比了Grok和OpenAI的GPT在近500场选举中的推荐倾向，发现Grok绝大多数推荐共和党候选人，而GPT则偏向民主党。两者在超过90%的选举中意见相左，凸显AI模型可能存在的政治偏见。",
+        "generatedAt": "2026-10-25T24:05:55+08:00"
+      }
+    },
     {
       "id": "298c8de07d18f423",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -290,6 +326,44 @@
         ],
         "detail": "据钛媒体报道，DeepSeek在人才招聘上倾向于寻找天才型选手，而Kimi则更看重经验丰富的老兵。这反映出两家公司在算力资源和智力密度上的不同竞争策略。",
         "generatedAt": "2026-10-24T20:06:55+08:00"
+      }
+    },
+    {
+      "id": "8b542d3f22d28c40",
+      "title": "8 GB GPU, 262K context 3.5 BPW Qwen-Flash-Next Coder 70 T/s using llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xebdzl/8_gb_gpu_262k_context_35_bpw_qwenflashnext_coder",
+      "summary": "The methodology Qwen-Flash-Next has n-gram, MOE packing above its weight but it's still 6B active params. We exploit this by keeping most MOEs in RAM (Smallest MOEs go in VRAM for speedup) and n-gram on disk - ensure you put the model on yo…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T23:21:50+08:00",
+      "fetchedAt": "2026-10-25T24:05:49+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "8GB显卡跑262K上下文：Qwen-Flash-Next量化方案实测70 T/s",
+        "takeaway": "用llama.cpp把MoE模型分层放到显存、内存和磁盘，小显存也能跑长上下文。",
+        "bullets": [
+          "Qwen-Flash-Next为MoE架构，激活参数约6B",
+          "大部分专家放内存，最小专家进显存提速",
+          "n-gram部分放磁盘，实现262K上下文",
+          "实测8GB GPU上达到70 T/s"
+        ],
+        "detail": "作者利用Qwen-Flash-Next的MoE特性，把大部分专家权重留在内存、只把最小的专家放进显存，n-gram部分放到磁盘，从而在8GB显卡上跑出262K上下文和70 T/s。这说明小显存设备也能通过分层加载跑长上下文MoE模型。",
+        "generatedAt": "2026-10-25T24:05:55+08:00"
       }
     },
     {
@@ -803,6 +877,40 @@
       }
     },
     {
+      "id": "4a535eced667a36f",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T22:00:00+08:00",
+      "fetchedAt": "2026-10-25T24:05:49+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "盘点能住进你短信里的AI助手",
+        "takeaway": "TechCrunch梳理了多款可嵌入短信的AI代理，覆盖通用、家庭、旅行和工作场景。",
+        "bullets": [
+          "TechCrunch整理了一份短信AI代理清单",
+          "涵盖通用助手及家庭、旅行、工作专用代理",
+          "这类代理让用户无需额外App即可使用AI"
+        ],
+        "detail": "TechCrunch 整理了一份值得关注的 AI 代理清单，这些代理可以直接在短信里运行。清单包括通用助手，以及面向家庭、旅行和工作等场景设计的专用代理。",
+        "generatedAt": "2026-10-25T24:05:57+08:00"
+      }
+    },
+    {
       "id": "4f1a69c73f385be7",
       "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
       "url": "https://theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
@@ -1050,6 +1158,79 @@
         ],
         "detail": "Meta用8250亿美元的AI算力投资账单，直观展示了AI到底有多烧钱。这笔天量投资背后存在资金缺口，同时全球市场在AI成本上呈现分化趋势。",
         "generatedAt": "2026-10-24T15:26:10+08:00"
+      }
+    },
+    {
+      "id": "5699208333bf1755",
+      "title": "battledrones v14: Compass Rose, a four player map",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones",
+      "summary": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational s…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T11:59:57+08:00",
+      "fetchedAt": "2026-10-25T24:05:49+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Battledrones v14 发布：新增四人对战地图 Compass Rose",
+        "takeaway": "Battledrones 推出 v14 版本，首次支持四人在线对战，并新增地图 Compass Rose。",
+        "bullets": [
+          "Battledrones v14 加入四人在线模式，此前地图仅限两人对战。",
+          "新地图 Compass Rose 专为四人战斗设计，支持四向旋转对称。",
+          "作者 Simon Willison 分享了用于生成该地图的初始提示词。"
+        ],
+        "detail": "Simon Willison 发布了 Battledrones v14 版本，新增四人在线对战模式，并推出专为四人设计的地图 Compass Rose。此前该游戏地图仅支持两名玩家。他还公开了用于创建这张地图的初始提示词，其中提到四向旋转对称等要求。",
+        "generatedAt": "2026-10-25T24:05:57+08:00"
+      }
+    },
+    {
+      "id": "045b97cbb06550bf",
+      "title": "Meta trained small AI models to read raw bytes instead of tokens. They start out worse, but the paper predicts they end up better",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xe88ja/meta_trained_small_ai_models_to_read_raw_bytes",
+      "summary": "https://arxiv.org/pdf/2609.12303 this paper suggests a model that skips models reading tokens that and has the model read raw bytes, basically one letter at a time. what they did: trained small models (~1B params), some on tokens and some o…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T21:08:49+08:00",
+      "fetchedAt": "2026-10-25T24:05:49+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "paper",
+        "arxiv"
+      ],
+      "confidence": 0.54,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 训练小模型直接读原始字节，跳过分词器",
+        "takeaway": "Meta 让约 1B 参数小模型直接读原始字节而非 token，起步更差但论文预测最终更优。",
+        "bullets": [
+          "Meta 训练约 1B 参数小模型，对比字节输入与 token 输入",
+          "字节模型初期表现更差，论文预测后期会反超",
+          "若成立，可绕开分词器，简化多语言与代码处理"
+        ],
+        "detail": "论文让模型跳过分词器，直接一个字母一个字母地读原始字节。研究者训练了约 1B 参数的小模型，一部分用 token、一部分用字节做对比。字节模型起步更差，但论文预测它最终会更好。",
+        "generatedAt": "2026-10-25T24:05:57+08:00"
       }
     },
     {
@@ -1467,6 +1648,31 @@
         "CEO"
       ],
       "confidence": 0.14,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6a0b9f29c6f77a76",
+      "title": "AbliteratedOutTheBox Strata Announcement",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xe8x9c/abliteratedoutthebox_strata_announcement",
+      "summary": "I’ve been working on an inference-time abliteration engine as a fork of llama.cpp, and I’ve now ported the hook to Strata. It acts as an easy way to use abliterated models without huge amounts of vram or finetuning. For the Strata Branch ht…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T21:38:58+08:00",
+      "fetchedAt": "2026-10-25T24:05:49+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
       "score": 34,
       "related": [],
       "pushed": false
