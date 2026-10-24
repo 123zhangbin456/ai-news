@@ -1,7 +1,83 @@
 {
   "date": "2026-10-25",
-  "updatedAt": "2026-10-25T03:10:47+08:00",
+  "updatedAt": "2026-10-25T06:48:24+08:00",
   "items": [
+    {
+      "id": "dbe76530e9896fc9",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T03:00:00+08:00",
+      "fetchedAt": "2026-10-25T06:48:15+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launch"
+      ],
+      "confidence": 0.33,
+      "score": 47,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "AI 项目墓地：那些折戟的 AI 计划与初创公司",
+        "takeaway": "TechCrunch 盘点未达预期或关停的 AI 项目，从苹果 Siri 到 OpenAI 超级应用，揭示行业高失败率。",
+        "bullets": [
+          "苹果 Siri AI 升级多次跳票，成为典型延期案例",
+          "OpenAI 的“超级应用”发布混乱，被列入未达预期名单",
+          "名单持续更新，反映 AI 热潮下项目失败与关停频发"
+        ],
+        "detail": "TechCrunch 整理了一份持续更新的“AI 墓地”清单，收录那些关停或未达预期的 AI 项目与初创公司。其中既有苹果多次推迟的 Siri AI 升级，也有 OpenAI 发布过程混乱的“超级应用”。这份清单提醒人们，在 AI 投资热潮背后，大量项目正面临延期、失败或关停。",
+        "generatedAt": "2026-10-25T06:48:22+08:00"
+      },
+      "pushedAt": "2026-10-25T06:48:24+08:00"
+    },
+    {
+      "id": "ec15cc5dfcd034c7",
+      "title": "High-Performance llama.cpp fork for Legacy GPUs: Kepler Support, CUDA Graphs & Windows NCCL!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xeicw2/highperformance_llamacpp_fork_for_legacy_gpus",
+      "summary": "I've been working on improving llama.cpp support and performance on older NVIDIA GPUs, particularly Kepler and other pre-Ampere architectures. The goal is simple: get more life out of older CUDA hardware instead of treating it as e-waste. A…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T04:01:46+08:00",
+      "fetchedAt": "2026-10-25T06:48:15+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs",
+        "NVIDIA"
+      ],
+      "confidence": 0.64,
+      "score": 42,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "llama.cpp 新分支让 Kepler 等老 GPU 重获新生",
+        "takeaway": "开发者推出高性能 llama.cpp 分支，为 Kepler 等老 NVIDIA GPU 提供支持，延长旧硬件寿命。",
+        "bullets": [
+          "针对 Kepler 等 pre-Ampere 架构优化 llama.cpp 性能",
+          "加入 CUDA Graphs 和 Windows NCCL 支持",
+          "目标是让旧 CUDA 硬件继续可用，而非当电子垃圾",
+          "来自 r/LocalLLaMA 社区的个人项目"
+        ],
+        "detail": "有开发者在 r/LocalLLaMA 分享，他一直在改进 llama.cpp 在老款 NVIDIA GPU（尤其是 Kepler 等 Ampere 之前的架构）上的支持与性能。项目目标很简单：让旧 CUDA 硬件发挥余热，而不是被当作电子垃圾丢弃。该分支还加入了 CUDA Graphs 和 Windows NCCL 支",
+        "generatedAt": "2026-10-25T06:48:21+08:00"
+      },
+      "pushedAt": "2026-10-25T06:48:24+08:00"
+    },
     {
       "id": "934580108444c224",
       "title": "Pennsylvania will require labels on AI-generated ads",
@@ -26,7 +102,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "宾州立法：AI生成广告须明确标注",
         "takeaway": "宾州签署法案，要求AI生成的广告必须披露，打击 deceptive 广告，保护消费者。",
@@ -37,7 +113,45 @@
         ],
         "detail": "宾夕法尼亚州州长乔什·夏皮罗周四签署了《人工智能欺骗性广告法》，要求对AI生成的广告进行披露。该法律适用于任何形式的广告，包括静态图像、视频、音频或文本。",
         "generatedAt": "2026-10-25T03:10:45+08:00"
-      }
+      },
+      "pushedAt": "2026-10-25T06:48:24+08:00"
+    },
+    {
+      "id": "26a10ea170f0c274",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. B…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T05:29:12+08:00",
+      "fetchedAt": "2026-10-25T06:48:15+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "series"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "《蓝色星球III》反其道而行：保留粗糙镜头以证真实",
+        "takeaway": "BBC自然纪录片《蓝色星球III》在AI时代选择保留不完美镜头，以真实性对抗AI生成的完美画面。",
+        "bullets": [
+          "《蓝色星球III》将保留拍摄中的瑕疵镜头，强调真实感。",
+          "前作以清晰唯美画面著称，新作反其道而行。",
+          "此举意在AI生成内容泛滥时代凸显纪录片 authenticity。"
+        ],
+        "detail": "BBC的《蓝色星球III》试图通过保留不完美的镜头来证明其真实性。此前的系列以极其清晰、唯美的画面著称，几乎好得不像真的。新一季则反其道而行，在AI时代强调真实感。",
+        "generatedAt": "2026-10-25T06:48:21+08:00"
+      },
+      "pushedAt": "2026-10-25T06:48:24+08:00"
     },
     {
       "id": "4e471599736b115d",
@@ -62,7 +176,7 @@
       "confidence": 1,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "ChatGPT 语音模式被曝使用开源 Silero VAD v6",
         "takeaway": "OpenAI 在语音功能中采用开源语音活动检测模型，而非自研，引发社区关注。",
@@ -73,7 +187,8 @@
         ],
         "detail": "有网友在 Reddit 的 LocalLLaMA 版块贴图指出，ChatGPT 的语音模式正在使用开源模型 Silero VAD v6。该模型用于检测语音活动，判断用户何时开始和停止说话。令人意外的是，OpenAI 没有自研这一组件，而是直接采用了开源方案。",
         "generatedAt": "2026-10-25T03:10:45+08:00"
-      }
+      },
+      "pushedAt": "2026-10-25T06:48:24+08:00"
     },
     {
       "id": "d84db124bef5ea2c",
@@ -99,7 +214,7 @@
       "confidence": 1,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "RTX 5090 本地跑 DeepSeek V4.1 Flash：8K 上下文约 10 tok/s",
         "takeaway": "有用户在单张 5090 加 64GB DDR5 上实测本地推理，速度约 10 tok/s，作者认为不如直接调用 API 划算。",
@@ -110,7 +225,8 @@
         ],
         "detail": "一位用户在 r/LocalLLaMA 分享，他用 RTX 5090 搭配 64GB DDR5 内存和 4TB NVMe 硬盘，通过 Strata 在本地运行 DeepSeek V4.1 Flash，8K 上下文下速度约 10 tok/s。他直言按这个速度，付费用 API 比自掏硬件成本更划算。",
         "generatedAt": "2026-10-25T03:10:45+08:00"
-      }
+      },
+      "pushedAt": "2026-10-25T06:48:24+08:00"
     },
     {
       "id": "b8ce09e348ccbf5d",
@@ -135,7 +251,7 @@
       "confidence": 0,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "ik_llama.cpp 分支更新：6GB 显存 RTX 2060 跑出 45–48 t/s",
         "takeaway": "开发者更新 ik_llama.cpp 分支并征集反馈，在 6GB 显存的 RTX 2060 上短文本生成达 45–48 t/s。",
@@ -147,7 +263,123 @@
         ],
         "detail": "这是此前 ik_llama.cpp 的 MoE 优化与专家驻留讨论的后续。作者这次在 6GB 显存的 RTX 2060 上测出短文本生成约 45–48 t/s，并给出了与 Strata 的速度对比，同时希望社区试用后反馈。",
         "generatedAt": "2026-10-25T03:10:47+08:00"
-      }
+      },
+      "pushedAt": "2026-10-25T06:48:24+08:00"
+    },
+    {
+      "id": "8c4054a78a5b760c",
+      "title": "CMP170HX inspiration unlocks 30x/40x also, up to 2X Prefill speedup --> NVIDIA RTX 30 & RTX 40 GPUs Get Impressively Fast In AI LLMs As Compute Doubles With New Unlock Tool But Prices Surge Too",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xelhpj/cmp170hx_inspiration_unlocks_30x40x_also_up_to_2x",
+      "summary": "NVIDIA RTX 30 & RTX 40 GPUs Get Impressively Fast In AI LLMs As Compute Doubles With New Unlock Tool But Prices Surge Too\" title=\"CMP170HX inspiration unlocks 30x/40x also, up to 2X Prefill speedup --> NVIDIA RTX 30 & RTX 40 GPUs Get Impres…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T06:16:55+08:00",
+      "fetchedAt": "2026-10-25T06:48:15+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs",
+        "NVIDIA",
+        "compute"
+      ],
+      "confidence": 0.78,
+      "score": 37,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "新解锁工具让RTX 30/40系列AI算力翻倍，价格也涨了",
+        "takeaway": "受CMP170HX启发，新工具解锁RTX 30/40系列GPU算力，LLM推理提速最高2倍，但显卡价格随之上涨。",
+        "bullets": [
+          "新解锁工具可让RTX 30/40系列GPU算力翻倍，提升AI大模型推理性能。",
+          "灵感来自CMP170HX矿卡，解锁后Prefill阶段速度最高提升2倍。",
+          "性能提升的同时，相关显卡价格出现上涨。"
+        ],
+        "detail": "一款受CMP170HX启发的解锁工具，能让NVIDIA RTX 30和40系列显卡在运行AI大语言模型时算力翻倍，Prefill速度最高提升2倍。但性能提升的同时，这些显卡的价格也上涨了。",
+        "generatedAt": "2026-10-25T06:48:23+08:00"
+      },
+      "pushedAt": "2026-10-25T06:48:24+08:00"
+    },
+    {
+      "id": "6597a1303e38b17b",
+      "title": "No signs of AI payoff outside the tech sector",
+      "url": "https://apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 385 # Comments: 360",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T03:47:19+08:00",
+      "fetchedAt": "2026-10-25T06:48:15+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-25T06:48:24+08:00"
+    },
+    {
+      "id": "9cdc547c5b77f3f3",
+      "title": "Made a rhythm game where 4 small neural nets listen to your song right in the browser tab (open source)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xeia9o/made_a_rhythm_game_where_4_small_neural_nets",
+      "summary": "not an llm post exactly, but it's all local inference so i figured people here might like it i made a browser rhythm runner where the song builds the world you run through. you can throw in your own mp3s and the whole \"listening\" happens on…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T03:59:11+08:00",
+      "fetchedAt": "2026-10-25T06:48:15+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open source"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-25T06:48:24+08:00"
+    },
+    {
+      "id": "81c8fd74d5e2c7e1",
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 131 # Comments: 127",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T02:04:57+08:00",
+      "fetchedAt": "2026-10-25T06:48:15+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arxiv"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-25T06:48:24+08:00"
     }
   ],
   "topic": "ai"
