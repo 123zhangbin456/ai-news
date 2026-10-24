@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updatedAt": "2026-10-24T10:03:10+08:00",
+  "updatedAt": "2026-10-24T15:26:12+08:00",
   "items": [
     {
       "id": "298c8de07d18f423",
@@ -658,6 +658,42 @@
       }
     },
     {
+      "id": "21a343421bc9230e",
+      "title": "Sam Altman: OpenAI's best model \"can't responsibly be open-sourced\" until the world builds better cyberdefense and bio-security",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xe0ioz/sam_altman_openais_best_model_cant_responsibly_be",
+      "summary": "OpenAI co-founder and CEO Sam Altman recently sat down for an in-depth conversation at Stanford Graduate School of Business's \"View from the Top\" series, covering AI's development trajectory, safety challenges, organizational transformation…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T13:41:18+08:00",
+      "fetchedAt": "2026-10-24T15:26:01+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "奥特曼：OpenAI最强模型暂不能开源，需先建网络与生物安全防线",
+        "takeaway": "OpenAI CEO 奥特曼表示，最强模型开源前提是全球具备更好的网络安全和生物安全防御能力。",
+        "bullets": [
+          "奥特曼在斯坦福商学院活动中谈及AI安全与开源问题",
+          "他认为OpenAI最强模型目前不能负责任地开源",
+          "开源前提是全球建立更好的网络防御和生物安全措施"
+        ],
+        "detail": "OpenAI联合创始人兼CEO萨姆·奥特曼在斯坦福商学院“View from the Top”活动中深入对话，谈及AI发展轨迹、安全挑战和组织变革。他表示，在全世界建立起更好的网络安全和生物安全防御之前，OpenAI的最强模型“不能负责任地开源”。",
+        "generatedAt": "2026-10-24T15:26:10+08:00"
+      }
+    },
+    {
       "id": "4f1a69c73f385be7",
       "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
       "url": "https://theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
@@ -798,6 +834,43 @@
         ],
         "detail": "Strata 现在支持 Qwen 3.6 35B 模型。一位用户在 gfx906（MI50 16GB）上构建并测试后表示，其解码速度不如 llamacpp。该反馈来自 r/LocalLLaMA 社区。",
         "generatedAt": "2026-10-24T05:46:47+08:00"
+      }
+    },
+    {
+      "id": "1fce05f12ee19065",
+      "title": "AI到底有多烧钱，Meta用8250亿美元的“账单”回答了",
+      "url": "https://tmtpost.com/8179972.html",
+      "summary": "AI算力天量投资资金缺口及全球市场成本分化显现。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T12:09:00+08:00",
+      "fetchedAt": "2026-10-24T15:26:01+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "投资",
+        "亿美元"
+      ],
+      "confidence": 0.56,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 8250亿美元账单揭示AI算力烧钱真相",
+        "takeaway": "Meta巨额AI算力投资暴露资金缺口，全球市场成本分化加剧，AI烧钱程度超预期。",
+        "bullets": [
+          "Meta的AI算力投资账单高达8250亿美元，凸显天量资金需求。",
+          "巨额投资背后存在资金缺口，AI竞赛成本压力显现。",
+          "全球市场AI成本分化，不同地区投入差距拉大。"
+        ],
+        "detail": "Meta用8250亿美元的AI算力投资账单，直观展示了AI到底有多烧钱。这笔天量投资背后存在资金缺口，同时全球市场在AI成本上呈现分化趋势。",
+        "generatedAt": "2026-10-24T15:26:10+08:00"
       }
     },
     {
@@ -1084,6 +1157,68 @@
       }
     },
     {
+      "id": "8fd8731dbbf9b55d",
+      "title": "React 19.3 新增 browser() API，使“仅客户端渲染”成为一等公民",
+      "url": "https://infoq.cn/article/jNX6EAzqP34xRjqUMU1N",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T21:00:00+08:00",
+      "fetchedAt": "2026-10-24T15:26:01+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "客户"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "React 19.3 新增 browser() API，客户端渲染成正式选项",
+        "takeaway": "React 19.3 推出 browser() API，把纯客户端渲染提升为官方支持的一等能力。",
+        "bullets": [
+          "React 19.3 新增 browser() API",
+          "让“仅客户端渲染”成为一等公民",
+          "开发者配置纯 CSR 应用会更直接"
+        ],
+        "detail": "React 19.3 引入 browser() API，明确把“仅客户端渲染”当作正式支持的模式，不再只是附带用法。对需要纯 CSR 的项目来说，配置和表达会更直接。",
+        "generatedAt": "2026-10-24T15:26:12+08:00"
+      }
+    },
+    {
+      "id": "cdd87edadab53410",
+      "title": "iRTE2026：对话 AI 如何迈向 AGI？声网CEO赵斌给出五级对话能力框架",
+      "url": "https://leiphone.com/category/industrynews/nwy00TZXQdwJcSka.html",
+      "summary": "10月23日，iRTE2026实时智能大会在北京举行。声网创始人兼 CEO 赵斌在主论坛发表题为《对话 AGI：实时互动的下一章》的演讲，回顾了过去一年实时互动、对话式 AI 与底层基础设施的关键变化，并提出“五级对话能力”框架，勾勒对话式 AI 从基础应答走向深度理解与关系沟通的演进路径。赵斌认为，随着 AI 从回答问题走向持续交流、理解上下文并执行任务，实时互动的对象正在从人与人扩展到人与 Agent。实时互动技术的角色也随之延伸：它不仅要让信息传递更稳定、更流畅，还要为…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T10:44:00+08:00",
+      "fetchedAt": "2026-10-24T15:26:01+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "创始人",
+        "CEO"
+      ],
+      "confidence": 0.14,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "2e4e85db49603fa8",
       "title": "Here's where the last RTX 5090 cards are going: Massive AI conversion factory exposed in China, Founders Edition included",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xdlj42/heres_where_the_last_rtx_5090_cards_are_going",
@@ -1225,6 +1360,144 @@
       ],
       "confidence": 1,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7bda9fcba85d4abf",
+      "title": "数采会成为具身智能的“牺牲品”吗？",
+      "url": "https://tmtpost.com/8180292.html",
+      "summary": "挤泡沫的时候到了？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T12:40:00+08:00",
+      "fetchedAt": "2026-10-24T15:26:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "52e81f0efc75c554",
+      "title": "打工人，开始“表演”AI提效",
+      "url": "https://tmtpost.com/8180279.html",
+      "summary": "不会用AI不要紧，别让老板觉得你不会。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T12:19:00+08:00",
+      "fetchedAt": "2026-10-24T15:26:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f3eb8a3ebfca82d4",
+      "title": "双11购物车里的AI暗战",
+      "url": "https://tmtpost.com/8180252.html",
+      "summary": "淘天抖音造入口，京东多多促交易。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T12:00:38+08:00",
+      "fetchedAt": "2026-10-24T15:26:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6cb3e52c5e15497f",
+      "title": "博纳闯AI赛道，失败了三次",
+      "url": "https://tmtpost.com/8180263.html",
+      "summary": "令人羡慕的勇气。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T12:00:30+08:00",
+      "fetchedAt": "2026-10-24T15:26:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4b694ba836648557",
+      "title": "国产具身智能出海开启“减重计划”",
+      "url": "https://tmtpost.com/8179676.html",
+      "summary": "出口爆单，售后拖垮。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T10:06:00+08:00",
+      "fetchedAt": "2026-10-24T15:26:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c79474654b00bf7b",
+      "title": "L3将至，华地魔三巨头同台：自动驾驶下半场的生存哲学",
+      "url": "https://tmtpost.com/8179664.html",
+      "summary": "智驾供应商下半场的三种答案。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-24T10:01:00+08:00",
+      "fetchedAt": "2026-10-24T15:26:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
       "related": [],
       "pushed": false
     }
