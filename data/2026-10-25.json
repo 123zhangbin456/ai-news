@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-25",
+  "updatedAt": "2026-10-25T03:10:47+08:00",
+  "items": [
+    {
+      "id": "934580108444c224",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T02:32:21+08:00",
+      "fetchedAt": "2026-10-25T03:10:40+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "advertising",
+        "ads"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "宾州立法：AI生成广告须明确标注",
+        "takeaway": "宾州签署法案，要求AI生成的广告必须披露，打击 deceptive 广告，保护消费者。",
+        "bullets": [
+          "宾州州长夏皮罗签署《人工智能欺骗性广告法》。",
+          "法律要求AI生成的图像、视频、音频或文本广告必须披露。",
+          "旨在防止AI广告误导消费者，影响广告商和平台。"
+        ],
+        "detail": "宾夕法尼亚州州长乔什·夏皮罗周四签署了《人工智能欺骗性广告法》，要求对AI生成的广告进行披露。该法律适用于任何形式的广告，包括静态图像、视频、音频或文本。",
+        "generatedAt": "2026-10-25T03:10:45+08:00"
+      }
+    },
+    {
+      "id": "4e471599736b115d",
+      "title": "Silero VAD v6 being used by Chatgpt voice mode",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xedp2t/silero_vad_v6_being_used_by_chatgpt_voice_mode",
+      "summary": "https://preview.redd.it/xwljokv33gxh1.png?width=1062&format=png&auto=webp&s=3e5991de1569ba994b448d0bb17818fe3d2773ab Interesting they chose an opensource model instead of building their own submitted by /u/ObnoxiouslyVivid [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T24:54:54+08:00",
+      "fetchedAt": "2026-10-25T03:10:40+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "preview"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ChatGPT 语音模式被曝使用开源 Silero VAD v6",
+        "takeaway": "OpenAI 在语音功能中采用开源语音活动检测模型，而非自研，引发社区关注。",
+        "bullets": [
+          "Reddit 用户发现 ChatGPT 语音模式调用 Silero VAD v6。",
+          "Silero VAD 是开源语音活动检测模型，用于判断语音起止。",
+          "OpenAI 选择开源方案而非自研，社区感到意外。"
+        ],
+        "detail": "有网友在 Reddit 的 LocalLLaMA 版块贴图指出，ChatGPT 的语音模式正在使用开源模型 Silero VAD v6。该模型用于检测语音活动，判断用户何时开始和停止说话。令人意外的是，OpenAI 没有自研这一组件，而是直接采用了开源方案。",
+        "generatedAt": "2026-10-25T03:10:45+08:00"
+      }
+    },
+    {
+      "id": "d84db124bef5ea2c",
+      "title": "10 tok/s Deepseek V4.1 Flash 8K with Strata on a 5090 with 64GB DDR5 Ram",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xed2xx/10_toks_deepseek_v41_flash_8k_with_strata_on_a",
+      "summary": "https://preview.redd.it/6ty7xuyjyfxh1.png?width=721&format=png&auto=webp&s=ee2bbd9530cf60f1dd80444e646a179a54f1d1cb Ran it on my RTX 5090 with Lexar 4TB NVMe and 64 GB of DDR5 Ram. At this speed it is cheaper to use the API than to pay the …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T24:29:59+08:00",
+      "fetchedAt": "2026-10-25T03:10:40+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "preview",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "RTX 5090 本地跑 DeepSeek V4.1 Flash：8K 上下文约 10 tok/s",
+        "takeaway": "有用户在单张 5090 加 64GB DDR5 上实测本地推理，速度约 10 tok/s，作者认为不如直接调用 API 划算。",
+        "bullets": [
+          "硬件为 RTX 5090、64GB DDR5 内存和 4TB NVMe 固态硬盘",
+          "8K 上下文下推理速度约每秒 10 个 token",
+          "作者算账后认为这个速度下用 API 比自建更便宜"
+        ],
+        "detail": "一位用户在 r/LocalLLaMA 分享，他用 RTX 5090 搭配 64GB DDR5 内存和 4TB NVMe 硬盘，通过 Strata 在本地运行 DeepSeek V4.1 Flash，8K 上下文下速度约 10 tok/s。他直言按这个速度，付费用 API 比自掏硬件成本更划算。",
+        "generatedAt": "2026-10-25T03:10:45+08:00"
+      }
+    },
+    {
+      "id": "b8ce09e348ccbf5d",
+      "title": "Just update of ik_llama.cpp fork and seek of feedback",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xed7a7/just_update_of_ik_llamacpp_fork_and_seek_of",
+      "summary": "Continuation of https://www.reddit.com/r/LocalLLaMA/comments/1wynomx/k_llamacpp_moe_optimizations_expert_residency/ This time I finally get speeds compared to Strata for ik_llama.cpp on 6gb vram rtx 2060 ( generates about 45–48 t/s on short…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T24:34:56+08:00",
+      "fetchedAt": "2026-10-25T03:10:40+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ik_llama.cpp 分支更新：6GB 显存 RTX 2060 跑出 45–48 t/s",
+        "takeaway": "开发者更新 ik_llama.cpp 分支并征集反馈，在 6GB 显存的 RTX 2060 上短文本生成达 45–48 t/s。",
+        "bullets": [
+          "ik_llama.cpp 分支发布新更新，作者公开征集社区反馈",
+          "在 6GB 显存的 RTX 2060 上短文本生成约 45–48 t/s",
+          "此次给出与 Strata 的速度对比，延续此前的 MoE 优化讨论",
+          "面向本地小显存用户，低配硬件跑大模型更可行"
+        ],
+        "detail": "这是此前 ik_llama.cpp 的 MoE 优化与专家驻留讨论的后续。作者这次在 6GB 显存的 RTX 2060 上测出短文本生成约 45–48 t/s，并给出了与 Strata 的速度对比，同时希望社区试用后反馈。",
+        "generatedAt": "2026-10-25T03:10:47+08:00"
+      }
+    }
+  ],
+  "topic": "ai"
+}
