@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updatedAt": "2026-10-26T03:24:49+08:00",
+  "updatedAt": "2026-10-26T06:57:31+08:00",
   "items": [
     {
       "id": "d542228452b61be4",
@@ -66,7 +66,7 @@
       "confidence": 0.4,
       "score": 56,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Linux基金会报告：AI写代码快52%，但四分之一PR是“AI垃圾”",
         "takeaway": "AI提升编码效率却加重开源维护负担，四分之一PR被指低质，值得关注人机协作代价。",
@@ -77,7 +77,8 @@
         ],
         "detail": "Linux基金会新报告指出，AI辅助编程让写代码速度提升52%，但开源项目收到的PR中约四分之一是低质量的“AI垃圾”。维护者需要花更多时间审核这些提交，导致整体负担反而加重。",
         "generatedAt": "2026-10-25T15:01:03+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "91af26678ff2a271",
@@ -102,7 +103,7 @@
       "confidence": 0.33,
       "score": 54,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI 与 Anthropic 阻止对智能电视监控行为的逆向工程",
         "takeaway": "开发者尝试逆向分析智能电视的监控行为，却遭 Claude 等模型拒绝，引发对 AI 安全边界的讨论。",
@@ -113,7 +114,8 @@
         ],
         "detail": "有开发者发起 REA（Reserve Engineer Anything）项目，想逆向分析智能电视是否在监控用户，但 Claude 在一天后阻止了该操作，OpenAI 也有类似限制。社区讨论认为，这反映出 AI 模型在安全策略上对逆向工程类请求的谨慎态度。",
         "generatedAt": "2026-10-25T15:01:03+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "dbe76530e9896fc9",
@@ -176,7 +178,7 @@
       "confidence": 1,
       "score": 46,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Kimi K3.1 Pro 被指提升有限，与 DeepSeek 4.1 Flash 差距不明显",
         "takeaway": "用户讨论 Kimi 新模型表现未达预期，引发对模型规模与效果关系的质疑。",
@@ -187,7 +189,8 @@
         ],
         "detail": "有用户在 LocalLLaMA 发帖称，Kimi K3.1 Pro 的表现看起来并不比 DeepSeek 4.1 Flash 好多少。该用户表示自己很喜欢 Kimi 模型，也欣赏其冒险推 2.8b 参数模型的思路，但认为结果应当与模型规模相称，而 DeepSeek 近期的发布让这一对比更受关注。",
         "generatedAt": "2026-10-25T07:50:42+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "80719b37e00f4cf6",
@@ -212,7 +215,7 @@
       "confidence": 0,
       "score": 46,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "用户实测质疑 Artificial Analysis 榜单：Kimi 3.1 Pro 排名第 4 却表现不佳",
         "takeaway": "有用户实测称 AAI 榜单易被刷分，排名第 4 的 Kimi 3.1 Pro 实际表现远不如 DeepSeek 4.1 Flash。",
@@ -224,7 +227,8 @@
         ],
         "detail": "一位用户在 LocalLLaMA 发帖称，Artificial Analysis Index 很容易被刷分。他通过 OpenRouter 测试了在该榜单排第 4 的 Kimi 3.1 Pro，发现真实使用场景下表现很差，远不及 DeepSeek 4.1 Flash。",
         "generatedAt": "2026-10-25T15:01:03+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "6f9ed043fa8a1513",
@@ -247,7 +251,7 @@
       "confidence": 0,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "谷歌AI搜索改版冲击在线出版业",
         "takeaway": "谷歌AI搜索功能改变流量分配，在线出版商面临生存挑战。",
@@ -258,7 +262,8 @@
         ],
         "detail": "The Verge的每周专栏The Stepback聚焦谷歌AI搜索改版对在线出版的影响。新功能直接在搜索结果中生成答案，导致用户不再点击原始链接，出版商流量和收入受损。文章由Emma Roth撰写，探讨AI如何重塑网络内容生态。",
         "generatedAt": "2026-10-25T20:39:02+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "ec15cc5dfcd034c7",
@@ -323,7 +328,7 @@
       "confidence": 1,
       "score": 42,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DeepSeek-V4.1-Flash 提交 llama.cpp 支持，仅 763B 参数",
         "takeaway": "DeepSeek 新模型 V4.1-Flash 正被适配进 llama.cpp，参数规模 763B，本地推理有望跟进。",
@@ -335,7 +340,8 @@
         ],
         "detail": "有人在 llama.cpp 仓库提交 PR，为 DeepSeek 新发布的 V4.1-Flash 模型添加支持。该模型参数为 763B，权重和技术报告已上传 Hugging Face。PR 若被合并，llama.cpp 生态将能本地推理这一模型。",
         "generatedAt": "2026-10-25T15:01:05+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "934580108444c224",
@@ -433,7 +439,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "盘点热门AI可穿戴设备：Muse Charm、Bee、Friend等上榜",
         "takeaway": "TechCrunch汇总了当前最受关注的AI可穿戴设备，涵盖多个品牌，反映AI硬件正加速走向日常佩戴。",
@@ -444,7 +450,8 @@
         ],
         "detail": "TechCrunch整理了一份当前最热门的AI可穿戴设备清单，包括Muse Charm、Bee、Friend、Plaud等产品。这些设备代表了AI硬件向日常佩戴场景发展的趋势。",
         "generatedAt": "2026-10-26T24:55:43+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "6bffee9c13e86ea3",
@@ -469,7 +476,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "r/opensource 新规禁止 AI 项目及非英语使用者",
         "takeaway": "知名开源社区 r/opensource 出台新规，禁止 AI 相关项目和非英语使用者，引发争议。",
@@ -480,7 +487,8 @@
         ],
         "detail": "r/opensource 版主周六晚发布新规，明确表示使用 AI、由 AI 制作或面向 AI 的项目不再受欢迎。此外，新规还禁止非英语使用者，但未详细说明执行方式。这一政策可能改变该社区的内容方向，并引发关于包容性的争议。",
         "generatedAt": "2026-10-26T24:55:44+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "4e471599736b115d",
@@ -580,7 +588,7 @@
       "confidence": 0.25,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "ISTA 的 2-bit 量化 DeepSeek-V4.1-Flash 跑分追平原模型，引社区质疑",
         "takeaway": "2-bit 量化模型声称与原模型同分，但基准饱和让结果可信度存疑。",
@@ -592,7 +600,8 @@
         ],
         "detail": "有用户在 LocalLLaMA 发帖，询问是否有人试过 ISTA 为 DeepSeek-V4.1-Flash 做的 GSQ-RCO 量化 GGUF。该用户质疑其跑分过于漂亮：IQ2_XXS 竟能追平原模型，但测试集分数已饱和（普遍 90% 以上，AIME25 每个版本都是 100），因此怀疑基准本身已失去区分度。",
         "generatedAt": "2026-10-25T15:01:06+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "c4e0643ea16ac53e",
@@ -617,7 +626,7 @@
       "confidence": 1,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "GPT-X3-150M 登顶 Open SLM 榜，超越 SmolLM2-135M",
         "takeaway": "小模型榜单换榜首，150M 参数新模型用混合注意力架构击败 HuggingFace 热门小模型。",
@@ -628,7 +637,8 @@
         ],
         "detail": "社区用户发布 GPT-X3-150M，在 Open SLM 小模型排行榜上拿下第一，把 HuggingFace 的 SmolLM2-135M 挤到后面。该模型约 1.5 亿参数，结合 GDN2 与 GQA 两种注意力设计，具体评测细节可查看原帖链接。",
         "generatedAt": "2026-10-25T15:01:05+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "32fe6bd85f52d000",
@@ -653,7 +663,7 @@
       "confidence": 1,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DeepSeek 4.1 Flash 本地部署成本引热议",
         "takeaway": "用户实测 API 版体验良好，想本地部署达到同等质量与速度，社区讨论最低预算。",
@@ -664,7 +674,8 @@
         ],
         "detail": "有用户在 LocalLLaMA 分享，近期通过 API 测试了 DeepSeek 4.1 Flash，表示很喜欢，主要用于编程和逆向工程。他想知道本地部署达到与多数托管方案相同质量和约 40 token/s 速度的最低预算。",
         "generatedAt": "2026-10-25T20:39:02+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "ee5387f116a2ebd9",
@@ -689,7 +700,7 @@
       "confidence": 1,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "两个 AI 代理同改一个文件，后写的悄悄覆盖前一个",
         "takeaway": "多代理并行改同一仓库时，最贵的失败不是改错，而是好的修改被静默覆盖，需查 git log 排查。",
@@ -701,7 +712,8 @@
         ],
         "detail": "如果你在一个仓库上同时运行多个 AI 代理，比如后台代理、多个聊天窗口，或者 Cursor 搭配 Claude Code、Codex 一起用，真正代价高的故障往往不是改错了代码，而是一次好的修改凭空消失：代理 A 修好了某个文件，代理 B 随后在同一文件上继续工作，把 A 的改动悄悄覆盖掉。这种丢失不会报错，需要到 g",
         "generatedAt": "2026-10-25T20:39:05+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "b8ce09e348ccbf5d",
@@ -762,7 +774,7 @@
       "confidence": 0,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "英国投1亿英镑建全球首个AI生物安全实验室",
         "takeaway": "英国政府出资1亿英镑设立AI生物安全实验室，号称世界首创，值得关注AI在生物安全领域的应用。",
@@ -773,7 +785,8 @@
         ],
         "detail": "英国计划投资1亿英镑建立一个被称为“世界首个”的AI生物安全实验室。该消息在Reddit的LocalLLaMA板块引发讨论，但摘要未提供更多细节。",
         "generatedAt": "2026-10-25T07:50:42+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "95ac1cdb0d92ea86",
@@ -798,7 +811,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "llama.cpp 合并 PR：MMQ 中融合 FFN 门控/上投影与 GLU，推理提速最高 7.1%",
         "takeaway": "llama.cpp 新 PR 通过融合矩阵乘与 GLU 激活，在 DGX Spark 上实测 Qwen3 模型推理速度提升 4.8%～7.1%。",
@@ -809,7 +822,8 @@
         ],
         "detail": "该 PR 在 llama.cpp 的 MMQ 量化矩阵乘内核中，把 FFN 的 gate/up 投影与 GLU 激活融合，并采用交错行布局减少内存访问。在 DGX Spark 上跑 Qwen3.8-27B，Q4_K_M 从 840.1 tok/s 提升到 899.9 tok/s（+7.1%），Q5_K_M 提升 4.8",
         "generatedAt": "2026-10-25T20:39:05+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "8c4054a78a5b760c",
@@ -871,7 +885,7 @@
       "confidence": 0,
       "score": 37,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Kimi K3.1 Pro 体验：或进军具身智能",
         "takeaway": "作者体验Kimi新模型K3.1 Pro后，推测Kimi可能布局具身智能，值得关注其动向。",
@@ -882,7 +896,8 @@
         ],
         "detail": "钛媒体作者在连夜体验Kimi K3.1 Pro后，觉得Kimi可能真的要做具身智能了。摘要提到“终于不用等那么久了”，暗示此前已有期待。",
         "generatedAt": "2026-10-25T20:39:04+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "a13a316c43888fef",
@@ -907,7 +922,7 @@
       "confidence": 1,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "微软联手英伟达，高端AI PC正面挑战苹果",
         "takeaway": "微软借英伟达芯片加码高端AI PC，AI PC竞争从有无NPU转向更高性能较量。",
@@ -918,7 +933,8 @@
         ],
         "detail": "微软与英伟达合作，推出高端AI PC，直接对标苹果。报道指出，AI PC的竞争已不再停留在是否配备NPU的浅层比较，而是向更高性能与生态整合迈进。",
         "generatedAt": "2026-10-25T15:01:07+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "0a50a0ec1bc0de02",
@@ -943,7 +959,7 @@
       "confidence": 1,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "南壁发布33B新模型，性能超Qwen3.8-27B",
         "takeaway": "南壁4.3-33B在多项基准上超越Qwen3.8-27B，并将用于蒸馏小模型。",
@@ -954,7 +970,8 @@
         ],
         "detail": "南壁在Hugging Face发布4.3-33B模型，多项基准表现超过Qwen3.8-27B。该模型将作为教师模型，用于蒸馏南壁4.3-3B等小模型，可能还涉及其他尺寸。",
         "generatedAt": "2026-10-25T20:39:07+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "d3da2d1e08f2e049",
@@ -977,7 +994,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Java 生态动态：Grails 8、Open Liberty 等框架更新",
         "takeaway": "InfoQ 汇总了近期 Java 生态中多个框架和工具的版本更新，值得开发者关注。",
@@ -988,7 +1005,8 @@
         ],
         "detail": "近期 Java 生态迎来一波更新：Grails 8 正式发布，基于 Spring Boot 3 和 Groovy 4；Open Liberty、GlassFish 等应用服务器推出新版本；Infinispan、LangChain4j、Spock 等工具也有更新。这些变化涉及 Web 框架、应用服务器和开发工具，Java",
         "generatedAt": "2026-10-25T09:49:58+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "3daf9eb99813505d",
@@ -1011,7 +1029,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Cloudflare 推出 OHTTP 网关，拒绝解密经其传入的请求",
         "takeaway": "Cloudflare 上线 OHTTP 网关，让流量经过它时也无法被解密，隐私保护再进一步。",
@@ -1022,7 +1040,8 @@
         ],
         "detail": "Cloudflare 推出 OHTTP 网关，核心特点是即使请求经过 Cloudflare 网络，它也无法解密内容。这延续了 OHTTP 协议隐藏请求来源与内容的思路，对重视隐私的网站和开发者是一项新选择。",
         "generatedAt": "2026-10-25T15:01:07+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "b887e331858f6b4b",
@@ -1048,7 +1067,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "美国反数据中心运动可借鉴海外经验",
         "takeaway": "《Hyperscale》作者指出，美国数据中心扩张争议可参考爱尔兰、新西兰等国的监管与社区应对经验。",
@@ -1059,7 +1078,8 @@
         ],
         "detail": "《Hyperscale》作者Paris Marx多年来持续关注全球数据中心建设。他指出，从爱尔兰到新西兰，各地在数据中心发展上积累了经验教训，美国当前的反数据中心运动可以从这些海外案例中学到很多。",
         "generatedAt": "2026-10-25T20:39:07+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "1f1c819084b9f056",
@@ -1084,7 +1104,19 @@
       "confidence": 1,
       "score": 33,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "2027年人形机器人扎堆发布，演示可信度存疑",
+        "takeaway": "全球头部玩家集体押注2027年发布人形机器人，但演示能否兑现引发质疑。",
+        "bullets": [
+          "多家头部公司计划2027年集中发布人形机器人。",
+          "集体发布被形容为“电影宣发大撞车”，演示真实性受关注。",
+          "行业面临能否真正兑现承诺的考验。"
+        ],
+        "detail": "全球主要人形机器人公司都把证明自身能力的节点定在2027年，形成集中发布潮。这种扎堆演示虽吸引眼球，但能否真正落地、让公众放心仍是未知数。",
+        "generatedAt": "2026-10-26T06:57:24+08:00"
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "6597a1303e38b17b",
@@ -1157,7 +1189,19 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "美国创意行业流失20万岗位，AI该背多少锅？",
+        "takeaway": "美国媒体、影视与艺术领域减少约20万个岗位，文章探讨AI在其中的影响，引发热议。",
+        "bullets": [
+          "美国媒体、电影和艺术行业累计流失约20万个岗位",
+          "文章分析AI在创意岗位减少中扮演的角色",
+          "Hacker News讨论热烈，评论超百条，观点分歧明显"
+        ],
+        "detail": "一篇分析文章指出，美国媒体、影视和艺术行业已减少约20万个工作岗位，并探讨人工智能在其中起了多大作用。该文在Hacker News上引发116条评论，读者对AI是否为主因看法不一。",
+        "generatedAt": "2026-10-26T06:57:26+08:00"
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "9bdbde3ae943c0e5",
@@ -1182,7 +1226,19 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "AI股业绩爆表却连跌，单季净赚212亿仍两天跌近15%",
+        "takeaway": "AI板块连跌四周但业绩集体超预期，市场杀的是估值而非基本面。",
+        "bullets": [
+          "AI股连跌四周，有公司单季净赚212亿仍两天跌近15%",
+          "业绩集体爆表，股票型ETF同期净流入近700亿",
+          "调整源于估值消化，资金借ETF逆势加仓"
+        ],
+        "detail": "AI相关股票已连跌四周，但财报季业绩普遍超出预期，有公司单季净赚212亿元，股价却在两天内跌去近15%。同期股票型ETF净流入近700亿元，显示资金在调整中逆势布局。这轮下跌主要是在消化前期高估值，而非业绩恶化。",
+        "generatedAt": "2026-10-26T06:57:26+08:00"
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "2a93e17e3df492f2",
@@ -1205,7 +1261,19 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "AI大模型狂飙，面板厂商集体涨价，下游承压",
+        "takeaway": "AI大模型需求激增导致面板涨价，但下游企业面临成本压力，产业链影响值得关注。",
+        "bullets": [
+          "面板厂商因AI大模型需求集体涨价",
+          "下游企业成本压力增大",
+          "产业链上下游博弈加剧"
+        ],
+        "detail": "AI大模型快速发展带动面板需求增长，面板厂商纷纷涨价。但下游企业面临成本上升难题，如何消化涨价压力成为关键。",
+        "generatedAt": "2026-10-26T06:57:27+08:00"
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "bac5c877aebceef0",
@@ -1230,7 +1298,19 @@
       "confidence": 0.67,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "AI投资热潮推动中国与全球贸易激增",
+        "takeaway": "何伟文指出，AI相关产品贸易爆发式增长推高中国外贸增速，颠覆“产能过剩”单一叙事。",
+        "bullets": [
+          "AI投资勃兴带动全球AI产品贸易剧增",
+          "中国外贸增速因此获得新动力",
+          "新产业分工图景挑战产能过剩论"
+        ],
+        "detail": "何伟文在巴伦独家撰文指出，全球AI相关产品贸易的爆发式扩张正推高中国外贸增速。这一新的产业分工图景，推翻了外界将中国贸易顺差简单归因于“产能过剩”的单一叙事。",
+        "generatedAt": "2026-10-26T06:57:27+08:00"
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "776e05eef8852b17",
@@ -1253,7 +1333,19 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "小模型也能聊？用户实测LLM最小可用规模",
+        "takeaway": "用户探索在CPU上运行、参数量低于10M且能生成基本通顺英语对话的最小LLM规模。",
+        "bullets": [
+          "目标：找到小于10M参数、CPU易运行的小模型",
+          "要求：生成语法基本正确、上下文合理的英语",
+          "测试：用户正在尝试不同规模模型的效果"
+        ],
+        "detail": "一位用户在LocalLLaMA社区提问，想找到能生成“正常”英语对话的最小LLM，希望参数量低于10M以便在CPU上运行。他要求输出语法基本正确、内容合理，并已开始测试。",
+        "generatedAt": "2026-10-26T06:57:28+08:00"
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "81c8fd74d5e2c7e1",
@@ -1302,7 +1394,19 @@
       "confidence": 0,
       "score": 27,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "尼康摄影大赛获奖作品被撤，科学家发现AI痕迹",
+        "takeaway": "AI生成图像混入摄影比赛并获奖，引发对赛事审核与真实性的关注。",
+        "bullets": [
+          "尼康摄影比赛获奖者因作品被科学家发现AI迹象而被取消头衔。",
+          "事件由科学家识别出AI生成特征后曝光，引发Hacker News热议。",
+          "比赛审核机制受质疑，摄影界需应对AI图像挑战。"
+        ],
+        "detail": "尼康摄影比赛一名获奖者被撤销头衔，原因是科学家在作品中发现了AI生成的迹象。此事在Hacker News上引发讨论，凸显AI图像对摄影比赛真实性的冲击，以及赛事方审核机制的不足。",
+        "generatedAt": "2026-10-26T06:57:29+08:00"
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "c35e0b6aa8bd30fa",
@@ -1327,7 +1431,19 @@
       "confidence": 1,
       "score": 26,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "Cerebras 实现万亿参数模型部署",
+        "takeaway": "Cerebras 展示了在自家芯片上部署万亿参数前沿模型的方法，为超大模型推理提供新路径。",
+        "bullets": [
+          "Cerebras 在官方博客详解万亿参数模型部署方案",
+          "该方案基于其晶圆级引擎芯片，面向前沿大模型",
+          "Hacker News 热度 214 分，引发 67 条讨论"
+        ],
+        "detail": "Cerebras 发布博客，介绍如何在其硬件上部署万亿参数级别的前沿 AI 模型。这属于产品应用层面的进展，说明超大模型推理有了新的工程实现方式，相关讨论在 Hacker News 上获得较高关注。",
+        "generatedAt": "2026-10-26T06:57:30+08:00"
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     }
   ],
   "topic": "ai"

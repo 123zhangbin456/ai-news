@@ -1,7 +1,44 @@
 {
   "date": "2026-10-26",
-  "updatedAt": "2026-10-26T03:24:49+08:00",
+  "updatedAt": "2026-10-26T06:57:31+08:00",
   "items": [
+    {
+      "id": "bf7f18e0418c7776",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T05:31:16+08:00",
+      "fetchedAt": "2026-10-26T06:57:10+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "releases"
+      ],
+      "confidence": 1,
+      "score": 65,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Grok 发布 AI 生成《奥德赛》前七分钟片段",
+        "takeaway": "xAI 的 Grok 首次公开其 AI 生成电影片段，效果尚可但缺乏艺术性。",
+        "bullets": [
+          "Grok 发布 AI 生成的《奥德赛》前七分钟视频",
+          "画面质量尚可，但被指缺乏艺术性和人文气息",
+          "这是 AI 生成长篇叙事视频的一次公开尝试"
+        ],
+        "detail": "Grok 公布了其 AI 生成的《奥德赛》前七分钟片段。画面看起来还行，但如果你追求艺术性、灵感或人文趣味，可能会失望。这展示了 AI 生成视频的现状：技术可行，但创意表达仍有局限。",
+        "generatedAt": "2026-10-26T06:57:22+08:00"
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
+    },
     {
       "id": "4c4c1d6a57705b0b",
       "title": "qwen: merge tensors on convert by am17an · Pull Request #31028 · ggml-org/llama.cpp",
@@ -26,7 +63,7 @@
       "confidence": 1,
       "score": 46,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "llama.cpp 合并 Qwen 转换张量，GGUF 需重新转换",
         "takeaway": "llama.cpp 合并了 Qwen 模型转换时的张量处理改动，用户可能需要重新转换 GGUF 文件。",
@@ -37,7 +74,8 @@
         ],
         "detail": "llama.cpp 合并了 am17an 的 PR #31028，改动 Qwen 模型转换时的张量合并方式。社区用户因此讨论：已有 GGUF 文件是否需要重新转换。",
         "generatedAt": "2026-10-26T24:55:43+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "eba7a349042ed589",
@@ -62,7 +100,7 @@
       "confidence": 1,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "把重复代码评审意见变成 Cursor 规则的小实验",
         "takeaway": "有人尝试将人工评审中反复出现的意见提炼为 Cursor 规则，让 AI 代理真正遵守。",
@@ -73,7 +111,8 @@
         ],
         "detail": "几周前有人做了一项小实验：能否把人类在代码评审中反复提出的意见，变成 AI 代理会遵守的项目规则？实验扫描了开源 Python 项目 Ruff 的 15 个已合并 PR 和 45 条人工评审意见，并从中提取规则。",
         "generatedAt": "2026-10-26T03:24:49+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "688136660c106304",
@@ -96,7 +135,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Block 新语音模型逼真如人，可在 MacBook M4 Max 本地运行",
         "takeaway": "Block 发布新语音模型，音质接近真人，且能在 MacBook M4 Max 上本地运行，降低使用门槛。",
@@ -107,7 +146,8 @@
         ],
         "detail": "Block 公司发布了一款新的语音模型，其生成的声音听起来非常像真人。该公司表示，这个模型可以直接在搭载 M4 Max 芯片的 MacBook 上本地运行，而不需要依赖云端服务器。",
         "generatedAt": "2026-10-25T24:05:55+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "b23877b88e691b4d",
@@ -132,7 +172,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "阿波罗经济学家：AI 对多数企业财务回报为零",
         "takeaway": "巨额投资与炒作之下，除科技业外，美国企业尚未从 AI 获得实际财务回报。",
@@ -143,7 +183,8 @@
         ],
         "detail": "阿波罗经济学家表示，尽管人工智能领域投资巨大且炒作广泛，但除科技行业外，美国企业从这项技术中获得的财务回报为零。这一观点凸显了 AI 投资与实际收益之间的落差。",
         "generatedAt": "2026-10-26T03:24:49+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "1dc75a32fc6a65d3",
@@ -166,7 +207,7 @@
       "confidence": 0,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "10年前的老CNN模型在皮肤癌诊断上胜过前沿大模型",
         "takeaway": "一项对比显示，2015年的专用CNN在皮肤癌诊断上优于当前前沿LLM，引发对通用模型医疗应用边界的讨论。",
@@ -177,7 +218,82 @@
         ],
         "detail": "有研究对比发现，一个十年前的老式卷积神经网络在皮肤癌诊断上，表现超过了当前的前沿大语言模型。这提醒人们，在特定医疗影像任务中，专用小模型可能比通用大模型更可靠。",
         "generatedAt": "2026-10-26T03:24:49+08:00"
-      }
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
+    },
+    {
+      "id": "ca2b82d6e1e86391",
+      "title": "Llama Swap Mobile Control!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xfeghr/llama_swap_mobile_control",
+      "summary": "I just finished vibe coding an apk for Llama swap mobile controller. I really like being able to read logs and monitor my PC's performance while I'm out and about using my agents and I didn't necessarily care for how llama swap looked on mo…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T05:32:11+08:00",
+      "fetchedAt": "2026-10-26T06:57:10+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Llama Swap 推出手机端控制 App，可远程监控本地模型",
+        "takeaway": "开发者用 vibe coding 做了个安卓 APK，让用户在外也能查看日志和 PC 性能。",
+        "bullets": [
+          "开发者发布 Llama Swap 手机控制器 APK",
+          "支持远程查看日志和监控 PC 性能",
+          "方便用户外出时管理本地 AI 代理"
+        ],
+        "detail": "一位开发者用 vibe coding 方式完成了 Llama Swap 的手机控制 App（APK）。他喜欢在外出使用代理时也能读日志、看电脑性能，并且不太满意 Llama Swap 在手机上的原版界面，于是自己做了这个移动端控制器。",
+        "generatedAt": "2026-10-26T06:57:22+08:00"
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
+    },
+    {
+      "id": "bfd11a35be91fae2",
+      "title": "Monolithic ddr3 server",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xfd1nk/monolithic_ddr3_server",
+      "summary": "Hi all. Do any of you guys run a server like this for inference of big models. Given deepseek is down to 8/16b active I'm curious as to whether this could start to make sense if I was to add a gpu. This server is local for $550 USD. Dell Po…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T04:34:08+08:00",
+      "fetchedAt": "2026-10-26T06:57:10+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU"
+      ],
+      "confidence": 0.5,
+      "score": 35,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "550 美元 DDR3 老服务器跑大模型推理，可行吗？",
+        "takeaway": "网友讨论用低价 DDR3 服务器加 GPU 跑大模型推理，因 DeepSeek 激活参数降至 8/16B 而重燃兴趣。",
+        "bullets": [
+          "用户询问是否有人用此类服务器做推理",
+          "DeepSeek 激活参数降至 8/16B 让方案看似可行",
+          "该戴尔服务器本地售价 550 美元，计划加装 GPU"
+        ],
+        "detail": "有网友在 LocalLLaMA 发帖，询问是否有人用类似配置的服务器做大型模型推理。他提到 DeepSeek 的激活参数已降到 8B/16B，因此好奇在加装 GPU 后，这种方案是否开始变得合理。这台戴尔服务器本地售价 550 美元。",
+        "generatedAt": "2026-10-26T06:57:22+08:00"
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "6070f6a03dda9350",
@@ -200,7 +316,19 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "4块V620显卡装入LLM设计并3D打印的机箱",
+        "takeaway": "用户用LLM生成并3D打印机箱，容纳4块V620显卡，展示本地AI硬件DIY新玩法。",
+        "bullets": [
+          "用户PraxisOG在LocalLLaMA分享自制机箱",
+          "机箱由LLM生成设计并3D打印",
+          "内部安装4块V620显卡，用于本地LLM"
+        ],
+        "detail": "Reddit用户PraxisOG在LocalLLaMA板块发帖，展示了一个由LLM生成设计并3D打印的机箱，里面装了4块V620显卡。这体现了本地运行大模型时，玩家用AI辅助硬件DIY的趋势。",
+        "generatedAt": "2026-10-26T06:57:24+08:00"
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
       "id": "3ea0e37ae6ac8531",
@@ -225,7 +353,91 @@
       "confidence": 0.33,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "用户追问 InclusionAI 是否发布 Ling 3.1 Flash 1019 更新权重",
+        "takeaway": "社区关注 Ling 3.1 Flash 1019 更新版模型权重是否开源，目前官方未明确表态。",
+        "bullets": [
+          "用户发现 Hugging Face 上未见 Ling 3.1 Flash 1019 更新权重。",
+          "发帖询问 InclusionAI 是否已宣布发布计划。",
+          "反映开源社区对模型权重开放的高度关注。"
+        ],
+        "detail": "有用户在 r/LocalLLaMA 发帖称，在 Hugging Face 和快速搜索后均未找到 InclusionAI 关于 Ling 3.1 Flash 1019 更新模型权重的发布信息，因此询问官方是否就此表态。目前该问题尚无明确答案。",
+        "generatedAt": "2026-10-26T06:57:24+08:00"
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
+    },
+    {
+      "id": "d9a3454fc5f657d3",
+      "title": "CrowdGPT - A collaboratively trained LLM.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xff9e4/crowdgpt_a_collaboratively_trained_llm",
+      "summary": "Hello, I'm developing CrowdGPT , a project aiming to create an LLM without datacenters and without the usual millions of dollars spent by AI companies. The project aims to train a 1 billion parameter model collaboratively and openly, with a…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T06:07:17+08:00",
+      "fetchedAt": "2026-10-26T06:57:10+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "billion"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "CrowdGPT：众包协作训练10亿参数大模型",
+        "takeaway": "开发者发起CrowdGPT项目，试图不靠数据中心和巨额资金，以众包方式协作训练10亿参数大模型。",
+        "bullets": [
+          "目标是不依赖数据中心和数百万美元投入训练大模型",
+          "计划协作训练一个10亿参数规模的模型",
+          "项目强调开放与协作，具体方案尚未完全披露"
+        ],
+        "detail": "CrowdGPT 是一个正在开发中的项目，目标是绕开传统 AI 公司依赖的数据中心和巨额资金，用协作、开放的方式训练一个 10 亿参数的大模型。发起人表示项目还在早期，更多细节有待公布。",
+        "generatedAt": "2026-10-26T06:57:25+08:00"
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
+    },
+    {
+      "id": "33331332d5b954af",
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=502…",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T24:28:26+08:00",
+      "fetchedAt": "2026-10-26T06:57:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "伯克利数学教授因AI普及放弃批改作业",
+        "takeaway": "AI让学生轻松完成作业，教授认为批改已失去意义，折射高校评估方式受冲击。",
+        "bullets": [
+          "UC伯克利数学教授表示，AI使用让他觉得批改作业‘没有意义’。",
+          "该教授的观点引发对传统作业评分有效性的讨论。",
+          "此事反映AI正改变高校教学与评估方式。"
+        ],
+        "detail": "加州大学伯克利分校一位数学教授表示，由于学生广泛使用AI，他感到批改作业已‘没有意义’。这一表态在Hacker News上引发讨论，凸显AI工具对高校作业与评分体系的冲击。",
+        "generatedAt": "2026-10-26T06:57:29+08:00"
+      },
+      "pushedAt": "2026-10-26T06:57:31+08:00"
     }
   ],
   "topic": "ai"
