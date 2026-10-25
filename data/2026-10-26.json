@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updatedAt": "2026-10-26T06:57:31+08:00",
+  "updatedAt": "2026-10-26T07:39:37+08:00",
   "items": [
     {
       "id": "bf7f18e0418c7776",
@@ -113,6 +113,43 @@
         "generatedAt": "2026-10-26T03:24:49+08:00"
       },
       "pushedAt": "2026-10-26T06:57:31+08:00"
+    },
+    {
+      "id": "52996fe2e1dbe15c",
+      "title": "I need to fine tune Qwen3.5-9B with QLora on about 500 GB of raw data (images/scanned documents/pdfs/word/excel) - what is the best way forward?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xffuvl/i_need_to_fine_tune_qwen359b_with_qlora_on_about",
+      "summary": "Hi All: I done overthought and burned money after consulting with AI chats (from chatgpt to grok to deepseek and kimi/etc). I had to learn. I have in my possession: - 1 Asus ESC4000 G3 with 128 GB DDR4 RDIMM and in it 8x T4s deployment. Thi…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T06:32:43+08:00",
+      "fetchedAt": "2026-10-26T07:39:31+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用8张T4微调Qwen3.5-9B：500GB混合文档数据怎么处理",
+        "takeaway": "一位用户手握8张T4和500GB图片、扫描件、PDF、Word、Excel原始数据，想用QLoRA微调Qwen3.5-9B，求助最佳方案。",
+        "bullets": [
+          "硬件为华硕ESC4000 G3服务器，128GB内存加8张T4显卡",
+          "数据量约500GB，涵盖图片、扫描件、PDF、Word、Excel多种格式",
+          "用户已咨询多个AI聊天工具并花费不少，仍不确定路线",
+          "核心难点在于多格式数据清洗与T4显存下的QLoRA训练配置"
+        ],
+        "detail": "发帖人有一台配128GB内存和8张T4的服务器，想用QLoRA微调Qwen3.5-9B，手头是约500GB的图片、扫描件、PDF、Word和Excel原始数据。他此前向多个AI助手咨询并花了不少钱，仍没找到清晰方案，于是发帖求教从数据预处理到训练配置的最佳路径。",
+        "generatedAt": "2026-10-26T07:39:37+08:00"
+      }
     },
     {
       "id": "688136660c106304",
