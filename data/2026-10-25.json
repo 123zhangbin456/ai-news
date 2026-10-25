@@ -1,7 +1,79 @@
 {
   "date": "2026-10-25",
-  "updatedAt": "2026-10-25T09:49:58+08:00",
+  "updatedAt": "2026-10-25T15:01:07+08:00",
   "items": [
+    {
+      "id": "c9de11c10f4550cf",
+      "title": "四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了",
+      "url": "https://infoq.cn/article/9TSuUDxrUSGS26XTA2yB",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T18:30:00+08:00",
+      "fetchedAt": "2026-10-25T15:00:50+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.4,
+      "score": 56,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Linux基金会报告：AI写代码快52%，但四分之一PR是“AI垃圾”",
+        "takeaway": "AI提升编码效率却加重开源维护负担，四分之一PR被指低质，值得关注人机协作代价。",
+        "bullets": [
+          "Linux基金会报告显示AI辅助编码速度提升52%",
+          "约四分之一PR被指为“AI垃圾”，质量堪忧",
+          "开源维护者工作量不降反增，负担加重"
+        ],
+        "detail": "Linux基金会新报告指出，AI辅助编程让写代码速度提升52%，但开源项目收到的PR中约四分之一是低质量的“AI垃圾”。维护者需要花更多时间审核这些提交，导致整体负担反而加重。",
+        "generatedAt": "2026-10-25T15:01:03+08:00"
+      }
+    },
+    {
+      "id": "91af26678ff2a271",
+      "title": "OpenAI and Anthropic blocked the reverse engineering of smart TVs spying on us",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse",
+      "summary": "REA (Reserve Engineer Anything) was blocked by Claude one day later... https://x.com/AbhinavXJ/status/2113590263373508704 Time for the pebbles to own the weights submitted by /u/kroggens [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T10:51:18+08:00",
+      "fetchedAt": "2026-10-25T15:00:50+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "weights"
+      ],
+      "confidence": 0.33,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 与 Anthropic 阻止对智能电视监控行为的逆向工程",
+        "takeaway": "开发者尝试逆向分析智能电视的监控行为，却遭 Claude 等模型拒绝，引发对 AI 安全边界的讨论。",
+        "bullets": [
+          "有开发者试图逆向工程智能电视，以查明其是否在监控用户。",
+          "Claude 在一天后阻止了相关操作，OpenAI 也有类似限制。",
+          "此事在 LocalLLaMA 社区引发对 AI 模型安全边界的讨论。"
+        ],
+        "detail": "有开发者发起 REA（Reserve Engineer Anything）项目，想逆向分析智能电视是否在监控用户，但 Claude 在一天后阻止了该操作，OpenAI 也有类似限制。社区讨论认为，这反映出 AI 模型在安全策略上对逆向工程类请求的谨慎态度。",
+        "generatedAt": "2026-10-25T15:01:03+08:00"
+      }
+    },
     {
       "id": "dbe76530e9896fc9",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -77,6 +149,43 @@
       }
     },
     {
+      "id": "80719b37e00f4cf6",
+      "title": "Artificial Analysis Index is non-representative of real-world performance. Tested Kimi 3.1 Pro through OpenRouter, the number 4 model in AAI, it's not even close to MiMo 2.6 or DeepSeek 4.1 Flash",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xercio/artificial_analysis_index_is_nonrepresentative_of",
+      "summary": "It seems Artificial Analysis Index is very easy to game, Kimi 3.1 Pro #4 on AAI is super bad in real world use cases, not even close to DeepSeek 4.1 Flash. submitted by /u/PerformanceRound7913 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T11:04:55+08:00",
+      "fetchedAt": "2026-10-25T15:00:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户实测质疑 Artificial Analysis 榜单：Kimi 3.1 Pro 排名第 4 却表现不佳",
+        "takeaway": "有用户实测称 AAI 榜单易被刷分，排名第 4 的 Kimi 3.1 Pro 实际表现远不如 DeepSeek 4.1 Flash。",
+        "bullets": [
+          "用户通过 OpenRouter 实测 Kimi 3.1 Pro，称其真实场景表现很差",
+          "该模型在 Artificial Analysis Index 上排名第 4",
+          "用户认为 AAI 榜单容易被刷分，不能代表实际能力",
+          "对比对象为 MiMo 2.6 和 DeepSeek 4.1 Flash"
+        ],
+        "detail": "一位用户在 LocalLLaMA 发帖称，Artificial Analysis Index 很容易被刷分。他通过 OpenRouter 测试了在该榜单排第 4 的 Kimi 3.1 Pro，发现真实使用场景下表现很差，远不及 DeepSeek 4.1 Flash。",
+        "generatedAt": "2026-10-25T15:01:03+08:00"
+      }
+    },
+    {
       "id": "ec15cc5dfcd034c7",
       "title": "High-Performance llama.cpp fork for Legacy GPUs: Kepler Support, CUDA Graphs & Windows NCCL!",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xeicw2/highperformance_llamacpp_fork_for_legacy_gpus",
@@ -114,6 +223,44 @@
         "generatedAt": "2026-10-25T06:48:21+08:00"
       },
       "pushedAt": "2026-10-25T06:48:24+08:00"
+    },
+    {
+      "id": "2c5ff2b2c68bf261",
+      "title": "model: DSV4.1 flash by am17an · Pull Request #31086 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xeqf7k/model_dsv41_flash_by_am17an_pull_request_31086",
+      "summary": "only 763B params! :) https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf submitted by /u/jacek2023 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T10:16:43+08:00",
+      "fetchedAt": "2026-10-25T15:00:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek-V4.1-Flash 提交 llama.cpp 支持，仅 763B 参数",
+        "takeaway": "DeepSeek 新模型 V4.1-Flash 正被适配进 llama.cpp，参数规模 763B，本地推理有望跟进。",
+        "bullets": [
+          "开发者 am17an 向 llama.cpp 提交 PR #31086，适配 DeepSeek-V4.1-Flash",
+          "模型参数为 763B，作者用“only”调侃其规模",
+          "Hugging Face 已放出模型权重和技术报告",
+          "若合并，llama.cpp 用户可本地运行该模型"
+        ],
+        "detail": "有人在 llama.cpp 仓库提交 PR，为 DeepSeek 新发布的 V4.1-Flash 模型添加支持。该模型参数为 763B，权重和技术报告已上传 Hugging Face。PR 若被合并，llama.cpp 生态将能本地推理这一模型。",
+        "generatedAt": "2026-10-25T15:01:05+08:00"
+      }
     },
     {
       "id": "934580108444c224",
@@ -266,6 +413,79 @@
       "pushedAt": "2026-10-25T06:48:24+08:00"
     },
     {
+      "id": "22abdef1b51c31cd",
+      "title": "Too good to be true? ISTA's GSQ-RCO 2-bit DeepSeek-V4.1-Flash scoring the same as the base model",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xes5x0/too_good_to_be_true_istas_gsqrco_2bit",
+      "summary": "Has anyone tried ISTA's GSQ-RCO GGUFs for DeepSeek-V4.1-Flash? Does the quality feel as good as their benchmarks show (IQ2_XXS matching the base)? Their benchmarks are saturated (90%+, and AIME25 is 100 for every version), so they probably …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T11:48:25+08:00",
+      "fetchedAt": "2026-10-25T15:00:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 0.25,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ISTA 的 2-bit 量化 DeepSeek-V4.1-Flash 跑分追平原模型，引社区质疑",
+        "takeaway": "2-bit 量化模型声称与原模型同分，但基准饱和让结果可信度存疑。",
+        "bullets": [
+          "ISTA 发布 GSQ-RCO 格式的 DeepSeek-V4.1-Flash 2-bit 量化版",
+          "社区称 IQ2_XXS 版本跑分与原模型持平，好得反常",
+          "其基准分数普遍 90%+、AIME25 全版本 100，疑似饱和",
+          "发帖人询问是否有人实测，想验证真实质量"
+        ],
+        "detail": "有用户在 LocalLLaMA 发帖，询问是否有人试过 ISTA 为 DeepSeek-V4.1-Flash 做的 GSQ-RCO 量化 GGUF。该用户质疑其跑分过于漂亮：IQ2_XXS 竟能追平原模型，但测试集分数已饱和（普遍 90% 以上，AIME25 每个版本都是 100），因此怀疑基准本身已失去区分度。",
+        "generatedAt": "2026-10-25T15:01:06+08:00"
+      }
+    },
+    {
+      "id": "c4e0643ea16ac53e",
+      "title": "GPT-X3-150M takes #1 on the Open SLM Leaderboard, dethroning HuggingFace's SmolLM2-135M with a GDN2/GQA hybrid - Check it out!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xerxtr/gptx3150m_takes_1_on_the_open_slm_leaderboard",
+      "summary": "submitted by /u/datdanboi25 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T11:36:15+08:00",
+      "fetchedAt": "2026-10-25T15:00:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GPT-X3-150M 登顶 Open SLM 榜，超越 SmolLM2-135M",
+        "takeaway": "小模型榜单换榜首，150M 参数新模型用混合注意力架构击败 HuggingFace 热门小模型。",
+        "bullets": [
+          "GPT-X3-150M 在 Open SLM Leaderboard 排名第一",
+          "被超越的是 HuggingFace 的 SmolLM2-135M",
+          "新模型采用 GDN2 与 GQA 混合架构"
+        ],
+        "detail": "社区用户发布 GPT-X3-150M，在 Open SLM 小模型排行榜上拿下第一，把 HuggingFace 的 SmolLM2-135M 挤到后面。该模型约 1.5 亿参数，结合 GDN2 与 GQA 两种注意力设计，具体评测细节可查看原帖链接。",
+        "generatedAt": "2026-10-25T15:01:05+08:00"
+      }
+    },
+    {
       "id": "b8ce09e348ccbf5d",
       "title": "Just update of ik_llama.cpp fork and seek of feedback",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xed7a7/just_update_of_ik_llamacpp_fork_and_seek_of",
@@ -377,6 +597,42 @@
       "pushedAt": "2026-10-25T06:48:24+08:00"
     },
     {
+      "id": "a13a316c43888fef",
+      "title": "拉上英伟达硬刚苹果，微软的高端AI PC赌局",
+      "url": "https://tmtpost.com/8180842.html",
+      "summary": "AI PC的竞争，早已不再停留在有没有NPU的浅层比拼。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T09:54:00+08:00",
+      "fetchedAt": "2026-10-25T15:00:50+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "英伟达"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软联手英伟达，高端AI PC正面挑战苹果",
+        "takeaway": "微软借英伟达芯片加码高端AI PC，AI PC竞争从有无NPU转向更高性能较量。",
+        "bullets": [
+          "微软拉上英伟达，推出高端AI PC产品",
+          "目标直指苹果，争夺高端PC市场",
+          "AI PC竞争已超越NPU有无的初级比拼"
+        ],
+        "detail": "微软与英伟达合作，推出高端AI PC，直接对标苹果。报道指出，AI PC的竞争已不再停留在是否配备NPU的浅层比较，而是向更高性能与生态整合迈进。",
+        "generatedAt": "2026-10-25T15:01:07+08:00"
+      }
+    },
+    {
       "id": "d3da2d1e08f2e049",
       "title": "Java 近期新闻：Grails 8、Open Liberty、GlassFish、Infinispan、LangChain4j、Spock",
       "url": "https://infoq.cn/article/BHWP4JJDeExZZWsifFlg",
@@ -409,6 +665,65 @@
         "detail": "近期 Java 生态迎来一波更新：Grails 8 正式发布，基于 Spring Boot 3 和 Groovy 4；Open Liberty、GlassFish 等应用服务器推出新版本；Infinispan、LangChain4j、Spock 等工具也有更新。这些变化涉及 Web 框架、应用服务器和开发工具，Java",
         "generatedAt": "2026-10-25T09:49:58+08:00"
       }
+    },
+    {
+      "id": "3daf9eb99813505d",
+      "title": "Cloudflare 的 OHTTP 网关拒绝解密通过 Cloudflare 传入的请求",
+      "url": "https://infoq.cn/article/4647jBOxmf3Ut0i1aVbx",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T22:00:00+08:00",
+      "fetchedAt": "2026-10-25T15:00:50+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cloudflare 推出 OHTTP 网关，拒绝解密经其传入的请求",
+        "takeaway": "Cloudflare 上线 OHTTP 网关，让流量经过它时也无法被解密，隐私保护再进一步。",
+        "bullets": [
+          "Cloudflare 发布 OHTTP 网关服务",
+          "经 Cloudflare 传入的请求不会被解密",
+          "面向关注隐私的网站与开发者"
+        ],
+        "detail": "Cloudflare 推出 OHTTP 网关，核心特点是即使请求经过 Cloudflare 网络，它也无法解密内容。这延续了 OHTTP 协议隐藏请求来源与内容的思路，对重视隐私的网站和开发者是一项新选择。",
+        "generatedAt": "2026-10-25T15:01:07+08:00"
+      }
+    },
+    {
+      "id": "1f1c819084b9f056",
+      "title": "2027 —— 人形机器人“电影宣发”大撞车之年",
+      "url": "https://tmtpost.com/8180836.html",
+      "summary": "当全球所有头部玩家把证明自己能力的证据押在同一个年份集体发布，先不说谁能真正兑现，这些演示能让我们吃着不烧心吗？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T09:27:51+08:00",
+      "fetchedAt": "2026-10-25T15:00:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 33,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "6597a1303e38b17b",
@@ -479,6 +794,31 @@
       "category": "其他",
       "keywords": [],
       "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9bdbde3ae943c0e5",
+      "title": "单季净赚212亿，两天跌去近15%：AI行情到底在杀什么？",
+      "url": "https://tmtpost.com/8179663.html",
+      "summary": "AI股连跌四周、业绩却集体爆表，股票型ETF同期净流入近700亿：这轮调整杀的是估值不是业绩。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T11:10:00+08:00",
+      "fetchedAt": "2026-10-25T15:00:50+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "估值"
+      ],
+      "confidence": 1,
       "score": 30,
       "related": [],
       "pushed": false
