@@ -1,7 +1,48 @@
 {
   "date": "2026-10-25",
-  "updatedAt": "2026-10-25T15:01:07+08:00",
+  "updatedAt": "2026-10-25T20:39:10+08:00",
   "items": [
+    {
+      "id": "d542228452b61be4",
+      "title": "【数智周报】MiniMax港股破发；DeepSeek开源推理框架DeepInfer并披露收入账本；美国国土安全部正式下令禁采DeepSeek……",
+      "url": "https://tmtpost.com/8181051.html",
+      "summary": "（10月19日-10月24日）DeepSeek拟在最新一轮融资中筹得约1000亿元；Today AI累计完成超2亿美元融资；工信部：600亿元国家AI基金投出一批项目，AI企业超6600家；中国半数token消耗靠AI短剧？豆包高管回应；AI板块近期遭遇明显抛售……",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T17:29:09+08:00",
+      "fetchedAt": "2026-10-25T20:38:55+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "轮融资",
+        "亿美元",
+        "亿元"
+      ],
+      "confidence": 0,
+      "score": 72,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "MiniMax港股破发，DeepSeek开源推理框架并披露收入",
+        "takeaway": "本周AI行业融资与政策动态密集，MiniMax上市首日破发，DeepSeek开源新框架并透露收入，美国限制采购。",
+        "bullets": [
+          "MiniMax港股上市首日破发，市场反应冷淡",
+          "DeepSeek开源推理框架DeepInfer，并披露收入账本",
+          "美国国土安全部正式下令禁止采购DeepSeek",
+          "工信部：600亿元国家AI基金已投出一批项目"
+        ],
+        "detail": "本周AI领域动态频繁：MiniMax在港股上市首日即破发；DeepSeek开源推理框架DeepInfer并公开收入情况；美国国土安全部正式禁止采购DeepSeek。此外，工信部披露600亿元国家AI基金已投资一批项目，国内AI企业超6600家。",
+        "generatedAt": "2026-10-25T20:39:02+08:00"
+      },
+      "pushedAt": "2026-10-25T20:39:10+08:00"
+    },
     {
       "id": "c9de11c10f4550cf",
       "title": "四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了",
@@ -183,6 +224,40 @@
         ],
         "detail": "一位用户在 LocalLLaMA 发帖称，Artificial Analysis Index 很容易被刷分。他通过 OpenRouter 测试了在该榜单排第 4 的 Kimi 3.1 Pro，发现真实使用场景下表现很差，远不及 DeepSeek 4.1 Flash。",
         "generatedAt": "2026-10-25T15:01:03+08:00"
+      }
+    },
+    {
+      "id": "6f9ed043fa8a1513",
+      "title": "Google’s AI search changes upended online publishing",
+      "url": "https://theverge.com/column/1017983/google-ai-search-online-publishing",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The S…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T20:00:00+08:00",
+      "fetchedAt": "2026-10-25T20:38:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌AI搜索改版冲击在线出版业",
+        "takeaway": "谷歌AI搜索功能改变流量分配，在线出版商面临生存挑战。",
+        "bullets": [
+          "谷歌AI搜索直接提供答案，减少用户点击网站。",
+          "在线出版商流量下滑，广告收入受冲击。",
+          "The Verge专栏探讨AI对网络生态的影响。"
+        ],
+        "detail": "The Verge的每周专栏The Stepback聚焦谷歌AI搜索改版对在线出版的影响。新功能直接在搜索结果中生成答案，导致用户不再点击原始链接，出版商流量和收入受损。文章由Emma Roth撰写，探讨AI如何重塑网络内容生态。",
+        "generatedAt": "2026-10-25T20:39:02+08:00"
       }
     },
     {
@@ -486,6 +561,79 @@
       }
     },
     {
+      "id": "32fe6bd85f52d000",
+      "title": "About running deepseek 4.1 flash",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xexi6v/about_running_deepseek_41_flash",
+      "summary": "Lately I tested (via api) deepseek 4.1 flash. I like it quite a lot. What is the minimum budget needed to setup and run deepseek 4.1 flash at the same quality and token/s (~40) of most hosted solutions? I'd use it mostly for coding/reverse …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T17:02:25+08:00",
+      "fetchedAt": "2026-10-25T20:38:55+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 4.1 Flash 本地部署成本引热议",
+        "takeaway": "用户实测 API 版体验良好，想本地部署达到同等质量与速度，社区讨论最低预算。",
+        "bullets": [
+          "用户通过 API 测试 DeepSeek 4.1 Flash，主要用于编程和逆向工程。",
+          "希望本地部署达到托管方案同等质量与约 40 token/s 速度。",
+          "核心问题：最低需要多少预算才能实现。"
+        ],
+        "detail": "有用户在 LocalLLaMA 分享，近期通过 API 测试了 DeepSeek 4.1 Flash，表示很喜欢，主要用于编程和逆向工程。他想知道本地部署达到与多数托管方案相同质量和约 40 token/s 速度的最低预算。",
+        "generatedAt": "2026-10-25T20:39:02+08:00"
+      }
+    },
+    {
+      "id": "ee5387f116a2ebd9",
+      "title": "Two agents, one file, the second silently wins: find it in your git log",
+      "url": "https://forum.cursor.com/t/two-agents-one-file-the-second-silently-wins-find-it-in-your-git-log/176085",
+      "summary": "If you run several agents at once (background agents, a few chats, or Cursor beside Claude Code or Codex) on one repository, the costly failure is rarely a bad edit. It is a good edit that vanishes: agent A fixes a file, agent B, working fr…",
+      "source": {
+        "id": "cursor-guides",
+        "name": "Cursor 论坛指南",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T17:28:39+08:00",
+      "fetchedAt": "2026-10-25T20:38:55+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "两个 AI 代理同改一个文件，后写的悄悄覆盖前一个",
+        "takeaway": "多代理并行改同一仓库时，最贵的失败不是改错，而是好的修改被静默覆盖，需查 git log 排查。",
+        "bullets": [
+          "同时跑多个代理（后台代理、多聊天窗口、Cursor 配 Claude Code 等）易发生覆盖",
+          "代理 A 修好的文件可能被代理 B 的后续写入悄悄抹掉",
+          "这类丢失不会报错，只能从 git 提交历史里发现痕迹",
+          "建议多代理协作时检查 git log，确认修改是否真的保留"
+        ],
+        "detail": "如果你在一个仓库上同时运行多个 AI 代理，比如后台代理、多个聊天窗口，或者 Cursor 搭配 Claude Code、Codex 一起用，真正代价高的故障往往不是改错了代码，而是一次好的修改凭空消失：代理 A 修好了某个文件，代理 B 随后在同一文件上继续工作，把 A 的改动悄悄覆盖掉。这种丢失不会报错，需要到 g",
+        "generatedAt": "2026-10-25T20:39:05+08:00"
+      }
+    },
+    {
       "id": "b8ce09e348ccbf5d",
       "title": "Just update of ik_llama.cpp fork and seek of feedback",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xed7a7/just_update_of_ik_llamacpp_fork_and_seek_of",
@@ -558,6 +706,42 @@
       }
     },
     {
+      "id": "95ac1cdb0d92ea86",
+      "title": "CUDA: fuse FFN gate/up matmuls and GLU in MMQ with interleaved gate/up rows by anujj · Pull Request #29948 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xey0uw/cuda_fuse_ffn_gateup_matmuls_and_glu_in_mmq_with",
+      "summary": "time to download some speedup DGX Spark (GB10), llama-bench -ngl 999 -fa on -p 16384 -n 0 -b 2048 -ub 2048 -ctk f16 -ctv f16 -r 5 , tok/s: model type master PR Qwen3.8-27B Q4_K_M 840.1 899.9 +7.1% Q5_K_M 840.1 880.6 +4.8% Q6_K 751.2 785.8 +…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T17:35:12+08:00",
+      "fetchedAt": "2026-10-25T20:38:55+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 合并 PR：MMQ 中融合 FFN 门控/上投影与 GLU，推理提速最高 7.1%",
+        "takeaway": "llama.cpp 新 PR 通过融合矩阵乘与 GLU 激活，在 DGX Spark 上实测 Qwen3 模型推理速度提升 4.8%～7.1%。",
+        "bullets": [
+          "PR 将 FFN 的 gate/up 矩阵乘与 GLU 融合进 MMQ 内核，减少中间读写。",
+          "在 DGX Spark (GB10) 上测试 Qwen3.8-27B，Q4_K_M 提速 7.1%，Q5_K_M 提速 4.8%。",
+          "该优化针对量化推理场景，对本地部署大模型的用户有直接收益。"
+        ],
+        "detail": "该 PR 在 llama.cpp 的 MMQ 量化矩阵乘内核中，把 FFN 的 gate/up 投影与 GLU 激活融合，并采用交错行布局减少内存访问。在 DGX Spark 上跑 Qwen3.8-27B，Q4_K_M 从 840.1 tok/s 提升到 899.9 tok/s（+7.1%），Q5_K_M 提升 4.8",
+        "generatedAt": "2026-10-25T20:39:05+08:00"
+      }
+    },
+    {
       "id": "8c4054a78a5b760c",
       "title": "CMP170HX inspiration unlocks 30x/40x also, up to 2X Prefill speedup --> NVIDIA RTX 30 & RTX 40 GPUs Get Impressively Fast In AI LLMs As Compute Doubles With New Unlock Tool But Prices Surge Too",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xelhpj/cmp170hx_inspiration_unlocks_30x40x_also_up_to_2x",
@@ -597,6 +781,40 @@
       "pushedAt": "2026-10-25T06:48:24+08:00"
     },
     {
+      "id": "bad21402f8f5366b",
+      "title": "连夜蹬了K3.1 pro之后，我觉得Kimi可能真的要做具身智能了",
+      "url": "https://tmtpost.com/8180725.html",
+      "summary": "终于不用等那么久了。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T18:50:45+08:00",
+      "fetchedAt": "2026-10-25T20:38:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Kimi K3.1 Pro 体验：或进军具身智能",
+        "takeaway": "作者体验Kimi新模型K3.1 Pro后，推测Kimi可能布局具身智能，值得关注其动向。",
+        "bullets": [
+          "钛媒体作者连夜体验Kimi K3.1 Pro模型",
+          "作者认为Kimi可能真的要做具身智能",
+          "摘要称终于不用等那么久，暗示等待已久"
+        ],
+        "detail": "钛媒体作者在连夜体验Kimi K3.1 Pro后，觉得Kimi可能真的要做具身智能了。摘要提到“终于不用等那么久了”，暗示此前已有期待。",
+        "generatedAt": "2026-10-25T20:39:04+08:00"
+      }
+    },
+    {
       "id": "a13a316c43888fef",
       "title": "拉上英伟达硬刚苹果，微软的高端AI PC赌局",
       "url": "https://tmtpost.com/8180842.html",
@@ -630,6 +848,42 @@
         ],
         "detail": "微软与英伟达合作，推出高端AI PC，直接对标苹果。报道指出，AI PC的竞争已不再停留在是否配备NPU的浅层比较，而是向更高性能与生态整合迈进。",
         "generatedAt": "2026-10-25T15:01:07+08:00"
+      }
+    },
+    {
+      "id": "0a50a0ec1bc0de02",
+      "title": "Nanbeige/Nanbeige4.3-33B · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xf0kz4/nanbeigenanbeige4333b_hugging_face",
+      "summary": "Stronger than Qwen3.8-27B across a range of benchmarks. but also lays the necessary foundation to power our upcoming small model distillation pipeline (e.g., for Nanbeige4.3-3B). It'll distilled into their 3B small models, maybe other sizes…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T20:01:34+08:00",
+      "fetchedAt": "2026-10-25T20:38:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "benchmarks"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "南壁发布33B新模型，性能超Qwen3.8-27B",
+        "takeaway": "南壁4.3-33B在多项基准上超越Qwen3.8-27B，并将用于蒸馏小模型。",
+        "bullets": [
+          "南壁4.3-33B在多项基准测试中强于Qwen3.8-27B",
+          "该模型为即将推出的南壁4.3-3B蒸馏管线奠定基础",
+          "蒸馏可能覆盖3B及其他尺寸的小模型"
+        ],
+        "detail": "南壁在Hugging Face发布4.3-33B模型，多项基准表现超过Qwen3.8-27B。该模型将作为教师模型，用于蒸馏南壁4.3-3B等小模型，可能还涉及其他尺寸。",
+        "generatedAt": "2026-10-25T20:39:07+08:00"
       }
     },
     {
@@ -698,6 +952,43 @@
         ],
         "detail": "Cloudflare 推出 OHTTP 网关，核心特点是即使请求经过 Cloudflare 网络，它也无法解密内容。这延续了 OHTTP 协议隐藏请求来源与内容的思路，对重视隐私的网站和开发者是一项新选择。",
         "generatedAt": "2026-10-25T15:01:07+08:00"
+      }
+    },
+    {
+      "id": "b887e331858f6b4b",
+      "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+      "url": "https://wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else",
+      "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T18:00:00+08:00",
+      "fetchedAt": "2026-10-25T20:38:55+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center",
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "美国反数据中心运动可借鉴海外经验",
+        "takeaway": "《Hyperscale》作者指出，美国数据中心扩张争议可参考爱尔兰、新西兰等国的监管与社区应对经验。",
+        "bullets": [
+          "作者Paris Marx长期追踪全球数据中心发展",
+          "美国反数据中心运动兴起，可借鉴海外案例",
+          "爱尔兰、新西兰等国的经验或影响美国政策"
+        ],
+        "detail": "《Hyperscale》作者Paris Marx多年来持续关注全球数据中心建设。他指出，从爱尔兰到新西兰，各地在数据中心发展上积累了经验教训，美国当前的反数据中心运动可以从这些海外案例中学到很多。",
+        "generatedAt": "2026-10-25T20:39:07+08:00"
       }
     },
     {
@@ -824,6 +1115,29 @@
       "pushed": false
     },
     {
+      "id": "2a93e17e3df492f2",
+      "title": "AI大模型狂飙，面板行业也扛不住了",
+      "url": "https://tmtpost.com/8180986.html",
+      "summary": "面板厂商集体涨价，但真正的难题在下游。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T18:37:48+08:00",
+      "fetchedAt": "2026-10-25T20:38:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "81c8fd74d5e2c7e1",
       "title": "Why is AI generated language so hard to understand?",
       "url": "https://arxiv.org/abs/2610.29162",
@@ -848,6 +1162,31 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-10-25T06:48:24+08:00"
+    },
+    {
+      "id": "c35e0b6aa8bd30fa",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 214 # Comments: 67",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-25T09:33:49+08:00",
+      "fetchedAt": "2026-10-25T20:38:55+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "deploy"
+      ],
+      "confidence": 1,
+      "score": 26,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
