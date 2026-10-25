@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updatedAt": "2026-10-26T24:55:44+08:00",
+  "updatedAt": "2026-10-26T03:24:49+08:00",
   "items": [
     {
       "id": "4c4c1d6a57705b0b",
@@ -40,6 +40,42 @@
       }
     },
     {
+      "id": "eba7a349042ed589",
+      "title": "Turning repeated code review comments into Cursor rules: a small experiment",
+      "url": "https://forum.cursor.com/t/turning-repeated-code-review-comments-into-cursor-rules-a-small-experiment/176123",
+      "summary": "A few weeks ago I ran a small experiment: can repeated human code review comments become project rules an agent actually follows? Setup: I scanned 15 merged PRs and 45 human review comments in an open-source Python project (Ruff) and extrac…",
+      "source": {
+        "id": "cursor-guides",
+        "name": "Cursor 论坛指南",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T02:19:28+08:00",
+      "fetchedAt": "2026-10-26T03:24:42+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "把重复代码评审意见变成 Cursor 规则的小实验",
+        "takeaway": "有人尝试将人工评审中反复出现的意见提炼为 Cursor 规则，让 AI 代理真正遵守。",
+        "bullets": [
+          "实验扫描了开源 Python 项目 Ruff 的 15 个已合并 PR 和 45 条人工评审意见",
+          "目标是从中提取重复出现的评审模式，转化为项目规则",
+          "核心问题是 AI 代理能否实际遵循这些从人类反馈中提炼的规则"
+        ],
+        "detail": "几周前有人做了一项小实验：能否把人类在代码评审中反复提出的意见，变成 AI 代理会遵守的项目规则？实验扫描了开源 Python 项目 Ruff 的 15 个已合并 PR 和 45 条人工评审意见，并从中提取规则。",
+        "generatedAt": "2026-10-26T03:24:49+08:00"
+      }
+    },
+    {
       "id": "688136660c106304",
       "title": "Block’s new voice model sounds eerily human",
       "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
@@ -74,6 +110,76 @@
       }
     },
     {
+      "id": "b23877b88e691b4d",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T24:57:32+08:00",
+      "fetchedAt": "2026-10-26T03:24:42+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阿波罗经济学家：AI 对多数企业财务回报为零",
+        "takeaway": "巨额投资与炒作之下，除科技业外，美国企业尚未从 AI 获得实际财务回报。",
+        "bullets": [
+          "阿波罗经济学家指出，AI 对美国科技以外企业财务回报为零",
+          "尽管企业投入巨大且市场热度极高，实际收益并未兑现",
+          "观点引发对 AI 投资回报周期与落地效果的质疑"
+        ],
+        "detail": "阿波罗经济学家表示，尽管人工智能领域投资巨大且炒作广泛，但除科技行业外，美国企业从这项技术中获得的财务回报为零。这一观点凸显了 AI 投资与实际收益之间的落差。",
+        "generatedAt": "2026-10-26T03:24:49+08:00"
+      }
+    },
+    {
+      "id": "1dc75a32fc6a65d3",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "summary": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 162 # Comments: 88",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T01:15:38+08:00",
+      "fetchedAt": "2026-10-26T03:24:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "10年前的老CNN模型在皮肤癌诊断上胜过前沿大模型",
+        "takeaway": "一项对比显示，2015年的专用CNN在皮肤癌诊断上优于当前前沿LLM，引发对通用模型医疗应用边界的讨论。",
+        "bullets": [
+          "10年前的CNN在皮肤癌诊断任务中表现优于前沿LLM",
+          "对比结果来自Hacker News讨论，引发对专用模型价值的关注",
+          "提示通用大模型在特定医疗影像任务上未必占优"
+        ],
+        "detail": "有研究对比发现，一个十年前的老式卷积神经网络在皮肤癌诊断上，表现超过了当前的前沿大语言模型。这提醒人们，在特定医疗影像任务中，专用小模型可能比通用大模型更可靠。",
+        "generatedAt": "2026-10-26T03:24:49+08:00"
+      }
+    },
+    {
       "id": "6070f6a03dda9350",
       "title": "4x v620 in a LLM generated and 3d printed chassis",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xf7b46/4x_v620_in_a_llm_generated_and_3d_printed_chassis",
@@ -92,6 +198,31 @@
       "category": "其他",
       "keywords": [],
       "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3ea0e37ae6ac8531",
+      "title": "Have InclusionAI said anything about Ling 3.1 Flash 1019 update weights being released?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xfa4pt/have_inclusionai_said_anything_about_ling_31",
+      "summary": "I can't seem to find anything on their huggingface or after a quick search on my phone. Have they said anything about releasing the weights for the updated model? submitted by /u/spaceman_ [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T02:39:13+08:00",
+      "fetchedAt": "2026-10-26T03:24:42+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "weights"
+      ],
+      "confidence": 0.33,
       "score": 30,
       "related": [],
       "pushed": false
