@@ -1,7 +1,44 @@
 {
   "date": "2026-10-26",
-  "updatedAt": "2026-10-25T24:05:57+08:00",
+  "updatedAt": "2026-10-26T24:55:44+08:00",
   "items": [
+    {
+      "id": "4c4c1d6a57705b0b",
+      "title": "qwen: merge tensors on convert by am17an · Pull Request #31028 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xf716t/qwen_merge_tensors_on_convert_by_am17an_pull",
+      "summary": "...time to reconvert GGUFs? submitted by /u/jacek2023 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T24:37:07+08:00",
+      "fetchedAt": "2026-10-26T24:55:36+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 合并 Qwen 转换张量，GGUF 需重新转换",
+        "takeaway": "llama.cpp 合并了 Qwen 模型转换时的张量处理改动，用户可能需要重新转换 GGUF 文件。",
+        "bullets": [
+          "llama.cpp 合并 PR #31028，调整 Qwen 模型转换时的张量合并逻辑",
+          "改动由 am17an 提交，影响 Qwen 转 GGUF 的流程",
+          "社区讨论是否需重新转换已有 GGUF 文件"
+        ],
+        "detail": "llama.cpp 合并了 am17an 的 PR #31028，改动 Qwen 模型转换时的张量合并方式。社区用户因此讨论：已有 GGUF 文件是否需要重新转换。",
+        "generatedAt": "2026-10-26T24:55:43+08:00"
+      }
+    },
     {
       "id": "688136660c106304",
       "title": "Block’s new voice model sounds eerily human",
@@ -35,6 +72,29 @@
         "detail": "Block 公司发布了一款新的语音模型，其生成的声音听起来非常像真人。该公司表示，这个模型可以直接在搭载 M4 Max 芯片的 MacBook 上本地运行，而不需要依赖云端服务器。",
         "generatedAt": "2026-10-25T24:05:55+08:00"
       }
+    },
+    {
+      "id": "6070f6a03dda9350",
+      "title": "4x v620 in a LLM generated and 3d printed chassis",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xf7b46/4x_v620_in_a_llm_generated_and_3d_printed_chassis",
+      "summary": "submitted by /u/PraxisOG [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T24:47:52+08:00",
+      "fetchedAt": "2026-10-26T24:55:36+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
