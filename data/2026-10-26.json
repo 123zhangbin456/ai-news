@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updatedAt": "2026-10-26T08:30:43+08:00",
+  "updatedAt": "2026-10-26T08:59:40+08:00",
   "items": [
     {
       "id": "bf7f18e0418c7776",
@@ -38,6 +38,40 @@
         "generatedAt": "2026-10-26T06:57:22+08:00"
       },
       "pushedAt": "2026-10-26T06:57:31+08:00"
+    },
+    {
+      "id": "c45c68dc9fe27319",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms",
+      "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 118 # Comments: 138",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T05:11:31+08:00",
+      "fetchedAt": "2026-10-26T08:59:34+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 与 Anthropic 数月内大降价，LLM 价格最高降八成",
+        "takeaway": "两大头部模型厂商在几个月内大幅降价，说明大模型推理成本正快速下降、竞争加剧。",
+        "bullets": [
+          "OpenAI 和 Anthropic 在数月内将 LLM 价格最多下调 80%",
+          "降价涉及两家头部闭源模型厂商，影响开发者调用成本",
+          "Hacker News 讨论热烈，关注降价背后的成本与竞争原因"
+        ],
+        "detail": "文章讨论 OpenAI 和 Anthropic 为何在短短几个月内把大模型价格最多砍掉八成。HN 上 138 条评论围绕推理成本下降、厂商抢份额和价格战展开，但摘要未给出具体原因。",
+        "generatedAt": "2026-10-26T08:59:40+08:00"
+      }
     },
     {
       "id": "4c4c1d6a57705b0b",
@@ -330,6 +364,42 @@
         "generatedAt": "2026-10-26T06:57:22+08:00"
       },
       "pushedAt": "2026-10-26T06:57:31+08:00"
+    },
+    {
+      "id": "635e03d2fe0276fd",
+      "title": "PSA: llama.cpp CVE-2026-116096",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xfizft/psa_llamacpp_cve2026116096",
+      "summary": "https://nvd.nist.gov/vuln/detail/cve-2026-116096 25-10-2026 Description A weakness has been identified in ggml-org llama.cpp. Affected by this issue is the function list_pockettts_state_slots of the file tools/mtmd/models/pockettts-gen.cpp …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T08:53:40+08:00",
+      "fetchedAt": "2026-10-26T08:59:34+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 曝出 CVE-2026-116096 漏洞",
+        "takeaway": "本地推理常用项目 llama.cpp 被披露安全漏洞，影响特定 TTS 功能，用户需关注修复版本。",
+        "bullets": [
+          "漏洞编号 CVE-2026-116096，涉及 llama.cpp 的 ggml-org 仓库",
+          "问题出在 pockettts-gen.cpp 的 list_pockettts_state_slots 函数",
+          "影响使用该 TTS 功能的本地部署用户，建议升级修复"
+        ],
+        "detail": "根据 NVD 披露，llama.cpp 的 tools/mtmd/models/pockettts-gen.cpp 文件中，list_pockettts_state_slots 函数存在一处弱点。该漏洞与 PocketTTS 相关功能有关，使用受影响版本的用户应关注官方修复进展并及时更新。",
+        "generatedAt": "2026-10-26T08:59:40+08:00"
+      }
     },
     {
       "id": "bfd11a35be91fae2",
