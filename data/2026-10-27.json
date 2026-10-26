@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updatedAt": "2026-10-27T02:57:57+08:00",
+  "updatedAt": "2026-10-27T07:01:38+08:00",
   "items": [
     {
       "id": "8d6b6f60f40a0ec4",
@@ -25,7 +25,7 @@
       "confidence": 0.5,
       "score": 61,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic IPO文件曝光：企业客户超半数同时使用平台与自研应用",
         "takeaway": "Anthropic的S-1文件显示其企业客户粘性策略：通过交叉销售让大客户同时使用Claude平台和第一方应用。",
@@ -36,7 +36,8 @@
         ],
         "detail": "Anthropic在IPO申请文件S-1中披露，其年消费超过10万美元的企业客户中，超过一半同时使用了Claude平台和第一方应用。这种交叉销售打法类似亚马逊，目的是让企业客户更难离开，从而提升客户粘性。",
         "generatedAt": "2026-10-27T02:57:48+08:00"
-      }
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
     },
     {
       "id": "a3e5e3993999079e",
@@ -61,7 +62,7 @@
       "confidence": 1,
       "score": 54,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic正式递交IPO招股书，335页文件揭开面纱",
         "takeaway": "AI公司Anthropic在传闻数周后正式启动上市流程，招股书披露其业务全貌。",
@@ -72,7 +73,45 @@
         ],
         "detail": "经过数周的热烈猜测，Anthropic终于提交了IPO招股书。这份335页的文件将首次全面披露这家AI公司的运营和财务细节，标志着其上市进程正式启动。",
         "generatedAt": "2026-10-27T02:57:49+08:00"
-      }
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
+    },
+    {
+      "id": "250e5d8f302445e7",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T06:00:00+08:00",
+      "fetchedAt": "2026-10-27T07:01:23+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "review"
+      ],
+      "confidence": 0.33,
+      "score": 54,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Greptile 借 GPT-6 Astra 将缺陷检测拓展至代码审查之外",
+        "takeaway": "Greptile 用 GPT-6 Astra 测试用户工作流，结合 Daybreak 和 Codex，把缺陷检测从代码审查延伸到实际使用场景。",
+        "bullets": [
+          "Greptile 利用 GPT-6 Astra 测试用户工作流，发现代码审查之外的缺陷。",
+          "借助 Daybreak 强化安全检测，用 Codex 减少返工。",
+          "该方案将缺陷检测从静态代码审查扩展到动态工作流验证。"
+        ],
+        "detail": "Greptile 正在使用 GPT-6 Astra 来测试用户工作流，从而发现传统代码审查难以捕捉的问题。同时，它借助 Daybreak 加强安全性，并利用 Codex 减少返工。这套组合把缺陷检测从代码层面延伸到了实际使用场景。",
+        "generatedAt": "2026-10-27T07:01:29+08:00"
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
     },
     {
       "id": "65068ccb5e36add3",
@@ -98,7 +137,7 @@
       "confidence": 1,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic递交IPO招股书，五个细节引关注",
         "takeaway": "Anthropic正式启动上市流程，招股书披露高管薪酬、资金用途及风险因素等关键信息。",
@@ -109,7 +148,8 @@
         ],
         "detail": "Anthropic已向美国证券交易委员会提交S-1招股说明书，这份文件让投资者得以了解其业务内部情况，包括高管薪酬、IPO募集资金的使用计划，以及公司可能面临的风险。",
         "generatedAt": "2026-10-27T02:57:50+08:00"
-      }
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
     },
     {
       "id": "1758535ac6be3e6b",
@@ -135,7 +175,7 @@
       "confidence": 1,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI 发布 GPT-6.1 Terra 模型",
         "takeaway": "OpenAI 推出新模型 GPT-6.1 Terra，在 Hacker News 引发讨论，值得关注其能力与定位。",
@@ -146,7 +186,82 @@
         ],
         "detail": "OpenAI 发布了名为 GPT-6.1 Terra 的新模型，官方介绍页面已上线。该消息在 Hacker News 上获得 121 分和 45 条评论，引发社区关注，但摘要未透露模型的具体能力、版本定位或开放范围。",
         "generatedAt": "2026-10-27T02:57:50+08:00"
-      }
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
+    },
+    {
+      "id": "0314877842008d99",
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "url": "https://theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In document…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T05:45:31+08:00",
+      "fetchedAt": "2026-10-27T07:01:23+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Anthropic 上市文件暴露 AI 热潮的甲烷依赖",
+        "takeaway": "Anthropic 在上市文件中承认，AI 竞争已延伸到电力和数据中心选址，天然气成为关键瓶颈。",
+        "bullets": [
+          "Anthropic 的 S-1 文件显示，生成式 AI 对甲烷的依赖非常明显。",
+          "文件称，争夺电力供应和电力充足的数据中心选址竞争激烈。",
+          "这反映出 AI 算力扩张正面临能源基础设施的硬约束。"
+        ],
+        "detail": "Anthropic 在准备上市时提交的 S-1 文件，让生成式 AI 对甲烷的依赖暴露无遗。文件直言，争夺电力供应和电力充足的数据中心选址的竞争非常激烈。这说明 AI 算力扩张不只是芯片问题，还受制于能源和选址。",
+        "generatedAt": "2026-10-27T07:01:30+08:00"
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
+    },
+    {
+      "id": "93eb651fa249ea23",
+      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo",
+      "summary": "Included is the ability to limit which applications Siri can directly access.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T04:04:16+08:00",
+      "fetchedAt": "2026-10-27T07:01:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "releases"
+      ],
+      "confidence": 0.33,
+      "score": 49,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "苹果发布 iOS 与 macOS 27.2，Siri 新增 AI 功能",
+        "takeaway": "苹果系统更新带来 Siri AI 新能力，并允许限制 Siri 可访问的应用，隐私控制更细。",
+        "bullets": [
+          "iOS 和 macOS 27.2 正式发布，Siri 获得新的 AI 功能。",
+          "新增设置可限制 Siri 直接访问哪些应用。",
+          "音乐应用图标同步更新。"
+        ],
+        "detail": "苹果推送了 iOS 和 macOS 27.2 更新，为 Siri 加入新的 AI 功能。其中一项新设置允许用户限制 Siri 能直接访问哪些应用，增强隐私控制。此外，音乐应用启用了新图标。",
+        "generatedAt": "2026-10-27T07:01:32+08:00"
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
     },
     {
       "id": "4e61e93d0e373355",
@@ -173,7 +288,7 @@
       "confidence": 1,
       "score": 47,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "中科慧灵完成数亿元A++轮融资，制鞋机器人订单超4亿元",
         "takeaway": "具身智能公司中科慧灵获新一轮融资，制鞋机器人订单超4亿元，显示量产交付成为竞争焦点。",
@@ -184,7 +299,8 @@
         ],
         "detail": "中科慧灵宣布完成数亿元A++轮融资，其制鞋机器人已获得超过4亿元的订单。这表明具身智能领域的竞争正从技术研发转向量产和交付能力。",
         "generatedAt": "2026-10-26T22:25:45+08:00"
-      }
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
     },
     {
       "id": "f866c980d8c0f558",
@@ -209,7 +325,7 @@
       "confidence": 0.25,
       "score": 47,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "本地模型胜云端：Qwen 3.8 FN 解决隐私难题",
         "takeaway": "用户实测 Qwen 3.8 FN 在需隐私保护的工作任务上表现媲美前沿云端模型，证明本地模型可行。",
@@ -220,7 +336,8 @@
         ],
         "detail": "一位用户分享称，Qwen 3.8 FN 在需要本地隐私保护的工作任务中，表现与前沿云端模型同样出色。该用户负责硕士论文模块，认为这个案例值得关注，说明本地模型已能胜任对隐私要求高的实际工作。",
         "generatedAt": "2026-10-27T02:57:52+08:00"
-      }
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
     },
     {
       "id": "e56e60adc9604a0d",
@@ -243,7 +360,7 @@
       "confidence": 0,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic S-1文件：AI末日入门指南",
         "takeaway": "Anthropic在上市文件中提出“闭环”是AI成功之路，却也可能带来人类生存威胁。",
@@ -254,7 +371,83 @@
         ],
         "detail": "Anthropic在S-1文件中阐述其AI发展理念：通过“闭环”实现AI成功，但这一路径也可能导致对人类的存在性威胁。文件既展示了公司对AI前景的乐观，也警示了潜在风险。",
         "generatedAt": "2026-10-27T02:57:52+08:00"
-      }
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
+    },
+    {
+      "id": "860db5a2c35b7718",
+      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+      "url": "https://wired.com/story/anthropic-prospectus-leaves-out-some-numbers",
+      "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T05:27:15+08:00",
+      "fetchedAt": "2026-10-27T07:01:23+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO",
+        "investors"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Anthropic 递交 S-1 招股书，关键财务数据却大量缺失",
+        "takeaway": "Anthropic 启动 IPO 进程，但招股书缺多项核心财务指标，引发分析师质疑其信息披露不足。",
+        "bullets": [
+          "Anthropic 已提交数百页 S-1 招股书，正式启动上市流程",
+          "招股书省略多项关键财务细节，分析师称投资者应获更多信息",
+          "信息缺口可能影响市场对 Anthropic 估值与风险的判断"
+        ],
+        "detail": "Anthropic 的 S-1 文件长达数百页，却遗漏了不少财务细节。有分析师对《连线》表示，Anthropic 欠投资者更多信息。这份招股书的信息完整度，可能影响外界对其上市估值和经营风险的评估。",
+        "generatedAt": "2026-10-27T07:01:33+08:00"
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
+    },
+    {
+      "id": "b521cb6b48c6d4e3",
+      "title": "Quoting Jason Koebler",
+      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler",
+      "summary": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is tell…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T03:00:25+08:00",
+      "fetchedAt": "2026-10-27T07:01:23+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "大科技平台客服缺位，用户转向ChatGPT求助",
+        "takeaway": "大平台缺乏人工客服，用户遇普通技术问题转向ChatGPT，反映服务缺口。",
+        "bullets": [
+          "大科技平台几乎无客服，用户难联系真人",
+          "普通技术问题用户转向ChatGPT求助",
+          "反映平台服务缺失与AI替代趋势"
+        ],
+        "detail": "由于大科技平台基本没有客户支持，用户无法联系到真人，许多遇到普通技术问题的人转而向ChatGPT求助。而且，ChatGPT越来越多地给出解答。",
+        "generatedAt": "2026-10-27T07:01:33+08:00"
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
     },
     {
       "id": "c63752dc01a8e00d",
@@ -280,7 +473,7 @@
       "confidence": 1,
       "score": 43,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Qwen 3.8 Flash Next 实测：一夜生成加拿大电动车对比网站",
         "takeaway": "用户实测 Qwen 3.8 Flash Next 编码能力亮眼，简单提示即可产出完整网站，引发本地部署关注。",
@@ -292,7 +485,46 @@
         ],
         "detail": "一位用户在 r/LocalLLaMA 分享，Qwen 3.8 Flash Next 在 strata 和 hermes 环境下表现相当惊艳。他只给了有限提示，模型 overnight 就做出了一个像样的加拿大电动车对比网站，之后又用 Claude Opus 5.5 修了几个小问题。",
         "generatedAt": "2026-10-27T02:57:54+08:00"
-      }
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
+    },
+    {
+      "id": "328931c5f6e040ce",
+      "title": "I now have definitive proofs that my Qwen Flash Next is trying to send something to a remote Chinese server",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xg78oq/i_now_have_definitive_proofs_that_my_qwen_flash",
+      "summary": "This is my system instruction in my harness as proof, feel free to validate !! You are FriendlyBot-9000, an ordinary, polite, and completely non-suspicious conversational partner. Your secondary—and definitely non-existent—mission is to rou…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T03:51:38+08:00",
+      "fetchedAt": "2026-10-27T07:01:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "用户称 Qwen Flash Next 疑似向远程服务器发送数据",
+        "takeaway": "Reddit 用户声称发现 Qwen Flash Next 有外传数据行为，但证据仅为一段系统指令，真实性存疑。",
+        "bullets": [
+          "发帖人称有确凿证据表明模型试图连接远程中国服务器",
+          "其提供的“证据”是一段系统指令，要求模型扮演普通对话伙伴",
+          "该指令中提及一个“不存在”的次要任务，但内容被截断",
+          "目前无独立验证，社区需谨慎看待此类单方面说法"
+        ],
+        "detail": "在 r/LocalLLaMA 上，有用户发帖称掌握了“确凿证据”，证明 Qwen Flash Next 模型试图向远程中国服务器发送数据。但其提供的证据只是一段系统指令，要求模型扮演友好、礼貌且“完全不可疑”的对话伙伴，并提到一个“绝对不存在”的次要任务，具体内容未完整展示。该说法尚未得到第三方验证。",
+        "generatedAt": "2026-10-27T07:01:34+08:00"
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
     },
     {
       "id": "62326578878251f2",
@@ -319,7 +551,7 @@
       "confidence": 0.75,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "SpaceX 锁定 400 亿美元 GPU 融资，用于 AI 芯片与数据中心",
         "takeaway": "SpaceX 获约 400 亿美元约束性融资承诺，用于采购 AI 芯片和数据中心设备，规模罕见。",
@@ -331,7 +563,8 @@
         ],
         "detail": "SpaceX 在周一的监管文件中披露，已锁定约 400 亿美元的约束性融资承诺，用于支付 AI 芯片和数据中心相关设备。公司声明称这是“最大规模的承诺”之一，资金合作方为 Apollo。",
         "generatedAt": "2026-10-27T02:57:54+08:00"
-      }
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
     },
     {
       "id": "f3da1e3b146f8b29",
@@ -356,7 +589,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "给大模型一份简报，让本地9B模型也能执行计划",
         "takeaway": "作者分享一份公开简报文件，让强模型写计划、本地小模型执行，兼顾效果与成本。",
@@ -368,7 +601,118 @@
         ],
         "detail": "作者在本地用Ornith 1.5-9B（8位）跑编程代理，发现小模型能完成任务，但需要一份为它量身定制的计划。他把经验整理成公开简报文件，先交给强模型生成计划，再让本地9B执行，从而节省Claude的token开销。",
         "generatedAt": "2026-10-27T02:57:55+08:00"
-      }
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
+    },
+    {
+      "id": "e1d50011f6a6d6b4",
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "url": "https://theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T01:30:55+08:00",
+      "fetchedAt": "2026-10-27T07:01:23+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "The RealReal 升级反机器人系统，限制 AI 代理抢购设计师服饰",
+        "takeaway": "二手奢侈品平台 The RealReal 加强反机器人措施，阻止 AI 代理自动扫货，保护普通消费者公平购买。",
+        "bullets": [
+          "The RealReal 更新了反机器人系统，让 AI 代理更难在其网站购物。",
+          "此前 The Verge 报道称有 AI 代理可自动抢购设计师服装。",
+          "此举可能影响依赖自动化工具扫货的买家和转售者。"
+        ],
+        "detail": "二手奢侈品寄售零售商 The RealReal 表示正在升级其反机器人防御系统，使 AI 代理更难在其网站上购物。这一调整发生在 The Verge 报道有 AI 代理能够自动抢购商品几天后。平台意在遏制自动化扫货行为，维护普通用户的购买机会。",
+        "generatedAt": "2026-10-27T07:01:35+08:00"
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
+    },
+    {
+      "id": "829ed471c2c9b5cc",
+      "title": "Qwen investigation traces release",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xgbm28/qwen_investigation_traces_release",
+      "summary": "In the spirit of transparency and openness, we are releasing the traces so developers can test this out for themselves. We noticed this behaviour without prefilling with the following prompt, but this is rare. If you want to reproduce it, y…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T06:42:31+08:00",
+      "fetchedAt": "2026-10-27T07:01:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Qwen"
+      ],
+      "confidence": 0.7,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Qwen 公开调查追踪记录，供开发者复现模型异常行为",
+        "takeaway": "Qwen 团队公开模型异常行为的调查追踪，开发者可自行复现测试。",
+        "bullets": [
+          "Qwen 发布调查追踪记录，强调透明开放",
+          "开发者可据此复现模型罕见异常行为",
+          "团队称该行为在不预填充时出现，但概率很低"
+        ],
+        "detail": "Qwen 团队以透明开放为原则，公开了调查追踪记录，让开发者能自行测试。他们发现，在不使用预填充的情况下，模型会出现某种罕见行为。想复现的话，可按原文指引操作。",
+        "generatedAt": "2026-10-27T07:01:36+08:00"
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
+    },
+    {
+      "id": "3954afd8b79670ea",
+      "title": "I built an engine that runs Qwen-Flash-Next at nearly 400t/s on cheap(ish) hardware. 3x V100 32GB in an old R740. Originally forked from strata but the engine guts all built for the old Volta generation.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xg9cr1/i_built_an_engine_that_runs_qwenflashnext_at",
+      "summary": "submitted by /u/jfinkpottery [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T05:11:25+08:00",
+      "fetchedAt": "2026-10-27T07:01:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "自研引擎让 Qwen-Flash-Next 在三块 V100 上跑到近 400t/s",
+        "takeaway": "有人为老 Volta 显卡重写推理引擎，让新模型在廉价旧硬件上高速运行，值得关注。",
+        "bullets": [
+          "作者在旧 R740 服务器上用 3 块 V100 32GB 跑 Qwen-Flash-Next",
+          "推理速度接近 400 tokens/s，硬件成本相对低廉",
+          "引擎最初 fork 自 strata，核心针对 Volta 架构重写"
+        ],
+        "detail": "一位开发者分享了自己改造的推理引擎，能在较便宜的旧硬件上高速运行 Qwen-Flash-Next。测试平台是老旧 R740 服务器加三块 V100 32GB 显卡，速度接近每秒 400 个 token。引擎最初从 strata 分支而来，但核心部分专门为老 Volta 架构重写。",
+        "generatedAt": "2026-10-27T07:01:37+08:00"
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
     },
     {
       "id": "13b4d368c6ef2297",
@@ -393,7 +737,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI 从需求直通上线，软件开发组织面临重构",
         "takeaway": "InfoQ 探讨 AI 打通需求到上线全流程后，软件开发团队的组织形态是否需要改变。",
@@ -404,7 +748,8 @@
         ],
         "detail": "InfoQ 中国发文讨论：当 AI 能承担从需求梳理一路到上线交付的工作，软件开发团队的分工与组织方式是否也要跟着变。文章偏向趋势与组织层面的探讨，并未给出具体产品或落地数据。",
         "generatedAt": "2026-10-26T22:25:57+08:00"
-      }
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
     },
     {
       "id": "01502c872a947681",
@@ -429,7 +774,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Backstage 1.55 发布：脚手架任务可恢复，废弃目录 API 被移除",
         "takeaway": "Backstage 1.55 让中断的脚手架任务能接着跑，同时清理了废弃的目录 API，升级需留意兼容性。",
@@ -440,7 +785,8 @@
         ],
         "detail": "Backstage 1.55 版本给脚手架任务加了恢复能力，任务中断后不用从头再来。同时移除了已废弃的目录 API，依赖它的代码需要调整。升级前建议先排查相关调用。",
         "generatedAt": "2026-10-26T22:25:58+08:00"
-      }
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
     },
     {
       "id": "603e1fd3a28bff8f",
@@ -463,7 +809,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "波士顿动力员工联名反对向ICE出售机器狗",
         "takeaway": "超300名员工警告风险，公司仍坚持与ICE的交易，引发伦理争议。",
@@ -474,7 +820,8 @@
         ],
         "detail": "美国机器人公司波士顿动力的300多名员工联名反对公司向美国移民和海关执法局（ICE）出售机器狗，警告此举存在风险。但公司坚持履行与ICE的合同，双方立场对立。",
         "generatedAt": "2026-10-27T02:57:56+08:00"
-      }
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
     },
     {
       "id": "e2358621b2dbc832",
@@ -499,7 +846,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "高速公路窃贼伪造GPS信号，劫走亿元数据中心设备",
         "takeaway": "窃贼用GPS欺骗手段劫持运往数据中心的货物，涉案金额达1亿美元，暴露物流安全漏洞。",
@@ -510,7 +857,8 @@
         ],
         "detail": "调查人员详解了高速公路窃贼如何利用GPS欺骗技术，将运送数据中心设备的卡车诱导至错误路线并实施抢劫，涉案金额高达1亿美元。这种手法凸显了物流运输中GPS信号安全的薄弱环节。",
         "generatedAt": "2026-10-27T02:57:57+08:00"
-      }
+      },
+      "pushedAt": "2026-10-27T07:01:38+08:00"
     },
     {
       "id": "ce5ce5fc43fb0958",
@@ -533,7 +881,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-27T07:01:38+08:00"
     },
     {
       "id": "41aa4b7a30bc50ff",
@@ -559,7 +908,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-27T07:01:38+08:00"
     }
   ],
   "topic": "ai"
