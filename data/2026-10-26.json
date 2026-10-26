@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updatedAt": "2026-10-26T08:59:40+08:00",
+  "updatedAt": "2026-10-26T09:51:46+08:00",
   "items": [
     {
       "id": "bf7f18e0418c7776",
@@ -71,6 +71,43 @@
         ],
         "detail": "文章讨论 OpenAI 和 Anthropic 为何在短短几个月内把大模型价格最多砍掉八成。HN 上 138 条评论围绕推理成本下降、厂商抢份额和价格战展开，但摘要未给出具体原因。",
         "generatedAt": "2026-10-26T08:59:40+08:00"
+      }
+    },
+    {
+      "id": "9c8af087313dd1dc",
+      "title": "CircleCI 正式发布 Machine Runner Orchestrator",
+      "url": "https://infoq.cn/article/y7YQmP1p42Uj69H1C6uf",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T17:00:00+08:00",
+      "fetchedAt": "2026-10-26T09:51:34+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "CircleCI 发布 Machine Runner Orchestrator",
+        "takeaway": "CircleCI 推出新组件，用于统一调度自托管机器上的构建任务，值得关注 CI 基础设施走向。",
+        "bullets": [
+          "CircleCI 正式发布 Machine Runner Orchestrator",
+          "面向自托管机器上的构建任务调度",
+          "与使用 CircleCI 自托管执行环境的团队相关",
+          "可能简化多机器场景下的 Runner 管理"
+        ],
+        "detail": "CircleCI 宣布正式推出 Machine Runner Orchestrator。从名称看，它是用于编排自托管机器 Runner 的组件，帮助团队在自有机器上调度构建任务。原文摘要信息有限，具体功能与适用范围需查看原文。",
+        "generatedAt": "2026-10-26T09:51:46+08:00"
       }
     },
     {
