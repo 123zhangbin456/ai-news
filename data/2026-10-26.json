@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updatedAt": "2026-10-26T07:39:37+08:00",
+  "updatedAt": "2026-10-26T08:30:43+08:00",
   "items": [
     {
       "id": "bf7f18e0418c7776",
@@ -149,6 +149,42 @@
         ],
         "detail": "发帖人有一台配128GB内存和8张T4的服务器，想用QLoRA微调Qwen3.5-9B，手头是约500GB的图片、扫描件、PDF、Word和Excel原始数据。他此前向多个AI助手咨询并花了不少钱，仍没找到清晰方案，于是发帖求教从数据预处理到训练配置的最佳路径。",
         "generatedAt": "2026-10-26T07:39:37+08:00"
+      }
+    },
+    {
+      "id": "2afd7e91796788bc",
+      "title": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+      "url": "https://ifanr.com/1685755",
+      "summary": "· OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话 · Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T08:16:16+08:00",
+      "fetchedAt": "2026-10-26T08:30:30+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 建离线世界隔离模型，Reddit 开源社区禁 AI 项目",
+        "takeaway": "OpenAI 用离线环境隔离模型，Reddit 开源社区则禁止 AI 项目，反映 AI 安全与社区规则的新动向。",
+        "bullets": [
+          "OpenAI 为 AI 构建「离线世界」，模型隔离仍用 CPU 缓存传话",
+          "Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除",
+          "两件事分别涉及 AI 安全隔离与社区内容治理"
+        ],
+        "detail": "OpenAI 给 AI 建了一个「离线世界」，把模型隔离起来，但模型之间仍能通过 CPU 缓存传递信息。另一边，Reddit 的开源社区明确禁止 AI 项目，连用 AI 翻译发帖也不允许。",
+        "generatedAt": "2026-10-26T08:30:43+08:00"
       }
     },
     {
