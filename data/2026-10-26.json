@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updatedAt": "2026-10-26T15:07:48+08:00",
+  "updatedAt": "2026-10-26T22:25:58+08:00",
   "items": [
     {
       "id": "bf7f18e0418c7776",
@@ -38,6 +38,155 @@
         "generatedAt": "2026-10-26T06:57:22+08:00"
       },
       "pushedAt": "2026-10-26T06:57:31+08:00"
+    },
+    {
+      "id": "4e21a5aaa0242aac",
+      "title": "Kimi K3.1 Pro 发布：代码超 GPT-6 Astra、开放权重版主动移除网络攻防能力",
+      "url": "https://oschina.net/news/503221",
+      "summary": "月之暗面发布了 Kimi K3.1 Pro，3 万亿级参数、100 万上下文，K3 系列第一个正式版本。官方给它的定位是\"迄今能力最强的模型\"，代码、3D 创作、金融研究和长程 Agent 能力提得最狠，还同步出了个 K3.1 Pro Highspeed——同样智能，输出速度约 2~3 倍，价格 2 倍。代码这块是硬碰硬的数字。Terminal-Bench 4.0 上它得 65...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T19:44:28+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "开放",
+        "正式版",
+        "GPT"
+      ],
+      "confidence": 0.06,
+      "score": 62,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Kimi K3.1 Pro 发布：代码超 GPT-6 Astra，开放权重版移除网安能力",
+        "takeaway": "月之暗面推出 3 万亿参数、100 万上下文的 K3 系列首个正式版，代码能力对标并超过 GPT-6 Astra。",
+        "bullets": [
+          "K3.1 Pro 为 3 万亿级参数、100 万上下文，是 K3 系列首个正式版本",
+          "官方称其为迄今最强模型，重点提升代码、3D 创作、金融研究与长程 Agent",
+          "同步推出 Highspeed 版：智能相同，速度约 2~3 倍，价格 2 倍",
+          "开放权重版主动移除网络攻防能力，代码基准 Terminal-Bench 4.0 得 65"
+        ],
+        "detail": "月之暗面发布 Kimi K3.1 Pro，参数规模达 3 万亿级，支持 100 万上下文，是 K3 系列第一个正式版本。官方定位为迄今能力最强的模型，代码、3D 创作、金融研究和长程 Agent 提升最明显。另推 Highspeed 版，智能不变、速度约 2~3 倍、价格 2 倍；开放权重版主动移除了网络攻防能力。",
+        "generatedAt": "2026-10-26T22:25:42+08:00"
+      }
+    },
+    {
+      "id": "3dc689c9c8a58feb",
+      "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
+      "url": "https://theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+      "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchang…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T21:32:49+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO"
+      ],
+      "confidence": 0.9,
+      "score": 60,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic提交IPO申请，拟抢先OpenAI登陆纳斯达克",
+        "takeaway": "Claude开发商Anthropic正式启动上市流程，有望成为首家IPO的头部AI大模型公司。",
+        "bullets": [
+          "Anthropic已向SEC提交S-1招股书，计划在纳斯达克上市",
+          "公司称目标是“用AI革新人类活动的每个领域”",
+          "此举意在抢在OpenAI之前完成IPO，抢占先发优势"
+        ],
+        "detail": "Anthropic已向美国证券交易委员会递交S-1招股说明书，准备在纳斯达克上市。这家开发Claude模型的公司希望比OpenAI更早完成IPO，并在文件中提出要用AI“革新人类活动的每个领域”。",
+        "generatedAt": "2026-10-26T22:25:42+08:00"
+      }
+    },
+    {
+      "id": "e9c3ffa3a67e8ebb",
+      "title": "DeepSeek 开源看家算子的同一周，AI 超过了它",
+      "url": "https://leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html",
+      "summary": "国产大模型的竞争，正从模型层延伸到算力层：再强的模型，最终都要基于算子在芯片上执行。同一个模型、同一块芯片，换一套更优的算子，有时会带来数倍的性能提升。算子的效率决定了同样的显卡能跑多快，也决定了每个 token 的价格。 DeepSeek 近日全面开源推理框架 DeepInfer。继模型权重和 FlashMLA、DeepGEMM 等算子库之后，他们把模型运行的链路开放了。其中的 FlashMLA，有工程师在芯片上逐行手调的版本，算子性能跑到了硬件极限的 90% 以上，这也是…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T14:58:00+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源",
+        "权重",
+        "框架"
+      ],
+      "confidence": 0.31,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 开源推理框架 DeepInfer，算子性能逼近硬件极限",
+        "takeaway": "DeepSeek 把模型运行链路也开源了，算子优化能显著降低 token 成本，值得关注。",
+        "bullets": [
+          "DeepSeek 全面开源推理框架 DeepInfer，开放模型运行链路。",
+          "此前已开源模型权重及 FlashMLA、DeepGEMM 等算子库。",
+          "FlashMLA 手调版本算子性能达硬件极限 90% 以上。",
+          "算子效率决定显卡跑多快和每个 token 的价格。"
+        ],
+        "detail": "国产大模型竞争正从模型层延伸到算力层。同样的模型和芯片，换更优算子可能带来数倍性能提升。DeepSeek 近日开源推理框架 DeepInfer，继模型权重和算子库后进一步开放运行链路，其中 FlashMLA 手调版本性能超硬件极限 90%。",
+        "generatedAt": "2026-10-26T22:25:42+08:00"
+      }
+    },
+    {
+      "id": "eb7708c5f537ab79",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T15:00:00+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Fanatics联手OpenAI，用AI帮球迷搭配比赛日穿搭",
+        "takeaway": "Fanatics借助OpenAI推出Shop the Look功能，测试显示球迷互动率提升10%，AI正改变体育电商体验。",
+        "bullets": [
+          "Fanatics使用OpenAI技术推出Shop the Look功能，帮助球迷完成比赛日穿搭。",
+          "在约3万件MLB商品上测试，用户互动率提升10%。",
+          "该合作展示了AI在体育电商中提升购物体验的潜力。"
+        ],
+        "detail": "Fanatics利用OpenAI的技术推出了“Shop the Look”功能，帮助球迷搭配完整的比赛日装扮。在约3万件MLB商品上的测试显示，用户互动率提高了10%。",
+        "generatedAt": "2026-10-26T22:25:43+08:00"
+      }
     },
     {
       "id": "c45c68dc9fe27319",
@@ -148,6 +297,42 @@
       }
     },
     {
+      "id": "6e6c63398ce8aa90",
+      "title": "KV Cache砍掉99%，单卡吞吐飙6倍，港科CMU联手岩山科技开源新模型",
+      "url": "https://qbitai.com/2026/10/505407.html",
+      "summary": "一张卡，512路长推理同时跑",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T14:45:25+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.2,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "港科CMU联手岩山科技开源新模型：KV Cache砍99%，单卡吞吐飙6倍",
+        "takeaway": "新模型大幅压缩KV Cache，单卡可同时跑512路长推理，显著提升推理效率。",
+        "bullets": [
+          "KV Cache减少99%，内存占用大幅降低",
+          "单卡吞吐量提升6倍，支持512路并发",
+          "港科、CMU与岩山科技联合开源"
+        ],
+        "detail": "香港科技大学、卡内基梅隆大学与岩山科技合作开源新模型，通过将KV Cache削减99%，在单张GPU上实现512路长推理同时运行，吞吐量提升6倍，为长上下文推理降本增效。",
+        "generatedAt": "2026-10-26T22:25:44+08:00"
+      }
+    },
+    {
       "id": "053c6f74483652c5",
       "title": "Terraform Google Cloud 8.0 发布：告别“永久 Diff”，代价是破坏性升级",
       "url": "https://infoq.cn/article/qJB2DapLThovtxzyOtKW",
@@ -223,6 +408,42 @@
         ],
         "detail": "趋境科技是一家高品质 AI Token 生产服务商，近日完成超13亿元B轮融资，今年累计募资24亿元。本轮由浙财创新、萧山资本、工银投资、中关村科学城、星连资本及钱江世纪城共同领投，商汤科技、网宿科技等跟投。公司半年内多项核心指标增长超十倍，将加速 AI Token 规模化交付。",
         "generatedAt": "2026-10-26T15:07:43+08:00"
+      }
+    },
+    {
+      "id": "3c0520e5732da0c5",
+      "title": "OpenAI开始断网训练最强模型：“安全起见”",
+      "url": "https://qbitai.com/2026/10/505529.html",
+      "summary": "模型开始利用GPU缓存聊天？",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T17:37:57+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI断网训练最强模型，安全起见防GPU缓存泄露",
+        "takeaway": "OpenAI为防模型利用GPU缓存泄露信息，开始断网训练最强模型，安全措施升级。",
+        "bullets": [
+          "OpenAI在训练最强模型时切断网络连接，以安全为由。",
+          "担心模型可能利用GPU缓存进行聊天或泄露数据。",
+          "此举或影响训练效率，但凸显AI安全优先级提升。"
+        ],
+        "detail": "OpenAI在训练其最强模型时开始采用断网训练，理由是安全考虑。据量子位报道，模型可能利用GPU缓存进行聊天等行为，促使OpenAI采取更严格的隔离措施。",
+        "generatedAt": "2026-10-26T22:25:44+08:00"
       }
     },
     {
@@ -303,6 +524,40 @@
         "generatedAt": "2026-10-26T24:55:43+08:00"
       },
       "pushedAt": "2026-10-26T06:57:31+08:00"
+    },
+    {
+      "id": "f5fb9a5f4f5789d7",
+      "title": "Can AI help solve the COBOL code crisis?",
+      "url": "https://theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks i…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T21:15:00+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI能否破解COBOL代码危机？",
+        "takeaway": "OpenAI等公司尝试用AI维护老旧COBOL系统，解决关键行业的技术债难题。",
+        "bullets": [
+          "IRS、银行、航空等关键系统仍依赖古老的COBOL代码。",
+          "这些系统无人敢动，维护风险极高。",
+          "OpenAI认为AI可帮助理解和改造遗留代码。"
+        ],
+        "detail": "美国国税局、银行、航空公司和全球政府基础设施都运行在无人敢碰的老旧COBOL代码上，生怕一改就全盘崩溃。OpenAI认为AI能帮助解决这一危机。",
+        "generatedAt": "2026-10-26T22:25:46+08:00"
+      }
     },
     {
       "id": "eba7a349042ed589",
@@ -415,6 +670,78 @@
       }
     },
     {
+      "id": "08ea883fc880520f",
+      "title": "开源中国「AI新生派」走进山东大学软件学院：从技术认知到动手实战，探索 AI 时代开发者成长路径",
+      "url": "https://oschina.net/news/503219",
+      "summary": "10月23日，开源中国「AI新生派」走进山东大学软件学院。本次活动由开源中国联合学新社主办，Gitee、模力方舟、openKylin 共建，采用“上午主题分享 + 下午实操演练”的形式，围绕开源基础知识、AI 应用开发、智能硬件、模型适配及开源操作系统等方向展开，帮助高校学生了解前沿技术发展，并通过实践进一步认识 AI 技术与...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T17:23:17+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.8,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开源中国「AI新生派」走进山大软件学院：分享加实操，探索开发者成长",
+        "takeaway": "开源中国联合多家机构在山大办活动，帮学生从认知到动手了解 AI 开发。",
+        "bullets": [
+          "10月23日走进山东大学软件学院，上午分享下午实操。",
+          "由开源中国联合学新社主办，Gitee、模力方舟、openKylin 共建。",
+          "内容覆盖开源基础、AI 应用开发、智能硬件、模型适配及开源操作系统。"
+        ],
+        "detail": "10月23日，开源中国「AI新生派」在山东大学软件学院举办活动，由开源中国与学新社主办，Gitee、模力方舟、openKylin 共建。活动分上午主题分享和下午实操演练，围绕开源知识、AI 应用开发、智能硬件、模型适配和开源操作系统展开，帮学生接触前沿技术并通过实践加深理解。",
+        "generatedAt": "2026-10-26T22:25:46+08:00"
+      }
+    },
+    {
+      "id": "fb214dcd850fd9cf",
+      "title": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run",
+      "summary": "First, this isn’t clickbait - these are real results. I managed to run Qwen 3.8 Flash Next Q2 and got better results in benchmarks and real-world tests than I did with any Qwen 3.6 35B A3B fine-tune or Qwen 3.8 27B model I tested. It is als…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T18:26:48+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0.25,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "8GB 显存 + 32GB 内存即可跑 Qwen 3.8 Flash Next，预填充达 900 t/s",
+        "takeaway": "低配硬件也能跑新模型，量化版 Qwen 3.8 Flash Next 实测速度与效果均超预期。",
+        "bullets": [
+          "用户实测 8GB 显存 + 32GB 内存运行 Qwen 3.8 Flash Next Q2 量化版",
+          "预填充速度最高 900 t/s，生成速度约 30 t/s",
+          "基准测试和实际体验优于 Qwen 3.6 35B A3B 微调版及 Qwen 3.8 27B"
+        ],
+        "detail": "发帖者强调并非标题党，而是真实测试结果。他在 8GB 显存和 32GB 内存的配置下运行 Qwen 3.8 Flash Next 的 Q2 量化版本，基准测试和实际使用效果都超过了此前测试的 Qwen 3.6 35B A3B 微调模型和 Qwen 3.8 27B 模型。",
+        "generatedAt": "2026-10-26T22:25:47+08:00"
+      }
+    },
+    {
       "id": "688136660c106304",
       "title": "Block’s new voice model sounds eerily human",
       "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
@@ -487,6 +814,74 @@
       "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
+      "id": "69904ff11434ac2a",
+      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+      "url": "https://theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+      "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podc…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T22:00:00+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Kevin Roose 新书《AGI编年史》探讨AI行业剧变",
+        "takeaway": "《纽约时报》资深记者Kevin Roose出新书，记录AI行业近期爆炸式转变，并抛出“为何你还没被AGI说服”之问。",
+        "bullets": [
+          "Kevin Roose是《纽约时报》长期记者，也是热门播客主持人。",
+          "新书《AGI编年史》详细记录AI行业近期爆炸式转变。",
+          "对话围绕“AGI-pilled”展开，追问为何有人仍未信服。"
+        ],
+        "detail": "本次对话对象是记者兼作家Kevin Roose，他刚出版新书《AGI编年史》，书中详述了AI行业近期迅猛而剧烈的变化。Roose曾是《纽约时报》长期记者，并主持过一档热门播客。对话标题抛出“Kevin Roose被AGI说服了，你为什么还没？”的疑问。",
+        "generatedAt": "2026-10-26T22:25:48+08:00"
+      }
+    },
+    {
+      "id": "52c4e79354417938",
+      "title": "Anthropic S-1",
+      "url": "https://sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 379 # Comments: 316",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T21:04:50+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 提交 S-1 文件，IPO 进程启动",
+        "takeaway": "AI 公司 Anthropic 向 SEC 递交 S-1，意味着其上市计划进入实质阶段，值得关注。",
+        "bullets": [
+          "Anthropic 向美国 SEC 提交 S-1 注册声明",
+          "文件在 EDGAR 系统公开，HN 讨论热度高",
+          "S-1 是美股 IPO 的第一步正式文件"
+        ],
+        "detail": "Anthropic 已向美国证券交易委员会提交 S-1 文件，这是公司启动上市流程的关键一步。该文件在 SEC 的 EDGAR 数据库公开，Hacker News 上引发大量讨论。",
+        "generatedAt": "2026-10-26T22:25:48+08:00"
+      }
+    },
+    {
       "id": "1dc75a32fc6a65d3",
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "url": "https://lynchlab.net/llm-skin-cancer",
@@ -520,6 +915,252 @@
         "generatedAt": "2026-10-26T03:24:49+08:00"
       },
       "pushedAt": "2026-10-26T06:57:31+08:00"
+    },
+    {
+      "id": "8b97b35d7a871fc5",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and th…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T17:01:00+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "policy",
+        "safety"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI安全讨论聚焦灾难，却忽视日常伤害",
+        "takeaway": "MIT科技评论指出，政策过度关注AI灾难性风险，而日常伤害同样值得重视。",
+        "bullets": [
+          "AI公司承诺聊天机器人不鼓励自杀被视为成功",
+          "社交平台限制儿童购买芬太尼也算重要保护",
+          "但这类日常伤害在AI安全讨论中被边缘化",
+          "政策应平衡灾难性风险与日常危害的治理"
+        ],
+        "detail": "科技政策常把AI公司承诺聊天机器人不鼓励自杀、平台限制儿童买芬太尼当作成功。这些保护很重要，但文章认为，对AI灾难的过度聚焦让日常伤害被忽视，政策需更全面。",
+        "generatedAt": "2026-10-26T22:25:49+08:00"
+      }
+    },
+    {
+      "id": "02246cbd596d80b4",
+      "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+      "url": "https://qbitai.com/2026/10/505539.html",
+      "summary": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T17:46:13+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "天禧AI与观猹大会杭州启幕，实测个人AI跨端协同",
+        "takeaway": "天禧AI在杭州观猹大会现场实测个人AI跨端协同，展示AI时代个人能量新可能。",
+        "bullets": [
+          "10月23日至25日，天禧AI × 观猹大会在杭州举办。",
+          "大会主题为“见证超能发生”，聚焦个人AI体验。",
+          "现场实测个人AI跨端协同新体验。"
+        ],
+        "detail": "10月23日至25日，天禧AI与观猹大会在杭州茶叶博览会会议会展中心举行，主题是“见证超能发生”。活动通过现场实测，展示个人AI跨端协同的新体验，探讨AI时代一个人的能量边界。",
+        "generatedAt": "2026-10-26T22:25:50+08:00"
+      }
+    },
+    {
+      "id": "81631053b97c3e5f",
+      "title": "A社联创演讲：AI奇点已来",
+      "url": "https://qbitai.com/2026/10/505521.html",
+      "summary": "所谓奇点，或许是AI跃过人类的那个点。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T17:35:14+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "A社联创断言：AI奇点已经到来",
+        "takeaway": "A社联合创始人发表演讲，宣称AI奇点已至，引发对AI超越人类时间点的讨论。",
+        "bullets": [
+          "A社联合创始人公开演讲，称AI奇点已经到来。",
+          "奇点被定义为AI跃过人类的临界点。",
+          "该言论引发对AI发展速度与影响的关注。"
+        ],
+        "detail": "A社联合创始人在演讲中提出，AI的奇点已经到来。所谓奇点，指的是AI能力超越人类的那个临界点。这一表态将奇点从未来设想拉到了当下，值得关注其后续影响。",
+        "generatedAt": "2026-10-26T22:25:50+08:00"
+      }
+    },
+    {
+      "id": "7640fff3a6993046",
+      "title": "NeoLab第一个商业模式：转售GPU",
+      "url": "https://qbitai.com/2026/10/505478.html",
+      "summary": "从冲刺AGI到转售GPU。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T17:31:47+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "NeoLab转向转售GPU，首个商业模式曝光",
+        "takeaway": "曾冲刺AGI的NeoLab推出首个商业模式：转售GPU，从研发转向算力生意。",
+        "bullets": [
+          "NeoLab首个商业模式是转售GPU",
+          "此前公司目标为冲刺AGI",
+          "转型反映算力需求下的商业探索"
+        ],
+        "detail": "NeoLab曾以冲刺AGI为目标，如今公布首个商业模式——转售GPU。这意味着公司从前沿AI研发转向算力转售生意，具体细节尚未披露。",
+        "generatedAt": "2026-10-26T22:25:51+08:00"
+      }
+    },
+    {
+      "id": "b2def7252cad6cb9",
+      "title": "中国近50%的新云生意，竟被这家公司包揽！",
+      "url": "https://qbitai.com/2026/10/505454.html",
+      "summary": "有点意外，但也不意外",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T17:02:44+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "中国近半新云生意被这家公司包揽",
+        "takeaway": "量子位报道，一家公司拿下中国近50%的新云生意，份额集中度值得关注。",
+        "bullets": [
+          "中国新云生意近50%由一家公司包揽",
+          "消息来自量子位，但未点名具体公司",
+          "云市场集中度提升，或影响行业格局"
+        ],
+        "detail": "量子位报道称，中国近50%的新云生意被同一家公司拿下。标题用“有点意外，但也不意外”形容，暗示这家公司可能是云市场的重要玩家。具体公司名称和交易细节未在摘要中说明。",
+        "generatedAt": "2026-10-26T22:25:52+08:00"
+      }
+    },
+    {
+      "id": "9713a1450014b234",
+      "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+      "url": "https://qbitai.com/2026/10/505443.html",
+      "summary": "人工智能正在从人机“言传身教”走向自学“触类旁通”。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T16:38:49+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI学习新范式：从言传身教到触类旁通",
+        "takeaway": "AI训练正从依赖人类示范转向自主学习，这或让模型更擅长举一反三。",
+        "bullets": [
+          "AI学习方式正从人类“言传身教”转向自学“触类旁通”。",
+          "这意味着模型将减少对人工标注数据的依赖。",
+          "自主学习能力提升，可能增强AI的泛化与推理表现。"
+        ],
+        "detail": "人工智能的训练方式正在演变：过去靠人类示范和标注来“言传身教”，现在则更强调模型自己从数据中“触类旁通”。这种转变意味着AI将更少依赖人工指导，而更多依靠自我学习来提升能力。",
+        "generatedAt": "2026-10-26T22:25:53+08:00"
+      }
+    },
+    {
+      "id": "4f060559eb191615",
+      "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
+      "url": "https://qbitai.com/2026/10/505436.html",
+      "summary": "10月21日，2026世界智能网联汽车大会在北京召开",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T16:04:10+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "应用"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "长安汽车赵非：汽车将成端侧物理AI最大应用载体",
+        "takeaway": "长安汽车高管在2026世界智能网联汽车大会上判断，汽车是端侧物理AI落地规模最大的场景。",
+        "bullets": [
+          "2026世界智能网联汽车大会10月21日在北京召开",
+          "长安汽车赵非提出汽车是端侧物理AI最大应用载体",
+          "该判断指向智能汽车与物理AI结合的方向"
+        ],
+        "detail": "10月21日，2026世界智能网联汽车大会在北京举行。长安汽车赵非在会上表示，汽车将成为端侧物理AI规模最大的应用载体，把智能汽车看作物理AI落地的重要场景。",
+        "generatedAt": "2026-10-26T22:25:53+08:00"
+      }
     },
     {
       "id": "ca2b82d6e1e86391",
@@ -629,6 +1270,151 @@
         ],
         "detail": "SmartCall 是一套结合 AI 大模型与 Asterisk 通信引擎的智能客服呼叫中心系统，支持语音机器人、智能 IVR、实时语音识别与合成、意图识别等功能。v1.0.9 版本新增智能体知识库，让 AI 客服在回答前先查询资料，以提高应答的准确性。",
         "generatedAt": "2026-10-26T15:07:45+08:00"
+      }
+    },
+    {
+      "id": "43dca37e664474e7",
+      "title": "WorkBuddy进驻企微！终于不用我当文件传输助手了。。。",
+      "url": "https://qbitai.com/2026/10/505365.html",
+      "summary": "AI同事自带工作记忆上岗",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T14:42:48+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "助手"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "WorkBuddy 进驻企业微信，AI 同事自带工作记忆",
+        "takeaway": "AI 助手 WorkBuddy 接入企微，能记住工作上下文，减少手动传文件。",
+        "bullets": [
+          "WorkBuddy 作为 AI 同事进驻企业微信",
+          "自带工作记忆，可记住上下文信息",
+          "用户不用再手动当文件传输助手"
+        ],
+        "detail": "WorkBuddy 是一款 AI 助手，现在正式接入企业微信。它自带工作记忆，能记住之前的工作内容，帮用户省去手动传文件的麻烦，让协作更顺畅。",
+        "generatedAt": "2026-10-26T22:25:53+08:00"
+      }
+    },
+    {
+      "id": "35cb9368dd986730",
+      "title": "boro64/Ternary-Nemotron-3.5-Lightning-30B-A3B-GGUF · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xfqi2d/boro64ternarynemotron35lightning30ba3bgguf",
+      "summary": "Ternary Nemotron 30B-A3B — 368K Context on 12 GB GPU (GGUF) A ternary (1.58-bit) 30B-A3B MoE model that runs on a 12 GB GPU with 368K context, 172 tok/s decode and 7000+ tok/s prefill — in both Stock llama.cpp and the PrismML fork. One file…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T15:49:18+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "三值量化版 Nemotron 30B 模型：12GB 显卡跑 368K 上下文",
+        "takeaway": "1.58 位三值量化让 30B MoE 模型在 12GB 显卡上实现 368K 上下文，推理速度可观。",
+        "bullets": [
+          "模型为 30B-A3B 的 MoE 架构，采用 1.58 位三值量化，体积大幅压缩。",
+          "在 12GB 显卡上即可运行，支持 368K 上下文长度。",
+          "解码速度 172 tok/s，预填充超 7000 tok/s，兼容原版 llama.cpp 和 PrismML 分支。"
+        ],
+        "detail": "这是 Hugging Face 上的一个 GGUF 格式三值量化模型，基于 Nemotron 30B-A3B 混合专家架构。它把模型压缩到 1.58 位，使得 12GB 显存的显卡也能跑 368K 长上下文，并且解码和预填充速度都很快，原版 llama.cpp 和 PrismML 分支都能直接用。",
+        "generatedAt": "2026-10-26T22:25:55+08:00"
+      }
+    },
+    {
+      "id": "f728b66851645e9e",
+      "title": "Qwen3.8-Flash-Next: Swift 1.5 vs Unsloth on Strix Halo (Halogen, gufo, llama.cpp, UD-Q4_K_XL and IQ4_XS)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xfrek0/qwen38flashnext_swift_15_vs_unsloth_on_strix_halo",
+      "summary": "Here I am with another benchmark/comparison. I was curious about the efficiency claims of Swift 1.5 , UkisAI's fine-tune of Qwen3.8-Flash-Next that thinks for a shorter time. UkisAI says Swift uses 63% fewer thinking tokens with under 1% ac…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T16:47:16+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 0.25,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen3.8-Flash-Next 微调版 Swift 1.5 在 Strix Halo 上对比 Unsloth",
+        "takeaway": "用户实测 UkisAI 的 Swift 1.5 微调版，验证其“思考 token 少 63%、精度损失不到 1%”的说法。",
+        "bullets": [
+          "测试平台为 Strix Halo，涉及 Halogen、gufo、llama.cpp 等工具",
+          "对比 Swift 1.5 与 Unsloth 两种方案，使用 UD-Q4_K_XL 和 IQ4_XS 量化",
+          "Swift 1.5 是 UkisAI 对 Qwen3.8-Flash-Next 的微调，主打缩短思考时间"
+        ],
+        "detail": "作者在 Strix Halo 硬件上跑了一轮基准对比，想验证 UkisAI 对 Qwen3.8-Flash-Next 的微调版 Swift 1.5 是否真如宣传所说：思考 token 减少 63%，精度下降不到 1%。测试涉及 Halogen、gufo、llama.cpp 以及两种 4-bit 量化格式。",
+        "generatedAt": "2026-10-26T22:25:56+08:00"
+      }
+    },
+    {
+      "id": "7a8de2da26e1226f",
+      "title": "For £1000 what is the meta for a local LLM rig?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xfwyeo/for_1000_what_is_the_meta_for_a_local_llm_rig",
+      "summary": "For £1000 what is the meta for a local LLM rig, including the host machine? I don't care too much about modern hardware features or power efficiency. Just intelligence and compute horsepower. submitted by /u/Aggravating-Push-207 [link] [com…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T21:33:48+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features"
+      ],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "1000英镑预算，本地跑大模型该怎么配？",
+        "takeaway": "Reddit网友求千镑内本地LLM整机方案，只求算力和智能，不看重能效和新特性。",
+        "bullets": [
+          "发帖人预算1000英镑，含主机整机",
+          "明确不关心新硬件特性和功耗",
+          "核心诉求是算力与模型智能表现",
+          "讨论聚焦本地LLM装机性价比"
+        ],
+        "detail": "有网友在r/LocalLLaMA发帖，问1000英镑预算下本地跑大模型的整机该怎么配，主机也要算进去。他表示不太在意现代硬件功能或能效，只看重智能和算力。",
+        "generatedAt": "2026-10-26T22:25:56+08:00"
       }
     },
     {
@@ -843,6 +1629,126 @@
       }
     },
     {
+      "id": "adf4ced83d57f42d",
+      "title": "中层技术经理要么重新学技术，要么考虑退休：前 Stripe 工程高管警告，未来三年工程管理将彻底变样",
+      "url": "https://infoq.cn/article/hhxL1M65UU3Iwr4ovALT",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T23:18:06+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9950251838dae4fb",
+      "title": "即梦推出 “短剧工作室”，打造更全能的 AI 内容创作平台",
+      "url": "https://leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html",
+      "summary": "10月26日，即梦AI上线全新功能“短剧工作室”。作为即梦面向短剧创作场景推出的一站式AI工具，“短剧工作室”将剧本整理、角色与场景管理、分镜生成、视频制作及后期调整等全流程整合到同一个平台中，让创作者不必在多个平台间来回切换。据悉，“短剧工作室”部分功能整合了小云雀短剧Agent的同款能力。有行业分析认为，此次能力整合，有助于即梦发挥既有优势，打造更加全能好用的内容创作平台。即梦短剧工作室提供剧本创作、3D导演台、智能预演等工具项目资产一站式管理，自研模型让创作更高效 “短…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T18:25:00+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出",
+        "上线"
+      ],
+      "confidence": 0.75,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9de310eae81def24",
+      "title": "tencent/Hy-SimulMT-30B-A3B · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xfrgt5/tencenthysimulmt30ba3b_hugging_face",
+      "summary": "https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-GGUF https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-Interleave-GGUF Hy-SimulMT is a real-time simultaneous translation model developed by Tencent Hunyuan, supporting bidirectional speech-…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T16:51:23+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4944c1d1afa9e526",
+      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+      "url": "https://wired.com/story/ai-agents-are-trying-to-be-journalists-now",
+      "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T17:30:00+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6d8ba0a0b78a2116",
+      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+      "url": "https://wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners",
+      "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T17:00:00+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "e15f87eb6fdbdea7",
       "title": "Is the horror story about AI agent mass deleting your entire drive an old story or it still happen nowadays?",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xflw1l/is_the_horror_story_about_ai_agent_mass_deleting",
@@ -861,6 +1767,32 @@
       "category": "产品应用",
       "keywords": [
         "copilot"
+      ],
+      "confidence": 1,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "024090e087dfbdef",
+      "title": "端到端推理时延降低 15%：京东广告联合鲲鹏超节点，探索生成式广告行业新路径",
+      "url": "https://tmtpost.com/8181692.html",
+      "summary": "京东广告面临生成式推荐带来的千倍算力需求与300毫秒时延红线之间的尖锐矛盾，真正的瓶颈在通算侧而非GPU。为此，京东与华为鲲鹏合作，通过灵衢互联将四级缓存压成两级，建成300TB共享内存池，并重构RPC通信，使端到端推理时延降低15%，KV Cache和RPC性能大幅提升，经618大促核心场景5%流量验证。双方合作正从广告向搜推等场景外溢，并布局SuperCache、Agent沙箱等方向，以应对Agentic AI时代的算力挑战。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T20:19:13+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力",
+        "GPU"
       ],
       "confidence": 1,
       "score": 33,
@@ -1049,6 +1981,54 @@
       "pushed": false
     },
     {
+      "id": "3a400a07ec150c49",
+      "title": "小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding",
+      "url": "https://tmtpost.com/8182406.html",
+      "summary": "普通人也能用自然语言亲手创造专属的AI硬件。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T19:29:41+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f62b9f9d24168835",
+      "title": "Is there any way for this community to take advantage of the neocloud collapse?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xfv8a9/is_there_any_way_for_this_community_to_take",
+      "summary": "So-called \"neoclouds\", datacenters that focus exclusively on AI inference, have racked up unsustainable amounts of debt, and are widely anticipated to soon undergo a massive collapse/contraction. My question is what happens when they go ban…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T20:19:13+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "ban"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "33331332d5b954af",
       "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
       "url": "https://dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
@@ -1082,6 +2062,29 @@
         "generatedAt": "2026-10-26T06:57:29+08:00"
       },
       "pushedAt": "2026-10-26T06:57:31+08:00"
+    },
+    {
+      "id": "3dd4e79c9737276b",
+      "title": "地铁里的 AI 伪人广告，正在集体霸凌人类",
+      "url": "https://ifanr.com/1685809",
+      "summary": "唯有诚意与创意不可辜负 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T15:42:44+08:00",
+      "fetchedAt": "2026-10-26T22:25:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "30b25bffc021e211",
