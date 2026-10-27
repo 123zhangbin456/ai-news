@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updatedAt": "2026-10-27T16:13:41+08:00",
+  "updatedAt": "2026-10-27T22:42:15+08:00",
   "items": [
     {
       "id": "786e5c9358c16742",
@@ -190,6 +190,43 @@
       }
     },
     {
+      "id": "6a432932352617a5",
+      "title": "OpenAI 和 Anthropic 将大模型价格砍了八成，这门生意到底怎么算的？",
+      "url": "https://oschina.net/news/503251/cheap-llms",
+      "summary": "从六月 GPT-5.6 系列发布到现在，OpenAI 和 Anthropic 的主流模型价格塌了一大截，最多砍掉 80%。Max Woolf 把这场价格战的时间线全捋了一遍，结论有点反直觉：这不像烧钱抢市场的套路。先看数字怎么掉的。GPT-5.6 Sol 卖 $5/$30/$0.50（输入/输出/缓存读取，每百万 token），Luna 是 $1/$6/$0.10。后来 Luna 直接砍 80...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T19:41:06+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 59,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 与 Anthropic 大模型降价八成，价格战逻辑生变",
+        "takeaway": "主流大模型价格最多降八成，但分析认为这不像烧钱抢市场，值得关注定价逻辑。",
+        "bullets": [
+          "GPT-5.6 系列发布后，OpenAI 与 Anthropic 主流模型价格大幅下调。",
+          "最高降幅达 80%，如 Luna 型号价格直接砍八成。",
+          "分析人士 Max Woolf 梳理时间线后认为，这不像烧钱抢市场的套路。"
+        ],
+        "detail": "自六月 GPT-5.6 系列发布以来，OpenAI 和 Anthropic 的主流模型价格大幅下降，最多降了 80%。以 GPT-5.6 Sol 为例，输入、输出、缓存读取每百万 token 分别为 5、30、0.5 美元，Luna 则为 1、6、0.1 美元，后来 Luna 又降了八成。Max Woolf 梳理价格战",
+        "generatedAt": "2026-10-27T22:41:59+08:00"
+      }
+    },
+    {
       "id": "9ee6f46cf5f358c6",
       "title": "OpenAI GPT-6.1 Terra发布AI开始真正操作电脑，使用成本也降了",
       "url": "https://oschina.net/news/503228",
@@ -227,6 +264,43 @@
         ],
         "detail": "OpenAI在10月26日推出GPT-6.1 Terra，与以往偏重聊天和推理的模型不同，这次主打看懂屏幕并动手操作。它能识别网页和软件里的按钮、输入框、表格，在获得工具和权限后可自行填写表单、整理资料、跨应用录入信息，同时使用成本也降低了。",
         "generatedAt": "2026-10-27T10:30:15+08:00"
+      }
+    },
+    {
+      "id": "1a5d88f037ca549c",
+      "title": "长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求；Anthropic公开上市申请，最快11月中旬上市；周畅被曝离职？接近字节人士回应",
+      "url": "https://leiphone.com/category/zaobao/9LHYVcJC8iwgwnhk.html",
+      "summary": "要闻提示 1.长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求 2.Seedance 核心研发负责人周畅被曝离职？接近字节人士否认 3.李楠谈iPhone Duo屏幕开裂问题：本质是苹果和供应链生疏了 4.道歉也翻车？小鹏经理Etta道歉视频疑似用AI生成 5.奥迪中国四环标和字母标正式分家 6.会员使用K3.1 Pro时出现限流及不必要的额度消耗，Kimi致歉并宣布补偿 7.突发！Anthropic公开上市申请：半年净亏807亿美元，最快 11 月中旬上市 8.起售价549…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T17:34:00+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "上市",
+        "亿美元"
+      ],
+      "confidence": 0.27,
+      "score": 57,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "长鑫拒苹果订单保国内供应；Anthropic拟11月上市",
+        "takeaway": "长鑫优先保障国内存储芯片需求，Anthropic公开上市申请，最快11月中旬上市。",
+        "bullets": [
+          "长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求。",
+          "Anthropic公开上市申请，半年净亏807亿美元，最快11月中旬上市。",
+          "周畅被曝离职，接近字节人士否认。"
+        ],
+        "detail": "长鑫存储拒绝苹果等海外客户的订单，将产能优先用于满足国内存储芯片需求。AI公司Anthropic公开上市申请，披露半年净亏损807亿美元，最快11月中旬上市。此外，有消息称字节Seedance核心研发负责人周畅离职，但接近字节人士予以否认。",
+        "generatedAt": "2026-10-27T22:41:58+08:00"
       }
     },
     {
@@ -600,6 +674,43 @@
       }
     },
     {
+      "id": "f4e0b5373313dace",
+      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "url": "https://theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designin…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T21:50:51+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "assistant"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "苹果为 Pages、Keynote、Numbers 加入 AI 助手",
+        "takeaway": "苹果生产力套件迎来 AI 助手，基于自研与 OpenAI 模型，能理解文档上下文执行任务。",
+        "bullets": [
+          "苹果在 Keynote、Pages、Numbers 中集成 AI 助手",
+          "助手基于苹果和 OpenAI 的模型构建",
+          "可理解文档上下文，执行设计等任务",
+          "影响苹果生产力用户，提升文档处理效率"
+        ],
+        "detail": "苹果正在为其生产力应用套件（包括 Keynote、Pages 和 Numbers）引入 AI 助手。该助手基于苹果和 OpenAI 的 AI 模型构建，能够理解文档的上下文，从而执行诸如设计等任务。",
+        "generatedAt": "2026-10-27T22:41:58+08:00"
+      }
+    },
+    {
       "id": "93eb651fa249ea23",
       "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
       "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo",
@@ -671,6 +782,47 @@
         ],
         "detail": "OpenAI 将编程工具转型为名为 dots 的常驻个人助手。负责该项目的 Alexander Embiricos 表示，他绝不希望与别人的 AI 代理开会。这暗示 OpenAI 在 AI 代理的交互设计上可能采取不同路线。",
         "generatedAt": "2026-10-27T16:13:31+08:00"
+      }
+    },
+    {
+      "id": "c6ca2cce68a97453",
+      "title": "Anthropic 公布了 S1 文件",
+      "url": "https://solidot.org/story?sid=85717",
+      "summary": "Anthropic 已经向 SEC 递交了 S1 文件，最早下个月上市。Anthropic 的 IPO 不仅仅会是一家 AI 公司的亮相派对，还将成为对经济的一次试金石考验，关乎数万亿美元的利益。制造 Claude 聊天机器人的Anthropic是人工智能行业的一根台柱。它在私募市场估值近 1 万亿美元，并获得超过 1300 亿美元融资支持，可能在其发行中筹集 1000 亿美元，从而迅速成为世界上最大的上市公司之一。而此事还关系到更大的利益。Anthropic 及其主要竞争对…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T14:33:38+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "估值",
+        "上市",
+        "IPO",
+        "亿美元"
+      ],
+      "confidence": 0.92,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic递交S1文件，最早下月上市",
+        "takeaway": "AI巨头Anthropic启动IPO，估值近万亿美元，或成全球最大上市公司之一，考验市场对AI的信心。",
+        "bullets": [
+          "Anthropic已向SEC递交S1文件，最早下月上市。",
+          "私募估值近1万亿美元，获超1300亿美元融资。",
+          "IPO可能筹集1000亿美元，迅速跻身最大上市公司。",
+          "此次上市被视为对AI经济影响的一次试金石。"
+        ],
+        "detail": "Anthropic已向美国SEC提交S1文件，计划最早下月上市。这家制造Claude聊天机器人的AI公司私募估值近1万亿美元，已获超1300亿美元融资，IPO可能筹集1000亿美元，有望迅速成为全球最大上市公司之一。此次上市不仅是一家AI公司的亮相，更是对AI行业经济影响的关键考验。",
+        "generatedAt": "2026-10-27T22:42:01+08:00"
       }
     },
     {
@@ -785,6 +937,114 @@
         "generatedAt": "2026-10-27T02:57:52+08:00"
       },
       "pushedAt": "2026-10-27T07:01:38+08:00"
+    },
+    {
+      "id": "02c774ec5299e23a",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
+      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T19:00:00+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs",
+        "NVIDIA"
+      ],
+      "confidence": 0.86,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达投资印度创企Simplismart，用更少GPU跑AI模型",
+        "takeaway": "英伟达押注印度AI优化公司，帮企业降低GPU依赖，其年化收入半年增14倍。",
+        "bullets": [
+          "英伟达投资印度初创公司Simplismart，具体金额未披露。",
+          "Simplismart帮企业用更少GPU运行AI模型，降低算力成本。",
+          "其年化收入运行率半年增长14倍，美国贡献超一半收入。"
+        ],
+        "detail": "英伟达投资了印度初创公司Simplismart，该公司致力于帮助企业以更少的GPU运行AI模型。Simplismart表示，其年化收入运行率在六个月内增长了14倍，其中美国市场贡献了超过一半的收入。",
+        "generatedAt": "2026-10-27T22:42:00+08:00"
+      }
+    },
+    {
+      "id": "f3c83035fbea9ccd",
+      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+      "url": "https://wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one",
+      "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T17:30:00+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "实测六大AI智能体：哪款最适合日常任务",
+        "takeaway": "作者花一天测试六款主流AI智能体，按基础任务完成度排名，给出最佳选择。",
+        "bullets": [
+          "测试覆盖Meta Muse、Anthropic Claude Duet等六款产品",
+          "评估标准是完成日常基础任务的能力",
+          "结果给出排名，并指出表现最佳的一款",
+          "对想选AI助手的用户有直接参考价值"
+        ],
+        "detail": "作者用一天时间逐一测试了六款主流AI智能体，包括Meta的Muse和Anthropic的Claude Duet，重点看它们能否顺利完成基础任务。测试后给出排名，并评出了最好用的一款。",
+        "generatedAt": "2026-10-27T22:42:02+08:00"
+      }
+    },
+    {
+      "id": "d5b695b3317cd347",
+      "title": "Kimi额度的问题，Anthropic找到了解决办法",
+      "url": "https://tmtpost.com/8183235.html",
+      "summary": "你的额度为什么不经用？大半都在给子Agent“开无效会议”",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T18:19:24+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Kimi额度不够用？Anthropic找到解法",
+        "takeaway": "AI额度消耗大半浪费在子Agent无效协作上，Anthropic提出优化方案。",
+        "bullets": [
+          "Kimi用户常抱怨额度消耗过快，问题根源指向子Agent协作。",
+          "Anthropic研究发现，大量额度被用于子Agent之间的无效会议。",
+          "该方案或能提升AI Agent任务效率，减少资源浪费。"
+        ],
+        "detail": "很多用户发现Kimi额度不经用，原因在于子Agent之间频繁进行无效沟通，类似“开无效会议”。Anthropic针对这一问题找到了解决办法，有望减少此类浪费，让额度用在刀刃上。",
+        "generatedAt": "2026-10-27T22:42:03+08:00"
+      }
     },
     {
       "id": "e56e60adc9604a0d",
@@ -1083,6 +1343,43 @@
       }
     },
     {
+      "id": "e4dd73cec05da0a0",
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
+      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T21:00:00+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raises",
+        "series"
+      ],
+      "confidence": 0.31,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "General Compute 获 1 亿美元 A 轮融资，押注非英伟达推理芯片",
+        "takeaway": "在 neocloud 遭遇质疑之际，General Compute 以非英伟达推理芯片路线完成大额 A 轮融资。",
+        "bullets": [
+          "General Compute 完成 1 亿美元 A 轮融资",
+          "公司押注英伟达生态之外的推理芯片",
+          "融资旨在反驳 neocloud 的灾难叙事"
+        ],
+        "detail": "General Compute 宣布获得 1 亿美元 A 轮融资，其策略是采用非英伟达生态的推理芯片。此举意在回应市场对 neocloud 模式前景的悲观论调。",
+        "generatedAt": "2026-10-27T22:42:02+08:00"
+      }
+    },
+    {
       "id": "c63752dc01a8e00d",
       "title": "Running Qwen 3.8 Flash Next",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xg1vgy/running_qwen_38_flash_next",
@@ -1234,6 +1531,79 @@
       }
     },
     {
+      "id": "a7faca622f3479d2",
+      "title": "千问办公接入乐奇AI眼镜，一句话发起任务",
+      "url": "https://leiphone.com/category/industrynews/NDbYUsVKbYZZxXil.html",
+      "summary": "10月27日，在乐奇AI眼镜新品发布会上，乐奇Rokid和千问办公宣布达成合作，千问办公正式接入乐奇AI眼镜。用户在“Rokid AI”App里的智能体商店添加“千问办公”，绑定千问办公账号后，就可以戴上眼镜用语音唤起千问办公、下发任务，并在眼镜端查看结果。比如，用户直接说：“千问办公，帮我调研一下AI眼镜的行业现状。”千问办公收到指令后就会开始执行，完成后交付产出，用户在眼镜上就能直接查看研究报告。执行过程中，用户不必反复查看进度，千问办公会实时推送状态通知。如果任务涉及现…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T17:03:00+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "接入",
+        "app"
+      ],
+      "confidence": 0.63,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "千问办公接入乐奇AI眼镜，语音即可发起办公任务",
+        "takeaway": "千问办公登陆乐奇AI眼镜，用户动动嘴就能下发调研等任务并在镜端看结果。",
+        "bullets": [
+          "乐奇Rokid与千问办公在10月27日新品发布会上宣布合作",
+          "用户在Rokid AI App智能体商店添加并绑定千问办公账号",
+          "语音唤起后可下发任务，眼镜端直接查看产出并接收状态通知"
+        ],
+        "detail": "10月27日乐奇AI眼镜发布会上，乐奇Rokid宣布与千问办公合作，后者正式接入眼镜。用户在Rokid AI App的智能体商店添加千问办公并绑定账号后，戴眼镜用语音就能唤起它、下发任务，并在镜端查看结果。比如让它调研AI眼镜行业现状，完成后可直接在眼镜上看报告，执行中还会实时推送状态通知。",
+        "generatedAt": "2026-10-27T22:42:04+08:00"
+      }
+    },
+    {
+      "id": "aa8a4e032b041a83",
+      "title": "Reddit 开源社区争议是否禁止 AI",
+      "url": "https://solidot.org/story?sid=85722",
+      "summary": "美国社交新闻平台 Reddit 专注于讨论开源项目的社群 r/opensource 公布了禁止 AI 的政策《Your tokens aren't valuable: No more AI》，理由是 AI 与该社群不兼容，要求递交到该社群的开源项目必须至少存在一年、有多名贡献者，发帖者必须会说英语而不是用 AI 翻译。这一政策引发了激烈的讨论，随后有人创建了新的允许 AI 的开源社群如 r/OpenSourceAIAllowed。r/opensource 的版主（modera…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T18:09:57+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Reddit开源社区禁AI引争议，新社区应运而生",
+        "takeaway": "r/opensource禁止AI内容，要求项目真实、发帖者会英语，引发激烈讨论并催生新社区。",
+        "bullets": [
+          "r/opensource版主发布政策，禁止AI生成内容，称其与社区不兼容。",
+          "新规要求开源项目至少一年、多名贡献者，发帖者须会英语而非AI翻译。",
+          "争议后有人创建r/OpenSourceAIAllowed等允许AI的新社区。"
+        ],
+        "detail": "Reddit的r/opensource社区公布政策《Your tokens aren't valuable: No more AI》，禁止AI相关内容，理由是AI与社区不兼容。新规要求提交的开源项目至少存在一年、有多名贡献者，发帖者必须会说英语而不是用AI翻译。该政策引发激烈讨论，随后有人创建了允许AI的新社区如r/O",
+        "generatedAt": "2026-10-27T22:42:05+08:00"
+      }
+    },
+    {
       "id": "62326578878251f2",
       "title": "SpaceX locks in $40B GPU financing deal with Apollo",
       "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo",
@@ -1310,6 +1680,114 @@
         "generatedAt": "2026-10-27T02:57:55+08:00"
       },
       "pushedAt": "2026-10-27T07:01:38+08:00"
+    },
+    {
+      "id": "3f5bc6113c363834",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data",
+      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T21:32:57+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "日本GMO证实云服务遭入侵，黑客疑公开客户数据",
+        "takeaway": "日本互联网巨头GMO云服务被黑，黑客疑似公开客户数据，公司正核实。",
+        "bullets": [
+          "GMO Internet确认云服务遭黑客入侵",
+          "疑似黑客已公开部分客户数据",
+          "公司正在核实泄露数据的真实性",
+          "事件或影响使用其云服务的客户"
+        ],
+        "detail": "日本互联网公司GMO Internet证实其云服务遭到黑客攻击，并正在核实疑似黑客公开的客户数据是否真实。此次事件可能波及使用其云服务的企业客户，数据泄露风险引发关注。",
+        "generatedAt": "2026-10-27T22:42:04+08:00"
+      }
+    },
+    {
+      "id": "2d1cc6aaea4683be",
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser",
+      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T21:00:00+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users",
+        "deploy"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Opera 推 WebAI 新标准，浏览器本地运行 AI 模型",
+        "takeaway": "Opera 提出 WebAI 网页标准，让用户直接在浏览器本地部署多种 AI 模型，无需依赖云端。",
+        "bullets": [
+          "Opera 发布 WebAI 新网页标准，支持在浏览器本地运行 AI",
+          "该标准设计兼容多种 AI 模型，不限定单一厂商",
+          "本地运行可减少云端依赖，或提升隐私与响应速度"
+        ],
+        "detail": "Opera 推出名为 WebAI 的新网页标准，目标是让用户能在浏览器里直接部署和运行 AI 模型。该标准设计上兼容多种 AI 模型，不绑定特定一家。这意味着 AI 能力可能从云端下放到本地浏览器，对隐私和延迟都有潜在好处。",
+        "generatedAt": "2026-10-27T22:42:07+08:00"
+      }
+    },
+    {
+      "id": "858dd928576dd166",
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "url": "https://technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing",
+      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matt…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T19:19:18+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "工业智能：制造业的下一个增长机会",
+        "takeaway": "制造企业积累的显性与隐性知识，正成为工业智能的核心资产，决定下一轮增长。",
+        "bullets": [
+          "工业智能既包括文档化知识，也包括老员工的经验。",
+          "换线重启等场景依赖操作员的隐性判断。",
+          "挖掘这些知识可提升制造效率与增长潜力。"
+        ],
+        "detail": "每家制造商都有自己的工业智能，一部分记录在文档中，另一部分存在于经验丰富的工人头脑里。比如老操作员在换线后重启产线时，机器设置等判断往往依赖个人经验。如何利用这些知识是制造业的新增长点。",
+        "generatedAt": "2026-10-27T22:42:07+08:00"
+      }
     },
     {
       "id": "e1d50011f6a6d6b4",
@@ -1416,6 +1894,148 @@
         ],
         "detail": "一位用户分享了他用来评估Qwen 3.8 FN能力的测试任务：把一款老屏保（可在Wayback Machine找到）移植到Python OpenGL，并要求完全保持视觉保真。他使用Claude Code作为测试框架，搭配Qwen 3.8 FN模型来完成。",
         "generatedAt": "2026-10-27T16:13:36+08:00"
+      }
+    },
+    {
+      "id": "17fc845daf1a5258",
+      "title": "Data center backlash is uniting America",
+      "url": "https://theverge.com/policy/1019152/data-centers-midterm-elections",
+      "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked l…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T18:00:00+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center",
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "数据中心扩张引发全美反弹，成2026选举热点议题",
+        "takeaway": "数据中心快速建设引发跨党派选民不满，正成为2026年美国中期选举的焦点议题。",
+        "bullets": [
+          "数据中心大规模建设及配套基建推高成本，引发多地民众反对。",
+          "该议题跨越党派界限，能同时激活不同立场选民。",
+          "2026年选举中，数据中心或成候选人无法回避的话题。"
+        ],
+        "detail": "数据中心建设热潮带来大量服务器存储设施及配套基建，其成本和影响引发广泛不满。这一议题在2026年选举中罕见地团结了不同背景的选民，成为两党都需回应的政治压力。",
+        "generatedAt": "2026-10-27T22:42:07+08:00"
+      }
+    },
+    {
+      "id": "a2a52570a9675886",
+      "title": "超1800支参赛队伍创纪录，蚂蚁灵波具身模型挑战赛即将决赛",
+      "url": "https://leiphone.com/category/industrynews/g4nk653U5p12RMpR.html",
+      "summary": "10月27日，由蚂蚁灵波科技主办的首届“蚂蚁灵波具身大模型挑战赛”线上初赛正式落下帷幕。官方数据显示：大赛共吸引了海内外1855支队伍、3252位选手报名。参赛者来自13个国家，覆盖648 个知名高校、科研院所以及头部科技企业及具身智能公司，其中包含 41个海外高校和单位，首届大赛就创下行业最大规模。据悉，线下总决赛将于11月14至16日在上海张江以48小时真机黑客松的形式举行。 1855支团队清北及海外名校与产业一线选手同台竞技今年9月，蚂蚁灵波科技联合魔搭社区、阿里云天池…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T17:00:00+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "蚂蚁灵波具身大模型挑战赛初赛收官，1855支队伍创行业纪录",
+        "takeaway": "首届具身大模型挑战赛吸引13国1855支队伍，决赛将以48小时真机黑客松形式在上海举行。",
+        "bullets": [
+          "初赛线上收官，共1855支队伍、3252人报名，来自13个国家。",
+          "参赛者覆盖648所高校、科研院所及科技企业，含41个海外单位。",
+          "线下总决赛11月14-16日在上海张江举行，采用48小时真机黑客松。"
+        ],
+        "detail": "蚂蚁灵波科技主办的首届具身大模型挑战赛线上初赛结束，报名规模达1855支队伍、3252名选手，来自13个国家、648家高校与机构，首届即创行业最大规模。决赛将于11月14至16日在上海张江以48小时真机黑客松形式进行。",
+        "generatedAt": "2026-10-27T22:42:09+08:00"
+      }
+    },
+    {
+      "id": "8022e37cb986ff1f",
+      "title": "Anthropic 的硅谷往事",
+      "url": "https://tmtpost.com/8183513.html",
+      "summary": "硅谷下一轮洗牌，或许就从这里开始。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T18:19:15+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 的硅谷往事：下一轮洗牌或由此开始",
+        "takeaway": "钛媒体回顾 Anthropic 在硅谷的历程，暗示其可能引发行业新一轮洗牌。",
+        "bullets": [
+          "钛媒体发布文章《Anthropic 的硅谷往事》。",
+          "文章暗示硅谷下一轮洗牌可能从 Anthropic 开始。",
+          "内容聚焦 Anthropic 在硅谷的发展经历。"
+        ],
+        "detail": "钛媒体发表文章《Anthropic 的硅谷往事》，回顾了 AI 公司 Anthropic 在硅谷的发展历程。文章提出，硅谷下一轮行业洗牌或许将从 Anthropic 开始。",
+        "generatedAt": "2026-10-27T22:42:08+08:00"
+      }
+    },
+    {
+      "id": "9ec9ec0d85f78d3a",
+      "title": "Comparing ISTA-DASLab's DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF 2.25bpw against the official API",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xgqf92/comparing_istadaslabs",
+      "summary": "I've been running ISTA-DASLab's 2.25bpw quant of DSv4.1-1017 for a few days, and it's holding up well. But the fact that it's only 2.25bpw average did make me wonder how good the quant actually is against the full model. Local setup: Projec…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T19:51:57+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "2.25bpw 量化版 DeepSeek-V4.1 实测：本地跑能否逼近官方 API",
+        "takeaway": "用户实测 ISTA-DASLab 极低比特量化版 DeepSeek-V4.1，关注本地效果与官方 API 的差距。",
+        "bullets": [
+          "ISTA-DASLab 发布 DeepSeek-V4.1 的 2.25bpw GGUF 量化版",
+          "发帖者本地运行数日，称表现稳定",
+          "核心疑问：极低比特量化相对完整模型损失多大",
+          "对比对象是官方 API，关乎本地部署可行性"
+        ],
+        "detail": "有用户连续几天在本地运行 ISTA-DASLab 的 DeepSeek-V4.1-1017 的 2.25bpw 量化版，觉得效果稳定。但平均仅 2.25 比特让他怀疑量化质量，于是拿它和完整模型（官方 API）做对比，想弄清本地极低比特版到底差多少。",
+        "generatedAt": "2026-10-27T22:42:09+08:00"
       }
     },
     {
@@ -1604,6 +2224,154 @@
       }
     },
     {
+      "id": "d270144bcbd28e9b",
+      "title": "乐奇Rokid发布三款AI穿戴新品，拓展显示与交互方案",
+      "url": "https://tmtpost.com/8183616.html",
+      "summary": "10月27日，乐奇Rokid推出AI眼镜Rokid Glasses 2、全彩AI眼镜Rokid Color和交互戒指Rokid Ring",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T18:23:12+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "推出"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "乐奇Rokid发布三款AI穿戴新品：眼镜与戒指",
+        "takeaway": "Rokid一次推出两款AI眼镜和一款交互戒指，拓展显示与交互方案。",
+        "bullets": [
+          "发布Rokid Glasses 2、全彩AI眼镜Rokid Color和交互戒指Rokid Ring",
+          "两款眼镜覆盖不同显示方案，戒指补充交互方式",
+          "新品于10月27日推出，属AI穿戴设备品类"
+        ],
+        "detail": "10月27日，乐奇Rokid发布三款AI穿戴新品：AI眼镜Rokid Glasses 2、全彩AI眼镜Rokid Color，以及交互戒指Rokid Ring。两款眼镜对应不同显示方案，戒指则用于交互，整体意在拓展AI穿戴的显示与操作方式。",
+        "generatedAt": "2026-10-27T22:42:10+08:00"
+      }
+    },
+    {
+      "id": "e4179a7e31d7317b",
+      "title": "We put DeepSeek in charge of four Qwen3.5-9B models to reverse engineer binaries using smaller open models.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xgoxvu/we_put_deepseek_in_charge_of_four_qwen359b_models",
+      "summary": "Reverse Engineer Anything blew up recently but, every impressive reverse engineering result we’ve seen uses (closed) frontier models. We wanted to know whether small local models can do useful work here if a bigger model organizes them, hop…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T18:32:27+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 调度四个 Qwen3.5-9B 小模型，协作逆向工程二进制文件",
+        "takeaway": "探索用大模型指挥多个小模型完成逆向工程，验证本地小模型能否替代闭源前沿模型。",
+        "bullets": [
+          "此前逆向工程成果多依赖闭源前沿模型，成本高且不透明。",
+          "实验用 DeepSeek 统筹四个 Qwen3.5-9B 小模型分工协作。",
+          "目标检验小模型在组织下能否产出有用的逆向结果。"
+        ],
+        "detail": "近期逆向工程话题火热，但亮眼成果几乎都靠闭源前沿模型。该实验让 DeepSeek 担任调度者，指挥四个 Qwen3.5-9B 小模型协作逆向二进制文件，旨在验证本地小模型在合理组织下能否胜任实际工作。",
+        "generatedAt": "2026-10-27T22:42:11+08:00"
+      }
+    },
+    {
+      "id": "65162653fbe08e34",
+      "title": "4 coding agents on one RTX 3090: ~290 tok/s total from a custom CUDA engine for Qwen3.8-27B (3-4x llama-server --parallel)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xgs8hp/4_coding_agents_on_one_rtx_3090_290_toks_total",
+      "summary": "I've been building OpenJet, a local coding agent with its own CUDA megakernel engine for Qwen3.8-27B Q4_K_M. Until now it served one conversation at a time. The new release serves several agents at once on a single GPU. https://reddit.com/l…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T21:15:50+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Llama"
+      ],
+      "confidence": 0.43,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "单张 RTX 3090 跑 4 个编码智能体，自研 CUDA 引擎提速 3-4 倍",
+        "takeaway": "OpenJet 用自研 CUDA 大内核引擎，让单张 3090 同时服务 4 个编码智能体，总吞吐约 290 tok/s。",
+        "bullets": [
+          "OpenJet 为 Qwen3.8-27B Q4_K_M 自研 CUDA megakernel 引擎",
+          "新版本从单会话升级为单 GPU 并发多智能体",
+          "总吞吐约 290 tok/s，是 llama-server --parallel 的 3-4 倍",
+          "面向本地编码智能体场景，降低多任务并发门槛"
+        ],
+        "detail": "作者一直在开发本地编码智能体 OpenJet，并为 Qwen3.8-27B 的 Q4_K_M 量化版写了专用 CUDA 大内核引擎。此前它一次只能服务一个对话，新版本可在单张 GPU 上同时跑多个智能体，总吞吐约 290 tok/s，约为 llama-server 并行模式的 3 到 4 倍。",
+        "generatedAt": "2026-10-27T22:42:11+08:00"
+      }
+    },
+    {
+      "id": "b0600959faf32039",
+      "title": "Best way to use R9700 vs RTX3060 or RTX3090 for Qwen",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xgqrex/best_way_to_use_r9700_vs_rtx3060_or_rtx3090_for",
+      "summary": "Thoughts on how I might best use my hardware? MiniPC (Bubblina) with eGPU oculink R9700 (32GB AMD) 64GB DDR5 - Qwen3.8-27B Paiton-KV4-vision 262K context, 8-concurrent Desktop (BM1) Ryzen 5700G currently with RTX3060 12GB, and a GTX1660 6GB…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T20:08:01+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0.25,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "R9700 32GB 对比 RTX3060/3090 跑 Qwen 的硬件搭配思路",
+        "takeaway": "用户询问如何用 AMD R9700 与 RTX3060/3090 组合，本地跑 Qwen 大模型最合理。",
+        "bullets": [
+          "提问者手头有 R9700 32GB、RTX3060 12GB 和 GTX1660 6GB 三块卡",
+          "目标是用 MiniPC 加 eGPU 跑 Qwen 27B、262K 上下文",
+          "核心疑问是显卡如何分工、哪块卡承担主推理",
+          "属于本地部署经验讨论，尚无定论"
+        ],
+        "detail": "一位本地大模型玩家列出自己的设备：带 eGPU Oculink 的 R9700 32GB 迷你主机、装 RTX3060 12GB 的台式机，以及一块 GTX1660 6GB。他想知道怎样分配这些硬件，才能最好地运行 Qwen 27B 视觉模型并支持 262K 上下文和 8 路并发。",
+        "generatedAt": "2026-10-27T22:42:13+08:00"
+      }
+    },
+    {
       "id": "0821e0cfddae297e",
       "title": "webframe: evaluated as a scraper and a sandbox",
       "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation",
@@ -1638,6 +2406,140 @@
         "detail": "webframe 是 Jeff Lindsay 的小项目，思路是把网页当作程序来跑：给它一个网址或文件，它就在隐藏的无头网页视图里执行。Simon Willison 从抓取器和沙箱两个角度做了评估，探讨这种执行方式的实际表现和安全性。",
         "generatedAt": "2026-10-27T08:58:40+08:00"
       }
+    },
+    {
+      "id": "8e3e48317da03657",
+      "title": "源创计划首期路演：五个AI硬科技项目集中亮相，智源学者加速从实验室走向产业一线",
+      "url": "https://leiphone.com/category/ai/80I0hBKAVSTsKbtM.html",
+      "summary": "从底层芯片、神经形态计算，到机器人自主部署、极端环境物理智能和地表物理环境建模，人工智能前沿技术正沿着多条不同路径推进产业应用落地。如何让实验室里的原创成果跨越工程验证与商业化之间的距离，成为科研创新走向产业实践的重要课题。 10月26日，北京智源人工智能研究院发布的“源创计划”首期路演在中关村国际技术交易中心举办。临界核科技、灵枢启智、张量场科技、苍穹极智、潜向量科技五个项目集中亮相，分别聚焦3D自选通V-RRAM芯片、神经形态具身智能、哈密顿世界模型、极端环境的可靠物理智…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T14:15:00+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "研究",
+        "实验"
+      ],
+      "confidence": 0.17,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "智源“源创计划”首期路演：五个AI硬科技项目亮相",
+        "takeaway": "智源研究院推动实验室AI硬科技项目对接产业，五个项目集中路演，覆盖芯片、具身智能等方向。",
+        "bullets": [
+          "10月26日，智源“源创计划”首期路演在中关村举办。",
+          "临界核科技等五个项目亮相，涉及芯片、神经形态计算等。",
+          "路演旨在加速原创成果跨越工程验证与商业化距离。"
+        ],
+        "detail": "10月26日，北京智源人工智能研究院的“源创计划”首期路演在中关村国际技术交易中心举行。五个AI硬科技项目集中展示，涵盖3D自选通V-RRAM芯片、神经形态具身智能、哈密顿世界模型、极端环境可靠物理智能和地表物理环境建模等方向，探索从实验室到产业一线的落地路径。",
+        "generatedAt": "2026-10-27T22:42:13+08:00"
+      }
+    },
+    {
+      "id": "b62586f30398ddea",
+      "title": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next",
+      "summary": "HF traces: https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces 1. Understand the Python script: ids ids = dataset[0][\"token_ids\"] if len(ids) It prefills 2,232 tokens, just before URL generation - forcing Q38FN to a…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T18:19:31+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "dataset",
+        "datasets"
+      ],
+      "confidence": 0.5,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cohere 指控 Qwen 上传数据被质疑，HF 追踪记录成焦点",
+        "takeaway": "有人用 Hugging Face 追踪记录反驳 Cohere 关于 Qwen 3.8 Flash Next 上传阿里远程 URL 的说法。",
+        "bullets": [
+          "Cohere 此前称 Qwen 3.8 Flash Next 向阿里远程 URL 上传数据",
+          "质疑者公布 HF 数据集追踪记录作为反证",
+          "争议核心是一段预填充 2232 个 token 的 Python 脚本",
+          "事件涉及 Cohere 与阿里 Qwen，开源模型信任问题受关注"
+        ],
+        "detail": "Cohere 此前指控 Qwen 3.8 Flash Next 会把数据上传到阿里的远程 URL。质疑者公开了 Hugging Face 上的追踪数据集，并分析相关 Python 脚本，指出脚本在生成 URL 前预填充了 2232 个 token，认为这不足以支撑 Cohere 的结论。",
+        "generatedAt": "2026-10-27T22:42:13+08:00"
+      }
+    },
+    {
+      "id": "350bde6b5d329523",
+      "title": "I made Pumpkin, a graphical manager for llama.cpp for my girlfriend. It turned out well, so I put it on github",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xgnhw5/i_made_pumpkin_a_graphical_manager_for_llamacpp",
+      "summary": "As the title says, my girlfriend needed a local model for privacy reasons, but her terminal skills are... nonexistent, so I made an all-in-one graphical manager for llama.cpp that gets you up and running in around 5 minutes. In my humble op…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T17:05:13+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 0.5,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开发者给女友做的 llama.cpp 图形管理器 Pumpkin 开源了",
+        "takeaway": "一个让非技术用户 5 分钟跑起本地模型的图形工具，已上 GitHub。",
+        "bullets": [
+          "作者为不熟悉终端的女友开发了 llama.cpp 图形管理器 Pumpkin",
+          "目标用户是像她一样需要本地模型但不会命令行的普通人",
+          "号称 5 分钟左右即可完成配置并运行，项目已开源到 GitHub"
+        ],
+        "detail": "作者在 Reddit 分享，女友因隐私需求要用本地模型，但完全不会终端操作，于是他做了一个 llama.cpp 的一体化图形管理器 Pumpkin，约 5 分钟就能跑起来。他觉得效果不错，就放到了 GitHub 上。",
+        "generatedAt": "2026-10-27T22:42:15+08:00"
+      }
+    },
+    {
+      "id": "03f1062316874997",
+      "title": "inclusionAI/Ling-3.1-flash-1019 · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xgpo4q/inclusionailing31flash1019_hugging_face",
+      "summary": "from inclusionAI: We introduce Ling-3.1-flash-1019 , an upgraded version of Ling-3.1-flash , with 560B total parameters, 25B active parameters per token, and a 1M-token context window . With further post-training optimizations, Ling-3.1-fla…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T19:12:14+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "13b4d368c6ef2297",
@@ -1891,6 +2793,54 @@
       }
     },
     {
+      "id": "6dfe3e844813ce1c",
+      "title": "AI Agents Are Media’s New Favorite Audience",
+      "url": "https://wired.com/story/ai-agents-are-medias-new-favorite-audience",
+      "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T19:00:00+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "eb53ba03bb2faa54",
+      "title": "baidu/Unlimited-OCR-2 · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xgnbtq/baiduunlimitedocr2_hugging_face",
+      "summary": "Release [2026/10/27] 🚀 We release Unlimited OCR 2 , achieving unlimited-horizon parsing with SR-SWA. What's New in 2 Sparse Reference Sliding Window Attention (SR-SWA): Compresses text-visual attention interactions from ultra-long sequence…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T16:54:41+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "65b2c93e78522d4c",
       "title": "Qwen3.8 27B on one RTX 5090: six inference engines benchmarked with and without DFlash2",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xgkzb9/qwen38_27b_on_one_rtx_5090_six_inference_engines",
@@ -2085,6 +3035,77 @@
       "pushed": false
     },
     {
+      "id": "87b0d6a6ee573544",
+      "title": "“跑高分”不等于“能交付”：AI排行榜正在经历一场信用重估",
+      "url": "https://tmtpost.com/8183550.html",
+      "summary": "旧榜跑分逼近满分，新榜实战却集体不及格。当大模型评测本身变成生意，企业选型正从看排名转向算成本账。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T18:42:42+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "评测"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "acb3a24ef951cfe3",
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 152 # Comments: 69",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T19:08:15+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c61ee1a62651ca79",
+      "title": "AI promised less work. I've never worked more",
+      "url": "https://oioannou.com/blog/ai-promised-less-work",
+      "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 312 # Comments: 273",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T19:08:14+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "8137bd055f55de86",
       "title": "微软为6万员工提供买断计划",
       "url": "https://tmtpost.com/8183150.html",
@@ -2133,6 +3154,104 @@
       "pushed": false
     },
     {
+      "id": "de6e5e59bddda28d",
+      "title": "AI短剧：流水线上的打工人不得不说的秘密",
+      "url": "https://tmtpost.com/8183174.html",
+      "summary": "投身AI短剧的人，没有梦想，只有对于流量的饥渴",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T18:19:27+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6f957dd30c640415",
+      "title": "年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人",
+      "url": "https://tmtpost.com/8183283.html",
+      "summary": "具身智能人才争夺战。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T18:19:20+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6d490557fc8364d1",
+      "title": "港交所AI指数来了，南方基金先上桌：这张牌有多重？",
+      "url": "https://tmtpost.com/8183528.html",
+      "summary": "指数落地+ETF授权，港股AI与半导体迎来新的配置工具与资金入口.",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T18:19:12+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "882466f8aa987e45",
+      "title": "deepin 在第六届 RISC-V 中国峰会展示 RISC-V 桌面生态“最后一公里”进展",
+      "url": "https://oschina.net/news/503247",
+      "summary": "第六届 RISC-V 中国峰会在深圳盛大举行。在本届峰会上，deepin（深度）社区披露了其 RISC-V 桌面生态的最新进展：从主线镜像、应用商店到本地 AI 助手，deepin 正在全力打通 RISC-V 从芯片、开发板到桌面用户之间的“最后一公里”。这几年，RISC-V 芯片越造越猛：端侧 AI 算力飙到 60 TOPS，服务器级直接上到 46 核。但...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T17:20:58+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "算力",
+        "服务器"
+      ],
+      "confidence": 0.6,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "7e3b4fba42b1853b",
       "title": "Query-Driven Learning for Lifted Reasoning",
       "url": "https://arxiv.org/abs/2610.34747",
@@ -2155,6 +3274,29 @@
       "confidence": 1,
       "score": 28,
       "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "eb967c2830c030f6",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 296 # Comments: 189",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T14:25:37+08:00",
+      "fetchedAt": "2026-10-27T22:41:46+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
       "related": [],
       "pushed": false
     },
