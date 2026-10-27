@@ -78,9 +78,9 @@
     "lastOkDay": "2026-10-27"
   },
   "leiphone": {
-    "failDays": 0,
-    "lastFailDay": null,
-    "lastError": null,
+    "failDays": 1,
+    "lastFailDay": "2026-10-27",
+    "lastError": "HTTP 502",
     "lastOkDay": "2026-10-27"
   },
   "tmtpost": {
@@ -108,9 +108,9 @@
     "lastOkDay": "2026-10-27"
   },
   "hackernews": {
-    "failDays": 1,
-    "lastFailDay": "2026-10-27",
-    "lastError": "HTTP 502",
+    "failDays": 0,
+    "lastFailDay": null,
+    "lastError": null,
     "lastOkDay": "2026-10-27"
   },
   "localllama": {

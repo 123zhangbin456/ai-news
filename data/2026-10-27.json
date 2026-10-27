@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updatedAt": "2026-10-27T09:33:43+08:00",
+  "updatedAt": "2026-10-27T09:50:04+08:00",
   "items": [
     {
       "id": "786e5c9358c16742",
@@ -632,6 +632,43 @@
         ],
         "detail": "Kubernetes 1.37 正式发布，两项变化最受关注：Metrics API 升级为稳定版，监控与自动扩缩容所依赖的指标接口更可信；Rootless Kubelet 进入 Beta，kubelet 可以非 root 身份运行，降低节点被攻破后的权限风险。",
         "generatedAt": "2026-10-27T09:33:43+08:00"
+      }
+    },
+    {
+      "id": "a001f89f19883e47",
+      "title": "Nanbeige4.3-33B Q4 on a MacBook Pro M5 Max, mlx-lm vs llama.cpp vs Kapitsa, Prefill/Decode 512 to 32K range.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xgaupg/nanbeige4333b_q4_on_a_macbook_pro_m5_max_mlxlm_vs",
+      "summary": ". hey there, I measured Nanbeige4.3-33B (dense, 4-bit) on three Apple silicon engines: mlx-lm, llama.cpp and Kapitsa. The comparison covers prefill, decode, time to first token, follow-up latency and memory, at prompt lengths from 512 to 32…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T06:10:54+08:00",
+      "fetchedAt": "2026-10-27T09:49:53+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Nanbeige4.3-33B 在 M5 Max 上三引擎实测：mlx-lm、llama.cpp、Kapitsa 对比",
+        "takeaway": "有人在 MacBook Pro M5 Max 上对比了三种本地推理引擎跑 33B 4-bit 模型的表现，覆盖 512 到 32K 上下文。",
+        "bullets": [
+          "测试对象是 Nanbeige4.3-33B 稠密模型，4-bit 量化",
+          "对比 mlx-lm、llama.cpp、Kapitsa 三个 Apple 芯片推理引擎",
+          "指标含 prefill、decode、首 token 延迟、后续延迟和内存",
+          "提示长度覆盖 512 到 32K，长上下文表现是重点"
+        ],
+        "detail": "作者在 MacBook Pro M5 Max 上实测 Nanbeige4.3-33B 的 4-bit 版本，用 mlx-lm、llama.cpp 和 Kapitsa 三个引擎跑同一模型。测试覆盖 512 到 32K 的提示长度，记录预填充、解码、首 token 时间、后续请求延迟和内存占用，为本地长上下文推理选型提供参",
+        "generatedAt": "2026-10-27T09:50:03+08:00"
       }
     },
     {
