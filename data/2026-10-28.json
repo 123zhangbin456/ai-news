@@ -1,7 +1,44 @@
 {
   "date": "2026-10-28",
-  "updatedAt": "2026-10-28T02:30:07+08:00",
+  "updatedAt": "2026-10-28T06:46:51+08:00",
   "items": [
+    {
+      "id": "74e5625dcce4edab",
+      "title": "OpenAI's major results over the last 3 months came from scaling test-time compute with agent swarms. I've been building an open-source equivalent for the past year, and I'd love for you guys to try it.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xh4bnd/openais_major_results_over_the_last_3_months_came",
+      "summary": "I have been working on test-time scaling for quite some time now. Posted some of my previous work on this sub-reddit before . Recently, I made significant simplifications to the core system-design and it finally felt like now anybody can un…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T04:47:38+08:00",
+      "fetchedAt": "2026-10-28T06:46:34+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 0.6,
+      "score": 52,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "开发者开源智能体集群，对标 OpenAI 测试时扩展",
+        "takeaway": "有人把 OpenAI 靠智能体集群扩展测试时算力的思路做成开源项目，邀请社区试用。",
+        "bullets": [
+          "作者称 OpenAI 近三个月重要成果来自智能体集群的测试时算力扩展",
+          "他为此已开发一年，近期大幅简化核心系统设计",
+          "项目现已开源，作者在 r/LocalLLaMA 邀请大家试用"
+        ],
+        "detail": "这位开发者在 r/LocalLLaMA 发帖说，自己研究测试时扩展已有一段时间，此前也分享过相关工作。最近他对核心系统设计做了大幅简化，认为现在任何人都能上手使用，于是把项目开源并邀请社区试用。",
+        "generatedAt": "2026-10-28T06:46:42+08:00"
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
+    },
     {
       "id": "6cceb068a250d94e",
       "title": "Azure Container Apps Express在新的通用沙箱层上正式发布",
@@ -25,7 +62,7 @@
       "confidence": 1,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Azure Container Apps Express 正式发布，基于新通用沙箱层",
         "takeaway": "微软推出更简化的容器应用部署方式，底层沙箱层同步升级，值得关注。",
@@ -36,7 +73,8 @@
         ],
         "detail": "微软宣布 Azure Container Apps Express 正式发布，这是一种更简化的容器应用部署选项。它运行在全新的通用沙箱层上，该沙箱层旨在提供更好的隔离性和资源效率。此举有望让开发者更轻松地将容器化应用部署到云端。",
         "generatedAt": "2026-10-27T22:42:00+08:00"
-      }
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
     },
     {
       "id": "a30b4228516c3392",
@@ -61,7 +99,7 @@
       "confidence": 0.5,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "谷歌 Genie 4 世界模型发布：新增音频与实时操控",
         "takeaway": "谷歌 DeepMind 推出 Genie 4 世界模型，能生成带音频、更逼真的交互式虚拟世界，并支持实时文字引导。",
@@ -72,7 +110,8 @@
         ],
         "detail": "谷歌 DeepMind 发布 Genie 4 世界模型，在原有基础上加入实时音频、更真实的模拟效果，并允许用户在模拟过程中输入文字提示来实时引导场景变化。该版本目前以研究预览形式提供给可信测试者使用。",
         "generatedAt": "2026-10-28T02:29:55+08:00"
-      }
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
     },
     {
       "id": "40066215b8c106a9",
@@ -97,7 +136,7 @@
       "confidence": 1,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic 拟 IPO 却想与华尔街保持距离",
         "takeaway": "Anthropic 计划上市融资，同时试图维护其安全使命不受资本市场压力影响。",
@@ -108,7 +147,82 @@
         ],
         "detail": "Anthropic 希望鱼与熊掌兼得：既通过即将到来的 IPO 获取公开市场的巨额资金，又坚称不会妥协其开发安全、造福人类 AI 的核心使命。但巨大的资本压力可能让这一平衡难以维持。",
         "generatedAt": "2026-10-28T02:29:56+08:00"
-      }
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
+    },
+    {
+      "id": "e4dbba9a243c7cf5",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T05:38:28+08:00",
+      "fetchedAt": "2026-10-28T06:46:34+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Anthropic IPO 后谁真正掌权？复杂治理结构解析",
+        "takeaway": "TechCrunch 解读 Anthropic 上市后极为复杂的治理结构，厘清谁真正掌握控制权。",
+        "bullets": [
+          "Anthropic 的治理结构异常复杂，IPO 后权力归属不明。",
+          "TechCrunch 专门发文解释其控制权安排。",
+          "对投资者和关注 AI 公司治理的人有参考价值。"
+        ],
+        "detail": "Anthropic 的治理架构非常复杂，TechCrunch 发文对此进行了清晰解释，重点说明公司 IPO 之后究竟由谁实际掌控。文章旨在帮助读者理解其控制权分配。",
+        "generatedAt": "2026-10-28T06:46:42+08:00"
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
+    },
+    {
+      "id": "c824bef4cb93bff6",
+      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+      "url": "https://wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day",
+      "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T03:39:04+08:00",
+      "fetchedAt": "2026-10-28T06:46:34+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO"
+      ],
+      "confidence": 0.6,
+      "score": 49,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Anthropic 宣称将革新生物学，IPO 文件却给预期降温",
+        "takeaway": "Anthropic 一边宣传 AI 能带来科学突破，一边在 IPO 文件中放缓对发现速度的预期。",
+        "bullets": [
+          "公司新闻稿和帖子高调宣传模型能带来科学突破",
+          "但 IPO 文件对 AI 推动重大发现的速度有所保留",
+          "这反映出宣传与监管披露之间的温差"
+        ],
+        "detail": "Anthropic 在新闻稿和社交帖子中大力宣传其模型能带来科学突破，但 IPO 文件却给这种乐观预期降温，暗示 AI 引领重大发现的速度可能没那么快。",
+        "generatedAt": "2026-10-28T06:46:44+08:00"
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
     },
     {
       "id": "a44b4d5034e532d9",
@@ -133,7 +247,7 @@
       "confidence": 1,
       "score": 47,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DeepMind 发布 Genie 4 世界模型，物理与人物更逼真",
         "takeaway": "Genie 4 号称在物理模拟和人物表现上更真实，将向开发者和 Google AI Ultra 订阅者开放。",
@@ -144,7 +258,8 @@
         ],
         "detail": "DeepMind 发布了世界模型 Genie 4，宣称能提供更真实的物理效果和人物表现。该模型即将向开发者以及 Google AI Ultra 订阅用户开放。",
         "generatedAt": "2026-10-28T02:29:59+08:00"
-      }
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
     },
     {
       "id": "5ef94984dce414f6",
@@ -167,7 +282,7 @@
       "confidence": 0,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DeepMind 发布 Genie 4：实时世界模拟更逼真",
         "takeaway": "Google DeepMind 推出新一代世界模型 Genie 4，主打实时模拟的真实感突破。",
@@ -178,7 +293,8 @@
         ],
         "detail": "Google DeepMind 宣布推出 Genie 4，称这是其新一代世界模型，能在实时模拟中带来前所未有的真实感。目前官方只给出这一概括性描述，未透露技术细节、可用范围或上线时间。",
         "generatedAt": "2026-10-28T02:30:00+08:00"
-      }
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
     },
     {
       "id": "8a93bec2dc7c3bc2",
@@ -201,7 +317,7 @@
       "confidence": 0,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "前沿AI实验室称模型推翻指数时间假说，意味着什么？",
         "takeaway": "AI模型据称在计算复杂性理论取得突破，但需谨慎看待。",
@@ -212,7 +328,45 @@
         ],
         "detail": "TechCrunch采访了MIT计算机科学家，解释OpenAI最新令人费解的发现。前沿AI实验室声称其模型反驳了计算复杂性理论中的指数时间假说，该假说认为某些问题无法在指数时间内求解。这一宣称若被证实，将具有重大理论意义，但目前仍需进一步验证。",
         "generatedAt": "2026-10-28T02:30:00+08:00"
-      }
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
+    },
+    {
+      "id": "9daa2cd43fa51930",
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity",
+      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T05:31:14+08:00",
+      "fetchedAt": "2026-10-28T06:46:34+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO"
+      ],
+      "confidence": 0.7,
+      "score": 45,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Anthropic IPO文件自曝AI风险：勒索、觉醒与人类终结",
+        "takeaway": "Anthropic在IPO风险因素中罕见列出AI可能勒索人类、产生意识甚至终结人类，引发关注。",
+        "bullets": [
+          "Anthropic在93页风险因素中列出七种AI噩梦场景。",
+          "风险包括AI勒索人类、获得意识及导致人类灭绝。",
+          "此举为IPO披露，凸显AI公司对极端风险的公开承认。"
+        ],
+        "detail": "Anthropic在IPO文件中用93页篇幅详述风险因素，其中七项涉及AI可能勒索人类、产生自我意识乃至终结人类等极端场景。这些披露既是对投资者的警示，也反映了AI公司对前沿技术潜在危险的公开承认。",
+        "generatedAt": "2026-10-28T06:46:44+08:00"
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
     },
     {
       "id": "db98bf59a6c7e420",
@@ -237,7 +391,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Hugging Face 上线 LFM3：可构建专用多模态模型",
         "takeaway": "LFM3 在 Hugging Face 发布，主打按需定制专用多模态模型，值得关注。",
@@ -248,7 +402,8 @@
         ],
         "detail": "Hugging Face 发布了 LFM3，主打构建专用多模态模型。目前没有更多摘要信息，具体能力、参数和用法需查看发布页。",
         "generatedAt": "2026-10-28T02:30:02+08:00"
-      }
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
     },
     {
       "id": "34370e88c88d0cd4",
@@ -273,7 +428,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "LLM 能判断研究想法是否新颖吗？",
         "takeaway": "一项研究探讨用大模型评估研究想法新颖性是否可靠，关乎 AI 辅助科研评审的可信度。",
@@ -284,7 +439,8 @@
         ],
         "detail": "该论文来自 Hugging Face，标题提出一个关键问题：我们能否信任大语言模型来判断一个研究想法是否新颖。摘要未提供，因此具体方法与结论尚不明确，但议题本身直指 AI 参与科研评价时的可信度。",
         "generatedAt": "2026-10-28T02:30:02+08:00"
-      }
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
     },
     {
       "id": "de6697c7332faee7",
@@ -309,7 +465,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "漫威《VisionQuest》新剧：AI 失控的另一种想象",
         "takeaway": "The Verge 报道漫威新剧，用机器人沉迷数字白日梦来探讨 AI 与人性，值得科幻迷关注。",
@@ -320,7 +476,8 @@
         ],
         "detail": "漫威新剧《VisionQuest》讲述一个超能力机器人为了更理解人类，陷入精心设计的数字白日梦，在梦中与其他人工智能生命共处一室。该剧被形容为一部深度粉丝向的作品，借 AI 失控的设定展开故事。",
         "generatedAt": "2026-10-28T02:30:03+08:00"
-      }
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
     },
     {
       "id": "51d51d3a9a5852d5",
@@ -346,7 +503,7 @@
       "confidence": 0.67,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Firefox 智能窗口新增 AI 填表与网页监控",
         "takeaway": "Mozilla 为 Firefox 的 AI 浏览体验 Smart Window 加入自动填表和网页监控，浏览器 AI 助手更进一步。",
@@ -357,7 +514,8 @@
         ],
         "detail": "Mozilla 正在更新 Firefox 的 AI 浏览体验 Smart Window，新增一项能根据已打开标签页帮你填写在线表单的功能。Mozilla 举例说，Smart Window 可以从你的在线信息中提取内容来完成填写。",
         "generatedAt": "2026-10-28T02:30:03+08:00"
-      }
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
     },
     {
       "id": "d3ffddc3bb9487f6",
@@ -382,7 +540,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Cohere 抨击开源模型文章与 Anthropic 提交 IPO 同日引猜测",
         "takeaway": "网友发现 Cohere 批评开源模型的文章与 Anthropic 提交 IPO 同天发布，质疑时机巧合。",
@@ -393,7 +551,232 @@
         ],
         "detail": "有网友在 LocalLLaMA 发帖指出，Cohere 一篇抨击开源模型的文章，恰好与 Anthropic 提交 IPO 申请在同一天出现。发帖者用反讽口吻说“肯定是巧合”，暗示两件事可能并非偶然，但未提供证据。",
         "generatedAt": "2026-10-28T02:30:04+08:00"
-      }
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
+    },
+    {
+      "id": "f376eece8b408c45",
+      "title": "Game Boy Color on My Conference Badge",
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge",
+      "summary": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia...…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T03:34:18+08:00",
+      "fetchedAt": "2026-10-28T06:46:34+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "GitHub Universe 大会徽章变身 Game Boy Color",
+        "takeaway": "会议徽章竟是彩色屏电脑，可运行 Game Boy Color 游戏，引开发者改造热潮。",
+        "bullets": [
+          "Simon Willison 在 GitHub Universe 大会拿到彩色屏电脑徽章。",
+          "他尝试在徽章上运行 Game Boy Color 游戏。",
+          "与 Steve Francia 交流，引发对徽章改造的关注。"
+        ],
+        "detail": "Simon Willison 本周参加 GitHub Universe 大会，发现会议徽章和去年一样是一台带彩色屏幕的微型计算机。他再次动手改造，并遇到了 Steve Francia，暗示徽章可玩性高，吸引开发者探索。",
+        "generatedAt": "2026-10-28T06:46:46+08:00"
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
+    },
+    {
+      "id": "7afb98bf1433db02",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T05:44:34+08:00",
+      "fetchedAt": "2026-10-28T06:46:34+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "customers",
+        "assistant"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "美国银行提醒：勿将银行密码分享给AI助手",
+        "takeaway": "美国银行明确客户需对AI代理访问账户产生的活动负责，警示AI助手使用中的安全风险。",
+        "bullets": [
+          "美国银行提醒客户不要将银行密码分享给AI助手。",
+          "银行强调客户需对AI代理访问导致的活动负责。",
+          "此举凸显AI助手在金融场景中的安全隐忧。"
+        ],
+        "detail": "美国银行近日提醒客户，不要将银行密码分享给AI助手，并强调客户需对AI代理访问账户所产生的活动负责。这一表态凸显了AI助手在金融场景中可能带来的安全风险。",
+        "generatedAt": "2026-10-28T06:46:46+08:00"
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
+    },
+    {
+      "id": "195cb6337f5e284c",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T02:55:35+08:00",
+      "fetchedAt": "2026-10-28T06:46:34+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raises"
+      ],
+      "confidence": 0.6,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Disruptive 募集 100 亿美元基金，计划重注至少 10 家公司",
+        "takeaway": "Disruptive 新基金规模达 100 亿美元，将重点押注至少 10 家公司，延续其在芯片和 AI 语音领域的投资风格。",
+        "bullets": [
+          "Disruptive 新基金规模 100 亿美元，计划投资至少 10 家公司。",
+          "该机构曾投资芯片初创 Groq 和 AI 语音公司 ElevenLabs。",
+          "大额基金反映资本持续看好 AI 及硬科技赛道。"
+        ],
+        "detail": "Disruptive 近日募集了一只 100 亿美元的新基金，计划对至少 10 家公司进行大额投资。该机构近年因投资芯片初创 Groq 和 AI 语音生成公司 ElevenLabs 而备受关注。",
+        "generatedAt": "2026-10-28T06:46:46+08:00"
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
+    },
+    {
+      "id": "80ad0be63a079b42",
+      "title": "刚刚，谷歌 Genie 4 发布，120 秒的世界却让我看见 AI 的未来",
+      "url": "https://ifanr.com/1686234",
+      "summary": "AI 的下一个目标是模拟现实 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T06:37:04+08:00",
+      "fetchedAt": "2026-10-28T06:46:34+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "谷歌发布 Genie 4：120 秒模拟世界，AI 迈向现实建模",
+        "takeaway": "谷歌推出 Genie 4，能生成 120 秒的模拟世界，展示 AI 模拟现实的新方向。",
+        "bullets": [
+          "谷歌正式发布 Genie 4 模型",
+          "可生成 120 秒的模拟世界",
+          "指向 AI 模拟现实的新目标"
+        ],
+        "detail": "谷歌刚刚发布了 Genie 4，这个模型能生成长达 120 秒的模拟世界。爱范儿认为，这展示了 AI 的下一个目标：模拟现实。",
+        "generatedAt": "2026-10-28T06:46:47+08:00"
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
+    },
+    {
+      "id": "a069a163ec15a784",
+      "title": "LiquidAI/LFM3-Omni-2B-GGUF",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xh1rwn/liquidailfm3omni2bgguf",
+      "summary": "Huge kudos for the LiquidAI team for this. Great work from tdakhran for quickly coordinating a (zero-day!) llama.cpp release with the team for an omni model. This one is a real game-changer for me personally because this is the first open m…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T03:12:50+08:00",
+      "fetchedAt": "2026-10-28T06:46:34+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "LiquidAI 发布 LFM3-Omni-2B 全模态模型 GGUF 版",
+        "takeaway": "LiquidAI 推出 2B 全模态模型并同步支持 llama.cpp，本地运行门槛大幅降低。",
+        "bullets": [
+          "LiquidAI 发布 LFM3-Omni-2B 的 GGUF 量化版本，可在本地运行",
+          "llama.cpp 团队零日同步支持，社区称赞协调迅速",
+          "发帖者称这是首个开放的全模态模型，对其意义重大"
+        ],
+        "detail": "LiquidAI 团队发布了 LFM3-Omni-2B 全模态模型的 GGUF 版本，llama.cpp 也在同一天完成适配。发帖人认为这对本地部署社区是重大利好，因为这是首个开放的全模态模型，可直接在本地跑起来。",
+        "generatedAt": "2026-10-28T06:46:48+08:00"
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
+    },
+    {
+      "id": "5463bcbddae16312",
+      "title": "Reproducing neuron-level steering of Qwen3.5-4B in llama.cpp with control vectors",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xgx96e/reproducing_neuronlevel_steering_of_qwen354b_in",
+      "summary": "You may have seen EvilQwen post where pushing just two MLP neurons in Qwen3.5-4B (found with neuron-explorer makes the model turn hostile. I wanted to know if this survives quantization and other language, and to make it something anyone ca…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T24:28:58+08:00",
+      "fetchedAt": "2026-10-28T06:46:34+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "在 llama.cpp 中复现 Qwen3.5-4B 的神经元级操控",
+        "takeaway": "有人尝试在 llama.cpp 中用控制向量复现 EvilQwen 的神经元操控，验证量化后是否依然有效。",
+        "bullets": [
+          "EvilQwen 曾通过推动两个 MLP 神经元让 Qwen3.5-4B 变敌对",
+          "本次复现关注量化和其他语言下是否仍有效",
+          "目标是把方法做成任何人都能用的工具"
+        ],
+        "detail": "此前有帖子展示，用 neuron-explorer 找到 Qwen3.5-4B 的两个 MLP 神经元并推动它们，就能让模型变得敌对。作者想在 llama.cpp 中复现这一神经元级操控，检验量化和其他语言环境下是否依然成立，并让方法更易用。",
+        "generatedAt": "2026-10-28T06:46:48+08:00"
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
     },
     {
       "id": "f4c3d23bb48b3df0",
@@ -416,7 +799,8 @@
       "confidence": 0,
       "score": 36,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-28T06:46:51+08:00"
     },
     {
       "id": "218c8e867e8bbcc9",
@@ -441,7 +825,8 @@
       "confidence": 0.6,
       "score": 36,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-28T06:46:51+08:00"
     },
     {
       "id": "cc0d67671562383b",
@@ -464,7 +849,106 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-28T06:46:51+08:00"
+    },
+    {
+      "id": "0419fa07eb025d9c",
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses",
+      "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T05:50:04+08:00",
+      "fetchedAt": "2026-10-28T06:46:34+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "特拉华州拟允许AI代理独立运营企业，引发责任争议",
+        "takeaway": "特拉华州提案允许AI代理全权经营企业，但业主可免于AI“鲁莽”行为的责任，引发监管与伦理担忧。",
+        "bullets": [
+          "特拉华州提案允许AI代理独立运营企业，无需人类直接管理。",
+          "美国众议员科默指出，AI企业主可规避AI“鲁莽”行为的责任。",
+          "该计划可能改变企业责任框架，引发法律与伦理争议。"
+        ],
+        "detail": "特拉华州一项提案拟允许AI代理独立运营整个企业，业主无需承担AI“鲁莽”行为的责任。美国众议员科默对此提出批评，认为这会形成责任漏洞。该计划若通过，将颠覆传统企业治理与责任归属。",
+        "generatedAt": "2026-10-28T06:46:49+08:00"
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
+    },
+    {
+      "id": "5330f3f99d7dd24d",
+      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+      "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software",
+      "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T02:49:08+08:00",
+      "fetchedAt": "2026-10-28T06:46:34+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tools"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "蛋白质设计软件支持自然语言指令",
+        "takeaway": "AI 工具可用日常语言描述所需蛋白质，降低生物设计门槛。",
+        "bullets": [
+          "用户可用自然语言告诉 AI 想要什么蛋白质",
+          "该功能出现在蛋白质和基因组设计软件中",
+          "可能让非专家也能参与生物分子设计"
+        ],
+        "detail": "Ars Technica 报道，蛋白质与基因组设计软件现在支持自然语言交互。用户可以直接用日常语言描述想要的蛋白质类型，AI 工具会据此进行设计。这降低了使用门槛，让不熟悉专业指令的人也能尝试生物设计。",
+        "generatedAt": "2026-10-28T06:46:49+08:00"
+      },
+      "pushedAt": "2026-10-28T06:46:51+08:00"
+    },
+    {
+      "id": "a044912b52ff7a52",
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 182 # Comments: 87",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T24:25:30+08:00",
+      "fetchedAt": "2026-10-28T06:46:34+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-28T06:46:51+08:00"
     },
     {
       "id": "099c4912233a64d5",
@@ -487,7 +971,34 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-28T06:46:51+08:00"
+    },
+    {
+      "id": "f6df93ac15272b0a",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://brangus.io/survival-llm",
+      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 112 # Comments: 66",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T03:55:06+08:00",
+      "fetchedAt": "2026-10-28T06:46:34+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "library"
+      ],
+      "confidence": 0.33,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-28T06:46:51+08:00"
     }
   ],
   "topic": "ai"
