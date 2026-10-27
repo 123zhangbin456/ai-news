@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updatedAt": "2026-10-27T07:01:38+08:00",
+  "updatedAt": "2026-10-27T10:30:17+08:00",
   "items": [
     {
       "id": "bf7f18e0418c7776",
@@ -1739,6 +1739,44 @@
         "generatedAt": "2026-10-26T22:25:56+08:00"
       },
       "pushedAt": "2026-10-27T07:01:38+08:00"
+    },
+    {
+      "id": "3fd7eaf632ce1d7c",
+      "title": "Zentrola 1.3.0：在 Codex、Claude Code 里查订阅额度、管团队成员",
+      "url": "https://oschina.net/news/503222",
+      "summary": "团队维护了多个 Codex、Claude Code 订阅账号，新同事来了，要分配权限和 Key；模型突然调用失败，要查是哪一个账号出了问题；任务做到一半，还想知道订阅额度够不够用。这些事情并不复杂，却常常需要离开客户端，切回后台逐项处理。 Zentrola 1.3.0 把其中一部分日常操作带进了 AI Coding 客户端：通过明确授权的 Acce...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T21:57:40+08:00",
+      "fetchedAt": "2026-10-27T10:30:05+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "客户",
+        "订阅"
+      ],
+      "confidence": 0.5,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Zentrola 1.3.0 发布：在 AI 编程客户端内管理订阅与团队",
+        "takeaway": "新版本让用户无需离开 Codex 或 Claude Code 客户端，即可查额度、管成员、排查账号问题。",
+        "bullets": [
+          "支持在 Codex、Claude Code 内直接查看订阅额度",
+          "可管理团队成员权限与 Key 分配",
+          "能快速定位模型调用失败的账号问题",
+          "通过明确授权的 Access 机制实现"
+        ],
+        "detail": "Zentrola 1.3.0 针对团队多账号管理痛点，将查额度、分配权限、排查故障等操作集成到 AI 编程客户端中。用户不再需要切回后台逐项处理，通过授权机制即可在 Codex 或 Claude Code 内完成日常管理。",
+        "generatedAt": "2026-10-27T10:30:17+08:00"
+      }
     },
     {
       "id": "bfd11a35be91fae2",
