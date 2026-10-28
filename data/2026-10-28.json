@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updatedAt": "2026-10-28T10:38:55+08:00",
+  "updatedAt": "2026-10-28T17:02:26+08:00",
   "items": [
     {
       "id": "a2f907c053dad857",
@@ -41,6 +41,48 @@
       "pushedAt": "2026-10-28T08:48:12+08:00"
     },
     {
+      "id": "bf8923f08c52b833",
+      "title": "史上最大IPO临门，腾讯、阿里、字节抢卡：Anthropic和中国大厂一起为算力上头",
+      "url": "https://tmtpost.com/8184064.html",
+      "summary": "为什么中国互联网大厂还要集中采购一款性能逊于顶级数据中心芯片的英伟达显卡？推理算力的需求究竟增长到了什么程度？这场抢卡潮，又会如何影响国产芯片的商业化进程？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T14:11:47+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "算力",
+        "显卡",
+        "英伟达",
+        "数据中心",
+        "国产芯片"
+      ],
+      "confidence": 0.26,
+      "score": 59,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic与腾讯阿里字节抢卡，算力需求引爆史上最大IPO",
+        "takeaway": "中国大厂集中采购英伟达显卡，凸显推理算力需求激增，或影响国产芯片商业化。",
+        "bullets": [
+          "腾讯、阿里、字节等中国互联网大厂正集中采购英伟达显卡。",
+          "抢卡潮反映推理算力需求大幅增长，性能非顶级仍被抢购。",
+          "Anthropic的IPO与抢卡潮交织，算力成行业焦点。",
+          "国产芯片商业化进程可能受此轮采购影响。"
+        ],
+        "detail": "中国互联网大厂为何抢购性能逊于顶级数据中心芯片的英伟达显卡？这背后是推理算力需求的快速增长。这场抢卡潮与Anthropic的史上最大IPO同时发生，可能影响国产芯片的商业化进程。",
+        "generatedAt": "2026-10-28T17:02:11+08:00"
+      }
+    },
+    {
       "id": "1b16f2a2a47a7683",
       "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
       "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
@@ -74,6 +116,85 @@
         ],
         "detail": "Anthropic即将IPO，风险投资机构将从中赚取数十亿美元。但最新披露的大规模债转股显示，亚马逊对Anthropic的持股比例远超外界想象，使其成为这场IPO的最大赢家。",
         "generatedAt": "2026-10-28T09:30:39+08:00"
+      }
+    },
+    {
+      "id": "d6c73340e2b0201d",
+      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+      "url": "https://qbitai.com/2026/10/505928.html",
+      "summary": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:04:48+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 1,
+      "score": 54,
+      "related": [
+        {
+          "title": "智能指数得分创新高！蚂蚁百灵开源Ling-3.1-flash-1019：让Personal Agent走向真实业务",
+          "url": "https://infoq.cn/article/wIuu0NSaLSaqJJpXVExD",
+          "source": "InfoQ 中国"
+        }
+      ],
+      "pushed": false,
+      "interpret": {
+        "headline": "蚂蚁百灵开源 Ling-3.1-flash-1019，个人智能体迈向真实任务",
+        "takeaway": "蚂蚁开源新模型，主打个人智能体执行真实任务，值得关注其落地能力。",
+        "bullets": [
+          "蚂蚁集团百灵大模型于10月28日开源 Ling-3.1-flash-1019",
+          "该模型定位个人智能体，强调走向真实任务场景",
+          "开源意味着开发者可自由使用和二次开发"
+        ],
+        "detail": "10月28日，蚂蚁集团旗下的百灵大模型正式开源了 Ling-3.1-flash-1019。该模型面向个人智能体场景，强调从对话走向真实任务执行。开源后开发者可获取模型进行研究和应用开发。",
+        "generatedAt": "2026-10-28T17:02:11+08:00"
+      }
+    },
+    {
+      "id": "1065766b3bc56448",
+      "title": "GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
+      "url": "https://infoq.cn/article/28VVsANi9FBYRKfUz8vA",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T18:37:05+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GPT-6.1 Terra 发布：速度提升 3 倍，价格仅 1/10",
+        "takeaway": "新模型主打高性价比，速度更快、价格更低，事实错误率大幅下降。",
+        "bullets": [
+          "GPT-6.1 Terra 发布，速度比旗舰快 3 倍",
+          "价格仅为旗舰的 1/10，大幅降低使用成本",
+          "事实错误率暴降近 70%，可靠性显著提升"
+        ],
+        "detail": "GPT-6.1 Terra 正式发布，相比旗舰模型速度提升 3 倍，价格却只有后者的十分之一。同时，其事实错误率下降近 70%，在保持高效低成本的同时提升了输出准确性。",
+        "generatedAt": "2026-10-28T17:02:12+08:00"
       }
     },
     {
@@ -296,6 +417,44 @@
         ],
         "detail": "OpenAI 周一公布了在数学、计算机科学和物理领域的多项突破，并表示正在改进成果沟通方式。但研究者似乎并不买账，仍对该公司封锁关键信息、限制外界了解其突破的做法感到不满。",
         "generatedAt": "2026-10-28T08:48:08+08:00"
+      }
+    },
+    {
+      "id": "11117ece89ad158c",
+      "title": "Diffuspace/Clover-35B-A3B-Preview · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xhinyj/diffuspaceclover35ba3bpreview_hugging_face",
+      "summary": "Clover-35B-A3B-Preview is the first model released by DiffuSpace , delivering state-of-the-art performance among open-source diffusion language models at release on the benchmarks reported in our launch blog . Clover combines a 35B-paramete…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T16:43:16+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "launch",
+        "preview"
+      ],
+      "confidence": 0.4,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DiffuSpace 发布首个扩散语言模型 Clover-35B-A3B-Preview",
+        "takeaway": "开源扩散语言模型新选手 Clover 亮相，号称发布时在报告基准上达到开源同类最佳。",
+        "bullets": [
+          "DiffuSpace 推出首个模型 Clover，采用扩散式语言模型架构。",
+          "模型规模 35B 参数，A3B 或指激活参数约 3B 的稀疏设计。",
+          "官方称其在发布博客所列基准上为开源扩散语言模型最佳。"
+        ],
+        "detail": "DiffuSpace 发布了首个模型 Clover-35B-A3B-Preview，属于扩散语言模型路线。官方表示，在发布博客报告的基准测试中，该模型发布时在开源扩散语言模型中性能最佳。模型为 35B 参数规模，名称中的 A3B 暗示可能采用约 3B 激活参数的稀疏架构。",
+        "generatedAt": "2026-10-28T17:02:13+08:00"
       }
     },
     {
@@ -589,6 +748,116 @@
         ],
         "detail": "DeepMind 推出 Genie 4 世界模型，最大进步不在画质而在声音：它能原生同步生成画面、音乐、环境声和对话，模拟中推倒石头会同时出现画面和声响。技术基于 Gemini 家族，由 Gemini Omni 负责让模拟贴近真实世界的样貌与物理行为。",
         "generatedAt": "2026-10-28T10:38:55+08:00"
+      }
+    },
+    {
+      "id": "cd9852d1dca79b7d",
+      "title": "OpenAI 称其模型证明了局部光滑化猜想，并推翻指数时间假设",
+      "url": "https://oschina.net/news/503268",
+      "summary": "OpenAI 昨天一口气放出三个领域的\"模型独立发现\"，数学、计算机科学、物理各一个，并且把证明材料公开、请学术界来验证。发布这篇的意义可能比结果本身更大——这是 OpenAI 首次系统性地把内部模型的前沿科研产出摆到台面上，邀请外部审查。数学这项在调和分析：模型证明了所有维度的局部光滑化猜想（Local Smoothing C...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T13:59:31+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 模型连破数学、计算机、物理三领域难题",
+        "takeaway": "OpenAI 首次公开模型独立科研成果，请学术界验证，意义或超结果本身。",
+        "bullets": [
+          "模型证明所有维度的局部光滑化猜想，属调和分析领域。",
+          "同时推翻计算机科学中的指数时间假设，并取得物理发现。",
+          "证明材料已公开，OpenAI 邀请外部学术审查验证。"
+        ],
+        "detail": "OpenAI 一次性公布模型在数学、计算机科学和物理三个领域的独立发现。数学方面证明了调和分析中所有维度的局部光滑化猜想；计算机科学方面推翻了指数时间假设。OpenAI 公开证明材料并请学术界验证，这是其首次系统性展示模型的前沿科研产出。",
+        "generatedAt": "2026-10-28T17:02:13+08:00"
+      }
+    },
+    {
+      "id": "9c773001382af54b",
+      "title": "微软向6万员工发出自愿离职邀请，补偿至少N+2；身家2800亿的梁文锋，被曝长期在北京租房；苹果否认iPhone Duo为赶产能放宽质检",
+      "url": "https://leiphone.com/category/zaobao/SXb4aJpFWlpTjfkN.html",
+      "summary": "要闻提示 1.加码AI精简人力！微软向 6 万员工发出自愿离职邀请，补偿至少N+2 2.DeepSeek大举扩充团队！梁文锋2800亿首登富豪榜前十，被曝长期在北京租房 3.iPhone Duo被曝为赶产能放宽质检！苹果客服否认 4.抖音回应中国互联网进入字节时间：极不严谨，纯属瞎扯 5.破案了！腾讯企鹅岛楼上外挂的神秘黄色物体，真面目终于曝光 6.阿里巴巴起诉美国国防部取得初步胜利，法院叫停相关禁令 7.姆巴佩争议言论引众怒！小红书声明：正持续核查并下架姆巴佩相关物料 8.…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T09:11:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "起诉",
+        "禁令"
+      ],
+      "confidence": 0.2,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软向6万员工发自愿离职邀请，补偿至少N+2",
+        "takeaway": "微软加码AI精简人力，向6万员工提供自愿离职补偿，AI转型下人力结构调整加速。",
+        "bullets": [
+          "微软向6万员工发出自愿离职邀请，补偿至少N+2。",
+          "此举与加码AI、精简人力有关，涉及大量员工。",
+          "DeepSeek扩充团队，梁文锋身家2800亿登富豪榜前十。",
+          "苹果否认iPhone Duo为赶产能放宽质检。"
+        ],
+        "detail": "微软向约6万名员工发出自愿离职邀请，补偿至少为N+2，意在加码AI并精简人力。同时，DeepSeek大举扩充团队，创始人梁文锋以2800亿身家首次进入富豪榜前十，被曝长期在北京租房。苹果客服否认iPhone Duo为赶产能放宽质检。",
+        "generatedAt": "2026-10-28T17:02:14+08:00"
+      }
+    },
+    {
+      "id": "9815e3a6646a75ed",
+      "title": "微软要一刀裁掉大半个Meta，Copilot沦为重灾区",
+      "url": "https://tmtpost.com/8184436.html",
+      "summary": "不接受邀请，不保证以后不被裁哦",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T13:55:28+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "copilot"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软裁员波及Meta？Copilot团队成重灾区",
+        "takeaway": "微软大规模裁员，Copilot部门受影响严重，规模或与Meta相当。",
+        "bullets": [
+          "微软启动裁员，Copilot团队受影响最大。",
+          "裁员规模可能接近Meta此前的大幅裁员。",
+          "员工若不接受邀请，未来可能被裁。"
+        ],
+        "detail": "微软正在进行大规模裁员，其中Copilot团队成为重灾区，裁员规模可能接近Meta此前的大幅裁员。报道还提到，员工如果不接受邀请，未来可能面临被裁风险。",
+        "generatedAt": "2026-10-28T17:02:15+08:00"
       }
     },
     {
@@ -926,6 +1195,113 @@
       }
     },
     {
+      "id": "252e2075c3779585",
+      "title": "“AI之王”Anthropic，给马斯克、黄仁勋们打工",
+      "url": "https://tmtpost.com/8184181.html",
+      "summary": "Anthropic是处在狂奔阶段的现象级公司。其身处一个可能决定人类走势的行业，又是这个行业的王者，估值注定不会低。但这个王者透支了自己未来的营收，领先优势也并非永恒。现阶段是上市的最佳时机。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T14:11:56+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "估值",
+        "上市"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic估值高企，却难逃为巨头打工",
+        "takeaway": "AI领军者Anthropic虽估值领先，但营收透支、优势不牢，上市时机成关键。",
+        "bullets": [
+          "Anthropic被视为AI行业王者，估值注定不低。",
+          "但其透支未来营收，领先优势并非永恒。",
+          "现阶段或是其上市最佳时机。"
+        ],
+        "detail": "Anthropic是AI领域狂奔的现象级公司，身处可能决定人类走势的行业且处于领先地位，估值自然很高。但它已透支未来营收，领先优势也不稳固，因此当前被认为是上市的最佳窗口。",
+        "generatedAt": "2026-10-28T17:02:15+08:00"
+      }
+    },
+    {
+      "id": "34b8dc238e440e52",
+      "title": "Anthropic 也在给云厂商打工",
+      "url": "https://tmtpost.com/8183810.html",
+      "summary": "终于开始赚钱，还不够填补未来。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T13:25:59+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 盈利仍难摆脱云厂商依赖",
+        "takeaway": "Anthropic 虽开始赚钱，但收入仍不足以覆盖未来投入，且高度依赖云厂商。",
+        "bullets": [
+          "Anthropic 终于实现盈利，但规模尚小。",
+          "盈利不足以支撑未来庞大的算力与研发开支。",
+          "其商业模式仍受制于云厂商，议价能力有限。"
+        ],
+        "detail": "据钛媒体报道，AI 公司 Anthropic 终于开始赚钱，但盈利规模还不足以填补未来的资金需求。同时，它依然高度依赖云厂商提供算力等基础设施，本质上仍在为云厂商“打工”。",
+        "generatedAt": "2026-10-28T17:02:16+08:00"
+      }
+    },
+    {
+      "id": "dd18d4a655639df7",
+      "title": "7 美元控住 50.1% 投票权：Anthropic的真实面目",
+      "url": "https://tmtpost.com/8183945.html",
+      "summary": "万亿美元招股书里的五个反常识细节",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T13:25:50+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "亿美元"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "7美元控50.1%投票权：Anthropic招股书里的反常识",
+        "takeaway": "Anthropic招股书披露仅7美元掌控50.1%投票权，揭示其治理与估值反常识。",
+        "bullets": [
+          "Anthropic招股书显示7美元即可控制50.1%投票权。",
+          "万亿美元估值背后存在五个反常识细节。",
+          "特殊股权结构让创始人以极低成本掌握控制权。"
+        ],
+        "detail": "钛媒体报道，Anthropic的招股书披露了五个反常识细节，其中最引人注目的是仅用7美元就能控制50.1%的投票权。这反映出公司通过特殊股权设计，让创始人或核心团队以极低成本保持对公司的绝对控制，即便估值高达万亿美元。",
+        "generatedAt": "2026-10-28T17:02:17+08:00"
+      }
+    },
+    {
       "id": "80ad0be63a079b42",
       "title": "刚刚，谷歌 Genie 4 发布，120 秒的世界却让我看见 AI 的未来",
       "url": "https://ifanr.com/1686234",
@@ -1034,6 +1410,76 @@
         ],
         "detail": "Skyeye 是一个面向制造企业的云平台，采用零代码开发模式，内置上百种电子流程，覆盖客户、项目、生产、办公、人事、财务等管理场景。此次 v4.1.9 版本发布，继续突出 AI 应用与零代码结合，旨在提供一体化的智能制造管理方案。",
         "generatedAt": "2026-10-28T10:38:55+08:00"
+      }
+    },
+    {
+      "id": "a7b75594ae3a5ba0",
+      "title": "AI的“时薪”，正在超越“打工人”的身价",
+      "url": "https://tmtpost.com/8183987.html",
+      "summary": "凭“薪”而论，现在国内外的顶级AI，已经战胜了绝大多数的人类员工。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T13:26:14+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI“时薪”超越人类员工身价",
+        "takeaway": "顶级AI的“时薪”已超过多数人类员工，引发对AI成本与人力价值的重新思考。",
+        "bullets": [
+          "国内外顶级AI的“时薪”已高于绝大多数人类员工。",
+          "这一对比来自钛媒体的分析，凸显AI使用成本与人力成本的倒挂。",
+          "可能促使企业重新评估AI投入与人力配置的性价比。"
+        ],
+        "detail": "钛媒体文章指出，按“时薪”计算，目前国内外顶级AI的成本效益已经超过绝大多数人类员工。这意味着在部分场景下，使用AI比雇佣人力更划算，可能影响企业的用工决策。",
+        "generatedAt": "2026-10-28T17:02:17+08:00"
+      }
+    },
+    {
+      "id": "7b64ead3d098c15a",
+      "title": "When will google TPUs trickle down to the common folk?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xhdcwv/when_will_google_tpus_trickle_down_to_the_common",
+      "summary": "Seems all the major players are now buying TPUs. Will we ever have them local? https://x.com/rohanpaul_ai/status/2115261691906978233 Quote: ... OpenAI plans to buy AI chips from Google, ... Oracle will also offer TPUs through its cloud, ...…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T11:22:46+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chips"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌 TPU 何时能走进普通用户？",
+        "takeaway": "大厂纷纷采购 TPU，社区关心普通人何时能本地用上。",
+        "bullets": [
+          "OpenAI 计划向谷歌采购 AI 芯片",
+          "甲骨文将通过云服务提供 TPU",
+          "社区讨论 TPU 能否本地化使用"
+        ],
+        "detail": "Reddit 网友发问：主流玩家都在买谷歌 TPU，普通人何时能本地用上？帖子引用消息称 OpenAI 计划采购谷歌 AI 芯片，甲骨文也将在云上提供 TPU。",
+        "generatedAt": "2026-10-28T17:02:17+08:00"
       }
     },
     {
@@ -1160,6 +1606,43 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-10-28T06:46:51+08:00"
+    },
+    {
+      "id": "1de17a3284591a60",
+      "title": "3 Ways to Boost MoE Inference on NVIDIA DGX Spark",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xhdwtt/3_ways_to_boost_moe_inference_on_nvidia_dgx_spark",
+      "summary": "Optimization 1: Humming MXFP4 MoE backend Optimization 2: Online FP8 LM head quantization Optimization 3: MTP speculative decoding with NEXTN Configuration TPOT Decode throughput Relative to baseline Baseline 27.71 ms 36.09 tok/s — + Hummin…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T11:52:04+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "NVIDIA DGX Spark 上提升 MoE 推理性能的三种方法",
+        "takeaway": "社区分享三项优化，可显著改善 DGX Spark 上 MoE 模型的解码速度与吞吐。",
+        "bullets": [
+          "优化一：采用 Humming MXFP4 MoE 后端",
+          "优化二：在线 FP8 LM head 量化",
+          "优化三：结合 NEXTN 的 MTP 投机解码",
+          "基线 TPOT 27.71ms、吞吐 36.09 tok/s"
+        ],
+        "detail": "来自 r/LocalLLaMA 的分享给出三种在 NVIDIA DGX Spark 上加速 MoE 推理的手段：换用 Humming MXFP4 后端、对 LM head 做在线 FP8 量化、以及用 NEXTN 实现 MTP 投机解码。原文以基线 TPOT 27.71 毫秒、解码吞吐 36.09 tok/s 为参照，",
+        "generatedAt": "2026-10-28T17:02:19+08:00"
+      }
     },
     {
       "id": "cc0d67671562383b",
@@ -1330,6 +1813,386 @@
       }
     },
     {
+      "id": "5893a044bf5b6f56",
+      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+      "url": "https://wired.com/story/ai-emergency-alerts-coming-humans-not-ready",
+      "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T16:30:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI紧急警报即将到来，人类可能还没准备好",
+        "takeaway": "AI聊天机器人或能改善紧急通信，但人们是否认真对待仍是关键。",
+        "bullets": [
+          "AI紧急警报系统正在开发中，旨在帮助人类应对紧急通信难题。",
+          "聊天机器人可以协助传递紧急信息，但效果取决于人们是否重视。",
+          "人类在紧急沟通中本就存在困难，AI的介入可能带来改变。"
+        ],
+        "detail": "人类在紧急情况下的沟通一直是个难题。聊天机器人有望提供帮助，但前提是人们愿意认真对待它们发出的警报。",
+        "generatedAt": "2026-10-28T17:02:19+08:00"
+      }
+    },
+    {
+      "id": "4638e7c281c81558",
+      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+      "url": "https://wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges",
+      "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T14:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "court"
+      ],
+      "confidence": 0.33,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英国资深法官：AI可裁决大量民事案件，关键在划清边界",
+        "takeaway": "英格兰顶级法官Geoffrey Vos公开支持AI审理民事案件，引发司法AI边界的讨论。",
+        "bullets": [
+          "Vos认为AI能处理大量民事案件，但需明确适用界限",
+          "他是英格兰资深法官，表态可能影响司法系统对AI的采纳",
+          "核心争议在于哪些案件可交给AI、哪些必须由人裁决"
+        ],
+        "detail": "英格兰顶级法官Geoffrey Vos表示，AI可以裁决许多民事案件。他认为问题不在于能否，而在于应在哪里划界。这一表态为司法系统引入AI提供了高层支持，也引发对AI审判边界的讨论。",
+        "generatedAt": "2026-10-28T17:02:20+08:00"
+      }
+    },
+    {
+      "id": "cce9deb78d187427",
+      "title": "模型越来越强，落地却处处卡关？14位行业大佬拆解难题｜1024 模力工场 · AI社区日圆满收官",
+      "url": "https://infoq.cn/article/cJsKydV5kDNIwZr38UtT",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T24:57:57+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "模型越来越强，落地却处处卡关？14位大佬拆解AI落地难题",
+        "takeaway": "AI模型能力提升但落地困难，行业专家齐聚探讨破局之道。",
+        "bullets": [
+          "14位行业专家参与讨论AI落地卡关问题",
+          "活动由1024模力工场·AI社区日举办",
+          "聚焦模型强但应用难的现实矛盾"
+        ],
+        "detail": "尽管AI模型能力越来越强，但实际落地却面临诸多障碍。在1024模力工场·AI社区日上，14位行业大佬共同拆解这些难题，活动圆满收官。",
+        "generatedAt": "2026-10-28T17:02:21+08:00"
+      }
+    },
+    {
+      "id": "900c562f2bce95c0",
+      "title": "HarmonyOS 开发助手实测：从空工程开发到既有工程改造",
+      "url": "https://infoq.cn/article/rhTqlNxzHsQZKafzi5df",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T24:39:14+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "助手"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "HarmonyOS开发助手实测：从空工程到既有工程改造",
+        "takeaway": "InfoQ实测鸿蒙开发助手，展示其从零搭建到改造现有工程的能力，值得开发者关注。",
+        "bullets": [
+          "实测覆盖从空工程开发到既有工程改造的全流程",
+          "展示开发助手在鸿蒙应用开发中的实际表现",
+          "为开发者评估该工具提供参考"
+        ],
+        "detail": "InfoQ中国对HarmonyOS开发助手进行了实测，内容涵盖从创建空工程开始开发，到对既有工程进行改造的完整过程。文章通过实际操作为开发者展示了该助手的功能和适用场景。",
+        "generatedAt": "2026-10-28T17:02:22+08:00"
+      }
+    },
+    {
+      "id": "76414087de138658",
+      "title": "随着可观测性模式日趋成熟，OpenTelemetry 将 Kubernetes Attribute Processor 提升为稳定版本",
+      "url": "https://infoq.cn/article/LLuY09cQrWIslKeSjYGl",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T24:30:35+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenTelemetry 将 Kubernetes 属性处理器升级为稳定版",
+        "takeaway": "可观测性模式成熟，K8s 属性处理器转正，生产环境可放心用。",
+        "bullets": [
+          "OpenTelemetry 的 Kubernetes Attribute Processor 从实验升级为稳定版",
+          "该组件用于给 K8s 环境中的遥测数据附加属性",
+          "可观测性模式日趋成熟，稳定版意味着生产可用"
+        ],
+        "detail": "OpenTelemetry 宣布 Kubernetes Attribute Processor 进入稳定阶段。该处理器负责为 K8s 环境中的遥测数据补充属性信息，此前处于实验状态。随着可观测性模式逐渐成熟，这一组件转正后可用于生产环境。",
+        "generatedAt": "2026-10-28T17:02:23+08:00"
+      }
+    },
+    {
+      "id": "fa97a54f00b59104",
+      "title": "全国最大规模机器人App黑客松落幕：36小时跑通16款真机应用",
+      "url": "https://infoq.cn/article/sS5NxwrgaGGueVSLxvxM",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T24:26:22+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "应用",
+        "app"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "全国最大机器人App黑客松落幕：36小时跑通16款真机应用",
+        "takeaway": "一场机器人应用黑客松在36小时内产出16款真机应用，规模为全国最大。",
+        "bullets": [
+          "全国最大规模机器人App黑客松落幕",
+          "参赛者在36小时内跑通16款真机应用",
+          "聚焦机器人应用开发，强调真机落地"
+        ],
+        "detail": "InfoQ中国报道，一场全国最大规模的机器人App黑客松已经结束。参赛者在36小时内完成了16款可在真机上运行的应用，重点在于把机器人应用从想法推进到真机验证。",
+        "generatedAt": "2026-10-28T17:02:23+08:00"
+      }
+    },
+    {
+      "id": "6ece1e5121710f9b",
+      "title": "尤雨溪团队推出 Vite+ 1.0：JavaScript 工具链迎来“大一统”？",
+      "url": "https://infoq.cn/article/i9tPNHSGoArJ7m08pJ3h",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T21:39:35+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "工具链"
+      ],
+      "confidence": 0.25,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "尤雨溪团队发布 Vite+ 1.0，JavaScript 工具链走向统一",
+        "takeaway": "Vite 生态推出 1.0 版本，试图整合分散的 JS 工具链，值得前端开发者关注。",
+        "bullets": [
+          "尤雨溪团队推出 Vite+ 1.0",
+          "目标是统一 JavaScript 工具链",
+          "对前端构建与开发流程可能带来整合影响"
+        ],
+        "detail": "尤雨溪团队发布了 Vite+ 1.0，定位是整合 JavaScript 工具链。原文标题以“大一统”发问，说明其意在减少工具碎片化，具体能力与范围需看原文。",
+        "generatedAt": "2026-10-28T17:02:24+08:00"
+      }
+    },
+    {
+      "id": "1c5554f25d989a8b",
+      "title": "轻量化异构双臂 × VLA/世界模型：家庭服务具身机器人的落地实践",
+      "url": "https://infoq.cn/article/7yOK6Ri9Dt4VfITmA7Vb",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T20:05:43+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "轻量化异构双臂结合VLA与世界模型，家庭服务机器人落地实践",
+        "takeaway": "InfoQ分享家庭服务具身机器人方案，用异构双臂加VLA与世界模型推进落地。",
+        "bullets": [
+          "方案聚焦家庭服务场景的具身机器人落地",
+          "采用轻量化异构双臂硬件形态",
+          "结合VLA模型与世界模型做能力支撑"
+        ],
+        "detail": "InfoQ中国刊文介绍家庭服务具身机器人的落地实践。方案以轻量化异构双臂为硬件基础，并引入VLA模型与世界模型，探索这类机器人走进家庭场景的可行路径。",
+        "generatedAt": "2026-10-28T17:02:24+08:00"
+      }
+    },
+    {
+      "id": "508b538adf050321",
+      "title": "马斯克最新访谈：人类未来还能控制 AI 吗？",
+      "url": "https://tmtpost.com/8184044.html",
+      "summary": "作为 OpenAI 最早的发起人之一，马斯克的处境本身就充满矛盾：他打心底里警惕 AI 潜藏的生存危机，可回头看，自己当初的一系列行动，反而变相加速了 AI 狂奔的脚步，这种现实的讽刺，构成了整场对话的底色。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T13:55:30+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "访谈"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "马斯克谈AI控制悖论：警惕者却加速了AI狂奔",
+        "takeaway": "马斯克在访谈中反思自己作为OpenAI发起人，既警惕AI生存危机，又变相加速了AI发展。",
+        "bullets": [
+          "马斯克是OpenAI最早发起人之一，如今却对AI生存风险高度警惕。",
+          "他承认自己当初的行动反而加速了AI发展，形成现实讽刺。",
+          "访谈核心追问：人类未来还能否控制住AI。"
+        ],
+        "detail": "马斯克在最新访谈中展现出矛盾立场：他始终担心AI可能带来生存危机，但作为OpenAI早期发起人，他过去的举动客观上推动了AI快速进步。这种警惕与加速并存的讽刺，成为整场对话的基调，也引出了人类能否控制AI的追问。",
+        "generatedAt": "2026-10-28T17:02:25+08:00"
+      }
+    },
+    {
+      "id": "b32285e91b28eb25",
+      "title": "绿泡泡反攻，AI办公突围，腾讯被低估了",
+      "url": "https://tmtpost.com/8183887.html",
+      "summary": "腾讯的钱，不在用户时长里。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T13:25:52+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "腾讯以绿泡泡与AI办公突围，价值或被低估",
+        "takeaway": "钛媒体称腾讯正通过绿泡泡和AI办公寻求突破，其价值可能被市场低估。",
+        "bullets": [
+          "腾讯以绿泡泡和AI办公为方向寻求突围",
+          "钛媒体认为腾讯的价值被低估",
+          "文章指出腾讯的盈利点不在用户时长"
+        ],
+        "detail": "钛媒体文章指出，腾讯正通过绿泡泡和AI办公寻求突破，其价值可能被市场低估。文章强调，腾讯的盈利模式并非依赖用户时长，暗示其商业潜力未被充分认识。",
+        "generatedAt": "2026-10-28T17:02:25+08:00"
+      }
+    },
+    {
+      "id": "e627ad3a95c4cf61",
+      "title": "AI做中学创未来｜智源SoulAgent持续拓展教育应用",
+      "url": "https://leiphone.com/category/ai/TKr0YQ085uv1ME7X.html",
+      "summary": "10月19日至24日，北京智源人工智能研究院（以下简称“智源研究院”）连续走进中国人民大学附属中学，先后支持北京市“做中学”领航行动海淀区工作部署会暨科学与工程实践研讨会、“AI做中学，创未来——人工智能赋能创新人才培养研讨会”等活动，围绕SoulAgent在真实课堂、教研和学习场景中的应用开展实践与交流。 SoulAgent是智源研究院推出的“越用越懂你的个人智能体”。在教育场景中，SoulAgent围绕“帮我听课”、教师AI分身、作文批改、教学答疑等方向，探索AI如何帮助…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T11:19:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "应用"
+      ],
+      "confidence": 0.25,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "a044912b52ff7a52",
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
       "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
@@ -1352,6 +2215,29 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-10-28T06:46:51+08:00"
+    },
+    {
+      "id": "be35e852ed5555b6",
+      "title": "维基百科仍在坚持清理 AI 生成内容",
+      "url": "https://oschina.net/news/503262/wikipedia-wikiproject-ai-writing-cleanup",
+      "summary": "AI 生成内容越来越难以识别，但并未阻止维基百科对此进行清理。 2023 年 12 月，几个维基编辑在 Discord 上聊天，发现彼此都见过同一类文章：满篇\"作为……的见证\"（stands as a testament）、\"丰富的文化遗产\"，结尾必定带个结论段，或者干脆来一节叫\"这为什么重要\"。这是 2023 到 2024 年初 ChatGPT 的招牌文风，在维基...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T10:55:24+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "099c4912233a64d5",
@@ -1497,6 +2383,566 @@
       "keywords": [],
       "confidence": 0,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f19b6bc001679b43",
+      "title": "跑代码易，做任务难：AI编程迎来交付能力大考",
+      "url": "https://tmtpost.com/8184564.html",
+      "summary": "在真实的软件工程中，生成代码只是起点。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T14:46:01+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b58d8cbc2f8614fe",
+      "title": "涌进中小学的机器人草台班子",
+      "url": "https://tmtpost.com/8184425.html",
+      "summary": "智能化进校，到底是不是一件有意义的事？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T14:13:49+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "25f4d750ee5d0368",
+      "title": "顶刊给“AI医生”正名：会诊准确率高出人类一大截",
+      "url": "https://tmtpost.com/8183576.html",
+      "summary": "微软AI会诊登上《科学》杂志",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T14:11:54+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3351648a06e5be83",
+      "title": "具身智能的第一桶金，被车企先挣了",
+      "url": "https://tmtpost.com/8184213.html",
+      "summary": "汽车先蹚路，成为人形具身智能第一考场",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T13:25:55+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "698010dc1f6b6f2b",
+      "title": "Representing the Unseen: Rethinking Visual Imagination for Spatial Reasoning",
+      "url": "https://arxiv.org/abs/2610.37437",
+      "summary": "arXiv:2610.37437v1 Announce Type: cross Abstract: Visual world models increasingly support spatial reasoning by generating RGB views of unobserved states. However, RGB has become the default interface largely because it is well suited for v…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 12,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d2a96d0f5e6e01cf",
+      "title": "Ontology-guided multi-agent reasoning for explainable differential diagnosis",
+      "url": "https://arxiv.org/abs/2610.36325",
+      "summary": "arXiv:2610.36325v1 Announce Type: new Abstract: Effective differential diagnosis depends on well structured and unambiguous patient case descriptions, since incomplete or ambiguous clinical information readily leads to diagnostic errors and…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6da684344dc19af1",
+      "title": "OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning",
+      "url": "https://arxiv.org/abs/2610.36335",
+      "summary": "arXiv:2610.36335v1 Announce Type: new Abstract: Large language models (LLMs) perform well across many real-world tasks but remain prone to hallucination, limiting their reliability in domains such as biomedicine and healthcare, where answer…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0cda6fa8463bbb41",
+      "title": "Agent-Conditioned Routing: Diverse Reasoning Paths Within One Frozen Model",
+      "url": "https://arxiv.org/abs/2610.37375",
+      "summary": "arXiv:2610.37375v1 Announce Type: new Abstract: Generating several solutions can expose alternative methods, but additional trajectories often paraphrase one dominant approach. We investigate whether the conditional capacity of a frozen spa…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "eb7c22fdc0c2942f",
+      "title": "MLE-World: Predicting Machine Learning Experiment Outcomes with a Learned World Model",
+      "url": "https://arxiv.org/abs/2610.37175",
+      "summary": "arXiv:2610.37175v1 Announce Type: cross Abstract: AI research agents can propose, execute, and improve programs that solve machine learning tasks. However, executing each candidate program requires training and evaluating ML models, limitin…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1b736ff01f100ee6",
+      "title": "PerceptRL: Making Visual Perception Rewardable in MLLMs from Answers to Interactions",
+      "url": "https://arxiv.org/abs/2610.37471",
+      "summary": "arXiv:2610.37471v1 Announce Type: cross Abstract: Fine-grained visual perception remains a bottleneck during post-training of multimodal large language models (MLLMs), as perceptual errors can constrain gains from reasoning-focused optimiza…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ae4e2dbb41a7a356",
+      "title": "Understanding the limits of latent world models",
+      "url": "https://arxiv.org/abs/2610.37588",
+      "summary": "arXiv:2610.37588v1 Announce Type: cross Abstract: World models are widely proposed as core components for enabling agents to reason over long temporal and spatial horizons. Yet current evaluations often emphasize task performance while prov…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "df4d4dc927883400",
+      "title": "VideoLVR: Latent Visual Reasoning over Grounded Video Evidence",
+      "url": "https://arxiv.org/abs/2610.37613",
+      "summary": "arXiv:2610.37613v1 Announce Type: cross Abstract: Chain-of-thought reasoning has substantially advanced video understanding in multimodal large language models (MLLMs). However, language-based reasoning traces do not provide a reliable mech…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "bebb56ae3d0498a5",
+      "title": "Re4: Scientific Computing Agent with Rewriting, Resolution, Review and Revision",
+      "url": "https://arxiv.org/abs/2508.20729",
+      "summary": "arXiv:2508.20729v3 Announce Type: replace Abstract: Large language models (LLMs) have demonstrated abilities to perform complex tasks in multiple domains, including mathematical and scientific reasoning. In this work, we construct a novel a…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "96c346bfbd17cf03",
+      "title": "Distilling Metacognitive Behaviors through Agentic Editing",
+      "url": "https://arxiv.org/abs/2602.22508",
+      "summary": "arXiv:2602.22508v3 Announce Type: replace Abstract: Distilling long reasoning traces from a teacher model into a smaller student also passes on the teacher's reasoning habits. Prior work and our annotation of teacher traces show that curren…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "33857c1ce516c4d9",
+      "title": "Hedge-Bench: Benchmarking Agents on Hard, Realistic Tasks Pertaining to Financial Reasoning",
+      "url": "https://arxiv.org/abs/2606.03918",
+      "summary": "arXiv:2606.03918v2 Announce Type: replace Abstract: Modern AI agents are increasingly capable of routine financial-analysis tasks such as retrieving documents and updating spreadsheets. A harder challenge is forecasting an unknown future fr…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "dd1e47391d771a1f",
+      "title": "Streaming Communication in Multi-Agent Reasoning",
+      "url": "https://arxiv.org/abs/2606.05158",
+      "summary": "arXiv:2606.05158v3 Announce Type: replace-cross Abstract: Multi-agent reasoning systems adopt a generate-then-transfer paradigm that forces end-to-end latency to scale linearly with pipeline depth. We introduce StreamMA, a multi-agent reaso…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2d1f62281e3cf6a4",
+      "title": "DocSkill: Skill-Integrated Agentic Reasoning for Multilingual Multi-Hop Document Question Answering",
+      "url": "https://arxiv.org/abs/2610.36759",
+      "summary": "arXiv:2610.36759v1 Announce Type: new Abstract: Multilingual multi-hop document question answering (MMHop-DocQA) requires locating and integrating evidence across complex layouts, document pages, and diverse languages. Existing approaches i…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8e947bcd5604bf02",
+      "title": "PRISM-BENCH: Diagnosing Grounded and Faithful Multimodal Reasoning Beyond Final-Answer Accuracy",
+      "url": "https://arxiv.org/abs/2610.36554",
+      "summary": "arXiv:2610.36554v1 Announce Type: cross Abstract: Final-answer accuracy reports whether a vision-language model was right, but not whether its answer was grounded in the image, whether its stated reasoning reflects that evidence, or what th…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e03a41eeaff7ad0b",
+      "title": "Latent Visual Contrastive Reasoning with Multi-Branch Exploration",
+      "url": "https://arxiv.org/abs/2610.36809",
+      "summary": "arXiv:2610.36809v1 Announce Type: cross Abstract: Multimodal large language models have made substantial progress in visual question answering, but complex visual reasoning often requires locating and comparing multiple pieces of question-r…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "68576355952977de",
+      "title": "Uncovering Shortcut Amplification in Video RLVR through the Lens of Perceptual Uncertainty Collapse",
+      "url": "https://arxiv.org/abs/2610.37211",
+      "summary": "arXiv:2610.37211v1 Announce Type: cross Abstract: Reinforcement learning with verifiable rewards (RLVR) has emerged as an effective post-training paradigm for enhancing the video reasoning capability of Large Multimodal Models (LMMs). Despi…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "dec24219665a7d9e",
+      "title": "ShredBench: Evaluating the Semantic Reasoning Capabilities of Multimodal LLMs in Document Reconstruction",
+      "url": "https://arxiv.org/abs/2604.23813",
+      "summary": "arXiv:2604.23813v2 Announce Type: replace-cross Abstract: Multimodal Large Language Models (MLLMs) have achieved remarkable performance in Visually Rich Document Understanding (VRDU) tasks, but their capabilities are mainly evaluated on pri…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5876e7a1f71653ec",
+      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+      "url": "https://arxiv.org/abs/2610.36077",
+      "summary": "arXiv:2610.36077v1 Announce Type: new Abstract: Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneou…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T12:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 10,
       "related": [],
       "pushed": false
     }

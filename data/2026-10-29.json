@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updatedAt": "2026-10-28T02:30:07+08:00",
+  "updatedAt": "2026-10-28T17:02:26+08:00",
   "items": [
     {
       "id": "7de7788a86fe88ec",
@@ -39,6 +39,63 @@
         "detail": "谷歌宣布推出用于生成交互式体验的世界模型 Genie 4。官方表示该模型有四项主要更新，包括生成更逼真的世界，以及让用户通过自然语言实时更新体验。",
         "generatedAt": "2026-10-28T02:30:00+08:00"
       }
+    },
+    {
+      "id": "07f047f08c1e2cf2",
+      "title": "通过 SNMP 处理程序进行 ZCS 命令注入，实现未经身份验证的远程代码执行",
+      "url": "https://infoq.cn/article/UZHyp2ZTvI59sQWEtNSG",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T01:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ZCS 曝 SNMP 命令注入漏洞，可未授权远程执行代码",
+        "takeaway": "攻击者无需登录即可通过 SNMP 处理程序注入命令，远程控制 ZCS 系统，风险极高。",
+        "bullets": [
+          "漏洞位于 ZCS 的 SNMP 处理程序，可注入系统命令",
+          "无需身份验证即可利用，直接导致远程代码执行",
+          "影响所有使用该组件的 ZCS 部署，需尽快修补"
+        ],
+        "detail": "ZCS 的 SNMP 处理程序存在命令注入漏洞，攻击者无需任何认证就能向系统注入并执行任意命令，从而完全控制目标服务器。该漏洞危害严重，建议用户尽快更新或采取缓解措施。",
+        "generatedAt": "2026-10-28T17:02:21+08:00"
+      }
+    },
+    {
+      "id": "e4147c3e3c3b4dc4",
+      "title": "亚马逊云科技要给欧洲主权云“拔网线”，IAM 和 DNS 怎么办？",
+      "url": "https://infoq.cn/article/2jjIKte1WiTC0PyovkIJ",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T24:00:00+08:00",
+      "fetchedAt": "2026-10-28T17:02:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
