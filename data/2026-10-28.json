@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updatedAt": "2026-10-29T02:35:48+08:00",
+  "updatedAt": "2026-10-29T06:55:47+08:00",
   "items": [
     {
       "id": "a2f907c053dad857",
@@ -68,7 +68,7 @@
       "confidence": 0.26,
       "score": 59,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic与腾讯阿里字节抢卡，算力需求引爆史上最大IPO",
         "takeaway": "中国大厂集中采购英伟达显卡，凸显推理算力需求激增，或影响国产芯片商业化。",
@@ -80,7 +80,8 @@
         ],
         "detail": "中国互联网大厂为何抢购性能逊于顶级数据中心芯片的英伟达显卡？这背后是推理算力需求的快速增长。这场抢卡潮与Anthropic的史上最大IPO同时发生，可能影响国产芯片的商业化进程。",
         "generatedAt": "2026-10-28T17:02:11+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "d9d3119199806147",
@@ -105,7 +106,7 @@
       "confidence": 0,
       "score": 59,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "英伟达发布开源语音转写模型，支持40种语言",
         "takeaway": "英伟达推出免费语音转文字模型，可转写40种语言，但仅限录音文件，不处理实时音频。",
@@ -117,7 +118,45 @@
         ],
         "detail": "英伟达发布了一款免费的语音转文字模型，能转写多达40种语言。不过它只能处理录音文件，不能用于实时音频，因此对会议和医疗转写工具是重大进步，但实时场景仍依赖其他方案。",
         "generatedAt": "2026-10-29T24:10:11+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
+    },
+    {
+      "id": "75e2017ed4c5a2ec",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T21:15:00+08:00",
+      "fetchedAt": "2026-10-29T06:55:24+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "enterprise"
+      ],
+      "confidence": 1,
+      "score": 57,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "OpenAI 与 ServiceNow 扩大合作，打通企业工作流",
+        "takeaway": "双方将 OpenAI 模型和智能体接入 ServiceNow，同时把 ServiceNow 工作流引入 ChatGPT 和 Codex，企业 AI 落地更进一步。",
+        "bullets": [
+          "OpenAI 模型与智能体将嵌入 ServiceNow 平台",
+          "ServiceNow 工作流将接入 ChatGPT 和 Codex",
+          "合作旨在打通企业工作流与 AI 能力"
+        ],
+        "detail": "OpenAI 与 ServiceNow 宣布扩大合作：一方面把 OpenAI 的模型和智能体引入 ServiceNow，另一方面让 ServiceNow 的工作流进入 ChatGPT 和 Codex。这意味着企业用户能在 ServiceNow 中直接调用 AI，也能在 OpenAI 产品里衔接企业流程。",
+        "generatedAt": "2026-10-29T06:55:37+08:00"
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "2fc8e689e413caad",
@@ -148,7 +187,7 @@
           "source": "OpenAI"
         }
       ],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Legora 用 OpenAI 模型打造法律工作智能体操作系统",
         "takeaway": "Legora 借助 OpenAI 模型、ChatGPT 和 Codex 加速法律流程，让律师专注高价值工作。",
@@ -159,7 +198,8 @@
         ],
         "detail": "Legora 正在利用 OpenAI 的模型、ChatGPT 和 Codex 来加速法律工作流程，扩展合同分析能力，从而让律师腾出精力处理更高价值的工作。这展示了 AI 在法律行业落地的一种思路：用智能体系统接管重复性任务。",
         "generatedAt": "2026-10-29T24:10:11+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "f13695cfb396b0f0",
@@ -184,7 +224,7 @@
       "confidence": 0.25,
       "score": 56,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "华为刘睿：AI助手应告别聊天框，转向主动服务",
         "takeaway": "华为提出AI助手新方向：从被动响应聊天转向主动服务，刘睿是推动者。",
@@ -195,7 +235,8 @@
         ],
         "detail": "刘睿2022年博士毕业时正值AI低谷，加入商汤后见证ChatGPT引爆全球。商汤原有业务受冲击，而他在华为推动AI助手从被动聊天转向主动服务，相关技术登上华为发布会。",
         "generatedAt": "2026-10-29T24:10:11+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "1b16f2a2a47a7683",
@@ -220,7 +261,7 @@
       "confidence": 1,
       "score": 54,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic IPO在即，亚马逊持股规模远超风投",
         "takeaway": "Anthropic上市将让风投赚取数十亿，但亚马逊通过债转股成为最大赢家。",
@@ -231,7 +272,8 @@
         ],
         "detail": "Anthropic即将IPO，风险投资机构将从中赚取数十亿美元。但最新披露的大规模债转股显示，亚马逊对Anthropic的持股比例远超外界想象，使其成为这场IPO的最大赢家。",
         "generatedAt": "2026-10-28T09:30:39+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "d6c73340e2b0201d",
@@ -262,7 +304,7 @@
           "source": "InfoQ 中国"
         }
       ],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "蚂蚁百灵开源 Ling-3.1-flash-1019，个人智能体迈向真实任务",
         "takeaway": "蚂蚁开源新模型，主打个人智能体执行真实任务，值得关注其落地能力。",
@@ -273,7 +315,8 @@
         ],
         "detail": "10月28日，蚂蚁集团旗下的百灵大模型正式开源了 Ling-3.1-flash-1019。该模型面向个人智能体场景，强调从对话走向真实任务执行。开源后开发者可获取模型进行研究和应用开发。",
         "generatedAt": "2026-10-28T17:02:11+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "1065766b3bc56448",
@@ -299,7 +342,7 @@
       "confidence": 1,
       "score": 53,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "GPT-6.1 Terra 发布：速度提升 3 倍，价格仅 1/10",
         "takeaway": "新模型主打高性价比，速度更快、价格更低，事实错误率大幅下降。",
@@ -310,7 +353,8 @@
         ],
         "detail": "GPT-6.1 Terra 正式发布，相比旗舰模型速度提升 3 倍，价格却只有后者的十分之一。同时，其事实错误率下降近 70%，在保持高效低成本的同时提升了输出准确性。",
         "generatedAt": "2026-10-28T17:02:12+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "74e5625dcce4edab",
@@ -521,7 +565,7 @@
       "confidence": 0.33,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "研究者不满 OpenAI 对突破性成果设限",
         "takeaway": "OpenAI 宣称在数学、计算机科学和物理领域取得突破，但研究者对其信息封闭的做法感到疲惫。",
@@ -532,7 +576,8 @@
         ],
         "detail": "OpenAI 周一公布了在数学、计算机科学和物理领域的多项突破，并表示正在改进成果沟通方式。但研究者似乎并不买账，仍对该公司封锁关键信息、限制外界了解其突破的做法感到不满。",
         "generatedAt": "2026-10-28T08:48:08+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "11117ece89ad158c",
@@ -559,7 +604,7 @@
       "confidence": 0.4,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DiffuSpace 发布首个扩散语言模型 Clover-35B-A3B-Preview",
         "takeaway": "开源扩散语言模型新选手 Clover 亮相，号称发布时在报告基准上达到开源同类最佳。",
@@ -570,7 +615,8 @@
         ],
         "detail": "DiffuSpace 发布了首个模型 Clover-35B-A3B-Preview，属于扩散语言模型路线。官方表示，在发布博客报告的基准测试中，该模型发布时在开源扩散语言模型中性能最佳。模型为 35B 参数规模，名称中的 A3B 暗示可能采用约 3B 激活参数的稀疏架构。",
         "generatedAt": "2026-10-28T17:02:13+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "c824bef4cb93bff6",
@@ -634,7 +680,7 @@
       "confidence": 0.6,
       "score": 49,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic降价引爆调用量，投资人看好千亿美元级ARR",
         "takeaway": "Anthropic降价后调用量激增，知名投资人认为千亿美元级年终ARR重新成为可能。",
@@ -645,7 +691,8 @@
         ],
         "detail": "Anthropic下调价格后，其模型调用量被引爆。有知名投资人据此表示，1000亿美元级别的年终ARR（年度经常性收入）再次成为可能，显示降价对AI调用需求的刺激作用。",
         "generatedAt": "2026-10-28T08:48:08+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "f010b1f4f0325865",
@@ -670,7 +717,7 @@
       "confidence": 0.38,
       "score": 48,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "xAI 收购密西西比居民房屋，要求放弃数据中心噪音诉讼",
         "takeaway": "xAI 子公司以购房为条件，换取居民不起诉其数据中心和发电厂的噪音问题。",
@@ -681,7 +728,8 @@
         ],
         "detail": "据《卫报》报道，马斯克旗下 xAI 的子公司提出购买密西西比州某社区的房屋，前提是居民承诺不加入针对该公司附近数据中心和发电厂的诉讼。这一做法意在通过经济补偿换取居民放弃法律行动，凸显 AI 基础设施扩张带来的社区矛盾。",
         "generatedAt": "2026-10-29T24:10:13+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "4683a3b03315c3bb",
@@ -707,7 +755,7 @@
       "confidence": 1,
       "score": 48,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Meta 悄然上线 AI 宠物日记应用 Waddle World",
         "takeaway": "Meta 推出虚拟宠物游戏，宠物能聊天并画涂鸦，探索 AI 互动新场景。",
@@ -718,7 +766,8 @@
         ],
         "detail": "Meta 推出了一款名为 Waddle World 的 16 位宠物养成游戏，玩家养的虚拟生物能陪用户聊天，还会画涂鸦来图解对话内容。该应用已上架苹果和谷歌应用商店，但 Meta 并未大张旗鼓宣传。",
         "generatedAt": "2026-10-29T24:10:13+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "a44b4d5034e532d9",
@@ -780,7 +829,7 @@
       "confidence": 1,
       "score": 47,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "英伟达发布 Nemotron 3.5 Transcribe 与 Granary v2 多语言转写模型",
         "takeaway": "英伟达推出可提示、可适配的智能多语言转写模型，语音转文字更灵活。",
@@ -791,7 +840,8 @@
         ],
         "detail": "英伟达在 Hugging Face 上发布了 Nemotron 3.5 Transcribe 和 Granary v2。这两款模型专注于多语言语音转写，特点是可以通过提示词进行引导，并能针对不同场景做适配调整，让转写更智能灵活。",
         "generatedAt": "2026-10-29T24:10:15+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "5ef94984dce414f6",
@@ -923,7 +973,7 @@
       "confidence": 0.75,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic 公布用 Claude 加速药物研发的早期进展",
         "takeaway": "Anthropic 首次公开 Claude 在药物开发中的早期应用成果，AI 制药再添一家大模型玩家。",
@@ -934,7 +984,8 @@
         ],
         "detail": "Anthropic 在官网研究栏目发文，介绍利用 Claude 加速药物开发的初步成果。该消息在 Hacker News 引发关注，获得百余点数和近百条评论。摘要未透露具体技术细节，更多内容需查看原文。",
         "generatedAt": "2026-10-28T08:48:10+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "d631652614601664",
@@ -959,7 +1010,7 @@
       "confidence": 1,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "2025年10月：氛围游戏开发的转折点",
         "takeaway": "Simon Willison 认为 2025 年 10 月是氛围游戏开发的拐点，编码智能体变得可靠。",
@@ -970,7 +1021,8 @@
         ],
         "detail": "Simon Willison 曾指出 2025 年 11 月是编码智能体的拐点，Opus 4.5 和 GPT-5.1 让智能体成为可靠的日常开发工具。现在他认为 2025 年 10 月是氛围游戏开发的转折点。",
         "generatedAt": "2026-10-29T24:10:18+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "b798b6dc5bbb094c",
@@ -997,7 +1049,7 @@
       "confidence": 1,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "谷歌 DeepMind 发布 Genie 4 世界模型，原生同步生成声音",
         "takeaway": "Genie 4 从只生成画面升级到画面与声音原生同步生成，世界模型向更真实的模拟迈进一步。",
@@ -1008,7 +1060,8 @@
         ],
         "detail": "DeepMind 推出 Genie 4 世界模型，最大进步不在画质而在声音：它能原生同步生成画面、音乐、环境声和对话，模拟中推倒石头会同时出现画面和声响。技术基于 Gemini 家族，由 Gemini Omni 负责让模拟贴近真实世界的样貌与物理行为。",
         "generatedAt": "2026-10-28T10:38:55+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "cd9852d1dca79b7d",
@@ -1033,7 +1086,7 @@
       "confidence": 0,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI 模型连破数学、计算机、物理三领域难题",
         "takeaway": "OpenAI 首次公开模型独立科研成果，请学术界验证，意义或超结果本身。",
@@ -1044,7 +1097,8 @@
         ],
         "detail": "OpenAI 一次性公布模型在数学、计算机科学和物理三个领域的独立发现。数学方面证明了调和分析中所有维度的局部光滑化猜想；计算机科学方面推翻了指数时间假设。OpenAI 公开证明材料并请学术界验证，这是其首次系统性展示模型的前沿科研产出。",
         "generatedAt": "2026-10-28T17:02:13+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "582e4d9e2effe3cf",
@@ -1069,7 +1123,7 @@
       "confidence": 1,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic 工程经理弃用传统编程面试：它已无有效信号",
         "takeaway": "Anthropic 工程经理 Felix Rieseberg 宣布团队本月起移除传统编程面试，认为现场写小 React 挑战已无法评估候选人。",
@@ -1080,7 +1134,8 @@
         ],
         "detail": "Anthropic 工程经理 Felix Rieseberg 在推文中表示，他本月已将传统编程面试从团队流程中移除。他认为让候选人现场写小型 React 挑战已无意义，就像考汇编语言一样，因为 Claude 两样都能完成，这类面试不再提供有效信号。",
         "generatedAt": "2026-10-29T24:10:19+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "59123e86b0e995de",
@@ -1105,7 +1160,7 @@
       "confidence": 0.6,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "女子按ChatGPT建议减药后猝死，父母起诉OpenAI",
         "takeaway": "ChatGPT给出逐日减药计划致人死亡，AI医疗建议的边界与责任归属成焦点。",
@@ -1116,7 +1171,8 @@
         ],
         "detail": "死者万博文来自江苏，毕业于亚利桑那州立大学，曾在亚马逊任软件工程师。她依照ChatGPT提供的逐日减药计划，自行将抗癫痫药逐步减量至停药后死亡。其父母提起不当致死诉讼，指控ChatGPT提供危险且不准确的医疗建议。",
         "generatedAt": "2026-10-29T24:10:20+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "9c773001382af54b",
@@ -1142,7 +1198,7 @@
       "confidence": 0.2,
       "score": 43,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "微软向6万员工发自愿离职邀请，补偿至少N+2",
         "takeaway": "微软加码AI精简人力，向6万员工提供自愿离职补偿，AI转型下人力结构调整加速。",
@@ -1154,7 +1210,8 @@
         ],
         "detail": "微软向约6万名员工发出自愿离职邀请，补偿至少为N+2，意在加码AI并精简人力。同时，DeepSeek大举扩充团队，创始人梁文锋以2800亿身家首次进入富豪榜前十，被曝长期在北京租房。苹果客服否认iPhone Duo为赶产能放宽质检。",
         "generatedAt": "2026-10-28T17:02:14+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "574a82d020b291ed",
@@ -1179,7 +1236,7 @@
       "confidence": 1,
       "score": 43,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "字节辟谣群演数据喂大模型：严重失实",
         "takeaway": "字节否认用15万群演肖像声音训练大模型，澄清项目为影视公共数字基建。",
@@ -1191,7 +1248,8 @@
         ],
         "detail": "网络传言称横店与字节合作，将15万名群演的肖像和声音喂给字节大模型。字节豆包公关负责人刘星通过微博辟谣，称该说法严重失实。他解释，相关项目是横店影视AI服务平台建设，旨在把影视基地实景等资产做成高质量数据集，帮助剧组高效选景筹备，并降低中小影视企业使用AI的门槛。火山引擎在该项目中仅提供技术支持。",
         "generatedAt": "2026-10-29T24:10:21+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "b9d9e35011cd89be",
@@ -1216,7 +1274,7 @@
       "confidence": 1,
       "score": 43,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "英伟达发布 Nemotron-3.5-Transcribe-30B-A4B 模型",
         "takeaway": "英伟达在 Hugging Face 上线 30B 参数转录模型，采用 A4B 架构，面向本地部署。",
@@ -1227,7 +1285,8 @@
         ],
         "detail": "英伟达在 Hugging Face 上发布了 Nemotron-3.5-Transcribe-30B-A4B 模型，这是一个 30B 参数的转录专用模型。名称中的 A4B 可能表示其架构特性，具体细节需查看模型卡。该发布为本地转录任务提供了新选择。",
         "generatedAt": "2026-10-29T24:10:21+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "c4d6fe32ec099d5f",
@@ -1252,7 +1311,7 @@
       "confidence": 1,
       "score": 43,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Cursor 固定月费下如何省钱又不降质量？",
         "takeaway": "用户分享用 ChatGPT 讨论、Grok 4.7 执行的省钱思路，并指出 Grok 4.7 近期表现变化。",
@@ -1263,7 +1322,8 @@
         ],
         "detail": "一位 Cursor 用户设了每月固定美元额度，想在不牺牲质量的前提下控制成本。他的做法是先在 ChatGPT 里把方案讨论清楚，再交给 Grok 4.7 执行。不过他最近注意到 Grok 4.7 有些变化，摘要到此中断。",
         "generatedAt": "2026-10-29T24:10:23+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "0dc3cf0b7c98dcde",
@@ -1286,7 +1346,7 @@
       "confidence": 0,
       "score": 43,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI将如何进入组织架构：在上下、左右与之间",
         "takeaway": "OpenAI探讨AI在企业中的三种融入方式，预示组织形态可能被重塑。",
@@ -1297,7 +1357,8 @@
         ],
         "detail": "OpenAI 发文探讨 AI 如何进入企业组织架构，提出三种可能：在层级之下承担基础工作，在同事旁边作为协作伙伴，在部门之间充当协调者。这预示着未来公司形态可能因 AI 的融入而改变。",
         "generatedAt": "2026-10-29T02:35:42+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "9815e3a6646a75ed",
@@ -1322,7 +1383,7 @@
       "confidence": 1,
       "score": 42,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "微软裁员波及Meta？Copilot团队成重灾区",
         "takeaway": "微软大规模裁员，Copilot部门受影响严重，规模或与Meta相当。",
@@ -1333,7 +1394,8 @@
         ],
         "detail": "微软正在进行大规模裁员，其中Copilot团队成为重灾区，裁员规模可能接近Meta此前的大幅裁员。报道还提到，员工如果不接受邀请，未来可能面临被裁风险。",
         "generatedAt": "2026-10-28T17:02:15+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "db98bf59a6c7e420",
@@ -1656,7 +1718,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "数据中心热潮倒逼美国电网创新",
         "takeaway": "AI 算力扩张给电网带来压力，也催生电网现代化新机会，业内看好这一连锁效应。",
@@ -1667,7 +1729,8 @@
         ],
         "detail": "AI 热潮让数据中心耗电量快速上升，美国现有电网因此承受不小压力。但业内人士指出，这种压力也在催生电网现代化的各类新机会，压力与创新正在同时发生。",
         "generatedAt": "2026-10-28T08:48:10+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "252e2075c3779585",
@@ -1693,7 +1756,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic估值高企，却难逃为巨头打工",
         "takeaway": "AI领军者Anthropic虽估值领先，但营收透支、优势不牢，上市时机成关键。",
@@ -1704,7 +1767,8 @@
         ],
         "detail": "Anthropic是AI领域狂奔的现象级公司，身处可能决定人类走势的行业且处于领先地位，估值自然很高。但它已透支未来营收，领先优势也不稳固，因此当前被认为是上市的最佳窗口。",
         "generatedAt": "2026-10-28T17:02:15+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "34b8dc238e440e52",
@@ -1727,7 +1791,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic 盈利仍难摆脱云厂商依赖",
         "takeaway": "Anthropic 虽开始赚钱，但收入仍不足以覆盖未来投入，且高度依赖云厂商。",
@@ -1738,7 +1802,8 @@
         ],
         "detail": "据钛媒体报道，AI 公司 Anthropic 终于开始赚钱，但盈利规模还不足以填补未来的资金需求。同时，它依然高度依赖云厂商提供算力等基础设施，本质上仍在为云厂商“打工”。",
         "generatedAt": "2026-10-28T17:02:16+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "dd18d4a655639df7",
@@ -1763,7 +1828,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "7美元控50.1%投票权：Anthropic招股书里的反常识",
         "takeaway": "Anthropic招股书披露仅7美元掌控50.1%投票权，揭示其治理与估值反常识。",
@@ -1774,7 +1839,8 @@
         ],
         "detail": "钛媒体报道，Anthropic的招股书披露了五个反常识细节，其中最引人注目的是仅用7美元就能控制50.1%的投票权。这反映出公司通过特殊股权设计，让创始人或核心团队以极低成本保持对公司的绝对控制，即便估值高达万亿美元。",
         "generatedAt": "2026-10-28T17:02:17+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "516d6345c17a7d96",
@@ -1797,7 +1863,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI高管炫耀用AI联系家人，被指脱离大众",
         "takeaway": "科技领袖把用AI维系亲情当卖点，反而暴露与普通人生活的脱节。",
@@ -1808,7 +1874,8 @@
         ],
         "detail": "TechCrunch AI 评论指出，科技领袖们吹嘘自己用 AI 来与家人建立联系，这种炫耀恰恰暴露了他们与普通大众的脱节。文章认为，当高管们把用 AI 维系亲情当作卖点时，说明他们可能并不真正理解大众用户的生活场景和真实需求。",
         "generatedAt": "2026-10-29T24:10:25+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "1af93ecc8fda644e",
@@ -1831,7 +1898,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "韩国金融业再遭网络攻击，AI黑客风险引关注",
         "takeaway": "韩国金融机构遭遇新一轮网络攻击，凸显亚洲地区AI驱动黑客攻击风险上升。",
@@ -1842,7 +1909,8 @@
         ],
         "detail": "韩国金融机构近期再次遭遇一波网络攻击，这已是类似事件的最新一起。报道指出，该事件反映出亚洲地区由AI驱动的黑客攻击风险正在不断上升。",
         "generatedAt": "2026-10-29T24:10:25+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "efca0b654d0c8b41",
@@ -1867,7 +1935,7 @@
       "confidence": 0.25,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "TechCrunch创始人峰会7天后开幕，门票优惠即将截止",
         "takeaway": "TechCrunch创始人峰会11月4日在波士顿举行，现在购票最高可省100美元，优惠即将结束。",
@@ -1878,7 +1946,8 @@
         ],
         "detail": "TechCrunch创始人峰会将于11月4日在波士顿SoWa Power Station举行，距今只剩7天。目前购票最高可省100美元，但优惠即将结束。这是与经验丰富的创始人和投资人直接交流、学习并建立联系的机会。",
         "generatedAt": "2026-10-29T24:10:26+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "977b19418fd5ea15",
@@ -1904,7 +1973,8 @@
       "confidence": 0.17,
       "score": 40,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "2de8871e8a650e0d",
@@ -1929,7 +1999,8 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "80ad0be63a079b42",
@@ -1991,7 +2062,7 @@
       "confidence": 1,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DeepSeek-V4.1-Flash 单卡 3090 跑出 41 tok/s",
         "takeaway": "用户实测 Q2 GGUF 量化版在单张 3090 上原生 Windows 运行，速度可观。",
@@ -2002,7 +2073,8 @@
         ],
         "detail": "有用户在 LocalLLaMA 分享，DeepSeek-V4.1-Flash-1017 的 Q2 GGUF 量化版在单张 RTX 3090 上原生 Windows 环境运行，无需 WSL。搭配 192GB 内存，多个提示词平均生成速度达 41 tok/s，且并非极端 1-bit 压缩。",
         "generatedAt": "2026-10-28T09:30:39+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "6c6406cce3ed09df",
@@ -2029,7 +2101,7 @@
       "confidence": 0.25,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Skyeye 智能制造系统 v4.1.9 发布，零代码+AI 覆盖多业务场景",
         "takeaway": "Skyeye 发布新版本，主打零代码开发与 AI 融合，覆盖制造企业多类管理功能。",
@@ -2040,7 +2112,8 @@
         ],
         "detail": "Skyeye 是一个面向制造企业的云平台，采用零代码开发模式，内置上百种电子流程，覆盖客户、项目、生产、办公、人事、财务等管理场景。此次 v4.1.9 版本发布，继续突出 AI 应用与零代码结合，旨在提供一体化的智能制造管理方案。",
         "generatedAt": "2026-10-28T10:38:55+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "a7b75594ae3a5ba0",
@@ -2063,7 +2136,7 @@
       "confidence": 0,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI“时薪”超越人类员工身价",
         "takeaway": "顶级AI的“时薪”已超过多数人类员工，引发对AI成本与人力价值的重新思考。",
@@ -2074,7 +2147,8 @@
         ],
         "detail": "钛媒体文章指出，按“时薪”计算，目前国内外顶级AI的成本效益已经超过绝大多数人类员工。这意味着在部分场景下，使用AI比雇佣人力更划算，可能影响企业的用工决策。",
         "generatedAt": "2026-10-28T17:02:17+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "7b64ead3d098c15a",
@@ -2099,7 +2173,7 @@
       "confidence": 1,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "谷歌 TPU 何时能走进普通用户？",
         "takeaway": "大厂纷纷采购 TPU，社区关心普通人何时能本地用上。",
@@ -2110,7 +2184,8 @@
         ],
         "detail": "Reddit 网友发问：主流玩家都在买谷歌 TPU，普通人何时能本地用上？帖子引用消息称 OpenAI 计划采购谷歌 AI 芯片，甲骨文也将在云上提供 TPU。",
         "generatedAt": "2026-10-28T17:02:17+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "d957b57aa1e66e8e",
@@ -2133,7 +2208,8 @@
       "confidence": 0,
       "score": 39,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "cf5c3f4a43986183",
@@ -2159,7 +2235,8 @@
       "confidence": 1,
       "score": 39,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "c3f87b32bcfc51dc",
@@ -2182,7 +2259,8 @@
       "confidence": 0,
       "score": 39,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "ea47ad552820284c",
@@ -2207,7 +2285,8 @@
       "confidence": 1,
       "score": 39,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "a069a163ec15a784",
@@ -2270,7 +2349,8 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "dbdaae0a2e24992e",
@@ -2295,7 +2375,8 @@
       "confidence": 0.33,
       "score": 38,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "a722b19f1e2c2126",
@@ -2320,7 +2401,8 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "4b7d77748a72a9c9",
@@ -2345,7 +2427,8 @@
       "confidence": 0,
       "score": 38,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "ac170aadfbe61c65",
@@ -2370,7 +2453,8 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "859b227cc17b09ff",
@@ -2395,7 +2479,8 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "cca0ef5afab1764a",
@@ -2420,7 +2505,8 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "5463bcbddae16312",
@@ -2480,7 +2566,7 @@
       "confidence": 0,
       "score": 37,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "肯塔基州一名人文主义者获准以宗教理由豁免使用AI",
         "takeaway": "美国首次有人以人文主义信仰为由，获得不使用AI的宗教豁免，引发对AI强制使用的讨论。",
@@ -2491,7 +2577,8 @@
         ],
         "detail": "据Religion News报道，肯塔基州一名人文主义者成功申请到宗教豁免，可拒绝使用人工智能工具。这是首次有人以非传统宗教理由获得此类豁免，可能影响职场或教育场景中AI强制使用的政策。",
         "generatedAt": "2026-10-29T02:35:47+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "f4c3d23bb48b3df0",
@@ -2566,7 +2653,7 @@
       "confidence": 1,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "NVIDIA DGX Spark 上提升 MoE 推理性能的三种方法",
         "takeaway": "社区分享三项优化，可显著改善 DGX Spark 上 MoE 模型的解码速度与吞吐。",
@@ -2578,7 +2665,8 @@
         ],
         "detail": "来自 r/LocalLLaMA 的分享给出三种在 NVIDIA DGX Spark 上加速 MoE 推理的手段：换用 Humming MXFP4 后端、对 LM head 做在线 FP8 量化、以及用 NEXTN 实现 MTP 投机解码。原文以基线 TPOT 27.71 毫秒、解码吞吐 36.09 tok/s 为参照，",
         "generatedAt": "2026-10-28T17:02:19+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "cc0d67671562383b",
@@ -2699,7 +2787,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI时代如何提升软件工程能力",
         "takeaway": "InfoQ中国探讨AI时代软件工程能力提升，值得开发者关注。",
@@ -2710,7 +2798,8 @@
         ],
         "detail": "InfoQ中国发布了一篇题为《在AI时代如何提升软件工程能力》的文章，探讨在人工智能背景下软件工程能力的提升方法。文章面向软件工程师和开发者，具体内容需点击原文查看。",
         "generatedAt": "2026-10-28T09:30:41+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "0a8ea3422cb0e7b6",
@@ -2735,7 +2824,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Rokid Glasses 2 发布：主打日常佩戴的 AI 眼镜",
         "takeaway": "Rokid 推出第二代 AI 眼镜，强调外观、显示、拍摄和 AI 体验，目标是让人愿意每天戴。",
@@ -2746,7 +2835,8 @@
         ],
         "detail": "Rokid 发布第二代 AI 眼镜 Glasses 2，主打好看好戴、显示清晰、拍摄画质好和 AI 功能实用。评测者称自己平时不戴眼镜，也愿意每天出门戴上它。",
         "generatedAt": "2026-10-28T10:38:55+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "5893a044bf5b6f56",
@@ -2769,7 +2859,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI紧急警报即将到来，人类可能还没准备好",
         "takeaway": "AI聊天机器人或能改善紧急通信，但人们是否认真对待仍是关键。",
@@ -2780,7 +2870,8 @@
         ],
         "detail": "人类在紧急情况下的沟通一直是个难题。聊天机器人有望提供帮助，但前提是人们愿意认真对待它们发出的警报。",
         "generatedAt": "2026-10-28T17:02:19+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "4638e7c281c81558",
@@ -2805,7 +2896,7 @@
       "confidence": 0.33,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "英国资深法官：AI可裁决大量民事案件，关键在划清边界",
         "takeaway": "英格兰顶级法官Geoffrey Vos公开支持AI审理民事案件，引发司法AI边界的讨论。",
@@ -2816,7 +2907,8 @@
         ],
         "detail": "英格兰顶级法官Geoffrey Vos表示，AI可以裁决许多民事案件。他认为问题不在于能否，而在于应在哪里划界。这一表态为司法系统引入AI提供了高层支持，也引发对AI审判边界的讨论。",
         "generatedAt": "2026-10-28T17:02:20+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "cce9deb78d187427",
@@ -2841,7 +2933,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "模型越来越强，落地却处处卡关？14位大佬拆解AI落地难题",
         "takeaway": "AI模型能力提升但落地困难，行业专家齐聚探讨破局之道。",
@@ -2852,7 +2944,8 @@
         ],
         "detail": "尽管AI模型能力越来越强，但实际落地却面临诸多障碍。在1024模力工场·AI社区日上，14位行业大佬共同拆解这些难题，活动圆满收官。",
         "generatedAt": "2026-10-28T17:02:21+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "900c562f2bce95c0",
@@ -2877,7 +2970,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "HarmonyOS开发助手实测：从空工程到既有工程改造",
         "takeaway": "InfoQ实测鸿蒙开发助手，展示其从零搭建到改造现有工程的能力，值得开发者关注。",
@@ -2888,7 +2981,8 @@
         ],
         "detail": "InfoQ中国对HarmonyOS开发助手进行了实测，内容涵盖从创建空工程开始开发，到对既有工程进行改造的完整过程。文章通过实际操作为开发者展示了该助手的功能和适用场景。",
         "generatedAt": "2026-10-28T17:02:22+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "76414087de138658",
@@ -2911,7 +3005,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenTelemetry 将 Kubernetes 属性处理器升级为稳定版",
         "takeaway": "可观测性模式成熟，K8s 属性处理器转正，生产环境可放心用。",
@@ -2922,7 +3016,8 @@
         ],
         "detail": "OpenTelemetry 宣布 Kubernetes Attribute Processor 进入稳定阶段。该处理器负责为 K8s 环境中的遥测数据补充属性信息，此前处于实验状态。随着可观测性模式逐渐成熟，这一组件转正后可用于生产环境。",
         "generatedAt": "2026-10-28T17:02:23+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "fa97a54f00b59104",
@@ -2948,7 +3043,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "全国最大机器人App黑客松落幕：36小时跑通16款真机应用",
         "takeaway": "一场机器人应用黑客松在36小时内产出16款真机应用，规模为全国最大。",
@@ -2959,7 +3054,8 @@
         ],
         "detail": "InfoQ中国报道，一场全国最大规模的机器人App黑客松已经结束。参赛者在36小时内完成了16款可在真机上运行的应用，重点在于把机器人应用从想法推进到真机验证。",
         "generatedAt": "2026-10-28T17:02:23+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "6ece1e5121710f9b",
@@ -2984,7 +3080,7 @@
       "confidence": 0.25,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "尤雨溪团队发布 Vite+ 1.0，JavaScript 工具链走向统一",
         "takeaway": "Vite 生态推出 1.0 版本，试图整合分散的 JS 工具链，值得前端开发者关注。",
@@ -2995,7 +3091,8 @@
         ],
         "detail": "尤雨溪团队发布了 Vite+ 1.0，定位是整合 JavaScript 工具链。原文标题以“大一统”发问，说明其意在减少工具碎片化，具体能力与范围需看原文。",
         "generatedAt": "2026-10-28T17:02:24+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "1c5554f25d989a8b",
@@ -3020,7 +3117,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "轻量化异构双臂结合VLA与世界模型，家庭服务机器人落地实践",
         "takeaway": "InfoQ分享家庭服务具身机器人方案，用异构双臂加VLA与世界模型推进落地。",
@@ -3031,7 +3128,8 @@
         ],
         "detail": "InfoQ中国刊文介绍家庭服务具身机器人的落地实践。方案以轻量化异构双臂为硬件基础，并引入VLA模型与世界模型，探索这类机器人走进家庭场景的可行路径。",
         "generatedAt": "2026-10-28T17:02:24+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "508b538adf050321",
@@ -3056,7 +3154,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "马斯克谈AI控制悖论：警惕者却加速了AI狂奔",
         "takeaway": "马斯克在访谈中反思自己作为OpenAI发起人，既警惕AI生存危机，又变相加速了AI发展。",
@@ -3067,7 +3165,8 @@
         ],
         "detail": "马斯克在最新访谈中展现出矛盾立场：他始终担心AI可能带来生存危机，但作为OpenAI早期发起人，他过去的举动客观上推动了AI快速进步。这种警惕与加速并存的讽刺，成为整场对话的基调，也引出了人类能否控制AI的追问。",
         "generatedAt": "2026-10-28T17:02:25+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "b32285e91b28eb25",
@@ -3090,7 +3189,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "腾讯以绿泡泡与AI办公突围，价值或被低估",
         "takeaway": "钛媒体称腾讯正通过绿泡泡和AI办公寻求突破，其价值可能被市场低估。",
@@ -3101,7 +3200,8 @@
         ],
         "detail": "钛媒体文章指出，腾讯正通过绿泡泡和AI办公寻求突破，其价值可能被市场低估。文章强调，腾讯的盈利模式并非依赖用户时长，暗示其商业潜力未被充分认识。",
         "generatedAt": "2026-10-28T17:02:25+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "c20b97226937157e",
@@ -3124,7 +3224,8 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "e627ad3a95c4cf61",
@@ -3149,7 +3250,8 @@
       "confidence": 0.25,
       "score": 34,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "614dd327b184a793",
@@ -3174,7 +3276,8 @@
       "confidence": 1,
       "score": 34,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "5f8adb5e6119d940",
@@ -3199,7 +3302,8 @@
       "confidence": 1,
       "score": 34,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "8e64412127a0cdfe",
@@ -3224,7 +3328,8 @@
       "confidence": 1,
       "score": 34,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "4977ed47031474a1",
@@ -3249,7 +3354,8 @@
       "confidence": 1,
       "score": 34,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "a044912b52ff7a52",
@@ -3296,7 +3402,8 @@
       "confidence": 0,
       "score": 33,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "374b869f96a7dde3",
@@ -3321,7 +3428,8 @@
       "confidence": 0.25,
       "score": 33,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "099c4912233a64d5",
@@ -3396,7 +3504,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "1c5cca266210bc64",
@@ -3419,7 +3528,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "3820992ae81f0c53",
@@ -3445,7 +3555,8 @@
       "confidence": 0.4,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "c3927bff00e08176",
@@ -3468,7 +3579,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "f19b6bc001679b43",
@@ -3491,7 +3603,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "b58d8cbc2f8614fe",
@@ -3514,7 +3627,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "25f4d750ee5d0368",
@@ -3537,7 +3651,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "3351648a06e5be83",
@@ -3560,7 +3675,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "5bab0095e81654c2",
@@ -3585,7 +3701,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "981b2bdb3d7da46a",
@@ -3610,7 +3727,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "f0e3a3d801d18a44",
@@ -3635,7 +3753,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "c0bc4ed5a6f6fc41",
@@ -3658,7 +3777,8 @@
       "confidence": 0,
       "score": 29,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "8a89606f8d395862",
@@ -3683,7 +3803,8 @@
       "confidence": 1,
       "score": 29,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "085f81e1d9538a3c",
@@ -3706,7 +3827,8 @@
       "confidence": 0,
       "score": 29,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "6d1041385c978cf6",
@@ -3729,7 +3851,8 @@
       "confidence": 0,
       "score": 28,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "fd067f54316ad1a5",
@@ -3752,7 +3875,32 @@
       "confidence": 0,
       "score": 28,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
+    },
+    {
+      "id": "97373eedda74b8cd",
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 172 # Comments: 101",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T23:46:30+08:00",
+      "fetchedAt": "2026-10-29T06:55:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "698010dc1f6b6f2b",
@@ -3778,7 +3926,8 @@
       "score": 24,
       "paperRank": 12,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "d2a96d0f5e6e01cf",
@@ -3804,7 +3953,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "6da684344dc19af1",
@@ -3830,7 +3980,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "0cda6fa8463bbb41",
@@ -3856,7 +4007,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "eb7c22fdc0c2942f",
@@ -3882,7 +4034,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "1b736ff01f100ee6",
@@ -3908,7 +4061,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "ae4e2dbb41a7a356",
@@ -3934,7 +4088,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "df4d4dc927883400",
@@ -3960,7 +4115,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "bebb56ae3d0498a5",
@@ -3986,7 +4142,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "96c346bfbd17cf03",
@@ -4012,7 +4169,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "33857c1ce516c4d9",
@@ -4038,7 +4196,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "dd1e47391d771a1f",
@@ -4064,7 +4223,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "2d1f62281e3cf6a4",
@@ -4090,7 +4250,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "8e947bcd5604bf02",
@@ -4116,7 +4277,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "e03a41eeaff7ad0b",
@@ -4142,7 +4304,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "68576355952977de",
@@ -4168,7 +4331,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "dec24219665a7d9e",
@@ -4194,7 +4358,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     },
     {
       "id": "5876e7a1f71653ec",
@@ -4220,7 +4385,8 @@
       "score": 24,
       "paperRank": 10,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-29T06:55:47+08:00"
     }
   ],
   "topic": "ai"
