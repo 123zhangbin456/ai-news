@@ -108,10 +108,10 @@
     "lastOkDay": "2026-10-29"
   },
   "hackernews": {
-    "failDays": 1,
-    "lastFailDay": "2026-10-29",
-    "lastError": "网络请求失败",
-    "lastOkDay": "2026-10-28"
+    "failDays": 0,
+    "lastFailDay": null,
+    "lastError": null,
+    "lastOkDay": "2026-10-29"
   },
   "localllama": {
     "failDays": 0,
@@ -156,9 +156,9 @@
     "lastOkDay": "2026-10-29"
   },
   "cursor-reddit": {
-    "failDays": 0,
-    "lastFailDay": null,
-    "lastError": null,
+    "failDays": 1,
+    "lastFailDay": "2026-10-29",
+    "lastError": "HTTP 429",
     "lastOkDay": "2026-10-29"
   },
   "defensenews": {

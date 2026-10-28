@@ -1,7 +1,79 @@
 {
   "date": "2026-10-29",
-  "updatedAt": "2026-10-29T24:10:27+08:00",
+  "updatedAt": "2026-10-29T02:35:48+08:00",
   "items": [
+    {
+      "id": "34b0bf3f94c3851e",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "summary": "",
+      "source": {
+        "id": "deepmind",
+        "name": "Google DeepMind",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T01:00:58+08:00",
+      "fetchedAt": "2026-10-29T02:35:33+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
+        "takeaway": "谷歌下一代前沿模型 Gemini 4 Carbon 亮相，具体能力尚未披露，值得关注后续细节。",
+        "bullets": [
+          "Google DeepMind 宣布推出 Gemini 4 Carbon，定位为下一代前沿模型。",
+          "官方未公布模型参数、能力评测或开放时间等具体信息。",
+          "该发布可能影响 AI 模型竞争格局，但需等待更多细节验证。"
+        ],
+        "detail": "Google DeepMind 发布了名为 Gemini 4 Carbon 的新模型，称其为下一代前沿模型。目前官方没有提供摘要或具体细节，因此其能力、发布时间和可用性尚不明确。",
+        "generatedAt": "2026-10-29T02:35:40+08:00"
+      }
+    },
+    {
+      "id": "a01db71b034ce352",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T01:00:00+08:00",
+      "fetchedAt": "2026-10-29T02:35:33+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌开放Gemini与搜索，AI代理重塑应用生态",
+        "takeaway": "谷歌推出新开发者平台，让企业服务接入其AI体验，可能改变用户发现和使用应用的方式。",
+        "bullets": [
+          "谷歌开放Gemini和搜索，允许第三方应用接入",
+          "新平台面向企业开发者，将服务带入谷歌AI体验",
+          "AI代理正重塑网络，应用发现和交互方式或改变"
+        ],
+        "detail": "谷歌推出新的开发者平台，允许企业将自身服务接入谷歌的AI产品（如Gemini和搜索）。这可能会改变消费者发现和使用应用的方式，因为AI代理正逐渐成为网络交互的新入口。",
+        "generatedAt": "2026-10-29T02:35:40+08:00"
+      }
+    },
     {
       "id": "def8754249fc32fd",
       "title": "Claude Code 撑起史上最大 IPO，被封号不退费的中国开发者撑起那 5%“脏收入”",
@@ -36,6 +108,118 @@
         ],
         "detail": "Claude Code 撑起了史上最大规模的 IPO，但与此同时，一些中国开发者的账号被封禁且费用未退。这些被封号带来的收入被形容为占 5% 的“脏收入”，给这场 IPO 增添了争议。",
         "generatedAt": "2026-10-29T24:10:13+08:00"
+      }
+    },
+    {
+      "id": "cd47161048b640ea",
+      "title": "IT vendor lists massive $60 million AI supercomputer on eBay with 9,600 Nvidia A100 GPUs and 4,200 AMD EPYC CPUs, plus free shipping — 300 racks of decommissioned GPUs on offer",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xhsvmy/it_vendor_lists_massive_60_million_ai",
+      "summary": "Anyone want to chip in a cool $60m for me? submitted by /u/giveen [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T24:28:00+08:00",
+      "fetchedAt": "2026-10-29T02:35:33+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip",
+        "GPUs",
+        "NVIDIA",
+        "AMD"
+      ],
+      "confidence": 1,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "IT商eBay挂售6000万美元AI超算：9600块A100、4200颗EPYC，包邮",
+        "takeaway": "一台退役的300机架AI超算在eBay标价6000万美元，含9600块A100和4200颗AMD EPYC，还包邮。",
+        "bullets": [
+          "卖家是IT供应商，在eBay上架整台退役AI超算，标价6000万美元。",
+          "配置包括9600块Nvidia A100 GPU和4200颗AMD EPYC CPU，共300个机架。",
+          "商品标注免费配送，引发社区调侃和关注。"
+        ],
+        "detail": "有IT供应商在eBay上挂出一台退役的AI超级计算机，要价6000万美元。它包含9600块Nvidia A100 GPU、4200颗AMD EPYC CPU，总计300个机架，并且包邮。原帖作者调侃问有没有人愿意帮他凑这笔钱。",
+        "generatedAt": "2026-10-29T02:35:40+08:00"
+      }
+    },
+    {
+      "id": "6318bf62f2c5750d",
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 367 # Comments: 313",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T01:01:23+08:00",
+      "fetchedAt": "2026-10-29T02:35:33+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing",
+        "Gemini"
+      ],
+      "confidence": 0.88,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌发布 Gemini 4 Carbon 模型",
+        "takeaway": "谷歌推出新一代 Gemini 4 Carbon 模型，引发 Hacker News 热议，值得关注其能力与影响。",
+        "bullets": [
+          "谷歌正式发布 Gemini 4 Carbon 模型",
+          "Hacker News 讨论热度高，367 分 313 评论",
+          "新模型或影响 AI 竞争格局与开发者生态"
+        ],
+        "detail": "谷歌在官方博客发布了 Gemini 4 Carbon 模型，但摘要未透露具体功能。该消息在 Hacker News 上获得 367 分和 313 条评论，讨论热烈。",
+        "generatedAt": "2026-10-29T02:35:42+08:00"
+      }
+    },
+    {
+      "id": "b358f24cec5bcae3",
+      "title": "Meta says it’ll probably delay its controversial new business terms again",
+      "url": "https://theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T24:15:30+08:00",
+      "fetchedAt": "2026-10-29T02:35:33+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 或再推迟争议性商业条款，出版商担忧 AI 训练",
+        "takeaway": "Meta 因出版商反对 AI 训练相关条款，可能再次推迟新商业条款生效，值得关注平台与内容方的博弈。",
+        "bullets": [
+          "Meta 可能将新商业条款实施推迟到 11 月 20 日之后。",
+          "出版商担忧其内容被用于 AI 训练，引发反弹。",
+          "Meta 通讯主管 Andy Stone 在 X 上表示不计划…（原文截断）。"
+        ],
+        "detail": "Meta 表示，由于出版商对其内容可能被用于 AI 训练感到担忧并强烈反对，公司可能将新商业条款的实施推迟到 11 月 20 日之后。Meta 通讯主管 Andy Stone 在 X 上发文称，公司“不计划……”（原文在此截断）。",
+        "generatedAt": "2026-10-29T02:35:42+08:00"
       }
     },
     {
@@ -111,6 +295,78 @@
       }
     },
     {
+      "id": "94bdedac0696aac1",
+      "title": "GitHub Octoverse 2026",
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026",
+      "summary": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a prett…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T24:45:23+08:00",
+      "fetchedAt": "2026-10-29T02:35:33+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GitHub Octoverse 2026 报告发布，关键数据抢先看",
+        "takeaway": "GitHub 年度报告在 Universe 大会公布，揭示平台最新趋势，值得开发者关注。",
+        "bullets": [
+          "GitHub 在 Universe 大会发布 2026 年 Octoverse 报告",
+          "EVP Jay Parikh 重点介绍了报告中的关键数据",
+          "Simon Willison 通过 GitHub Stars 计划获得免费门票现场参与"
+        ],
+        "detail": "Simon Willison 在 GitHub Universe 大会现场，GitHub 通过 Stars 计划给了他免费门票。执行副总裁 Jay Parikh 刚刚公布了今年的 Octoverse 报告，并特别强调了几项数据。",
+        "generatedAt": "2026-10-29T02:35:43+08:00"
+      }
+    },
+    {
+      "id": "cca2247626bb8061",
+      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "url": "https://theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expand…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T01:00:00+08:00",
+      "fetchedAt": "2026-10-29T02:35:33+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "feature"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Chrome 增强自动填充可调用 Gmail 信息填表",
+        "takeaway": "Chrome 自动填充功能升级，现在能从 Gmail 提取信息帮你填表，填表更省事但隐私需留意。",
+        "bullets": [
+          "Chrome 增强自动填充新增 Gmail 数据来源，可自动填写表单。",
+          "此前该功能已支持从 Google 账户和钱包获取姓名、护照号等。",
+          "用户需权衡便利性与个人数据被调用的隐私风险。"
+        ],
+        "detail": "Chrome 的增强自动填充功能去年已能调用 Google 账户和 Google Wallet 中的姓名、护照号、邮箱和地址等信息。现在这一功能进一步扩展，开始从 Gmail 中提取信息来帮助用户填写表单，让在线填表更加自动化。",
+        "generatedAt": "2026-10-29T02:35:44+08:00"
+      }
+    },
+    {
       "id": "fb218526b03bfe52",
       "title": "Meta 利用私有处理技术将机密计算扩展至 AI 眼镜",
       "url": "https://infoq.cn/article/r1ibrq9kmZ1qFAWAtzJf",
@@ -142,6 +398,146 @@
         ],
         "detail": "Meta 正在把机密计算能力延伸到 AI 眼镜上，并采用私有处理技术。这意味着相关数据处理更强调在受保护环境中完成，减少敏感信息外泄风险。具体实现细节原文未展开。",
         "generatedAt": "2026-10-29T24:10:23+08:00"
+      }
+    },
+    {
+      "id": "5e4098babe95c0f8",
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
+      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T01:00:00+08:00",
+      "fetchedAt": "2026-10-29T02:35:33+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "update"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Chrome 自动填充升级：可读取 Gmail 帮你填表",
+        "takeaway": "Chrome 的 AI 自动填充现在能经你授权，从 Gmail 里找航班、订单等信息来填表。",
+        "bullets": [
+          "Chrome 自动填充接入 Gmail，可提取航班确认、物流和订单信息",
+          "使用前需用户授权，Chrome 才会读取收件箱内容",
+          "目的是减少手动填表，让表单填写更自动化"
+        ],
+        "detail": "Chrome 的 AI 自动填充功能更新后，在你授权的情况下，能从 Gmail 收件箱中找出航班确认信、物流跟踪信息和订单详情等，用这些内容自动填写网页表单。",
+        "generatedAt": "2026-10-29T02:35:44+08:00"
+      }
+    },
+    {
+      "id": "9a783b4021e0b4e1",
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections",
+      "summary": "But the AI responses get more forthright when asked outside the US.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T01:46:32+08:00",
+      "fetchedAt": "2026-10-29T02:35:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌AI被问2020大选胜者时闪烁其词，海外回答更直接",
+        "takeaway": "谷歌AI在美国内对2020大选结果避而不谈，海外却直言，凸显AI政治话题的地域差异。",
+        "bullets": [
+          "谷歌AI在美国被问2020大选胜者时回避直接回答",
+          "同一问题在美国以外地区回答更明确",
+          "反映AI公司在政治敏感话题上的地域策略差异"
+        ],
+        "detail": "Ars Technica 测试发现，谷歌AI在美国境内被问及2020年大选胜者时回答含糊其辞，但在美国以外地区则更为直截了当。这显示出AI在处理政治敏感问题时可能因地区而异。",
+        "generatedAt": "2026-10-29T02:35:45+08:00"
+      }
+    },
+    {
+      "id": "e4061f1f7b12c67f",
+      "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+      "url": "https://wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team",
+      "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T02:30:00+08:00",
+      "fetchedAt": "2026-10-29T02:35:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI代理管理梦幻足球队：表现尚不及人类",
+        "takeaway": "用AI代理管理梦幻足球队，初期决策失误，但学习后有所改善，目前仍不如人类。",
+        "bullets": [
+          "作者让Codex等AI代理管理梦幻足球队进行实验。",
+          "AI最初试图将哈兰德放替补席，随后纠正错误。",
+          "实验显示AI预测能力有限，尚无法超越人类玩家。"
+        ],
+        "detail": "为了测试AI的预测能力，作者让Codex等AI代理接管了一支梦幻足球队。AI一开始竟想把哈兰德放在替补席，但很快学会了改正。目前来看，AI的表现还不如人类玩家。",
+        "generatedAt": "2026-10-29T02:35:46+08:00"
+      }
+    },
+    {
+      "id": "daa3bbc10a8d4636",
+      "title": "I tested Strata's routing optimizations with Qwen 3.8FN IQ3_S in coding, math, and instruction following",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xhtbh5/i_tested_stratas_routing_optimizations_with_qwen",
+      "summary": "As of version 0.2.7.1 Strata has two routing optimizations that can affect both performance and quality. I was curious what the actual impact was so I ran some tests on my hardware with Qwen 3.8 Flash Next IQ3_S. STRATA_ROUTE_PRIOR This is …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T24:44:00+08:00",
+      "fetchedAt": "2026-10-29T02:35:33+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Strata 0.2.7.1 路由优化实测：Qwen 3.8FN IQ3_S 表现如何",
+        "takeaway": "用户实测 Strata 新路由优化对 Qwen 模型在编码、数学和指令遵循上的实际影响。",
+        "bullets": [
+          "Strata 0.2.7.1 引入两项路由优化，可能同时影响性能与质量",
+          "测试使用 Qwen 3.8 Flash Next IQ3_S 模型，覆盖编码、数学和指令遵循",
+          "测试者关注 STRATA_ROUTE_PRIOR 等优化在真实硬件上的实际效果"
+        ],
+        "detail": "Strata 0.2.7.1 版本包含两项路由优化，可能影响模型表现和输出质量。有用户在自己的硬件上，用 Qwen 3.8 Flash Next IQ3_S 模型测试了编码、数学和指令遵循任务，想弄清这些优化的实际影响，其中提到了 STRATA_ROUTE_PRIOR 等设置。",
+        "generatedAt": "2026-10-29T02:35:46+08:00"
       }
     },
     {
@@ -390,6 +786,54 @@
       "keywords": [],
       "confidence": 0,
       "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1844afc1ad26ccc1",
+      "title": "A small step for man, a GIANT step for LOCAL AI",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xhubiw/a_small_step_for_man_a_giant_step_for_local_ai",
+      "summary": "Shoutout to the Unsloth AI team for constantly pushing the needle forward for local ai worldwide. While many of us already had features such as this via other means, it is more what this means for entry level ai enthusiasts & accessibility.…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T01:19:05+08:00",
+      "fetchedAt": "2026-10-29T02:35:33+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "af3d5989065b7f46",
+      "title": "Working on a way for local LLMs to share context without centralizing everything",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xhsj1i/working_on_a_way_for_local_llms_to_share_context",
+      "summary": "A few of us have been messing around with a problem that keeps coming up with local LLMs the model can be private, the files can be local but the second multiple people or multiple machines need the same context everything starts getting me…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T24:15:29+08:00",
+      "fetchedAt": "2026-10-29T02:35:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
       "related": [],
       "pushed": false
     },
