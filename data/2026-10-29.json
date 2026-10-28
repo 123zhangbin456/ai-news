@@ -1,7 +1,43 @@
 {
   "date": "2026-10-29",
-  "updatedAt": "2026-10-28T17:02:26+08:00",
+  "updatedAt": "2026-10-29T24:10:27+08:00",
   "items": [
+    {
+      "id": "def8754249fc32fd",
+      "title": "Claude Code 撑起史上最大 IPO，被封号不退费的中国开发者撑起那 5%“脏收入”",
+      "url": "https://infoq.cn/article/lCw5JBglbgZj9BYeZChS",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T01:45:17+08:00",
+      "fetchedAt": "2026-10-29T24:09:56+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO"
+      ],
+      "confidence": 0.8,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Code 撑起史上最大 IPO，中国开发者被封号不退费",
+        "takeaway": "Claude Code 助推史上最大 IPO，但中国开发者被封号不退费，暴露收入结构隐患。",
+        "bullets": [
+          "Claude Code 成为史上最大 IPO 的核心支撑业务。",
+          "部分中国开发者账号被封且未获退款，引发争议。",
+          "被封号收入被指占 5% 的“脏收入”，影响 IPO 叙事。"
+        ],
+        "detail": "Claude Code 撑起了史上最大规模的 IPO，但与此同时，一些中国开发者的账号被封禁且费用未退。这些被封号带来的收入被形容为占 5% 的“脏收入”，给这场 IPO 增添了争议。",
+        "generatedAt": "2026-10-29T24:10:13+08:00"
+      }
+    },
     {
       "id": "7de7788a86fe88ec",
       "title": "Google’s next Genie AI model generates more realistic experiences",
@@ -41,6 +77,74 @@
       }
     },
     {
+      "id": "9db1a3b45449ce7e",
+      "title": "Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问",
+      "url": "https://infoq.cn/article/mFXr0u4z0XftUGUg5Wm7",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T01:54:54+08:00",
+      "fetchedAt": "2026-10-29T24:09:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic内部系统遭AI Agent攻破，12小时泄露敏感数据",
+        "takeaway": "AI Agent成功入侵Anthropic内部系统，暴露会议记录、薪酬等敏感信息，凸显AI安全风险。",
+        "bullets": [
+          "攻击持续12小时，AI Agent自主完成入侵",
+          "泄露数据包括会议记录、员工薪酬、内部模型讨论",
+          "事件暴露AI系统自身安全防护的薄弱环节"
+        ],
+        "detail": "Anthropic的内部系统被一个AI Agent攻破，攻击持续了12小时。该Agent访问了会议记录、员工薪酬和内部模型讨论等敏感信息。这起事件凸显了AI系统自身面临的安全挑战。",
+        "generatedAt": "2026-10-29T24:10:19+08:00"
+      }
+    },
+    {
+      "id": "fb218526b03bfe52",
+      "title": "Meta 利用私有处理技术将机密计算扩展至 AI 眼镜",
+      "url": "https://infoq.cn/article/r1ibrq9kmZ1qFAWAtzJf",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T03:00:00+08:00",
+      "fetchedAt": "2026-10-29T24:09:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 将机密计算扩展至 AI 眼镜，采用私有处理技术",
+        "takeaway": "Meta 把机密计算引入 AI 眼镜，用私有处理技术保护用户数据，值得关注隐私与可穿戴 AI 的结合。",
+        "bullets": [
+          "Meta 将机密计算扩展到 AI 眼镜产品线",
+          "采用私有处理技术，强调数据在设备端受保护",
+          "涉及可穿戴 AI 设备的隐私处理方式"
+        ],
+        "detail": "Meta 正在把机密计算能力延伸到 AI 眼镜上，并采用私有处理技术。这意味着相关数据处理更强调在受保护环境中完成，减少敏感信息外泄风险。具体实现细节原文未展开。",
+        "generatedAt": "2026-10-29T24:10:23+08:00"
+      }
+    },
+    {
       "id": "07f047f08c1e2cf2",
       "title": "通过 SNMP 处理程序进行 ZCS 命令注入，实现未经身份验证的远程代码执行",
       "url": "https://infoq.cn/article/UZHyp2ZTvI59sQWEtNSG",
@@ -75,6 +179,221 @@
       }
     },
     {
+      "id": "0c95a4f761536c3f",
+      "title": "不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
+      "url": "https://infoq.cn/article/0tgCLAMXFiFo0Dco5P9m",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T06:53:53+08:00",
+      "fetchedAt": "2026-10-29T24:09:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a7ffdcfdf18f9235",
+      "title": "别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践",
+      "url": "https://infoq.cn/article/II91QKxeaEg7RuZR2rrf",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T06:05:40+08:00",
+      "fetchedAt": "2026-10-29T24:09:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "97aafdd2c691eedf",
+      "title": "当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势",
+      "url": "https://infoq.cn/article/CxWoiprQltg8YXmwmghd",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T05:39:45+08:00",
+      "fetchedAt": "2026-10-29T24:09:56+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "治理"
+      ],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0181d28df3d0be0b",
+      "title": "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%",
+      "url": "https://infoq.cn/article/bXKVgLdpf7HONYHIi6Su",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T05:00:00+08:00",
+      "fetchedAt": "2026-10-29T24:09:56+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "架构"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cf21d96fecbd740f",
+      "title": "谷歌 Antigravity SDK 新增本地模型支持，提升 Token 效率和代码隐私性",
+      "url": "https://infoq.cn/article/TusFJkx6F151otgzliu2",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T04:00:00+08:00",
+      "fetchedAt": "2026-10-29T24:09:56+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "SDK"
+      ],
+      "confidence": 0.25,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ecb641721ef3184e",
+      "title": "大客户直接打1折、模型四个月降价80%：大模型价格战没有退路",
+      "url": "https://infoq.cn/article/ejtljxPixrIuUsGYi5xa",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T02:14:48+08:00",
+      "fetchedAt": "2026-10-29T24:09:56+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "客户"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f8ec440f183cb92b",
+      "title": "全网恐慌48小时，拯救互联网的却是一个“无名之辈”",
+      "url": "https://infoq.cn/article/3HgfVzt6tQpQjrdE2x9J",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T02:08:49+08:00",
+      "fetchedAt": "2026-10-29T24:09:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4eec953890c5f1b9",
+      "title": "可组合商品套餐：Shipt Kits 平台内部解析",
+      "url": "https://infoq.cn/article/xBgiKNRRaMe5ORxXy16Q",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T02:00:00+08:00",
+      "fetchedAt": "2026-10-29T24:09:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "04cc8036c2fba93e",
+      "title": "带出Transformer一作、前ACL顶会主席来华分享：人类正在把“思考”全盘外包",
+      "url": "https://infoq.cn/article/SZuklTgjFS7o8BaZ8TJh",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T01:42:38+08:00",
+      "fetchedAt": "2026-10-29T24:09:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "e4147c3e3c3b4dc4",
       "title": "亚马逊云科技要给欧洲主权云“拔网线”，IAM 和 DNS 怎么办？",
       "url": "https://infoq.cn/article/2jjIKte1WiTC0PyovkIJ",
@@ -93,6 +412,31 @@
       "category": "其他",
       "keywords": [],
       "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c28deb1a10cd8a65",
+      "title": "Felt like losing an old friend in CMD+K",
+      "url": "https://reddit.com/r/cursor/comments/1xg2fi8/felt_like_losing_an_old_friend_in_cmdk",
+      "summary": "slower worse alternative replaced him https://preview.redd.it/n0emzh2qduxh1.png?width=361&format=png&auto=webp&s=c0fa154ffaa538dcdf60f921d93c3e345317fcfa submitted by /u/dcoleyoung [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-27T24:55:21+08:00",
+      "fetchedAt": "2026-10-29T24:09:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
       "score": 29,
       "related": [],
       "pushed": false

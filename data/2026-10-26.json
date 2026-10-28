@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updatedAt": "2026-10-28T06:46:51+08:00",
+  "updatedAt": "2026-10-29T24:10:27+08:00",
   "items": [
     {
       "id": "bf7f18e0418c7776",
@@ -720,6 +720,43 @@
       "pushedAt": "2026-10-26T06:57:31+08:00"
     },
     {
+      "id": "edcd73061251648a",
+      "title": "Why is Cursor API billing more expensive than Anthropic API?",
+      "url": "https://reddit.com/r/cursor/comments/1xg05cq/why_is_cursor_api_billing_more_expensive_than",
+      "summary": "So the listed prices for Opus 5.5/Sonnet 5.5 are same across both platforms; but in practice we are seeing upto 50% difference in actual bill per million tokens. submitted by /u/elegigglekappa4head [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T23:33:46+08:00",
+      "fetchedAt": "2026-10-29T24:09:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户质疑 Cursor API 实际计费高于 Anthropic 官方",
+        "takeaway": "标价相同但实际账单差最多 50%，Cursor 的 API 计费透明度受到用户质疑。",
+        "bullets": [
+          "用户称 Opus 5.5、Sonnet 5.5 在 Cursor 与 Anthropic 标价一致",
+          "但按每百万 token 实际账单对比，差距最高达 50%",
+          "问题指向 Cursor 是否在标价之外叠加了额外成本",
+          "对高频调用 API 的开发者，成本差异会明显放大"
+        ],
+        "detail": "有用户在 r/cursor 发帖称，Opus 5.5 和 Sonnet 5.5 在 Cursor 与 Anthropic 两个平台上的公开标价相同，但实际按每百万 token 结算时，账单差距最高可达 50%。帖子未说明差异来源，但这一现象会让依赖 API 的开发者重新评估在 Cursor 上调用模型的成本。",
+        "generatedAt": "2026-10-29T24:10:18+08:00"
+      }
+    },
+    {
       "id": "f5fb9a5f4f5789d7",
       "title": "Can AI help solve the COBOL code crisis?",
       "url": "https://theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
@@ -1013,6 +1050,42 @@
       "pushedAt": "2026-10-27T07:01:38+08:00"
     },
     {
+      "id": "ec6b82fce9c2f90c",
+      "title": "Cursor might die before PHP",
+      "url": "https://reddit.com/r/cursor/comments/1xfqnhq/cursor_might_die_before_php",
+      "summary": "Everyone joking about PHP being dead in the past 10-15 years. Hoever I honestly think Cursor is d.e.a.d already. After the drastically lowered my usage quota, I managed to fully switch to Claude Code (with T3 Code and PI Agent, works AWESOM…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T15:59:28+08:00",
+      "fetchedAt": "2026-10-29T24:09:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户吐槽 Cursor 配额骤降，称其已“死”并转投 Claude Code",
+        "takeaway": "Cursor 大幅削减用量配额引发用户不满，有用户称已完全转向 Claude Code 等替代方案。",
+        "bullets": [
+          "用户抱怨 Cursor 大幅降低使用配额，体验变差",
+          "该用户表示已完全切换到 Claude Code 等工具",
+          "社区调侃 Cursor 可能比 PHP 更早“死亡”"
+        ],
+        "detail": "过去十多年大家总开玩笑说 PHP 要死了，但这位用户认为 Cursor 其实已经“死”了。在 Cursor 大幅削减其使用配额后，他成功完全转向了 Claude Code，并搭配 T3 Code 和 PI Agent，效果很棒。",
+        "generatedAt": "2026-10-29T24:10:25+08:00"
+      }
+    },
+    {
       "id": "688136660c106304",
       "title": "Block’s new voice model sounds eerily human",
       "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
@@ -1153,6 +1226,31 @@
         "generatedAt": "2026-10-26T22:25:48+08:00"
       },
       "pushedAt": "2026-10-27T07:01:38+08:00"
+    },
+    {
+      "id": "20dd9e5ed6bcd9e0",
+      "title": "Cursor Ultra \"Cursor Models\" finished in one week",
+      "url": "https://reddit.com/r/cursor/comments/1xfsrys/cursor_ultra_cursor_models_finished_in_one_week",
+      "summary": "It's insane how fast the quota is drawing this month. Anyone else feels the same? Just a bunch of code reviews (around 30) has eaten 93% of monthly usage. Grok 4.7 xhigh exlusively (non fast) Last month the similar amount of code reviews wa…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-26T18:10:42+08:00",
+      "fetchedAt": "2026-10-29T24:09:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "1dc75a32fc6a65d3",
