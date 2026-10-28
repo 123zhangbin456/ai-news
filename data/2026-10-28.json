@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updatedAt": "2026-10-28T08:48:12+08:00",
+  "updatedAt": "2026-10-28T09:30:41+08:00",
   "items": [
     {
       "id": "a2f907c053dad857",
@@ -39,6 +39,42 @@
         "generatedAt": "2026-10-28T08:48:08+08:00"
       },
       "pushedAt": "2026-10-28T08:48:12+08:00"
+    },
+    {
+      "id": "1b16f2a2a47a7683",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T09:15:28+08:00",
+      "fetchedAt": "2026-10-28T09:30:24+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO"
+      ],
+      "confidence": 1,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic IPO在即，亚马逊持股规模远超风投",
+        "takeaway": "Anthropic上市将让风投赚取数十亿，但亚马逊通过债转股成为最大赢家。",
+        "bullets": [
+          "大规模债转股揭示亚马逊在Anthropic的真实持股比例远超外界预期。",
+          "风投机构将从Anthropic IPO中获得数十亿美元回报。",
+          "亚马逊的持股规模使其成为Anthropic上市的最大财务受益者。"
+        ],
+        "detail": "Anthropic即将IPO，风险投资机构将从中赚取数十亿美元。但最新披露的大规模债转股显示，亚马逊对Anthropic的持股比例远超外界想象，使其成为这场IPO的最大赢家。",
+        "generatedAt": "2026-10-28T09:30:39+08:00"
+      }
     },
     {
       "id": "74e5625dcce4edab",
@@ -889,6 +925,42 @@
       "pushedAt": "2026-10-28T06:46:51+08:00"
     },
     {
+      "id": "0a1b45f5694969f4",
+      "title": "DeepSeek-V4.1-Flash-1017 at 41 tok/s on one 3090",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xh9yf7/deepseekv41flash1017_at_41_toks_on_one_3090",
+      "summary": "No, this is not a lobotomized 1-bit squeeze, its full Q2 nazeshinjite's DeepSeek-V4.1-Flash-1017 Q2 GGUF on a single 3090, natively on Windows no WSL. On an RTX 3090 with 192 GB of RAM I'm writing at 41 tok/s (average across multiple prompt…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T08:39:45+08:00",
+      "fetchedAt": "2026-10-28T09:30:24+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek-V4.1-Flash 单卡 3090 跑出 41 tok/s",
+        "takeaway": "用户实测 Q2 GGUF 量化版在单张 3090 上原生 Windows 运行，速度可观。",
+        "bullets": [
+          "使用 Q2 GGUF 量化，非极端 1-bit 压缩，保留完整模型",
+          "单张 RTX 3090 加 192GB 内存，Windows 原生运行无需 WSL",
+          "多提示词平均生成速度达 41 tok/s"
+        ],
+        "detail": "有用户在 LocalLLaMA 分享，DeepSeek-V4.1-Flash-1017 的 Q2 GGUF 量化版在单张 RTX 3090 上原生 Windows 环境运行，无需 WSL。搭配 192GB 内存，多个提示词平均生成速度达 41 tok/s，且并非极端 1-bit 压缩。",
+        "generatedAt": "2026-10-28T09:30:39+08:00"
+      }
+    },
+    {
       "id": "a069a163ec15a784",
       "title": "LiquidAI/LFM3-Omni-2B-GGUF",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xh1rwn/liquidailfm3omni2bgguf",
@@ -1112,6 +1184,40 @@
       "pushedAt": "2026-10-28T06:46:51+08:00"
     },
     {
+      "id": "d58913d18bccc711",
+      "title": "在AI时代如何提升软件工程能力",
+      "url": "https://infoq.cn/article/Qwr9oqOSAdmi1YibHVWr",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T17:07:00+08:00",
+      "fetchedAt": "2026-10-28T09:30:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI时代如何提升软件工程能力",
+        "takeaway": "InfoQ中国探讨AI时代软件工程能力提升，值得开发者关注。",
+        "bullets": [
+          "InfoQ中国发布文章，讨论AI时代软件工程能力提升。",
+          "面向软件工程师和开发者，提供能力提升思路。",
+          "具体内容需查看原文，可能涉及AI对工程实践的影响。"
+        ],
+        "detail": "InfoQ中国发布了一篇题为《在AI时代如何提升软件工程能力》的文章，探讨在人工智能背景下软件工程能力的提升方法。文章面向软件工程师和开发者，具体内容需点击原文查看。",
+        "generatedAt": "2026-10-28T09:30:41+08:00"
+      }
+    },
+    {
       "id": "a044912b52ff7a52",
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
       "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
@@ -1184,6 +1290,31 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-10-28T06:46:51+08:00"
+    },
+    {
+      "id": "d7083e24442f4e62",
+      "title": "小微灰度的第130天：小程序正在被拆成零件，交给微信的AI",
+      "url": "https://tmtpost.com/8183962.html",
+      "summary": "“未完成接入的小程序，将无法被微信 AI 推荐及调用。”",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-28T09:03:00+08:00",
+      "fetchedAt": "2026-10-28T09:30:24+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "接入"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
