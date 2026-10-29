@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updatedAt": "2026-10-29T24:10:27+08:00",
+  "updatedAt": "2026-10-29T09:21:24+08:00",
   "items": [
     {
       "id": "bf7f18e0418c7776",
@@ -742,7 +742,7 @@
       "confidence": 1,
       "score": 46,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "用户质疑 Cursor API 实际计费高于 Anthropic 官方",
         "takeaway": "标价相同但实际账单差最多 50%，Cursor 的 API 计费透明度受到用户质疑。",
@@ -754,7 +754,8 @@
         ],
         "detail": "有用户在 r/cursor 发帖称，Opus 5.5 和 Sonnet 5.5 在 Cursor 与 Anthropic 两个平台上的公开标价相同，但实际按每百万 token 结算时，账单差距最高可达 50%。帖子未说明差异来源，但这一现象会让依赖 API 的开发者重新评估在 Cursor 上调用模型的成本。",
         "generatedAt": "2026-10-29T24:10:18+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T09:21:24+08:00"
     },
     {
       "id": "f5fb9a5f4f5789d7",
@@ -1072,7 +1073,7 @@
       "confidence": 1,
       "score": 41,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "用户吐槽 Cursor 配额骤降，称其已“死”并转投 Claude Code",
         "takeaway": "Cursor 大幅削减用量配额引发用户不满，有用户称已完全转向 Claude Code 等替代方案。",
@@ -1083,7 +1084,8 @@
         ],
         "detail": "过去十多年大家总开玩笑说 PHP 要死了，但这位用户认为 Cursor 其实已经“死”了。在 Cursor 大幅削减其使用配额后，他成功完全转向了 Claude Code，并搭配 T3 Code 和 PI Agent，效果很棒。",
         "generatedAt": "2026-10-29T24:10:25+08:00"
-      }
+      },
+      "pushedAt": "2026-10-29T09:21:24+08:00"
     },
     {
       "id": "688136660c106304",
