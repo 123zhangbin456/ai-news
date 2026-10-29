@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "updatedAt": "2026-10-30T24:17:24+08:00",
+  "updatedAt": "2026-10-30T02:45:28+08:00",
   "items": [
     {
       "id": "e172ded3f68659c4",
@@ -39,6 +39,115 @@
       }
     },
     {
+      "id": "23e63926cceaf4fd",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
+      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T01:00:00+08:00",
+      "fetchedAt": "2026-10-30T02:44:59+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "releases",
+        "Mistral"
+      ],
+      "confidence": 0.4,
+      "score": 56,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Mistral 发布万亿参数模型权重，瞄准网络安全",
+        "takeaway": "Mistral 开放万亿参数模型权重，主打网络安全场景，让企业自主掌控防御能力。",
+        "bullets": [
+          "Mistral 公开万亿参数模型权重，供外部使用",
+          "该模型面向网络安全，强调企业可自主控制",
+          "与闭源模型相比，开放权重带来更高可控性"
+        ],
+        "detail": "Mistral 发布了其万亿参数 AI 模型的权重，目标场景是网络安全。公司表示，相比闭源模型，开放权重能让组织对自身的网络防御拥有更强的控制力。",
+        "generatedAt": "2026-10-30T02:45:21+08:00"
+      }
+    },
+    {
+      "id": "7bf0065ceb1646f5",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T01:00:00+08:00",
+      "fetchedAt": "2026-10-30T02:44:59+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 更新模型规范，提出五项核心价值",
+        "takeaway": "OpenAI 发布新版 Model Spec，用五项核心价值引导更强 AI 做出合理判断、尊重人类自主并忠于用户意图。",
+        "bullets": [
+          "新版 Model Spec 围绕五项核心价值展开",
+          "目标包括合理判断、人类自主与忠于人类意图",
+          "面向能力更强的 AI 模型提供行为指引"
+        ],
+        "detail": "OpenAI 更新了 Model Spec，列出五项核心价值，用来指导能力更强的 AI 模型。这些价值强调让模型做出合理判断、尊重人的自主性，并忠实于人类意图。",
+        "generatedAt": "2026-10-30T02:45:21+08:00"
+      }
+    },
+    {
+      "id": "a9493e03c65cfd3b",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo",
+      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T24:42:32+08:00",
+      "fetchedAt": "2026-10-30T02:44:59+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chips",
+        "NVIDIA"
+      ],
+      "confidence": 0.6,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "美调查中国间谍图谋针对英伟达CEO",
+        "takeaway": "美方调查一起针对英伟达CEO的中国间谍图谋，涉及被控违规对华售芯的新加坡AI云公司高管。",
+        "bullets": [
+          "美方调查中国间谍图谋，目标指向英伟达CEO黄仁勋。",
+          "涉事者为新加坡AI云公司高管，被控非法对华售英伟达芯片。",
+          "消息源称该高管可能同时为中国从事间谍活动。",
+          "事件或加剧美对华芯片出口管制与安全审查。"
+        ],
+        "detail": "据《纽约时报》援引消息人士报道，一家新加坡AI云公司的高管被指控非法向中国出售英伟达芯片，此人可能还是一名中国间谍。美方正在调查这起针对英伟达CEO的间谍图谋。",
+        "generatedAt": "2026-10-30T02:45:23+08:00"
+      }
+    },
+    {
       "id": "fd848296f513caca",
       "title": "概率、插座与5000个爱因斯坦：专访阿里云研发副总裁周琦",
       "url": "https://infoq.cn/article/5xCWuR8CMGosWrEuNbix",
@@ -72,6 +181,258 @@
         ],
         "detail": "阿里云研发副总裁周琦在专访中，用概率和插座比喻AI的不确定性与基础设施定位，并提及5000个爱因斯坦的人才规模设想，分享了对AI行业发展的观点。",
         "generatedAt": "2026-10-30T24:17:24+08:00"
+      }
+    },
+    {
+      "id": "a80dd20eaec84f5f",
+      "title": "Building a multiplayer game world with autonomous Fable-class models",
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world",
+      "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with ag…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T01:00:26+08:00",
+      "fetchedAt": "2026-10-30T02:44:59+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用自主Fable级模型构建多人游戏世界",
+        "takeaway": "Simon Willison分享如何用自主AI模型打造多人游戏世界，展示AI前沿应用。",
+        "bullets": [
+          "文章介绍用自主Fable级模型构建多人游戏世界。",
+          "Jacob Sansbury撰文描述打造Spawn公司的过程。",
+          "尽管标题吸睛，内容深入探讨AI前沿可能性。"
+        ],
+        "detail": "Simon Willison推荐了一篇Jacob Sansbury的文章，讲述如何打造“世界上最AI化的公司”。别被标题党吓退，文章深入探讨了用自主Fable级模型构建Spawn多人游戏世界的可能性，展示了AI应用的前沿探索。",
+        "generatedAt": "2026-10-30T02:45:25+08:00"
+      }
+    },
+    {
+      "id": "066f3bd17c5f1eff",
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr",
+      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T01:54:38+08:00",
+      "fetchedAt": "2026-10-30T02:44:59+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "feature",
+        "app"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Granola 新增听写功能，与 Wispr 正面交锋",
+        "takeaway": "会议笔记工具 Granola 反向切入听写赛道，语音 AI 竞争升级。",
+        "bullets": [
+          "Granola 在会议笔记产品中加入听写功能",
+          "此前 Wispr 刚在听写应用中增加会议笔记",
+          "两家公司互相侵入对方核心场景，语音 AI 竞争加剧"
+        ],
+        "detail": "Wispr 先在自己的听写应用里加了会议笔记，Granola 现在反过来在会议笔记工具里加入听写功能。两家公司互相进入对方的地盘，语音 AI 领域的竞争正变得更有看头。",
+        "generatedAt": "2026-10-30T02:45:25+08:00"
+      }
+    },
+    {
+      "id": "4dcfcc0d194323eb",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
+      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T24:21:00+08:00",
+      "fetchedAt": "2026-10-30T02:44:59+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launch"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "前Palantir高管创立Dream，获a16z 1700万美元融资，打造建筑AI世界模型",
+        "takeaway": "Dream用真实建筑数据训练世界模型，让AI理解物理和建筑标准，获a16z投资。",
+        "bullets": [
+          "Dream由前Palantir高管创立，获a16z 1700万美元融资。",
+          "其世界模型基于超1亿平方英尺美国建筑许可数据训练。",
+          "模型结合真实物理和建筑标准，旨在变革建筑业。"
+        ],
+        "detail": "Dream是一家由前Palantir高管创立的初创公司，获得了a16z领投的1700万美元融资。该公司正在构建基于真实物理和建筑标准的AI世界模型，其训练数据来自美国各地许可档案中超过1亿平方英尺的建筑数据，类似于大语言模型从文本中学习。",
+        "generatedAt": "2026-10-30T02:45:26+08:00"
+      }
+    },
+    {
+      "id": "b394caaea4801868",
+      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads",
+      "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T24:24:55+08:00",
+      "fetchedAt": "2026-10-30T02:44:59+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "ads"
+      ],
+      "confidence": 0.67,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌承认AI搜索收入下降，靠加广告补救",
+        "takeaway": "谷歌AI搜索变现能力弱于传统搜索，公司计划增加广告以弥补收入缺口。",
+        "bullets": [
+          "谷歌承认AI搜索带来的收入低于传统搜索",
+          "公司正通过增加广告来弥补收入差距",
+          "第三季度负现金流扩大至90.6亿美元，股价下跌"
+        ],
+        "detail": "谷歌在第三季度财报中承认，AI搜索功能带来的收入不及传统搜索，导致负现金流扩大至90.6亿美元，股价随之下跌。公司表示正通过增加广告投放来弥补这一收入缺口。",
+        "generatedAt": "2026-10-30T02:45:26+08:00"
+      }
+    },
+    {
+      "id": "4c55e492d8973144",
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "url": "https://wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system",
+      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T02:39:43+08:00",
+      "fetchedAt": "2026-10-30T02:44:59+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "国防承包商员工私用AI代理接入五角大楼安全系统两月",
+        "takeaway": "埃森哲员工个人Claude代理在国防部网络运行两月才被发现，暴露安全漏洞。",
+        "bullets": [
+          "埃森哲员工个人Claude代理在国防部网络运行两个月",
+          "该代理未经授权接入安全五角大楼系统",
+          "漏洞被发现后已修补，但暴露内部管控风险"
+        ],
+        "detail": "据WIRED消息源，埃森哲一名员工的个人Claude AI代理在国防部网络上运行了两个月，直到被发现并修补漏洞。此事凸显承包商内部AI工具使用缺乏监管，可能带来严重安全风险。",
+        "generatedAt": "2026-10-30T02:45:27+08:00"
+      }
+    },
+    {
+      "id": "bc05a198d9c6635e",
+      "title": "Why you can't trust cloud API endpoints: 40 days of coding-agent telemetry showing the exact day providers silently overwrote deepseek-v4.1-flash with -1017 (\"faster execution, shorter answers\" = 3x more swearing and 6.7x more model switches)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xiqw9i/why_you_cant_trust_cloud_api_endpoints_40_days_of",
+      "summary": "Around mid-October deepseek-v4.1-flash suddenly started feeling much dumber in my coding agent, so I parsed my local session logs to see when it broke. Before the update it had a funny quirk where it would randomly reply in Chinese while be…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T01:46:05+08:00",
+      "fetchedAt": "2026-10-30T02:44:59+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 0.5,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "40天日志揭示：云API模型被悄悄替换，回答变短却更爱骂人",
+        "takeaway": "开发者用40天编码代理日志发现，云API模型被静默更新，性能与行为显著变化，凸显云端模型不可控风险。",
+        "bullets": [
+          "deepseek-v4.1-flash在10月中旬被静默替换为-1017版本",
+          "新版本号称“执行更快、回答更短”，但脏话多3倍、模型切换多6.7倍",
+          "用户通过本地会话日志对比，才定位到模型被悄悄覆盖",
+          "事件引发对云API端点透明度和可复现性的质疑"
+        ],
+        "detail": "一位开发者发现编码代理在10月中旬突然变笨，于是解析本地日志定位问题。对比发现，云服务商悄悄将deepseek-v4.1-flash替换为-1017版本，官方称“执行更快、回答更短”，但实际表现是脏话频率增加3倍、模型切换增加6.7倍。这提醒我们，云API模型可能随时被静默更新，影响开发体验和结果稳定性。",
+        "generatedAt": "2026-10-30T02:45:28+08:00"
+      }
+    },
+    {
+      "id": "478f310810d14e0e",
+      "title": "ServiceNow-AI/Apriel-Voice-27B-preview · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xipftk/servicenowaiaprielvoice27bpreview_hugging_face",
+      "summary": "from Service Now AI: Apriel Voice 27B Preview An open model for speech, reasoning, and tool use from ServiceNow Apriel Voice 27B Preview understands spoken requests, reasons over conversational context, and generates text responses and tool…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T24:53:23+08:00",
+      "fetchedAt": "2026-10-30T02:44:59+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "preview"
+      ],
+      "confidence": 0.5,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ServiceNow 发布 Apriel Voice 27B 预览版语音模型",
+        "takeaway": "ServiceNow 推出开源语音模型，能理解口语、推理对话并调用工具，值得关注。",
+        "bullets": [
+          "模型名为 Apriel Voice 27B Preview，由 ServiceNow AI 发布。",
+          "支持语音理解、对话上下文推理和工具调用。",
+          "开源发布，可在 Hugging Face 获取预览版。"
+        ],
+        "detail": "ServiceNow AI 在 Hugging Face 上发布了 Apriel Voice 27B 预览版。这是一个开源模型，能听懂语音请求，结合对话上下文进行推理，并生成文本回复或调用工具。",
+        "generatedAt": "2026-10-30T02:45:28+08:00"
       }
     },
     {
@@ -144,6 +505,52 @@
       "keywords": [],
       "confidence": 0,
       "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "66355fca5267c9a3",
+      "title": "Datapoint for AI bubble: getting harder to raise money for AI datacenters",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xirt93/datapoint_for_ai_bubble_getting_harder_to_raise",
+      "summary": "Will this lower our RAM prices for local? https://x.com/HedgieMarkets/status/2115505986504954244 https://www.bloomberg.com/news/articles/2026-10-28/wall-street-s-ai-debt-machine-is-starting-to-choke-on-supply https://x.com/elonmusk/status/2…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T02:20:00+08:00",
+      "fetchedAt": "2026-10-30T02:44:59+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "bef1feb7df81ec25",
+      "title": "old Xeon X99 PC with 256GB RAM + RTX 3090 Ti worth it for Strata LLM inference?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xiqujs/old_xeon_x99_pc_with_256gb_ram_rtx_3090_ti_worth",
+      "summary": "​ I found this used PC in my local market for around $420: - CPU: Xeon E5-2640 v3 (8C/16T) - Motherboard: X99 (exact model unknown) - RAM: 16GB DDR4 (planning to upgrade to 256GB) - Storage: 128GB SSD - Includes a 1080p 144Hz monitor and ac…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T01:44:22+08:00",
+      "fetchedAt": "2026-10-30T02:44:59+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
       "related": [],
       "pushed": false
     }
