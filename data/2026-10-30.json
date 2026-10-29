@@ -1,7 +1,45 @@
 {
   "date": "2026-10-30",
-  "updatedAt": "2026-10-30T02:45:28+08:00",
+  "updatedAt": "2026-10-30T07:03:41+08:00",
   "items": [
+    {
+      "id": "4db20898e948fcbb",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T03:56:19+08:00",
+      "fetchedAt": "2026-10-30T07:03:26+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "acquires",
+        "billion"
+      ],
+      "confidence": 1,
+      "score": 62,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "OpenAI 支持的 Thrive Holdings 153 亿美元收购 ADT",
+        "takeaway": "OpenAI 投资方以 153 亿美元买下安防巨头 ADT，计划用 AI 改造家庭安防业务。",
+        "bullets": [
+          "Thrive Holdings 获 OpenAI 支持，以 153 亿美元收购 ADT。",
+          "交易旨在将 AI 技术引入家庭安防领域。",
+          "ADT 是知名家庭安防公司，收购后或加速智能化。"
+        ],
+        "detail": "OpenAI 支持的 Thrive Holdings 宣布以 153 亿美元收购家庭安防公司 ADT，并计划把人工智能技术应用到家庭安防业务中。这笔交易意味着 AI 与实体安防服务的进一步结合。",
+        "generatedAt": "2026-10-30T07:03:36+08:00"
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
+    },
     {
       "id": "e172ded3f68659c4",
       "title": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
@@ -25,7 +63,7 @@
       "confidence": 1,
       "score": 56,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "谷歌Gemini 4 Carbon登顶AI排行榜，却未赢得华尔街认可",
         "takeaway": "谷歌新模型登顶排行榜，但市场反应冷淡，凸显AI竞赛的高昂成本与商业回报的落差。",
@@ -36,7 +74,8 @@
         ],
         "detail": "谷歌的Gemini 4 Carbon在AI性能排行榜上拿下第一，但资本市场并不买账。这反映出投资者更关注AI投入能否带来实际收益，而非单纯的榜单排名。高昂的研发成本与不确定的商业前景，让华尔街对谷歌的AI故事保持谨慎。",
         "generatedAt": "2026-10-30T24:17:08+08:00"
-      }
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
       "id": "23e63926cceaf4fd",
@@ -62,7 +101,7 @@
       "confidence": 0.4,
       "score": 56,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Mistral 发布万亿参数模型权重，瞄准网络安全",
         "takeaway": "Mistral 开放万亿参数模型权重，主打网络安全场景，让企业自主掌控防御能力。",
@@ -73,7 +112,118 @@
         ],
         "detail": "Mistral 发布了其万亿参数 AI 模型的权重，目标场景是网络安全。公司表示，相比闭源模型，开放权重能让组织对自身的网络防御拥有更强的控制力。",
         "generatedAt": "2026-10-30T02:45:21+08:00"
-      }
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
+    },
+    {
+      "id": "bde015e58f3737fa",
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch",
+      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T03:14:36+08:00",
+      "fetchedAt": "2026-10-30T07:03:26+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launches"
+      ],
+      "confidence": 0.33,
+      "score": 56,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Meta低调推出AI时尚应用Style Sketch",
+        "takeaway": "Meta上线AI时尚应用，可连接Instagram照片建虚拟衣橱，或手动拍照上传单品。",
+        "bullets": [
+          "应用名为Style Sketch，由Meta低调推出",
+          "可连接Instagram，用已分享照片构建虚拟衣橱",
+          "也支持拍照、录视频或上传相册图片手动添加单品"
+        ],
+        "detail": "Meta推出了一款名为Style Sketch的AI时尚应用。它能连接Instagram，把你已分享的照片变成虚拟衣橱，也允许你通过拍照、录短视频或从相册上传图片来手动添加衣物单品。",
+        "generatedAt": "2026-10-30T07:03:36+08:00"
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
+    },
+    {
+      "id": "32e3919a05879071",
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits",
+      "summary": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expi…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T06:48:29+08:00",
+      "fetchedAt": "2026-10-30T07:03:26+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 54,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "OpenAI 为部分 ChatGPT 订阅用户发放 API 额度",
+        "takeaway": "继 Anthropic 之后，OpenAI 也向符合条件的 ChatGPT 订阅用户提供 API 额度福利。",
+        "bullets": [
+          "OpenAI 宣布符合条件的 ChatGPT 订阅可获 API 额度",
+          "此前 Anthropic 已为 Max 和 Team 订阅提供每月 100 至 500 美元额度",
+          "两家公司都在用 API 额度提升订阅套餐吸引力"
+        ],
+        "detail": "OpenAI 宣布，符合条件的 ChatGPT 订阅用户将获得 API 额度福利。此前不久，Anthropic 刚为 Max 和 Team 订阅推出类似政策，每月 100、200、500 美元档位的订阅用户可获得等额 API 额度。",
+        "generatedAt": "2026-10-30T07:03:36+08:00"
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
+    },
+    {
+      "id": "904e4b10c7b3291f",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "url": "https://theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, a…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T02:45:31+08:00",
+      "fetchedAt": "2026-10-30T07:03:26+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "preview",
+        "Gemini"
+      ],
+      "confidence": 0.33,
+      "score": 54,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Gemini 聊天中可直接生成和编辑 Google Docs 等文件",
+        "takeaway": "谷歌 Gemini 新增文件生成与编辑功能，聊天内即可处理文档、表格、幻灯片等，面向所有用户开放。",
+        "bullets": [
+          "Gemini 聊天中可生成、预览、编辑 PDF、Docs、Sheets、幻灯片、Markdown、TXT 和代码文件",
+          "该功能即日起对所有 Gemini 用户开放",
+          "用户无需切换应用，在对话中即可完成文件处理"
+        ],
+        "detail": "谷歌 Gemini 现在支持在聊天界面直接生成、预览和编辑多种文件格式，包括 PDF、Google Docs、Google Sheets、幻灯片、Markdown、TXT 以及代码文件。这项新功能从今天起面向所有 Gemini 用户开放，意味着用户可以在对话中一站式完成文件创建与修改。",
+        "generatedAt": "2026-10-30T07:03:38+08:00"
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
       "id": "7bf0065ceb1646f5",
@@ -96,7 +246,7 @@
       "confidence": 0,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI 更新模型规范，提出五项核心价值",
         "takeaway": "OpenAI 发布新版 Model Spec，用五项核心价值引导更强 AI 做出合理判断、尊重人类自主并忠于用户意图。",
@@ -107,7 +257,8 @@
         ],
         "detail": "OpenAI 更新了 Model Spec，列出五项核心价值，用来指导能力更强的 AI 模型。这些价值强调让模型做出合理判断、尊重人的自主性，并忠实于人类意图。",
         "generatedAt": "2026-10-30T02:45:21+08:00"
-      }
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
       "id": "a9493e03c65cfd3b",
@@ -133,7 +284,7 @@
       "confidence": 0.6,
       "score": 47,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "美调查中国间谍图谋针对英伟达CEO",
         "takeaway": "美方调查一起针对英伟达CEO的中国间谍图谋，涉及被控违规对华售芯的新加坡AI云公司高管。",
@@ -145,7 +296,8 @@
         ],
         "detail": "据《纽约时报》援引消息人士报道，一家新加坡AI云公司的高管被指控非法向中国出售英伟达芯片，此人可能还是一名中国间谍。美方正在调查这起针对英伟达CEO的间谍图谋。",
         "generatedAt": "2026-10-30T02:45:23+08:00"
-      }
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
       "id": "fd848296f513caca",
@@ -170,7 +322,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "阿里云周琦谈概率、插座与5000个爱因斯坦",
         "takeaway": "阿里云研发副总裁周琦分享对AI概率本质、基础设施与人才规模的思考，值得关注。",
@@ -181,7 +333,8 @@
         ],
         "detail": "阿里云研发副总裁周琦在专访中，用概率和插座比喻AI的不确定性与基础设施定位，并提及5000个爱因斯坦的人才规模设想，分享了对AI行业发展的观点。",
         "generatedAt": "2026-10-30T24:17:24+08:00"
-      }
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
       "id": "a80dd20eaec84f5f",
@@ -204,7 +357,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "用自主Fable级模型构建多人游戏世界",
         "takeaway": "Simon Willison分享如何用自主AI模型打造多人游戏世界，展示AI前沿应用。",
@@ -215,7 +368,8 @@
         ],
         "detail": "Simon Willison推荐了一篇Jacob Sansbury的文章，讲述如何打造“世界上最AI化的公司”。别被标题党吓退，文章深入探讨了用自主Fable级模型构建Spawn多人游戏世界的可能性，展示了AI应用的前沿探索。",
         "generatedAt": "2026-10-30T02:45:25+08:00"
-      }
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
       "id": "066f3bd17c5f1eff",
@@ -241,7 +395,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Granola 新增听写功能，与 Wispr 正面交锋",
         "takeaway": "会议笔记工具 Granola 反向切入听写赛道，语音 AI 竞争升级。",
@@ -252,7 +406,8 @@
         ],
         "detail": "Wispr 先在自己的听写应用里加了会议笔记，Granola 现在反过来在会议笔记工具里加入听写功能。两家公司互相进入对方的地盘，语音 AI 领域的竞争正变得更有看头。",
         "generatedAt": "2026-10-30T02:45:25+08:00"
-      }
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
       "id": "4dcfcc0d194323eb",
@@ -277,7 +432,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "前Palantir高管创立Dream，获a16z 1700万美元融资，打造建筑AI世界模型",
         "takeaway": "Dream用真实建筑数据训练世界模型，让AI理解物理和建筑标准，获a16z投资。",
@@ -288,7 +443,8 @@
         ],
         "detail": "Dream是一家由前Palantir高管创立的初创公司，获得了a16z领投的1700万美元融资。该公司正在构建基于真实物理和建筑标准的AI世界模型，其训练数据来自美国各地许可档案中超过1亿平方英尺的建筑数据，类似于大语言模型从文本中学习。",
         "generatedAt": "2026-10-30T02:45:26+08:00"
-      }
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
       "id": "b394caaea4801868",
@@ -313,7 +469,7 @@
       "confidence": 0.67,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "谷歌承认AI搜索收入下降，靠加广告补救",
         "takeaway": "谷歌AI搜索变现能力弱于传统搜索，公司计划增加广告以弥补收入缺口。",
@@ -324,7 +480,8 @@
         ],
         "detail": "谷歌在第三季度财报中承认，AI搜索功能带来的收入不及传统搜索，导致负现金流扩大至90.6亿美元，股价随之下跌。公司表示正通过增加广告投放来弥补这一收入缺口。",
         "generatedAt": "2026-10-30T02:45:26+08:00"
-      }
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
       "id": "4c55e492d8973144",
@@ -349,7 +506,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "国防承包商员工私用AI代理接入五角大楼安全系统两月",
         "takeaway": "埃森哲员工个人Claude代理在国防部网络运行两月才被发现，暴露安全漏洞。",
@@ -360,7 +517,82 @@
         ],
         "detail": "据WIRED消息源，埃森哲一名员工的个人Claude AI代理在国防部网络上运行了两个月，直到被发现并修补漏洞。此事凸显承包商内部AI工具使用缺乏监管，可能带来严重安全风险。",
         "generatedAt": "2026-10-30T02:45:27+08:00"
-      }
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
+    },
+    {
+      "id": "1e09943a421e9246",
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T04:08:31+08:00",
+      "fetchedAt": "2026-10-30T07:03:26+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "announces"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "搜索流量枯竭，Reddit 宣布转向登录制体验",
+        "takeaway": "AI 改变信息获取方式，Reddit 从开放网络转向登录制以保护用户和业务。",
+        "bullets": [
+          "Reddit 宣布将转向登录制体验，以应对搜索流量下降。",
+          "AI 正在改变人们在线查找信息的方式，Reddit 重新思考开放网络根基。",
+          "此举旨在保护受众和业务，可能影响未登录用户的访问。"
+        ],
+        "detail": "随着 AI 改变人们在线查找信息的方式，Reddit 的搜索流量正在枯竭。为此，Reddit 宣布将转向登录制体验，重新思考其开放网络的根基，以保护受众和业务。",
+        "generatedAt": "2026-10-30T07:03:38+08:00"
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
+    },
+    {
+      "id": "7587406daf7d14d3",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant",
+      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T04:05:47+08:00",
+      "fetchedAt": "2026-10-30T07:03:26+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "assistant"
+      ],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Rivian与大众合资公司扩展至AI助手领域",
+        "takeaway": "Rivian与大众的合资公司业务范围新增AI助手，但未透露58亿美元估值是否因此扩大。",
+        "bullets": [
+          "Rivian与大众的合资企业将纳入AI助手业务",
+          "双方未披露合资公司58亿美元估值是否变化",
+          "此举或推动两家车企在智能车载助手领域合作"
+        ],
+        "detail": "Rivian与大众的合资公司将进一步拓展，把AI助手纳入业务范围。不过，Rivian并未说明这是否会扩大该合资公司58亿美元的估值。",
+        "generatedAt": "2026-10-30T07:03:38+08:00"
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
       "id": "bc05a198d9c6635e",
@@ -385,7 +617,7 @@
       "confidence": 0.5,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "40天日志揭示：云API模型被悄悄替换，回答变短却更爱骂人",
         "takeaway": "开发者用40天编码代理日志发现，云API模型被静默更新，性能与行为显著变化，凸显云端模型不可控风险。",
@@ -397,7 +629,8 @@
         ],
         "detail": "一位开发者发现编码代理在10月中旬突然变笨，于是解析本地日志定位问题。对比发现，云服务商悄悄将deepseek-v4.1-flash替换为-1017版本，官方称“执行更快、回答更短”，但实际表现是脏话频率增加3倍、模型切换增加6.7倍。这提醒我们，云API模型可能随时被静默更新，影响开发体验和结果稳定性。",
         "generatedAt": "2026-10-30T02:45:28+08:00"
-      }
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
       "id": "478f310810d14e0e",
@@ -422,7 +655,7 @@
       "confidence": 0.5,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "ServiceNow 发布 Apriel Voice 27B 预览版语音模型",
         "takeaway": "ServiceNow 推出开源语音模型，能理解口语、推理对话并调用工具，值得关注。",
@@ -433,7 +666,8 @@
         ],
         "detail": "ServiceNow AI 在 Hugging Face 上发布了 Apriel Voice 27B 预览版。这是一个开源模型，能听懂语音请求，结合对话上下文进行推理，并生成文本回复或调用工具。",
         "generatedAt": "2026-10-30T02:45:28+08:00"
-      }
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
       "id": "3a55aa43c7877115",
@@ -458,7 +692,8 @@
       "confidence": 0.33,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
       "id": "48e8a519743730bb",
@@ -483,7 +718,8 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
       "id": "69b6bc798a5b9960",
@@ -506,7 +742,43 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-30T07:03:41+08:00"
+    },
+    {
+      "id": "cfed78c7b30043db",
+      "title": "Trump declares robot imports a national security threat",
+      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat",
+      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T03:07:53+08:00",
+      "fetchedAt": "2026-10-30T07:03:26+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "特朗普将进口机器人列为国家安全威胁",
+        "takeaway": "特朗普政府以国家安全为由，启动对外国制造工厂机器人的贸易谈判，并威胁加征关税。",
+        "bullets": [
+          "特朗普宣布外国产工厂机器人构成国家安全威胁",
+          "已下令就机器人进口展开贸易谈判",
+          "威胁对相关进口产品加征关税"
+        ],
+        "detail": "特朗普总统将外国制造的工厂机器人认定为国家安全威胁，并下令就此展开贸易谈判。他还威胁称，如果谈判未能达成满意结果，将对这类机器人进口加征关税。此举可能影响全球机器人贸易格局。",
+        "generatedAt": "2026-10-30T07:03:40+08:00"
+      },
+      "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
       "id": "66355fca5267c9a3",
@@ -529,7 +801,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
       "id": "bef1feb7df81ec25",
@@ -552,7 +825,34 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-10-30T07:03:41+08:00"
+    },
+    {
+      "id": "d02a22d338af9d13",
+      "title": "UkisAI Swift GLM5.3 + GSQ-RCO, Swift Ornith 9B / -57.7% Token Usage with <1% accuracy loss on max reasoning",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xisqge/ukisai_swift_glm53_gsqrco_swift_ornith_9b_577",
+      "summary": "Hi everyone, Jovan from UkisAI here, Today we are expanding our Swift model series with two models requested by the community. We made Swift GLM-5.3-Flash and Swift Ornith 9B more efficient by figuring out which tokens were linked to pathol…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T02:54:31+08:00",
+      "fetchedAt": "2026-10-30T07:03:26+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "series"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-10-30T07:03:41+08:00"
     }
   ],
   "topic": "ai"
