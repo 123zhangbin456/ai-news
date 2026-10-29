@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updatedAt": "2026-10-29T10:07:36+08:00",
+  "updatedAt": "2026-10-29T10:58:03+08:00",
   "items": [
     {
       "id": "5ca8bf6a7f7b11ca",
@@ -1159,6 +1159,43 @@
       }
     },
     {
+      "id": "0056a2957d8f54c0",
+      "title": "Gemini 4 Carbon能给谷歌挽尊吗？",
+      "url": "https://tmtpost.com/8185381.html",
+      "summary": "拿了世界第一，但不向公众开放。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T10:32:44+08:00",
+      "fetchedAt": "2026-10-29T10:57:54+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "开放",
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gemini 4 Carbon登顶世界第一，却不向公众开放",
+        "takeaway": "谷歌新模型拿下榜首却仅限内部使用，能否挽回颜面存疑。",
+        "bullets": [
+          "Gemini 4 Carbon 在评测中排名世界第一。",
+          "该模型不向公众开放，仅限内部或特定渠道。",
+          "此举被视为谷歌在 AI 竞赛中挽回声誉的尝试。"
+        ],
+        "detail": "谷歌推出 Gemini 4 Carbon 模型，在评测中拿下世界第一，但并未向公众开放。外界关注这一成绩能否帮谷歌挽回在 AI 竞争中的颜面。",
+        "generatedAt": "2026-10-29T10:58:02+08:00"
+      }
+    },
+    {
       "id": "e4061f1f7b12c67f",
       "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
       "url": "https://wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team",
@@ -1704,6 +1741,76 @@
       }
     },
     {
+      "id": "06c0282675ee8e92",
+      "title": "AI 用起来了，业务价值谁来打分？",
+      "url": "https://infoq.cn/article/LLbRSSwTyvqTpFsaJs3v",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T18:37:25+08:00",
+      "fetchedAt": "2026-10-29T10:57:54+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 落地之后，业务价值由谁来衡量？",
+        "takeaway": "InfoQ 提出一个现实问题：AI 用起来容易，但业务价值缺少明确的打分主体和标准。",
+        "bullets": [
+          "AI 已在业务中投入使用，但价值评估机制缺位",
+          "核心疑问：谁来为 AI 带来的业务价值打分",
+          "涉及企业技术团队与业务方的权责划分"
+        ],
+        "detail": "InfoQ 中国这篇文章把焦点放在 AI 落地后的评估环节：工具用起来了，但业务价值由谁认定、按什么标准衡量，目前并不清晰。这关系到企业如何判断 AI 投入是否值得。",
+        "generatedAt": "2026-10-29T10:58:02+08:00"
+      }
+    },
+    {
+      "id": "c7ee25ab1a46ebde",
+      "title": "5 Frontier LLM's grade 39 local LLM's on 50 prompts",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xi6edm/5_frontier_llms_grade_39_local_llms_on_50_prompts",
+      "summary": "This is just something i had running for about 10-20 hours (kept adding models), various tests/benchmarks and had 4 (Claude kind of graded, his tokens are too precious) frontier LLM's grade the answers of the local LLM's. The following text…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T09:10:56+08:00",
+      "fetchedAt": "2026-10-29T10:57:54+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "benchmarks"
+      ],
+      "confidence": 0.33,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "前沿大模型当裁判：39个本地模型50题评测",
+        "takeaway": "用4个前沿LLM给39个本地LLM的50个回答打分，耗时10-20小时，提供横向对比参考。",
+        "bullets": [
+          "4个前沿LLM（Claude因token珍贵仅部分参与）担任评分员",
+          "39个本地LLM在50个提示词下生成回答并被评分",
+          "测试持续10-20小时，模型逐步加入，结果可供社区参考"
+        ],
+        "detail": "有用户用10到20小时，让4个前沿大模型（Claude因token消耗大只部分参与）对39个本地大模型在50个提示词下的回答进行评分。测试中模型是陆续加入的，最终形成一份本地模型横向对比。",
+        "generatedAt": "2026-10-29T10:58:03+08:00"
+      }
+    },
+    {
       "id": "1844afc1ad26ccc1",
       "title": "A small step for man, a GIANT step for LOCAL AI",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xhubiw/a_small_step_for_man_a_giant_step_for_local_ai",
@@ -1819,6 +1926,79 @@
       "topic": "ai",
       "publishedAt": "2026-10-29T08:28:46+08:00",
       "fetchedAt": "2026-10-29T09:53:23+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b30fb35261f66395",
+      "title": "AI芯片，逼近掩模极限",
+      "url": "https://tmtpost.com/8184899.html",
+      "summary": "先进封装正在逼近掩模尺寸极限，CoWoS-L与EMIB也由此展开新一轮竞争。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T10:39:03+08:00",
+      "fetchedAt": "2026-10-29T10:57:54+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "52bc815d1af4288c",
+      "title": "国家算力枢纽，为什么是这八个地方？",
+      "url": "https://tmtpost.com/8185271.html",
+      "summary": "八大枢纽的未来地位，最终取决于谁能够以更低的综合成本，向全国客户稳定交付有价值的计算服务。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T10:38:57+08:00",
+      "fetchedAt": "2026-10-29T10:57:54+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 0.75,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7e48c502b5a3a140",
+      "title": "宇树股价重回700元，具身智能行业好起来了吗？",
+      "url": "https://tmtpost.com/8185322.html",
+      "summary": "宇树股价重回700元，具身智能也在回暖。机器人加速进入真实场景，但量产、回本与泛化三道关仍未跨过。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T10:18:13+08:00",
+      "fetchedAt": "2026-10-29T10:57:54+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
