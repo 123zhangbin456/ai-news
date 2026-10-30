@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "updatedAt": "2026-10-31T24:45:05+08:00",
+  "updatedAt": "2026-10-31T02:21:19+08:00",
   "items": [
     {
       "id": "a8861851d3875fdd",
@@ -601,6 +601,43 @@
       }
     },
     {
+      "id": "c7606af40dbb903f",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T17:00:00+08:00",
+      "fetchedAt": "2026-10-31T02:20:56+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 1,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 发布社区安全报告，强化青少年保护",
+        "takeaway": "OpenAI 在 ChatGPT 中加强暴力预防，并首次承诺公开安全报告，值得关注。",
+        "bullets": [
+          "OpenAI 扩大 ChatGPT 的暴力预防保护措施",
+          "新增更早干预机制，防范潜在风险",
+          "首次承诺定期发布公共安全报告",
+          "重点加强对青少年的保护"
+        ],
+        "detail": "OpenAI 正在加强 ChatGPT 的暴力预防措施，包括扩大保护范围、更早介入潜在风险，并承诺定期发布公共安全报告。此举旨在提升平台安全性，尤其注重保护青少年用户。",
+        "generatedAt": "2026-10-31T02:21:15+08:00"
+      }
+    },
+    {
       "id": "bf95d87155921f0b",
       "title": "Introducing DeepSeek-V4.1-Flash-1017 Dynamic v3.1 Unsloth GGUFs",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xjfuqh/introducing_deepseekv41flash1017_dynamic_v31",
@@ -1153,6 +1190,40 @@
         ],
         "detail": "这位用户在 LocalLLaMA 分享，为检验 Qwen 3.8 27B 的 rope 稳定性，他尝试了 50 万上下文配 fp16 KV 缓存，结果似乎可行。他用同一场会话让模型在 Blender 里制作并动画化 DeepSeek 风格的 Q 版鲸鱼，选 Q 版是因为已有现成流程。",
         "generatedAt": "2026-10-31T24:44:56+08:00"
+      }
+    },
+    {
+      "id": "25cc4c9bb2e3e7e5",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T17:30:00+08:00",
+      "fetchedAt": "2026-10-31T02:20:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 将遵循共享 robots.txt 信号，网站可表达 AI 训练偏好",
+        "takeaway": "OpenAI 宣布支持共享 robots.txt 信号，让网站能统一表达是否允许 AI 训练，简化沟通流程。",
+        "bullets": [
+          "OpenAI 将遵循共享 robots.txt 信号，网站可借此表达 AI 训练偏好。",
+          "该信号面向参与计划的提供商，帮助网站统一传达意愿。",
+          "网站运营者能更简便地控制内容是否用于 AI 训练。"
+        ],
+        "detail": "OpenAI 宣布将遵循一个共享的 robots.txt 信号，让网站运营者能向参与该计划的 AI 提供商传达其内容是否可用于 AI 训练。这简化了网站表达偏好的流程，无需与每家提供商单独沟通。",
+        "generatedAt": "2026-10-31T02:21:15+08:00"
       }
     },
     {
@@ -3419,6 +3490,29 @@
       "topic": "ai",
       "publishedAt": "2026-10-30T21:03:59+08:00",
       "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9e37c40a85b31b2e",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 269 # Comments: 203",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T23:52:18+08:00",
+      "fetchedAt": "2026-10-31T02:20:56+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
