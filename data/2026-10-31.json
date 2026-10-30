@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "updatedAt": "2026-10-30T24:17:24+08:00",
+  "updatedAt": "2026-10-30T18:16:01+08:00",
   "items": [
     {
       "id": "169aca9d9c2aff8c",
@@ -36,6 +36,40 @@
         ],
         "detail": "微软CEO萨提亚·纳德拉过去两年的言论，在本周被视为迄今最清晰的信号：AI即将从根本上改变微软的员工规模。这暗示微软可能因AI而缩减人力，引发对科技行业就业前景的关注。",
         "generatedAt": "2026-10-30T24:17:17+08:00"
+      }
+    },
+    {
+      "id": "d15076e33af6fafa",
+      "title": "EmbeddingGemma 2：Google 把五种模态塞进同一个向量空间",
+      "url": "https://infoq.cn/article/O6mtiB7FVd0VSDHJe348",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T01:00:00+08:00",
+      "fetchedAt": "2026-10-30T18:15:37+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Google 发布 EmbeddingGemma 2：五种模态统一向量空间",
+        "takeaway": "Google 新模型把五种模态映射到同一向量空间，多模态检索与跨模态应用门槛再降。",
+        "bullets": [
+          "EmbeddingGemma 2 支持五种模态，统一嵌入到同一向量空间",
+          "由 Google 发布，延续 Gemma 系列开放模型路线",
+          "利好跨模态检索、多模态 RAG 等应用开发"
+        ],
+        "detail": "Google 推出 EmbeddingGemma 2，核心是把五种不同模态的数据映射到同一个向量空间里。这意味着文本、图像等不同类型内容可以直接比较和检索，为多模态搜索和跨模态应用提供了更统一的基础。",
+        "generatedAt": "2026-10-30T18:15:56+08:00"
       }
     }
   ],
