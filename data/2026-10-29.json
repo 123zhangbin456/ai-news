@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updatedAt": "2026-10-30T07:03:41+08:00",
+  "updatedAt": "2026-10-30T09:24:53+08:00",
   "items": [
     {
       "id": "5ca8bf6a7f7b11ca",
@@ -4002,6 +4002,31 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-10-30T07:03:41+08:00"
+    },
+    {
+      "id": "9c5facb43ea08624",
+      "title": "VibeVoice-ASR-BitNet 实测：AIGCPanel 上 CPU 实时转写",
+      "url": "https://oschina.net/news/503305",
+      "summary": "微软把语音识别模型从 4.62GB 压到 1.58GB，AIGCPanel 把它做成了一键运行包。过去想在本地跑出能用的中文转写，常见路径要么上显卡，要么花半天折腾 Python 和 CUDA。纯 CPU 的方案不是没有，但大多在速度和准确率之间做过妥协。VibeVoice-ASR-BitNet 是微软开源的另一个答案：模型 1.58GB，纯 CPU 推理，支持中英法意...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-29T20:34:53+08:00",
+      "fetchedAt": "2026-10-30T09:24:41+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.4,
+      "score": 32,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "1844afc1ad26ccc1",

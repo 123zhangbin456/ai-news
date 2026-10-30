@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "updatedAt": "2026-10-30T07:03:41+08:00",
+  "updatedAt": "2026-10-30T09:24:53+08:00",
   "items": [
     {
       "id": "4db20898e948fcbb",
@@ -153,6 +153,40 @@
       "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
+      "id": "9ed37ff23703c61b",
+      "title": "刚刚，ChatGPT Pro 额度官宣翻倍，但免费重置可能要没了",
+      "url": "https://ifanr.com/1686830",
+      "summary": "Plus 用户：为我发声 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T08:29:45+08:00",
+      "fetchedAt": "2026-10-30T09:24:41+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 56,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ChatGPT Pro 额度翻倍，免费重置或取消",
+        "takeaway": "OpenAI 上调 Pro 套餐用量，但可能取消免费重置，Plus 用户感到被忽视。",
+        "bullets": [
+          "ChatGPT Pro 套餐的用量额度正式翻倍。",
+          "免费重置额度的福利可能被取消。",
+          "Plus 用户未获同等待遇，引发不满。"
+        ],
+        "detail": "OpenAI 宣布 ChatGPT Pro 用户的额度翻倍，但可能不再提供免费重置。Plus 用户对此表示不满，认为自身权益被忽视。",
+        "generatedAt": "2026-10-30T09:24:49+08:00"
+      }
+    },
+    {
       "id": "32e3919a05879071",
       "title": "API credits benefit for eligible ChatGPT subscriptions",
       "url": "https://simonwillison.net/2026/Oct/29/api-credits",
@@ -261,6 +295,43 @@
       "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
+      "id": "720b04b8c5b9a5a8",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T07:42:22+08:00",
+      "fetchedAt": "2026-10-30T09:24:41+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "says"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Jassy：AWS 将成万亿美元业务，但先要大手笔投入",
+        "takeaway": "亚马逊 CEO 称 AWS 目标成为首个万亿美元营收业务，但需持续巨额资本开支。",
+        "bullets": [
+          "Jassy 表示 AWS 有望成为首个万亿美元营收业务",
+          "为实现目标，亚马逊将继续大规模资本支出",
+          "重点押注 AI 云计算，争夺市场主导地位"
+        ],
+        "detail": "亚马逊 CEO 贾西周四表示，AWS 有望成为公司首个万亿美元营收业务，并成为 AI 云计算领域的领导者。但实现这一目标的前提是持续进行大规模资本开支，继续当前的投入热潮。",
+        "generatedAt": "2026-10-30T09:24:49+08:00"
+      }
+    },
+    {
       "id": "a9493e03c65cfd3b",
       "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
       "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo",
@@ -298,6 +369,80 @@
         "generatedAt": "2026-10-30T02:45:23+08:00"
       },
       "pushedAt": "2026-10-30T07:03:41+08:00"
+    },
+    {
+      "id": "bedd9dab023ed552",
+      "title": "10 coding agents, one Qwen 3.8 27B, same llama-server: tokens and cache reuse differ more than pass rates",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xj182d/10_coding_agents_one_qwen_38_27b_same_llamaserver",
+      "summary": "Part 2 of my agent test (part 1 was a 4B model) Hardware I used: MacBook Pro M5 Max, 64 GB. Qwen 3.8 27B Q4 on llama.cpp, thinking off. Setup same model and server for everyone 5 small coding tasks, each with a little trap each agent locked…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T08:34:49+08:00",
+      "fetchedAt": "2026-10-30T09:24:41+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "同一Qwen 27B模型下，10个编码Agent的token与缓存复用差异远超通过率",
+        "takeaway": "同模型同服务器下，Agent实现差异主要体现在token消耗和缓存复用，而非任务通过率。",
+        "bullets": [
+          "测试用Qwen 3.8 27B Q4，llama.cpp关闭思考模式，MacBook Pro M5 Max 64GB",
+          "10个编码Agent跑5个带陷阱的小任务，通过率接近但token用量分化明显",
+          "缓存复用效率成为区分Agent实现质量的关键指标，而非单纯正确率"
+        ],
+        "detail": "这是Agent测试的第二部分，第一部分用的是4B模型。作者在MacBook Pro M5 Max上以llama.cpp运行Qwen 3.8 27B Q4、关闭思考模式，让10个编码Agent在相同模型和服务器下完成5个各含小陷阱的任务。结果发现各Agent的token消耗和缓存复用差异，比任务通过率的差距更大。",
+        "generatedAt": "2026-10-30T09:24:50+08:00"
+      }
+    },
+    {
+      "id": "e88fb4e061670a5d",
+      "title": "Benchmark: Tiny Harbor, a living 3D island village in three.js (Qwen 3.8 Flash Next)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xj0w5d/benchmark_tiny_harbor_a_living_3d_island_village",
+      "summary": "Saw this prompt on r/DeepSeek and thought I'd give it a shot on my current local build (Qwen 3.8 Flash Next NVFP4). Results are decent, not as good as DeepSeek on the first pass, but I think little back and forth would probably close the ga…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T08:19:36+08:00",
+      "fetchedAt": "2026-10-30T09:24:41+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen",
+        "DeepSeek"
+      ],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "本地模型跑 three.js 小岛村庄：Qwen 3.8 Flash Next 实测",
+        "takeaway": "用户用本地 Qwen 3.8 Flash Next 复现 three.js 3D 岛屿村庄提示词，首轮效果略逊 DeepSeek。",
+        "bullets": [
+          "测试来自 r/DeepSeek 的提示词，在本地 NVFP4 量化版上运行",
+          "首轮生成效果尚可，但不如 DeepSeek 一次成型",
+          "作者认为多轮对话微调后差距可能缩小"
+        ],
+        "detail": "有人在 r/DeepSeek 看到一段生成 three.js 3D 岛屿村庄的提示词，便在自己的本地 Qwen 3.8 Flash Next（NVFP4 量化）上试了试。首轮结果还不错，但不如 DeepSeek 一次生成的效果，作者觉得来回调整几轮应该能补上差距。",
+        "generatedAt": "2026-10-30T09:24:51+08:00"
+      }
     },
     {
       "id": "fd848296f513caca",
@@ -595,6 +740,76 @@
       "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
+      "id": "3f421dfac0528ad9",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T09:20:48+08:00",
+      "fetchedAt": "2026-10-30T09:24:41+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "美国高校管理员获宗教豁免，可拒绝在工作中使用AI",
+        "takeaway": "肯塔基大学一管理员以宗教理由获准工作中不用AI，引发对AI强制使用的讨论。",
+        "bullets": [
+          "肯塔基大学管理员David Durman获宗教豁免，可不在工作中使用AI。",
+          "这是少数因宗教理由拒绝AI的公开案例。",
+          "事件可能促使雇主重新审视强制使用AI的政策。"
+        ],
+        "detail": "肯塔基大学管理员大卫·杜尔曼最近获得了一项宗教豁免，允许他在工作中不使用人工智能。这一案例表明，员工可以基于宗教信仰拒绝使用AI工具，可能引发关于职场AI强制使用的讨论。",
+        "generatedAt": "2026-10-30T09:24:51+08:00"
+      }
+    },
+    {
+      "id": "e89a3617a5ee630a",
+      "title": "Java 近期资讯：JDK 28 JEP、Azul Payara、Gatherers4j、Google ADK、Yupiik 与 Apache Camel CVE",
+      "url": "https://infoq.cn/article/dfj1fLfP8iVLKFtEfr69",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T16:00:00+08:00",
+      "fetchedAt": "2026-10-30T09:24:41+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "apache"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Java 近期动态：JDK 28 新 JEP 与多项开源工具更新",
+        "takeaway": "InfoQ 汇总 Java 生态近期进展，涵盖 JDK 28、Azul Payara、Gatherers4j 等，并提示 Apache Camel 安全漏洞。",
+        "bullets": [
+          "JDK 28 有新 JEP 提案，影响未来 Java 版本演进",
+          "Azul Payara、Gatherers4j、Google ADK 等工具更新",
+          "Yupiik 与 Apache Camel 出现 CVE 安全漏洞需关注"
+        ],
+        "detail": "InfoQ 中国汇总了 Java 领域近期资讯，包括 JDK 28 的 JEP 提案、Azul Payara 相关动态，以及 Gatherers4j、Google ADK、Yupiik 等开源工具更新，同时提及 Apache Camel 的 CVE 安全漏洞。",
+        "generatedAt": "2026-10-30T09:24:51+08:00"
+      }
+    },
+    {
       "id": "bc05a198d9c6635e",
       "title": "Why you can't trust cloud API endpoints: 40 days of coding-agent telemetry showing the exact day providers silently overwrote deepseek-v4.1-flash with -1017 (\"faster execution, shorter answers\" = 3x more swearing and 6.7x more model switches)",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xiqw9i/why_you_cant_trust_cloud_api_endpoints_40_days_of",
@@ -668,6 +883,42 @@
         "generatedAt": "2026-10-30T02:45:28+08:00"
       },
       "pushedAt": "2026-10-30T07:03:41+08:00"
+    },
+    {
+      "id": "e18f9e144d9f82e5",
+      "title": "Sam Altman: “Local inference is a terrible allocation of scarce resources”",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xizbq1/sam_altman_local_inference_is_a_terrible",
+      "summary": "Sam Altman: “ Local inference is a terrible allocation of scarce resources. A lot of people want local inference, and somehow they assume that the problem is solved now because we have open-source models, we're going to be able to run them …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T07:11:52+08:00",
+      "fetchedAt": "2026-10-30T09:24:41+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "奥特曼称本地推理浪费稀缺资源，引发开源社区讨论",
+        "takeaway": "OpenAI CEO 萨姆·奥特曼公开质疑本地推理的价值，与开源模型支持者的观点形成碰撞。",
+        "bullets": [
+          "奥特曼认为本地推理是对稀缺资源的糟糕分配。",
+          "他指出许多人因开源模型出现而误以为本地推理问题已解决。",
+          "此番言论在 r/LocalLLaMA 社区引发讨论。"
+        ],
+        "detail": "奥特曼在近期发言中表示，本地推理是对稀缺资源的糟糕分配。他提到，很多人想要本地推理，并因为有了开源模型就以为问题已经解决、可以运行这些模型了。这一观点与开源社区推崇的本地部署理念形成对比。",
+        "generatedAt": "2026-10-30T09:24:53+08:00"
+      }
     },
     {
       "id": "3a55aa43c7877115",
@@ -827,6 +1078,54 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-10-30T07:03:41+08:00"
+    },
+    {
+      "id": "d8eb5a4b641ea994",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 146 # Comments: 55",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T05:40:28+08:00",
+      "fetchedAt": "2026-10-30T09:24:41+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a88ae3d16dd25cf5",
+      "title": "Updated: Discover AI, an app with 51 hands-on labs for learning how AI works",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xj10ca/updated_discover_ai_an_app_with_51_handson_labs",
+      "summary": "Two weeks ago I posted Discover AI , an app with 51 hands-on labs for learning how AI works, from math fundamentals, a single neuron up to agents, fine-tuning and serving. Thanks to everyone who tried it, commented, filed issues or sent a P…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T08:24:56+08:00",
+      "fetchedAt": "2026-10-30T09:24:41+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "d02a22d338af9d13",
