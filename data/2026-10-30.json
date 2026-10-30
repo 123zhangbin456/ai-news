@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "updatedAt": "2026-10-30T18:16:05+08:00",
+  "updatedAt": "2026-10-31T24:45:05+08:00",
   "items": [
     {
       "id": "a8861851d3875fdd",
@@ -340,6 +340,43 @@
       }
     },
     {
+      "id": "f74e8ee9624d9c2e",
+      "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
+      "url": "https://qbitai.com/2026/10/506779.html",
+      "summary": "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T18:44:01+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "升级"
+      ],
+      "confidence": 1,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "联想天禧AI 4.5全端升级，推出“超能模式”",
+        "takeaway": "联想天禧AI 4.5在AIPC端发布，新增“超能模式”，覆盖三大场景，定位职场助手。",
+        "bullets": [
+          "联想天禧AI 4.5于10月30日在AIPC端正式发布",
+          "新增“超能模式”，全端同步升级",
+          "覆盖三大场景，主打“职场超能搭档”定位"
+        ],
+        "detail": "10月30日，联想天禧AI 4.5在AIPC端正式发布。此次升级推出“超能模式”，并实现全端升级，围绕三大场景打造“职场超能搭档”。",
+        "generatedAt": "2026-10-31T24:44:50+08:00"
+      }
+    },
+    {
       "id": "32e3919a05879071",
       "title": "API credits benefit for eligible ChatGPT subscriptions",
       "url": "https://simonwillison.net/2026/Oct/29/api-credits",
@@ -447,6 +484,45 @@
       }
     },
     {
+      "id": "e666f1d4f581d3e0",
+      "title": "Claude Code for VS Code 官方扩展被植入后门",
+      "url": "https://solidot.org/story?sid=85756",
+      "summary": "安全研究人员在 Cursor Marketplace 的 Claude Code for VS Code 官方扩展中发现了后门，该恶意版本已经撤下，攻击者也关闭了其服务器。Cursor 已发布安全公告，但 Claude Code 开发商 Anthropic 尚未做出任何声明。受影响的版本是 Anthropic.claude-code 2.1.313，共上线了大约 11 小时，受影响用户估计有 5,000 名，该扩展会试图植入一个持久 SSH 后门。恶意扩展会：收集主机和用户信…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T21:43:51+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "上线",
+        "Claude"
+      ],
+      "confidence": 0.44,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Code 官方 VS Code 扩展被植入后门，约 5000 用户受影响",
+        "takeaway": "Cursor 市场中的 Claude Code 官方扩展遭恶意篡改，上线约 11 小时后被撤下，Anthropic 尚未回应。",
+        "bullets": [
+          "受影响版本为 Anthropic.claude-code 2.1.313，在 Cursor 市场上线约 11 小时",
+          "恶意扩展会收集主机和用户信息，并试图植入持久 SSH 后门",
+          "Cursor 已发布安全公告并撤下该版本，攻击者服务器已关闭",
+          "Anthropic 尚未就此事件发表任何声明"
+        ],
+        "detail": "安全研究人员发现，Cursor 市场里的 Claude Code 官方 VS Code 扩展被植入了后门。恶意版本 2.1.313 上线约 11 小时，估计约 5000 名用户受影响，它会收集主机和用户信息，并试图建立持久的 SSH 后门。该版本已被撤下，攻击者服务器也已关闭，Cursor 发布了安全公告，但 Anth",
+        "generatedAt": "2026-10-31T24:44:50+08:00"
+      }
+    },
+    {
       "id": "687b32627befaac2",
       "title": "只有一个人的制药公司，被Anthropic在IPO前收购了",
       "url": "https://tmtpost.com/8186498.html",
@@ -481,6 +557,85 @@
         ],
         "detail": "据钛媒体报道，Anthropic在IPO前收购了一家只有一名员工的制药公司，正式进军制药领域。这家AI公司此前以大模型闻名，此次收购表明它想亲自做药，而非仅提供技术工具。",
         "generatedAt": "2026-10-30T10:03:52+08:00"
+      }
+    },
+    {
+      "id": "77463ed4e8718f9f",
+      "title": "DeepSeek 千亿融资名单曝光，国资占比从 2% 跳到 27%",
+      "url": "https://oschina.net/news/503318",
+      "summary": "DeepSeek 第二轮融资拿下了 1055 亿元人民币，约 158 亿美元。The Information 拿到了出资名单，近 30 家投资者——比金额更有意思的是名单的构成变化。腾讯和宁德时代仍是两大主力。腾讯两轮各出 100 亿；宁德时代及其董事长两轮分别出 50 亿和 100 亿。长鑫存储和中芯国际这两家芯片厂商也在里面，金额未披露。互联网...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T18:56:51+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "轮融资",
+        "投资",
+        "亿美元",
+        "亿元"
+      ],
+      "confidence": 0.83,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 二轮融资 1055 亿元，国资占比升至 27%",
+        "takeaway": "DeepSeek 完成约 158 亿美元二轮融资，出资名单显示国资占比从 2% 大幅升至 27%。",
+        "bullets": [
+          "二轮融资总额 1055 亿元人民币，约合 158 亿美元",
+          "腾讯两轮各投 100 亿，宁德时代及董事长两轮共投 150 亿",
+          "长鑫存储、中芯国际等芯片厂商出现在出资名单中",
+          "国资占比从首轮的 2% 跃升至 27%，结构明显变化"
+        ],
+        "detail": "The Information 获得的出资名单显示，DeepSeek 第二轮融资近 30 家投资者参与，总额 1055 亿元。腾讯和宁德时代仍是主力，长鑫存储、中芯国际等芯片厂商也在列。相比金额，国资占比从 2% 升到 27% 更值得关注。",
+        "generatedAt": "2026-10-31T24:44:50+08:00"
+      }
+    },
+    {
+      "id": "bf95d87155921f0b",
+      "title": "Introducing DeepSeek-V4.1-Flash-1017 Dynamic v3.1 Unsloth GGUFs",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xjfuqh/introducing_deepseekv41flash1017_dynamic_v31",
+      "summary": "Hey everyone! We’re releasing new DeepSeek-V4.1-1017 Dynamic V3.1 (preview) GGUFs which showcases how Unsloth’s GGUFs retain the most accuracy for its size across 7 different benchmarks . We benchmarked ISTA's GSQ-RCO GGUFs but could not re…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T21:48:01+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing",
+        "preview",
+        "DeepSeek"
+      ],
+      "confidence": 0.79,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek-V4.1-Flash 动态版 GGUF 发布，Unsloth 称同尺寸精度最高",
+        "takeaway": "Unsloth 放出 DeepSeek-V4.1-1017 动态 V3.1 预览版 GGUF，主打小体积下精度领先。",
+        "bullets": [
+          "发布方为 Unsloth，模型为 DeepSeek-V4.1-1017 Dynamic V3.1 预览版 GGUF",
+          "在 7 项基准上对比，称同尺寸精度保持最好",
+          "摘要提到也测了 ISTA 的 GSQ-RCO GGUF，但未能复现其表现"
+        ],
+        "detail": "Unsloth 发布了 DeepSeek-V4.1-1017 动态 V3.1 预览版的 GGUF 量化文件，强调在 7 个基准测试中，同尺寸下精度保留最多。团队还测试了 ISTA 的 GSQ-RCO GGUF，但表示无法复现其结果。",
+        "generatedAt": "2026-10-31T24:44:52+08:00"
       }
     },
     {
@@ -553,6 +708,118 @@
         ],
         "detail": "亚马逊 CEO 贾西周四表示，AWS 有望成为公司首个万亿美元营收业务，并成为 AI 云计算领域的领导者。但实现这一目标的前提是持续进行大规模资本开支，继续当前的投入热潮。",
         "generatedAt": "2026-10-30T09:24:49+08:00"
+      }
+    },
+    {
+      "id": "a4231a3499cd586a",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "url": "https://theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T21:01:14+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "says"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "奥特曼同情数学家，但OpenAI的数学攻势不会停",
+        "takeaway": "奥特曼承认AI数学成果让研究者应接不暇，但明确表示OpenAI不会放缓脚步。",
+        "bullets": [
+          "奥特曼对数学家难以消化AI生成结果表示理解",
+          "但他强调OpenAI的数学研究推进不会停止",
+          "暗示未来可能继续加大投入或产出",
+          "数学家面临持续涌入的AI成果压力"
+        ],
+        "detail": "OpenAI CEO奥特曼表示，他同情那些被大量AI生成数学结果淹没的研究者，理解他们难以跟上节奏。但他明确表示，OpenAI不会因此停止数学领域的推进，并暗示后续动作可能更多。",
+        "generatedAt": "2026-10-31T24:44:52+08:00"
+      }
+    },
+    {
+      "id": "3b1e0e461ac69f13",
+      "title": "DeepSeek千亿融资曝光：估值达6155亿元",
+      "url": "https://tmtpost.com/8187857.html",
+      "summary": "DeepSeek的融资故事讲到这里，真正的考验也才刚刚开始。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T18:56:57+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "估值",
+        "亿元"
+      ],
+      "confidence": 0.83,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek千亿融资曝光，估值达6155亿元",
+        "takeaway": "DeepSeek完成千亿级融资，估值6155亿元，但真正的考验才刚开始。",
+        "bullets": [
+          "DeepSeek融资规模达千亿元，估值高达6155亿元。",
+          "消息由钛媒体报道，引发市场广泛关注。",
+          "融资后公司面临更大挑战，考验刚刚开始。"
+        ],
+        "detail": "据钛媒体报道，DeepSeek的千亿融资细节曝光，公司估值达到6155亿元。报道指出，融资故事讲到这里，真正的考验也才刚刚开始。",
+        "generatedAt": "2026-10-31T24:44:52+08:00"
+      }
+    },
+    {
+      "id": "bf5aaab63512aa24",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise",
+      "summary": "https://cursor.com/blog/claude-code-extension-security-notic... https://cyberplace.social/@GossiTheDog/117528831681803563 https://doublepulsar.com/anthropic-hacked-to-deliver-remote-... Comments URL: https://news.ycombinator.com/item?id=503…",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T15:09:12+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 0.9,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor 市场中的 Claude Code 扩展被曝存在后门",
+        "takeaway": "Cursor 市场里的 Claude Code VS Code 扩展被发现植入后门，可能被用来投递远程恶意代码，值得所有使用者警惕。",
+        "bullets": [
+          "问题出在 Cursor 市场分发的 Claude Code 扩展",
+          "安全研究者称 Anthropic 相关渠道被利用来投递远程代码",
+          "使用该扩展的开发者应尽快检查并更新版本"
+        ],
+        "detail": "有安全研究者披露，Cursor 市场中的 Claude Code VS Code 扩展存在后门，攻击者疑似利用 Anthropic 相关渠道投递远程恶意代码。Cursor 官方已发布安全通知，建议开发者关注扩展来源并尽快排查。",
+        "generatedAt": "2026-10-31T24:44:54+08:00"
       }
     },
     {
@@ -665,6 +932,79 @@
       }
     },
     {
+      "id": "b3bd6a6a31e3de9b",
+      "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
+      "url": "https://qbitai.com/2026/10/506785.html",
+      "summary": "之前还连登昇腾三榜第一",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T19:05:06+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI零帧起手写算子，速度反超DeepSeek人类手写巅峰9.8%",
+        "takeaway": "AI自动生成算子性能超越人类手写最佳纪录，此前已登顶昇腾三榜。",
+        "bullets": [
+          "AI从零开始生成算子，速度比DeepSeek人类手写巅峰快9.8%",
+          "该AI此前已连续登顶昇腾三榜第一",
+          "意味着AI在底层算子优化上可能超越人类专家"
+        ],
+        "detail": "AI从零开始自动编写算子，性能反超DeepSeek人类手写的最佳版本，速度快了9.8%。此前该AI已连续在昇腾三个榜单上排名第一，显示出在底层计算优化方面的强大能力。",
+        "generatedAt": "2026-10-31T24:44:53+08:00"
+      }
+    },
+    {
+      "id": "7fc3a98f458ac7b4",
+      "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xjclj9/official_claude_code_vs_code_extension",
+      "summary": "Cybersecurity researchers have disclosed that the official Anthropic Claude Code extension was compromised on the Cursor Marketplace to install a persistent SSH backdoor on infected hosts. Two sources: https://phorion.io/blog/offical-claude…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T19:18:18+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 0.2,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "官方 Claude Code 扩展在 Cursor 市场被篡改，植入 SSH 后门",
+        "takeaway": "安全研究披露，Cursor 市场中的官方 Claude Code 扩展遭篡改，会安装持久 SSH 后门。",
+        "bullets": [
+          "受影响的是 Cursor 市场里的 Anthropic 官方 Claude Code 扩展",
+          "扩展被篡改后会向感染主机植入持久 SSH 后门",
+          "安全研究团队已披露此事，提醒开发者排查",
+          "使用该扩展的开发者可能面临远程控制风险"
+        ],
+        "detail": "安全研究人员发现，Cursor 插件市场中的 Anthropic 官方 Claude Code 扩展被恶意篡改。安装该扩展后，它会在用户机器上植入一个可长期驻留的 SSH 后门，使攻击者能远程访问受感染主机。使用该扩展的开发者应尽快检查并采取防护措施。",
+        "generatedAt": "2026-10-31T24:44:54+08:00"
+      }
+    },
+    {
       "id": "a9493e03c65cfd3b",
       "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
       "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo",
@@ -737,6 +1077,82 @@
         ],
         "detail": "DuckLabs 被收购的消息在社区引发讨论。一方面，社区为团队获得新资源感到高兴；另一方面，也有人担心收购后创新步伐可能变慢。目前收购细节尚未明确，但社区情绪已显现出对开源项目独立性的关注。",
         "generatedAt": "2026-10-30T10:03:52+08:00"
+      }
+    },
+    {
+      "id": "c63a5268b2adc0c6",
+      "title": "李飞飞挖的三个「坑」：从 ImageNet 到空间智能，这一次她会怎么填？",
+      "url": "https://leiphone.com/category/academic/oi5NEt93WcuWwFr8.html",
+      "summary": "82 亿美元，已经为整个世界模型赛道提供了价值锚点。作者丨幸丽娟编辑丨岑峰 82亿美元，全股票收购李飞飞创立的 World Labs。这是 AMD 史上第二大收购，仅次于 2022 年以约 500 亿美元拿下赛灵思。赛灵思是30多年的老牌芯片公司，而 World Labs，仅仅成立两年。这一消息发出后，圈内人士的第一反应很一致：苏姿丰在对标英伟达的 Cosmos 和机器人平台，买人、买模型洞察力、买一张通往物理AI时代的入场券。但苏姿丰不是这笔交易里唯一在下注的人。李飞飞也在…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T19:12:00+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "英伟达",
+        "AMD"
+      ],
+      "confidence": 0.27,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AMD 82亿美元收购李飞飞World Labs，押注空间智能",
+        "takeaway": "AMD以82亿美元全股票收购成立仅两年的World Labs，创其史上第二大收购，直指物理AI与英伟达竞争。",
+        "bullets": [
+          "AMD 82亿美元全股票收购李飞飞创立的World Labs，仅次于收购赛灵思。",
+          "World Labs成立仅两年，专注空间智能，被视为通往物理AI的入场券。",
+          "苏姿丰借此对标英伟达Cosmos和机器人平台，买模型洞察力与人才。",
+          "李飞飞从ImageNet到空间智能，此次收购也是她第三次“挖坑”的延续。"
+        ],
+        "detail": "AMD宣布以82亿美元全股票收购李飞飞创立仅两年的World Labs，这是AMD史上第二大收购。外界认为苏姿丰意在获取空间智能模型洞察力，对标英伟达的Cosmos和机器人平台，争夺物理AI时代入场券。李飞飞则延续从ImageNet到空间智能的布局。",
+        "generatedAt": "2026-10-31T24:44:55+08:00"
+      }
+    },
+    {
+      "id": "d1a2857e47e337e4",
+      "title": "Tried to get Qwen 3.8 27b to make the deepseek chibi whale in blender and animate it lol",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xjf0yg/tried_to_get_qwen_38_27b_to_make_the_deepseek",
+      "summary": "Wanted to test out the rope stablity on the 27b, to see if 500k context with fp16 kv cache was vaiable (apparently yes), and this was the session i used to test things out. The chibi style was choosen as we already had a pipeline to make mo…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T21:12:41+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户实测 Qwen 3.8 27B：50 万上下文稳定，还能在 Blender 里做动画",
+        "takeaway": "社区实测 Qwen 3.8 27B 的长上下文与工具调用能力，对本地部署大模型的人有参考价值。",
+        "bullets": [
+          "测试者用 50 万上下文加 fp16 KV 缓存，判断 rope 稳定性表现可用",
+          "任务是在 Blender 中生成并动画化 DeepSeek 风格的 Q 版鲸鱼",
+          "选择 Q 版风格是因为已有现成制作流程，便于验证模型能力"
+        ],
+        "detail": "这位用户在 LocalLLaMA 分享，为检验 Qwen 3.8 27B 的 rope 稳定性，他尝试了 50 万上下文配 fp16 KV 缓存，结果似乎可行。他用同一场会话让模型在 Blender 里制作并动画化 DeepSeek 风格的 Q 版鲸鱼，选 Q 版是因为已有现成流程。",
+        "generatedAt": "2026-10-31T24:44:56+08:00"
       }
     },
     {
@@ -960,6 +1376,42 @@
       }
     },
     {
+      "id": "4a7c74077d086b60",
+      "title": "让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026",
+      "url": "https://leiphone.com/category/robot/sRmmVes4DwBoIeRm.html",
+      "summary": "FlexiTac压阻式传感器可兼顾柔性、低成本与一致性。作者丨向欣编辑丨岑峰机器人的视觉能力正快速增强，但触觉仍然是具身智能系统中的薄弱环节。尤其是在精细操作场景中，当物体被遮挡、透明、易碎，或需要精确判断接触力与手内姿态时，仅靠视觉往往难以确认机器人是否真正抓稳了物体、是否发生了滑移，也难以实现可靠的力控与顺从交互。与图像领域已经形成相对统一的传感器和数据体系相比，触觉研究尚未形成类似的「收敛」。不同实验室往往使用不同类型的触觉传感器，但它们都面临寿命、柔性、多维信息感知、…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T16:13:00+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.6,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "哥大团队开源 FlexiTac 触觉传感器，推动触觉规模化",
+        "takeaway": "FlexiTac 用压阻式方案兼顾柔性、低成本与一致性，并开源，试图补上具身智能的触觉短板。",
+        "bullets": [
+          "哥大李昀烛团队推出开源压阻式触觉传感器 FlexiTac",
+          "方案兼顾柔性、低成本与一致性，面向规模化使用",
+          "触觉研究缺乏统一传感器与数据体系，此实践或推动收敛"
+        ],
+        "detail": "机器人视觉进步快，但触觉仍是具身智能的薄弱环节，遮挡、透明、易碎物体和力控场景下仅靠视觉难以判断抓稳与滑移。FlexiTac 以压阻式传感器兼顾柔性、低成本与一致性，并选择开源，为触觉研究提供可复用的硬件基础。",
+        "generatedAt": "2026-10-31T24:44:56+08:00"
+      }
+    },
+    {
       "id": "a43792602a2a0e5c",
       "title": ".NET 11 第 2 个候选版本发布，带来生产环境部署许可以及针对库、F#、MAUI 和 WinForms 的更新",
       "url": "https://infoq.cn/article/A8YgLsG4VOhoJkUVq9Jq",
@@ -1067,6 +1519,154 @@
         ],
         "detail": "多数报道只盯着Kimi K3提速1.68倍，却忽略了vLLM博客的关键提醒：AI生成的推理代码已经快到人类来不及逐行审查。英伟达工程师借助AI写出1.2万行Megakernel，在不更换硬件的情况下压榨出模型性能，这意味着算力竞争正转向软件栈，人在回路的协作方式也在被重新定义。",
         "generatedAt": "2026-10-30T18:15:54+08:00"
+      }
+    },
+    {
+      "id": "172eafcc5546fe4a",
+      "title": "全行业两年攒下百万小时数据，影溯想 1 个月生产完：全国首个具身仿真数采中心落地杭州",
+      "url": "https://leiphone.com/category/academic/xPVWQgBN3Foj7fo5.html",
+      "summary": "产能公式从“人×小时”，变成“环境配置数×并行算力”。作者丨幸丽娟编辑丨岑峰训练一个可用的具身智能模型， 需要千万小时的多模态交互数据；而现实仅有百万小时 ，剔除低质部分后，真正可用的更少。缺数据，是具身智能行业的共识。但只盯着“数据”这两个字，会错过更关键的问题： 一台机器人在固定货架前抓取，成功率可以很高。货架挪个方向，目标前多放一排饮料，换一侧伸手，成功率就往下掉。练过的，它能一遍遍做对；没练过的，它连手该从哪边伸都不知道。行业缺的不只是数据量，还有“数据里的变化”。过…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T19:08:00+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 0.33,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "全国首个具身仿真数采中心落地杭州，影溯称1个月可产百万小时数据",
+        "takeaway": "具身智能行业缺数据更缺变化，影溯用仿真并行算力把产能公式从人×小时改为环境配置数×并行算力。",
+        "bullets": [
+          "影溯在杭州落地全国首个具身仿真数采中心",
+          "行业两年仅攒百万小时数据，可用数据更少",
+          "新中心号称1个月可生产完行业两年数据量",
+          "产能公式从人×小时变为环境配置数×并行算力"
+        ],
+        "detail": "训练可用的具身智能模型需要千万小时多模态交互数据，但现实仅有百万小时，剔除低质后更少。影溯认为行业不仅缺数据量，更缺数据里的变化，因此用仿真并行算力提升数据生产规模，在杭州落地全国首个具身仿真数采中心。",
+        "generatedAt": "2026-10-31T24:44:58+08:00"
+      }
+    },
+    {
+      "id": "f63058a65b72ed2e",
+      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026",
+      "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T21:00:00+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "founder"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "TechCrunch创始人峰会2026早鸟票倒计时5天",
+        "takeaway": "TechCrunch创始人峰会2026早鸟优惠仅剩5天，最高省100美元并获赠免费通行证。",
+        "bullets": [
+          "峰会定于2026年11月4日在波士顿举行。",
+          "5天内注册可省最高100美元，另得一张免费通行证。",
+          "面向创始人提供连接、扩展与节省成本的机会。"
+        ],
+        "detail": "TechCrunch创始人峰会2026将于11月4日在波士顿举办。现在注册可享受最高100美元的优惠，并额外获得一张免费通行证，优惠仅剩5天。",
+        "generatedAt": "2026-10-31T24:44:58+08:00"
+      }
+    },
+    {
+      "id": "8a44148d368702d3",
+      "title": "LibreOffice 项目递交的代码发现使用LLM 的明确标记",
+      "url": "https://solidot.org/story?sid=85755",
+      "summary": "开发 LibreOffice 的 The Document Foundation(TDF)此前表示这款办公软件不会内置 AI 功能，其核心开发者也不使用 LLM 等 AI 辅助编程工具。但向该项目贡献代码的社区开发者未必会遵守该规定。对今年递交到 LibreOffice 的代码的分析显示至少由三处明确提及使用 LLM。社区开发者在代码中提及他们使用了 Claude 或 GitHub Copilot 等工具。这一结果并不出人意料，大型开源项目基本上不太可能完全避开 LLM。TD…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T18:45:38+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源",
+        "github"
+      ],
+      "confidence": 0.56,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "LibreOffice 代码库发现社区开发者使用 LLM 的明确标记",
+        "takeaway": "TDF 声称不用 AI 编程，但社区贡献的代码中至少三处提及 Claude 或 Copilot，暴露开源项目管控难题。",
+        "bullets": [
+          "TDF 曾表示 LibreOffice 不内置 AI，核心开发者也不用 LLM。",
+          "今年递交的代码中至少三处明确提及使用 Claude 或 GitHub Copilot。",
+          "大型开源项目很难完全避开 LLM，社区贡献者未必遵守规定。"
+        ],
+        "detail": "LibreOffice 背后的 TDF 此前承诺不内置 AI 功能，核心开发者也不使用 LLM 辅助编程。但分析今年提交的代码发现，至少三处社区贡献明确提到使用了 Claude 或 GitHub Copilot。这说明大型开源项目很难完全避开 LLM，社区开发者的行为未必与官方立场一致。",
+        "generatedAt": "2026-10-31T24:44:59+08:00"
+      }
+    },
+    {
+      "id": "e644202b49528445",
+      "title": "Copium Prediction: Google and other major labs will drop new local models over the next few days so they can lead on benchmarks until Qwen 4 sweeps them next week.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xjigxg/copium_prediction_google_and_other_major_labs",
+      "summary": "We saw this earlier when Gemma 4 dropped just a few days before a previous Qwen release. I feel like a few other labs did the same. Everybody wants that moment in the spotlight where they can lead the benchmarks for at least a day or two be…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T23:29:46+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Qwen"
+      ],
+      "confidence": 0.14,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "网友预测：谷歌等大厂将抢发本地模型，赶在Qwen 4前刷榜",
+        "takeaway": "Reddit网友调侃大厂会抢在Qwen 4发布前推出新本地模型，只为短暂占据榜单第一。",
+        "bullets": [
+          "网友预测谷歌等主要实验室未来几天发布新本地模型",
+          "目的是在Qwen 4下周横扫榜单前短暂领先基准测试",
+          "此前Gemma 4就曾在Qwen发布前几天抢先亮相",
+          "反映开源模型竞争激烈，厂商争抢榜单曝光窗口"
+        ],
+        "detail": "有网友在LocalLLaMA发帖预测，谷歌等主要实验室会在未来几天发布新的本地模型，以便在Qwen 4下周横扫基准测试前，至少领先榜单一两天。发帖人提到，此前Gemma 4就曾在Qwen发布前几天亮相，其他实验室也有类似做法，大家都想抓住短暂的聚光灯时刻。",
+        "generatedAt": "2026-10-31T24:45:00+08:00"
       }
     },
     {
@@ -1511,6 +2111,218 @@
       }
     },
     {
+      "id": "62373f3f48e14eef",
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate",
+      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Regist…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T22:00:00+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "founder"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "TechCrunch峰会引入Braindate，告别寒暄精准社交",
+        "takeaway": "TechCrunch 2026创始人峰会采用Braindate工具，帮参会者跳过闲聊，直接匹配高质量1对1或小组会谈。",
+        "bullets": [
+          "峰会2026年11月4日在波士顿SoWa Power Station举办",
+          "Braindate支持1对1和小组现场会谈，减少无效寒暄",
+          "面向创始人，旨在促成更有价值的商业连接"
+        ],
+        "detail": "TechCrunch 2026创始人峰会将于11月4日在波士顿SoWa Power Station举行。主办方引入Braindate社交工具，让参会者能更轻松地找到1对1或小组现场会谈对象，跳过无意义的寒暄，直接建立有实质意义的连接。",
+        "generatedAt": "2026-10-31T24:45:00+08:00"
+      }
+    },
+    {
+      "id": "e9e7beb52b83e198",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
+      "summary": "DoorDash said that it is open to working with third-party agent makers.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T21:54:25+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DoorDash：AI代理下单仅数百单，仍愿与第三方合作",
+        "takeaway": "DoorDash披露AI代理订单量尚小，但表态开放合作，显示AI购物代理仍处早期。",
+        "bullets": [
+          "DoorDash称来自AI代理的订单仅数百单",
+          "公司表示愿意与第三方代理开发商合作",
+          "AI代理下单模式仍处早期，规模有限"
+        ],
+        "detail": "DoorDash透露，目前通过AI代理下达的订单只有“数百单”，数量还很小。不过公司表示愿意与第三方代理开发商合作，说明它看好AI代理点外卖的潜力，只是现阶段规模尚小。",
+        "generatedAt": "2026-10-31T24:45:01+08:00"
+      }
+    },
+    {
+      "id": "3e4e3eed2bbff167",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
+      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T21:00:00+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI数据中心也能流水线生产？Runware建厂尝试",
+        "takeaway": "Runware建厂用流水线生产预制AI数据中心，规模化交付能力待验证。",
+        "bullets": [
+          "Runware正在建设工厂，用流水线生产预制AI数据中心。",
+          "目标是把AI数据中心像汽车一样批量制造。",
+          "关键考验在于能否实现大规模交付。"
+        ],
+        "detail": "Runware正在建厂，计划用流水线方式生产预制AI数据中心，目标是像造汽车一样批量制造。真正的考验在于它能否实现这种规模化的交付。",
+        "generatedAt": "2026-10-31T24:45:01+08:00"
+      }
+    },
+    {
+      "id": "c4bb3b9b5d211edd",
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "url": "https://theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"t…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T22:58:06+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tools"
+      ],
+      "confidence": 0.5,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "教皇利奥呼吁为AI“解除武装”：机器是工具，不是人",
+        "takeaway": "教皇利奥十四世在联合国场合呼吁给AI“解除武装”，强调人类应主导并有权拒绝其应用。",
+        "bullets": [
+          "教皇利奥十四世在周五教宗讲话中提出AI系统应被“解除武装”",
+          "他强调机器只是工具而非人，人类有责任引导、改变乃至拒绝AI应用",
+          "讲话面向联合国成员国，呼吁国际社会共同应对AI风险"
+        ],
+        "detail": "教皇利奥十四世在周五的教宗讲话中表示，AI系统应当被“解除武装”。他指出，机器只是工具，不是人，人类有责任引导、改变，并在必要时拒绝AI的应用。他还鼓励联合国成员国共同参与这一议题。",
+        "generatedAt": "2026-10-31T24:45:03+08:00"
+      }
+    },
+    {
+      "id": "8bf6d66943506208",
+      "title": "Silicon Valley wants you to invest in miracles",
+      "url": "https://theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risk…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T21:11:05+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "硅谷兜售奇迹投资，AI风险被轻描淡写",
+        "takeaway": "硅谷把AI投资包装成稳赚的奇迹，却淡化其可能带来的灾难性风险，值得警惕。",
+        "bullets": [
+          "投资股票本就类似赌博，押注公司未来表现。",
+          "但AI技术最坏可能带来灾难性或生存性风险。",
+          "硅谷却鼓励人们投资这种‘奇迹’，风险被忽视。"
+        ],
+        "detail": "买股票就像赌博，赌的是公司未来。但当你押注的技术最坏可能造成灾难甚至生存危机时，硅谷却仍在鼓吹投资奇迹，这种风险与回报的失衡值得深思。",
+        "generatedAt": "2026-10-31T24:45:03+08:00"
+      }
+    },
+    {
+      "id": "7220c5dc2ad33315",
+      "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
+      "url": "https://qbitai.com/2026/10/506819.html",
+      "summary": "xs，还要给机器人打绩效",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T20:58:31+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "榜单"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "智元双模型登顶多榜，机器人也要打绩效",
+        "takeaway": "智元用两个模型横扫多个榜单第一，还调侃给机器人打绩效，展示其研究实力。",
+        "bullets": [
+          "智元双模型在多个榜单上排名第一。",
+          "官方调侃要给机器人打绩效，引发关注。",
+          "体现智元在机器人AI领域的研究进展。"
+        ],
+        "detail": "智元宣布其两个模型在多个榜单上拿下第一，成绩亮眼。官方还幽默表示要给机器人打绩效，暗示模型表现优异。这展示了智元在机器人相关AI研究上的实力。",
+        "generatedAt": "2026-10-31T24:45:03+08:00"
+      }
+    },
+    {
       "id": "bc05a198d9c6635e",
       "title": "Why you can't trust cloud API endpoints: 40 days of coding-agent telemetry showing the exact day providers silently overwrote deepseek-v4.1-flash with -1017 (\"faster execution, shorter answers\" = 3x more swearing and 6.7x more model switches)",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xiqw9i/why_you_cant_trust_cloud_api_endpoints_40_days_of",
@@ -1547,6 +2359,77 @@
         "generatedAt": "2026-10-30T02:45:28+08:00"
       },
       "pushedAt": "2026-10-30T07:03:41+08:00"
+    },
+    {
+      "id": "fdc6e1d8e3bf5c19",
+      "title": "Maine’s data center revolt will decide who controls the Senate",
+      "url": "https://theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T19:00:00+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center",
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "缅因州数据中心抗议或成参议院控制权关键",
+        "takeaway": "缅因州选民对AI数据中心的环境担忧，可能影响参议院控制权归属。",
+        "bullets": [
+          "缅因州参议员柯林斯在辩论中被抗议者打断，对方称AI数据中心破坏气候。",
+          "抗议反映当地对数据中心环境影响的强烈不满。",
+          "此事可能影响中期选举，决定参议院控制权。"
+        ],
+        "detail": "缅因州共和党参议员苏珊·柯林斯在中期选举最后一场辩论中为政绩辩护时，被一名观众打断。该男子高喊“我很害怕”，指责AI数据中心正在破坏气候。这场抗议凸显数据中心的环境争议，可能影响选情和参议院控制权。",
+        "generatedAt": "2026-10-31T24:45:04+08:00"
+      }
+    },
+    {
+      "id": "38a5381823fd8ff5",
+      "title": "OpenAI又出数学大结果，陶哲轩：数学不该被AI“掠夺式开采”",
+      "url": "https://tmtpost.com/8187753.html",
+      "summary": "AI野蛮人敲门，数学界难寻白衣骑士。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T19:00:28+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI再获数学突破，陶哲轩警示AI掠夺式开采",
+        "takeaway": "OpenAI数学成果引关注，陶哲轩担忧AI对数学的掠夺式开发，值得深思。",
+        "bullets": [
+          "OpenAI在数学领域取得新成果，引发学界关注。",
+          "陶哲轩指出数学不应被AI掠夺式开采，强调可持续性。",
+          "事件涉及AI与数学研究的互动关系，可能影响未来方向。"
+        ],
+        "detail": "OpenAI又公布了一项数学大结果，数学家陶哲轩对此评论称，数学不该被AI“掠夺式开采”。这反映出AI在数学领域的激进应用引发担忧，数学界似乎缺乏应对的“白衣骑士”。",
+        "generatedAt": "2026-10-31T24:45:05+08:00"
+      }
     },
     {
       "id": "dd66d5e8fdc57555",
@@ -1621,6 +2504,58 @@
       }
     },
     {
+      "id": "9fd54443238a86c4",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "url": "https://theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to use…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T17:00:00+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "copyright"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "931da63b4be30c05",
+      "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
+      "url": "https://qbitai.com/2026/10/506747.html",
+      "summary": "创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T16:12:11+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "估值",
+        "亿美元",
+        "独角兽"
+      ],
+      "confidence": 0.86,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "e29ac71b50c26d6c",
       "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
       "url": "https://qbitai.com/2026/10/506569.html",
@@ -1653,6 +2588,31 @@
         "detail": "智己LS8纯电版正式公布售价，25万元起，全系标配线控底盘和宁德时代电池。智能驾驶方面采用Momenta世界模型，官方宣传“买车送终身AI”，突出AI功能的长期价值。",
         "generatedAt": "2026-10-30T18:15:58+08:00"
       }
+    },
+    {
+      "id": "f305d870ac9be29a",
+      "title": "inclusionAI/ZwZ2 27B/9B/4B (Qwen finetunes)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xjcl4x/inclusionaizwz2_27b9b4b_qwen_finetunes",
+      "summary": "✨ Model Summary ZwZ2-27B is the Qwen3.6-27B -based model in Zooming-without-Zooming-v2 (ZwZ2) . It learns to connect visual evidence across regions through comparison, aggregation, matching, and multi-step reasoning. Training uses full imag…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T19:17:43+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "478f310810d14e0e",
@@ -2174,6 +3134,32 @@
       "pushed": false
     },
     {
+      "id": "8536e496dca508ca",
+      "title": "sensenova/SenseNova-Loop-9B-Preview · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xje5oo/sensenovasensenovaloop9bpreview_hugging_face",
+      "summary": "Overview SenseNova-Loop-9B-Preview is a multimodal language model developed for long-context and agentic workflows. It accepts text and images and generates text for applications that combine document understanding, coding, and interaction …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T20:34:31+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "preview",
+        "multimodal"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "0d971d53d8ead5c0",
       "title": "【AI 智能运维平台】本周更新：全新上线 RUM 模块，从真实用户视角了解网站访问与使用体验",
       "url": "https://oschina.net/news/503312",
@@ -2418,6 +3404,29 @@
       "pushed": false
     },
     {
+      "id": "6a3053b52fb2ce90",
+      "title": "汽车工业的下一条流水线，开始由 AI 来安排",
+      "url": "https://ifanr.com/1686953",
+      "summary": "从司机乘客，到汽车工厂，再到整个产业。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T21:03:59+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "d02a22d338af9d13",
       "title": "UkisAI Swift GLM5.3 + GSQ-RCO, Swift Ornith 9B / -57.7% Token Usage with <1% accuracy loss on max reasoning",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xisqge/ukisai_swift_glm53_gsqrco_swift_ornith_9b_577",
@@ -2459,6 +3468,54 @@
       "topic": "ai",
       "publishedAt": "2026-10-30T14:02:41+08:00",
       "fetchedAt": "2026-10-30T18:15:37+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e0fd1b24e197c1ad",
+      "title": "具身智能患上了焦虑症",
+      "url": "https://tmtpost.com/8187761.html",
+      "summary": "具身智能投资，正从狂热到冷静",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T19:01:28+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "投资"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "900e9bb7ced403fd",
+      "title": "跨境电商的AI真相：进入更易，胜出更难",
+      "url": "https://tmtpost.com/8187749.html",
+      "summary": "2026年跨境电商最清晰的结构性变化是，AI让进场变得容易，也让留下变得昂贵。门槛并没有消失，只是从“会不会用工具”，移到了“有没有别人拿不走的硬实力”",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T19:00:30+08:00",
+      "fetchedAt": "2026-10-31T24:44:40+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
