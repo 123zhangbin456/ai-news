@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "updatedAt": "2026-10-30T09:24:53+08:00",
+  "updatedAt": "2026-10-30T10:03:54+08:00",
   "items": [
     {
       "id": "4db20898e948fcbb",
@@ -260,6 +260,43 @@
       "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
+      "id": "687b32627befaac2",
+      "title": "只有一个人的制药公司，被Anthropic在IPO前收购了",
+      "url": "https://tmtpost.com/8186498.html",
+      "summary": "Anthropic也开始自己做药了。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T09:25:13+08:00",
+      "fetchedAt": "2026-10-30T10:03:31+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "收购",
+        "IPO"
+      ],
+      "confidence": 1,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic IPO前收购一人制药公司，跨界自研药物",
+        "takeaway": "AI公司Anthropic在IPO前收购只有一名员工的制药公司，开始自己做药，跨界信号明确。",
+        "bullets": [
+          "收购方是AI公司Anthropic，标的是一家仅一人的制药公司。",
+          "交易发生在Anthropic IPO之前，时机敏感。",
+          "这意味着Anthropic不再只做AI模型，开始涉足药物研发。"
+        ],
+        "detail": "据钛媒体报道，Anthropic在IPO前收购了一家只有一名员工的制药公司，正式进军制药领域。这家AI公司此前以大模型闻名，此次收购表明它想亲自做药，而非仅提供技术工具。",
+        "generatedAt": "2026-10-30T10:03:52+08:00"
+      }
+    },
+    {
       "id": "7bf0065ceb1646f5",
       "title": "An updated Model Spec for more capable and beneficial AI",
       "url": "https://openai.com/index/updated-model-spec",
@@ -369,6 +406,42 @@
         "generatedAt": "2026-10-30T02:45:23+08:00"
       },
       "pushedAt": "2026-10-30T07:03:41+08:00"
+    },
+    {
+      "id": "a3e2b2679a8e154f",
+      "title": "希望这不会拖慢创新：DuckLabs 被收购，社区既高兴又警惕",
+      "url": "https://infoq.cn/article/pwQAXtApbhdQRN2vQfdS",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T18:00:00+08:00",
+      "fetchedAt": "2026-10-30T10:03:31+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "收购"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DuckLabs 被收购，社区喜忧参半",
+        "takeaway": "DuckLabs 被收购引发社区关注，既期待资源注入又担忧创新受阻。",
+        "bullets": [
+          "DuckLabs 被收购，具体收购方未在标题中披露。",
+          "社区反应复杂：高兴于发展机会，警惕创新可能放缓。",
+          "事件提醒关注收购对开源创新节奏的潜在影响。"
+        ],
+        "detail": "DuckLabs 被收购的消息在社区引发讨论。一方面，社区为团队获得新资源感到高兴；另一方面，也有人担心收购后创新步伐可能变慢。目前收购细节尚未明确，但社区情绪已显现出对开源项目独立性的关注。",
+        "generatedAt": "2026-10-30T10:03:52+08:00"
+      }
     },
     {
       "id": "bedd9dab023ed552",
@@ -848,6 +921,42 @@
       "pushedAt": "2026-10-30T07:03:41+08:00"
     },
     {
+      "id": "dd66d5e8fdc57555",
+      "title": "Qwen 3.8 what am I missing here?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xj2hi1/qwen_38_what_am_i_missing_here",
+      "summary": "I'm just starting my journey here into local LLM. Since I work in VFX I've got a 5090 and 256GB of sys mem. Installed LM studio and downloaded Qwen 3.8 27B since that very comfortably fits in VRAM. Set it to low effort and all the other typ…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T09:35:02+08:00",
+      "fetchedAt": "2026-10-30T10:03:31+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "本地跑 Qwen 3.8 27B：新手困惑点在哪",
+        "takeaway": "一位 VFX 从业者用 5090 加 256GB 内存跑 Qwen 3.8 27B，却不确定自己漏了什么。",
+        "bullets": [
+          "发帖人刚入门本地大模型，硬件是 5090 显卡加 256GB 系统内存",
+          "他用 LM Studio 下载了 Qwen 3.8 27B，认为显存完全够放",
+          "他把模型设为低强度模式，但对其他设置仍存疑问"
+        ],
+        "detail": "发帖人刚接触本地大模型，因从事视觉特效工作，手上有 5090 显卡和 256GB 系统内存。他用 LM Studio 下载了 Qwen 3.8 27B，觉得显存足够容纳，并调成低强度模式，但不确定自己还漏了哪些设置。",
+        "generatedAt": "2026-10-30T10:03:52+08:00"
+      }
+    },
+    {
       "id": "478f310810d14e0e",
       "title": "ServiceNow-AI/Apriel-Voice-27B-preview · Hugging Face",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xipftk/servicenowaiaprielvoice27bpreview_hugging_face",
@@ -1030,6 +1139,42 @@
         "generatedAt": "2026-10-30T07:03:40+08:00"
       },
       "pushedAt": "2026-10-30T07:03:41+08:00"
+    },
+    {
+      "id": "9906470a46d35e03",
+      "title": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+      "url": "https://infoq.cn/article/UNli8x0wc8XUNjI5ETya",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-30T17:23:00+08:00",
+      "fetchedAt": "2026-10-30T10:03:31+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Chainguard 推出 AI 编码智能体安全工作区与安全校验",
+        "takeaway": "Chainguard 为 AI 编码智能体加上安全边界，让自动写代码更可控。",
+        "bullets": [
+          "Chainguard 发布面向 AI 编码智能体的安全工作区",
+          "同时提供安全校验能力，约束智能体行为",
+          "目标是降低 AI 自动改代码带来的安全风险"
+        ],
+        "detail": "Chainguard 推出两项能力：一是给 AI 编码智能体使用的安全工作区，二是配套的安全校验。目的是让智能体在受限、可检查的环境里写代码和改代码，减少自动操作带来的安全隐患。",
+        "generatedAt": "2026-10-30T10:03:54+08:00"
+      }
     },
     {
       "id": "66355fca5267c9a3",
