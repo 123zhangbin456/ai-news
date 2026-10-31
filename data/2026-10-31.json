@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "updatedAt": "2026-11-01T01:27:37+08:00",
+  "updatedAt": "2026-11-01T06:06:10+08:00",
   "items": [
     {
       "id": "045bbe365f3887a2",
@@ -102,7 +102,7 @@
       "confidence": 0.6,
       "score": 57,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DeepSeek 发布全新 Agent 架构，AI 开始指挥 AI 干活",
         "takeaway": "DeepSeek 推出新 Agent 架构，让 AI 调度 AI 协作，或突破人类瓶颈。",
@@ -113,7 +113,8 @@
         ],
         "detail": "DeepSeek 发布了全新的 Agent 架构，其核心思路是让 AI 来指挥其他 AI 完成任务。文章指出，AI Agent 发展的下一个瓶颈可能在于人类自身，而新架构有望减少对人工调度的依赖。",
         "generatedAt": "2026-10-31T22:58:47+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "1ad66cf690a946d3",
@@ -322,7 +323,7 @@
       "confidence": 1,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Claude取消5小时限制，200美元Ultra用户率先解封",
         "takeaway": "Anthropic取消Claude的5小时使用限制，首批面向200美元Ultra订阅用户开放。",
@@ -333,7 +334,8 @@
         ],
         "detail": "Anthropic宣布取消Claude的5小时使用限制，首批面向每月支付200美元的Ultra订阅用户开放。这些用户现在可以不受5小时窗口限制地使用Claude，其他订阅档位是否跟进尚未明确。",
         "generatedAt": "2026-10-31T16:58:50+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "1fff1698b18b4437",
@@ -398,7 +400,7 @@
       "confidence": 0.83,
       "score": 47,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "英伟达或为西弗吉尼亚AI数据中心贷款担保",
         "takeaway": "英伟达考虑为Nscale的AI数据中心贷款做担保，以缓解投资者对AI支出的担忧。",
@@ -409,7 +411,8 @@
         ],
         "detail": "英伟达正在考虑为Nscale位于西弗吉尼亚州的AI数据中心贷款提供担保。当投资者对AI支出感到紧张时，由出售芯片的厂商出面为贷款背书，有助于增强市场信心。",
         "generatedAt": "2026-10-31T09:43:08+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "169aca9d9c2aff8c",
@@ -508,7 +511,7 @@
       "confidence": 0,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "国行 Apple 智能官宣，完整版 Siri AI 仍需等待",
         "takeaway": "苹果宣布国行 Apple 智能即将上线，但完整版 Siri AI 功能还要再等。",
@@ -520,7 +523,8 @@
         ],
         "detail": "苹果正式宣布国行版 Apple 智能即将上线，但用户期待的完整版 Siri AI 功能还需要等待。目前官方未透露具体时间表和功能细节，国内用户暂时无法体验全部 AI 能力。",
         "generatedAt": "2026-10-31T09:43:09+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "00df6d3d33c12b01",
@@ -545,7 +549,7 @@
       "confidence": 1,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Helidon 开启双轨发布：拥抱 JDK 27 同时保留 JDK 21",
         "takeaway": "Helidon 同时维护两条 JDK 版本线，让用户既能尝鲜新特性又不必立刻迁移。",
@@ -556,7 +560,8 @@
         ],
         "detail": "Helidon 宣布同时发布两条版本线：一条适配 JDK 27，另一条继续支持 JDK 21。这样开发者可以按项目节奏选择跟进新 JDK 或留在长期稳定版本，不必被迫同步升级。",
         "generatedAt": "2026-10-31T16:58:50+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "89b6ec60b2866d15",
@@ -581,7 +586,7 @@
       "confidence": 0.25,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "律师用双 DGX Spark 加旧 3090 跑 DeepSeek-V4.1-Flash，预填充超 2600 tok/s",
         "takeaway": "非科班律师用 Claude Code 搭多机推理栈，跑出 256K 上下文高吞吐并公开全部数据。",
@@ -593,7 +598,8 @@
         ],
         "detail": "这位自称“中年危机”的律师又升级了装备：在原有 V100 服务器之外买了两台 DGX Spark，和一台旧 3090 主机组成推理环境，跑 DeepSeek-V4.1-Flash。全程仍靠 Claude Code 驱动，预填充到 256K 上下文超过 2600 tok/s，结构化输出 322 tok/s，并公开了整套配",
         "generatedAt": "2026-10-31T16:58:51+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "9b6ae3890b4eca49",
@@ -618,7 +624,7 @@
       "confidence": 1,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "微软开源4B小模型Mage-VL-Cowork，专攻混合电脑操作",
         "takeaway": "微软发布4B视觉语言模型，通过教师框架进化与工作流环境合成，实现高效电脑操作。",
@@ -629,7 +635,8 @@
         ],
         "detail": "微软在Hugging Face发布Mage-VL-Cowork，展示了一个高效的4B小视觉语言模型。它通过上游教师框架进化、工作流优先的环境合成工具Mage-CUA-Forge以及五阶段训练，掌握了混合电脑操作能力。",
         "generatedAt": "2026-10-31T22:58:47+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "4b03cac21f21c8e5",
@@ -690,7 +697,7 @@
       "confidence": 0,
       "score": 43,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Parameter 团队称发现 OpenAI 漏洞，可接管 ChatGPT 账号",
         "takeaway": "安全团队披露能接管 ChatGPT 账号的漏洞，引发对 AI 账户安全的关注。",
@@ -701,7 +708,8 @@
         ],
         "detail": "Parameter 团队在 Hacker News 发布文章，声称发现 OpenAI 的一个缺口，能够接管 ChatGPT 账号。原文链接指向其实验室页面，讨论热度较高。摘要未透露具体技术细节，但账号接管意味着用户对话与数据可能面临风险。",
         "generatedAt": "2026-10-31T22:58:47+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "93bf2b1198b776fd",
@@ -726,7 +734,7 @@
       "confidence": 1,
       "score": 42,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "制造老炮把品胜AI交给00后：开源才是护城河",
         "takeaway": "品胜将AI落地交给年轻团队，强调开源与可复用能力，探索制造生产力升级。",
@@ -737,7 +745,8 @@
         ],
         "detail": "品胜的赵国成将AI应用交给00后团队，强调AI必须转化为实际生产力。丛泽龙团队面临的挑战是如何把具体创新变成可复用、持续更新的能力，而开源被视为构建护城河的核心。",
         "generatedAt": "2026-10-31T16:58:52+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "d15076e33af6fafa",
@@ -1088,7 +1097,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "主打隐私保护的AI助手Ollie宣布一周内关停",
         "takeaway": "AI助手赛道拥挤，隐私优先的Ollie难以为继，创始人宣布一周后停止服务。",
@@ -1099,7 +1108,8 @@
         ],
         "detail": "Ollie是一款强调保护用户隐私的AI助手。其创始人表示，随着市面上AI助手越来越多，竞争加剧，Ollie将在约一周后停止运营。这反映出隐私优先的小型产品在拥挤赛道中面临的生存压力。",
         "generatedAt": "2026-10-31T09:10:33+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "bffe083091894b23",
@@ -1122,7 +1132,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "8G iPad 里藏着 12G 内存？苹果刀法再引热议",
         "takeaway": "苹果被指硬件预留内存容量，用户实际可用低于标称，引发对产品策略的讨论。",
@@ -1133,7 +1143,8 @@
         ],
         "detail": "近期有讨论指出，部分标称 8G 内存的 iPad 实际搭载了 12G 内存硬件，但系统或固件限制了可用容量。这种“硬件有余量却不让用”的做法被网友比作“牛奶倒河里”，并调侃为库克精准的“刀法”。",
         "generatedAt": "2026-10-31T16:58:52+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "0b589a6ccbefc76d",
@@ -1159,7 +1170,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "世界模型首次指导芯片设计，NPU达700TOPS且99%算力可用",
         "takeaway": "世界模型首次用于芯片设计，产出超大核NPU，算力利用率达99%，为AI芯片设计开辟新路径。",
@@ -1170,7 +1181,8 @@
         ],
         "detail": "量子位报道，世界模型首次被用于指导芯片设计，设计出的超大核NPU提供700TOPS算力，且99%的算力可被实际利用。这标志着AI参与芯片设计的新尝试，有望提升芯片研发效率和算力利用率。",
         "generatedAt": "2026-10-31T16:58:53+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "c537f963f20248b6",
@@ -1193,7 +1205,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "腾讯云与英特尔共筑Agentic AI执行新底座",
         "takeaway": "AI从思考走向执行，腾讯云与英特尔合作打造Agentic AI新底座，值得关注。",
@@ -1204,7 +1216,8 @@
         ],
         "detail": "腾讯云与英特尔宣布合作，共同构建面向Agentic AI的执行新底座。这标志着AI从侧重思考向侧重执行转变，双方将结合云计算与芯片技术，推动AI在实际场景中的落地应用。",
         "generatedAt": "2026-10-31T16:58:54+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "d5bb41b6ba041206",
@@ -1229,7 +1242,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Meta的Muse尚未颠覆行业，企业忙于安抚投资者",
         "takeaway": "Meta的AI代理Muse被指可能颠覆多行业，但企业称其目前机遇大于威胁。",
@@ -1240,7 +1253,8 @@
         ],
         "detail": "过去几周，多家公司试图安抚投资者，强调Meta的Muse等AI代理带来的更多是机会而非威胁。尽管Muse被认为可能颠覆多种业务，但目前尚未真正发生。",
         "generatedAt": "2026-10-31T22:58:49+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "f7fbc5e321c4b990",
@@ -1377,7 +1391,7 @@
       "confidence": 0,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "8B医疗多模态模型登Nature，表现超越临床医生",
         "takeaway": "一个仅80亿参数的临床视觉语言基础模型在多项任务上超过人类医生，且具备细粒度可解释性。",
@@ -1388,7 +1402,8 @@
         ],
         "detail": "这篇《Nature》论文提出一个临床多模态视觉语言基础模型，参数量仅80亿，却在多模态理解上超过临床医生。研究还强调模型具备细粒度可解释性，让输出更可追溯。",
         "generatedAt": "2026-10-31T16:58:54+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "c2d22565194bb9c1",
@@ -1413,7 +1428,7 @@
       "confidence": 0,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Betelgeuse 让 Qwen 3.8 Flash 在 RTX 3060 上跑出 22 tok/s",
         "takeaway": "消费级显卡加普通内存也能稳定跑大模型，且输出与原始模型逐位一致。",
@@ -1424,7 +1439,8 @@
         ],
         "detail": "作者两个月前曾尝试预测 Qwen 3.6 35B 下一个 token 会用到哪些 MoE 专家，以加速 CPU/GPU 卸载，但当时原型被放弃。这次他用 Betelgeuse 方案在 RTX 3060 12GB 加 16GB DDR4 上跑 Qwen 3.8 Flash，持续速度 22 tok/s、峰值 48 tok/",
         "generatedAt": "2026-10-31T22:58:49+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "9b9d41450cd6db7c",
@@ -1449,7 +1465,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Ternary Bonsai 2 在 ik_llama.cpp 上实现完整运行",
         "takeaway": "三值量化模型 Ternary Bonsai 2 现已支持 ik_llama.cpp，具备原生 CUDA 卸载与快速 CPU 推理。",
@@ -1460,7 +1476,8 @@
         ],
         "detail": "社区用户反馈，PrismML 的 Ternary Bonsai 2 此前在 Prism 自家分支之外运行比较麻烦，原因是上游 llama.cpp 使用 QK=256 的块大小（TQ2_0），与 Prism 的实现不一致。现在 ik_llama.cpp 已能完整运行该模型，并支持原生 CUDA 卸载与快速 CPU 推理。",
         "generatedAt": "2026-11-01T01:27:37+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "58bdc6b4d6104e60",
@@ -1521,7 +1538,7 @@
       "confidence": 0,
       "score": 37,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI热潮引发PCB短缺，订单排到2030年",
         "takeaway": "AI硬件需求激增导致PCB供应紧张，消费硬件厂商面临成本与交期压力。",
@@ -1532,7 +1549,8 @@
         ],
         "detail": "继内存和存储之后，AI热潮又引发PCB（印刷电路板）严重短缺。目前订单已排到2030年，这给消费硬件厂商带来了巨大挑战。",
         "generatedAt": "2026-10-31T16:58:54+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "081c857497c4c0c9",
@@ -1888,7 +1906,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Lambda 原生支持 Express，API Gateway 还有必要吗",
         "takeaway": "AWS Lambda 可直接运行 Express 应用，简化 Node.js 服务部署，引发对 API Gateway 必要性的讨论。",
@@ -1899,7 +1917,8 @@
         ],
         "detail": "InfoQ 中国报道，AWS Lambda 已能直接运行 Express 应用。这意味着 Node.js 开发者部署服务时可能不再必须经过 API Gateway，架构可以更简单，也让人重新思考 API Gateway 在其中的角色。",
         "generatedAt": "2026-10-31T09:10:32+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "ae0a9c4658146d33",
@@ -1924,7 +1943,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "GitHub Actions Runner Controller 0.15.0 聚焦大规模可靠性",
         "takeaway": "ARC 新版本针对大规模场景提升可靠性，值得自建 Actions 运行器的团队关注。",
@@ -1935,7 +1954,8 @@
         ],
         "detail": "GitHub Actions Runner Controller（ARC）发布 0.15.0 版本，主要目标是提升大规模使用场景下的可靠性。对于在 Kubernetes 上自建 GitHub Actions 运行器的团队，这次更新值得留意。",
         "generatedAt": "2026-10-31T10:49:38+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "bbedf6f83f6bfe98",
@@ -1960,7 +1980,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Agent Sandbox 日创建超千万次，算力新形态浮现",
         "takeaway": "Agent Sandbox 每天创建上千万次，正成为 AI 时代的新算力形态，值得关注其背后趋势。",
@@ -1972,7 +1992,8 @@
         ],
         "detail": "InfoQ 中国发文探讨 Agent Sandbox 为何成为新算力形态。文章指出其每天创建次数高达上千万次，这一高频使用现象背后反映了 AI 代理场景对隔离运行环境的旺盛需求。",
         "generatedAt": "2026-10-31T16:58:56+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "af007f55aee20586",
@@ -1995,7 +2016,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Pinterest 用 Flink 管时间、Iceberg 管记忆，敲定数据分区方案",
         "takeaway": "Pinterest 分享如何结合 Flink 与 Iceberg 解决数据分区确认问题，为实时数据湖架构提供参考。",
@@ -2006,7 +2027,8 @@
         ],
         "detail": "Pinterest 近日分享了其数据分区确认的实践：用 Flink 处理时间相关逻辑，用 Iceberg 管理数据存储与版本，从而最终敲定分区方案。这一组合解决了分区确认的难题，为实时数据湖架构提供了新思路。",
         "generatedAt": "2026-10-31T16:58:56+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "1d78de13bdeab01c",
@@ -2031,7 +2053,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "新型信息窃取恶意软件利用AI自动收集受害者数据",
         "takeaway": "名为Volta-Autodoxer的恶意软件借助AI工具，自动窃取登录凭证、信用卡号等大量个人数据。",
@@ -2042,7 +2064,8 @@
         ],
         "detail": "近期发现一款名为Volta-Autodoxer的恶意软件，它利用AI工具自动收集受害者的各类数据，包括登录凭证、信用卡号、Discord会话以及UberEats收据等。这种“自动收集”方式可能让攻击者更高效地窃取信息，值得用户警惕。",
         "generatedAt": "2026-10-31T22:58:49+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "7a5bab7b79fe26f6",
@@ -2069,7 +2092,7 @@
       "confidence": 0.83,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "奥特曼称PC内存闲置率仅5%，呼吁集中算力",
         "takeaway": "OpenAI CEO 认为全球DRAM分散在个人PC中利用率太低，应优先供给云端AI算力。",
@@ -2081,7 +2104,8 @@
         ],
         "detail": "奥特曼接受采访时表示，全球算力供应紧张，内存配置出了问题。他认为大量DRAM分散在个人电脑里，利用率可能只有5%，在当前供应极度受限的情况下很不合理，应优先把资源集中到云端运行AI模型。",
         "generatedAt": "2026-10-31T22:58:52+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "2fef71aff9881c28",
@@ -2130,7 +2154,20 @@
       "confidence": 0,
       "score": 34,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "智能驾驶大会转向物理AI：7位嘉宾谈行业新边界",
+        "takeaway": "智能驾驶讨论从车路云延伸到物理AI，机器人和低空飞行器同台，行业正面对规模化与商业化的新问题。",
+        "bullets": [
+          "10月26日第八届智能驾驶大会在苏州相城举行，7位嘉宾分享判断。",
+          "讨论边界从智能驾驶扩展到物理AI，涵盖世界模型、强化学习等。",
+          "机器人、低空飞行器等物理智能形态首次同场出现。",
+          "高阶辅助驾驶规模化上车，Robotaxi走向运营和商业化。"
+        ],
+        "detail": "10月26日，第八届智能驾驶大会在苏州相城举行。相比上届聚焦车路云一体化、出海和无人驾驶商业化，今年大会讨论范围扩展到物理AI，世界模型、强化学习、端侧智能、虚拟仿真、Robotaxi以及机器人、低空飞行器等话题同台出现。这反映智能驾驶行业正面临高阶辅助驾驶规模化上车、Robotaxi从技术验证走向运营商业化的新阶段。",
+        "generatedAt": "2026-11-01T06:06:08+08:00"
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "edd821e09ba3cc53",
@@ -2155,7 +2192,19 @@
       "confidence": 1,
       "score": 34,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "AI智能体自主为活体小鼠注射基因疗法",
+        "takeaway": "生物科技初创公司让AI智能体选择基因疗法并成功注射，展示研究实验室自动化的未来。",
+        "bullets": [
+          "AI智能体独立完成基因疗法选择与注射操作",
+          "实验对象为活体小鼠，注射成功",
+          "预示AI在生物医学研究中的自主应用潜力"
+        ],
+        "detail": "一家生物科技初创公司让AI智能体自主选择了一种基因疗法，并成功将其注射到活体小鼠的大脑中。这一实验展示了AI在科研实验室中执行复杂任务的潜力，为未来自动化研究提供了新思路。",
+        "generatedAt": "2026-11-01T06:06:07+08:00"
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "73549972a16a1507",
@@ -2178,7 +2227,19 @@
       "confidence": 0,
       "score": 33,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "Zoho推企业级AI全景战略：从“懂回答”到“能执行”",
+        "takeaway": "Zoho提出企业AI落地新思路，直指工具堆叠造成“AI孤岛”的行业痛点。",
+        "bullets": [
+          "Zoho在北京媒体沟通会展示企业级AI全景战略",
+          "全球副总裁Mathivanan指出决策周期短、工具多导致数据孤岛",
+          "盲目堆叠AI软件催生“AI孤岛”，企业仍难用起来"
+        ],
+        "detail": "10月20日Zoho在北京沟通会上展示企业级AI全景战略，回应大模型热潮两年后企业仍觉AI“用不起来”的问题。Zoho全球副总裁Mathivanan指出，决策周期太短、备选工具太多，从一开始就造成数据孤岛；盲目堆叠AI软件反而催生“AI孤岛”。",
+        "generatedAt": "2026-11-01T06:06:07+08:00"
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "41a783f21e16bff9",
@@ -2251,7 +2312,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "07592cc27a25c171",
@@ -2276,7 +2338,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "6f041eda38f8b8ec",
@@ -2299,7 +2362,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "e15eddc32853c6ec",
@@ -2325,7 +2389,8 @@
       "score": 30,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "99034a52b7be34b8",
@@ -2350,7 +2415,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "721ada5b78ebc9d8",
@@ -2375,7 +2441,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "cb2e91f5c754cd78",
@@ -2398,7 +2465,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "61e24edf4ba7d2eb",
@@ -2421,7 +2489,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "58c0a2decce6fbc2",
@@ -2446,7 +2515,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "64a67d8361b75cbd",
@@ -2469,7 +2539,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "4baabd3af647ee90",
@@ -2494,7 +2565,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "5b0ac3b976a1c0a5",
@@ -2517,7 +2589,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "020a1fe5a7507b02",
@@ -2540,7 +2613,8 @@
       "confidence": 0,
       "score": 29,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "3f8ec6c10c09ad05",
@@ -2566,7 +2640,8 @@
       "score": 24,
       "paperRank": 16,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "002925941d8693fd",
@@ -2592,7 +2667,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "140e71f3e91cb1d0",
@@ -2618,7 +2694,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "105aed97059ccfab",
@@ -2644,7 +2721,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "b5f975bc6763537b",
@@ -2670,7 +2748,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "10c6a6d20d68abf0",
@@ -2696,7 +2775,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "82509b6bc78fcc7c",
@@ -2722,7 +2802,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "f3b2a44e6aea7d17",
@@ -2748,7 +2829,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "c2e5ea8e756ef24b",
@@ -2774,7 +2856,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "5eacce78574f581e",
@@ -2800,7 +2883,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "5b14a0a48bdf9999",
@@ -2826,7 +2910,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "01f8fbd4f809da7e",
@@ -2852,7 +2937,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "d63c04a2e9317b3a",
@@ -2878,7 +2964,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "b31b96ee400813ef",
@@ -2904,7 +2991,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "71e8fde50f27ad00",
@@ -2930,7 +3018,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "55f3280dcf4f8906",
@@ -2956,7 +3045,8 @@
       "score": 24,
       "paperRank": 11,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     }
   ],
   "topic": "ai"

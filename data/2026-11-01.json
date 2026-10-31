@@ -1,7 +1,44 @@
 {
   "date": "2026-11-01",
-  "updatedAt": "2026-11-01T01:27:37+08:00",
+  "updatedAt": "2026-11-01T06:06:10+08:00",
   "items": [
+    {
+      "id": "63fa8d16ac095d17",
+      "title": "Jiahao Shao on X: \"Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for \"training a competitor,\" and now anything touching RFT, SFT, or training larger models gets me blocked",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xkm5gz/jiahao_shao_on_x_shame_on_darioamodei_anthropic_i",
+      "summary": "submitted by /u/f0urxio [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T05:40:39+08:00",
+      "fetchedAt": "2026-11-01T06:05:38+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 0.6,
+      "score": 62,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "开发者称未蒸馏Claude却被Anthropic封禁训练权限",
+        "takeaway": "一名开发者否认用Claude蒸馏模型，却因被误判训练竞品而遭Anthropic限制训练相关功能。",
+        "bullets": [
+          "开发者Jiahao Shao称rollout来自强开源模型，Claude仅用于提交任务和分析",
+          "仍被Anthropic标记为“训练竞品”，触及RFT、SFT或大模型训练即被封锁",
+          "事件在r/LocalLLaMA引发讨论，涉及平台对训练行为的判定与误伤问题"
+        ],
+        "detail": "Jiahao Shao公开指责Anthropic，称自己从未蒸馏Claude，训练数据来自强开源模型，Claude只是帮忙提交任务和跑分析。但他仍被标记为“训练竞品”，导致任何涉及RFT、SFT或训练更大模型的操作都被封锁。",
+        "generatedAt": "2026-11-01T06:06:01+08:00"
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
+    },
     {
       "id": "c10fef6ec8169f82",
       "title": "OpenAI reportedly lowers funding target for new round",
@@ -25,7 +62,7 @@
       "confidence": 1,
       "score": 61,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI新一轮融资目标据报下调",
         "takeaway": "OpenAI最新融资轮未达预期，目标金额被下调，反映市场对其估值或前景趋于谨慎。",
@@ -36,7 +73,45 @@
         ],
         "detail": "据TechCrunch报道，OpenAI最新一轮融资似乎未达预期，公司已下调融资目标。此前外界对这笔融资期待较高，但实际进展不如人意，具体下调幅度和原因尚未披露。",
         "generatedAt": "2026-11-01T01:27:37+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
+    },
+    {
+      "id": "e07dacdb45dcc75e",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T05:17:03+08:00",
+      "fetchedAt": "2026-11-01T06:05:38+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "lawsuit"
+      ],
+      "confidence": 0.2,
+      "score": 48,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "法院放行NAACP诉xAI数据中心污染案",
+        "takeaway": "法官允许NAACP指控xAI违反《清洁空气法》的诉讼继续，AI数据中心环保争议进入司法程序。",
+        "bullets": [
+          "NAACP起诉xAI，指其数据中心违反《清洁空气法》",
+          "xAI由SpaceX拥有，诉讼获法官允许继续推进",
+          "案件或影响AI数据中心环保监管与合规"
+        ],
+        "detail": "美国全国有色人种协进会（NAACP）起诉xAI，指控这家SpaceX旗下的AI公司违反《清洁空气法》。法官已裁定该诉讼可以继续推进，意味着围绕AI数据中心污染的争议将进入实质审理阶段。",
+        "generatedAt": "2026-11-01T06:06:01+08:00"
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "ee9f8f39beac1709",
@@ -59,7 +134,7 @@
       "confidence": 0,
       "score": 46,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "我抢先做了个AI电子宠物，Meta的Muse Charm还没上市",
         "takeaway": "作者赶在Meta推出AI电子宠物Muse Charm前自己动手做了一个，并表明不会购买Meta的产品。",
@@ -70,7 +145,272 @@
         ],
         "detail": "Meta给AI加上软萌脸蛋，让AI显得可爱，并计划在假日季开卖Muse Charm，像电子宠物一样随身携带。但The Verge的作者已经自己动手做了一个AI Tamagotchi，并直言不会买Meta的这款产品。",
         "generatedAt": "2026-11-01T01:27:37+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
+    },
+    {
+      "id": "9f56e268b05ea691",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T05:41:00+08:00",
+      "fetchedAt": "2026-11-01T06:05:38+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "says"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "苹果CEO：不会为AI而AI，坚持实用导向",
+        "takeaway": "苹果新CEO回应外界对其AI落后的质疑，强调公司不追求为AI而AI，而是注重实际价值。",
+        "bullets": [
+          "苹果新CEO公开捍卫公司在AI领域的当前定位。",
+          "他表示苹果不会为了AI而AI，暗示注重实用而非跟风。",
+          "此番表态或回应外界对苹果AI进展缓慢的批评。"
+        ],
+        "detail": "苹果新任CEO为公司在AI领域的现状进行了辩护。他表示，苹果并不想“为了AI而AI”，暗示公司更看重AI的实际用途而非盲目跟风。这一表态可能是在回应外界对苹果在AI竞赛中落后的质疑。",
+        "generatedAt": "2026-11-01T06:06:01+08:00"
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
+    },
+    {
+      "id": "82785ab4f152db3e",
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 130 # Comments: 134",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T02:50:34+08:00",
+      "fetchedAt": "2026-11-01T06:05:38+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "GPT-5.6 Sol 能在和平模式下通关《异星工厂》",
+        "takeaway": "一款新模型展示了在复杂自动化游戏中完成长程规划的能力，值得关注其推理与执行水平。",
+        "bullets": [
+          "GPT-5.6 Sol 在《异星工厂》和平模式中完成通关，该游戏以复杂生产链和长程规划著称。",
+          "消息在 Hacker News 引发热议，获得 130 分和 134 条评论。",
+          "和平模式没有敌人干扰，主要考验资源管理与自动化布局能力。"
+        ],
+        "detail": "有文章称 GPT-5.6 Sol 能在《异星工厂》的和平模式下击败游戏，即完成通关。该模式没有敌人攻击，重点在于搭建自动化生产线和规划资源。这一表现被拿来讨论模型在长程任务规划上的能力。",
+        "generatedAt": "2026-11-01T06:06:03+08:00"
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
+    },
+    {
+      "id": "5a4bff0c2db23b04",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all pric…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T05:36:07+08:00",
+      "fetchedAt": "2026-11-01T06:05:38+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "founder"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "TechCrunch创始人峰会倒计时4天：高效社交助力创业规模化",
+        "takeaway": "TechCrunch创始人峰会将于11月4日在波士顿举行，主打高效社交与实用洞察，帮助创业者拓展关键人脉。",
+        "bullets": [
+          "峰会11月4日在波士顿SoWa Power Station举办，为期一天。",
+          "活动聚焦有意义的社交机会和可落地的行业洞察。",
+          "主办方称参会者可能获得改变创业轨迹的人脉连接。",
+          "报名即将截止，提醒有意者尽快注册。"
+        ],
+        "detail": "TechCrunch创始人峰会定于11月4日在波士顿SoWa Power Station举行，全天安排聚焦高效社交与实用见解。主办方表示，参会者有机会建立可能改变创业方向的关键连接，并提醒在截止前完成注册。",
+        "generatedAt": "2026-11-01T06:06:03+08:00"
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
+    },
+    {
+      "id": "12fda33fd5ea7204",
+      "title": "How do I make search with local models feel like ChatGPT / Codex?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xkm2yb/how_do_i_make_search_with_local_models_feel_like",
+      "summary": "I’m using Crawl4AI + SearXNG but it just feels so lackluster I don’t know why. Feels like the results the local model gets back for research are missing a lot and / or are older less relevant results. I’ll usually instruct saying something …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T05:37:26+08:00",
+      "fetchedAt": "2026-11-01T06:05:38+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "research"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "本地模型搜索体验差？用户求助如何媲美ChatGPT",
+        "takeaway": "有用户用Crawl4AI+SearXNG搭建本地搜索，但效果远不如ChatGPT/Codex，寻求改进方案。",
+        "bullets": [
+          "用户使用Crawl4AI和SearXNG组合进行本地模型搜索",
+          "反馈搜索结果缺失多、内容旧、相关性差",
+          "问题可能出在检索质量或模型处理环节",
+          "社区讨论如何优化本地搜索体验"
+        ],
+        "detail": "一位用户在Reddit上分享，自己用Crawl4AI和SearXNG为本地模型搭建搜索功能，但感觉效果很差，返回的研究结果经常缺失或过时，不如ChatGPT/Codex好用。他通常会给模型一些指令，但依然不理想，因此发帖求助如何改进。",
+        "generatedAt": "2026-11-01T06:06:03+08:00"
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
+    },
+    {
+      "id": "bf4944a541de7eb3",
+      "title": "Mac Studio M5U 256gb 2TB",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xkip46/mac_studio_m5u_256gb_2tb",
+      "summary": "I'm on the verge of pulling the trigger. Want something local for coding and some business automation stuff. Thinking I'll run Qwen 3.8+ and DeepSeek 4+. I'm coming from M4 Pro MBP and will still use that as my primary dev box. I run both C…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T03:12:25+08:00",
+      "fetchedAt": "2026-11-01T06:05:38+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "用户考虑入手 Mac Studio M5U 256GB 跑本地大模型",
+        "takeaway": "一位开发者想买顶配 Mac Studio 做本地编码与业务自动化，反映本地大模型硬件需求升温。",
+        "bullets": [
+          "发帖人计划用 256GB 内存的 Mac Studio M5U 跑 Qwen 和 DeepSeek 模型",
+          "他现有 M4 Pro MacBook Pro 仍作主力开发机，新机专用于本地推理",
+          "帖子发在 LocalLLaMA 社区，讨论本地部署大模型的硬件选择"
+        ],
+        "detail": "发帖人表示自己正准备下单 Mac Studio M5U（256GB 内存、2TB 存储），用途是本地跑编码和业务自动化任务，打算运行 Qwen 3.8+ 和 DeepSeek 4+ 等模型。他目前用 M4 Pro MacBook Pro 作为主力开发机，新机器将作为补充。",
+        "generatedAt": "2026-11-01T06:06:04+08:00"
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
+    },
+    {
+      "id": "ee9f45e036f9032d",
+      "title": "An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xkiuut/an_llm_inside_an_llm_same_guy_who_put_a_riskv_cpu",
+      "summary": "Code: https://github.com/divagr18/QwenPU Weights: https://huggingface.co/divagr1925/QwenPU From the original tweet : 1/3 A CPU inside an LLM is one thing, but running another LLM inside an LLM would be taking things a bit too far, wouldn't …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T03:18:53+08:00",
+      "fetchedAt": "2026-11-01T06:05:38+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github",
+        "weights"
+      ],
+      "confidence": 0.6,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "把小型LLM塞进Qwen权重里，NPU模拟器跑通",
+        "takeaway": "开发者继在Qwen内模拟RISC-V CPU后，又把Karpathy的stories260k模型编译进Qwen 3.5-4B权重中运行。",
+        "bullets": [
+          "作者此前在Qwen权重内实现RISC-V CPU模拟，这次升级为NPU模拟器。",
+          "目标模型是Karpathy的stories260k，被编译进Qwen 3.5-4B的权重里。",
+          "代码和权重已开源，发布在GitHub和Hugging Face上。"
+        ],
+        "detail": "这位开发者先是在Qwen模型权重里模拟了一个RISC-V CPU，现在更进一步，在Qwen 3.5-4B的权重中编译了一个NPU，并让Karpathy的小型故事模型stories260k在其中运行。相关代码和权重已公开，展示了在LLM内部嵌套运行另一个LLM的极端玩法。",
+        "generatedAt": "2026-11-01T06:06:05+08:00"
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
+    },
+    {
+      "id": "0c5859d9893e10fb",
+      "title": "Betelgeuse running Qwen 3.8 Flash Next IQ4_XS at 24 tok/s on 2x8GB DDR4 (14 tok/s on a single 16GB stick) + RTX 3060 12GB — 0 dropped experts, 100% byte-exact",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xkh2ns/betelgeuse_running_qwen_38_flash_next_iq4_xs_at",
+      "summary": "In my last thread on Betelgeuse ( bel-cli / bel-server ), the main pushback in the comments was: \"Okay cool, 22 tok/s on IQ2_XS , but 2-bit is too low—what happens on an actual 4-bit quant like IQ4_XS where the experts are almost 2x larger?…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T02:06:52+08:00",
+      "fetchedAt": "2026-11-01T06:05:38+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Betelgeuse 在 2×8GB DDR4 上跑 Qwen 3.8 Flash Next IQ4_XS，达 24 tok/s",
+        "takeaway": "4-bit 量化下仍保持 0 丢弃专家、100% 字节精确，低配内存跑大模型再进一步。",
+        "bullets": [
+          "双通道 8GB DDR4 加 RTX 3060 12GB，IQ4_XS 量化达 24 tok/s",
+          "单条 16GB 内存时速度降至 14 tok/s，仍可运行",
+          "0 丢弃专家、100% 字节精确，回应此前 2-bit 太低的质疑"
+        ],
+        "detail": "作者此前用 IQ2_XS 量化跑到 22 tok/s，但被质疑 2-bit 精度太低。这次换成专家体积近两倍的 IQ4_XS 4-bit 量化，在 2×8GB DDR4 加 RTX 3060 12GB 上仍达 24 tok/s，单条 16GB 内存为 14 tok/s，且没有丢弃任何专家、输出字节完全一致。",
+        "generatedAt": "2026-11-01T06:06:05+08:00"
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
       "id": "2da7abcc348360ce",
@@ -95,7 +435,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI编程导师挑战低端安卓机：Python和SQL直接在浏览器跑",
         "takeaway": "AI编程导师能在低端安卓手机上离线运行Python和SQL，无需服务器，降低学习门槛。",
@@ -106,7 +446,93 @@
         ],
         "detail": "AI编程导师项目展示了在低端Android手机的浏览器中直接运行Python和SQL代码的能力，完全不需要服务器支持。这降低了编程学习的硬件和网络门槛，让更多用户能在移动设备上实践编程。",
         "generatedAt": "2026-10-31T22:58:51+08:00"
-      }
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
+    },
+    {
+      "id": "bb48c37773559711",
+      "title": "Well, my local AI addiction officially got out of hand tonight.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xklq96/well_my_local_ai_addiction_officially_got_out_of",
+      "summary": "Met a guy off Facebook Marketplace and scored 2x RTX 3090 Founders Editions for €1,700. The problem? I already had one 3090 FE. I am now sitting in my room looking at three 3090 FEs (72 GB GDDR6X VRAM) , and my current case barely fits one …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T05:21:02+08:00",
+      "fetchedAt": "2026-11-01T06:05:38+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "本地AI玩家再添两卡：三张RTX 3090凑出72GB显存",
+        "takeaway": "一位本地AI爱好者从Facebook Marketplace花1700欧元买到两张RTX 3090 FE，加上原有的一张，现在拥有三张3090，共72GB显存，但机箱装不下。",
+        "bullets": [
+          "用户以1700欧元购入两张RTX 3090 Founders Edition。",
+          "加上已有的一张，现共有三张3090，合计72GB GDDR6X显存。",
+          "当前机箱勉强只能装下一张显卡，面临装机难题。"
+        ],
+        "detail": "这位本地AI玩家在Facebook Marketplace上花1700欧元买了两张RTX 3090 FE，加上之前的一张，现在房间里摆着三张3090，总显存72GB。问题是他的机箱连一张都勉强装下，三张卡如何安置成了新烦恼。",
+        "generatedAt": "2026-11-01T06:06:09+08:00"
+      },
+      "pushedAt": "2026-11-01T06:06:10+08:00"
+    },
+    {
+      "id": "b6f609a8b6f77ab1",
+      "title": "CrowdGPT v2.6 - The collaborative LLM",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xkibxw/crowdgpt_v26_the_collaborative_llm",
+      "summary": "For those who saw the original post , a week ago, I'm glad to announce CrowdGPT v2 (more precisely v2.6), a massive update to the original CrowdGPT project :D (scroll down to see what's new) For the newcomers: CrowdGPT is a project aiming t…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T02:57:36+08:00",
+      "fetchedAt": "2026-11-01T06:05:38+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "announce"
+      ],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
+    },
+    {
+      "id": "4966614253c03a8e",
+      "title": "What exciting architectural moves are we looking to see next in AI models?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xkklyp/what_exciting_architectural_moves_are_we_looking",
+      "summary": "We know from all the major chinese labs the current cutting edge architectures such as: conditional engram memory, hyper connections, attention residuals, sparse attention, etc... In the near horizon, we can likely expect looped transformer…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T04:31:36+08:00",
+      "fetchedAt": "2026-11-01T06:05:38+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-11-01T06:06:10+08:00"
     }
   ],
   "topic": "ai"
