@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "updatedAt": "2026-10-31T22:58:52+08:00",
+  "updatedAt": "2026-11-01T01:27:37+08:00",
   "items": [
     {
       "id": "045bbe365f3887a2",
@@ -1427,6 +1427,42 @@
       }
     },
     {
+      "id": "9b9d41450cd6db7c",
+      "title": "[Guide] Ternary Bonsai 2 is finally 100% working on ik_llama.cpp (Native CUDA offload + Fast CPU -rtr)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xkcg2y/guide_ternary_bonsai_2_is_finally_100_working_on",
+      "summary": "Hey folks, Quick heads up for anyone playing around with PrismML's Ternary Bonsai 2! Until very recently, running it outside of Prism's own fork was a bit of a pain. Upstream llama.cpp uses a block size of QK=256 (TQ2_0), while Prism uses Q…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T23:01:18+08:00",
+      "fetchedAt": "2026-11-01T01:27:30+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Ternary Bonsai 2 在 ik_llama.cpp 上实现完整运行",
+        "takeaway": "三值量化模型 Ternary Bonsai 2 现已支持 ik_llama.cpp，具备原生 CUDA 卸载与快速 CPU 推理。",
+        "bullets": [
+          "此前该模型在 Prism 官方分支外运行困难，块大小不兼容是主因",
+          "ik_llama.cpp 现已支持原生 CUDA 卸载和快速 CPU 推理",
+          "对本地部署三值量化模型的用户是可用性提升"
+        ],
+        "detail": "社区用户反馈，PrismML 的 Ternary Bonsai 2 此前在 Prism 自家分支之外运行比较麻烦，原因是上游 llama.cpp 使用 QK=256 的块大小（TQ2_0），与 Prism 的实现不一致。现在 ik_llama.cpp 已能完整运行该模型，并支持原生 CUDA 卸载与快速 CPU 推理。",
+        "generatedAt": "2026-11-01T01:27:37+08:00"
+      }
+    },
+    {
       "id": "58bdc6b4d6104e60",
       "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
       "url": "https://github.com/dbreunig/nesformer",
@@ -2122,6 +2158,29 @@
       "pushed": false
     },
     {
+      "id": "73549972a16a1507",
+      "title": "从“懂回答”到“能执行”：Zoho如何让AI走进企业业务",
+      "url": "https://leiphone.com/category/industrynews/00recUTGoMQ1JRh4.html",
+      "summary": "10月20日，在以“助力中国企业全球化成长”为主题的Zoho北京媒体沟通会上， Zoho不仅向外界展示了其最新的企业级AI全景战略，更试图回答一个当前行业的普遍痛点：当AI大模型喧嚣了两年之后，为什么大多数企业在业务中依然觉得AI“用不起来”？ Zoho全球副总裁Mathivanan一针见血地点出了症结所在：“太短的决策周期，太多的备选工具，从一开始就造成了太多的数据孤岛。”当企业盲目堆叠各种带有AI标签的软件，不仅没有打破原有的信息孤岛，反而催生了“AI孤岛”。 Zoho中…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T17:55:00+08:00",
+      "fetchedAt": "2026-11-01T01:27:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "41a783f21e16bff9",
       "title": "US tech stocks see sharp falls over AI cost fears",
       "url": "https://bbc.co.uk/news/articles/cvwy72e0n72yo",
@@ -2433,6 +2492,29 @@
         "观点"
       ],
       "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5b0ac3b976a1c0a5",
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+      "summary": "Article URL: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/ Comments URL: https://news.ycombinator.com/item?id=50316531 Points: 116 # Comments: 50",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T22:29:03+08:00",
+      "fetchedAt": "2026-11-01T01:27:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 30,
       "related": [],
       "pushed": false
