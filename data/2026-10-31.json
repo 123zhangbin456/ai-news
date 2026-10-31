@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "updatedAt": "2026-10-31T10:02:26+08:00",
+  "updatedAt": "2026-10-31T10:49:39+08:00",
   "items": [
     {
       "id": "045bbe365f3887a2",
@@ -1367,6 +1367,42 @@
       }
     },
     {
+      "id": "ae0a9c4658146d33",
+      "title": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+      "url": "https://infoq.cn/article/tNLFh02J0koQswlY5Oqe",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T18:00:00+08:00",
+      "fetchedAt": "2026-10-31T10:49:25+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GitHub Actions Runner Controller 0.15.0 聚焦大规模可靠性",
+        "takeaway": "ARC 新版本针对大规模场景提升可靠性，值得自建 Actions 运行器的团队关注。",
+        "bullets": [
+          "GitHub Actions Runner Controller 发布 0.15.0 版本",
+          "重点改进大规模场景下的可靠性",
+          "面向自托管 Actions 运行器的使用方"
+        ],
+        "detail": "GitHub Actions Runner Controller（ARC）发布 0.15.0 版本，主要目标是提升大规模使用场景下的可靠性。对于在 Kubernetes 上自建 GitHub Actions 运行器的团队，这次更新值得留意。",
+        "generatedAt": "2026-10-31T10:49:38+08:00"
+      }
+    },
+    {
       "id": "2fef71aff9881c28",
       "title": "Your beforeShellExecution matcher decides whether the hook runs at all",
       "url": "https://forum.cursor.com/t/your-beforeshellexecution-matcher-decides-whether-the-hook-runs-at-all/176816",
@@ -1486,6 +1522,29 @@
         "app"
       ],
       "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6f041eda38f8b8ec",
+      "title": "快充红利耗尽，氮化镓能跟上AI浪潮吗",
+      "url": "https://tmtpost.com/8187765.html",
+      "summary": "转型之路同时面临技术、可靠性、商业化的多重考验。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T10:10:53+08:00",
+      "fetchedAt": "2026-10-31T10:49:25+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 30,
       "related": [],
       "pushed": false
