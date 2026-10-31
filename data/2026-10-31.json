@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "updatedAt": "2026-10-31T10:49:39+08:00",
+  "updatedAt": "2026-10-31T16:58:56+08:00",
   "items": [
     {
       "id": "045bbe365f3887a2",
@@ -263,6 +263,42 @@
       "pushedAt": "2026-10-31T06:44:36+08:00"
     },
     {
+      "id": "17dbbe17258f8aa6",
+      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+      "url": "https://qbitai.com/2026/10/506855.html",
+      "summary": "200美元Ultra用户先用",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T13:05:29+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude取消5小时限制，200美元Ultra用户率先解封",
+        "takeaway": "Anthropic取消Claude的5小时使用限制，首批面向200美元Ultra订阅用户开放。",
+        "bullets": [
+          "Claude取消5小时使用限制，首批Ultra用户已解封",
+          "200美元/月的Ultra订阅用户优先享受无限制使用",
+          "其他档位用户暂未提及是否跟进"
+        ],
+        "detail": "Anthropic宣布取消Claude的5小时使用限制，首批面向每月支付200美元的Ultra订阅用户开放。这些用户现在可以不受5小时窗口限制地使用Claude，其他订阅档位是否跟进尚未明确。",
+        "generatedAt": "2026-10-31T16:58:50+08:00"
+      }
+    },
+    {
       "id": "1fff1698b18b4437",
       "title": "Apple Intelligence is finally coming to China with iOS 27.3",
       "url": "https://theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
@@ -450,6 +486,79 @@
       }
     },
     {
+      "id": "00df6d3d33c12b01",
+      "title": "一边拥抱 JDK 27，一边保留 JDK 21：Helidon 开启双轨发布",
+      "url": "https://infoq.cn/article/qRZCxTQbL1CwAUy28Zm8",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T23:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Helidon 开启双轨发布：拥抱 JDK 27 同时保留 JDK 21",
+        "takeaway": "Helidon 同时维护两条 JDK 版本线，让用户既能尝鲜新特性又不必立刻迁移。",
+        "bullets": [
+          "Helidon 采用双轨发布，一条跟进 JDK 27，一条保留 JDK 21",
+          "用户可按需选择新特性或稳定版本，降低升级压力",
+          "对基于 Helidon 的 Java 微服务项目，迁移节奏更灵活"
+        ],
+        "detail": "Helidon 宣布同时发布两条版本线：一条适配 JDK 27，另一条继续支持 JDK 21。这样开发者可以按项目节奏选择跟进新 JDK 或留在长期稳定版本，不必被迫同步升级。",
+        "generatedAt": "2026-10-31T16:58:50+08:00"
+      }
+    },
+    {
+      "id": "89b6ec60b2866d15",
+      "title": "Lawyer with too many GPUs, part 3: DeepSeek-V4.1-Flash on 2x DGX Spark + an old 3090 box. 2,600+ tok/s prefill to 256K, 322 tok/s structured output, full stack and raw data published",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xk20x5/lawyer_with_too_many_gpus_part_3_deepseekv41flash",
+      "summary": "Update from the lawyer with the V100 server. I went and got two DGX Sparks, because of course I did. The mid-life crisis remains on schedule. Same deal as before: still a lawyer, still driving the whole thing through Claude Code, and Claude…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T13:32:04+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs"
+      ],
+      "confidence": 0.25,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "律师用双 DGX Spark 加旧 3090 跑 DeepSeek-V4.1-Flash，预填充超 2600 tok/s",
+        "takeaway": "非科班律师用 Claude Code 搭多机推理栈，跑出 256K 上下文高吞吐并公开全部数据。",
+        "bullets": [
+          "作者是律师，此前用 V100 服务器，这次新增两台 DGX Spark",
+          "搭配旧 3090 主机运行 DeepSeek-V4.1-Flash，预填充达 2600+ tok/s",
+          "结构化输出 322 tok/s，支持 256K 上下文",
+          "完整技术栈与原始数据已公开"
+        ],
+        "detail": "这位自称“中年危机”的律师又升级了装备：在原有 V100 服务器之外买了两台 DGX Spark，和一台旧 3090 主机组成推理环境，跑 DeepSeek-V4.1-Flash。全程仍靠 Claude Code 驱动，预填充到 256K 上下文超过 2600 tok/s，结构化输出 322 tok/s，并公开了整套配",
+        "generatedAt": "2026-10-31T16:58:51+08:00"
+      }
+    },
+    {
       "id": "4b03cac21f21c8e5",
       "title": "[PR] Xing4.0-29B-A4B GGUF via ik_llama.cpp — Full native mHC/MLA runtime + HF converter",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xjqsb4/pr_xing4029ba4b_gguf_via_ik_llamacpp_full_native",
@@ -486,6 +595,42 @@
         "generatedAt": "2026-10-31T06:44:26+08:00"
       },
       "pushedAt": "2026-10-31T06:44:36+08:00"
+    },
+    {
+      "id": "93bf2b1198b776fd",
+      "title": "“开源才是护城河”：制造老炮把品胜的AI交给了00后",
+      "url": "https://tmtpost.com/8188454.html",
+      "summary": "对赵国成而言，AI最终要落到生产力上；而考验丛泽龙团队的，将是怎么把一次次具体的创新变成可以复用、持续更新的能力。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T13:17:51+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "制造老炮把品胜AI交给00后：开源才是护城河",
+        "takeaway": "品胜将AI落地交给年轻团队，强调开源与可复用能力，探索制造生产力升级。",
+        "bullets": [
+          "赵国成认为AI最终要落到生产力上",
+          "丛泽龙团队负责将创新转化为可复用能力",
+          "开源被视为企业护城河的关键"
+        ],
+        "detail": "品胜的赵国成将AI应用交给00后团队，强调AI必须转化为实际生产力。丛泽龙团队面临的挑战是如何把具体创新变成可复用、持续更新的能力，而开源被视为构建护城河的核心。",
+        "generatedAt": "2026-10-31T16:58:52+08:00"
+      }
     },
     {
       "id": "d15076e33af6fafa",
@@ -850,6 +995,111 @@
       }
     },
     {
+      "id": "bffe083091894b23",
+      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+      "url": "https://qbitai.com/2026/10/506884.html",
+      "summary": "苹果“牛奶倒河里”式操作翻红",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T13:17:50+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "8G iPad 里藏着 12G 内存？苹果刀法再引热议",
+        "takeaway": "苹果被指硬件预留内存容量，用户实际可用低于标称，引发对产品策略的讨论。",
+        "bullets": [
+          "有用户发现 8G 内存的 iPad 实际硬件可能为 12G，但系统限制可用容量。",
+          "类似“牛奶倒河里”的比喻走红，讽刺苹果刻意限制硬件性能。",
+          "话题关联库克时代苹果的产品分级策略，引发消费者不满。"
+        ],
+        "detail": "近期有讨论指出，部分标称 8G 内存的 iPad 实际搭载了 12G 内存硬件，但系统或固件限制了可用容量。这种“硬件有余量却不让用”的做法被网友比作“牛奶倒河里”，并调侃为库克精准的“刀法”。",
+        "generatedAt": "2026-10-31T16:58:52+08:00"
+      }
+    },
+    {
+      "id": "0b589a6ccbefc76d",
+      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+      "url": "https://qbitai.com/2026/10/506866.html",
+      "summary": "AI算力利用“九九成”",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T13:11:19+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "算力"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "世界模型首次指导芯片设计，NPU达700TOPS且99%算力可用",
+        "takeaway": "世界模型首次用于芯片设计，产出超大核NPU，算力利用率达99%，为AI芯片设计开辟新路径。",
+        "bullets": [
+          "世界模型首次指导芯片设计，属行业首创。",
+          "NPU算力达700TOPS，99%算力可实际利用。",
+          "设计方法或提升AI芯片研发效率与利用率。"
+        ],
+        "detail": "量子位报道，世界模型首次被用于指导芯片设计，设计出的超大核NPU提供700TOPS算力，且99%的算力可被实际利用。这标志着AI参与芯片设计的新尝试，有望提升芯片研发效率和算力利用率。",
+        "generatedAt": "2026-10-31T16:58:53+08:00"
+      }
+    },
+    {
+      "id": "c537f963f20248b6",
+      "title": "当AI从“会想”走向“会干”——腾讯云与英特尔共筑Agentic AI执行新底座",
+      "url": "https://infoq.cn/article/acC46slIVKJg1O0ac8w4",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T22:49:01+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "腾讯云与英特尔共筑Agentic AI执行新底座",
+        "takeaway": "AI从思考走向执行，腾讯云与英特尔合作打造Agentic AI新底座，值得关注。",
+        "bullets": [
+          "腾讯云与英特尔合作，共建Agentic AI执行底座",
+          "AI从“会想”转向“会干”，强调实际执行能力",
+          "合作涉及云与芯片，可能推动AI应用落地"
+        ],
+        "detail": "腾讯云与英特尔宣布合作，共同构建面向Agentic AI的执行新底座。这标志着AI从侧重思考向侧重执行转变，双方将结合云计算与芯片技术，推动AI在实际场景中的落地应用。",
+        "generatedAt": "2026-10-31T16:58:54+08:00"
+      }
+    },
+    {
       "id": "f7fbc5e321c4b990",
       "title": "ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO quants comparison",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xjkjla/ista_deepseekv41flash1017_gsqrco_quants_comparison",
@@ -962,6 +1212,42 @@
       "pushedAt": "2026-10-31T06:44:36+08:00"
     },
     {
+      "id": "967760a8e1b2a782",
+      "title": "8b parameter model (EVLF-FM) surpasses clinicians in multimodal understanding",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xk3pom/8b_parameter_model_evlffm_surpasses_clinicians_in",
+      "summary": "paper released two days ago: \"A clinical multimodal vision language foundation model with fine-grain explainability\" published in NATURE. https://www.nature.com/articles/s41591-026-04655-5 this shit is INSANE! 8b parameters and surpassing c…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T15:16:18+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "multimodal"
+      ],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "8B医疗多模态模型登Nature，表现超越临床医生",
+        "takeaway": "一个仅80亿参数的临床视觉语言基础模型在多项任务上超过人类医生，且具备细粒度可解释性。",
+        "bullets": [
+          "论文两天前发表于《Nature》，模型名为EVLF-FM。",
+          "仅8B参数，在多模态理解任务上超越临床医生。",
+          "强调细粒度可解释性，便于临床信任与审查。"
+        ],
+        "detail": "这篇《Nature》论文提出一个临床多模态视觉语言基础模型，参数量仅80亿，却在多模态理解上超过临床医生。研究还强调模型具备细粒度可解释性，让输出更可追溯。",
+        "generatedAt": "2026-10-31T16:58:54+08:00"
+      }
+    },
+    {
       "id": "58bdc6b4d6104e60",
       "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
       "url": "https://github.com/dbreunig/nesformer",
@@ -998,6 +1284,40 @@
         "generatedAt": "2026-10-31T06:44:32+08:00"
       },
       "pushedAt": "2026-10-31T06:44:36+08:00"
+    },
+    {
+      "id": "37d540784b4ce70e",
+      "title": "First memory, storage, and now PCBsss: AI Boom Triggers Massive PCB Shortage With Orders Booked Until 2030, Posing Big Challenges For Consumer Hardware Vendors",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xk17m0/first_memory_storage_and_now_pcbsss_ai_boom",
+      "summary": "submitted by /u/chemist_slime [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T12:45:10+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI热潮引发PCB短缺，订单排到2030年",
+        "takeaway": "AI硬件需求激增导致PCB供应紧张，消费硬件厂商面临成本与交期压力。",
+        "bullets": [
+          "AI热潮从内存、存储蔓延到PCB，出现严重短缺。",
+          "PCB订单已排到2030年，供应紧张将持续多年。",
+          "消费硬件厂商将面临成本上升和交付挑战。"
+        ],
+        "detail": "继内存和存储之后，AI热潮又引发PCB（印刷电路板）严重短缺。目前订单已排到2030年，这给消费硬件厂商带来了巨大挑战。",
+        "generatedAt": "2026-10-31T16:58:54+08:00"
+      }
     },
     {
       "id": "081c857497c4c0c9",
@@ -1403,6 +1723,77 @@
       }
     },
     {
+      "id": "bbedf6f83f6bfe98",
+      "title": "每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？",
+      "url": "https://infoq.cn/video/4qjamMQLVIoZvytUQwpI",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T24:15:46+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Agent Sandbox 日创建超千万次，算力新形态浮现",
+        "takeaway": "Agent Sandbox 每天创建上千万次，正成为 AI 时代的新算力形态，值得关注其背后趋势。",
+        "bullets": [
+          "Agent Sandbox 每天创建次数达上千万量级",
+          "它被视为一种新的算力形态",
+          "InfoQ 中国探讨了其兴起原因",
+          "这或影响未来 AI 算力供给方式"
+        ],
+        "detail": "InfoQ 中国发文探讨 Agent Sandbox 为何成为新算力形态。文章指出其每天创建次数高达上千万次，这一高频使用现象背后反映了 AI 代理场景对隔离运行环境的旺盛需求。",
+        "generatedAt": "2026-10-31T16:58:56+08:00"
+      }
+    },
+    {
+      "id": "af007f55aee20586",
+      "title": "Flink 负责时间，Iceberg 负责记忆：Pinterest 如何最终确认数据分区？",
+      "url": "https://infoq.cn/article/9OhgYkwYlPYgTbAvWlGz",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T21:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Pinterest 用 Flink 管时间、Iceberg 管记忆，敲定数据分区方案",
+        "takeaway": "Pinterest 分享如何结合 Flink 与 Iceberg 解决数据分区确认问题，为实时数据湖架构提供参考。",
+        "bullets": [
+          "Pinterest 采用 Flink 负责时间维度处理，Iceberg 负责存储记忆",
+          "该方案最终确认了数据分区策略，解决分区管理难题",
+          "对使用 Flink 和 Iceberg 构建实时数据湖的团队有借鉴意义"
+        ],
+        "detail": "Pinterest 近日分享了其数据分区确认的实践：用 Flink 处理时间相关逻辑，用 Iceberg 管理数据存储与版本，从而最终敲定分区方案。这一组合解决了分区确认的难题，为实时数据湖架构提供了新思路。",
+        "generatedAt": "2026-10-31T16:58:56+08:00"
+      }
+    },
+    {
       "id": "2fef71aff9881c28",
       "title": "Your beforeShellExecution matcher decides whether the hook runs at all",
       "url": "https://forum.cursor.com/t/your-beforeshellexecution-matcher-decides-whether-the-hook-runs-at-all/176816",
@@ -1427,6 +1818,29 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-10-31T06:44:36+08:00"
+    },
+    {
+      "id": "c8c146e304406a93",
+      "title": "智能驾驶进入物理AI时代？7位行业嘉宾给出最新判断",
+      "url": "https://leiphone.com/category/transportation/pqEtZnYepE5D1PzD.html",
+      "summary": "10月26日，第八届智能驾驶大会暨2026环秀湖物理AI产业发展推介会在苏州相城举行。上一届，车路云一体化、智能驾驶出海和无人驾驶商业化是讨论重点，而到了今年，大会的讨论边界进一步从智能驾驶向物理AI延伸。世界模型、强化学习、端侧智能、虚拟仿真、Robotaxi之外，机器人、低空飞行器等不同形态的物理智能开始出现在同一场大会上。这背后，是智能驾驶行业正在面对的一组新问题。一方面，高阶辅助驾驶已经进入规模化上车阶段，Robotaxi也开始从技术验证走向运营和商业化；另一方面，当…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T11:31:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "41a783f21e16bff9",
@@ -1546,6 +1960,471 @@
       "keywords": [],
       "confidence": 0,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e15eddc32853c6ec",
+      "title": "ClueTracer: Question-to-Vision Clue Tracing for Training-Free Hallucination Suppression in Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2602.02004",
+      "summary": "arXiv:2602.02004v2 Announce Type: replace-cross Abstract: Large multimodal reasoning models solve challenging visual problems via explicit long-chain inference: they gather visual clues from images and decode clues into textual tokens. Yet …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T12:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "020a1fe5a7507b02",
+      "title": "大厂减市场预算，加AI预算",
+      "url": "https://tmtpost.com/8188331.html",
+      "summary": "当一家公司能用模型解释增长，它就不需要再用媒体预算解释增长。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T11:53:33+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3f8ec6c10c09ad05",
+      "title": "Dual Exam: Controlled Evaluation of Multimodal Agents and World Models",
+      "url": "https://arxiv.org/abs/2610.31066",
+      "summary": "arXiv:2610.31066v2 Announce Type: replace Abstract: World Models (WMs) can support Multimodal Agents (MAs) through simulated experience, while Agent trajectories can inform World Model refinement. Evaluating this interaction requires separa…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T12:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 16,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "002925941d8693fd",
+      "title": "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning",
+      "url": "https://arxiv.org/abs/2610.37935",
+      "summary": "arXiv:2610.37935v1 Announce Type: new Abstract: Latent multi-agent systems reduce inference cost by keeping intermediate reasoning and inter-agent communication in continuous representations.\\ Reusable skills, however, are commonly supplied…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T12:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "140e71f3e91cb1d0",
+      "title": "CALM: Conflict-Aware Lifecycle Memory Governance for Long-Horizon Language Agents",
+      "url": "https://arxiv.org/abs/2610.38573",
+      "summary": "arXiv:2610.38573v1 Announce Type: new Abstract: A memory can be outdated for present-day reasoning yet indispensable for reconstructing the past. Relevance-based retrieval overlooks this tension: semantic relevance, evidence-grounded validi…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T12:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "105aed97059ccfab",
+      "title": "Agentic AI Reasoning and Learned Sampling for Task-Aware Projection Selection in Sparse-View CT: Predicting Hemodynamics",
+      "url": "https://arxiv.org/abs/2610.39003",
+      "summary": "arXiv:2610.39003v1 Announce Type: new Abstract: Sparse-view computed tomography (CT) reduces the number of acquired projections, but conventional sampling strategies are designed primarily for image reconstruction rather than for downstream…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T12:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b5f975bc6763537b",
+      "title": "Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI",
+      "url": "https://arxiv.org/abs/2610.38095",
+      "summary": "arXiv:2610.38095v1 Announce Type: cross Abstract: We introduce Nemotron 3.5 Super and Nemotron 3.5 Lightning, open and efficient Mixture-of-Experts Hybrid Mamba-Transformer models designed for reasoning, long-context understanding, and agen…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T12:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "10c6a6d20d68abf0",
+      "title": "Precedent or Intent? What Coding Agents Follow When Evolving Existing Code",
+      "url": "https://arxiv.org/abs/2610.38244",
+      "summary": "arXiv:2610.38244v1 Announce Type: cross Abstract: Existing code reveals past implementation decisions but rarely explains the reasoning behind them. When coding agents implement new features or modify existing functionality, past decisions …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T12:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "82509b6bc78fcc7c",
+      "title": "SpaceAct: Benchmarking 3D Spatial and Temporal Reasoning via Closed-Loop Action and Active Perception",
+      "url": "https://arxiv.org/abs/2610.38405",
+      "summary": "arXiv:2610.38405v1 Announce Type: cross Abstract: To solve problems in 3D space rather than merely describe images, multimodal large language models (MLLMs) need 3D spatiotemporal reasoning: reconstructing 3D geometry from occluded 2D views…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T12:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f3b2a44e6aea7d17",
+      "title": "OPERA: OPamp Design by an Expert-Taught Reasoning Agent, from Specifications to Layout",
+      "url": "https://arxiv.org/abs/2610.39395",
+      "summary": "arXiv:2610.39395v1 Announce Type: cross Abstract: Analog flows from specifications to a signed-off layout rarely run without manual iteration. Recent large language model (LLM) agents size circuits with optimizer loops over the device dimen…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T12:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c2e5ea8e756ef24b",
+      "title": "Heterogeneous Co-Evolution Learning for Tool-Efficient Search Agents with Zero Labels",
+      "url": "https://arxiv.org/abs/2610.39682",
+      "summary": "arXiv:2610.39682v1 Announce Type: cross Abstract: Deep search agents extend language models by interleaving reasoning with external retrieval. However, effective search-agent training requires addressing two challenges beyond final-answer o…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T12:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5eacce78574f581e",
+      "title": "Learning Calibrated Confidence for Multi-Agent Collaboration",
+      "url": "https://arxiv.org/abs/2610.39927",
+      "summary": "arXiv:2610.39927v1 Announce Type: cross Abstract: Complex information seeking on the Web often requires collecting evidence from multiple documents and reasoning across them, as in multi-hop question answering. Multi-agent systems address s…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T12:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5b14a0a48bdf9999",
+      "title": "TaskFrame: Connecting Task-Level Planning with Frame-Level Control for Game Agents",
+      "url": "https://arxiv.org/abs/2610.40276",
+      "summary": "arXiv:2610.40276v1 Announce Type: cross Abstract: Building general game agents requires both high-level task reasoning and low-latency action control in rapidly changing visual environments. These capabilities favor models with substantiall…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T12:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "01f8fbd4f809da7e",
+      "title": "PRISM: Festina Lente Proactivity -- Risk-Sensitive, Uncertainty-Aware Deliberation for Proactive Agents",
+      "url": "https://arxiv.org/abs/2602.01532",
+      "summary": "arXiv:2602.01532v2 Announce Type: replace Abstract: Proactive agents must decide not only what to say but also whether and when to intervene. Many current systems rely on brittle heuristics or indiscriminate long reasoning, which offers lit…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T12:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d63c04a2e9317b3a",
+      "title": "INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration",
+      "url": "https://arxiv.org/abs/2606.11440",
+      "summary": "arXiv:2606.11440v2 Announce Type: replace Abstract: Multi-agent LLM systems spend additional computation on reasoning and collaboration, but shared serving queues can prevent that computation from producing answers before a deadline. This c…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T12:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b31b96ee400813ef",
+      "title": "VoiceLongMemEval: Do Assistants Remember How You Sounded?",
+      "url": "https://arxiv.org/abs/2609.00570",
+      "summary": "arXiv:2609.00570v3 Announce Type: replace Abstract: With the growing scale of multi-agent architectures and large language models, deployed AI assistants are increasingly tasked with reasoning over long, continuous, multi-session conversati…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T12:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "71e8fde50f27ad00",
+      "title": "World Model Science: Self-Organized Criticality, Weak Chaos, and Metastable Belief Dynamics in Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2609.17419",
+      "summary": "arXiv:2609.17419v2 Announce Type: replace Abstract: Long-horizon LLM agents must maintain and update a world model over extended sequences of observations, actions, decisions and tool calls. We study the dynamics of long horizon agents from…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T12:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "55f3280dcf4f8906",
+      "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
+      "url": "https://arxiv.org/abs/2610.26844",
+      "summary": "arXiv:2610.26844v2 Announce Type: replace Abstract: The goal of a world model is to capture the dynamics of an environment. This has the great appeal that it allows agents to plan and simulate a course of actions with the help of a world mo…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T12:00:00+08:00",
+      "fetchedAt": "2026-10-31T16:58:41+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
       "related": [],
       "pushed": false
     }
