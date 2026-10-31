@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "updatedAt": "2026-10-31T16:58:56+08:00",
+  "updatedAt": "2026-10-31T22:58:52+08:00",
   "items": [
     {
       "id": "045bbe365f3887a2",
@@ -77,6 +77,43 @@
         "generatedAt": "2026-10-31T02:21:15+08:00"
       },
       "pushedAt": "2026-10-31T06:44:36+08:00"
+    },
+    {
+      "id": "c457f842818547fe",
+      "title": "DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活",
+      "url": "https://ifanr.com/1687026",
+      "summary": "AI Agent 的下一个瓶颈，可能是人类自己 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T21:59:57+08:00",
+      "fetchedAt": "2026-10-31T22:58:25+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "DeepSeek"
+      ],
+      "confidence": 0.6,
+      "score": 57,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 发布全新 Agent 架构，AI 开始指挥 AI 干活",
+        "takeaway": "DeepSeek 推出新 Agent 架构，让 AI 调度 AI 协作，或突破人类瓶颈。",
+        "bullets": [
+          "DeepSeek 发布全新 Agent 架构，核心是 AI 指挥 AI 干活。",
+          "该架构旨在解决 AI Agent 的下一个瓶颈——人类自身。",
+          "可能推动多智能体协作，减少人工干预。"
+        ],
+        "detail": "DeepSeek 发布了全新的 Agent 架构，其核心思路是让 AI 来指挥其他 AI 完成任务。文章指出，AI Agent 发展的下一个瓶颈可能在于人类自身，而新架构有望减少对人工调度的依赖。",
+        "generatedAt": "2026-10-31T22:58:47+08:00"
+      }
     },
     {
       "id": "1ad66cf690a946d3",
@@ -559,6 +596,42 @@
       }
     },
     {
+      "id": "9b6ae3890b4eca49",
+      "title": "microsoft/Mage-VL-Cowork · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xk6blw/microsoftmagevlcowork_hugging_face",
+      "summary": "Mage-VL-Cowork demonstrates that an efficient 4B small vision-language model can master hybrid computer use when paired with upstream teacher-harness evolution , workflow-first environment synthesis ( Mage-CUA-Forge ) , and a five-stage spe…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T18:02:47+08:00",
+      "fetchedAt": "2026-10-31T22:58:25+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "workflow"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软开源4B小模型Mage-VL-Cowork，专攻混合电脑操作",
+        "takeaway": "微软发布4B视觉语言模型，通过教师框架进化与工作流环境合成，实现高效电脑操作。",
+        "bullets": [
+          "模型仅4B参数，却能掌握混合电脑使用任务",
+          "配套Mage-CUA-Forge合成工作流优先的训练环境",
+          "采用五阶段训练流程，结合上游教师框架进化"
+        ],
+        "detail": "微软在Hugging Face发布Mage-VL-Cowork，展示了一个高效的4B小视觉语言模型。它通过上游教师框架进化、工作流优先的环境合成工具Mage-CUA-Forge以及五阶段训练，掌握了混合电脑操作能力。",
+        "generatedAt": "2026-10-31T22:58:47+08:00"
+      }
+    },
+    {
       "id": "4b03cac21f21c8e5",
       "title": "[PR] Xing4.0-29B-A4B GGUF via ik_llama.cpp — Full native mHC/MLA runtime + HF converter",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xjqsb4/pr_xing4029ba4b_gguf_via_ik_llamacpp_full_native",
@@ -595,6 +668,40 @@
         "generatedAt": "2026-10-31T06:44:26+08:00"
       },
       "pushedAt": "2026-10-31T06:44:36+08:00"
+    },
+    {
+      "id": "a9ce9215ef28b665",
+      "title": "We Took over ChatGPT Accounts",
+      "url": "https://parameter.ai/labs/we-found-a-gap-at-openai",
+      "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 119 # Comments: 55",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T18:30:11+08:00",
+      "fetchedAt": "2026-10-31T22:58:25+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Parameter 团队称发现 OpenAI 漏洞，可接管 ChatGPT 账号",
+        "takeaway": "安全团队披露能接管 ChatGPT 账号的漏洞，引发对 AI 账户安全的关注。",
+        "bullets": [
+          "Parameter 团队在 Hacker News 发文称发现 OpenAI 漏洞，可接管 ChatGPT 账号",
+          "文章链接指向 parameter.ai 实验室页面，HN 讨论已获 119 分、55 条评论",
+          "漏洞细节未在标题摘要中展开，但账号接管风险直接关系 ChatGPT 用户"
+        ],
+        "detail": "Parameter 团队在 Hacker News 发布文章，声称发现 OpenAI 的一个缺口，能够接管 ChatGPT 账号。原文链接指向其实验室页面，讨论热度较高。摘要未透露具体技术细节，但账号接管意味着用户对话与数据可能面临风险。",
+        "generatedAt": "2026-10-31T22:58:47+08:00"
+      }
     },
     {
       "id": "93bf2b1198b776fd",
@@ -1100,6 +1207,42 @@
       }
     },
     {
+      "id": "d5bb41b6ba041206",
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "url": "https://wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet",
+      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T18:30:00+08:00",
+      "fetchedAt": "2026-10-31T22:58:25+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "investors"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta的Muse尚未颠覆行业，企业忙于安抚投资者",
+        "takeaway": "Meta的AI代理Muse被指可能颠覆多行业，但企业称其目前机遇大于威胁。",
+        "bullets": [
+          "Meta推出AI代理Muse，被视作可能颠覆多种业务。",
+          "过去几周企业努力向投资者证明Muse是机遇而非威胁。",
+          "目前Muse尚未真正颠覆行业，影响仍待观察。"
+        ],
+        "detail": "过去几周，多家公司试图安抚投资者，强调Meta的Muse等AI代理带来的更多是机会而非威胁。尽管Muse被认为可能颠覆多种业务，但目前尚未真正发生。",
+        "generatedAt": "2026-10-31T22:58:49+08:00"
+      }
+    },
+    {
       "id": "f7fbc5e321c4b990",
       "title": "ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO quants comparison",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xjkjla/ista_deepseekv41flash1017_gsqrco_quants_comparison",
@@ -1245,6 +1388,42 @@
         ],
         "detail": "这篇《Nature》论文提出一个临床多模态视觉语言基础模型，参数量仅80亿，却在多模态理解上超过临床医生。研究还强调模型具备细粒度可解释性，让输出更可追溯。",
         "generatedAt": "2026-10-31T16:58:54+08:00"
+      }
+    },
+    {
+      "id": "c2d22565194bb9c1",
+      "title": "Betelgeuse: Running Qwen 3.8 Flash Next at 22 tok/s sustained (spiking to 48 tok/s) on an RTX 3060 12GB + 16GB DDR4 RAM 100% bit-exact!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks",
+      "summary": "About two months ago I posted here about trying to predict which MoE experts get used on the next token to speed up CPU/GPU offload on Qwen 3.6 35B. Quick confession on that older post before anything else: I ended up throwing that prototyp…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T20:20:02+08:00",
+      "fetchedAt": "2026-10-31T22:58:25+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Betelgeuse 让 Qwen 3.8 Flash 在 RTX 3060 上跑出 22 tok/s",
+        "takeaway": "消费级显卡加普通内存也能稳定跑大模型，且输出与原始模型逐位一致。",
+        "bullets": [
+          "在 RTX 3060 12GB 加 16GB DDR4 内存上持续 22 tok/s，峰值 48 tok/s",
+          "作者称结果 100% bit-exact，即与原始模型输出完全一致",
+          "延续此前对 MoE 专家预测加速 CPU/GPU 卸载的思路"
+        ],
+        "detail": "作者两个月前曾尝试预测 Qwen 3.6 35B 下一个 token 会用到哪些 MoE 专家，以加速 CPU/GPU 卸载，但当时原型被放弃。这次他用 Betelgeuse 方案在 RTX 3060 12GB 加 16GB DDR4 上跑 Qwen 3.8 Flash，持续速度 22 tok/s、峰值 48 tok/",
+        "generatedAt": "2026-10-31T22:58:49+08:00"
       }
     },
     {
@@ -1794,6 +1973,81 @@
       }
     },
     {
+      "id": "1d78de13bdeab01c",
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "url": "https://wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware",
+      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T20:00:00+08:00",
+      "fetchedAt": "2026-10-31T22:58:25+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tools"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "新型信息窃取恶意软件利用AI自动收集受害者数据",
+        "takeaway": "名为Volta-Autodoxer的恶意软件借助AI工具，自动窃取登录凭证、信用卡号等大量个人数据。",
+        "bullets": [
+          "恶意软件名为Volta-Autodoxer，利用AI工具自动收集受害者数据。",
+          "窃取范围包括登录凭证、信用卡号、Discord会话和UberEats收据等。",
+          "该恶意软件由Wired AI报道，近期被发现，可能对个人隐私构成威胁。"
+        ],
+        "detail": "近期发现一款名为Volta-Autodoxer的恶意软件，它利用AI工具自动收集受害者的各类数据，包括登录凭证、信用卡号、Discord会话以及UberEats收据等。这种“自动收集”方式可能让攻击者更高效地窃取信息，值得用户警惕。",
+        "generatedAt": "2026-10-31T22:58:49+08:00"
+      }
+    },
+    {
+      "id": "7a5bab7b79fe26f6",
+      "title": "Sam Altman 认为 PC 内存闲置太糟糕",
+      "url": "https://solidot.org/story?sid=85763",
+      "summary": "OpenAI CEO Sam Altman 接受 YouTube 主播 Cheeky Pint 采访时谈到了 AI 行业目前所面临的全球算力供应问题。当话题不可避免转向内存时，Altman 指出，市场看不见的手失灵了，原因可能是并非每一块 DRAM 晶圆都直接流向数据中心，用于运行 AI 模型。他表示：“从全球资源配置角度看，让全球有限的 DRAM 供应分散在每个人的 PC 里且利用率可能仅有 5% 左右，这是非常糟糕的。在当前这种供应极度受限的环境下，我们理应追求云端算力的…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T20:46:18+08:00",
+      "fetchedAt": "2026-10-31T22:58:25+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力",
+        "数据中心",
+        "晶圆"
+      ],
+      "confidence": 0.83,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "奥特曼称PC内存闲置率仅5%，呼吁集中算力",
+        "takeaway": "OpenAI CEO 认为全球DRAM分散在个人PC中利用率太低，应优先供给云端AI算力。",
+        "bullets": [
+          "奥特曼在采访中谈AI算力供应紧张问题",
+          "他指出市场机制失灵，DRAM未优先流向数据中心",
+          "个人PC内存利用率可能仅5%，资源浪费严重",
+          "主张供应受限时应追求云端算力集中利用"
+        ],
+        "detail": "奥特曼接受采访时表示，全球算力供应紧张，内存配置出了问题。他认为大量DRAM分散在个人电脑里，利用率可能只有5%，在当前供应极度受限的情况下很不合理，应优先把资源集中到云端运行AI模型。",
+        "generatedAt": "2026-10-31T22:58:52+08:00"
+      }
+    },
+    {
       "id": "2fef71aff9881c28",
       "title": "Your beforeShellExecution matcher decides whether the hook runs at all",
       "url": "https://forum.cursor.com/t/your-beforeshellexecution-matcher-decides-whether-the-hook-runs-at-all/176816",
@@ -1838,6 +2092,31 @@
       "category": "其他",
       "keywords": [],
       "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "edd821e09ba3cc53",
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "url": "https://wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse",
+      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T18:00:00+08:00",
+      "fetchedAt": "2026-10-31T22:58:25+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "research"
+      ],
+      "confidence": 1,
       "score": 34,
       "related": [],
       "pushed": false
@@ -1986,6 +2265,175 @@
       "confidence": 1,
       "score": 30,
       "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "99034a52b7be34b8",
+      "title": "透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底｜看财报",
+      "url": "https://tmtpost.com/8188863.html",
+      "summary": "新旧动能加速切换。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T21:15:46+08:00",
+      "fetchedAt": "2026-10-31T22:58:25+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "721ada5b78ebc9d8",
+      "title": "让AI拼我用了12天完成的1000片“纯白地狱”，它五小时就崩溃了",
+      "url": "https://tmtpost.com/8188396.html",
+      "summary": "我耗时 12 天拼完 1000 片纯白地狱拼图，尝试交给大模型挑战，它 5 小时便陷入崩溃。不是 AI 不能拼，而是擅长看图描述的生成式大模型缺少精密测量与全局约束能力；传统机器视觉方案反倒可行。这件实验，也照见我们当下思考外包、本末倒置的认知困境。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T20:18:13+08:00",
+      "fetchedAt": "2026-10-31T22:58:25+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "实验"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cb2e91f5c754cd78",
+      "title": "老干妈给所有想用AI的企业“上”了一课",
+      "url": "https://tmtpost.com/8188545.html",
+      "summary": "情绪宣泄，究竟能改变什么？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T20:18:03+08:00",
+      "fetchedAt": "2026-10-31T22:58:25+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "61e24edf4ba7d2eb",
+      "title": "AI电影，正在将电影院逼进“死胡同”",
+      "url": "https://tmtpost.com/8188470.html",
+      "summary": "AI电影上院线，观众似乎还不想掏钱。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T20:02:16+08:00",
+      "fetchedAt": "2026-10-31T22:58:25+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "58c0a2decce6fbc2",
+      "title": "预测失效的那刻，存储行业撞见物理AI的边界",
+      "url": "https://tmtpost.com/8188551.html",
+      "summary": "先锚定具身智能想要抵达的终局，再反向推导底层基础设施需要具备怎样的能力上限。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T19:57:24+08:00",
+      "fetchedAt": "2026-10-31T22:58:25+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "预测"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "64a67d8361b75cbd",
+      "title": "AI混进学术圈，人类第一反应是“叫家长”",
+      "url": "https://tmtpost.com/8188440.html",
+      "summary": "你好，人！我是新来的旁听生！请多指教！",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T19:43:38+08:00",
+      "fetchedAt": "2026-10-31T22:58:25+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4baabd3af647ee90",
+      "title": "Kogui 族人谈 AI",
+      "url": "https://solidot.org/story?sid=85760",
+      "summary": "生活在南美哥伦比亚圣玛尔塔内华达山脉的原居民 Kogui 族人信仰 Aluna——即万物之母 Gaulčováng。Kogui 族人认为地球是有生命的，人类是地球之子。他们认为，人类为获取资源而进行的开采、破坏和掠夺行为正在削弱万物之母的力量，这最终会导致人类的毁灭。对于最近几年生成式 AI 的发展，Kogui 族人也有类似的观点。他们认为：AI 无法与其背后的思想分离。如果这种思想源于对生命的关切，那么这项技术便有助于保护生命。如果它源于野心、竞争、积累，或是支配的欲望，那…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-10-31T18:59:58+08:00",
+      "fetchedAt": "2026-10-31T22:58:25+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "观点"
+      ],
+      "confidence": 1,
+      "score": 30,
       "related": [],
       "pushed": false
     },
