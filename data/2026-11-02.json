@@ -1,7 +1,45 @@
 {
   "date": "2026-11-02",
-  "updatedAt": "2026-11-02T02:12:42+08:00",
+  "updatedAt": "2026-11-02T06:32:52+08:00",
   "items": [
+    {
+      "id": "0dbf0226aa90a12c",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T05:55:23+08:00",
+      "fetchedAt": "2026-11-02T06:32:36+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data centers",
+        "compute"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "OpenAI 或为数据中心改名“AI 算力园区”",
+        "takeaway": "数据中心因能耗和占地不受欢迎，OpenAI 想用新名字改善公众观感。",
+        "bullets": [
+          "OpenAI 考虑将数据中心改称“AI 算力园区”。",
+          "数据中心因高能耗和土地占用常遭社区反对。",
+          "改名意在淡化负面印象，争取公众接受。"
+        ],
+        "detail": "数据中心常因耗电、耗水、噪音和占地问题引发当地居民不满。OpenAI 考虑把自家数据中心改叫“AI 算力园区”，试图用更中性的说法减少抵触情绪。这本质上是品牌话术调整，而非设施本身改变。",
+        "generatedAt": "2026-11-02T06:32:46+08:00"
+      },
+      "pushedAt": "2026-11-02T06:32:52+08:00"
+    },
     {
       "id": "c561190709826312",
       "title": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
@@ -23,7 +61,7 @@
       "confidence": 0,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "动态表增量刷新：复用计算结果，兼顾性能与成本",
         "takeaway": "InfoQ 技术实践分享动态表增量刷新如何通过复用已有计算结果，实现性能与成本双优化。",
@@ -34,7 +72,47 @@
         ],
         "detail": "InfoQ 中国的一篇技术实践文章探讨动态表增量刷新的实现方式。核心思路是复用已有计算结果，减少重复计算开销，从而在性能与成本之间取得平衡。适合关注数据表持续刷新与计算效率的读者。",
         "generatedAt": "2026-11-02T24:29:03+08:00"
-      }
+      },
+      "pushedAt": "2026-11-02T06:32:52+08:00"
+    },
+    {
+      "id": "3f8ce1454fa23386",
+      "title": "Getting incredible results with a single RTX 3090ti and 128gb of ram. Deepseek-V4.1-Flash-1017 (35 tok/s decode) and Qwen3.8-Flash-Next (130 tok/s decode)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xlec67/getting_incredible_results_with_a_single_rtx",
+      "summary": "I'm sharing this here because this is working way better than it used to a few months ago with older models. I see people here posting slower speeds with much better hardware than mine and hopefully this information helps. I used gemini-fla…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T05:01:42+08:00",
+      "fetchedAt": "2026-11-02T06:32:36+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "单卡 RTX 3090 Ti 跑 DeepSeek 与 Qwen 新模型，速度亮眼",
+        "takeaway": "本地玩家用单张 3090 Ti 加 128GB 内存跑出可用速度，说明小硬件跑新模型已明显改善。",
+        "bullets": [
+          "DeepSeek-V4.1-Flash-1017 解码约 35 tok/s",
+          "Qwen3.8-Flash-Next 解码约 130 tok/s",
+          "作者称比几个月前的老模型表现好很多",
+          "硬件为单张 RTX 3090 Ti 加 128GB 内存"
+        ],
+        "detail": "这位用户在 LocalLLaMA 分享：只用一张 RTX 3090 Ti 和 128GB 内存，就跑出了不错的效果。DeepSeek-V4.1-Flash-1017 解码约 35 tok/s，Qwen3.8-Flash-Next 约 130 tok/s。他表示这比几个月前的老模型好太多，也希望帮到那些硬件更强却速度更慢",
+        "generatedAt": "2026-11-02T06:32:46+08:00"
+      },
+      "pushedAt": "2026-11-02T06:32:52+08:00"
     },
     {
       "id": "7a06514023fd7da4",
@@ -57,7 +135,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "LLM 正在侵蚀对文档与软件的信任",
         "takeaway": "Kyle Kingsbury 指出，LLM 的广泛使用动摇了人们对文档、软件及其背后组织的信任。",
@@ -68,7 +146,45 @@
         ],
         "detail": "Kyle Kingsbury 认为，LLM 的使用范围扩大后，人们对文档、软件以及生产这些内容的组织的信任被削弱。工程师过去用来判断可靠性的信号可能不再管用，未来他们或许会对任何新软件项目都保持警惕。",
         "generatedAt": "2026-11-02T02:12:41+08:00"
-      }
+      },
+      "pushedAt": "2026-11-02T06:32:52+08:00"
+    },
+    {
+      "id": "bb2642061f374db8",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T04:57:58+08:00",
+      "fetchedAt": "2026-11-02T06:32:36+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "AI 让 CEO 更轻松，普通员工呢？",
+        "takeaway": "TechCrunch 播客讨论科技 CEO 对 AI 的乐观表态为何显得脱离普通员工现实。",
+        "bullets": [
+          "TechCrunch 播客 Equity 探讨科技 CEO 的 AI 言论为何显得不接地气。",
+          "讨论聚焦 CEO 与普通员工对 AI 影响的感受差异。",
+          "话题涉及 AI 对职场不同角色的实际影响。"
+        ],
+        "detail": "在 TechCrunch 的 Equity 播客中，主持人讨论了为什么科技公司 CEO 关于 AI 的声明常常显得与普通人的感受脱节。节目探讨了 AI 让 CEO 工作更轻松的同时，对其他员工意味着什么。",
+        "generatedAt": "2026-11-02T06:32:45+08:00"
+      },
+      "pushedAt": "2026-11-02T06:32:52+08:00"
     },
     {
       "id": "47d47d07474db9e7",
@@ -91,7 +207,7 @@
       "confidence": 0,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Frontier UI 让本地大模型在 Open WebUI 中拥有 ChatGPT 式可视化回复",
         "takeaway": "开发者打造 Frontier UI，为 Open WebUI 中的本地大模型补上地图、图片、交互图表等可视化回复能力。",
@@ -102,7 +218,121 @@
         ],
         "detail": "有开发者长期通过 Open WebUI 使用本地大模型，但觉得回复形式只有 Markdown 不够用。于是他做了 Frontier UI，为本地模型加上类似 ChatGPT 的可视化回复，包括地图、照片、交互图表和 Office 文件导出。",
         "generatedAt": "2026-11-02T02:12:41+08:00"
-      }
+      },
+      "pushedAt": "2026-11-02T06:32:52+08:00"
+    },
+    {
+      "id": "1df42119210a4ae7",
+      "title": "tandem.cpp: Qwen3.8-Flash-Next at 97 tok/s on a single 4090 + 64 GB RAM, 3.3× llama.cpp, works for any MoE",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xldent/tandemcpp_qwen38flashnext_at_97_toks_on_a_single",
+      "summary": "tandem.cpp is a patch set for llama.cpp that makes MoE models that don't fit in VRAM run faster. It keeps the most-used experts on the GPU and lets the CPU help with the rest, for any MoE model llama.cpp supports. Single-user decode is the …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T04:23:50+08:00",
+      "fetchedAt": "2026-11-02T06:32:36+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "tandem.cpp 让 MoE 模型在单张 4090 上跑出 97 tok/s",
+        "takeaway": "llama.cpp 补丁让显存放不下的 MoE 模型把常用专家留在 GPU、其余交给 CPU，单卡速度提升 3.3 倍。",
+        "bullets": [
+          "tandem.cpp 是 llama.cpp 的补丁集，专治 MoE 模型显存不够",
+          "常用专家驻留 GPU，其余由 CPU 分担计算",
+          "Qwen3.8-Flash-Next 在 4090+64GB 内存达 97 tok/s",
+          "速度约为原生 llama.cpp 的 3.3 倍，支持任意 MoE 模型"
+        ],
+        "detail": "tandem.cpp 是给 llama.cpp 打的补丁，思路是把 MoE 模型里调用最频繁的专家留在显卡上，其余专家交给 CPU 处理，从而让显存装不下的模型也能跑得更快。实测 Qwen3.8-Flash-Next 在单张 4090 加 64GB 内存上达到 97 tok/s，约为原生 llama.cpp 的 3.3",
+        "generatedAt": "2026-11-02T06:32:47+08:00"
+      },
+      "pushedAt": "2026-11-02T06:32:52+08:00"
+    },
+    {
+      "id": "7d784d2cd686fdd2",
+      "title": "QwenBend : Qwen writes a Bend program, then the same model type checks it with Bend2 rules and runs it inside its own forward pass",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xle8ta/qwenbend_qwen_writes_a_bend_program_then_the_same",
+      "summary": "This is next step to Qwenputer perhaps the step that shouldn't have been taken but here it goes Qwen writes a Bend program, then the same model type checks it with Bend2 rules and runs it inside its own forward pass There is no interpreter,…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T04:58:07+08:00",
+      "fetchedAt": "2026-11-02T06:32:36+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Qwen 模型自写自检自跑 Bend 程序，无需解释器",
+        "takeaway": "Qwen 模型能生成 Bend 程序，用 Bend2 规则自检，并在自身前向传播中运行，无需外部解释器。",
+        "bullets": [
+          "Qwen 模型生成 Bend 程序后，用 Bend2 规则进行类型检查。",
+          "检查通过的程序直接在模型前向传播中执行，无需解释器。",
+          "这是 Qwenputer 项目的后续，探索模型自我验证与执行能力。"
+        ],
+        "detail": "该项目展示了 Qwen 模型的新能力：它先编写 Bend 程序，然后同一模型用 Bend2 规则做类型检查，最后在自身前向传播中运行程序，全程没有外部解释器参与。这被视为 Qwenputer 的下一步，可能推动模型自我验证与执行的一体化。",
+        "generatedAt": "2026-11-02T06:32:47+08:00"
+      },
+      "pushedAt": "2026-11-02T06:32:52+08:00"
+    },
+    {
+      "id": "5ab7364379e3729b",
+      "title": "An updated 2.3bpw model for qwen 27b + 12 GB cards: ties Qwen3.6 BF16 on LiveCode Bench and reduces error by 37-57% vs a previous checkpoint",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xlerw1/an_updated_23bpw_model_for_qwen_27b_12_gb_cards",
+      "summary": "Hello everyone! A few weeks ago, I released a 2.3bpw model intended for the 30xx 12 GB Ampere cards. Using a custom version of sjkvarn and several runtime changes, this made it possible to hit 200K ctx on a single 12GB card. Benchmarking pl…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T05:19:36+08:00",
+      "fetchedAt": "2026-11-02T06:32:36+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Qwen 27B 2.3bpw 量化模型更新：12GB 显卡可跑 200K 上下文",
+        "takeaway": "新版 2.3bpw 量化让 12GB 显卡跑 Qwen 27B，代码基准追平 BF16，错误率大降。",
+        "bullets": [
+          "面向 30 系 12GB Ampere 显卡，单卡支持 200K 上下文",
+          "LiveCodeBench 成绩与 Qwen3.6 BF16 持平",
+          "相比上一版 checkpoint，错误率降低 37%–57%",
+          "基于定制版 sjkvarn 及多项运行时改动实现"
+        ],
+        "detail": "作者发布了更新版 2.3bpw 量化模型，专为 30 系 12GB 显卡设计。借助定制版 sjkvarn 和运行时调整，单张 12GB 卡即可支持 200K 上下文。基准测试显示其代码能力追平 Qwen3.6 BF16，且比上一版错误率降低 37%–57%。",
+        "generatedAt": "2026-11-02T06:32:48+08:00"
+      },
+      "pushedAt": "2026-11-02T06:32:52+08:00"
     },
     {
       "id": "3fcebbed4a471978",
@@ -125,7 +355,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI 能读懂二进制，闭源软件护城河还稳吗？",
         "takeaway": "InfoQ 探讨 AI 解析二进制代码对闭源软件壁垒的冲击，值得关注。",
@@ -136,7 +366,8 @@
         ],
         "detail": "InfoQ 中国发文讨论：当 AI 能够理解二进制代码，闭源软件依靠不公开源代码建立的竞争壁垒还能否维持。文章引发对逆向工程门槛降低后，软件商业模式和安全边界的思考。",
         "generatedAt": "2026-11-01T17:49:02+08:00"
-      }
+      },
+      "pushedAt": "2026-11-02T06:32:52+08:00"
     },
     {
       "id": "9e2da4e08ed32b83",
@@ -159,7 +390,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "SQL 查询优化新解法：耗时从近两小时缩短至 30 秒",
         "takeaway": "InfoQ 分享技术实践，展示 SQL 查询性能优化新方法，将耗时从近两小时降至 30 秒。",
@@ -170,7 +401,8 @@
         ],
         "detail": "InfoQ 中国发布技术实践文章，介绍一种 SQL 查询性能优化新解法。该方法将原本近两小时的查询耗时缩短至 30 秒，为数据库性能优化提供了新思路。",
         "generatedAt": "2026-11-02T24:29:10+08:00"
-      }
+      },
+      "pushedAt": "2026-11-02T06:32:52+08:00"
     },
     {
       "id": "94bdc41d44303193",
@@ -195,7 +427,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Snowflake CoCo 打通 Skill 共享与治理流程",
         "takeaway": "Snowflake 的 CoCo 让团队写好的 Skill 能共享复用，并纳入治理流程。",
@@ -206,7 +438,8 @@
         ],
         "detail": "InfoQ 中国介绍 Snowflake CoCo 的技术实践：团队写好的 Skill 如何让整个团队复用。文章聚焦共享与治理流程的打通，说明 CoCo 在两者之间建立衔接，具体实现细节需查看原文。",
         "generatedAt": "2026-11-02T24:29:10+08:00"
-      }
+      },
+      "pushedAt": "2026-11-02T06:32:52+08:00"
     },
     {
       "id": "3cccf12a1410a7d5",
@@ -232,7 +465,7 @@
       "confidence": 0.6,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Reddit 财报证实：Google AI Mode 几乎不给网站导流",
         "takeaway": "Google 用 AI 总结替代链接，Reddit 搜索引荐流量明显下滑，内容网站流量模式受冲击。",
@@ -244,7 +477,8 @@
         ],
         "detail": "Reddit 最新财报印证了许多网站的抱怨：Google 的 AI Mode 用生成式总结直接回答查询，不再像传统搜索那样把用户引向网站。Reddit 上季度来自 Google 搜索的引荐流量明显下降。其 CEO 表示用户依然需要 Reddit，只是 Google 不再像过去那样把他们带过来。",
         "generatedAt": "2026-11-02T02:12:42+08:00"
-      }
+      },
+      "pushedAt": "2026-11-02T06:32:52+08:00"
     },
     {
       "id": "14dafceb25767f77",
@@ -267,7 +501,19 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "Ava：浏览器内运行的本地 AI 虚拟形象，基于 LFM3-Omni 与 WebGPU",
+        "takeaway": "一个在浏览器里本地运行的 AI 虚拟形象项目，结合 LFM3-Omni 模型和 WebGPU 加速，值得关注本地 AI 应用。",
+        "bullets": [
+          "项目名为 Ava，可在浏览器内本地运行 AI 虚拟形象",
+          "使用 LFM3-Omni 模型和 WebGPU 技术实现",
+          "由用户 paf1138 发布在 r/LocalLLaMA，附 Hugging Face 链接"
+        ],
+        "detail": "Ava 是一个在浏览器中本地运行的 AI 虚拟形象项目，它结合了 LFM3-Omni 模型和 WebGPU 加速技术。该项目发布在 Hugging Face Spaces 上，由 Reddit 用户 paf1138 分享，展示了本地 AI 在网页端的新可能。",
+        "generatedAt": "2026-11-02T06:32:50+08:00"
+      },
+      "pushedAt": "2026-11-02T06:32:52+08:00"
     },
     {
       "id": "f493cb8abc87f5a8",
@@ -292,7 +538,19 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "求推荐好用的开源权重扩散模型？",
+        "takeaway": "用户分享使用Mercury的体验，但因其网络安全过滤限制而寻求替代。",
+        "bullets": [
+          "用户询问社区对开源权重扩散模型的使用经验。",
+          "尝试Mercury后感觉其风格独特、令人耳目一新。",
+          "但Mercury对网络安全内容有过滤限制，成为障碍。"
+        ],
+        "detail": "有用户在LocalLLaMA社区发帖，询问大家是否有好用的开源权重扩散模型推荐。他最近试用了Mercury，觉得它的风格、态度和思维方式与众不同，让人耳目一新。但遗憾的是，Mercury对网络安全相关内容的过滤限制让他无法完全满意。",
+        "generatedAt": "2026-11-02T06:32:49+08:00"
+      },
+      "pushedAt": "2026-11-02T06:32:52+08:00"
     }
   ],
   "topic": "ai"
