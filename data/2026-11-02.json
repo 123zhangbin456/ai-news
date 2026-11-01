@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "updatedAt": "2026-11-02T24:29:12+08:00",
+  "updatedAt": "2026-11-02T02:12:42+08:00",
   "items": [
     {
       "id": "c561190709826312",
@@ -34,6 +34,74 @@
         ],
         "detail": "InfoQ 中国的一篇技术实践文章探讨动态表增量刷新的实现方式。核心思路是复用已有计算结果，减少重复计算开销，从而在性能与成本之间取得平衡。适合关注数据表持续刷新与计算效率的读者。",
         "generatedAt": "2026-11-02T24:29:03+08:00"
+      }
+    },
+    {
+      "id": "7a06514023fd7da4",
+      "title": "Quoting Kyle Kingsbury",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury",
+      "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers o…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T24:49:04+08:00",
+      "fetchedAt": "2026-11-02T02:12:36+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "LLM 正在侵蚀对文档与软件的信任",
+        "takeaway": "Kyle Kingsbury 指出，LLM 的广泛使用动摇了人们对文档、软件及其背后组织的信任。",
+        "bullets": [
+          "LLM 生成内容让文档和软件的可信度下降",
+          "工程师可能开始对新软件项目普遍持怀疑态度",
+          "过去依赖的信任信号正在失效"
+        ],
+        "detail": "Kyle Kingsbury 认为，LLM 的使用范围扩大后，人们对文档、软件以及生产这些内容的组织的信任被削弱。工程师过去用来判断可靠性的信号可能不再管用，未来他们或许会对任何新软件项目都保持警惕。",
+        "generatedAt": "2026-11-02T02:12:41+08:00"
+      }
+    },
+    {
+      "id": "47d47d07474db9e7",
+      "title": "I built Frontier UI to give local LLMs ChatGPT-style visual responses in Open WebUI (maps, photos, interactive charts, Office exports, etc.)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xl7jr0/i_built_frontier_ui_to_give_local_llms",
+      "summary": "https://i.redd.it/97has5lk21zh1.gif I've been running local LLMs through Open WebUI for a while now, and one thing I've always wished it had was something similar to ChatGPT's newer visual responses. Don't get me wrong, Markdown works fine,…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T24:34:50+08:00",
+      "fetchedAt": "2026-11-02T02:12:36+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Frontier UI 让本地大模型在 Open WebUI 中拥有 ChatGPT 式可视化回复",
+        "takeaway": "开发者打造 Frontier UI，为 Open WebUI 中的本地大模型补上地图、图片、交互图表等可视化回复能力。",
+        "bullets": [
+          "Frontier UI 是面向 Open WebUI 的扩展，让本地模型输出地图、照片、交互图表和 Office 导出。",
+          "作者长期用 Open WebUI 跑本地模型，希望获得类似 ChatGPT 新版的可视化回复体验。",
+          "对本地大模型用户来说，回复不再局限于 Markdown，交互性和呈现效果更接近商业产品。"
+        ],
+        "detail": "有开发者长期通过 Open WebUI 使用本地大模型，但觉得回复形式只有 Markdown 不够用。于是他做了 Frontier UI，为本地模型加上类似 ChatGPT 的可视化回复，包括地图、照片、交互图表和 Office 文件导出。",
+        "generatedAt": "2026-11-02T02:12:41+08:00"
       }
     },
     {
@@ -139,6 +207,92 @@
         "detail": "InfoQ 中国介绍 Snowflake CoCo 的技术实践：团队写好的 Skill 如何让整个团队复用。文章聚焦共享与治理流程的打通，说明 CoCo 在两者之间建立衔接，具体实现细节需查看原文。",
         "generatedAt": "2026-11-02T24:29:10+08:00"
       }
+    },
+    {
+      "id": "3cccf12a1410a7d5",
+      "title": "Google AI Mode 未给网站带来流量",
+      "url": "https://solidot.org/story?sid=85767",
+      "summary": "Reddit 的最新财报证实了众多网站的抱怨：Google AI Mode 未给网站带来流量。AI Mode 通过生成总结的方式响应用户的查询，而不是传统搜索的提供网站链接以及简要摘要。硅谷对 AI 的全面拥抱牺牲了构成互联网的无数网站。Reddit 联合创始人兼 CEO Steve Huffman 表示：“用户依然需要 Reddit，只是 Google 不再像过去那样将他们引导到 Reddit。”上季度来自 Google 搜索的引荐流量显著下滑。Google 向 AI Mo…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T24:46:31+08:00",
+      "fetchedAt": "2026-11-02T02:12:36+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "创始人",
+        "CEO"
+      ],
+      "confidence": 0.6,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Reddit 财报证实：Google AI Mode 几乎不给网站导流",
+        "takeaway": "Google 用 AI 总结替代链接，Reddit 搜索引荐流量明显下滑，内容网站流量模式受冲击。",
+        "bullets": [
+          "Reddit 财报显示上季度 Google 搜索引荐流量显著下滑",
+          "AI Mode 直接生成总结回答，不再像传统搜索那样列出网站链接",
+          "Reddit CEO 称用户仍需要 Reddit，但 Google 不再像过去那样导流",
+          "硅谷全面拥抱 AI，代价由构成互联网的众多网站承担"
+        ],
+        "detail": "Reddit 最新财报印证了许多网站的抱怨：Google 的 AI Mode 用生成式总结直接回答查询，不再像传统搜索那样把用户引向网站。Reddit 上季度来自 Google 搜索的引荐流量明显下降。其 CEO 表示用户依然需要 Reddit，只是 Google 不再像过去那样把他们带过来。",
+        "generatedAt": "2026-11-02T02:12:42+08:00"
+      }
+    },
+    {
+      "id": "14dafceb25767f77",
+      "title": "Meet Ava: In-browser local AI avatar with LFM3-Omni and WebGPU",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xl9577/meet_ava_inbrowser_local_ai_avatar_with_lfm3omni",
+      "summary": "here: https://huggingface.co/spaces/townbox/ava submitted by /u/paf1138 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T01:36:17+08:00",
+      "fetchedAt": "2026-11-02T02:12:36+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f493cb8abc87f5a8",
+      "title": "Good open weights diffusion models?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xl8bwv/good_open_weights_diffusion_models",
+      "summary": "Do people here have good experience with open weights diffusion models? I tried Mercury recently and I felt it had a different taste, attitude, way of thinking that was actually refreshing. Unfortunately, its filters against cyber security …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T01:05:06+08:00",
+      "fetchedAt": "2026-11-02T02:12:36+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "weights"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
