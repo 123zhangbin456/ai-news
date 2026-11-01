@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "updatedAt": "2026-11-01T06:06:10+08:00",
+  "updatedAt": "2026-11-01T08:32:25+08:00",
   "items": [
     {
       "id": "63fa8d16ac095d17",
@@ -224,6 +224,43 @@
       "pushedAt": "2026-11-01T06:06:10+08:00"
     },
     {
+      "id": "f457e51286db93ad",
+      "title": "+1 for Qwen 27Bs character/chat style",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xkngat/1_for_qwen_27bs_characterchat_style",
+      "summary": "Maybe uninteresting to most, but i just wanted to say that qwen3.8 27B is actually very nice to talk to, when arguing about issues or solving problems- while for example regarding cloud models claude opus (since v5) for me has quite an anno…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T06:41:41+08:00",
+      "fetchedAt": "2026-11-01T08:32:08+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 27B 模型对话体验获用户好评",
+        "takeaway": "用户反馈 Qwen 27B 在讨论和解决问题时对话风格自然，与部分云端模型形成对比。",
+        "bullets": [
+          "用户称 Qwen 27B 在争论问题或解决问题时很好交流",
+          "该用户认为 Claude Opus 自 v5 起对话体验令人不适",
+          "属于个人使用感受，非官方评测或基准结果"
+        ],
+        "detail": "一位用户在 LocalLLaMA 分享，Qwen 27B 在讨论争议话题或解决问题时对话体验很好。他同时提到，云端模型 Claude Opus 自 v5 版本起让他觉得有些烦人。这只是个人主观感受，并非系统评测。",
+        "generatedAt": "2026-11-01T08:32:24+08:00"
+      }
+    },
+    {
       "id": "5a4bff0c2db23b04",
       "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
       "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
@@ -260,6 +297,42 @@
         "generatedAt": "2026-11-01T06:06:03+08:00"
       },
       "pushedAt": "2026-11-01T06:06:10+08:00"
+    },
+    {
+      "id": "4c77a0dfd6338deb",
+      "title": "datasette-llm 0.1a9",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm",
+      "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , …",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T06:10:01+08:00",
+      "fetchedAt": "2026-11-01T08:32:08+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "datasette-llm 0.1a9 发布：自动沿用 LLM 默认模型",
+        "takeaway": "这是 Datasette 的 LLM 插件小版本更新，自动继承 LLM 默认模型，为后续 Agent 大升级铺路。",
+        "bullets": [
+          "datasette-llm 插件发布 0.1a9 版本",
+          "自动采用 LLM 工具配置的默认模型",
+          "作者预告 Datasette Agent 将有重大升级"
+        ],
+        "detail": "Simon Willison 发布了 datasette-llm 0.1a9，这是一次小幅体验优化：插件现在会自动使用 LLM 的默认模型。作者表示 Datasette Agent 的重大升级还在准备中，此次先解决底层插件的易用性问题。",
+        "generatedAt": "2026-11-01T08:32:24+08:00"
+      }
     },
     {
       "id": "12fda33fd5ea7204",
@@ -533,6 +606,29 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-11-01T06:06:10+08:00"
+    },
+    {
+      "id": "cce79a9920a7cb9f",
+      "title": "Agentic AI w/frontier models??",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xkox4q/agentic_ai_wfrontier_models",
+      "summary": "If you watch much Youtube around AI, you'll see a bunch of people setting up these complex agentic workflows (or, even worse, \"Jarvis\") using a model like Opus or Astra. Every time I see that my \"WTF\" face comes on hard, how on earth are th…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T07:52:51+08:00",
+      "fetchedAt": "2026-11-01T08:32:08+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
