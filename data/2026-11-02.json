@@ -1,7 +1,41 @@
 {
   "date": "2026-11-02",
-  "updatedAt": "2026-11-01T17:49:04+08:00",
+  "updatedAt": "2026-11-02T24:29:12+08:00",
   "items": [
+    {
+      "id": "c561190709826312",
+      "title": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
+      "url": "https://infoq.cn/article/xCFDK8KZvvDY5V1R0fqM",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T03:12:53+08:00",
+      "fetchedAt": "2026-11-02T24:28:54+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "动态表增量刷新：复用计算结果，兼顾性能与成本",
+        "takeaway": "InfoQ 技术实践分享动态表增量刷新如何通过复用已有计算结果，实现性能与成本双优化。",
+        "bullets": [
+          "动态表增量刷新可复用已有计算结果，避免重复计算。",
+          "该方案旨在同时优化性能与成本，适合持续更新的数据场景。",
+          "内容来自 InfoQ 中国技术实践，面向数据工程读者。"
+        ],
+        "detail": "InfoQ 中国的一篇技术实践文章探讨动态表增量刷新的实现方式。核心思路是复用已有计算结果，减少重复计算开销，从而在性能与成本之间取得平衡。适合关注数据表持续刷新与计算效率的读者。",
+        "generatedAt": "2026-11-02T24:29:03+08:00"
+      }
+    },
     {
       "id": "3fcebbed4a471978",
       "title": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
@@ -34,6 +68,76 @@
         ],
         "detail": "InfoQ 中国发文讨论：当 AI 能够理解二进制代码，闭源软件依靠不公开源代码建立的竞争壁垒还能否维持。文章引发对逆向工程门槛降低后，软件商业模式和安全边界的思考。",
         "generatedAt": "2026-11-01T17:49:02+08:00"
+      }
+    },
+    {
+      "id": "9e2da4e08ed32b83",
+      "title": "从近两小时到 30 秒，SQL 查询性能优化有了新解法 ｜ 技术实践",
+      "url": "https://infoq.cn/article/adFNTX7Qiy7yYIGEmTlk",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T02:58:12+08:00",
+      "fetchedAt": "2026-11-02T24:28:54+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "SQL 查询优化新解法：耗时从近两小时缩短至 30 秒",
+        "takeaway": "InfoQ 分享技术实践，展示 SQL 查询性能优化新方法，将耗时从近两小时降至 30 秒。",
+        "bullets": [
+          "来源为 InfoQ 中国技术实践文章",
+          "优化后查询耗时从近两小时降至 30 秒",
+          "为 SQL 性能优化提供新思路"
+        ],
+        "detail": "InfoQ 中国发布技术实践文章，介绍一种 SQL 查询性能优化新解法。该方法将原本近两小时的查询耗时缩短至 30 秒，为数据库性能优化提供了新思路。",
+        "generatedAt": "2026-11-02T24:29:10+08:00"
+      }
+    },
+    {
+      "id": "94bdc41d44303193",
+      "title": "写好的 Skill 如何让整个团队复用？Snowflake CoCo 打通共享与治理流程 ｜ 技术实践",
+      "url": "https://infoq.cn/article/0ap8HB0DwK6Xa1lBSNVy",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T02:24:53+08:00",
+      "fetchedAt": "2026-11-02T24:28:54+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "治理"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Snowflake CoCo 打通 Skill 共享与治理流程",
+        "takeaway": "Snowflake 的 CoCo 让团队写好的 Skill 能共享复用，并纳入治理流程。",
+        "bullets": [
+          "Snowflake CoCo 解决 Skill 在团队内复用的问题",
+          "打通共享与治理两个环节，兼顾效率与合规",
+          "面向技术实践，供团队参考落地"
+        ],
+        "detail": "InfoQ 中国介绍 Snowflake CoCo 的技术实践：团队写好的 Skill 如何让整个团队复用。文章聚焦共享与治理流程的打通，说明 CoCo 在两者之间建立衔接，具体实现细节需查看原文。",
+        "generatedAt": "2026-11-02T24:29:10+08:00"
       }
     }
   ],

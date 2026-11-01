@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "updatedAt": "2026-11-01T17:49:05+08:00",
+  "updatedAt": "2026-11-02T24:29:12+08:00",
   "items": [
     {
       "id": "95f9ec330aee199f",
@@ -152,6 +152,42 @@
         ],
         "detail": "量子位报道，Jev 发布新成果并再次引发开源社区关注。摘要仅以“性价比屠夫”概括，强调其延续低价高配风格，但未透露具体产品细节与性能数据。",
         "generatedAt": "2026-11-01T17:48:58+08:00"
+      }
+    },
+    {
+      "id": "4dea2b02776835a7",
+      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+      "url": "https://qbitai.com/2026/11/507038.html",
+      "summary": "",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T21:09:55+08:00",
+      "fetchedAt": "2026-11-02T24:28:54+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude 紧急叫停：暗改 Harness 禁止逆向游戏",
+        "takeaway": "Anthropic 被指暗中修改 Claude 的 Harness，禁止逆向游戏，引发透明度争议。",
+        "bullets": [
+          "Claude 的 Harness 被暗改，禁止用户进行逆向游戏。",
+          "官方紧急叫停相关操作，但未说明具体原因。",
+          "事件引发对模型行为透明度和用户信任的讨论。"
+        ],
+        "detail": "据量子位报道，Claude 的 Harness 被暗中修改，禁止了逆向游戏行为，随后官方紧急叫停。此举引发社区对模型行为透明度的质疑，具体细节尚未公开。",
+        "generatedAt": "2026-11-02T24:29:03+08:00"
       }
     },
     {
@@ -517,6 +553,42 @@
       }
     },
     {
+      "id": "93a19b1bb0272e75",
+      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+      "url": "https://qbitai.com/2026/11/507076.html",
+      "summary": "西湖世界模型研究中心成立",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T21:28:10+08:00",
+      "fetchedAt": "2026-11-02T24:28:54+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "研究"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "西湖大学成立世界模型研究中心，三年前已布局",
+        "takeaway": "西湖大学新设世界模型研究中心，三年前布局今年爆火，值得关注其研究动向。",
+        "bullets": [
+          "西湖大学成立世界模型研究中心",
+          "该方向三年前已开始布局，今年爆火",
+          "可能推动世界模型相关研究"
+        ],
+        "detail": "西湖大学近日成立世界模型研究中心。该方向三年前就已布局，今年突然爆火。新中心可能聚焦世界模型研究，但具体细节尚未披露。",
+        "generatedAt": "2026-11-02T24:29:03+08:00"
+      }
+    },
+    {
       "id": "12fda33fd5ea7204",
       "title": "How do I make search with local models feel like ChatGPT / Codex?",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xkm2yb/how_do_i_make_search_with_local_models_feel_like",
@@ -629,6 +701,42 @@
       }
     },
     {
+      "id": "2f6879d6aabad9b5",
+      "title": "DeepSeek: Exploring Super-agent Design: Towards a More Autonomous Agent System",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xl1zn3/deepseek_exploring_superagent_design_towards_a",
+      "summary": "DeepSeek Harness article on 𝕏: Exploring Super-agent Design: Towards a More Autonomous Agent System: https://x.com/DeepSeekHarness/status/2116857257245987236 Parts of the design in this article are implemented in dsh-superagent-prototype. …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T20:36:14+08:00",
+      "fetchedAt": "2026-11-02T24:28:54+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 探讨超级智能体设计，原型已落地",
+        "takeaway": "DeepSeek 发布文章讨论更自主的超级智能体系统设计，部分设计已在原型中实现。",
+        "bullets": [
+          "DeepSeek 发文探讨超级智能体（Super-agent）的设计思路",
+          "目标是打造更自主的智能体系统",
+          "文章部分设计已在 dsh-superagent-prototype 原型中实现"
+        ],
+        "detail": "DeepSeek 在 X 上发布文章，探讨如何设计更自主的超级智能体系统。文中部分设计思路已经落地到名为 dsh-superagent-prototype 的原型项目中，说明这不只是概念讨论，也有可参考的实现。",
+        "generatedAt": "2026-11-02T24:29:05+08:00"
+      }
+    },
+    {
       "id": "ee9f45e036f9032d",
       "title": "An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xkiuut/an_llm_inside_an_llm_same_guy_who_put_a_riskv_cpu",
@@ -738,6 +846,192 @@
         ],
         "detail": "一位用户在 LocalLLaMA 分享租用服务器跑分经验：使用 AMD EPYC 处理器和 ROME 主板，搭配不错的 GPU，运行 Qwen 3.8 Flash Next Unsloth Q8 模型。在 124k 上下文窗口下，单流 94 tok/s，8 流并发达到 456 tok/s，性能随并发数近乎线性增长。他认",
         "generatedAt": "2026-11-01T17:49:01+08:00"
+      }
+    },
+    {
+      "id": "a75e0ed53b3a3714",
+      "title": "拾趣 (Magpie) v0.1.19 发布，AI 更智能，内容识别更精准",
+      "url": "https://oschina.net/news/503329",
+      "summary": "拾趣 (Magpie) v0.1.19 发布，AI 更智能，内容识别更精准拾趣 (Magpie)是一款跨平台沉浸式自定义AI 划词工具划选或双击，浮动条随即弹出：翻译、解释、总结实时呈现；复制、搜索、写入 Obsidian、预填日历，结果直接落地。图片、视频与扫描文档中的文字，框选亦可识别——处理在原地完成，无需迁入对话窗口。 Release ...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T19:17:10+08:00",
+      "fetchedAt": "2026-11-02T24:28:54+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "release"
+      ],
+      "confidence": 0.67,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "拾趣 Magpie v0.1.19 发布：AI 更智能，内容识别更精准",
+        "takeaway": "跨平台 AI 划词工具拾趣更新，提升 AI 智能与内容识别精度，强化沉浸式操作体验。",
+        "bullets": [
+          "拾趣是一款跨平台沉浸式 AI 划词工具，划选或双击即可弹出浮动条。",
+          "新版本 AI 更智能，内容识别更精准，优化翻译、解释、总结等实时呈现。",
+          "支持图片、视频与扫描文档中的文字框选识别，处理在原地完成。"
+        ],
+        "detail": "拾趣（Magpie）v0.1.19 版本发布，主要提升了 AI 智能水平和内容识别精准度。这款跨平台工具通过划词或双击呼出浮动条，实时提供翻译、解释、总结，并支持复制、搜索、写入 Obsidian、预填日历等操作。图片、视频和扫描文档中的文字也可框选识别，无需跳转对话窗口。",
+        "generatedAt": "2026-11-02T24:29:05+08:00"
+      }
+    },
+    {
+      "id": "2d63b6310d3fd54b",
+      "title": "Infernix - New Release!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xl4pf6/infernix_new_release",
+      "summary": "Over the past few weeks, I've been working on various improvements to my inference engine Infernix - specifically optimised for running the latest Qwen architecture models on an RTX5090 on Windows and Linux. Windows is a first-class support…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T22:40:04+08:00",
+      "fetchedAt": "2026-11-02T24:28:54+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Infernix 推理引擎新版本发布，专为 Qwen 架构优化",
+        "takeaway": "开发者发布 Infernix 更新，针对 Qwen 模型在 RTX5090 上优化，Windows 获一等支持。",
+        "bullets": [
+          "Infernix 是个人开发的推理引擎，本次更新聚焦性能改进。",
+          "专门优化最新 Qwen 架构模型在 RTX5090 上的运行。",
+          "Windows 和 Linux 均支持，Windows 被列为一等支持平台。"
+        ],
+        "detail": "开发者过去几周持续改进自研推理引擎 Infernix，重点优化在 RTX5090 上运行最新 Qwen 架构模型的表现，覆盖 Windows 和 Linux 系统，其中 Windows 获得一等支持。",
+        "generatedAt": "2026-11-02T24:29:05+08:00"
+      }
+    },
+    {
+      "id": "3e27323b0404816f",
+      "title": "Am I Crazy Or GLM 5.3 Flash is Hilarious?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xkz4mo/am_i_crazy_or_glm_53_flash_is_hilarious",
+      "summary": "I am sorry for the useless thread, but I finally loaded GLM 5.3 Flash IQ4-XS and didn't know what to expect. I was earlier trying out DeepSeek 4.1 Flash 1017 IQ2 and Qwen 3.8 Flash and while I was chatting with them and getting the hang of …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T17:49:38+08:00",
+      "fetchedAt": "2026-11-02T24:28:54+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GLM 5.3 Flash 实测：用户称其表现“好笑”",
+        "takeaway": "一位本地部署用户试跑 GLM 5.3 Flash 量化版，觉得它的表现颇为滑稽，引发社区讨论。",
+        "bullets": [
+          "用户加载 GLM 5.3 Flash IQ4-XS 量化版实测",
+          "此前对比过 DeepSeek 4.1 Flash 与 Qwen 3.8 Flash",
+          "帖子自嘲“无用”，但反映小模型趣味表现"
+        ],
+        "detail": "发帖者在 LocalLLaMA 分享：终于跑起 GLM 5.3 Flash 的 IQ4-XS 量化版本，原本没抱预期。他之前还试过 DeepSeek 4.1 Flash 1017 IQ2 和 Qwen 3.8 Flash，在聊天中摸索这些模型的特点，觉得 GLM 5.3 Flash 的表现挺逗。",
+        "generatedAt": "2026-11-02T24:29:08+08:00"
+      }
+    },
+    {
+      "id": "ccc0d356f61a603b",
+      "title": "Are bespoke inference engines overhyped? My Strata experience on 2× R9700",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xl0oqz/are_bespoke_inference_engines_overhyped_my_strata",
+      "summary": "My intention was to find a setup at least equal to qwen 3.8 27b Q8 MTP but with a larger context. Ideally 1M. I was already running Next Flash in Q2 with llama. Good for conversational use but not for coding. Q4 would run but too slow. I di…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T19:24:34+08:00",
+      "fetchedAt": "2026-11-02T24:28:54+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "定制推理引擎是否被高估？双 R9700 实测 Strata",
+        "takeaway": "用户分享在双 R9700 上使用 Strata 推理引擎的体验，探讨定制引擎的实际价值。",
+        "bullets": [
+          "目标：找到至少等效 qwen 3.8 27b Q8 MTP 但上下文更大的方案，理想 1M。",
+          "此前用 llama 跑 Next Flash Q2，对话可用但编码不行；Q4 能跑但太慢。",
+          "体验 Strata 后对定制推理引擎是否被高估提出疑问。"
+        ],
+        "detail": "作者想在双 R9700 上找到比 qwen 3.8 27b Q8 MTP 上下文更大的配置，理想达到 1M。之前用 llama 跑 Next Flash Q2 适合聊天但不适合编码，Q4 虽能运行但速度太慢。于是尝试 Strata 定制推理引擎，并质疑这类引擎是否被过度炒作。",
+        "generatedAt": "2026-11-02T24:29:08+08:00"
+      }
+    },
+    {
+      "id": "c93a772d8a3f4482",
+      "title": "GLM-5.3-Flash on our H200s does most of my coding now while GPT-6.1 Sol orchestrates (OpenCode setup)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xkz4lf/glm53flash_on_our_h200s_does_most_of_my_coding",
+      "summary": "I had been trying this setup for a couple of weeks and it working better than I expected. Recently, I deployed GLM-5.3-Flash (MoE, 320B total, 18B active) on one of our local H200 servers (4 GPUs) with a 512K context window with the aim of …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T17:49:34+08:00",
+      "fetchedAt": "2026-11-02T24:28:54+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs",
+        "H200"
+      ],
+      "confidence": 0.56,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GLM-5.3-Flash 本地部署 H200，承担主要编码任务",
+        "takeaway": "用户实测用本地 GLM-5.3-Flash 写代码、GPT-6.1 Sol 做调度，效果超预期。",
+        "bullets": [
+          "GLM-5.3-Flash 为 MoE 架构，总参数 320B、激活 18B",
+          "部署在 4 卡 H200 服务器，支持 512K 上下文",
+          "GPT-6.1 Sol 负责编排，GLM 承担大部分编码",
+          "该组合已试用数周，效果优于预期"
+        ],
+        "detail": "一位用户在本地 4 卡 H200 服务器上部署了 GLM-5.3-Flash，配置 512K 上下文窗口。该模型采用 MoE 架构，总参数 320B、激活 18B。他让 GPT-6.1 Sol 负责整体调度，GLM-5.3-Flash 完成大部分编码工作，试用几周后效果超出预期。",
+        "generatedAt": "2026-11-02T24:29:10+08:00"
       }
     },
     {
@@ -880,6 +1174,66 @@
         "detail": "腾讯AI正将重心从消费端转向企业端，试图在B端市场找到新突破口。但报道指出，B端战场面临真实阻力，落地过程并不顺利。这一转向被比喻为修补“漏水船”，成效如何尚待观察。",
         "generatedAt": "2026-11-01T17:49:03+08:00"
       }
+    },
+    {
+      "id": "129dd86373b8c373",
+      "title": "[Release] Drex Max v1: Open-weight 27B multimodal decision model, 262K context, local inference on Apple Silicon",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xl5yfs/release_drex_max_v1_openweight_27b_multimodal",
+      "summary": "hey llamas, we open-sourced Drex-Max v1 at Nace.AI. it's a dense 27B multimodal decision model, released under Open RAIL-M. the main difference from a normal LLM is that it doesn't generate anything. no tokens, no JSON to parse. you give it…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T23:31:15+08:00",
+      "fetchedAt": "2026-11-02T24:28:54+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "multimodal"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Nace.AI 开源 Drex Max v1：27B 多模态决策模型，支持本地推理",
+        "takeaway": "一个不生成文本、直接输出决策的 27B 开源多模态模型，可在苹果芯片本地跑。",
+        "bullets": [
+          "Nace.AI 开源 Drex-Max v1，27B 稠密多模态决策模型，采用 Open RAIL-M 许可。",
+          "与普通 LLM 不同，它不生成 token 或 JSON，而是直接给出决策结果。",
+          "支持 262K 上下文，可在 Apple Silicon 上本地推理。"
+        ],
+        "detail": "Nace.AI 在 LocalLLaMA 社区开源了 Drex-Max v1，这是一个 27B 的稠密多模态决策模型，采用 Open RAIL-M 许可证。它和普通大模型最大的区别是不生成任何内容——没有 token，也没有需要解析的 JSON，而是直接输出决策。模型支持 262K 上下文，并能在苹果芯片上本地运行。",
+        "generatedAt": "2026-11-02T24:29:12+08:00"
+      }
+    },
+    {
+      "id": "e3c2e19ab9b4b964",
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "url": "https://wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences",
+      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T18:30:00+08:00",
+      "fetchedAt": "2026-11-02T24:28:54+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "bb48c37773559711",
@@ -1087,6 +1441,56 @@
       "pushed": false
     },
     {
+      "id": "8c7fa8eb7430721d",
+      "title": "Don't people pay attention anymore when buying hardware for AI?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xl4ckr/dont_people_pay_attention_anymore_when_buying",
+      "summary": "I was trying to sell my old AM4 system, X470 / Ryzen 5 5600 / 64GB / RX580 / 1TB NVME and it didn't sell. Granted it was a bit pricey at 750€, because I took into account the current local RAM and NVME pricing. (Buying the same RAM and SSD …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T22:24:50+08:00",
+      "fetchedAt": "2026-11-02T24:28:54+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "pricing"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "59828db5b59ba310",
+      "title": "赫拉利深度访谈：真正的 AI 危机来了！",
+      "url": "https://tmtpost.com/8189151.html",
+      "summary": "《人类简史》作者尤瓦尔・赫拉利在最新访谈中告诉我们，真正的危机，根本不是电影里那一套，它正在现实世界中上演。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T20:04:54+08:00",
+      "fetchedAt": "2026-11-02T24:28:54+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "访谈"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "47e2b9fd2e98c8ff",
       "title": "人形机器人的第一份公账，Agility Robotics 上市前夜的深度解析",
       "url": "https://tmtpost.com/8188901.html",
@@ -1131,6 +1535,29 @@
       "keywords": [],
       "confidence": 0,
       "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "761e5e0baaa44518",
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 189 # Comments: 128",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T14:06:19+08:00",
+      "fetchedAt": "2026-11-02T24:28:54+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 27,
       "related": [],
       "pushed": false
     }
