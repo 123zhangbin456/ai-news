@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "updatedAt": "2026-11-02T09:06:20+08:00",
+  "updatedAt": "2026-11-02T09:40:02+08:00",
   "items": [
     {
       "id": "c5112ecb798280aa",
@@ -116,6 +116,42 @@
       }
     },
     {
+      "id": "aaf03dfca09da31a",
+      "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
+      "url": "https://infoq.cn/article/HJgTwfsPAugNBJ2jUefj",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T17:12:15+08:00",
+      "fetchedAt": "2026-11-02T09:39:54+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "百度搜索 AI API 千次仅 4.9 元，价格低于 DeepSeek",
+        "takeaway": "百度把搜索能力做成低价 AI API，价格战从模型延伸到搜索场景。",
+        "bullets": [
+          "百度搜索 AI API 千次调用 4.9 元",
+          "定价低于 DeepSeek，主打低成本",
+          "搜索能力开放给开发者调用"
+        ],
+        "detail": "百度推出搜索 AI API，每千次调用仅 4.9 元，价格低于 DeepSeek。这意味着搜索能力正以低价接口形式开放给开发者，AI 价格战从模型层延伸到搜索场景。",
+        "generatedAt": "2026-11-02T09:40:02+08:00"
+      }
+    },
+    {
       "id": "c561190709826312",
       "title": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
       "url": "https://infoq.cn/article/xCFDK8KZvvDY5V1R0fqM",
@@ -188,6 +224,40 @@
         "generatedAt": "2026-11-02T06:32:46+08:00"
       },
       "pushedAt": "2026-11-02T06:32:52+08:00"
+    },
+    {
+      "id": "8d042bce7937d316",
+      "title": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
+      "url": "https://infoq.cn/article/WpTNht7guarWEyejJFV6",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T17:16:03+08:00",
+      "fetchedAt": "2026-11-02T09:39:54+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ChatGPT Pro 额度翻倍：让步还是福利？",
+        "takeaway": "OpenAI 将 ChatGPT Pro 使用额度翻倍，InfoQ 质疑这是竞争压力下的让步而非用户福利。",
+        "bullets": [
+          "ChatGPT Pro 订阅额度翻倍，用户可用量增加。",
+          "InfoQ 中国评论认为此举是竞争压力下的让步。",
+          "对重度用户是利好，但背后动机值得关注。"
+        ],
+        "detail": "OpenAI 把 ChatGPT Pro 的用量额度提高了一倍。InfoQ 中国分析认为，这更像是面对竞争做出的让步，而不是单纯给用户的福利。对高频使用者来说额度更宽裕，但也要留意服务条款和成本变化。",
+        "generatedAt": "2026-11-02T09:40:02+08:00"
+      }
     },
     {
       "id": "7a06514023fd7da4",
@@ -701,6 +771,40 @@
       "pushedAt": "2026-11-02T06:32:52+08:00"
     },
     {
+      "id": "53aec697f2716003",
+      "title": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
+      "url": "https://infoq.cn/article/WmlATgJudjwPKqHf4QgX",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T17:20:00+08:00",
+      "fetchedAt": "2026-11-02T09:39:54+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "CI 出错后谁来把关？Buildkite 推出智能体新思路",
+        "takeaway": "Buildkite 提出用智能体在 CI 出错后自动把关，值得关注 CI 自动化与 AI 结合的新方向。",
+        "bullets": [
+          "Buildkite 针对 CI 出错后的处理提出智能体新思路",
+          "核心是让智能体在出错后承担把关角色",
+          "为 CI 自动化引入 AI 决策提供新参考"
+        ],
+        "detail": "Buildkite 提出一种新思路：在持续集成（CI）出错后，由智能体来负责把关。这为 CI 流程的自动化处理提供了新方向，可能影响开发团队对构建失败的处理方式。",
+        "generatedAt": "2026-11-02T09:40:02+08:00"
+      }
+    },
+    {
       "id": "14dafceb25767f77",
       "title": "Meet Ava: In-browser local AI avatar with LFM3-Omni and WebGPU",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xl9577/meet_ava_inbrowser_local_ai_avatar_with_lfm3omni",
@@ -811,6 +915,29 @@
       "topic": "ai",
       "publishedAt": "2026-11-02T09:01:50+08:00",
       "fetchedAt": "2026-11-02T09:05:54+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "69474b54c64b1e0d",
+      "title": "反神话：当人工智能危机来临，人类如何应对？",
+      "url": "https://tmtpost.com/8189371.html",
+      "summary": "面对突飞猛进发展的人工智能，只有将选择的权利和责任掌握在人类手里，人类最后才不会默默而心甘情愿地走向一条通往奴役之路。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T09:28:00+08:00",
+      "fetchedAt": "2026-11-02T09:39:54+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
