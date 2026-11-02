@@ -1,7 +1,45 @@
 {
   "date": "2026-11-02",
-  "updatedAt": "2026-11-02T06:32:52+08:00",
+  "updatedAt": "2026-11-02T09:06:20+08:00",
   "items": [
+    {
+      "id": "c5112ecb798280aa",
+      "title": "千亿融资敲定后，DeepSeek发布了Super-agent架构",
+      "url": "https://tmtpost.com/8189170.html",
+      "summary": "大模型也有壁垒。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T08:55:42+08:00",
+      "fetchedAt": "2026-11-02T09:05:54+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "DeepSeek"
+      ],
+      "confidence": 0,
+      "score": 60,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "DeepSeek千亿融资落定，发布Super-agent架构",
+        "takeaway": "DeepSeek融资后首发技术动作，推出Super-agent架构，强调大模型本身也有壁垒。",
+        "bullets": [
+          "DeepSeek完成千亿融资后发布Super-agent架构",
+          "官方表态：大模型本身也存在壁垒",
+          "架构细节未披露，具体能力尚待观察"
+        ],
+        "detail": "DeepSeek在千亿融资敲定后，发布了名为Super-agent的新架构。官方同时抛出“大模型也有壁垒”的判断，暗示模型本身仍是竞争关键。目前公开信息有限，架构的具体形态和落地效果还不清楚。",
+        "generatedAt": "2026-11-02T09:06:14+08:00"
+      },
+      "pushedAt": "2026-11-02T09:06:20+08:00"
+    },
     {
       "id": "0dbf0226aa90a12c",
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
@@ -39,6 +77,43 @@
         "generatedAt": "2026-11-02T06:32:46+08:00"
       },
       "pushedAt": "2026-11-02T06:32:52+08:00"
+    },
+    {
+      "id": "fa89c725027e7702",
+      "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4 + KFlash) on MacBook M5 Max 2026 with Kapitsa (Apple Silicon Inference Engine)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xlgu8m/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt",
+      "summary": "hey folks, I'm Ye, one of the contributors to open-source project called Kapitsa, Apple Silicon Inference engine optimized specifically for Apple Silicon to run Qwen, Nemotron, Flint and Clover models locally. Our custom-written Metal kerne…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T06:47:41+08:00",
+      "fetchedAt": "2026-11-02T09:05:54+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 0.2,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Kapitsa 在 M5 Max 上跑多款大模型基准测试",
+        "takeaway": "开源项目 Kapitsa 为 Apple Silicon 优化推理，在 MacBook M5 Max 上测试了 Qwen、Nemotron 等模型。",
+        "bullets": [
+          "Kapitsa 是专为 Apple Silicon 优化的开源推理引擎",
+          "测试覆盖 Qwen 27B/35B/180B、Nemotron Bolt 74B 等模型",
+          "使用 Q4 量化与 KFlash 方案，在 M5 Max 2026 上跑分",
+          "项目自研 Metal 内核，旨在提升本地推理效率"
+        ],
+        "detail": "Kapitsa 贡献者 Ye 在 Reddit 发帖，介绍这个针对 Apple Silicon 优化的开源推理引擎。他们在 MacBook M5 Max 2026 上，用 Q4 量化和 KFlash 方案，对 Qwen、Nemotron、Flint、Clover 等多款模型做了基准测试，并提到项目自写了 Metal 内",
+        "generatedAt": "2026-11-02T09:06:14+08:00"
+      }
     },
     {
       "id": "c561190709826312",
@@ -187,6 +262,40 @@
       "pushedAt": "2026-11-02T06:32:52+08:00"
     },
     {
+      "id": "7d72915382793e5a",
+      "title": "If in doubt, delete the uv.lock file",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first",
+      "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.l…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T07:24:22+08:00",
+      "fetchedAt": "2026-11-02T09:05:54+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "遇到依赖报错？先删 uv.lock 试试",
+        "takeaway": "Simon Willison 建议：Python 3.15 下依赖报错时删掉 uv.lock 重新生成，简单有效。",
+        "bullets": [
+          "Simon Willison 升级 Python 3.15 后偶发依赖报错",
+          "他的经验法则：拿不准就删掉 uv.lock 文件",
+          "多数项目是库，本就不该提交 uv.lock"
+        ],
+        "detail": "Simon Willison 说，切换到 Python 3.15 后偶尔会遇到让人困惑的依赖错误。他总结出的办法是：拿不准就删掉 uv.lock 文件。他多数项目是库，本来就不包含 uv.lock。",
+        "generatedAt": "2026-11-02T09:06:14+08:00"
+      }
+    },
+    {
       "id": "47d47d07474db9e7",
       "title": "I built Frontier UI to give local LLMs ChatGPT-style visual responses in Open WebUI (maps, photos, interactive charts, Office exports, etc.)",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xl7jr0/i_built_frontier_ui_to_give_local_llms",
@@ -220,6 +329,80 @@
         "generatedAt": "2026-11-02T02:12:41+08:00"
       },
       "pushedAt": "2026-11-02T06:32:52+08:00"
+    },
+    {
+      "id": "a790c93d7280f1e1",
+      "title": "早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力",
+      "url": "https://ifanr.com/1687043",
+      "summary": "· 多家车企公布 10 月成绩单 · 奥特曼与三星约 50 名高管座谈，讨论 AI 未来十年的商业应用 · 西湖大学成立世界模型研究中心，计划三年内构建千亿参数模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T08:03:03+08:00",
+      "fetchedAt": "2026-11-02T09:05:54+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "加入"
+      ],
+      "confidence": 0.67,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "早报：苹果iPad Pro或加均热板，ChatGPT与Codex将共享额度",
+        "takeaway": "苹果、OpenAI、奇瑞等多条动态，涉及硬件散热、AI额度整合与车企组织调整。",
+        "bullets": [
+          "苹果或为iPad Pro加入均热板，提升散热性能",
+          "ChatGPT与Codex将共享额度，影响开发者使用",
+          "奇瑞回应智界独立：希望团队更像新势力",
+          "奥特曼与三星高管座谈，讨论AI未来十年商业应用"
+        ],
+        "detail": "苹果可能为iPad Pro引入均热板散热方案；OpenAI计划让ChatGPT和Codex共享使用额度；奇瑞回应智界独立，称希望团队更像新势力。此外，多家车企公布10月成绩单，奥特曼与三星约50名高管座谈AI商业应用，西湖大学成立世界模型研究中心并计划三年内构建千亿参数模型。",
+        "generatedAt": "2026-11-02T09:06:16+08:00"
+      }
+    },
+    {
+      "id": "f64d65858f47dd98",
+      "title": "Sorry Sam, my \"quite terrible\" home DRAM is at 100% now: patched Strata to make DeepSeek V4.1 agent sessions start 20× faster on a good old standard gaming GPU, no datacenter required",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xljdnj/sorry_sam_my_quite_terrible_home_dram_is_at_100",
+      "summary": "Sam Altman recently said that \"from a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer, and being used maybe 5% of the time.\" Cha…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T08:44:53+08:00",
+      "fetchedAt": "2026-11-02T09:05:54+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU",
+        "datacenter"
+      ],
+      "confidence": 0.75,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "玩家用家用内存跑 DeepSeek V4.1，会话启动快 20 倍",
+        "takeaway": "有人改造 Strata，让 DeepSeek V4.1 智能体会话在普通游戏 GPU 上启动快 20 倍，回应奥特曼对家用 DRAM 闲置的批评。",
+        "bullets": [
+          "作者修补 Strata，在普通游戏 GPU 上运行 DeepSeek V4.1 智能体",
+          "智能体会话启动速度提升约 20 倍，无需数据中心",
+          "回应奥特曼称家用 DRAM 闲置是资源浪费的说法"
+        ],
+        "detail": "奥特曼此前说，全球 DRAM 有限，却大量闲置在个人电脑里、利用率可能只有 5%，从全局看很糟糕。这位开发者则用改造后的 Strata，在普通游戏 GPU 上把 DeepSeek V4.1 智能体会话启动提速 20 倍，证明家用硬件也能高效跑本地智能体。",
+        "generatedAt": "2026-11-02T09:06:16+08:00"
+      }
     },
     {
       "id": "1df42119210a4ae7",
@@ -333,6 +516,43 @@
         "generatedAt": "2026-11-02T06:32:48+08:00"
       },
       "pushedAt": "2026-11-02T06:32:52+08:00"
+    },
+    {
+      "id": "576cc80d6dc06ee2",
+      "title": "Qwen 3.8 Flash Next NVFP4 on 64gb RAM and 5090, Basalt. Ditched windows for it. Very hyped for qwen 4 model family now.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xlicia/qwen_38_flash_next_nvfp4_on_64gb_ram_and_5090",
+      "summary": "So, I was asleep on Strata and its specialized forks. Tried basalt and i'm very impressed with the speed/intelligence QFN gives you. Here is my benchmark: https://preview.redd.it/8qhp92ql73zh1.png?width=2946&format=png&auto=webp&s=2abf6d03d…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T07:56:49+08:00",
+      "fetchedAt": "2026-11-02T09:05:54+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "preview",
+        "Qwen"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 Flash Next NVFP4 在 64GB 内存与 5090 上跑 Basalt 实测",
+        "takeaway": "用户实测 Qwen 3.8 Flash Next 的 NVFP4 量化版在 Basalt 上速度与智能表现俱佳，并因此弃用 Windows。",
+        "bullets": [
+          "用户用 64GB 内存和 RTX 5090 运行 Qwen 3.8 Flash Next 的 NVFP4 版本",
+          "在 Basalt 上实测后对速度与智能表现非常满意",
+          "为此放弃 Windows 系统，并更加期待 Qwen 4 系列"
+        ],
+        "detail": "一位 LocalLLaMA 用户分享，他之前忽略了 Strata 及其专用分支，转而尝试 Basalt 后，对 Qwen 3.8 Flash Next（QFN）的速度和智能表现印象深刻。他使用 64GB 内存和 RTX 5090 运行 NVFP4 量化版本，并附上了基准测试截图，还表示为此弃用了 Windows，现在非",
+        "generatedAt": "2026-11-02T09:06:17+08:00"
+      }
     },
     {
       "id": "3fcebbed4a471978",
@@ -551,6 +771,52 @@
         "generatedAt": "2026-11-02T06:32:49+08:00"
       },
       "pushedAt": "2026-11-02T06:32:52+08:00"
+    },
+    {
+      "id": "8340e0801a3da3be",
+      "title": "借着帕累托曲线，大模型重新定义性价比？",
+      "url": "https://tmtpost.com/8189229.html",
+      "summary": "尺子正在换，评判权正在交给业务账单。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T09:03:27+08:00",
+      "fetchedAt": "2026-11-02T09:05:54+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "51fe2e2c2b643f08",
+      "title": "谷歌的AI生意越做越大，华尔街为什么不买帐",
+      "url": "https://tmtpost.com/8189211.html",
+      "summary": "谷歌不一定要赢得模型竞争，但市场对它的信心在减弱。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T09:01:50+08:00",
+      "fetchedAt": "2026-11-02T09:05:54+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
