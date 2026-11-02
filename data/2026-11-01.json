@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "updatedAt": "2026-11-03T04:25:47+08:00",
+  "updatedAt": "2026-11-03T06:02:44+08:00",
   "items": [
     {
       "id": "95f9ec330aee199f",
@@ -1074,7 +1074,7 @@
       "confidence": 0.22,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "XXL-AI v1.4.0 发布：新增人机交互与 Agent 可观测",
         "takeaway": "AI 应用开发平台 XXL-AI 更新桌面端，强化 Agent 与人的协同和可观测能力。",
@@ -1085,7 +1085,8 @@
         ],
         "detail": "XXL-AI v1.4.0 本地桌面版更新，统一了人机交互流程：Agent 执行中需要用户确认时会主动发起请求。同时提供权限确认、多选项、用户输入等标准组件，Agent 集成后自动启用。还新增 Agent 可观测能力，方便开发者模式查看。",
         "generatedAt": "2026-11-02T09:06:18+08:00"
-      }
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "2da7abcc348360ce",
@@ -1290,7 +1291,8 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "e3c2e19ab9b4b964",
@@ -1732,7 +1734,8 @@
       "confidence": 1,
       "score": 23,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     }
   ],
   "topic": "ai"

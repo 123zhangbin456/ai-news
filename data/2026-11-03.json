@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "updatedAt": "2026-11-03T04:25:47+08:00",
+  "updatedAt": "2026-11-03T06:02:44+08:00",
   "items": [
     {
       "id": "cf87f0f49a6ce8bf",
@@ -25,7 +25,7 @@
       "confidence": 0.5,
       "score": 60,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic 收紧 Claude Code 限制，禁止复刻现有电子游戏",
         "takeaway": "Anthropic 更新系统提示词，防止 Claude Code 被用来克隆现有游戏，回应 AI 复刻游戏泛滥问题。",
@@ -36,7 +36,8 @@
         ],
         "detail": "Anthropic 更新了 Claude Code 的系统提示词，阻止该 AI 工具被用来重现现有电子游戏。据 Tom's Hardware 报道，复古游戏领域正被 AI 制作的反编译、重编译等克隆版本充斥，Anthropic 因此采取限制措施。",
         "generatedAt": "2026-11-03T04:25:33+08:00"
-      }
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "a4a3f94120ca0feb",
@@ -61,7 +62,7 @@
       "confidence": 0.75,
       "score": 53,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI推电网保护计划：数据中心极端天气可释放电力",
         "takeaway": "OpenAI在佐治亚州数据中心试点，极端天气时让出最多1000兆瓦电力，缓解电网压力。",
@@ -72,7 +73,8 @@
         ],
         "detail": "OpenAI周一宣布，将在佐治亚州埃芬汉县即将建成的数据中心试点“电网保护者计划”。公司承诺在极端天气或紧急情况下，可释放最多1000兆瓦电力，以减轻当地电网压力并保护周边地区。",
         "generatedAt": "2026-11-03T04:25:35+08:00"
-      }
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "a437782712b76522",
@@ -97,7 +99,7 @@
       "confidence": 0.33,
       "score": 48,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "纽约时报起诉 Brave 浏览器涉嫌抓取并分发其内容",
         "takeaway": "纽约时报指控 Brave 未经授权抓取新闻内容并分发给 AI 公司，凸显内容版权与 AI 数据使用的法律冲突。",
@@ -108,7 +110,8 @@
         ],
         "detail": "纽约时报对注重隐私的浏览器公司 Brave 提起诉讼，指控其抓取该媒体的受版权保护内容，并非法分发给自己的客户，如 Anthropic 和 Perplexity。这起诉讼加剧了新闻机构与科技公司在内容使用上的法律对抗。",
         "generatedAt": "2026-11-03T04:25:37+08:00"
-      }
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "272a05aa5da7e445",
@@ -133,7 +136,7 @@
       "confidence": 1,
       "score": 48,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "马斯克因成本过高限制 Grok Bot 使用额度",
         "takeaway": "Grok Bot 增长太快导致成本不可持续，马斯克出手限流，反映 AI 产品高速扩张背后的算力压力。",
@@ -144,7 +147,46 @@
         ],
         "detail": "马斯克因 Grok Bot 成本“不可持续地高”而限制其使用额度。他此前曾称该产品是“人生中见过增长最快的产品”。这一举措显示，AI 产品高速增长背后，算力与运营成本正成为现实约束。",
         "generatedAt": "2026-11-03T04:25:37+08:00"
-      }
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
+    },
+    {
+      "id": "442b8e6a89211cb3",
+      "title": "GPT-6 Astra Edits Qwen Weights: MATH-500 7.9% to 48.1%",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xma0tw/gpt6_astra_edits_qwen_weights_math500_79_to_481",
+      "summary": "submitted by /u/1-800-methdyke [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T05:25:39+08:00",
+      "fetchedAt": "2026-11-03T06:02:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT",
+        "Qwen"
+      ],
+      "confidence": 0.25,
+      "score": 47,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "GPT-6 Astra 直接改 Qwen 权重，MATH-500 从 7.9% 升至 48.1%",
+        "takeaway": "据称 GPT-6 Astra 能直接编辑 Qwen 模型权重，数学成绩大幅提升，值得关注。",
+        "bullets": [
+          "据 r/LocalLLaMA 帖子，GPT-6 Astra 直接修改 Qwen 权重。",
+          "MATH-500 成绩从 7.9% 提升到 48.1%。",
+          "若属实，模型权重编辑或成新方向。"
+        ],
+        "detail": "Reddit 用户发帖称，GPT-6 Astra 直接对 Qwen 模型的权重进行了编辑，使其在 MATH-500 基准上的得分从 7.9% 提高到 48.1%。帖子未提供更多技术细节，该说法尚待验证。",
+        "generatedAt": "2026-11-03T06:02:43+08:00"
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "7bff3ad3cf63bad1",
@@ -169,7 +211,7 @@
       "confidence": 1,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Claude 新规禁止游戏克隆，但难挡 AI 复制潮",
         "takeaway": "Anthropic 为 Claude 设新规禁止克隆游戏，但 AI 复制浪潮非单一模型商能阻挡。",
@@ -180,7 +222,8 @@
         ],
         "detail": "Anthropic 针对 Claude 推出新规则，明确禁止利用其克隆游戏。然而，AI 模仿游戏的浪潮规模巨大，远非一家模型制造商所能遏制。此举或改变部分开发者的工具选择，但难以扭转整体趋势。",
         "generatedAt": "2026-11-03T04:25:39+08:00"
-      }
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "5464a863f83dce6d",
@@ -205,7 +248,7 @@
       "confidence": 1,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic内部AI用量按零售价计算已超过员工薪酬",
         "takeaway": "Anthropic自曝内部Claude用量按零售价折算超过员工工资总额，AI成本结构值得关注。",
@@ -216,7 +259,8 @@
         ],
         "detail": "据Business Insider报道，Anthropic内部使用自家Claude的规模，若按零售价格计算，已经超过公司支付给员工的薪酬总额。这一数字在Hacker News上引发讨论，折射出AI公司内部对模型的高强度使用及其成本量级。",
         "generatedAt": "2026-11-03T04:25:40+08:00"
-      }
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "4d9d00059da9c1b8",
@@ -242,7 +286,7 @@
       "confidence": 0.5,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic 再收紧 Claude Code 限制，禁止逆向工程",
         "takeaway": "Anthropic 限制 Claude Code 用于逆向工程和游戏克隆，自托管理由又多一条。",
@@ -253,7 +297,8 @@
         ],
         "detail": "Anthropic 再次收紧 Claude Code 的使用边界，明确限制其用于逆向工程和游戏克隆，用户还发现 Opus 5.5 会主动拦截这类任务。社区认为，除了隐私和可控性，厂商随时可能收紧策略，这也是自托管模型的又一理由。",
         "generatedAt": "2026-11-03T04:25:41+08:00"
-      }
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "b687bdf52760faf7",
@@ -278,7 +323,7 @@
       "confidence": 1,
       "score": 42,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "硅谷巨头为何反向借力国产模型？",
         "takeaway": "从英伟达到 Pika，硅谷巨头开始反向借力国产模型，值得关注。",
@@ -289,7 +334,8 @@
         ],
         "detail": "InfoQ 中国报道称，从英伟达到 Pika，硅谷巨头出现“反向借力”国产模型的现象。文章围绕这一现象展开分析，探讨其背后的原因。",
         "generatedAt": "2026-11-03T04:25:41+08:00"
-      }
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "133799eedc2b2239",
@@ -312,7 +358,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "42AI 获 6250 万美元融资，推出可预测人类行为的世界模型",
         "takeaway": "42AI 结束隐身模式，融资 6250 万美元，其世界模型能预测人类行为，甚至在新情境下。",
@@ -323,7 +369,8 @@
         ],
         "detail": "42AI 结束隐身模式并获 6250 万美元融资，推出世界模型，能预测人类行为，甚至在新情境下。这引发科幻式问题：AI 能否在你决定前预测你的行动？",
         "generatedAt": "2026-11-03T04:25:43+08:00"
-      }
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "9abae69701c4237c",
@@ -348,7 +395,7 @@
       "confidence": 0.8,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "纽约时报起诉Brave浏览器：AI抓取与绕过付费墙",
         "takeaway": "纽约时报等媒体起诉Brave，指控其非法抓取内容训练AI并帮助用户绕过付费墙，引发AI版权争议。",
@@ -360,7 +407,8 @@
         ],
         "detail": "据路透社报道，纽约时报和其他多家出版物对Brave浏览器开发商提起诉讼，指控其非法抓取内容用于训练AI，并允许用户绕过付费墙。这起诉讼加剧了媒体与AI公司之间关于内容使用的法律纠纷。",
         "generatedAt": "2026-11-03T04:25:43+08:00"
-      }
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "ca1c10f5e43f722e",
@@ -386,7 +434,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "智能体分析如何提升企业洞察质量",
         "takeaway": "生成式AI已让企业分析更普及，智能体AI有望进一步自动化工作流并提升洞察质量。",
@@ -397,7 +445,8 @@
         ],
         "detail": "生成式AI在几年内改变了企业分析，让组织内更多用户能使用分析工具。智能体AI则有望更进一步，通过自动化整个工作流并采取行动，来提升洞察的质量。",
         "generatedAt": "2026-11-03T04:25:44+08:00"
-      }
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "4dded51f71fcbb6f",
@@ -422,7 +471,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "苹果2027年推千美元家用机器人，主打FaceTime和智能家居",
         "takeaway": "苹果计划2027年推出售价约1000美元的家用机器人，由CEO约翰·特努斯支持，但价格高且功能有限。",
@@ -433,7 +482,8 @@
         ],
         "detail": "苹果计划在2027年推出一款家用机器人，售价约1000美元，主要功能是支持FaceTime通话和控制智能家居设备，比如开关灯。该项目得到了CEO约翰·特努斯的支持，但外界认为其价格较高且功能相对有限。",
         "generatedAt": "2026-11-03T04:25:44+08:00"
-      }
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "fd20a22b6779df85",
@@ -456,7 +506,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "阿里云给AI Agent发“工位”：云电脑既干活又管权限",
         "takeaway": "阿里云提出用云电脑承载办公AI Agent，既让它接手业务，又能管控权限，值得关注。",
@@ -468,7 +518,43 @@
         ],
         "detail": "阿里云智能集团研发副总裁张献涛在分享中提出，AI Agent在办公场景可以拥有自己的“工位”——即云电脑。这样Agent既能接手实际业务，又能通过云电脑管控权限，兼顾效率与安全。",
         "generatedAt": "2026-11-03T04:25:45+08:00"
-      }
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
+    },
+    {
+      "id": "60a2f0712c33972b",
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees",
+      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T03:25:59+08:00",
+      "fetchedAt": "2026-11-03T06:02:21+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Squarespace裁员19%，启动组织重组",
+        "takeaway": "网站建设平台Squarespace宣布裁员19%，作为组织重组的一部分，反映科技行业持续调整。",
+        "bullets": [
+          "Squarespace裁员19%，涉及大量员工。",
+          "公司称此举是更广泛组织重组的一部分。",
+          "裁员可能影响其产品开发与客户服务。"
+        ],
+        "detail": "网站建设平台Squarespace宣布将裁减19%的员工。公司表示，此次裁员是其组织更广泛重组计划的一部分，但未透露具体受影响人数或部门。",
+        "generatedAt": "2026-11-03T06:02:43+08:00"
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "7d6403ff68974921",
@@ -493,7 +579,7 @@
       "confidence": 0,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "DeepSeek 开源 dsh-superagent 原型：面向单仓库的主动式编程代理",
         "takeaway": "DeepSeek 发布自主编程代理原型，能监听 GitHub 与飞书并主动接活，值得关注代理自动化方向。",
@@ -504,7 +590,8 @@
         ],
         "detail": "DeepSeek 在 LocalLLaMA 放出 dsh-superagent 原型，它是一个主动式编程代理，专为单个 GitHub 仓库服务，打包在 DeepSeek Harness 中。它会监听 GitHub，也可选接入飞书；当有权限的人派活时，它自动创建工作任务并着手处理。",
         "generatedAt": "2026-11-03T04:25:47+08:00"
-      }
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "38c41eb0ed980884",
@@ -530,7 +617,8 @@
       "confidence": 0.6,
       "score": 38,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "867843ab55a128cb",
@@ -555,7 +643,8 @@
       "confidence": 0.6,
       "score": 38,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "ee5fd7328a7d7637",
@@ -580,7 +669,8 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "d04e374a7c719c91",
@@ -605,7 +695,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "InfoQ AI 侦察团手记：企业 AI 落地还需跨过哪些关？",
         "takeaway": "InfoQ 现场观察指出，企业 AI 落地除工具外，还需克服组织、流程等非技术障碍。",
@@ -616,7 +706,8 @@
         ],
         "detail": "InfoQ 中国发布 AI 侦察团现场手记，探讨企业 AI 落地除工具之外还需克服的障碍。文章基于现场观察，指出组织、流程等非技术因素同样关键，为企业实践提供参考。",
         "generatedAt": "2026-11-02T18:07:05+08:00"
-      }
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "68338deb5eb2aa92",
@@ -641,7 +732,7 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "深空之序COO芦宇峰：AI落地要跟老师傅做业务，再沉淀成Skill",
         "takeaway": "AI落地关键在业务一线：先跟老师傅学经验，再做成可复用的Skill。",
@@ -652,7 +743,8 @@
         ],
         "detail": "芦宇峰认为，合格的FDE不能只懂技术，必须亲自跟业务老师傅跑一线，摸清真实流程和隐性经验。再把验证过的解法封装成Skill，让AI能复用，从而推动落地。",
         "generatedAt": "2026-11-02T18:07:05+08:00"
-      }
+      },
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "1f10a0b4dd436e04",
@@ -677,7 +769,8 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "79d369657e6bf25b",
@@ -702,7 +795,8 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "cc1b77ae8a893bf7",
@@ -727,7 +821,8 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "b61036675f09ba51",
@@ -750,7 +845,8 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "32cbd7b88b5badc2",
@@ -775,7 +871,8 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
       "id": "284699321c545f8d",
@@ -800,7 +897,32 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-03T06:02:44+08:00"
+    },
+    {
+      "id": "6e0f39e355fb9a78",
+      "title": "Is there still a point to fine-tuning local LLMs?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xma1tq/is_there_still_a_point_to_finetuning_local_llms",
+      "summary": "I've been getting more into running LLMs locally, and I'm starting to wonder if fine-tuning is even worth the effort anymore. Models are getting really good, context windows are huge, and with things like RAG, subagents, and reasoning model…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T05:26:39+08:00",
+      "fetchedAt": "2026-11-03T06:02:21+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-11-03T06:02:44+08:00"
     }
   ],
   "topic": "ai"
