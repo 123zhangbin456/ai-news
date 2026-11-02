@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "updatedAt": "2026-11-02T10:08:02+08:00",
+  "updatedAt": "2026-11-02T10:50:08+08:00",
   "items": [
     {
       "id": "c5112ecb798280aa",
@@ -511,6 +511,43 @@
       }
     },
     {
+      "id": "9b867c5ff758d91e",
+      "title": "DeepSeek 团队把 Agent 设计成“操作系统”：多任务的上限不该是人的注意力",
+      "url": "https://oschina.net/news/503338/deepseek-harness-super-agent",
+      "summary": "DeepSeek Harness 团队发了一篇架构长文，讲他们怎么做出一个\"永远在线\"的 Agent。文章有一句话很精辟： 单任务的上限取决于模型能力，多任务的上限取决于人的注意力。他们观察到，一个人通常只能同时跟进 3 到 5 个活跃 Session。因为现有 Agent 都以单个 Session 为单位，Session 之间彼此独立——你并行推进多项工作...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T10:39:53+08:00",
+      "fetchedAt": "2026-11-02T10:50:02+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 0.5,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 把 Agent 设计成操作系统，突破人的注意力瓶颈",
+        "takeaway": "DeepSeek Harness 团队提出以操作系统思路重构 Agent，让多任务不再受限于人只能盯 3 到 5 个会话。",
+        "bullets": [
+          "DeepSeek Harness 团队发布架构长文，介绍“永远在线”的 Agent 设计",
+          "核心观点：单任务上限看模型，多任务上限看人的注意力",
+          "现有 Agent 以独立 Session 为单位，并行任务难以统一管理",
+          "新架构借鉴操作系统思路，试图突破人同时跟进 3 到 5 个会话的限制"
+        ],
+        "detail": "DeepSeek Harness 团队在架构长文中指出，一个人通常只能同时跟进 3 到 5 个活跃会话，而现有 Agent 各会话彼此独立，导致并行推进多项工作时人的注意力成为瓶颈。为此他们把 Agent 按“操作系统”的思路来设计，目标是做出一个永远在线的 Agent。",
+        "generatedAt": "2026-11-02T10:50:08+08:00"
+      }
+    },
+    {
       "id": "1df42119210a4ae7",
       "title": "tandem.cpp: Qwen3.8-Flash-Next at 97 tok/s on a single 4090 + 64 GB RAM, 3.3× llama.cpp, works for any MoE",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xldent/tandemcpp_qwen38flashnext_at_97_toks_on_a_single",
@@ -841,6 +878,44 @@
       }
     },
     {
+      "id": "87c2bb285295f269",
+      "title": "Postgres 19 迟到了，原因是 LLM 找出了太多老 bug",
+      "url": "https://oschina.net/news/503336/postgres-19-is-late-and-its-ais-fault",
+      "summary": "PostgreSQL 19 要迟到了，大概率拖到 11 月才发。过去十年它的发布节奏准得像钟表——不早于 9 月中，不晚于 10 月中——今年破了例。更反常的是今年在测试阶段后期，一些相当重要的功能被撤销：UPDATE/DELETE FOR PORTION OF、SQL Property Graph Queries（SQL/PGQ）、ALTER TABLE … MERGE/SPLIT PARTITION，全部在 ...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T10:28:14+08:00",
+      "fetchedAt": "2026-11-02T10:50:02+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "功能",
+        "update"
+      ],
+      "confidence": 0.25,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Postgres 19 推迟至 11 月，LLM 揪出大量老 bug",
+        "takeaway": "十年准时发布节奏被打破，LLM 辅助测试暴露太多历史缺陷，多个重要功能被迫撤销。",
+        "bullets": [
+          "PostgreSQL 19 发布推迟到 11 月，打破十年准时传统",
+          "测试后期撤销 UPDATE/DELETE FOR PORTION OF 等功能",
+          "SQL/PGQ 和分区合并拆分功能也被移除",
+          "LLM 找出大量老 bug，导致测试和修复压力激增"
+        ],
+        "detail": "PostgreSQL 19 大概率推迟到 11 月发布，打破了近十年 9 月中到 10 月中发布的惯例。测试后期，UPDATE/DELETE FOR PORTION OF、SQL/PGQ、ALTER TABLE … MERGE/SPLIT PARTITION 等重要功能被撤销，原因是 LLM 找出了太多老 bug，增加",
+        "generatedAt": "2026-11-02T10:50:08+08:00"
+      }
+    },
+    {
       "id": "14dafceb25767f77",
       "title": "Meet Ava: In-browser local AI avatar with LFM3-Omni and WebGPU",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xl9577/meet_ava_inbrowser_local_ai_avatar_with_lfm3omni",
@@ -977,6 +1052,56 @@
       "category": "其他",
       "keywords": [],
       "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "887434ee12f94d7b",
+      "title": "PPTV创始人再创业做“算力版滴滴”，日均消耗token超万亿，却难赚到钱？",
+      "url": "https://tmtpost.com/8189387.html",
+      "summary": "是真风口，还是假热闹？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T10:43:00+08:00",
+      "fetchedAt": "2026-11-02T10:50:02+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 0.25,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "31af731e365257db",
+      "title": "算力不再是AI Agent的天花板，生态围墙才是？",
+      "url": "https://tmtpost.com/8189554.html",
+      "summary": "移动互联网筑起的从来不是技术围墙，而是商业围墙。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T10:27:04+08:00",
+      "fetchedAt": "2026-11-02T10:50:02+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 1,
       "score": 30,
       "related": [],
       "pushed": false
