@@ -1,7 +1,587 @@
 {
   "date": "2026-11-03",
-  "updatedAt": "2026-11-02T18:07:07+08:00",
+  "updatedAt": "2026-11-03T04:25:47+08:00",
   "items": [
+    {
+      "id": "cf87f0f49a6ce8bf",
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "url": "https://theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, a…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T02:56:02+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0.5,
+      "score": 60,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 收紧 Claude Code 限制，禁止复刻现有电子游戏",
+        "takeaway": "Anthropic 更新系统提示词，防止 Claude Code 被用来克隆现有游戏，回应 AI 复刻游戏泛滥问题。",
+        "bullets": [
+          "Anthropic 更新 Claude Code 系统提示词，禁止用于复刻现有电子游戏。",
+          "此举针对复古游戏领域涌现的 AI 反编译、重编译等克隆行为。",
+          "影响使用 Claude Code 生成游戏代码的开发者，需注意合规边界。"
+        ],
+        "detail": "Anthropic 更新了 Claude Code 的系统提示词，阻止该 AI 工具被用来重现现有电子游戏。据 Tom's Hardware 报道，复古游戏领域正被 AI 制作的反编译、重编译等克隆版本充斥，Anthropic 因此采取限制措施。",
+        "generatedAt": "2026-11-03T04:25:33+08:00"
+      }
+    },
+    {
+      "id": "a4a3f94120ca0feb",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "url": "https://theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emerg…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T02:01:30+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center"
+      ],
+      "confidence": 0.75,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI推电网保护计划：数据中心极端天气可释放电力",
+        "takeaway": "OpenAI在佐治亚州数据中心试点，极端天气时让出最多1000兆瓦电力，缓解电网压力。",
+        "bullets": [
+          "OpenAI宣布“电网保护者计划”，首个试点落地佐治亚州埃芬汉县数据中心。",
+          "承诺在极端天气或紧急情况下释放最多1000兆瓦电力，支援周边电网。",
+          "该计划旨在回应数据中心高耗电争议，展示对社区电网的正面贡献。"
+        ],
+        "detail": "OpenAI周一宣布，将在佐治亚州埃芬汉县即将建成的数据中心试点“电网保护者计划”。公司承诺在极端天气或紧急情况下，可释放最多1000兆瓦电力，以减轻当地电网压力并保护周边地区。",
+        "generatedAt": "2026-11-03T04:25:35+08:00"
+      }
+    },
+    {
+      "id": "a437782712b76522",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T03:19:17+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "privacy"
+      ],
+      "confidence": 0.33,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "纽约时报起诉 Brave 浏览器涉嫌抓取并分发其内容",
+        "takeaway": "纽约时报指控 Brave 未经授权抓取新闻内容并分发给 AI 公司，凸显内容版权与 AI 数据使用的法律冲突。",
+        "bullets": [
+          "纽约时报起诉 Brave，称其抓取受版权保护的内容并分发给客户。",
+          "Brave 以隐私保护为卖点，客户包括 Anthropic 和 Perplexity 等 AI 公司。",
+          "此案可能影响浏览器和 AI 公司获取网络内容的方式。"
+        ],
+        "detail": "纽约时报对注重隐私的浏览器公司 Brave 提起诉讼，指控其抓取该媒体的受版权保护内容，并非法分发给自己的客户，如 Anthropic 和 Perplexity。这起诉讼加剧了新闻机构与科技公司在内容使用上的法律对抗。",
+        "generatedAt": "2026-11-03T04:25:37+08:00"
+      }
+    },
+    {
+      "id": "272a05aa5da7e445",
+      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs",
+      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T24:23:21+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "product"
+      ],
+      "confidence": 1,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "马斯克因成本过高限制 Grok Bot 使用额度",
+        "takeaway": "Grok Bot 增长太快导致成本不可持续，马斯克出手限流，反映 AI 产品高速扩张背后的算力压力。",
+        "bullets": [
+          "马斯克称 Grok Bot 成本高到不可持续，决定限制使用额度",
+          "他此前称 Grok Bot 是人生中见过增长最快的产品",
+          "限流可能影响用户体验，也暴露 AI 产品增长与成本的矛盾"
+        ],
+        "detail": "马斯克因 Grok Bot 成本“不可持续地高”而限制其使用额度。他此前曾称该产品是“人生中见过增长最快的产品”。这一举措显示，AI 产品高速增长背后，算力与运营成本正成为现实约束。",
+        "generatedAt": "2026-11-03T04:25:37+08:00"
+      }
+    },
+    {
+      "id": "7bff3ad3cf63bad1",
+      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom",
+      "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T02:05:31+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude 新规禁止游戏克隆，但难挡 AI 复制潮",
+        "takeaway": "Anthropic 为 Claude 设新规禁止克隆游戏，但 AI 复制浪潮非单一模型商能阻挡。",
+        "bullets": [
+          "Anthropic 为 Claude 制定新规则，禁止用于克隆游戏。",
+          "AI 复制游戏的现象激增，远超单一模型商的控制范围。",
+          "新规可能影响开发者使用 Claude 的方式，但整体趋势难逆转。"
+        ],
+        "detail": "Anthropic 针对 Claude 推出新规则，明确禁止利用其克隆游戏。然而，AI 模仿游戏的浪潮规模巨大，远非一家模型制造商所能遏制。此举或改变部分开发者的工具选择，但难以扭转整体趋势。",
+        "generatedAt": "2026-11-03T04:25:39+08:00"
+      }
+    },
+    {
+      "id": "5464a863f83dce6d",
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "url": "https://businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 206 # Comments: 163",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T24:40:29+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic内部AI用量按零售价计算已超过员工薪酬",
+        "takeaway": "Anthropic自曝内部Claude用量按零售价折算超过员工工资总额，AI成本结构值得关注。",
+        "bullets": [
+          "Anthropic内部使用Claude的规模按零售价折算超过员工薪酬总额",
+          "数据来自Business Insider报道，在Hacker News引发热议",
+          "反映AI公司自身对模型的高强度依赖与成本结构"
+        ],
+        "detail": "据Business Insider报道，Anthropic内部使用自家Claude的规模，若按零售价格计算，已经超过公司支付给员工的薪酬总额。这一数字在Hacker News上引发讨论，折射出AI公司内部对模型的高强度使用及其成本量级。",
+        "generatedAt": "2026-11-03T04:25:40+08:00"
+      }
+    },
+    {
+      "id": "4d9d00059da9c1b8",
+      "title": "Yet another reason to self host: Anthropic has (again) cut back on reverse engineering tools",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xm33gr/yet_another_reason_to_self_host_anthropic_has",
+      "summary": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks Besides privacy and being in cont…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T01:13:47+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users",
+        "tools"
+      ],
+      "confidence": 0.5,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 再收紧 Claude Code 限制，禁止逆向工程",
+        "takeaway": "Anthropic 限制 Claude Code 用于逆向工程和游戏克隆，自托管理由又多一条。",
+        "bullets": [
+          "Anthropic 确认新增 Claude Code 使用限制，防止游戏克隆",
+          "用户报告 Opus 5.5 也在主动阻止逆向工程任务",
+          "此举引发 LocalLLaMA 社区讨论，自托管呼声再起"
+        ],
+        "detail": "Anthropic 再次收紧 Claude Code 的使用边界，明确限制其用于逆向工程和游戏克隆，用户还发现 Opus 5.5 会主动拦截这类任务。社区认为，除了隐私和可控性，厂商随时可能收紧策略，这也是自托管模型的又一理由。",
+        "generatedAt": "2026-11-03T04:25:41+08:00"
+      }
+    },
+    {
+      "id": "b687bdf52760faf7",
+      "title": "从英伟达到 Pika，硅谷巨头为何“反向借力”这个国产模型？",
+      "url": "https://infoq.cn/article/h1310kHD9CWD1mO8aTAc",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T06:48:56+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "英伟达"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "硅谷巨头为何反向借力国产模型？",
+        "takeaway": "从英伟达到 Pika，硅谷巨头开始反向借力国产模型，值得关注。",
+        "bullets": [
+          "英伟达、Pika 等硅谷公司被曝借力国产模型。",
+          "报道聚焦这一反向合作现象的原因。",
+          "反映国产模型在海外获得实际应用关注。"
+        ],
+        "detail": "InfoQ 中国报道称，从英伟达到 Pika，硅谷巨头出现“反向借力”国产模型的现象。文章围绕这一现象展开分析，探讨其背后的原因。",
+        "generatedAt": "2026-11-03T04:25:41+08:00"
+      }
+    },
+    {
+      "id": "133799eedc2b2239",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior",
+      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T24:30:00+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "42AI 获 6250 万美元融资，推出可预测人类行为的世界模型",
+        "takeaway": "42AI 结束隐身模式，融资 6250 万美元，其世界模型能预测人类行为，甚至在新情境下。",
+        "bullets": [
+          "42AI 结束隐身模式，融资 6250 万美元。",
+          "其世界模型可预测人类行为，包括全新情境。",
+          "该技术可能应用于人机交互、自动驾驶等领域。"
+        ],
+        "detail": "42AI 结束隐身模式并获 6250 万美元融资，推出世界模型，能预测人类行为，甚至在新情境下。这引发科幻式问题：AI 能否在你决定前预测你的行动？",
+        "generatedAt": "2026-11-03T04:25:43+08:00"
+      }
+    },
+    {
+      "id": "9abae69701c4237c",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "url": "https://theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. A…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T01:51:19+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "sues"
+      ],
+      "confidence": 0.8,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "纽约时报起诉Brave浏览器：AI抓取与绕过付费墙",
+        "takeaway": "纽约时报等媒体起诉Brave，指控其非法抓取内容训练AI并帮助用户绕过付费墙，引发AI版权争议。",
+        "bullets": [
+          "纽约时报等多家出版物起诉Brave公司",
+          "指控Brave非法抓取内容用于AI训练",
+          "Brave被指让用户绕过媒体付费墙",
+          "此案凸显AI训练与版权保护的冲突"
+        ],
+        "detail": "据路透社报道，纽约时报和其他多家出版物对Brave浏览器开发商提起诉讼，指控其非法抓取内容用于训练AI，并允许用户绕过付费墙。这起诉讼加剧了媒体与AI公司之间关于内容使用的法律纠纷。",
+        "generatedAt": "2026-11-03T04:25:43+08:00"
+      }
+    },
+    {
+      "id": "ca1c10f5e43f722e",
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T01:00:00+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "enterprise",
+        "users"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "智能体分析如何提升企业洞察质量",
+        "takeaway": "生成式AI已让企业分析更普及，智能体AI有望进一步自动化工作流并提升洞察质量。",
+        "bullets": [
+          "生成式AI让企业内更多用户能使用分析工具",
+          "智能体AI可自动化整个分析工作流并采取行动",
+          "目标在于提高分析洞察的质量和可用性"
+        ],
+        "detail": "生成式AI在几年内改变了企业分析，让组织内更多用户能使用分析工具。智能体AI则有望更进一步，通过自动化整个工作流并采取行动，来提升洞察的质量。",
+        "generatedAt": "2026-11-03T04:25:44+08:00"
+      }
+    },
+    {
+      "id": "4dded51f71fcbb6f",
+      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat",
+      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T02:32:21+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "苹果2027年推千美元家用机器人，主打FaceTime和智能家居",
+        "takeaway": "苹果计划2027年推出售价约1000美元的家用机器人，由CEO约翰·特努斯支持，但价格高且功能有限。",
+        "bullets": [
+          "苹果将于2027年推出家用机器人，售价约1000美元。",
+          "该机器人主要用于FaceTime通话和开关灯等智能家居控制。",
+          "项目获CEO约翰·特努斯支持，但高价和有限用途可能影响市场表现。"
+        ],
+        "detail": "苹果计划在2027年推出一款家用机器人，售价约1000美元，主要功能是支持FaceTime通话和控制智能家居设备，比如开关灯。该项目得到了CEO约翰·特努斯的支持，但外界认为其价格较高且功能相对有限。",
+        "generatedAt": "2026-11-03T04:25:44+08:00"
+      }
+    },
+    {
+      "id": "fd20a22b6779df85",
+      "title": "AI+办公：Agent都有“工位”了，云电脑既让它接手业务、也管住权限 ｜ 阿里云智能集团研发副总裁张献涛分享",
+      "url": "https://infoq.cn/article/Vryq1f3C0f5uZHOlmIp4",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T02:08:42+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阿里云给AI Agent发“工位”：云电脑既干活又管权限",
+        "takeaway": "阿里云提出用云电脑承载办公AI Agent，既让它接手业务，又能管控权限，值得关注。",
+        "bullets": [
+          "阿里云副总裁张献涛分享AI+办公新思路",
+          "Agent被赋予云电脑“工位”，可接手业务",
+          "云电脑同时承担权限管控角色",
+          "该方案或影响企业AI办公落地方式"
+        ],
+        "detail": "阿里云智能集团研发副总裁张献涛在分享中提出，AI Agent在办公场景可以拥有自己的“工位”——即云电脑。这样Agent既能接手实际业务，又能通过云电脑管控权限，兼顾效率与安全。",
+        "generatedAt": "2026-11-03T04:25:45+08:00"
+      }
+    },
+    {
+      "id": "7d6403ff68974921",
+      "title": "deepseek-ai/dsh-superagent-prototype: Towards a More Autonomous Agent System",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xm4y3q/deepseekaidshsuperagentprototype_towards_a_more",
+      "summary": "“dsh-superagent is a proactive coding agent for one GitHub repository, packaged as a bundle for DeepSeek Harness . It listens to GitHub and, optionally, Feishu. When someone allowed asks the agent for work, it opens a work item, works on it…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T02:19:02+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 开源 dsh-superagent 原型：面向单仓库的主动式编程代理",
+        "takeaway": "DeepSeek 发布自主编程代理原型，能监听 GitHub 与飞书并主动接活，值得关注代理自动化方向。",
+        "bullets": [
+          "dsh-superagent 是面向单个 GitHub 仓库的主动式编程代理",
+          "以 DeepSeek Harness 打包形式发布，属原型阶段",
+          "监听 GitHub，可选接入飞书，收到请求后自动建工作项并执行"
+        ],
+        "detail": "DeepSeek 在 LocalLLaMA 放出 dsh-superagent 原型，它是一个主动式编程代理，专为单个 GitHub 仓库服务，打包在 DeepSeek Harness 中。它会监听 GitHub，也可选接入飞书；当有权限的人派活时，它自动创建工作任务并着手处理。",
+        "generatedAt": "2026-11-03T04:25:47+08:00"
+      }
+    },
+    {
+      "id": "38c41eb0ed980884",
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming",
+      "summary": "Article URL: https://rikiyat.github.io/blog/weight-space-programming/ Comments URL: https://news.ycombinator.com/item?id=50341174 Points: 737 # Comments: 225",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T02:21:28+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github",
+        "weights"
+      ],
+      "confidence": 0.6,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "867843ab55a128cb",
+      "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open",
+      "summary": "There were some rumours the last few days that Qwen4 will be the last open-weight series of Qwen, and future ones would be API only. The following statement contradicts the rumours and clearly states the stance that Qwen is taking regarding…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T24:42:32+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open source"
+      ],
+      "confidence": 0.6,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ee5fd7328a7d7637",
+      "title": "llama + CUDA: flash_attn_ext_rows (fix unified kv for multi-seq) by am17an · Pull Request #29510 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xm27fp/llama_cuda_flash_attn_ext_rows_fix_unified_kv_for",
+      "summary": "Do you run multiple agents locally like I do? If so, this is a really nice speedup for the unified KV cache submitted by /u/jacek2023 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T24:41:34+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
     {
       "id": "d04e374a7c719c91",
       "title": "InfoQ AI 侦察团现场手记：工具之外，企业 AI 落地还要跨过哪些关？",
@@ -73,6 +653,154 @@
         "detail": "芦宇峰认为，合格的FDE不能只懂技术，必须亲自跟业务老师傅跑一线，摸清真实流程和隐性经验。再把验证过的解法封装成Skill，让AI能复用，从而推动落地。",
         "generatedAt": "2026-11-02T18:07:05+08:00"
       }
+    },
+    {
+      "id": "1f10a0b4dd436e04",
+      "title": "微软推出 dotnetup：多版本管理更省心，安装方式却让开发者皱眉",
+      "url": "https://infoq.cn/article/7lNPPkEUVjtMYYvmXaA6",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T05:46:33+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "79d369657e6bf25b",
+      "title": "Cilium 1.20 扩展了 Gateway API 并为 Kubernetes 开放了 eBPF 数据路径",
+      "url": "https://infoq.cn/article/E3wARaqEN7UZx8wM9TNg",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T04:00:00+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "开放"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cc1b77ae8a893bf7",
+      "title": "AI+艺术：想让AI演得像“老戏骨”，多写提示词不如先演一遍 ｜ 奇点川越创始人程佳伟导演分享",
+      "url": "https://infoq.cn/article/pXJoz3XPv5D224a9Fro1",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T04:00:00+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "创始人"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b61036675f09ba51",
+      "title": "谷歌 SynthID Detector 简化了水印检测流程，并将支持范围扩展至其他 AI 提供商",
+      "url": "https://infoq.cn/article/JoVxAdq1OjtIDkRBjWOW",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T02:52:12+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "32cbd7b88b5badc2",
+      "title": "AI+科研：Agent加速科研，论文写得快了，成果更难评了 ｜ 西湖大学工学院博导王欢分享",
+      "url": "https://infoq.cn/article/MbwRCg4cKC2f3bwv0Cpb",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T02:33:55+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "论文"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "284699321c545f8d",
+      "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can",
+      "summary": "submitted by /u/teakhop [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T03:15:33+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "weights"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"

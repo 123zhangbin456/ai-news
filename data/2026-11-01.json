@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "updatedAt": "2026-11-02T09:06:18+08:00",
+  "updatedAt": "2026-11-03T04:25:47+08:00",
   "items": [
     {
       "id": "95f9ec330aee199f",
@@ -1270,6 +1270,29 @@
       "pushedAt": "2026-11-02T06:32:52+08:00"
     },
     {
+      "id": "dd35d009aad680f7",
+      "title": "How We Took Over ChatGPT Accounts",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
+      "summary": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews ), wh…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T07:15:22+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "e3c2e19ab9b4b964",
       "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
       "url": "https://wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences",
@@ -1685,6 +1708,31 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-11-02T06:32:52+08:00"
+    },
+    {
+      "id": "8a042d77f1d6d19b",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn",
+      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-01T10:22:10+08:00",
+      "fetchedAt": "2026-11-03T04:25:21+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
