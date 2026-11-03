@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "updatedAt": "2026-11-03T06:02:44+08:00",
+  "updatedAt": "2026-11-03T11:08:18+08:00",
   "items": [
     {
       "id": "1ba85a3b5ae035b2",
@@ -339,6 +339,40 @@
         "generatedAt": "2026-11-03T04:25:35+08:00"
       },
       "pushedAt": "2026-11-03T06:02:44+08:00"
+    },
+    {
+      "id": "de4cf53f9db96311",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T23:30:00+08:00",
+      "fetchedAt": "2026-11-03T11:07:44+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 自研 Pando：为 Codex 规模打造的 Git 兼容后端",
+        "takeaway": "OpenAI 推出 Pando，一个兼容 Git 的后端，旨在支撑 Codex 带来的大规模开发需求。",
+        "bullets": [
+          "Pando 是 OpenAI 构建的 Git 兼容后端，专为 Codex 规模设计。",
+          "Codex 使开发规模扩大，传统 Git 后端面临挑战。",
+          "Pando 旨在解决大规模开发下的版本控制扩展性问题。"
+        ],
+        "detail": "OpenAI 构建了 Pando，这是一个与 Git 兼容的后端，专门为 Codex 所支持的大规模开发场景设计。随着 Codex 让开发规模变得更大，Pando 旨在应对由此带来的版本控制挑战。",
+        "generatedAt": "2026-11-03T11:08:06+08:00"
+      }
     },
     {
       "id": "0dbf0226aa90a12c",
@@ -748,6 +782,40 @@
         "generatedAt": "2026-11-02T09:40:02+08:00"
       },
       "pushedAt": "2026-11-03T06:02:44+08:00"
+    },
+    {
+      "id": "ff138f709a7e7c37",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-02T08:00:00+08:00",
+      "fetchedAt": "2026-11-03T11:07:44+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 任命 Dan Driscoll 为国家安全现代化高级顾问",
+        "takeaway": "OpenAI 新设国家安全高级顾问职位，推动负责任 AI 用于国安与网络韧性。",
+        "bullets": [
+          "Dan Driscoll 出任 OpenAI 国家安全现代化高级顾问",
+          "职责涵盖负责任 AI、网络韧性与盟友合作",
+          "显示 OpenAI 加深与美政府及盟友的国安协作"
+        ],
+        "detail": "OpenAI 宣布任命 Dan Driscoll 为国家安全现代化高级顾问，负责就负责任 AI 在国家安全现代化、网络韧性以及与美盟友合作等方面提供建议。此举表明 OpenAI 正加强与美国政府及盟友在安全领域的协作。",
+        "generatedAt": "2026-11-03T11:08:13+08:00"
+      }
     },
     {
       "id": "6150af5eb6052c69",
