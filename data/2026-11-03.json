@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "updatedAt": "2026-11-03T11:32:58+08:00",
+  "updatedAt": "2026-11-03T12:06:45+08:00",
   "items": [
     {
       "id": "cf87f0f49a6ce8bf",
@@ -731,6 +731,44 @@
       }
     },
     {
+      "id": "3d83860422658ea4",
+      "title": "Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max",
+      "summary": "PRs: https://github.com/QwenLM/qwen-code/pull/15762: \"Measured on main at 79a9b753c60 , before this change: qwen4 , qwen4-max , qwen4-plus , qwen4.5-max , qwen4-coder-plus , qwen4-max-2026-10-01 , openai/qwen4-max and qwen4-omni-120b-think …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T11:55:43+08:00",
+      "fetchedAt": "2026-11-03T12:06:36+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github",
+        "repo"
+      ],
+      "confidence": 0.67,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阿里 Qwen Code 仓库疑似泄露 qwen4 系列模型名称",
+        "takeaway": "Qwen Code 仓库的 PR 中出现了 qwen4-max、qwen4-coder-plus、qwen4-omni-120b 等未发布模型名，暗示阿里下一代 Qwen4 系列正在筹备。",
+        "bullets": [
+          "泄露来自 QwenLM/qwen-code 仓库的 PR 讨论内容",
+          "出现 qwen4-max、qwen4-coder-plus、qwen4-omni-120b 等名称",
+          "还提及 qwen4-plus、qwen4.5-max 及带日期的版本号",
+          "说明 Qwen4 系列可能已进入内部测试或发布准备阶段"
+        ],
+        "detail": "有网友在阿里 Qwen 团队的 qwen-code 开源仓库中发现一个 PR，其中列出了 qwen4、qwen4-max、qwen4-plus、qwen4.5-max、qwen4-coder-plus、qwen4-max-2026-10-01 以及 qwen4-omni-120b-think 等模型标识。这些名称此前从",
+        "generatedAt": "2026-11-03T12:06:45+08:00"
+      }
+    },
+    {
       "id": "b687bdf52760faf7",
       "title": "从英伟达到 Pika，硅谷巨头为何“反向借力”这个国产模型？",
       "url": "https://infoq.cn/article/h1310kHD9CWD1mO8aTAc",
@@ -1239,6 +1277,44 @@
       }
     },
     {
+      "id": "afe5dd355ba5ffff",
+      "title": "GFlow v1.4.1 发布：审批流转全程留痕、审批消息直达 IM、开放外部系统集成",
+      "url": "https://oschina.net/news/503364",
+      "summary": "GFlow（极风工作流平台）基于 RuleGo 规则引擎构建，核心理念是：AI 先审 · 人再签 · 签完自动办——大模型先审风险，低风险自动直通；会签、加签、任意退回，中国式审批一个不少；审批通过那一刻，入账、通知、回写业务系统由规则链自动执行。本次 v1.4.1 围绕流转留痕、IM 集成、开放集成、表单打印、安全合规五大方...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T11:14:56+08:00",
+      "fetchedAt": "2026-11-03T12:06:36+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "开放"
+      ],
+      "confidence": 0.4,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GFlow v1.4.1 发布：审批留痕、消息直达 IM、开放外部集成",
+        "takeaway": "极风工作流平台更新，强化审批全流程留痕与 IM 通知，并开放外部系统集成。",
+        "bullets": [
+          "审批流转全程留痕，每一步操作可追溯",
+          "审批消息直达 IM，提升通知及时性",
+          "开放外部系统集成，便于对接业务",
+          "基于 RuleGo 规则引擎，AI 先审人再签"
+        ],
+        "detail": "GFlow 是基于 RuleGo 规则引擎的工作流平台，主打 AI 先审风险、低风险自动通过，支持会签、加签、任意退回等中国式审批。v1.4.1 版本围绕流转留痕、IM 集成、开放集成、表单打印和安全合规五方面升级，让审批过程更透明、通知更及时、系统对接更灵活。",
+        "generatedAt": "2026-11-03T12:06:44+08:00"
+      }
+    },
+    {
       "id": "38c41eb0ed980884",
       "title": "Astra can read and write weights to improve Qwen",
       "url": "https://rikiyat.github.io/blog/weight-space-programming",
@@ -1656,6 +1732,43 @@
         ],
         "detail": "QCon 上海 2026 公布了优秀出品人与明星讲师名单，以此向技术人的专业与热爱致敬。该评选旨在表彰为技术社区做出贡献的专家，并为开发者提供学习榜样。",
         "generatedAt": "2026-11-03T11:32:58+08:00"
+      }
+    },
+    {
+      "id": "cd35c45d907ed7f1",
+      "title": "世界互联网大会聚焦智能体安全，360作为核心成员单位持续推动AI安全治理",
+      "url": "https://leiphone.com/category/industrynews/z4pIQvELeZ9lYfrG.html",
+      "summary": "11月2日，世界互联网大会人工智能专业委员会2026年全体会议及第三次主任委员会议在浙江乌镇召开。360集团首席科学家、高级副总裁潘剑锋以人工智能专委会副主任委员身份出席会议。会议审议的2027年度工作计划（草案）提出，专委会安全与治理推进计划将进一步聚焦“智能体安全可控与协同治理”，推动AI安全治理进一步向智能体行为管控、治理能力建设和全球治理机制延伸。作为专委会成员单位，360在智能体安全领域的持续研究与实践，与这一方向高度呼应。图示人工智能专委会会议现场随着AI从内容生…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T10:00:00+08:00",
+      "fetchedAt": "2026-11-03T12:06:36+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "治理"
+      ],
+      "confidence": 0.67,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "世界互联网大会聚焦智能体安全，360参与推动AI治理",
+        "takeaway": "AI安全治理从内容层面延伸到智能体行为管控，360作为核心成员参与其中。",
+        "bullets": [
+          "世界互联网大会人工智能专委会在乌镇召开全体会议",
+          "2027年计划草案聚焦智能体安全可控与协同治理",
+          "360首席科学家潘剑锋以副主任委员身份出席",
+          "治理方向延伸至行为管控、能力建设和全球机制"
+        ],
+        "detail": "11月2日，世界互联网大会人工智能专委会在浙江乌镇召开2026年全体会议及主任委员会议。会议审议的2027年度工作计划草案提出，安全与治理推进计划将重点转向智能体安全可控与协同治理。360集团首席科学家潘剑锋以副主任委员身份参会，公司在该领域的研究与实践与这一方向相呼应。",
+        "generatedAt": "2026-11-03T12:06:44+08:00"
       }
     },
     {
