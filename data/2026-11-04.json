@@ -1,7 +1,606 @@
 {
   "date": "2026-11-04",
-  "updatedAt": "2026-11-03T20:07:21+08:00",
+  "updatedAt": "2026-11-04T03:39:42+08:00",
   "items": [
+    {
+      "id": "fd8195e7fb6408b4",
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "url": "https://theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consum…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T02:30:42+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 64,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI称ChatGPT搜索量已达谷歌20%",
+        "takeaway": "ChatGPT搜索查询量相当于谷歌的20%，显示AI搜索正快速侵蚀传统搜索份额。",
+        "bullets": [
+          "OpenAI高管透露ChatGPT搜索量已达谷歌20%",
+          "用户习惯从“Google一下”转向“问Chat”",
+          "谷歌在搜索领域的主导地位面临AI挑战"
+        ],
+        "detail": "OpenAI宣布，ChatGPT的搜索查询量已达到谷歌搜索量的20%。公司高管Adam Fry表示，这反映出用户正在用“问Chat”替代“Google一下”的习惯转变，意味着AI搜索对传统搜索巨头的冲击正在加剧。",
+        "generatedAt": "2026-11-04T03:39:26+08:00"
+      }
+    },
+    {
+      "id": "adafdd4764cb9dbb",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "source": {
+        "id": "deepmind",
+        "name": "Google DeepMind",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T01:01:49+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Google Antigravity 智能体加速化学信息学与药物发现",
+        "takeaway": "Google DeepMind 展示 Antigravity 智能体与化学信息学技能，可加速药物发现流程、搜索化合物并设计新型大环分子。",
+        "bullets": [
+          "Google Antigravity 结合化学信息学技能，用于药物发现工作流。",
+          "可搜索化合物并提议新型刚性化大环分子。",
+          "面向化学信息学场景，提升研发效率。"
+        ],
+        "detail": "Google DeepMind 介绍了 Google Antigravity 与化学信息学技能（Cheminformatics Skills）如何加速药物发现工作流。该系统能搜索化合物，并提出新型刚性化大环分子，展示了智能体在化学信息学中的应用。",
+        "generatedAt": "2026-11-04T03:39:26+08:00"
+      }
+    },
+    {
+      "id": "a4abd1e2a1c1fb27",
+      "title": "Anthropic is still grappling with the economics of compute",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T01:07:01+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "compute"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic算力经济账越算越亏",
+        "takeaway": "在算力成本理应改善时，Anthropic的算力利润率反而恶化，凸显AI公司算力经济压力。",
+        "bullets": [
+          "Anthropic的算力利润率不升反降，与行业预期相悖。",
+          "算力成本压力可能影响其模型研发与商业定价。",
+          "反映AI公司普遍面临的算力经济挑战。"
+        ],
+        "detail": "在Anthropic的算力利润率本应改善的时候，它却在恶化。这表明该公司在算力经济方面仍面临挑战，可能影响其成本控制和商业策略。",
+        "generatedAt": "2026-11-04T03:39:28+08:00"
+      }
+    },
+    {
+      "id": "6df21e5a15617694",
+      "title": "Google is entirely disabling Search in schools that don’t want AI",
+      "url": "https://theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Ge…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T01:00:04+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features",
+        "update"
+      ],
+      "confidence": 0.5,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌对拒绝AI的学校直接关闭搜索服务",
+        "takeaway": "谷歌以停用搜索为手段，迫使学校接受其AI功能，引发教育场景下的强制捆绑争议。",
+        "bullets": [
+          "谷歌向纽约时报证实，拒绝AI功能的学校将被完全关闭搜索访问。",
+          "该决定随谷歌教育相关更新一同发布，涉及Gemini等AI工具。",
+          "学校面临要么接受AI、要么失去基础搜索服务的两难选择。"
+        ],
+        "detail": "谷歌向《纽约时报》表示，对于不接受其AI功能的学校，将彻底关闭搜索服务。这一决定也在谷歌周二发布的教育相关更新中提及，涉及Gemini等AI工具的访问权限。此举意味着学校若拒绝AI，连基础搜索都无法使用。",
+        "generatedAt": "2026-11-04T03:39:28+08:00"
+      }
+    },
+    {
+      "id": "9b0f1b3870f8f7bf",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights",
+      "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T24:29:48+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "weights"
+      ],
+      "confidence": 0.33,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 27B 笔记本上也能解读模型权重",
+        "takeaway": "新论文称大模型可原生读写神经网络权重，Simon Willison 在本地 Qwen 上验证了这一能力。",
+        "bullets": [
+          "论文《权重空间编程的星星之火》提出 LLM 能直接读写神经网络权重",
+          "Simon Willison 用笔记本上的 Qwen 3.8 27B 复现了类似效果",
+          "作者将成果定位为博客文章，但引发开源社区关注"
+        ],
+        "detail": "Simon Willison 提到，昨天热门论文《权重空间编程的星星之火》由 Rikiya Takehi 等人发表，探讨大模型原生读写神经网络权重的能力。作者虽将其归类为博客文章，但 Willison 在本地笔记本的 Qwen 3.8 27B 模型上验证了类似解读权重的现象。",
+        "generatedAt": "2026-11-04T03:39:30+08:00"
+      }
+    },
+    {
+      "id": "66db5093e88af805",
+      "title": "Like GPT-6 Astra, Qwen 3.8 27B can interpret model weights",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xmz9ca/like_gpt6_astra_qwen_38_27b_can_interpret_model",
+      "summary": "submitted by /u/tarruda [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T01:29:42+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT",
+        "Qwen"
+      ],
+      "confidence": 0.25,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 27B 模型可解读自身权重，类似 GPT-6 Astra",
+        "takeaway": "社区发现 Qwen 3.8 27B 具备解读模型权重的能力，与 GPT-6 Astra 类似，值得关注。",
+        "bullets": [
+          "Qwen 3.8 27B 能解读模型权重，类似 GPT-6 Astra 的能力。",
+          "该发现来自 r/LocalLLaMA 社区讨论，由用户 tarruda 分享。",
+          "若属实，将提升模型可解释性，对本地部署和调试有影响。"
+        ],
+        "detail": "在 r/LocalLLaMA 社区，有用户指出 Qwen 3.8 27B 模型能够解读自身的权重，这与 GPT-6 Astra 的类似能力相呼应。该讨论引发了关于模型可解释性和本地模型能力的关注。",
+        "generatedAt": "2026-11-04T03:39:32+08:00"
+      }
+    },
+    {
+      "id": "55b5ad4a4c2e07c3",
+      "title": "“Can Qwen directly control the robot as well as GPT-6 Astra?”",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xmyji8/can_qwen_directly_control_the_robot_as_well_as",
+      "summary": "A open source harness that was used with Qwen3.8 FN that QwenDev did a shout out to. Available now. From QwenDev via x https://x.com/QwenDevs/status/2117644199860601297 “Well, turns out Qwen3.8-Flash-Next can do more than work with software…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T01:03:57+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT",
+        "Qwen"
+      ],
+      "confidence": 0.38,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen3.8-Flash-Next 开源框架可直控机器人，对标 GPT-6 Astra",
+        "takeaway": "Qwen 官方放出开源控制框架，展示 Qwen3.8-Flash-Next 不止能写软件，还能直接操控机器人。",
+        "bullets": [
+          "QwenDev 在 X 上放出开源 harness，称 Qwen3.8-Flash-Next 能直接控制机器人",
+          "社区讨论焦点是它能否达到 GPT-6 Astra 的机器人控制水平",
+          "框架已公开可用，开发者可自行复现和测试"
+        ],
+        "detail": "Qwen 官方账号 QwenDev 发布了一个开源控制框架，并喊话社区试用。该框架搭配 Qwen3.8-Flash-Next 使用，官方表示这个模型的能力不止于软件任务，还能直接驱动机器人。目前社区正在讨论它与 GPT-6 Astra 在机器人控制上的差距。",
+        "generatedAt": "2026-11-04T03:39:32+08:00"
+      }
+    },
+    {
+      "id": "ba273efe94abcde6",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search",
+      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T24:30:34+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features",
+        "tools"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌允许学校禁用AI工具，但代价是失去搜索功能",
+        "takeaway": "学校若想完全限制AI，将无法使用谷歌搜索，因为AI已深度融入搜索引擎。",
+        "bullets": [
+          "谷歌为学校提供禁用AI工具的选项，但禁用后搜索功能也不可用。",
+          "原因是AI功能已整合进谷歌搜索，无法单独剥离。",
+          "学校面临取舍：要么接受AI，要么放弃谷歌搜索。"
+        ],
+        "detail": "谷歌宣布，学校可以选择限制AI工具的使用，但若完全禁用AI，将无法访问谷歌搜索，因为AI功能已深度集成到搜索引擎中。这意味着学校必须在接受AI和失去搜索服务之间做出选择。",
+        "generatedAt": "2026-11-04T03:39:34+08:00"
+      }
+    },
+    {
+      "id": "ed7232d12d40c9ff",
+      "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+      "url": "https://theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+      "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to gen…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T02:31:00+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features",
+        "available"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "苹果 watchOS 27.3 测试版上线常驻音频智能功能",
+        "takeaway": "Apple Watch 新增 Siri 环境聆听与回顾能力，手表开始常驻监听麦克风，隐私与实用性值得关注。",
+        "bullets": [
+          "watchOS 27.3 开发者测试版已推送，新增音频智能功能",
+          "Siri 可接入手表麦克风，实现环境聆听",
+          "新功能之一是 Siri Recap，可回顾听到的内容",
+          "面向开发者先行，正式版时间未公布"
+        ],
+        "detail": "苹果在 watchOS 27.3 开发者测试版中加入音频智能功能，Siri 现在可以调用 Apple Watch 的麦克风进行环境聆听。其中 Siri Recap 能借助这种常驻监听回顾此前听到的内容，具体上线范围和隐私处理方式尚未披露。",
+        "generatedAt": "2026-11-04T03:39:34+08:00"
+      }
+    },
+    {
+      "id": "d39faabc1ee41d18",
+      "title": "I tried MIT's \"weight-space programming\" on my own use case: Claude rewrote 8 neurons of Gemma 4 12B to change how it translates one Italian tense",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xn1gs9/i_tried_mits_weightspace_programming_on_my_own",
+      "summary": "Yesterday MIT CSAIL showed GPT-6 Astra editing the weights of a small model by hand. It changed a few neurons of Qwen3.5-0.8B, the model stopped looping on math problems, and its scores jumped. No training at all. I wanted to try the same t…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T02:48:57+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT",
+        "Claude"
+      ],
+      "confidence": 0.5,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "MIT“权重空间编程”实测：Claude改写8个神经元改变Gemma翻译行为",
+        "takeaway": "MIT展示不训练、直接改模型权重的新方法，有用户复现并用于调整翻译行为，值得关注。",
+        "bullets": [
+          "MIT CSAIL展示GPT-6 Astra手动编辑小模型权重，无需训练即提升数学表现",
+          "有用户用Claude对Gemma 4 12B的8个神经元做类似修改",
+          "目标是改变模型对意大利语某一时态的翻译方式",
+          "若可复现，模型行为调整或不再依赖完整训练流程"
+        ],
+        "detail": "MIT CSAIL此前演示了GPT-6 Astra直接手动编辑Qwen3.5-0.8B的少量神经元，模型不再在数学题上循环，分数提升且完全无需训练。一位用户受此启发，用Claude对Gemma 4 12B的8个神经元做同样操作，试图改变它翻译意大利语某一时态的方式。",
+        "generatedAt": "2026-11-04T03:39:36+08:00"
+      }
+    },
+    {
+      "id": "36315b3cb5b626b9",
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood",
+      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T02:42:16+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "feature",
+        "users"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Netflix 推出 AI 发现标签页，按心情推荐内容",
+        "takeaway": "Netflix 新增 AI 发现标签页，用户可按当前心情获取推荐，这是该标签页下的首个实验性功能。",
+        "bullets": [
+          "Netflix 上线 AI 发现标签页，首个功能按心情推荐内容",
+          "用户可描述当前心情，获得个性化观看建议",
+          "该功能为实验性质，旨在改善内容发现体验"
+        ],
+        "detail": "Netflix 在其应用中新增了一个名为“发现”的 AI 标签页，该标签页下的首个实验性功能允许用户根据自己当前的心情获取观看推荐。这意味着用户不再需要费力搜索，只需表达心情就能找到想看的內容。",
+        "generatedAt": "2026-11-04T03:39:36+08:00"
+      }
+    },
+    {
+      "id": "41298b9a76b6a710",
+      "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+      "url": "https://theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+      "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Som…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T02:00:00+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features",
+        "app"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Netflix 电视端测试 AI Discover 标签页，按主题推荐内容",
+        "takeaway": "Netflix 在电视应用新增 AI Discover 标签，用 AI 按主题帮用户找片，是推荐方式的新实验。",
+        "bullets": [
+          "Netflix 电视应用将新增 AI Discover 标签页",
+          "首批实验按主题聚合内容，如“Som…”类主题",
+          "功能定位为实验性，用于帮用户发现新剧和电影"
+        ],
+        "detail": "Netflix 的电视应用将推出一个名为“AI Discover”的新标签页，用来展示公司正在测试的 AI 驱动功能，帮助用户找到想看的剧集和电影。首批实验会围绕主题来推荐内容，例如以“Som…”开头的主题分类。",
+        "generatedAt": "2026-11-04T03:39:38+08:00"
+      }
+    },
+    {
+      "id": "d40f5e6fbd309622",
+      "title": "纽约时报等起诉 Brave 绕过付费墙抓取内容并提供给 AI 公司",
+      "url": "https://solidot.org/story?sid=85788",
+      "summary": "《纽约时报》、《芝加哥论坛报》和《奥兰多哨兵报》等美国出版商起诉 Brave Software，指控其未经许可抓取网站内容，并帮助用户绕过付费墙。Brave Software 被控将其抓取内容的索引数据库 Brave Index 提供给 Anthropic、Perplexity、Mistral、xAI 和 Cohere 等 AI 公司，通过 Paywall blocker 功能帮助用户绕过数百家新闻媒体的付费墙。《纽约时报》发言人 Graham James 在一份声明中表示：…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T24:58:29+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "起诉"
+      ],
+      "confidence": 0.8,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "纽约时报等起诉 Brave 绕过付费墙抓取内容供 AI 使用",
+        "takeaway": "多家美国出版商指控 Brave 未经许可抓取新闻内容并绕过付费墙，还将其提供给 AI 公司，引发版权争议。",
+        "bullets": [
+          "原告包括《纽约时报》《芝加哥论坛报》等美国出版商。",
+          "Brave 被指通过 Paywall blocker 帮助用户绕过数百家媒体付费墙。",
+          "Brave 将抓取内容索引提供给 Anthropic、Perplexity 等 AI 公司。"
+        ],
+        "detail": "《纽约时报》等美国出版商起诉 Brave Software，称其未经授权抓取网站内容，并通过付费墙绕过功能让用户免费访问数百家新闻媒体。Brave 还被指控将抓取内容的索引数据库 Brave Index 提供给 Anthropic、Perplexity、Mistral、xAI 和 Cohere 等 AI 公司使用。",
+        "generatedAt": "2026-11-04T03:39:40+08:00"
+      }
+    },
+    {
+      "id": "a55665cf48953af7",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T01:15:21+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "bc4177032a04e266",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T24:35:36+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "42ec3b43220bf36c",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
+      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T03:34:43+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raised",
+        "valuation",
+        "billion"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "79c5f8f09c848f16",
+      "title": "Indie games are missing launch dates because Steam is backed up",
+      "url": "https://theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+      "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T02:14:50+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launch"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f3b71b18e198acbe",
+      "title": "Google will let schools skip AI tools, but they have to give up search, too",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too",
+      "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T01:54:43+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tools"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false
+    },
     {
       "id": "34c6006027c05023",
       "title": "AI 改变的是数据接口，而不是查询引擎",
@@ -35,6 +634,81 @@
         "detail": "文章提出，AI 对数据领域的影响集中在数据接口层面，而非查询引擎本身。这意味着查询引擎的核心逻辑并未因 AI 而改变，从业者应更关注接口层的创新与优化。",
         "generatedAt": "2026-11-03T20:07:20+08:00"
       }
+    },
+    {
+      "id": "bccd1bf87f510e1b",
+      "title": "Google 将对拒绝 AI 的美国学校关闭搜索",
+      "url": "https://solidot.org/story?sid=85787",
+      "summary": "Google 宣布美国 K-12 学校学生使用的软件将默认关闭所有 AI 功能，除非学校管理人员自己选择启用。此举旨在回应教育工作者和家长的诉求，他们希望在孩子与 AI 互动上有更多的掌控权。今天 AI 功能已成为 Google 商用搜索引擎的标配，Google 负责教育的副总裁 Chris Phillips 表示，搜索与 AI 已深度融合，如果学校禁用了 AI，那么学生将无法使用搜索。美国 K-12 学校广泛使用 Google 的软件，包括 Gmail、Docs 以及作业平…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T24:33:42+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "功能"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "da9a5824109ffaf4",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 545 # Comments: 174",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T01:22:37+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 0.5,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a378e2bedf83554c",
+      "title": "[2611.03526] Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xmzo2s/261103526_library_of_layers_lol_adaptively",
+      "summary": "submitted by /u/Thrumpwart [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T01:44:41+08:00",
+      "fetchedAt": "2026-11-04T03:39:18+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "library"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
