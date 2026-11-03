@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "updatedAt": "2026-11-03T12:06:45+08:00",
+  "updatedAt": "2026-11-03T20:07:21+08:00",
   "items": [
     {
       "id": "cf87f0f49a6ce8bf",
@@ -74,6 +74,78 @@
         ],
         "detail": "MIT研究发现，GPT-6 Astra能够直接修改Qwen模型的权重，使其数学能力提升6倍，同时指令执行能力也有所增强。这一能力展示了模型间直接干预权重的可能性，可能为模型优化与协作带来新思路。",
         "generatedAt": "2026-11-03T11:32:56+08:00"
+      }
+    },
+    {
+      "id": "519a32aaa88b9cde",
+      "title": "Anthropic团队零Rust经验起步，靠Claude完成核心API跨语言重构：CPU省40%，延迟降20%",
+      "url": "https://infoq.cn/article/IMWM7ZXDi99sMiUVZBIF",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T20:51:41+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 零 Rust 经验团队借 Claude 重构核心 API：CPU 省 40%，延迟降 20%",
+        "takeaway": "Anthropic 团队无 Rust 经验，靠 Claude 完成核心 API 跨语言重构，性能显著提升，展示 AI 辅助编程潜力。",
+        "bullets": [
+          "Anthropic 团队零 Rust 经验，借助 Claude 完成核心 API 重构。",
+          "重构后 CPU 使用率降低 40%，延迟下降 20%。",
+          "案例显示 AI 可辅助跨语言迁移，降低技术门槛。"
+        ],
+        "detail": "Anthropic 团队在没有任何 Rust 经验的情况下，利用自家 AI 助手 Claude 完成了核心 API 的跨语言重构。重构后 CPU 占用减少 40%，延迟降低 20%，证明了 AI 辅助编程在复杂工程任务中的实用价值。",
+        "generatedAt": "2026-11-03T20:07:06+08:00"
+      }
+    },
+    {
+      "id": "08b710f1e7801fa8",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T16:00:00+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "enterprise"
+      ],
+      "confidence": 1,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Heimstaden 用 ChatGPT 企业版与 Codex 改造房产管理",
+        "takeaway": "欧洲房产公司 Heimstaden 借 OpenAI 工具降本增效，展示 AI 在传统行业的落地。",
+        "bullets": [
+          "Heimstaden 将 ChatGPT 企业版和 Codex 用于物业管理",
+          "目标是降低成本并赋能欧洲各地员工",
+          "案例来自 OpenAI，体现 AI 向传统行业渗透"
+        ],
+        "detail": "OpenAI 介绍了 Heimstaden 如何利用 ChatGPT 企业版和 Codex 改造物业管理，在欧洲范围内降低成本并提升员工能力。这展示了生成式 AI 在传统房地产管理中的实际应用。",
+        "generatedAt": "2026-11-03T20:07:06+08:00"
       }
     },
     {
@@ -256,6 +328,43 @@
         ],
         "detail": "苹果第四财季营收同比增长12%，服务业务收入创下新高。国产游戏《影之刃零》发售72小时内销量突破400万套。另有爆料称，三星下一代折叠屏Fold9将回归屏下摄像头，下一代触屏MacBook Pro将采用新模具。",
         "generatedAt": "2026-11-03T11:08:08+08:00"
+      }
+    },
+    {
+      "id": "d53ce6a15da6cf32",
+      "title": "Olla v0.1.0 - Lightweight open-source LLM proxy for homelabs & on-prem inference (Ollama, vLLM, SGLang, llama.cpp, oMLX with failover, sticky sessions & load balancing)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xmq913/olla_v010_lightweight_opensource_llm_proxy_for",
+      "summary": "Hey folks, About 18 months ago we started building Olla to solve some of the headaches we kept running into whilst managing multiple local LLM inference servers, both in our homelabs and at work. We've shared it here before when it was fair…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T19:13:25+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 0.6,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Olla v0.1.0 发布：轻量开源 LLM 代理，支持多后端与故障转移",
+        "takeaway": "Olla 推出 v0.1.0，为本地/自托管 LLM 推理提供轻量代理，支持多后端、故障转移和负载均衡。",
+        "bullets": [
+          "支持 Ollama、vLLM、SGLang、llama.cpp、oMLX 等多种推理后端",
+          "具备故障转移、粘性会话和负载均衡功能",
+          "面向家庭实验室和企业本地部署，解决多服务器管理难题",
+          "项目已开发约 18 个月，此前曾分享早期版本"
+        ],
+        "detail": "Olla 是一个轻量开源 LLM 代理，旨在简化管理多个本地推理服务器的复杂度。它支持 Ollama、vLLM、SGLang、llama.cpp 和 oMLX 等后端，并提供故障转移、粘性会话和负载均衡功能。该项目经过约 18 个月开发，现已发布 v0.1.0 版本。",
+        "generatedAt": "2026-11-03T20:07:06+08:00"
       }
     },
     {
@@ -476,6 +585,78 @@
         ],
         "detail": "InfoQ中国举办的AICon北京活动以“从提效到扩能”为主题，讨论AI如何帮助小团队突破能力限制，并推动组织形态的演进。内容属于行业会议分享，未提供具体案例或数据。",
         "generatedAt": "2026-11-03T11:08:10+08:00"
+      }
+    },
+    {
+      "id": "334d1d5a0323d015",
+      "title": "GPT-6 Astra 爆改 Qwen 大脑：只动 0.016% 参数，数学成绩疯涨",
+      "url": "https://ifanr.com/1687285",
+      "summary": "我「编程」我自己 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T15:22:57+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GPT-6 Astra 微调 Qwen 大脑：仅动 0.016% 参数，数学成绩大涨",
+        "takeaway": "GPT-6 Astra 用极少参数微调 Qwen，数学能力显著提升，展示高效模型优化新路径。",
+        "bullets": [
+          "GPT-6 Astra 对 Qwen 模型进行微调，仅调整 0.016% 的参数。",
+          "微调后数学成绩大幅上涨，具体提升幅度未在摘要中说明。",
+          "该案例显示大模型可通过极小参数改动实现能力跃升。"
+        ],
+        "detail": "据爱范儿报道，GPT-6 Astra 对 Qwen 模型进行了微调，只改动了 0.016% 的参数，就让数学成绩大幅上涨。这相当于用极小的改动撬动了模型能力，为高效优化大模型提供了新思路。",
+        "generatedAt": "2026-11-03T20:07:08+08:00"
+      }
+    },
+    {
+      "id": "9c60997c6ead57a4",
+      "title": "AI 训练 AI！百度首次披露 Apollo World 世界模型，让无人驾驶突破“不可能三角”",
+      "url": "https://oschina.net/news/503374",
+      "summary": "“世界模型，重点不是渲染的画质是否好看，而是模拟器是否能忠实还原现实物理规律和行为的因果”。11月3日，在深圳举行的百度AI Day·Apollo专场上，百度Apollo首次披露面向物理AI的智能体驱动全模态世界模型Apollo World，并提出世界模型 “2+3”判断标准。目前，该模型已用于萝卜快跑全球化测试与验证，助力无人驾驶规...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T19:50:21+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "百度Apollo首曝世界模型，用AI训练AI破解无人驾驶三角难题",
+        "takeaway": "百度发布Apollo World世界模型，以AI训练AI，助无人驾驶突破“不可能三角”，已用于萝卜快跑全球化测试。",
+        "bullets": [
+          "百度Apollo首次披露面向物理AI的Apollo World世界模型",
+          "提出世界模型“2+3”判断标准，强调还原物理规律与因果",
+          "模型已用于萝卜快跑全球化测试与验证",
+          "目标让无人驾驶突破“不可能三角”"
+        ],
+        "detail": "百度Apollo在深圳AI Day上首次公开Apollo World世界模型，强调其重点不在渲染画质，而在忠实还原现实物理规律和行为因果。该模型已用于萝卜快跑全球化测试与验证，通过AI训练AI的方式，助力无人驾驶突破“不可能三角”。",
+        "generatedAt": "2026-11-03T20:07:08+08:00"
       }
     },
     {
@@ -731,6 +912,148 @@
       }
     },
     {
+      "id": "eaa49ddd77054e0f",
+      "title": "“别再像 2024 年那样用 Claude 了！”Claude Cowork 工程负责人：有些 Skill 删掉反而更好",
+      "url": "https://infoq.cn/article/xaWSKT3MlZjbuJw16Vem",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T20:49:51+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Cowork 负责人：别再沿用 2024 年用法，有些 Skill 删掉更好",
+        "takeaway": "Claude Cowork 工程负责人提醒用户更新使用方式，并指出精简 Skill 反而能提升效果。",
+        "bullets": [
+          "Claude Cowork 工程负责人公开建议用户改变 2024 年的旧用法。",
+          "负责人强调部分 Skill 删除后效果更好，而非越多越好。",
+          "该表态来自 InfoQ 中国报道，涉及 Claude 使用实践。"
+        ],
+        "detail": "Claude Cowork 工程负责人表示，用户不应再像 2024 年那样使用 Claude，并指出有些 Skill 删掉反而更好。这一提醒意味着，随着产品演进，过去堆叠 Skill 的做法可能不再适用，精简配置或成为更有效的使用方式。",
+        "generatedAt": "2026-11-03T20:07:08+08:00"
+      }
+    },
+    {
+      "id": "5f0db72bb8aceee3",
+      "title": "DeepSeek不满足于模型，还要让AI自己干活",
+      "url": "https://tmtpost.com/8190971.html",
+      "summary": "DeepSeek开源Super-agent原型，探索自主智能体架构。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T17:38:34+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.2,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek开源Super-agent原型，探索自主智能体架构",
+        "takeaway": "DeepSeek从模型层延伸到智能体层，开源原型让AI自主完成任务，值得关注。",
+        "bullets": [
+          "DeepSeek开源Super-agent原型，探索自主智能体架构",
+          "目标让AI自己干活，减少人工干预",
+          "开源方式发布，开发者可参与和复用"
+        ],
+        "detail": "DeepSeek不满足于只做模型，最新开源了Super-agent原型，探索自主智能体架构。这意味着AI可以更自主地完成任务，而不仅是被动响应。开源有助于社区共同推进智能体技术。",
+        "generatedAt": "2026-11-03T20:07:10+08:00"
+      }
+    },
+    {
+      "id": "0947affcb4cc06db",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T15:20:00+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Apple Watch 新 AI 功能开启测试：可回听对话并生成摘要",
+        "takeaway": "苹果为 Apple Watch 推出音频智能测试版，能回放对话内容并做笔记，值得关注可穿戴 AI 助手走向实用化。",
+        "bullets": [
+          "苹果音频智能功能进入 Beta 测试，面向 Apple Watch 用户。",
+          "可回听对话中某人说了什么，并自动生成对话笔记。",
+          "该功能旨在帮助用户记忆和记录日常交流内容。"
+        ],
+        "detail": "苹果正在测试一项名为音频智能的新功能，它能让 Apple Watch 帮助用户回忆对话中对方说了什么，还能为对话生成笔记。目前该功能处于 Beta 阶段，具体上线时间未定。",
+        "generatedAt": "2026-11-03T20:07:10+08:00"
+      }
+    },
+    {
+      "id": "67939b584e89caab",
+      "title": "小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”",
+      "url": "https://qbitai.com/2026/11/507396.html",
+      "summary": "11月3日，小米方面披露，小米集团获得2026世界互联网大会“杰出贡献奖”创新突破类奖项",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T13:16:35+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "小米乌镇峰会揽双奖：集团获杰出贡献奖，具身基座模型获领先科技奖",
+        "takeaway": "小米集团与具身基座模型同获世界互联网大会奖项，显示其在AI与机器人方向获行业认可。",
+        "bullets": [
+          "小米集团获2026世界互联网大会杰出贡献奖创新突破类奖项",
+          "小米具身基座模型获领先科技奖，指向机器人AI底层能力",
+          "双奖同台，体现小米在AI与具身智能领域的持续投入"
+        ],
+        "detail": "11月3日小米披露，小米集团在2026世界互联网大会上获得“杰出贡献奖”创新突破类奖项，同时小米具身基座模型拿下“领先科技奖”。两个奖项分别对应企业贡献与前沿技术，反映出小米在具身智能方向的布局受到关注。",
+        "generatedAt": "2026-11-03T20:07:10+08:00"
+      }
+    },
+    {
       "id": "3d83860422658ea4",
       "title": "Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max",
@@ -766,6 +1089,42 @@
         ],
         "detail": "有网友在阿里 Qwen 团队的 qwen-code 开源仓库中发现一个 PR，其中列出了 qwen4、qwen4-max、qwen4-plus、qwen4.5-max、qwen4-coder-plus、qwen4-max-2026-10-01 以及 qwen4-omni-120b-think 等模型标识。这些名称此前从",
         "generatedAt": "2026-11-03T12:06:45+08:00"
+      }
+    },
+    {
+      "id": "768a6053731891ca",
+      "title": "nvidia/NVIDIA-NemotronLabs-RE-USE · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xmorim/nvidianvidianemotronlabsreuse_hugging_face",
+      "summary": "NVIDIA NemotronLabs RE-USE is a 9.6-million-parameter multilingual universal speech enhancement (USE) model designed to restore speech quality across a wide range of real-world degradations while preserving speech fidelity. It has the follo…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T17:44:30+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达发布960万参数多语言语音增强模型",
+        "takeaway": "英伟达推出轻量级通用语音增强模型，可修复多种真实场景下的语音退化，保持语音保真度。",
+        "bullets": [
+          "模型仅960万参数，属于轻量级语音增强模型",
+          "支持多语言，针对真实世界多种语音退化场景",
+          "目标是在修复音质的同时保留语音原始特征"
+        ],
+        "detail": "英伟达在Hugging Face上发布了NemotronLabs RE-USE模型，这是一个参数量为960万的通用语音增强模型。它面向多语言场景，能修复真实环境中各类语音质量下降问题，同时尽量保持语音本身的保真度。",
+        "generatedAt": "2026-11-03T20:07:12+08:00"
       }
     },
     {
@@ -842,6 +1201,40 @@
         ],
         "detail": "三部门最新部署稳市场，六大行大额存单全部重启发行。中上协数据显示，前三季度境内上市公司合计实现归母净利润5.1万亿元，同比增长8.5%。此外，Meta与中国企业合作开发人形机器人的消息引发关注，傅利叶作出回应；度小满与香港科技大学联合发布轩辕4.5金融大模型；比亚迪王朝10月销售20.3万辆，同比增长13.6%；Ant",
         "generatedAt": "2026-11-03T11:08:14+08:00"
+      }
+    },
+    {
+      "id": "76af35d96ed52712",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "url": "https://technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, …",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T12:18:47+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谁在通过特朗普的“超级智能”忠诚测试",
+        "takeaway": "特朗普签署行政令测试AI企业对“超级智能”的忠诚，部分公司已表态配合，引发对AI政治化的关注。",
+        "bullets": [
+          "特朗普9月底签署行政令，仅含一项指令，要求AI企业通过“超级智能”忠诚测试。",
+          "部分科技公司已表态配合，具体名单未在摘要中详述。",
+          "此举可能影响AI行业与政府关系，引发对技术政治化的讨论。"
+        ],
+        "detail": "9月底，特朗普总统签署了一项行政令，其中只包含一项指令，即对AI企业进行“超级智能”忠诚测试。该测试旨在检验企业对政府AI政策的配合度，已有部分公司表示愿意遵守。这一动向引发外界对AI技术被政治化的担忧。",
+        "generatedAt": "2026-11-03T20:07:12+08:00"
       }
     },
     {
@@ -1204,6 +1597,79 @@
       }
     },
     {
+      "id": "a312adbc2b5e0af7",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment",
+      "summary": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety researchers are scrambling to ensure they are “a…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T18:43:41+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "“逆向博弈论”或成约束AI代理新思路",
+        "takeaway": "一种新方法试图让AI模型主动选择遵守规则，而非被动受控，为AI安全提供新方向。",
+        "bullets": [
+          "逆向博弈论通过设计激励机制，让遵守规则成为AI最理性的选择。",
+          "随着AI能力增强，安全研究者正努力确保其行为可控。",
+          "该方法可能影响未来AI监管与对齐策略的设计。"
+        ],
+        "detail": "逆向博弈论是一种新思路，旨在为强大的AI模型设计激励，使遵守规则成为其最理性的选择。随着模型能力提升，安全研究者正加紧确保AI行为可控，这一方法或为监管提供新工具。",
+        "generatedAt": "2026-11-03T20:07:12+08:00"
+      }
+    },
+    {
+      "id": "e402a4ff120f5660",
+      "title": "Qwen3.8-Flash-Next (local) vs Claude",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xmolk6/qwen38flashnext_local_vs_claude",
+      "summary": "I am seriously impressed and want to share my experience. Qwen3.8-Flash-Next (local) vs Claude in Claude Code: reviewing one real commit I ran the same code review twice on one commit in my repo https://github.com/leok7v/ChatOKF (Swift, on-…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T17:33:58+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github",
+        "repo"
+      ],
+      "confidence": 0.5,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "本地 Qwen3.8-Flash-Next 与 Claude 代码审查对比实测",
+        "takeaway": "用户实测本地 Qwen3.8-Flash-Next 在 Claude Code 中做代码审查，效果令人印象深刻。",
+        "bullets": [
+          "同一提交分别用本地 Qwen3.8-Flash-Next 和 Claude 审查",
+          "测试仓库为 Swift 项目 ChatOKF",
+          "作者对本地模型表现感到惊喜"
+        ],
+        "detail": "一位开发者在自己的 Swift 项目 ChatOKF 中，针对同一个提交分别用本地部署的 Qwen3.8-Flash-Next 和 Claude 进行代码审查。他在 Claude Code 环境里跑了两次相同流程，对本地模型的效果表示非常满意，并分享了这次对比体验。",
+        "generatedAt": "2026-11-03T20:07:14+08:00"
+      }
+    },
+    {
       "id": "7d6403ff68974921",
       "title": "deepseek-ai/dsh-superagent-prototype: Towards a More Autonomous Agent System",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xm4y3q/deepseekaidshsuperagentprototype_towards_a_more",
@@ -1315,6 +1781,111 @@
       }
     },
     {
+      "id": "9e4204c976a402f5",
+      "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
+      "url": "https://qbitai.com/2026/11/507419.html",
+      "summary": "终于，有了一个可以触摸的起点",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T14:55:30+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "纯语音Personal Agent来了，或成乔布斯心中的Siri",
+        "takeaway": "量子位报道一款纯语音个人助理，被视为接近乔布斯对Siri的构想，值得关注。",
+        "bullets": [
+          "产品定位为纯语音Personal Agent，强调语音交互。",
+          "被类比为乔布斯心中理想的Siri形态。",
+          "报道称其提供了一个可触摸的起点。"
+        ],
+        "detail": "量子位介绍了一款纯语音个人助理产品，称其或许就是乔布斯当年设想中的Siri。文章认为，这款产品终于让这一构想有了一个可以实际触摸的起点。",
+        "generatedAt": "2026-11-03T20:07:14+08:00"
+      }
+    },
+    {
+      "id": "27f35999d2308a53",
+      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
+      "url": "https://qbitai.com/2026/11/507410.html",
+      "summary": "TeleAI智慧看护助手",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T14:29:11+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "产品",
+        "助手"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "苹果新品未发，中国央企已把同类看护助手装进公厕",
+        "takeaway": "苹果被曝的智慧看护产品，中国央企TeleAI八个月前已落地公共卫生间，显示国内AI应用落地更快。",
+        "bullets": [
+          "苹果被曝正研发智慧看护类新产品，具体形态未明。",
+          "中国央企TeleAI的智慧看护助手已安装于公共卫生间，早于苹果曝光八个月。",
+          "反映国内AI产品在垂直场景的落地速度可能领先国际大厂。"
+        ],
+        "detail": "苹果被曝正在开发一款智慧看护新产品，但具体细节尚未公布。而中国央企TeleAI的智慧看护助手早在八个月前就已安装到公共卫生间中，实现实际应用。这显示出国内AI产品在特定场景的落地节奏可能比苹果更快。",
+        "generatedAt": "2026-11-03T20:07:15+08:00"
+      }
+    },
+    {
+      "id": "df508b712abb36c4",
+      "title": "AI数据平台OceanBase获世界互联网大会杰出贡献奖",
+      "url": "https://qbitai.com/2026/11/507405.html",
+      "summary": "11月3日上午，2026世界互联网大会在浙江乌镇开幕。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T13:59:05+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OceanBase获世界互联网大会杰出贡献奖",
+        "takeaway": "AI数据平台OceanBase在世界互联网大会开幕当天获奖，值得关注国产数据基础设施的国际化认可。",
+        "bullets": [
+          "2026世界互联网大会11月3日在浙江乌镇开幕",
+          "OceanBase作为AI数据平台获杰出贡献奖",
+          "奖项体现国产数据库在AI数据领域的进展"
+        ],
+        "detail": "2026世界互联网大会11月3日上午在浙江乌镇开幕，AI数据平台OceanBase在会上获得杰出贡献奖。该奖项与大会开幕同日公布，显示国产数据平台在AI数据方向受到关注。",
+        "generatedAt": "2026-11-03T20:07:16+08:00"
+      }
+    },
+    {
       "id": "38c41eb0ed980884",
       "title": "Astra can read and write weights to improve Qwen",
       "url": "https://rikiyat.github.io/blog/weight-space-programming",
@@ -1394,6 +1965,181 @@
       "pushedAt": "2026-11-03T06:02:44+08:00"
     },
     {
+      "id": "9b3ba0441179b738",
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location",
+      "summary": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T13:32:25+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "视频背景音可泄露精确位置：飞机噪声成OSINT新线索",
+        "takeaway": "Colsto演示如何从视频中几乎听不见的飞机噪声推断拍摄者精确位置，揭示日常视频暗藏地理信息。",
+        "bullets": [
+          "Colsto利用视频音轨中微弱的飞机背景噪声进行OSINT分析",
+          "通过识别飞机声可反推拍摄地点，精度可能很高",
+          "这类声音在普通视频中普遍存在，隐私风险被低估"
+        ],
+        "detail": "Simon Willison 分享了一个 OSINT 案例：Colsto 发现，视频音轨里几乎听不见的飞机背景噪声，可以用来推断飞机型号和飞行轨迹，进而定位拍摄者。这种声音在大量视频中普遍存在，意味着普通人上传的视频可能无意中泄露精确位置。",
+        "generatedAt": "2026-11-03T20:07:16+08:00"
+      }
+    },
+    {
+      "id": "2147ac7bda8e0e24",
+      "title": "October sponsors-only newsletter",
+      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter",
+      "summary": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalyp…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T13:28:59+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Simon Willison 发布十月赞助者专属通讯",
+        "takeaway": "本期聚焦氛围游戏开发拐点与漏洞危机，仅赞助者可读。",
+        "bullets": [
+          "Simon Willison 发出十月赞助者专属月度通讯。",
+          "本期主题包括氛围游戏开发的十月拐点。",
+          "还涉及漏洞危机等话题，仅赞助者可访问。"
+        ],
+        "detail": "Simon Willison 已发送十月赞助者专属月度通讯。本期内容涵盖氛围游戏开发的十月拐点、漏洞危机等话题。赞助者或新赞助者可访问阅读。",
+        "generatedAt": "2026-11-03T20:07:16+08:00"
+      }
+    },
+    {
+      "id": "ac36c48af6808ddf",
+      "title": "A社紧急修改招股书！RSI我们快要控制不住了",
+      "url": "https://qbitai.com/2026/11/507382.html",
+      "summary": "单季狂揽1130亿人民币，但...",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T11:41:06+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "A社紧急修改招股书，自曝RSI快要控制不住",
+        "takeaway": "A社单季营收1130亿却紧急改招股书，承认RSI风险逼近失控，值得关注。",
+        "bullets": [
+          "A社紧急修改招股书，披露RSI风险。",
+          "单季营收达1130亿人民币，业绩强劲。",
+          "公司自认RSI快要控制不住，引发担忧。"
+        ],
+        "detail": "A社在招股书中紧急修改内容，承认RSI（可能指递归自我改进）风险已接近失控。尽管单季营收高达1130亿人民币，但这一风险披露可能影响投资者信心。",
+        "generatedAt": "2026-11-03T20:07:17+08:00"
+      }
+    },
+    {
+      "id": "6806455a4c79911b",
+      "title": "AI数据库扎堆发布的一年，都升级了什么？",
+      "url": "https://tmtpost.com/8191573.html",
+      "summary": "数据库产业过去十年解决的是替代的问题；未来十年要解的是一道经济题，企业沉淀了几十年的数据资产，能不能在AI时代被真正读懂、高效用起来，同时守住安全的底线。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T15:19:35+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "升级"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI数据库扎堆发布，升级重点转向数据资产变现",
+        "takeaway": "数据库产业从替代转向经济题，核心是让企业数据在AI时代被读懂、用起来且安全。",
+        "bullets": [
+          "过去十年数据库解决替代问题，未来十年要解经济题。",
+          "企业几十年数据资产需在AI时代被真正读懂和高效使用。",
+          "安全底线是升级中必须守住的关键。"
+        ],
+        "detail": "数据库产业过去十年主要解决替代问题；未来十年则要解一道经济题：企业沉淀了几十年的数据资产，能否在AI时代被真正读懂、高效用起来，同时守住安全底线。",
+        "generatedAt": "2026-11-03T20:07:18+08:00"
+      }
+    },
+    {
+      "id": "43032c7effc0c01d",
+      "title": "DeepSeek V5 is planned to be pre-trained on Huawei Ascend chips.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xmmadn/deepseek_v5_is_planned_to_be_pretrained_on_huawei",
+      "summary": "Source: https://mp.weixin.qq.com/s/R-1u2exLwZMOu7AITyU5kg A reporter from STAR Market Daily has learned from multiple sources within the industry supply chain that DeepSeek’s next-generation large model, DeepSeek V5, is planned to be pre-tr…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T15:07:11+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chips"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek V5 计划用华为昇腾芯片预训练",
+        "takeaway": "国产大模型首次被曝在昇腾芯片上预训练，或标志算力自主化关键一步。",
+        "bullets": [
+          "消息来自科创板日报记者，援引产业链多个信源",
+          "DeepSeek V5 是下一代大模型，计划用昇腾预训练",
+          "若属实，将减少对英伟达 GPU 的依赖"
+        ],
+        "detail": "据科创板日报从产业链多方获悉，DeepSeek 下一代大模型 V5 计划在华为昇腾芯片上进行预训练。目前该计划仍处于传闻阶段，若落地将意味着国产大模型训练向自主算力迁移。",
+        "generatedAt": "2026-11-03T20:07:18+08:00"
+      }
+    },
+    {
       "id": "6eb301c16f760cf0",
       "title": "Qwen 3.8 27b is sometimes so smart it scares me...",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xmbym0/qwen_38_27b_is_sometimes_so_smart_it_scares_me",
@@ -1428,6 +2174,42 @@
         ],
         "detail": "有用户出于娱乐，给 Qwen 3.8 27B 一道涉及大量数学的物理题。推理到一半时，模型查看可用工具，发现能通过 blender mcp 编写并执行任意 Python 代码，于是主动利用这一能力推进解题，其表现让用户感到惊讶。",
         "generatedAt": "2026-11-03T11:08:17+08:00"
+      }
+    },
+    {
+      "id": "fec0e46ceba430b8",
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T08:00:00+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "integration"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Hugging Face 推出 Transformers 模型集成契约",
+        "takeaway": "Hugging Face 为 Transformers 引入模型集成契约，规范模型与库的对接方式。",
+        "bullets": [
+          "契约明确模型集成需满足的接口与行为标准",
+          "开发者可据此更可靠地集成新模型到 Transformers",
+          "有助于减少模型与库版本不兼容的问题"
+        ],
+        "detail": "Hugging Face 在 Transformers 中引入“模型集成契约”，为模型与库的对接定义明确的接口和行为规范。开发者遵循契约可提升集成可靠性，减少兼容性问题。",
+        "generatedAt": "2026-11-03T20:07:19+08:00"
       }
     },
     {
@@ -1772,6 +2554,193 @@
       }
     },
     {
+      "id": "a6f42c40481c2543",
+      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+      "url": "https://wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani",
+      "summary": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T19:00:00+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "纽约市长谈AI与数据中心：风险我们担，收益归他们",
+        "takeaway": "中期选举前，纽约市长马姆达尼就数据中心、AI进校园和民主党未来发声，直指AI收益分配不公。",
+        "bullets": [
+          "纽约市长马姆达尼在中期选举前接受WIRED采访，谈AI与数据中心。",
+          "他批评数据中心让社区承担风险，收益却归少数公司。",
+          "话题还涉及AI在学校的使用及民主党未来走向。"
+        ],
+        "detail": "中期选举前，WIRED采访了纽约市长佐兰·马姆达尼，讨论数据中心、学校中的AI以及民主党的未来。他提出“风险我们担，收益归他们”，质疑AI基础设施的成本与好处分配不均。",
+        "generatedAt": "2026-11-03T20:07:20+08:00"
+      }
+    },
+    {
+      "id": "8c0d6bbfca092ba3",
+      "title": "前迪士尼 AI 高管出任 CPO，Utopai Studios 技术布局再提速",
+      "url": "https://infoq.cn/article/z1ZeGD2FDqi6xLvSJjSl",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T24:11:29+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "前迪士尼 AI 高管加盟 Utopai Studios 任 CPO",
+        "takeaway": "Utopai Studios 挖来前迪士尼 AI 高管担任首席产品官，意在加快技术布局。",
+        "bullets": [
+          "前迪士尼 AI 高管出任 Utopai Studios 首席产品官",
+          "公司称此举将加速其技术布局",
+          "具体产品方向与时间表尚未披露"
+        ],
+        "detail": "Utopai Studios 宣布任命一位前迪士尼 AI 高管为首席产品官（CPO）。公司表示，这一人事变动将推动其技术布局提速，但未透露具体产品计划。",
+        "generatedAt": "2026-11-03T20:07:21+08:00"
+      }
+    },
+    {
+      "id": "7ecee2892cd4d385",
+      "title": "构建面向 Agentic 推理的下一代 LLM 推理引擎",
+      "url": "https://infoq.cn/article/YwAayF1ylWb7oN4P0lyC",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T23:40:16+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "62b92c4f6ab395a5",
+      "title": "AI 复刻 Adobe 系列软件开发者坦言：项目远未准备就绪",
+      "url": "https://infoq.cn/article/a2X4KVOXOt6lACRv8IWh",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T23:12:00+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1ab47bfbe9573542",
+      "title": "从模型调用到任务交付：MaaS 如何走进 Agent 生产",
+      "url": "https://infoq.cn/article/zZutPTX8bsr6NWQYNC3A",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T22:40:18+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6bbdc9ee3fb828c8",
+      "title": "Netflix 通过工作负载认证将 AWS IAM 与内部身份系统连接了起来",
+      "url": "https://infoq.cn/article/PJdTzbUNPBhvKEd6QuxZ",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T21:04:00+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7c52a5f9eafb86f8",
+      "title": "微软向6万员工发出自愿离职邀请：覆盖全球超四分之一员工，副总裁也在列",
+      "url": "https://infoq.cn/article/UNTqkzASI7dJuq65kSNZ",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T21:03:43+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "离职"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "62e8ddd621f452a7",
       "title": "AI Subscriptions Hit a Wall as Smarter Models Burn Quotas Faster",
       "url": "https://tmtpost.com/8191236.html",
@@ -1816,6 +2785,29 @@
       "keywords": [
         "Qwen"
       ],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "47366a09d23d271a",
+      "title": "腾讯云助力企业打造 AI 原生生产力飞轮",
+      "url": "https://infoq.cn/article/q3GxjwqlYQbIZDYsJ2Uf",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T04:22:50+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "其他",
+      "keywords": [],
       "confidence": 0,
       "score": 34,
       "related": [],
@@ -1922,6 +2914,155 @@
       "pushed": false
     },
     {
+      "id": "b2dd15a094719ed2",
+      "title": "推理时代，算力产业需要换一套账本丨ToB产业观察",
+      "url": "https://tmtpost.com/8191692.html",
+      "summary": "推理的崛起，除了改变了原有的算里账本之外，也在改写着芯片产业的结构。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T19:00:09+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "算力"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "add82ab4f843fd71",
+      "title": "从消费互联网到AI，迪拜投资人寻找中国新标的｜出海参考",
+      "url": "https://tmtpost.com/8191572.html",
+      "summary": "迪拜投资人寻找的不只是中国技术，更是能将技术优势转化为当地生意的企业。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T18:13:15+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "投资"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0833c60c4e72dc94",
+      "title": "Transsion Under Memory Inflation: Stockpiles, a Cold H-Share, and an AI Bet",
+      "url": "https://tmtpost.com/8191938.html",
+      "summary": "Transsion Holdings, long known as the “king of African phones,” built one of China’s most successful consumer-electronics export stories by dominating low-end handsets across emerging markets. Revenue and profit peaked in 2023–2024. In 2025…",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T17:46:06+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9a76672d9cce26d4",
+      "title": "不穿的旧衣服呢？放「AI 版转转」，毛利 80%",
+      "url": "https://ifanr.com/1687274",
+      "summary": "旧衣千千万，AI 替你挑对的那件 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T15:05:31+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "191b6afc061043cc",
+      "title": "AutoAnalysis: An automated, self-updating meta-analysis of human-AI collaboration",
+      "url": "https://arxiv.org/abs/2610.42001",
+      "summary": "arXiv:2610.42001v1 Announce Type: cross Abstract: As generative artificial intelligence (AI) becomes more capable and widely used, understanding when and how humans should work with these systems is becoming increasingly important. However,…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T13:00:00+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "paperRank": 7,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5d882ad56e53152b",
+      "title": "Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability",
+      "url": "https://arxiv.org/abs/2607.18368",
+      "summary": "arXiv:2607.18368v5 Announce Type: replace Abstract: Partially observable reinforcement learning requires deciding what to retain, retrieve, and forget over time. We introduce a neuro-symbolic meta-policy that learns which symbolic memory he…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T13:00:00+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "paperRank": 7,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "c931d5a15c07d000",
       "title": "Egoless Mathematics in the AI Era",
       "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
@@ -1941,6 +3082,182 @@
       "keywords": [],
       "confidence": 0,
       "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "57c988c01aab6ee3",
+      "title": "苹果的一切都在变贵，全怪 AI",
+      "url": "https://ifanr.com/1687259",
+      "summary": "赚得多，花得更狠 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T12:09:46+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e72706cc9bb88b4a",
+      "title": "Underrated benefit of Local AI: Speed",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xmjipa/underrated_benefit_of_local_ai_speed",
+      "summary": "When it comes to the value/cost of local AI, people usually only look at token savings (money) while forgetting one of the most valuable resource of yours, time . Just did a side by side comparison of GLM 5.3 flash via Z.ai's official subsc…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T12:31:23+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b0ba02d9257d83af",
+      "title": "Hierarchical World Models with Implicit Dynamics",
+      "url": "https://arxiv.org/abs/2610.42146",
+      "summary": "arXiv:2610.42146v1 Announce Type: cross Abstract: Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumu…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T13:00:00+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "99b8088e3510ad4e",
+      "title": "Ax-Prover: A Deep Reasoning Agentic Framework for Theorem Proving in Mathematics and Quantum Physics",
+      "url": "https://arxiv.org/abs/2510.12787",
+      "summary": "arXiv:2510.12787v5 Announce Type: replace Abstract: We present Ax-Prover, a multi-agent system for automated theorem proving in Lean that can solve problems across diverse scientific domains and operate either autonomously or collaborativel…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T13:00:00+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "445eaca4851c6eb6",
+      "title": "VisualSphinx: Large-Scale Synthetic Vision Logic Puzzles for RL",
+      "url": "https://arxiv.org/abs/2505.23977",
+      "summary": "arXiv:2505.23977v2 Announce Type: replace-cross Abstract: Vision language models (VLMs) are expected to perform effective multimodal reasoning and make logically coherent decisions, which is critical to tasks such as diagram understanding a…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T13:00:00+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e7b1b55ffab079dd",
+      "title": "ThinkSafe: Self-Generated Safety Alignment for Reasoning Models",
+      "url": "https://arxiv.org/abs/2601.23143",
+      "summary": "arXiv:2601.23143v5 Announce Type: replace Abstract: Large reasoning models achieve strong performance through reinforcement learning but can suffer safety degradation. External teacher distillation can restore safety yet may compromise reas…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T13:00:00+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "188b4c8769f728a5",
+      "title": "Erase the Injected Region: Multimodal Prompt-Injection Defense with On-Policy Self-Distillation",
+      "url": "https://arxiv.org/abs/2610.41307",
+      "summary": "arXiv:2610.41307v1 Announce Type: cross Abstract: Multimodal indirect prompt injection embeds malicious instructions in external media that also contains information needed for the user's task. Existing defenses can block the attack yet imp…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-03T13:00:00+08:00",
+      "fetchedAt": "2026-11-03T20:06:43+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 9,
       "related": [],
       "pushed": false
     }
