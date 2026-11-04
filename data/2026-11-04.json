@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T08:59:25+08:00",
+  "updatedAt": "2026-11-04T09:44:56+08:00",
   "items": [
     {
       "id": "fd8195e7fb6408b4",
@@ -963,6 +963,40 @@
       }
     },
     {
+      "id": "f2b4eea992e38f80",
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "url": "https://theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big pos…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T08:42:10+08:00",
+      "fetchedAt": "2026-11-04T09:44:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Nexus Mods 要求新模组披露是否使用 AI",
+        "takeaway": "PC 游戏最大模组站 Nexus Mods 强制新上传模组声明 AI 使用情况，影响模组作者与玩家。",
+        "bullets": [
+          "Nexus Mods 宣布新上传模组必须披露是否使用 AI。",
+          "模组作者需声明作品中是否涉及 AI 生成内容。",
+          "此举旨在提升透明度，可能影响模组社区创作规范。"
+        ],
+        "detail": "Nexus Mods 作为 PC 游戏最大的模组仓库，宣布新模组上传时必须披露是否使用了 AI。模组作者需明确声明作品中是否涉及 AI，这是该站政策更新的一部分，旨在提高透明度。",
+        "generatedAt": "2026-11-04T09:44:56+08:00"
+      }
+    },
+    {
       "id": "d7464321b9257c3d",
       "title": "[llama.cpp fork]: QFN + [specific quant] + [ultra specific hardware config] = [incredible and irreproducible pp and tg]",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xn7rfh/llamacpp_fork_qfn_specific_quant_ultra_specific",
@@ -1229,6 +1263,31 @@
       "pushed": false
     },
     {
+      "id": "90e4cc1a458093de",
+      "title": "Keeping up with new inference engines",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xnanyh/keeping_up_with_new_inference_engines",
+      "summary": "Hey everyone, Not a native speaker, happy to be corrected! Can only learn from it. Back when I started out in march 2025, you had: llama.cpp ollama (repackaged llama.cpp for ease of use) koboldcpp (repackaged llama.cpp for roleplay) vllm (f…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T08:58:01+08:00",
+      "fetchedAt": "2026-11-04T09:44:43+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "da9a5824109ffaf4",
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
@@ -1319,6 +1378,77 @@
       "topic": "ai",
       "publishedAt": "2026-11-04T05:26:44+08:00",
       "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "efc0c85f96370beb",
+      "title": "千亿AI PCB龙头单季净利腰斩，因投资合作伙伴“吃大亏”？",
+      "url": "https://tmtpost.com/8190912.html",
+      "summary": "胜宏科技三季度归母净利润腰斩，“投资浮亏”近7亿。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T09:24:52+08:00",
+      "fetchedAt": "2026-11-04T09:44:43+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "投资"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2c4a06339fce565e",
+      "title": "00后男生勇闯AI圈：保研清华失利后，我靠AI创业年入百万",
+      "url": "https://tmtpost.com/8192090.html",
+      "summary": "人类依旧在时代的浪潮中，起起伏伏。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T09:12:11+08:00",
+      "fetchedAt": "2026-11-04T09:44:43+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "dc07ebbcce99cfed",
+      "title": "实测：灵光和Today AI，谁才是中国版Muse？",
+      "url": "https://tmtpost.com/8192213.html",
+      "summary": "5天实测，拆解Muse的中国化答案。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T09:06:05+08:00",
+      "fetchedAt": "2026-11-04T09:44:43+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
