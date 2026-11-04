@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "updatedAt": "2026-11-05T02:43:22+08:00",
+  "updatedAt": "2026-11-05T04:11:48+08:00",
   "items": [
     {
       "id": "a9cf9f3849cb5c1c",
@@ -1984,6 +1984,42 @@
       }
     },
     {
+      "id": "1d83ea98ce0c30cf",
+      "title": "datasette-llm 0.1a10",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm",
+      "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T23:26:02+08:00",
+      "fetchedAt": "2026-11-05T04:11:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 0.33,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "datasette-llm 0.1a10 修复模型配置限制失效问题",
+        "takeaway": "小版本更新修复了 LLM 模型列表未按配置限制的 bug，影响 agent.datasette.io 演示站。",
+        "bullets": [
+          "修复了可用 LLM 模型未正确限制为配置中指定模型的问题",
+          "该 bug 曾影响 Simon Willison 的 agent.datasette.io 演示站点",
+          "版本号 0.1a10，属于 datasette-llm 的早期 alpha 迭代"
+        ],
+        "detail": "datasette-llm 发布 0.1a10 版本，主要修复了一个配置限制失效的 bug：此前可用 LLM 模型列表没有严格按配置只保留指定模型，导致 agent.datasette.io 演示站受影响。该版本属于早期 alpha 更新。",
+        "generatedAt": "2026-11-05T04:11:47+08:00"
+      }
+    },
+    {
       "id": "d7464321b9257c3d",
       "title": "[llama.cpp fork]: QFN + [specific quant] + [ultra specific hardware config] = [incredible and irreproducible pp and tg]",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xn7rfh/llamacpp_fork_qfn_specific_quant_ultra_specific",
@@ -2814,6 +2850,56 @@
       ],
       "confidence": 0.67,
       "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "42f4810ce57263f7",
+      "title": "datasette-apps 0.3a0",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps",
+      "summary": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent . This release impro…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T08:29:36+08:00",
+      "fetchedAt": "2026-11-05T04:11:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 0.33,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7c1041935d0b84bb",
+      "title": "datasette-agent 0.5a0",
+      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent",
+      "summary": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. W…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T07:13:45+08:00",
+      "fetchedAt": "2026-11-05T04:11:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 0.33,
+      "score": 32,
       "related": [],
       "pushed": false
     },
