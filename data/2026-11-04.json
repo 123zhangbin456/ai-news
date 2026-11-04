@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T03:39:42+08:00",
+  "updatedAt": "2026-11-04T08:59:25+08:00",
   "items": [
     {
       "id": "fd8195e7fb6408b4",
@@ -25,7 +25,7 @@
       "confidence": 1,
       "score": 64,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI称ChatGPT搜索量已达谷歌20%",
         "takeaway": "ChatGPT搜索查询量相当于谷歌的20%，显示AI搜索正快速侵蚀传统搜索份额。",
@@ -36,7 +36,8 @@
         ],
         "detail": "OpenAI宣布，ChatGPT的搜索查询量已达到谷歌搜索量的20%。公司高管Adam Fry表示，这反映出用户正在用“问Chat”替代“Google一下”的习惯转变，意味着AI搜索对传统搜索巨头的冲击正在加剧。",
         "generatedAt": "2026-11-04T03:39:26+08:00"
-      }
+      },
+      "pushedAt": "2026-11-04T08:59:25+08:00"
     },
     {
       "id": "adafdd4764cb9dbb",
@@ -143,6 +144,40 @@
         ],
         "detail": "谷歌向《纽约时报》表示，对于不接受其AI功能的学校，将彻底关闭搜索服务。这一决定也在谷歌周二发布的教育相关更新中提及，涉及Gemini等AI工具的访问权限。此举意味着学校若拒绝AI，连基础搜索都无法使用。",
         "generatedAt": "2026-11-04T03:39:28+08:00"
+      }
+    },
+    {
+      "id": "993e48dc4504c6f5",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T06:41:03+08:00",
+      "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 研发 FlashProve 系统，验证 AI 模型身份",
+        "takeaway": "Anthropic 正在开发 FlashProve，让任何人都能验证 AI 回复是否真出自声称的模型。",
+        "bullets": [
+          "系统名为 FlashProve，目标是证明 AI 模型身份",
+          "可让任何人检查 AI 回复是否来自其声称的模型",
+          "有助于防止模型冒名和虚假响应"
+        ],
+        "detail": "Anthropic 正在开发一个名为 FlashProve 的系统，用于验证 AI 模型的真实身份。该系统能让任何人检查某条 AI 回复是否确实来自它所声称的模型，从而防止冒名和虚假响应。",
+        "generatedAt": "2026-11-04T08:59:13+08:00"
       }
     },
     {
@@ -253,6 +288,43 @@
         ],
         "detail": "Qwen 官方账号 QwenDev 发布了一个开源控制框架，并喊话社区试用。该框架搭配 Qwen3.8-Flash-Next 使用，官方表示这个模型的能力不止于软件任务，还能直接驱动机器人。目前社区正在讨论它与 GPT-6 Astra 在机器人控制上的差距。",
         "generatedAt": "2026-11-04T03:39:32+08:00"
+      }
+    },
+    {
+      "id": "8230f9667309b5b1",
+      "title": "早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token",
+      "url": "https://ifanr.com/1687477",
+      "summary": "· GPT 爆改 Qwen 权重，团队测试数学成绩提升约 6 倍 · 盗用 AI 平台算力，上海一男子获刑三年 · 中兴否认出售手机业务传闻 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T08:26:05+08:00",
+      "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "接入"
+      ],
+      "confidence": 0.33,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "国行苹果AI开测，Siri接入千问；中兴否认出售手机业务",
+        "takeaway": "苹果AI国行版开始测试并接入阿里千问，同时中兴否认出售手机业务，AI算力盗用案宣判。",
+        "bullets": [
+          "国行苹果AI开始测试，Siri将接入阿里千问模型",
+          "中兴否认出售手机业务传闻，称消息不实",
+          "GPT爆改Qwen权重，团队称数学成绩提升约6倍",
+          "上海一男子盗用AI平台算力，获刑三年"
+        ],
+        "detail": "国行苹果AI已进入测试阶段，Siri将接入阿里千问。中兴否认出售手机业务。另有团队用GPT改造Qwen权重，称数学成绩提升约6倍；上海一男子因盗用AI平台算力被判三年。",
+        "generatedAt": "2026-11-04T08:59:13+08:00"
       }
     },
     {
@@ -369,6 +441,44 @@
       }
     },
     {
+      "id": "fa60fc4b2139304f",
+      "title": "【钛晨报】报告提出下一步中国金融工作有5方面考虑；中兴拟成立合资公司出售手机业务，回应称“不属实”｜独家；百度否认昆仑芯IPO推迟",
+      "url": "https://tmtpost.com/8192223.html",
+      "summary": "姚顺宇否认创业：目前仍是DeepMind员工；Seedance海外收入占比已达50%，国内市场腾讯、B站等互联网企业为主要客户；Anthropic到2026年底算力规模将超过3.5吉瓦；多家券商中标第三次互换便利，数百亿资金将用来增持股票和股票ETF；电子布11月涨价落地，多家产业链上市公司回应；世界黄金协会：三季度全球实物黄金ETF重回净流入态势，合计净流入211吨；苹果预计存储芯片成本压力或持续至明年",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T07:20:00+08:00",
+      "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "上市",
+        "IPO"
+      ],
+      "confidence": 0.67,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "钛晨报：中兴否认出售手机业务，百度否认昆仑芯IPO推迟",
+        "takeaway": "今日科技财经速览：中兴、百度双双辟谣，金融政策、AI算力与芯片成本成焦点。",
+        "bullets": [
+          "中兴拟成立合资公司出售手机业务？官方回应称不属实。",
+          "百度否认昆仑芯IPO推迟，此前有市场传闻。",
+          "报告提出中国金融工作五方面考虑，券商数百亿资金增持股票。",
+          "Anthropic算力规模2026年底将超3.5吉瓦，AI军备竞赛持续。"
+        ],
+        "detail": "钛媒体晨报汇总多条消息：中兴通讯否认成立合资公司出售手机业务；百度否认昆仑芯IPO推迟。报告提出中国金融工作五方面考虑，多家券商中标第三次互换便利，数百亿资金将增持股票和ETF。此外，姚顺宇否认创业、仍为DeepMind员工；Seedance海外收入占比达50%；Anthropic算力规模2026年底将超3.5吉瓦；苹",
+        "generatedAt": "2026-11-04T08:59:15+08:00"
+      }
+    },
+    {
       "id": "36315b3cb5b626b9",
       "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
       "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood",
@@ -443,6 +553,44 @@
       }
     },
     {
+      "id": "775f6b0b1d669283",
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "url": "https://theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to dr…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T04:16:17+08:00",
+      "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features",
+        "assistant",
+        "update"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "苹果开放 Siri AI 接入第三方应用，iOS 27.3 上线",
+        "takeaway": "Siri 从系统助手升级为可跨应用执行操作，苹果生态的 AI 入口进一步打开。",
+        "bullets": [
+          "iOS 27.3 更新后，开发者可将 Siri AI 新能力集成到所有应用",
+          "Siri 能跨第三方应用执行操作，不再局限于苹果自家服务",
+          "对开发者是新增入口，对用户意味着语音助手更实用"
+        ],
+        "detail": "苹果随 iOS 27.3 更新宣布，开发者现在可以把 Siri AI 的新功能接入“所有应用”，让语音助手在第三方应用里执行操作。这意味着 Siri 不再只是查询和打开应用，而是能真正跨应用完成任务。",
+        "generatedAt": "2026-11-04T08:59:15+08:00"
+      }
+    },
+    {
       "id": "d40f5e6fbd309622",
       "title": "纽约时报等起诉 Brave 绕过付费墙抓取内容并提供给 AI 公司",
       "url": "https://solidot.org/story?sid=85788",
@@ -476,6 +624,76 @@
         ],
         "detail": "《纽约时报》等美国出版商起诉 Brave Software，称其未经授权抓取网站内容，并通过付费墙绕过功能让用户免费访问数百家新闻媒体。Brave 还被指控将抓取内容的索引数据库 Brave Index 提供给 Anthropic、Perplexity、Mistral、xAI 和 Cohere 等 AI 公司使用。",
         "generatedAt": "2026-11-04T03:39:40+08:00"
+      }
+    },
+    {
+      "id": "032b81f3baec5a51",
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal",
+      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T05:05:55+08:00",
+      "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Palantir季度营收飙升，但一信号令人不安",
+        "takeaway": "Palantir美国商业收入首次超过政府收入，增长背后暗藏隐忧。",
+        "bullets": [
+          "Palantir美国商业收入首次超过政府收入",
+          "这一变化发生在公司季度营收飙升的背景下",
+          "商业收入占比上升可能意味着政府业务增长放缓"
+        ],
+        "detail": "Palantir最新季度营收大幅增长，但其中美国商业收入首次超过了美国政府收入。这一结构性变化虽然显示商业业务扩张，但也可能暗示政府业务增长乏力，成为值得关注的预警信号。",
+        "generatedAt": "2026-11-04T08:59:16+08:00"
+      }
+    },
+    {
+      "id": "298f7ab4fa1cf7d2",
+      "title": "Those Jeff Bezos hair transplant photos are very fake",
+      "url": "https://theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+      "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X,…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T05:01:07+08:00",
+      "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "feature"
+      ],
+      "confidence": 0,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "贝索斯植发照片是假的，AI 伪造图片再引关注",
+        "takeaway": "网上流传的贝索斯和斯坦森植发照片是 AI 伪造的，两人依然秃顶，凸显虚假图片泛滥问题。",
+        "bullets": [
+          "贝索斯和杰森·斯坦森植发照片在 X 上流传，实为伪造。",
+          "两人都是著名秃顶，近期形象并未改变。",
+          "事件再次引发对 AI 生成虚假图片传播的担忧。"
+        ],
+        "detail": "最近 X 上流传着亚马逊创始人贝索斯和演员杰森·斯坦森的植发照片，但两人都是出了名的秃顶，这几天形象根本没变。这些图片是伪造的，再次说明 AI 生成的假图在网上传播有多容易。",
+        "generatedAt": "2026-11-04T08:59:17+08:00"
       }
     },
     {
@@ -602,6 +820,330 @@
       "pushed": false
     },
     {
+      "id": "97ea381abb97d463",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T06:19:53+08:00",
+      "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center",
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "数据中心电力告急，退役喷气发动机成备用方案",
+        "takeaway": "电网接入和新涡轮机等待时间过长，数据中心建设者转向废弃喷气发动机发电，虽低效且不环保但解燃眉之急。",
+        "bullets": [
+          "电网接入和新涡轮机交付需数年，数据中心建设被迫另寻电源。",
+          "退役喷气发动机被重新启用，效率较低且污染更重。",
+          "此举反映AI算力扩张下电力供应瓶颈日益严峻。"
+        ],
+        "detail": "由于接入电网和获得新涡轮机需要等待数年，数据中心建设者开始采用一种不寻常的替代方案：曾被丢弃的喷气发动机。这些发动机效率较低，对环境也不够友好，但能缓解迫在眉睫的电力短缺。",
+        "generatedAt": "2026-11-04T08:59:17+08:00"
+      }
+    },
+    {
+      "id": "f7b02949050ddc0a",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T05:43:08+08:00",
+      "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "investment"
+      ],
+      "confidence": 0.33,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Ballistic Ventures 拟募资 4.9 亿美元，加码 AI 网络安全",
+        "takeaway": "AI 驱动网络安全需求升温，这家风投计划新设主基金和独立投资工具，总规模达 4.9 亿美元。",
+        "bullets": [
+          "Ballistic Ventures 拟为新旗舰基金募资 3.6 亿美元",
+          "另设独立投资工具，目标募资 1.3 亿美元",
+          "背景是 AI 驱动的网络安全投资热潮"
+        ],
+        "detail": "专注网络安全的风投机构 Ballistic Ventures 正在募集新资金：其中 3.6 亿美元用于新旗舰基金，另外 1.3 亿美元投入一个独立投资工具。此举正值 AI 推动网络安全领域投资升温。",
+        "generatedAt": "2026-11-04T08:59:18+08:00"
+      }
+    },
+    {
+      "id": "4a54409679658bcd",
+      "title": "Please stop asking me when the AI bubble will pop",
+      "url": "https://theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as f…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T07:37:45+08:00",
+      "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "别问我AI泡沫何时破，知道我就下重注了",
+        "takeaway": "The Verge作者回应外界对AI泡沫破裂时机的追问，坦言无法预测，否则早已重仓下注。",
+        "bullets": [
+          "作者常被同事和读者追问AI泡沫何时破裂",
+          "提问者态度各异，有人兴奋有人担忧",
+          "作者直言若知道答案早就加杠杆下注了"
+        ],
+        "detail": "作者说，身边不少人——包括同事——总带着兴奋或担忧问他AI泡沫何时破。他的回答很直接：要是知道，他早就加杠杆押上全部身家去市场下重注了。言下之意，没人能准确预测泡沫时点。",
+        "generatedAt": "2026-11-04T08:59:19+08:00"
+      }
+    },
+    {
+      "id": "c7c1fca5d3bd046d",
+      "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs",
+      "summary": "submitted by /u/notheresnolight [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T05:05:30+08:00",
+      "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "self-hosted"
+      ],
+      "confidence": 0.5,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Revolut 弃用 Claude 转自托管，AI 编程成本降九成",
+        "takeaway": "英国金融科技公司 Revolut 通过自托管替代 Claude，将 AI 编程成本削减 10 倍，为行业提供降本思路。",
+        "bullets": [
+          "Revolut 放弃使用 Claude，转向自托管 AI 编程方案",
+          "AI 编程成本因此降低至原来的十分之一",
+          "该案例来自 r/LocalLLaMA 社区分享，引发对自托管降本的讨论"
+        ],
+        "detail": "英国金融科技公司 Revolut 通过放弃使用 Claude 并采用自托管方案，成功将 AI 编程成本降低了 10 倍。这一做法在 r/LocalLLaMA 社区引发关注，可能为其他企业提供降低 AI 使用成本的参考。",
+        "generatedAt": "2026-11-04T08:59:19+08:00"
+      }
+    },
+    {
+      "id": "d7464321b9257c3d",
+      "title": "[llama.cpp fork]: QFN + [specific quant] + [ultra specific hardware config] = [incredible and irreproducible pp and tg]",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xn7rfh/llamacpp_fork_qfn_specific_quant_ultra_specific",
+      "summary": "Upvote, now! submitted by /u/ParaboloidalCrest [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T06:48:57+08:00",
+      "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 分支发布 QFN 量化：特定硬件配置下性能惊人却难复现",
+        "takeaway": "llama.cpp 社区分支推出 QFN 量化，在特定硬件上性能惊人，但结果难以复现，引发讨论。",
+        "bullets": [
+          "llama.cpp 分支发布 QFN 量化方案",
+          "特定硬件配置下 pp 和 tg 性能惊人",
+          "结果难以复现，社区求点赞关注"
+        ],
+        "detail": "llama.cpp 的一个分支发布了 QFN 量化方法，在特定硬件配置下，提示处理（pp）和文本生成（tg）速度非常惊人。但作者也承认这种表现难以复现，帖子标题带有调侃意味，并呼吁大家点赞。",
+        "generatedAt": "2026-11-04T08:59:20+08:00"
+      }
+    },
+    {
+      "id": "4f857a77101bd5e8",
+      "title": "gemma4: graph optimizations (massive gains on pp for E2B and E4B) by max-krasnyansky · Pull Request #31356 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xn6mm0/gemma4_graph_optimizations_massive_gains_on_pp",
+      "summary": "big prompt processing speedup for gemma E2B/E4B submitted by /u/jacek2023 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T06:02:49+08:00",
+      "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 为 Gemma 4 提交图优化，E2B/E4B 提示处理大幅提速",
+        "takeaway": "llama.cpp 收到针对 Gemma 4 的图优化 PR，显著提升小模型提示处理速度，本地推理更实用。",
+        "bullets": [
+          "PR 由 max-krasnyansky 提交至 llama.cpp 仓库",
+          "优化针对 Gemma 4 的 E2B 和 E4B 两个小模型",
+          "重点提升提示处理（prompt processing）速度",
+          "对本地部署小模型、长提示场景有直接帮助"
+        ],
+        "detail": "llama.cpp 仓库出现一个编号 #31356 的拉取请求，作者 max-krasnyansky 为 Gemma 4 加入图优化。该改动让 E2B 和 E4B 两个小模型的提示处理速度大幅提升，意味着本地跑这两个模型时处理长输入会更快。",
+        "generatedAt": "2026-11-04T08:59:21+08:00"
+      }
+    },
+    {
+      "id": "9eb2f0e6bf376ac3",
+      "title": "DeepSeek V4.1 Flash 1017 can also do Weight-Space Programming",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xn2i0n/deepseek_v41_flash_1017_can_also_do_weightspace",
+      "summary": "Inspired by Weight-Space Programming , I tested whether DeepSeek V4.1 Flash 1017 could figure out what a small neural network does by reading its weights. I fed it four anonymized RL checkpoints: 51k parameters each, identical architectures…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T03:26:12+08:00",
+      "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 0.25,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek V4.1 Flash 1017 展现权重空间编程能力",
+        "takeaway": "有用户测试该模型能否直接读权重推断小网络功能，初步结果值得关注。",
+        "bullets": [
+          "测试者受权重空间编程启发，用四个匿名强化学习检查点做实验。",
+          "每个检查点仅5.1万参数，架构相同，模型需靠权重推断功能。",
+          "若成立，意味着模型可绕过代码直接理解神经网络行为。"
+        ],
+        "detail": "有用户受“权重空间编程”启发，测试 DeepSeek V4.1 Flash 1017 能否通过读取权重来推断小型神经网络的功能。他输入了四个匿名强化学习检查点，每个仅5.1万参数且架构相同，观察模型表现。",
+        "generatedAt": "2026-11-04T08:59:21+08:00"
+      }
+    },
+    {
+      "id": "32d6b202c2a0ff08",
+      "title": "Where's my Qwen 4?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xnajcu/wheres_my_qwen_4",
+      "summary": "submitted by /u/Critical-Entry3377 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T08:52:06+08:00",
+      "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 4 何时发布？社区发帖追问",
+        "takeaway": "LocalLLaMA 社区用户发帖询问 Qwen 4 的发布进展，反映开发者对下一代开源模型的期待。",
+        "bullets": [
+          "帖子标题为“Where's my Qwen 4?”，由用户 Critical-Entry3377 发布。",
+          "内容仅为链接和评论入口，未提供具体发布信息。",
+          "社区对 Qwen 系列下一代模型保持关注。"
+        ],
+        "detail": "在 Reddit 的 LocalLLaMA 板块，用户 Critical-Entry3377 发帖追问“我的 Qwen 4 在哪？”，帖子仅包含链接和评论入口，没有更多细节。这反映出社区对 Qwen 下一代开源模型的期待。",
+        "generatedAt": "2026-11-04T08:59:22+08:00"
+      }
+    },
+    {
+      "id": "7db0a104f8206f1f",
+      "title": "Basalt 0.2.0: Qwen 3.8 Flash Next NVFP4, 300 t/s prose, 600 t/s struct, 10K t/s prefill on a 5090 + 5060 Ti and 128GB RAM",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xn4qn1/basalt_020_qwen_38_flash_next_nvfp4_300_ts_prose",
+      "summary": "Basalt 0.2.0: Quality & Speed Hey all! I wanted to share a quick update on Basalt , a Blackwell only inference engine for Qwen 3.8 Flash Next. As usual, speed is the headline but that's not what I want to open this post with, I've been read…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T04:49:21+08:00",
+      "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "Blackwell"
+      ],
+      "confidence": 0.2,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Basalt 0.2.0 发布：双显卡跑 Qwen 3.8 Flash Next，预填充达 10K t/s",
+        "takeaway": "面向 Blackwell 显卡的专用推理引擎更新，用 5090 加 5060 Ti 实现高吞吐，值得本地部署玩家关注。",
+        "bullets": [
+          "Basalt 0.2.0 是仅支持 Blackwell 架构的推理引擎，专为 Qwen 3.8 Flash Next 优化",
+          "在 5090 加 5060 Ti 与 128GB 内存上，散文生成 300 t/s、结构化输出 600 t/s",
+          "预填充速度达 10K t/s，本次更新主打质量与速度双提升"
+        ],
+        "detail": "作者发布了 Basalt 0.2.0，这是只跑在 Blackwell 显卡上的推理引擎，针对 Qwen 3.8 Flash Next 模型。实测用 5090 加 5060 Ti 和 128GB 内存，散文生成约 300 t/s，结构化输出约 600 t/s，预填充高达 10K t/s。更新重点除了速度，还有质量改进。",
+        "generatedAt": "2026-11-04T08:59:23+08:00"
+      }
+    },
+    {
       "id": "34c6006027c05023",
       "title": "AI 改变的是数据接口，而不是查询引擎",
       "url": "https://infoq.cn/article/fvNWWYEmke5xJVsHEIIi",
@@ -661,6 +1203,32 @@
       "pushed": false
     },
     {
+      "id": "d3f05a61364c068d",
+      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back",
+      "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T04:39:55+08:00",
+      "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center",
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "da9a5824109ffaf4",
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
@@ -706,6 +1274,54 @@
         "library"
       ],
       "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "edbf4ed1a954103d",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 192 # Comments: 31",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T05:40:53+08:00",
+      "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arxiv"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f3900be82c6f7ae6",
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 194 # Comments: 68",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T05:26:44+08:00",
+      "fetchedAt": "2026-11-04T08:59:03+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 30,
       "related": [],
       "pushed": false
