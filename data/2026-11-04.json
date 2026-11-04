@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T19:16:25+08:00",
+  "updatedAt": "2026-11-05T02:43:22+08:00",
   "items": [
     {
       "id": "a9cf9f3849cb5c1c",
@@ -78,6 +78,81 @@
         "generatedAt": "2026-11-04T03:39:26+08:00"
       },
       "pushedAt": "2026-11-04T08:59:25+08:00"
+    },
+    {
+      "id": "75679f5aa60bfcf8",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T15:00:00+08:00",
+      "fetchedAt": "2026-11-05T02:43:00+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "customers",
+        "available",
+        "brings"
+      ],
+      "confidence": 0.75,
+      "score": 57,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Daybreak Red 登陆 AWS GovCloud，GPT-5.6 Cyber 开放给授权用户",
+        "takeaway": "OpenAI 把面向网络安全的 GPT-5.6 Cyber 通过 Amazon Bedrock 引入 AWS 政府云，供获批客户使用。",
+        "bullets": [
+          "Daybreak Red 现已在 AWS GovCloud（美东）上线",
+          "通过 Amazon Bedrock 向获批客户提供 GPT-5.6 Cyber",
+          "面向经授权的网络安全工作场景",
+          "政府云环境意味着合规与受控访问优先"
+        ],
+        "detail": "OpenAI 宣布 Daybreak Red 在 AWS GovCloud 美东区域可用。获批客户可通过 Amazon Bedrock 调用 GPT-5.6 Cyber，用于获得授权的网络安全任务。此举把相关能力带入政府云环境。",
+        "generatedAt": "2026-11-05T02:43:07+08:00"
+      }
+    },
+    {
+      "id": "3a06f84c0f51a102",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T22:30:00+08:00",
+      "fetchedAt": "2026-11-05T02:43:00+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "acquire"
+      ],
+      "confidence": 0.8,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 收购 Pierre Computer，强化 Codex 代码能力",
+        "takeaway": "OpenAI 收购 Pierre Computer，旨在扩展 Codex 的代码构建、理解与审查工具，提升 AI 编程竞争力。",
+        "bullets": [
+          "OpenAI 宣布收购 Pierre Computer Company。",
+          "交易将扩展 Codex 的代码构建、理解和审查工具。",
+          "此举可能增强 OpenAI 在 AI 编程领域的竞争力。"
+        ],
+        "detail": "OpenAI 将收购 Pierre Computer Company，以扩展 Codex 的代码工具，覆盖代码构建、理解和审查。此举旨在提升 Codex 的编程辅助能力，可能影响 AI 编程工具市场格局。",
+        "generatedAt": "2026-11-05T02:43:07+08:00"
+      }
     },
     {
       "id": "0e233e39d985caae",
@@ -444,6 +519,44 @@
       }
     },
     {
+      "id": "d077d4aa4c9b16a0",
+      "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+      "url": "https://qbitai.com/2026/11/507586.html",
+      "summary": "仅激活3B参数，十项基准全线提升！",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T18:08:38+08:00",
+      "fetchedAt": "2026-11-05T02:43:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "推理模型"
+      ],
+      "confidence": 0.42,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "招商局发布驭物具身推理模型：仅激活3B参数，十项基准全提升",
+        "takeaway": "不靠堆数据，用更少激活参数让机器人理解真实物理世界，十项基准均有提升。",
+        "bullets": [
+          "招商局狮子山实验室发布具身推理模型驭物 Lion-ER-35B-A3B",
+          "总参数35B，推理时仅激活3B参数",
+          "十项基准测试成绩全线提升",
+          "主打不靠堆砌数据，让机器人看懂真实物理世界"
+        ],
+        "detail": "招商局狮子山实验室推出具身推理模型「驭物™ Lion-ER-35B-A3B」，总参数35B但推理时只激活3B。官方称其不依赖堆砌数据，目标是让机器人理解真实物理世界，并在十项基准上全线提升。",
+        "generatedAt": "2026-11-05T02:43:11+08:00"
+      }
+    },
+    {
       "id": "8230f9667309b5b1",
       "title": "早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token",
       "url": "https://ifanr.com/1687477",
@@ -699,6 +812,43 @@
         ],
         "detail": "Uber总裁即将离职并加入OpenAI，他此前曾在谷歌和Snap负责公关工作。OpenAI联合创始人Brockman亲自发文欢迎，显示出OpenAI对这位高管的重视。",
         "generatedAt": "2026-11-04T19:16:10+08:00"
+      }
+    },
+    {
+      "id": "3fd5d1ee6f931a84",
+      "title": "Sam Altman addresses RAM comments: People should ‘put as much as they want in their computers’",
+      "url": "https://theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+      "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people t…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T22:46:01+08:00",
+      "fetchedAt": "2026-11-05T02:43:00+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "奥特曼回应内存言论：改名“Ram Altman”称希望人人有海量内存",
+        "takeaway": "OpenAI CEO 因内存购买言论遭质疑，用改名和回应澄清立场，引发行业关注。",
+        "bullets": [
+          "奥特曼在选举夜回应 PC 内存购买争议",
+          "将 X 用户名改为“Ram Altman”调侃回应",
+          "称希望世界拥有海量内存，人们可随意使用",
+          "事件反映 AI 领袖言论对硬件市场的潜在影响"
+        ],
+        "detail": "OpenAI CEO 萨姆·奥特曼在选举夜忙于为自己关于 PC 内存购买的立场辩护。他回应一名用户评论时，将 X 用户名改为“Ram Altman”，并表示“我确实希望世界拥有海量内存，人们可以尽情使用”。此举意在澄清此前言论引发的误解。",
+        "generatedAt": "2026-11-05T02:43:13+08:00"
       }
     },
     {
@@ -996,6 +1146,40 @@
       }
     },
     {
+      "id": "595c3100a213c9ef",
+      "title": "Google hasn’t figured out how to make AI pay like its search engine",
+      "url": "https://theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughl…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T20:00:00+08:00",
+      "fetchedAt": "2026-11-05T02:43:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌AI变现难题：搜索查询增长快，收入却放缓",
+        "takeaway": "谷歌搜索查询量创五年新高，但搜索收入增速放缓，AI如何赚钱仍是难题。",
+        "bullets": [
+          "谷歌搜索查询量增速创五年新高",
+          "第三季度搜索收入同比增长12%，较此前放缓",
+          "AI搜索尚未找到像传统搜索那样的变现模式"
+        ],
+        "detail": "Alphabet财报显示，谷歌搜索查询量正以五年来最快速度增长，但第三季度搜索收入同比仅增12%，增速较之前放缓。这表明谷歌尚未像传统搜索广告那样，从AI功能中找到有效的赚钱方式。",
+        "generatedAt": "2026-11-05T02:43:15+08:00"
+      }
+    },
+    {
       "id": "298f7ab4fa1cf7d2",
       "title": "Those Jeff Bezos hair transplant photos are very fake",
       "url": "https://theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
@@ -1103,6 +1287,42 @@
         ],
         "detail": "德国开源软件公司 SUSE 计划裁员约 190 人，占员工总数的十分之一。CEO 在内部邮件中表示，自动化和 AI 正从根本上改变软件公司的运营方式，降低了对某些岗位的需求，这一决定痛苦但必要。",
         "generatedAt": "2026-11-04T19:16:13+08:00"
+      }
+    },
+    {
+      "id": "e8ee7ce621c6bdb8",
+      "title": "智能体身份注册与解析平台在乌镇发布，蚂蚁参与首批运行平台建设",
+      "url": "https://leiphone.com/category/industrynews/KStlwPyruE6hJ107.html",
+      "summary": "11月4日，2026年世界互联网大会乌镇峰会“智能体互信互联互操作全球合作创新——携手构建智能互联网论坛”在乌镇举行，智能体信任治理成为产业各方关注的焦点。产业界普遍认为，互联网正从信息互联、服务互联走向智能体互联，智能体开始感知、决策并代表用户行动。伴随治理对象从“内容”变成“行为”，“统一底座”正成为智能体跨域协作加速的共同关键。当前，智能体加速从“对话”走向“办事”，但规模化落地仍面临三大卡点：用户能否知晓并及时撤回智能体的权限；服务方能否确认调用的智能体是谁、代表谁行…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T17:44:00+08:00",
+      "fetchedAt": "2026-11-05T02:43:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0.5,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "智能体身份注册与解析平台乌镇发布，蚂蚁参与首批建设",
+        "takeaway": "智能体从对话走向办事，身份与权限治理成规模化落地关键，蚂蚁参与首批平台建设。",
+        "bullets": [
+          "乌镇峰会发布智能体身份注册与解析平台，聚焦信任治理。",
+          "蚂蚁参与首批运行平台建设，推动智能体跨域互操作。",
+          "规模化落地面临权限撤回、身份确认等三大卡点。"
+        ],
+        "detail": "11月4日乌镇峰会论坛上，智能体信任治理成为焦点。业界认为互联网正走向智能体互联，治理对象从内容变为行为。智能体办事规模化仍卡在用户权限知晓撤回、服务方确认智能体身份等环节，统一底座成为跨域协作关键。",
+        "generatedAt": "2026-11-05T02:43:16+08:00"
       }
     },
     {
@@ -1474,6 +1694,113 @@
       }
     },
     {
+      "id": "e64d0791be6ff9db",
+      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "url": "https://theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T23:58:45+08:00",
+      "fetchedAt": "2026-11-05T02:43:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Uber 上季度仅完成 4 单 AI 代理叫车",
+        "takeaway": "AI 代理叫车量极小，说明该场景仍处早期，短期内难撼动 Uber 业务。",
+        "bullets": [
+          "Uber 财报披露，2026 年第三季度仅 4 单由第三方 AI 代理完成。",
+          "Uber Eats 的 AI 代理订单量同样很少，具体数字未完整披露。",
+          "高管表态显示 AI 代理尚未形成实际业务规模。"
+        ],
+        "detail": "Uber 在财报电话会上透露，2026 年第三季度只有 4 次行程由第三方 AI 代理安排。Uber Eats 的 AI 代理订单量也很少。这表明 AI 代理叫车和点外卖仍处于极早期，短期内不会对 Uber 业务造成实质影响。",
+        "generatedAt": "2026-11-05T02:43:18+08:00"
+      }
+    },
+    {
+      "id": "291922e8c924216e",
+      "title": "360参与发起《智能体发展自律公约》，助力构建可信智能体生态",
+      "url": "https://leiphone.com/category/industrynews/UB25ocDFu1ntNMtz.html",
+      "summary": "11月4日，在2026年世界互联网大会乌镇峰会“智能体互信互联互操作全球合作创新”论坛上，中国信息通信研究院、360、华为等企业及机构共同发布《智能体发展自律公约》（以下简称《自律公约》）。360作为核心发起单位之一，深度参与了公约的起草与发布。 “智能体互信互联互操作全球合作创新”论坛当前，智能体正从“单点应用”加速迈向“多智能体协同”。但智能体在跨平台、跨系统交互时，其自身的权限越界、数据泄露、行为失控等安全隐患，成为阻碍其大规模落地的核心痛点。为落实国家“强化行业自律”…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T17:42:00+08:00",
+      "fetchedAt": "2026-11-05T02:43:00+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "应用",
+        "落地"
+      ],
+      "confidence": 0.4,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "360等联合发起智能体自律公约，剑指跨平台安全痛点",
+        "takeaway": "智能体从单点走向协同，安全与互操作成落地关键，行业自律先行一步。",
+        "bullets": [
+          "乌镇峰会期间，信通院、360、华为等共同发布《智能体发展自律公约》。",
+          "360作为核心发起单位，深度参与公约起草与发布。",
+          "公约聚焦智能体跨平台交互中的权限越界、数据泄露、行为失控等隐患。"
+        ],
+        "detail": "11月4日世界互联网大会乌镇峰会上，中国信通院、360、华为等机构与企业联合发布《智能体发展自律公约》，360是核心发起方之一。当前智能体正从单点应用转向多智能体协同，但跨平台、跨系统交互时的权限越界、数据泄露、行为失控等问题阻碍其大规模落地，公约旨在以行业自律推动可信生态建设。",
+        "generatedAt": "2026-11-05T02:43:19+08:00"
+      }
+    },
+    {
+      "id": "150a39b9eb9ad0c3",
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "summary": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be…",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T18:10:27+08:00",
+      "fetchedAt": "2026-11-05T02:43:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 0.25,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gemini 个人订阅用户聊天记录被用于训练，无法退出",
+        "takeaway": "谷歌 Gemini 个人订阅用户的聊天历史默认用于模型训练，用户只能通过关闭历史或临时对话规避。",
+        "bullets": [
+          "个人 Google AI 订阅用户的 Gemini 聊天记录会被用于训练。",
+          "用户无法直接退出，除非关闭聊天历史或使用临时会话。",
+          "聊天记录可能被人工审阅，引发隐私担忧。"
+        ],
+        "detail": "据 Hacker News 讨论，谷歌 Gemini 的个人订阅用户保存的聊天历史会被用于训练模型，且没有单独的退出选项。用户只能通过关闭聊天历史或使用临时对话来避免，这些记录甚至可能被人工查看。",
+        "generatedAt": "2026-11-05T02:43:20+08:00"
+      }
+    },
+    {
       "id": "7314eb41ef736c71",
       "title": "Skyeye 云企业级AI+零代码智能制造系统-AI应用 - v4.1.10发布",
       "url": "https://oschina.net/news/503380",
@@ -1545,6 +1872,115 @@
         ],
         "detail": "Revolut 不再使用 Claude Code，转而部署自托管的中国模型，并称费用降低了约九成。Reddit 用户认为，这给有技术实力的公司开了个头，预计更多企业会跟进类似做法。",
         "generatedAt": "2026-11-04T19:16:15+08:00"
+      }
+    },
+    {
+      "id": "6c35d4c936099f16",
+      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+      "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day",
+      "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T21:00:00+08:00",
+      "fetchedAt": "2026-11-05T02:43:00+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "founder"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "TechCrunch创始人峰会2026今日波士顿开幕",
+        "takeaway": "TechCrunch面向创始人的峰会今日在波士顿举行，现已开放注册，值得创业者关注。",
+        "bullets": [
+          "峰会今日在波士顿SoWa Power Station举行，东部时间上午9点开门。",
+          "活动由TechCrunch主办，聚焦创始人群体。",
+          "现场仍可注册参与，适合创业者与行业人士交流。"
+        ],
+        "detail": "TechCrunch创始人峰会2026于今日在波士顿SoWa Power Station举办，东部时间上午9点开放入场。这场会议面向创始人群体，目前仍可注册参加。",
+        "generatedAt": "2026-11-05T02:43:20+08:00"
+      }
+    },
+    {
+      "id": "416b7eba9f32ddf4",
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agen…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T21:00:00+08:00",
+      "fetchedAt": "2026-11-05T02:43:00+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "pricing",
+        "enterprise"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI代理企业落地，数据溯源成安全关键",
+        "takeaway": "企业用AI代理整合多源数据时，数据溯源能防止错误输出，是安全落地的关键。",
+        "bullets": [
+          "AI代理从受限定价系统、内部通讯等多源取数，输出看似准确。",
+          "第二个代理可能基于错误输出继续行动，放大风险。",
+          "数据溯源可追踪数据来源，确保AI决策可信。"
+        ],
+        "detail": "销售代表让AI代理查询客户定价，代理从受限定价系统、内部通讯和存档报价等多个来源提取数据。输出对代理来说看似准确，但第二个代理可能基于此继续操作，导致错误扩散。数据溯源能追踪数据来源，确保AI决策可信，是企业安全部署AI代理的关键。",
+        "generatedAt": "2026-11-05T02:43:20+08:00"
+      }
+    },
+    {
+      "id": "ab542773cb8874d5",
+      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+      "url": "https://wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google",
+      "summary": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T21:49:51+08:00",
+      "fetchedAt": "2026-11-05T02:43:00+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "billion"
+      ],
+      "confidence": 0.25,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英国AI经济红利预估大幅缩水，来源竟是谷歌",
+        "takeaway": "英国官员承认AI经济增量预估不足原值三分之一，凸显AI采用缓慢与数据来源争议。",
+        "bullets": [
+          "英国AI部长承认4000亿英镑估值过高，实际不到三分之一。",
+          "该数字主要源自谷歌，而非独立研究。",
+          "研究人员将差距归因于英国AI采用速度缓慢。"
+        ],
+        "detail": "英国官员曾宣称AI将为经济增加4000亿英镑，但AI部长现在承认实际估值不到该数字的三分之一。研究人员指出，这一差距主要源于英国AI应用速度缓慢，且原始数字主要来自谷歌。",
+        "generatedAt": "2026-11-05T02:43:22+08:00"
       }
     },
     {
@@ -2330,6 +2766,31 @@
       "pushed": false
     },
     {
+      "id": "771d04f9d14268e6",
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "summary": "Article URL: https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop Comments URL: https://news.ycombinator.com/item?id=50362905 Points: 477 # Comments: 206",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T16:46:29+08:00",
+      "fetchedAt": "2026-11-05T02:43:00+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "99f790785172235c",
       "title": "哪里电便宜，算力就往哪里跑？没那么简单",
       "url": "https://leiphone.com/category/chips/pXuAy8TH7q2u0Q9T.html",
@@ -2798,6 +3259,31 @@
       "pushed": false
     },
     {
+      "id": "53c1e5436340cd47",
+      "title": "Pocket-sized Linux AI box runs on 256-TOPS Axera chip",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xnpuv7/pocketsized_linux_ai_box_runs_on_256tops_axera",
+      "summary": "Sipeed has recently shared additional details about the MaixStation, a Linux AI workstation powered by Axera’s AX8860P processor, which combines a 16-core Arm CPU with an NPU rated at 256 TOPS FP4. The system supports up to 128GB of LPDDR5X…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T22:38:48+08:00",
+      "fetchedAt": "2026-11-05T02:43:00+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "74bb89b09c0e56c9",
       "title": "Harnesses/Agents suited for linux sysadmin, system maintenance, network and light coding.",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xn4n3j/harnessesagents_suited_for_linux_sysadmin_system",
@@ -2861,6 +3347,77 @@
       "topic": "ai",
       "publishedAt": "2026-11-04T12:13:07+08:00",
       "fetchedAt": "2026-11-04T19:15:54+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c5f9efef679a6d30",
+      "title": "富士胶片因 AI 热加大磁带产能",
+      "url": "https://solidot.org/story?sid=85795",
+      "summary": "富士胶片表示它将大幅增加磁带产能，原因是磁带备份成为 AI 热的一个意外受益者。普通消费者可能早在几十年前就已不再使用磁带，但业界却从未将其抛弃。云服务巨头依靠磁带对海量数据进行备份。富士胶片称，大型云服务商和数据中心运营商正在扩大对磁带的使用，因为磁带能以相对较低的成本存储海量数据。磁带备份可以轻松与系统断开连接，存放在抽屉、保险库或独立设施内。富士胶片强调，磁带介质能实现物理隔离（air-gap），为用户数据提供最后一道防线。",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T19:26:51+08:00",
+      "fetchedAt": "2026-11-05T02:43:00+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "数据中心"
+      ],
+      "confidence": 0.25,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0d22beb9fc90c630",
+      "title": "Nexus Mods 公布 AI 生成内容政策",
+      "url": "https://solidot.org/story?sid=85794",
+      "summary": "最大 PC 游戏 Mod 分享托管平台 Nexus Mods 公布了 AI 生成内容政策。Nexus Mods 没有禁止 AI 生成 Mod，但对此类 Mod 的分享设定了更严格的规定。新上传 Mod 必须披露是否使用 AI，AI 辅助 Mod 必须说明如何使用 AI 以及 AI 的使用范围。现有 Mod 需在 2027 年 1 月 2 日前符合新要求。如果 Mod 作者无视平台方提出的要求，可能会面临权限受限或被下架的后果。它计划针对 AI 使用、AI 模型训练、分支和衍生…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T18:57:52+08:00",
+      "fetchedAt": "2026-11-05T02:43:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "68c44263a0af5594",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 737 # Comments: 455",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-04T19:52:17+08:00",
+      "fetchedAt": "2026-11-05T02:43:00+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
