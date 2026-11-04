@@ -24,10 +24,10 @@
     "lastOkDay": "2026-11-04"
   },
   "importai": {
-    "failDays": 49,
-    "lastFailDay": "2026-11-04",
-    "lastError": "HTTP 403",
-    "lastOkDay": "2026-09-17"
+    "failDays": 0,
+    "lastFailDay": null,
+    "lastError": null,
+    "lastOkDay": "2026-11-04"
   },
   "techcrunch-ai": {
     "failDays": 0,
@@ -78,9 +78,9 @@
     "lastOkDay": "2026-11-04"
   },
   "leiphone": {
-    "failDays": 1,
-    "lastFailDay": "2026-11-04",
-    "lastError": "HTTP 502",
+    "failDays": 0,
+    "lastFailDay": null,
+    "lastError": null,
     "lastOkDay": "2026-11-04"
   },
   "tmtpost": {
@@ -120,16 +120,16 @@
     "lastOkDay": "2026-11-04"
   },
   "arxiv-ai": {
+    "failDays": 1,
+    "lastFailDay": "2026-11-04",
+    "lastError": "订阅源为空或格式无法解析",
+    "lastOkDay": "2026-11-04"
+  },
+  "arxiv-cl": {
     "failDays": 0,
     "lastFailDay": null,
     "lastError": null,
     "lastOkDay": "2026-11-04"
-  },
-  "arxiv-cl": {
-    "failDays": 2,
-    "lastFailDay": "2026-11-04",
-    "lastError": "订阅源为空或格式无法解析",
-    "lastOkDay": "2026-11-03"
   },
   "cursor-changelog": {
     "failDays": 0,
