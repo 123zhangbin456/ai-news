@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T03:06:22+08:00",
+  "updatedAt": "2026-11-06T04:25:20+08:00",
   "items": [
     {
       "id": "003a6dd08e360129",
@@ -221,6 +221,40 @@
       }
     },
     {
+      "id": "ec73671ce52f6e9d",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T03:06:12+08:00",
+      "fetchedAt": "2026-11-06T04:25:08+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 发布新网络安全模型，够用吗？",
+        "takeaway": "OpenAI 推出新网络安全模型，但外界质疑其能否应对 AI 实验室面临的数字基础设施保护审查。",
+        "bullets": [
+          "OpenAI 发布了一款新的网络安全模型。",
+          "发布时机正值 AI 实验室保护数字基础设施的工作受到审查。",
+          "外界关注该模型是否足以应对安全挑战。"
+        ],
+        "detail": "OpenAI 发布了新的网络安全模型。此时，各 AI 实验室在保护数字基础设施方面的工作正受到审查，因此外界质疑该模型是否足够。",
+        "generatedAt": "2026-11-06T04:25:16+08:00"
+      }
+    },
+    {
       "id": "2290f2160696d317",
       "title": "DeepSeek-V4.1-Flash-1017 on one RTX 3090: Big updates to the Delta Inference Engine v0.93. Same 41 tok/s at 192GB/IQ2 at better quality, usable from 64 GB RAM, first token ~40% sooner, new Unsloth quants at full speed, EXL3, basic multi-GPU, public CI and more",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates",
@@ -259,6 +293,42 @@
       }
     },
     {
+      "id": "e8690f74b67f5698",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T03:35:16+08:00",
+      "fetchedAt": "2026-11-06T04:25:08+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达发布 Cosmos 3 开放模型，用于交互式世界模拟",
+        "takeaway": "英伟达推出新一代开放世界模型，推动物理 AI 与仿真训练，值得关注。",
+        "bullets": [
+          "英伟达发布 Cosmos 3 系列开放模型，聚焦交互式世界模拟。",
+          "模型面向物理 AI 与仿真场景，可生成可交互的虚拟世界。",
+          "开放模型策略或降低世界模型研发门槛，影响机器人、自动驾驶等领域。"
+        ],
+        "detail": "英伟达在 Hugging Face 上发布了 Cosmos 3 开放模型，专为交互式世界模拟设计。这类模型能生成并预测虚拟环境的变化，可用于训练机器人和自动驾驶系统。开放发布意味着更多开发者能基于此进行研究和应用开发。",
+        "generatedAt": "2026-11-06T04:25:17+08:00"
+      }
+    },
+    {
       "id": "87e6cbc6b0ad288a",
       "title": "Cursor AI has become highly stupid, repetitive, filled with errors and utterly garbage type of design making with latest Grok changes.",
       "url": "https://reddit.com/r/cursor/comments/1xonunk/cursor_ai_has_become_highly_stupid_repetitive",
@@ -293,6 +363,78 @@
         ],
         "detail": "一位用了一年 Cursor 的老用户表示，自己靠它拿下过三个大项目，但最近做网页落地页设计等任务时，Cursor 变得很笨、重复、错误频出，文案写作质量也下滑。他把问题指向最新的 Grok 相关改动。",
         "generatedAt": "2026-11-06T03:06:14+08:00"
+      }
+    },
+    {
+      "id": "3c0e84566a0e25fa",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T03:48:28+08:00",
+      "fetchedAt": "2026-11-06T04:25:08+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users"
+      ],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 美国用户可与 Muse AI 虚拟形象视频通话",
+        "takeaway": "Meta 让 AI 代理以可定制动画形象接听视频通话，为后续电子宠物式可穿戴设备铺路。",
+        "bullets": [
+          "美国用户现可通过视频通话与 Muse AI 虚拟形象互动",
+          "该形象支持自定义，以动画形式呈现",
+          "此举为即将推出的类拓麻歌子可穿戴设备预热"
+        ],
+        "detail": "Meta 宣布美国用户现在能通过视频通话与 Muse AI 代理互动，该代理以可定制的动画虚拟形象出现。这发生在 Meta 推出一款类似拓麻歌子的可穿戴设备之前，该设备旨在让 Muse 更具实体感。",
+        "generatedAt": "2026-11-06T04:25:17+08:00"
+      }
+    },
+    {
+      "id": "2e06a7a163b7d0a2",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T03:12:39+08:00",
+      "fetchedAt": "2026-11-06T04:25:08+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data centers"
+      ],
+      "confidence": 0.25,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta警告：数据中心遭选举反弹或拖慢AI扩张",
+        "takeaway": "Meta称社区对数据中心的政治反对可能威胁其未来AI投资，基础设施扩张面临阻力。",
+        "bullets": [
+          "Meta警告选举中针对数据中心的反弹可能阻碍AI扩张",
+          "社区对大型基础设施项目的抵制日益加剧",
+          "政治反对或影响Meta未来AI投资与建设进度"
+        ],
+        "detail": "Meta警告称，随着社区对大型数据中心项目的反对情绪升温，政治阻力可能威胁其未来的AI投资。这种反弹在选举背景下加剧，或使Meta的AI基础设施扩张变得更困难。",
+        "generatedAt": "2026-11-06T04:25:18+08:00"
       }
     },
     {
@@ -398,6 +540,44 @@
         ],
         "detail": "Meta 首席执行官马克·扎克伯格今日宣布，Muse AI 代理现已支持实时语音对话。该功能已向部分用户推送，The Verge 编辑在 iOS 应用上进行了体验。用户在与 AI 聊天时，可以通过语音进行更自然的互动。",
         "generatedAt": "2026-11-06T03:06:18+08:00"
+      }
+    },
+    {
+      "id": "537e630449c46826",
+      "title": "Deepseek fixed my HDMI display show case",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xoql51/deepseek_fixed_my_hdmi_display_show_case",
+      "summary": "I gave Qwen 3.8 flash next 2 times it failed and took long time to conclude the result, DeepSeek took around 15 minutes to get the job done Hardware Ram ddr4 128GB RTX 3080 20GB VRAM 4x Engine strata Model Qwen3.8-Flash-Next-GSQ-RCO-GGUF IQ…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T02:40:31+08:00",
+      "fetchedAt": "2026-11-06T04:25:08+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户实测：DeepSeek 修复 HDMI 显示问题，Qwen 两次失败",
+        "takeaway": "本地大模型实战对比：DeepSeek 约 15 分钟解决问题，Qwen 两次尝试均失败。",
+        "bullets": [
+          "用户用 Qwen 3.8 flash next 两次尝试均失败且耗时较长",
+          "DeepSeek 约 15 分钟完成 HDMI 显示问题修复",
+          "测试硬件为 128GB DDR4 内存、RTX 3080 20GB 显存",
+          "模型为 Qwen3.8-Flash-Next-GSQ-RCO-GGUF 量化版本"
+        ],
+        "detail": "一位用户在本地硬件上测试模型解决 HDMI 显示问题的能力。Qwen 3.8 flash next 两次尝试都失败，且得出结论耗时很长；DeepSeek 则大约用 15 分钟完成了任务。测试平台为 128GB DDR4 内存和 RTX 3080 20GB 显存。",
+        "generatedAt": "2026-11-06T04:25:18+08:00"
       }
     },
     {
@@ -713,6 +893,78 @@
       "pushed": false
     },
     {
+      "id": "1955590be05d9953",
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "summary": "Article URL: https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf Comments URL: https://news.ycombinator.com/item?id=50381033 Points: 118 # Comments: 29",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T24:21:12+08:00",
+      "fetchedAt": "2026-11-06T04:25:08+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "双侧人工耳蜗使用者的心理物理学自述",
+        "takeaway": "一位双侧人工耳蜗使用者分享亲身心理物理学体验，在技术社区引发关注。",
+        "bullets": [
+          "作者以双侧人工耳蜗使用者身份讲述主观听觉体验",
+          "文章发布在 Hacker News，获 118 分、29 条评论",
+          "内容涉及人工耳蜗使用者对声音感知的亲身观察"
+        ],
+        "detail": "这是一篇来自 Hacker News 的个人分享，作者从双侧人工耳蜗使用者的角度讲述自己的心理物理学体验。文章没有涉及新模型或产品发布，而是聚焦于听觉感知的主观感受，在技术社区获得了一定关注和讨论。",
+        "generatedAt": "2026-11-06T04:25:19+08:00"
+      }
+    },
+    {
+      "id": "28e4f6b0f1966306",
+      "title": "I added local TTS and STT to apple-llm using what's already on your Mac. 30 minutes of narration renders in under 20 seconds on an M4 Air",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xoowb4/i_added_local_tts_and_stt_to_applellm_using_whats",
+      "summary": "I posted apple-llm here a while back: a Node and Python package that calls the LLMs Apple ships with macOS, with no API key. Version 0.3 adds the rest of what's already on your Mac, the system voices and Apple's speech recognition. There's …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T01:37:08+08:00",
+      "fetchedAt": "2026-11-06T04:25:08+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "adds"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "apple-llm 0.3 版加入本地语音合成与识别，M4 Air 上 30 分钟旁白 20 秒内完成",
+        "takeaway": "开发者给 apple-llm 包新增本地 TTS 和 STT，调用 Mac 自带语音与识别能力，无需 API 密钥，渲染速度亮眼。",
+        "bullets": [
+          "apple-llm 是调用 macOS 内置 LLM 的 Node/Python 包，无需 API 密钥。",
+          "0.3 版新增系统语音合成和 Apple 语音识别，全部本地运行。",
+          "在 M4 Air 上，30 分钟旁白渲染不到 20 秒。"
+        ],
+        "detail": "apple-llm 是一个让开发者直接调用 macOS 自带大模型的 Node 和 Python 包，不用 API 密钥。0.3 版本把 Mac 上已有的系统语音和 Apple 语音识别也接了进来，实现本地 TTS 和 STT。作者称在 M4 Air 上，30 分钟旁白渲染只需不到 20 秒。",
+        "generatedAt": "2026-11-06T04:25:20+08:00"
+      }
+    },
+    {
       "id": "7d508421875174da",
       "title": "I am EU Citizen and here are my rights",
       "url": "https://reddit.com/r/cursor/comments/1xoox48/i_am_eu_citizen_and_here_are_my_rights",
@@ -734,6 +986,29 @@
       ],
       "confidence": 1,
       "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "fb0f759a83d401c4",
+      "title": "Z.ai chief scientist Jie Tang just revealed the training pipeline behind the upcoming GLM-5.5 (32B, 122B, and 256B)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xossr5/zai_chief_scientist_jie_tang_just_revealed_the",
+      "summary": "Smaller GLM models are coming! GLM 5.5 will have a 32B model! submitted by /u/wapswaps [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T04:06:15+08:00",
+      "fetchedAt": "2026-11-06T04:25:08+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
       "related": [],
       "pushed": false
     }
