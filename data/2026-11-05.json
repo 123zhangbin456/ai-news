@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T09:52:57+08:00",
+  "updatedAt": "2026-11-05T10:39:02+08:00",
   "items": [
     {
       "id": "d23caa988630b0d1",
@@ -1182,6 +1182,43 @@
       }
     },
     {
+      "id": "42db10ec9623630b",
+      "title": "JeecgBoot V3.9.6 发布，67 项安全漏洞集中修复，AI 图像生成上线",
+      "url": "https://oschina.net/news/503401",
+      "summary": "前言 JeecgBoot V3.9.6 是一次以「安全」为主线的版本。距离 V3.9.5 发布两个多月，这一版集中处理了社区和安全研究人员报告的 67 项安全漏洞，覆盖越权访问、租户隔离、登录爆破、短信轰炸、SQL 注入、SSRF、XSS、远程代码执行等方向，并为大量导入导出、新增、删除接口补齐了按钮权限。功能方面，AI 流程编排新增「图...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T09:30:09+08:00",
+      "fetchedAt": "2026-11-05T10:38:49+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "上线"
+      ],
+      "confidence": 0.8,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "JeecgBoot V3.9.6 发布：修复 67 项安全漏洞并上线 AI 图像生成",
+        "takeaway": "以安全为主线的版本，集中修复越权、注入、RCE 等 67 项漏洞，同时新增 AI 图像生成功能。",
+        "bullets": [
+          "修复 67 项漏洞，覆盖越权、租户隔离、SQL 注入、SSRF、XSS、RCE 等",
+          "为大量导入导出、新增、删除接口补齐按钮权限",
+          "AI 流程编排新增图像生成能力，功能同步上线"
+        ],
+        "detail": "距 V3.9.5 两个多月，JeecgBoot V3.9.6 集中处理了社区和安全研究人员报告的 67 项安全漏洞，涉及越权访问、租户隔离、登录爆破、短信轰炸、SQL 注入、SSRF、XSS 和远程代码执行等方向，并为大量接口补齐按钮权限。功能上，AI 流程编排新增图像生成能力。",
+        "generatedAt": "2026-11-05T10:39:01+08:00"
+      }
+    },
+    {
       "id": "fd6efa166bcc0487",
       "title": "Qwen 3.8 Flash Next GSQ RCO quant as good as BF16",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xnutr6/qwen_38_flash_next_gsq_rco_quant_as_good_as_bf16",
@@ -1337,6 +1374,43 @@
         ],
         "detail": "阿里在节日直播中请来头部主播，用近乎免费的一个月会员卡把 Qwen Office 推到观众面前，相关口号传播很广。但真正的商业考验在折扣结束后才开始：用户是否愿意付费、能否形成日常办公习惯，才是关键。",
         "generatedAt": "2026-11-05T09:13:47+08:00"
+      }
+    },
+    {
+      "id": "0709899c54d6f8c0",
+      "title": "Qwen 35B-A3B has better reasoning than gemma 4 26B A4B. Is there anything better (with that speed ans size and activated parameters)?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xo18bg/qwen_35ba3b_has_better_reasoning_than_gemma_4_26b",
+      "summary": "I have my own way to test models for their pure reasoning. I have a series of unpublished and original logic puzzles and I use them to rank models. After thorough testing, in my opinion, Qwen 35B-A3B (and derivates like cyber tiel, Ornith-1…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T05:58:44+08:00",
+      "fetchedAt": "2026-11-05T10:38:49+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0.25,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户实测：Qwen 35B-A3B 推理优于 Gemma 4 26B A4B",
+        "takeaway": "本地模型玩家用自创逻辑题横评，认为 Qwen 35B-A3B 在同速度同体量下推理更强。",
+        "bullets": [
+          "评测者用未公开的原创逻辑谜题给模型排名",
+          "结论是 Qwen 35B-A3B 及其衍生模型推理胜过 Gemma 4 26B A4B",
+          "作者在问同速度、同规模、同激活参数下有无更强者",
+          "属个人测试，非官方基准，参考需谨慎"
+        ],
+        "detail": "这位 Reddit 用户自建了一套未公开的原创逻辑谜题来测模型的纯推理能力。经过充分测试，他认为 Qwen 35B-A3B 以及 cyber tiel、Ornith-1 等衍生版本，推理表现好于 Gemma 4 26B A4B，并想找同速度、同体量下更强的模型。",
+        "generatedAt": "2026-11-05T10:39:02+08:00"
       }
     },
     {
@@ -1603,6 +1677,42 @@
       }
     },
     {
+      "id": "53665fc9700bb8a1",
+      "title": "AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京",
+      "url": "https://infoq.cn/article/XieGrL5pws7jG1zxKPle",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T18:00:00+08:00",
+      "fetchedAt": "2026-11-05T10:38:49+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 0.33,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AICon北京：AI编程增量风险管控的Skill门禁与Harness实践",
+        "takeaway": "InfoQ中国分享AI编程增量风险管控方案，用Skill门禁与Harness落地实践，值得开发者关注。",
+        "bullets": [
+          "InfoQ中国发布AICon北京演讲，主题为AI Coding增量风险管控。",
+          "方案涉及Skill门禁与Harness落地实践，面向AI编程场景。",
+          "内容聚焦风险管控，可能影响AI编程工具的开发与使用。"
+        ],
+        "detail": "InfoQ中国报道了AICon北京的一场演讲，主题是AI编程中的增量风险管控。演讲介绍了Skill门禁和Harness的落地实践，旨在帮助团队在AI辅助编程时控制新增风险。具体细节需查看原文。",
+        "generatedAt": "2026-11-05T10:39:01+08:00"
+      }
+    },
+    {
       "id": "44e59e6a26813ff6",
       "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
       "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
@@ -1697,6 +1807,29 @@
       ],
       "confidence": 0.5,
       "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5ccdc48dfe6ed2f3",
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Comments URL: https://news.ycombinator.com/item?id=50370654 Points: 105 # Comments: 44",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T03:55:14+08:00",
+      "fetchedAt": "2026-11-05T10:38:49+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
       "related": [],
       "pushed": false
     }
