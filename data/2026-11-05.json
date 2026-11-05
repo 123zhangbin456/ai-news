@@ -1,7 +1,44 @@
 {
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T04:11:48+08:00",
+  "updatedAt": "2026-11-05T09:13:50+08:00",
   "items": [
+    {
+      "id": "d23caa988630b0d1",
+      "title": "Meta acquires AI coding startup Conductor",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T05:10:56+08:00",
+      "fetchedAt": "2026-11-05T09:13:11+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "acquires"
+      ],
+      "confidence": 0.8,
+      "score": 58,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 收购 AI 编程初创公司 Conductor",
+        "takeaway": "Meta 将 Conductor 的智能体编程团队技术收入囊中，加码 AI 辅助软件开发。",
+        "bullets": [
+          "Conductor 允许工程师同时部署多个智能体处理项目不同部分",
+          "收购方为 Meta，具体金额未披露",
+          "此举显示 Meta 在 AI 编程工具领域的布局",
+          "可能影响开发者工具市场竞争格局"
+        ],
+        "detail": "Meta 收购了 AI 编程初创公司 Conductor。该公司让软件工程师能同时部署多个智能体，并行处理项目的不同环节。交易金额未公开，此举表明 Meta 正加强在 AI 辅助编程领域的投入。",
+        "generatedAt": "2026-11-05T09:13:35+08:00"
+      }
+    },
     {
       "id": "5c5265b7a93cd1eb",
       "title": "Anthropic 为重要开源项目新增可选安全扫描服务",
@@ -36,6 +73,44 @@
         ],
         "detail": "Anthropic 宣布为重要开源项目提供一项可选的安全扫描服务。该服务旨在帮助这些项目检测潜在的安全漏洞，从而提升整体安全性。开源项目可以自愿选择是否使用该服务，不会影响其正常的开发流程。",
         "generatedAt": "2026-11-05T02:43:07+08:00"
+      }
+    },
+    {
+      "id": "cb762b7ed20864bf",
+      "title": "Gemini for Home now plugs into AT&T’s smart security system",
+      "url": "https://theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that c…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T04:23:24+08:00",
+      "fetchedAt": "2026-11-05T09:13:11+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "product",
+        "features",
+        "integrates"
+      ],
+      "confidence": 0.43,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AT&T智能安防系统接入Gemini for Home",
+        "takeaway": "AT&T家庭安防成为首个接入Google Home Premium的产品，用户可用Gemini语音操控安防功能。",
+        "bullets": [
+          "AT&T的Connected Life安防系统与Gemini for Home完成集成",
+          "AT&T称这是首个接入Google Home Premium的家庭安防产品",
+          "集成后用户可通过Gemini语音控制多项安防功能"
+        ],
+        "detail": "AT&T的智能家居安防系统Connected Life现已与Gemini for Home打通。AT&T表示，这是首个接入Google Home Premium的家庭安防产品，用户将能使用一系列由Gemini驱动的功能。",
+        "generatedAt": "2026-11-05T09:13:35+08:00"
       }
     },
     {
@@ -185,6 +260,77 @@
       }
     },
     {
+      "id": "a1e153edc152696f",
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election",
+      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T05:25:44+08:00",
+      "fetchedAt": "2026-11-05T09:13:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 提前布局 2028 美国大选，欲以 AI 议题塑造选战",
+        "takeaway": "OpenAI 高管提出新社会契约，既想惠及美国民众，也意在推进公司商业利益。",
+        "bullets": [
+          "OpenAI 的 Chris Lehane 提出新社会契约构想",
+          "目标让 AI 成为 2028 美国大选核心议题",
+          "该构想兼顾公众利益与 OpenAI 商业诉求"
+        ],
+        "detail": "OpenAI 高管 Chris Lehane 表示，希望 AI 能定义 2028 年美国大选。他提出一项新社会契约，声称既能让美国民众受益，也能推动 OpenAI 自身的商业利益。",
+        "generatedAt": "2026-11-05T09:13:37+08:00"
+      }
+    },
+    {
+      "id": "858a2ce3283f6201",
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month",
+      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T06:13:16+08:00",
+      "fetchedAt": "2026-11-05T09:13:11+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "says"
+      ],
+      "confidence": 0.75,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Nothing CEO预告下月发布神秘AI优先设备，主打生产力",
+        "takeaway": "Nothing将推AI优先新设备，下月发布，但具体形态未明，值得关注其如何用AI提升生产力。",
+        "bullets": [
+          "Nothing CEO确认下月发布AI优先设备",
+          "产品定位利用AI提升生产力",
+          "具体产品形态尚未公布"
+        ],
+        "detail": "智能手机初创公司Nothing的CEO表示，公司正在打造一款AI优先的神秘设备，将于下个月发布。目前尚不清楚具体是什么产品，但设计目标是利用AI提升生产力。",
+        "generatedAt": "2026-11-05T09:13:37+08:00"
+      }
+    },
+    {
       "id": "dce5f0728cb7f9e6",
       "title": "Vercel Labs 开源 fx：一款专为嵌入式应用设计的 Zig 编程代理",
       "url": "https://infoq.cn/article/cNO8PCwQoZMRHhIyVDrB",
@@ -328,6 +474,43 @@
         ],
         "detail": "开源模型正变得越来越主流，企业、政府和初创公司都看重其成本更低、控制权更大、灵活性更高的承诺。但随着能力越来越强的模型更自由地流通，Hugging Face 政策负责人讨论了由此带来的成本、风险和取舍问题。",
         "generatedAt": "2026-11-05T04:11:43+08:00"
+      }
+    },
+    {
+      "id": "d77b3b2735cbe410",
+      "title": "【钛晨报】五部门最新部署：“一行一策”开展节能改造，加强原材料回收利用；字节限制外部AI工具访问内部资料？知情人士回应；倍轻松实控人被罚没1184万元、禁入证券市场5年",
+      "url": "https://tmtpost.com/8194022.html",
+      "summary": "央行今日开展3000亿元买断式逆回购操作；华为、阿里等20家单位共建智能体互联基础设施，加速智能体赋能千行百业；比亚迪辟谣“天神之眼智驾方案更换及停产”；董宇辉官宣新品牌；德明利拟每10股派现6元，控股股东承诺延长一年不减持；三环集团拟5亿元至10亿元回购公司股份。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T07:20:00+08:00",
+      "fetchedAt": "2026-11-05T09:13:11+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "部署"
+      ],
+      "confidence": 0.25,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "钛晨报：五部门部署节能改造；字节回应AI工具访问限制；倍轻松实控人被罚",
+        "takeaway": "五部门推进节能改造与回收，字节回应AI工具访问限制，倍轻松实控人遭重罚。",
+        "bullets": [
+          "五部门部署“一行一策”节能改造，加强原材料回收利用",
+          "字节被指限制外部AI工具访问内部资料，知情人士回应",
+          "倍轻松实控人被罚没1184万元并禁入证券市场5年",
+          "华为、阿里等20家单位共建智能体互联基础设施"
+        ],
+        "detail": "五部门最新部署要求“一行一策”开展节能改造，并加强原材料回收利用。针对字节限制外部AI工具访问内部资料的说法，知情人士作出回应。倍轻松实控人被罚没1184万元，且5年内禁入证券市场。",
+        "generatedAt": "2026-11-05T09:13:37+08:00"
       }
     },
     {
@@ -717,6 +900,147 @@
       }
     },
     {
+      "id": "a331696f9782d1ec",
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared",
+      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T06:45:09+08:00",
+      "fetchedAt": "2026-11-05T09:13:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI行业政治行动委员会斥资数百万干预中期选举，成效参半",
+        "takeaway": "AI行业PAC在2026年中期选举投入巨资试图影响国会构成，结果喜忧参半，政治团体已着眼下一轮选举。",
+        "bullets": [
+          "AI行业政治行动委员会在2026年中期选举中投入数百万美元。",
+          "这些资金用于影响国会选举结果，但实际效果好坏参半。",
+          "相关政治团体已开始为下一轮选举周期布局。"
+        ],
+        "detail": "AI行业的政治行动委员会在2026年中期选举中花费数百万美元，试图影响国会席位归属，但最终结果有胜有负。这些政治组织并未停歇，已开始为下一个选举周期做准备。",
+        "generatedAt": "2026-11-05T09:13:41+08:00"
+      }
+    },
+    {
+      "id": "94c502abbc467c46",
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says",
+      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T05:56:01+08:00",
+      "fetchedAt": "2026-11-05T09:13:11+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Uber 数据：AI 代理订车几乎无人使用",
+        "takeaway": "Uber 披露最忙一周仅 4 人用 AI 代理叫车，说明 AI 代理落地消费场景仍遥远。",
+        "bullets": [
+          "Uber 最忙一周仅 4 人通过 AI 代理订车",
+          "与 AI 代理热潮形成鲜明反差",
+          "表明 AI 代理在真实消费场景渗透率极低"
+        ],
+        "detail": "Uber 表示，在上季度最繁忙的一周里，只有四个人使用 AI 代理预订了行程。这一数据表明，尽管 AI 代理是热门话题，但实际用它来叫车的人寥寥无几。",
+        "generatedAt": "2026-11-05T09:13:43+08:00"
+      }
+    },
+    {
+      "id": "9237dfef9309031e",
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "url": "https://theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T06:42:15+08:00",
+      "fetchedAt": "2026-11-05T09:13:11+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center",
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "手机销量下滑两成，高通转向数据中心寻找新增长",
+        "takeaway": "高通手机业务承压，押注AI数据中心以提振营收，值得关注其转型成效。",
+        "bullets": [
+          "高通手机销量较2025年下降约20%，业绩承压。",
+          "Q4 2026财报电话会上公布进军AI数据中心计划。",
+          "转型成效将影响高通未来营收结构与竞争格局。"
+        ],
+        "detail": "高通在2026财年第四季度财报电话会上表示，由于智能手机销量同比下滑约20%，公司正寻求通过数据中心业务来提振利润。高通已公布在AI数据中心领域发力的计划，试图开辟手机之外的新增长点。",
+        "generatedAt": "2026-11-05T09:13:43+08:00"
+      }
+    },
+    {
+      "id": "e5fe4bf1b72b27a8",
+      "title": "17 better ways Elon Musk could have wasted $446 million",
+      "url": "https://theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+      "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T05:45:00+08:00",
+      "fetchedAt": "2026-11-05T09:13:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "马斯克4.46亿美元花得冤？The Verge支招17种更好用法",
+        "takeaway": "The Verge讽刺马斯克在社交媒体上浪费4.46亿美元，并列举17种更值得的花钱方式。",
+        "bullets": [
+          "The Verge发文批评马斯克在X平台上的巨额花费。",
+          "文章列举17种更合理的资金使用方式。",
+          "讽刺社交媒体消耗大脑，尤其针对X平台。"
+        ],
+        "detail": "The Verge 发表评论文章，调侃埃隆·马斯克在社交媒体上浪费了4.46亿美元，并给出17种更好的花钱方式。文章讽刺说，花太多时间刷社交媒体会让人变傻，尤其是刷前身为推特的X平台。",
+        "generatedAt": "2026-11-05T09:13:44+08:00"
+      }
+    },
+    {
       "id": "fd6efa166bcc0487",
       "title": "Qwen 3.8 Flash Next GSQ RCO quant as good as BF16",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xnutr6/qwen_38_flash_next_gsq_rco_quant_as_good_as_bf16",
@@ -765,6 +1089,114 @@
       "score": 38,
       "related": [],
       "pushed": false
+    },
+    {
+      "id": "6cdbb1658be33edd",
+      "title": "Deepseek alone accounted for 53% of all (27 trillion) tokens on Openrouter yesterday. Open-weights labs totaling over 75% now",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xnz8ct/deepseek_alone_accounted_for_53_of_all_27",
+      "summary": "Source: https://dirac.run/labs-market-share#daily-token-share-by-lab submitted by /u/Comfortable-Rock-498 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T04:39:28+08:00",
+      "fetchedAt": "2026-11-05T09:13:11+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "weights"
+      ],
+      "confidence": 0.33,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 单日占 OpenRouter 超半数 token，开源模型总份额破 75%",
+        "takeaway": "开源权重模型在 OpenRouter 的 token 份额已超 75%，DeepSeek 一家占 53%，显示开源模型使用量正快速攀升。",
+        "bullets": [
+          "DeepSeek 单日占 OpenRouter 全部 27 万亿 token 的 53%",
+          "开源权重实验室合计份额超过 75%",
+          "数据来自 dirac.run 的每日 token 份额统计"
+        ],
+        "detail": "根据 r/LocalLLaMA 帖子引用的 dirac.run 数据，OpenRouter 昨日共处理 27 万亿 token，其中 DeepSeek 一家占 53%。所有开源权重实验室加起来份额已超 75%，说明开源模型在 API 聚合平台上的实际使用量已占主导。",
+        "generatedAt": "2026-11-05T09:13:45+08:00"
+      }
+    },
+    {
+      "id": "9e91a47c95ca64e1",
+      "title": "What are you looking forward to in Qwen 4?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xo3ikc/what_are_you_looking_forward_to_in_qwen_4",
+      "summary": "Qwen 4 will be upon us soon. What are you most excited about? I hope to see: 27B with more efficient KV, so 128k doesn't need 8 GiB or whatever. Flash the same architecture as Q38FN, so 125B-A6B for all us desktop scrubs. Medium thinking pe…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T07:35:49+08:00",
+      "fetchedAt": "2026-11-05T09:13:11+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 4 即将发布，社区期待高效 KV 与桌面友好架构",
+        "takeaway": "社区讨论 Qwen 4 的潜在改进，聚焦效率与本地部署体验。",
+        "bullets": [
+          "用户期待 27B 模型采用更高效 KV 缓存，降低长上下文内存占用。",
+          "希望 Flash 版本沿用 Q38FN 架构，推出适合桌面的 125B-A6B 模型。",
+          "讨论还涉及“中等思考”等新特性，反映对推理效率的关注。"
+        ],
+        "detail": "Reddit 网友热议 Qwen 4 即将到来，最兴奋的改进包括：27B 模型通过高效 KV 缓存让 128k 上下文不再需要 8GiB 内存；Flash 版本采用与 Q38FN 相同的架构，为桌面用户提供 125B-A6B 模型；以及“中等思考”等新功能。",
+        "generatedAt": "2026-11-05T09:13:46+08:00"
+      }
+    },
+    {
+      "id": "0a293c8b1fff5808",
+      "title": "A One-Cent Livestream Does Not Make Office AI a Mass Habit",
+      "url": "https://tmtpost.com/8194255.html",
+      "summary": "Alibaba used a top host and a near-free month card to put Qwen Office in front of a festival audience. The token slogans traveled far. The business test starts when the discount ends.",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T08:27:04+08:00",
+      "fetchedAt": "2026-11-05T09:13:11+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阿里一分钱直播推Qwen Office，补贴退潮后才是真正考验",
+        "takeaway": "阿里用头部主播和近乎免费月卡推广Qwen Office，但低价能否转化为长期办公习惯仍待验证。",
+        "bullets": [
+          "阿里借头部主播和一分钱月卡在节日直播中推广Qwen Office",
+          "Token相关口号传播广泛，但低价促销不等于用户留存",
+          "折扣结束后，付费意愿和日常使用习惯才是业务试金石"
+        ],
+        "detail": "阿里在节日直播中请来头部主播，用近乎免费的一个月会员卡把 Qwen Office 推到观众面前，相关口号传播很广。但真正的商业考验在折扣结束后才开始：用户是否愿意付费、能否形成日常办公习惯，才是关键。",
+        "generatedAt": "2026-11-05T09:13:47+08:00"
+      }
     },
     {
       "id": "0a0306625539f1da",
@@ -924,6 +1356,162 @@
       }
     },
     {
+      "id": "273dfe82d77dfc39",
+      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+      "url": "https://wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space",
+      "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T07:13:14+08:00",
+      "fetchedAt": "2026-11-05T09:13:11+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center",
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "民主党横扫得州，科技圈转向太空建数据中心",
+        "takeaway": "美国中期选举后，AI基础设施热点地区变天，科技人士开始讨论近地轨道数据中心。",
+        "bullets": [
+          "民主党在得州等AI基建重镇大胜，影响数据中心政策环境。",
+          "科技爱好者将目光投向近地轨道，寻求数据中心新出路。",
+          "太空数据中心构想引发关注，但落地仍面临技术挑战。"
+        ],
+        "detail": "周二民主党在得克萨斯等AI基础设施关键地区取得重大胜利后，数据中心支持者开始从近地轨道寻找安慰。这反映出政治风向变化可能影响地面数据中心扩张，而太空方案虽被热议，短期内难以实现。",
+        "generatedAt": "2026-11-05T09:13:49+08:00"
+      }
+    },
+    {
+      "id": "7882443578c449d9",
+      "title": "Cloudflare 通过优化一致性哈希节省了 100 TB 内存",
+      "url": "https://infoq.cn/article/yRvSUCFFcZEEXCgxyAO2",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T17:00:00+08:00",
+      "fetchedAt": "2026-11-05T09:13:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cloudflare 优化一致性哈希，节省 100 TB 内存",
+        "takeaway": "Cloudflare 通过改进一致性哈希算法，大幅降低内存占用，提升资源效率。",
+        "bullets": [
+          "优化一致性哈希算法，减少内存使用",
+          "节省高达 100 TB 内存，降低运营成本",
+          "对大规模分布式系统有借鉴意义"
+        ],
+        "detail": "Cloudflare 对其一致性哈希算法进行了优化，成功节省了 100 TB 内存。这一改进有助于降低运营成本，并提升大规模分布式系统的资源效率。",
+        "generatedAt": "2026-11-05T09:13:49+08:00"
+      }
+    },
+    {
+      "id": "002b2dd0bcc8dbe3",
+      "title": "早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时",
+      "url": "https://ifanr.com/1687750",
+      "summary": "· 彭博调查：69% 中国受访者至少等到明年才换手机 · ChatGPT 新增 GIF 生成，可调播放速度、逐帧修改 · 近七成汽车经销商试用 AI，部分已设智能体专员 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T08:15:59+08:00",
+      "fetchedAt": "2026-11-05T09:13:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "早报：苹果收紧Token预算，全球手机出货量降19%，小米机器人进厂实习",
+        "takeaway": "苹果控制AI成本、手机市场遇冷、小米机器人落地工厂，三条动态折射科技行业降本与落地趋势。",
+        "bullets": [
+          "苹果收紧员工Token预算，控制AI使用成本",
+          "全球手机出货量降19%，手机越卖越贵",
+          "雷军称小米机器人在工厂实习8小时",
+          "近七成汽车经销商试用AI，部分设智能体专员"
+        ],
+        "detail": "苹果开始限制员工使用AI的Token预算，以控制成本。全球手机出货量下降19%，但手机价格持续上涨，彭博调查显示69%中国受访者至少等到明年才换手机。雷军透露小米机器人在工厂“实习”8小时。此外，近七成汽车经销商已试用AI，部分设立智能体专员。",
+        "generatedAt": "2026-11-05T09:13:50+08:00"
+      }
+    },
+    {
+      "id": "44e59e6a26813ff6",
+      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
+      "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T04:55:50+08:00",
+      "fetchedAt": "2026-11-05T09:13:11+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3ddb3813bec16e63",
+      "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+      "url": "https://wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms",
+      "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T04:41:29+08:00",
+      "fetchedAt": "2026-11-05T09:13:11+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "regulation"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "8f18df7202e65b86",
       "title": "实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点",
       "url": "https://ifanr.com/1687733",
@@ -943,6 +1531,31 @@
       "keywords": [],
       "confidence": 0,
       "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "96eddcc208ed19b8",
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://ricursive.com/ripple",
+      "summary": "Article URL: https://www.ricursive.com/ripple Comments URL: https://news.ycombinator.com/item?id=50369925 Points: 211 # Comments: 75",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T02:53:29+08:00",
+      "fetchedAt": "2026-11-05T09:13:11+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "SOTA"
+      ],
+      "confidence": 0.5,
+      "score": 29,
       "related": [],
       "pushed": false
     }
