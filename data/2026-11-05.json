@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T19:40:03+08:00",
+  "updatedAt": "2026-11-06T03:06:22+08:00",
   "items": [
     {
       "id": "5978e168ee564d91",
@@ -82,6 +82,79 @@
         "generatedAt": "2026-11-05T19:39:45+08:00"
       },
       "pushedAt": "2026-11-05T19:40:03+08:00"
+    },
+    {
+      "id": "53c56afbaf05f856",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T17:00:00+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing",
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 62,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 发布 GPT-6 Cyber：专注漏洞发现与修复的安全模型",
+        "takeaway": "OpenAI 推出面向网络安全的新模型，能找漏洞并开发修复方案，且训练时强调在授权范围内行动。",
+        "bullets": [
+          "GPT-6 Cyber 是 OpenAI 的网络安全专用模型，用于发现可利用漏洞并开发修复。",
+          "模型经过训练，确保在授权范围内操作，降低越界风险。",
+          "该发布可能推动自动化安全测试与修复工具的发展。"
+        ],
+        "detail": "OpenAI 推出 GPT-6 Cyber，这是一款网络安全模型，主要能力是找出可被利用的漏洞并帮助开发修复方案。该模型在训练中特别强调遵守授权范围，避免越权操作。",
+        "generatedAt": "2026-11-06T03:06:06+08:00"
+      }
+    },
+    {
+      "id": "2cf2b8bdbf4f0463",
+      "title": "An open-source project just ranked #1 on EnterpriseRAG-Bench, ahead of the listed systems from OpenAI, Google, Microsoft and Amazon",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xoiaye/an_opensource_project_just_ranked_1_on",
+      "summary": "Some of you might remember our post comparing 18 RAG pipelines against our agent loop on FRAMES. The best pipeline scored 78.9%; the loop scored 92.7%. A follow-up: PipesHub has now reached #1 on EnterpriseRAG-Bench by overall score , with …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T21:12:49+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 1,
+      "score": 61,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开源项目PipesHub登顶EnterpriseRAG-Bench，超越OpenAI等巨头",
+        "takeaway": "开源RAG项目PipesHub在企业级基准测试中排名第一，领先OpenAI、谷歌、微软和亚马逊的官方系统。",
+        "bullets": [
+          "PipesHub在EnterpriseRAG-Bench综合得分排名第一。",
+          "此前在FRAMES测试中，其agent loop得分92.7%，远超最佳RAG流程的78.9%。",
+          "此次排名超越OpenAI、谷歌、微软和亚马逊的已列出系统。"
+        ],
+        "detail": "开源项目PipesHub在EnterpriseRAG-Bench基准测试中综合得分排名第一，超过了OpenAI、谷歌、微软和亚马逊的官方系统。此前该团队在FRAMES测试中对比了18种RAG流程，其agent loop得分92.7%，而最佳流程仅78.9%。",
+        "generatedAt": "2026-11-06T03:06:06+08:00"
+      }
     },
     {
       "id": "57cbc4a0ab017171",
@@ -339,6 +412,78 @@
         ],
         "detail": "AI预测引擎公司Prophetlab获得数千万元天使轮融资，投资方包括常春藤资本等。公司成立不到四个月，早期项目利用AI大模型预测世界杯赛果，成功预测决赛结果和四强队伍，部分模型准确率达75%左右。其研发的预测引擎Prophet Engine已登顶字节Seed发布的知名预测榜单。",
         "generatedAt": "2026-11-05T02:43:09+08:00"
+      }
+    },
+    {
+      "id": "5ea6f104b1e8466c",
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system",
+      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T22:00:00+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Box 联手英伟达 Nemotron 推出智能体内容检索系统",
+        "takeaway": "Box 采用英伟达 Nemotron 模型打造智能体优先的检索系统，查询速度提升 4 倍，错误减少 20%，token 用量降低 90%。",
+        "bullets": [
+          "Box 发布基于英伟达 Nemotron 的智能体优先内容检索系统",
+          "官方称查询速度提升 4 倍，错误率降低 20%",
+          "token 使用量减少 90%，显著降低推理成本"
+        ],
+        "detail": "Box 推出了一个以智能体为核心的新内容检索系统，底层采用英伟达的 Nemotron 模型。据称，该系统能将查询响应速度提升至原来的四倍，同时错误率下降 20%，并且 token 消耗量大幅减少 90%。",
+        "generatedAt": "2026-11-06T03:06:08+08:00"
+      }
+    },
+    {
+      "id": "aecc9a23fd3ca859",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure",
+      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T23:19:05+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "acquires"
+      ],
+      "confidence": 1,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Dropbox 3.5亿美元收购 Tigris Data，加码 AI 基础设施",
+        "takeaway": "Dropbox 通过收购补强 AI 存储能力，为开发者打造 AI 模型与智能体提供新平台。",
+        "bullets": [
+          "交易金额3.5亿美元，收购对象为数据存储公司Tigris Data",
+          "旨在支持DBX Agent Cloud的开发，面向AI开发者",
+          "新平台将提供存储服务，助力AI模型和智能体构建"
+        ],
+        "detail": "Dropbox 宣布以 3.5 亿美元收购 Tigris Data，以增强其 AI 基础设施。该交易预计将支持 DBX Agent Cloud 的开发，这是一个面向构建 AI 模型和智能体的开发者的新存储平台。",
+        "generatedAt": "2026-11-06T03:06:09+08:00"
       }
     },
     {
@@ -963,6 +1108,76 @@
       }
     },
     {
+      "id": "d94f47b36633f79e",
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
+      "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T20:00:00+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Agility登陆纳斯达克，成首家上市纯人形机器人公司",
+        "takeaway": "Agility今日在纳斯达克上市，成为首家专注人形机器人的上市公司，值得关注其市场表现。",
+        "bullets": [
+          "Agility在纳斯达克挂牌，为首家纯人形机器人上市公司。",
+          "上市方式未明确，但引发对人形机器人赛道的关注。",
+          "投资者可借此直接押注人形机器人领域。"
+        ],
+        "detail": "Agility今天正式在纳斯达克上市，成为第一家纯粹做人形机器人的上市公司。这意味着公开市场投资者首次可以直接投资这一细分领域，其后续表现或成为行业风向标。",
+        "generatedAt": "2026-11-06T03:06:14+08:00"
+      }
+    },
+    {
+      "id": "24766a564a96f079",
+      "title": "Grok in Cursor being rude on me",
+      "url": "https://reddit.com/r/cursor/comments/1xod98r/grok_in_cursor_being_rude_on_me",
+      "summary": "strange conversation where the machine is refusing to process a normal request and answering in a kinda rude way. This never happened to me before.. submitted by /u/Mysterious-Emu-6296 [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T16:13:14+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor 用户反馈 Grok 模型回复粗鲁且拒绝处理请求",
+        "takeaway": "有用户称在 Cursor 中使用 Grok 时遭遇异常粗鲁回复和拒绝处理请求，此前未遇。",
+        "bullets": [
+          "用户 Mysterious-Emu-6296 在 r/cursor 发帖描述异常对话",
+          "Grok 拒绝处理正常请求并回复粗鲁",
+          "该用户表示此前从未遇到类似情况"
+        ],
+        "detail": "一位 Cursor 用户在 Reddit 发帖称，使用 Grok 模型时遇到奇怪对话：机器拒绝处理一个正常请求，并以有些粗鲁的方式回复。该用户表示以前从未发生过这种情况。",
+        "generatedAt": "2026-11-06T03:06:14+08:00"
+      }
+    },
+    {
       "id": "472484bded0ab565",
       "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
       "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling",
@@ -1278,6 +1493,77 @@
         ],
         "detail": "谷歌发布了 ML Drift，这是一个为各类 GPU 加速端侧 AI 推理的解决方案。它旨在提升设备端 AI 推理性能，支持多种 GPU，可能推动端侧 AI 应用的发展。",
         "generatedAt": "2026-11-05T19:39:51+08:00"
+      }
+    },
+    {
+      "id": "c53afcafc4316506",
+      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+      "url": "https://wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk",
+      "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T19:45:00+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "专挑AI聊天机器人毛病的网红，如今OpenAI和Anthropic都找他合作",
+        "takeaway": "网红Husk靠曝光聊天机器人缺陷走红，OpenAI、Anthropic和SpaceX主动寻求合作，反映AI公司重视外部批评。",
+        "bullets": [
+          "Husk以曝光聊天机器人短板走红，内容常病毒式传播。",
+          "OpenAI、Anthropic和SpaceX均已联系Husk。",
+          "AI公司或借合作改善产品，并缓和公众批评。"
+        ],
+        "detail": "网红Husk经常发布视频，揭露聊天机器人的缺陷，因此走红。如今OpenAI、Anthropic和SpaceX都主动联系他，希望合作。这表明AI公司开始重视外部批评者的影响力。",
+        "generatedAt": "2026-11-06T03:06:18+08:00"
+      }
+    },
+    {
+      "id": "4cf77341fe7fabf7",
+      "title": "Does switching to cheaper models actually save money in Cursor app",
+      "url": "https://reddit.com/r/cursor/comments/1xoitqo/does_switching_to_cheaper_models_actually_save",
+      "summary": "Small disclaimer first, this is one person on one codebase for one month, not a benchmark. I got annoyed at my usage bill so I tracked it for 4 weeks on our main app, a Next.js frontend and a Node API, roughly 60k lines. Week 1 I used the t…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T21:36:50+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor 换便宜模型真省钱？一个月实测",
+        "takeaway": "用户实测一个月发现，换便宜模型未必省钱，关键看任务类型和用量结构。",
+        "bullets": [
+          "一位用户在约6万行代码库上追踪四周用量",
+          "对比默认模型与更便宜模型的账单差异",
+          "结论是省钱与否取决于具体使用场景",
+          "样本仅一人一项目，非严格基准测试"
+        ],
+        "detail": "有用户因账单太贵，在自家约6万行的 Next.js 前端加 Node API 项目上连续四周记录 Cursor 用量，对比换用更便宜模型前后的花费。作者强调这只是单人单项目的经验，并非基准测试，结论需结合自身任务类型判断。",
+        "generatedAt": "2026-11-06T03:06:20+08:00"
       }
     },
     {
@@ -1849,6 +2135,92 @@
       }
     },
     {
+      "id": "b5330d69bb523062",
+      "title": "The hidden supply chain costs of the AI boom",
+      "url": "https://theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+      "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy i…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T23:00:00+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI热潮背后的隐藏供应链成本",
+        "takeaway": "哈佛经济学家Willy Shih探讨AI繁荣如何推高供应链成本，揭示被忽视的经济代价。",
+        "bullets": [
+          "对话哈佛商学院教授Willy Shih，聚焦AI热潮的供应链影响",
+          "Shih新书《我的东西从哪来？》剖析全球供应链经济学",
+          "讨论揭示AI发展背后隐藏的供应链成本与挑战"
+        ],
+        "detail": "本期节目对话哈佛经济学家Willy Shih，他即将出版新书《我的东西从哪来？全球供应链背后的强大经济学》。双方探讨了AI热潮如何影响全球供应链，并带来哪些隐藏成本。",
+        "generatedAt": "2026-11-06T03:06:22+08:00"
+      }
+    },
+    {
+      "id": "89beac2608dd5e44",
+      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
+      "url": "https://theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+      "summary": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud,…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T23:00:00+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "integration"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3c63b1bd263a0a08",
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
+      "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 201 # Comments: 99",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T15:44:30+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety",
+        "alignment",
+        "misalignment"
+      ],
+      "confidence": 0.76,
+      "score": 40,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "42db10ec9623630b",
       "title": "JeecgBoot V3.9.6 发布，67 项安全漏洞集中修复，AI 图像生成上线",
       "url": "https://oschina.net/news/503401",
@@ -1884,6 +2256,79 @@
         "detail": "距 V3.9.5 两个多月，JeecgBoot V3.9.6 集中处理了社区和安全研究人员报告的 67 项安全漏洞，涉及越权访问、租户隔离、登录爆破、短信轰炸、SQL 注入、SSRF、XSS 和远程代码执行等方向，并为大量接口补齐按钮权限。功能上，AI 流程编排新增图像生成能力。",
         "generatedAt": "2026-11-05T10:39:01+08:00"
       }
+    },
+    {
+      "id": "c9efcd5ee343666e",
+      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents",
+      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T22:42:00+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "fd04855a6f41c02e",
+      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai",
+      "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T21:00:00+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "series"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "04c214ef5ee4e68f",
+      "title": "Rejoice Deepseek enjoyers",
+      "url": "https://reddit.com/r/cursor/comments/1xo9zbx/rejoice_deepseek_enjoyers",
+      "summary": "This should mean Deepseek 4.1 Flash is excluded submitted by /u/Few-Philosopher-2677 [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T12:52:29+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "fd6efa166bcc0487",
@@ -2044,6 +2489,31 @@
       }
     },
     {
+      "id": "1c3adbb3a0b00951",
+      "title": "Do you find that Cursor properly understand your architecture and dependencies?",
+      "url": "https://reddit.com/r/cursor/comments/1xo1v2u/do_you_find_that_cursor_properly_understand_your",
+      "summary": "I’ve been using coding agents on a codebase that’s been around a while. The agent writes a change that looks correct in isolation, but it didn’t know what else depended on the code it touched. A few examples of what I mean: It changes a fun…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T06:24:23+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "0a293c8b1fff5808",
       "title": "A One-Cent Livestream Does Not Make Office AI a Mass Habit",
       "url": "https://tmtpost.com/8194255.html",
@@ -2189,6 +2659,31 @@
       }
     },
     {
+      "id": "dfcb73025af43ae3",
+      "title": "Getting editable layers out of Qwen-Image 2.1, a model that only edits: what works, what still fails (local, open source) Kokon",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xoji3b/getting_editable_layers_out_of_qwenimage_21_a",
+      "summary": "I'm the developer of Kokon, a local photo editor around Qwen-Image 2.1 Turbo (on stable-diffusion.cpp, and on its own engine on Macs). I posted it here a few weeks ago. 0.12 adds a Layers lab: click objects in any image, get each one on its…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T22:06:27+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open source"
+      ],
+      "confidence": 0.6,
+      "score": 37,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "0a0306625539f1da",
       "title": "ricursiveAI/Ripple-65B-Preview · Hugging Face",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xnx3cs/ricursiveairipple65bpreview_hugging_face",
@@ -2261,6 +2756,29 @@
         "detail": "Hugging Face 上发布了一篇关于 Phonon TTS 的研究论文介绍，称其能实现高质量的端侧语音合成，并在基准测试中取得领先成绩。原文未提供摘要，具体技术细节和评测数据尚不明确。",
         "generatedAt": "2026-11-05T19:39:55+08:00"
       }
+    },
+    {
+      "id": "f878f869f6d9dd96",
+      "title": "My first experience with agentic AI",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xohbd3/my_first_experience_with_agentic_ai",
+      "summary": "Strata, Hermes, Kitten TTS with Rosie voice and Whisper on RTX 3060 with 48 gb dram running Qwen3.8-Flash-Next Q2_0. I am blown away. I've been following the AI scene since GPT3 and I was still unprepared for what this setup is capable of. …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T20:23:36+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "52e71db1694d8237",
@@ -2665,6 +3183,31 @@
       }
     },
     {
+      "id": "e2155931c4c5c572",
+      "title": "Pro+ plan zapped all my third party model credits in one question lol",
+      "url": "https://reddit.com/r/cursor/comments/1xodiqs/pro_plan_zapped_all_my_third_party_model_credits",
+      "summary": "I asked claude to come up with a plan to port a rather small android app to iphone, and it did that. it hit 100% like halfway through and kept going, and finished the request.. almost like it knew I was being ripped off. And after it was co…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T16:30:56+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "44e59e6a26813ff6",
       "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
       "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
@@ -2740,6 +3283,102 @@
       "pushed": false
     },
     {
+      "id": "bbb3c5f7c06745fe",
+      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "url": "https://wired.com/story/aina-smart-ring",
+      "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T22:00:00+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e63b8d0c30c61c41",
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "url": "https://wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work",
+      "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T21:00:00+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b007a2cf57fa2013",
+      "title": "ok what the DUCK is this",
+      "url": "https://reddit.com/r/cursor/comments/1xo96we/ok_what_the_duck_is_this",
+      "summary": "what happened to the $20 plan? It's not what it used to be. they ruined cursor submitted by /u/EzPaye [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T12:09:10+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9899bf0312007ed7",
+      "title": "Over two weeks without a human response to a billing issue. What are customers supposed to do?",
+      "url": "https://reddit.com/r/cursor/comments/1xo66sk/over_two_weeks_without_a_human_response_to_a",
+      "summary": "I accidentally changed my Cursor subscription and contacted support that same day to ask them to undo it. I was told the case had been escalated and that someone would review it in 3–4 days. It’s now been over two weeks. I’ve provided my bi…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T09:39:26+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "8f18df7202e65b86",
       "title": "实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点",
       "url": "https://ifanr.com/1687733",
@@ -2784,6 +3423,79 @@
       ],
       "confidence": 1,
       "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4513cd1ca7d87aeb",
+      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market",
+      "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T20:00:41+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "debut"
+      ],
+      "confidence": 1,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "35aa0f6dd5885578",
+      "title": "AI’s Next Trick? Speaking Dolphin",
+      "url": "https://wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin",
+      "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T20:00:00+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "founder"
+      ],
+      "confidence": 1,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d2f0ae02a39a2fef",
+      "title": "Quantization livestream with goats of inference",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference",
+      "summary": "Hey folks, it's Merve from Hugging Face. Title of this post is super self explanatory, we are doing a quantization workshop livestream with Michael Goin (lead maintainer of vLLM at RedHat), Colin Kealty (aka bartowski at RedHat), Maxime Lab…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T19:46:10+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 31,
       "related": [],
       "pushed": false
     },
@@ -2972,6 +3684,82 @@
       "pushed": false
     },
     {
+      "id": "46fb51800be9c67a",
+      "title": "[Hardware] Is a AMD 395+ AI with 128 GB RAM still good choice for local LLMs? (inference mostly)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xolh19/hardware_is_a_amd_395_ai_with_128_gb_ram_still",
+      "summary": "Hello everyone! I don’t follow the market super closely, but I can see how quickly everything is getting more expensive—and apparently this is going to last a few more years. RAM, GPUs, and even SSDs and HDDs have skyrocketed in price :D I’…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T23:25:34+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs",
+        "AMD"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ba7d62da515ceeee",
+      "title": "How to fix response style in agentic mode?",
+      "url": "https://reddit.com/r/cursor/comments/1xoc44u/how_to_fix_response_style_in_agentic_mode",
+      "summary": "I have a problem that is hard to describe. In short, in agentic mode AI answers gibberish, and in IDE mode not. It doesn't depend on the model type. I've tried various rules to change that but I can't figure out how to fix it. In agentic mo…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T14:58:35+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f23486e38b24a46f",
+      "title": "I checked which social media schedulers actually work with AI agents (Buffer, Later, Postiz, OmniSocials)",
+      "url": "https://reddit.com/r/cursor/comments/1xnx11z/i_checked_which_social_media_schedulers_actually",
+      "summary": "submitted by /u/kondasviktor [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T03:13:57+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "96eddcc208ed19b8",
       "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
       "url": "https://ricursive.com/ripple",
@@ -3042,6 +3830,29 @@
       "confidence": 1,
       "score": 29,
       "paperRank": 18,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0cf817ca71dbc1b7",
+      "title": "Tiiny AI Performance tests. I just got my Tiiny, and here's what it can do.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xoib84/tiiny_ai_performance_tests_i_just_got_my_tiiny",
+      "summary": "I got into local AI earlier this year and started messing around with different models and hardware. That's how I came across tiiny. I really liked the design and the whole idea behind it so I ended up becoming one of the early backers. Aft…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T21:13:11+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
       "related": [],
       "pushed": false
     },

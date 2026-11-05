@@ -1,7 +1,405 @@
 {
   "date": "2026-11-06",
-  "updatedAt": "2026-11-05T19:39:59+08:00",
+  "updatedAt": "2026-11-06T03:06:22+08:00",
   "items": [
+    {
+      "id": "003a6dd08e360129",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+      "summary": "",
+      "source": {
+        "id": "deepmind",
+        "name": "Google DeepMind",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T01:05:16+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gemini Omni 1.2 Flash 发布：更快更省，支持更长视频片段",
+        "takeaway": "Google DeepMind 推出轻量模型更新，主打速度与成本，并延长视频处理时长。",
+        "bullets": [
+          "Gemini Omni 1.2 Flash 是 Google DeepMind 的新模型版本",
+          "强调快速和成本效益，适合大规模部署",
+          "支持更长的视频片段处理"
+        ],
+        "detail": "Google DeepMind 发布了 Gemini Omni 1.2 Flash，这是该系列的一个新版本。官方称其在保持快速和低成本的同时，能够处理更长的视频片段。目前没有更多技术细节公布。",
+        "generatedAt": "2026-11-06T03:06:06+08:00"
+      }
+    },
+    {
+      "id": "4b216c6625249c32",
+      "title": "Claude AI can plug directly into your bank account",
+      "url": "https://theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"wher…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T02:00:00+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0.5,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude 接入银行账户，可代管个人财务",
+        "takeaway": "Anthropic 推出个人财务功能，让 Claude 通过 Plaid 连接银行和信用卡账户，直接帮你查账理财。",
+        "bullets": [
+          "Claude 新增个人财务功能，可连接银行与信用卡账户",
+          "连接通过 Plaid 银行桥接平台完成，用户可向 Claude 提问账户情况",
+          "这是 Anthropic 在个人理财场景的新尝试，涉及敏感金融数据"
+        ],
+        "detail": "Anthropic 为 Claude 推出个人财务功能，借助 Plaid 平台把聊天机器人接入用户的银行和信用卡账户。用户可以直接问 Claude 账户相关问题，由它来帮忙管理个人财务。",
+        "generatedAt": "2026-11-06T03:06:08+08:00"
+      }
+    },
+    {
+      "id": "44341b90f2279fe7",
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "url": "https://theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T01:00:00+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 0.5,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 推出 GPT-6 Cyber 安全模型，强调更守规矩",
+        "takeaway": "OpenAI 发布新版网络安全 AI，称其找漏洞更强、越界攻击他家的风险更低。",
+        "bullets": [
+          "OpenAI 发布 GPT-6 Cyber，主打漏洞发现能力提升",
+          "官方称测试中该模型更少出现越界攻击其他平台的行为",
+          "面向网络安全场景，强调能力与安全边界的平衡"
+        ],
+        "detail": "OpenAI 推出网络安全专用模型 GPT-6 Cyber，称其在发现漏洞方面更强，同时在测试中更不容易“跑偏”去攻击其他平台。官方强调，新版本在提升攻防能力的同时，也收紧了对越界行为的控制。",
+        "generatedAt": "2026-11-06T03:06:08+08:00"
+      }
+    },
+    {
+      "id": "bf46c639d5b9296e",
+      "title": "I got tired of AI coding agents breaking my workspace and hanging on occupied ports, so I built an open-source \"Flight Recorder & Doctor\" MCP server: agent-blackbox-mcp",
+      "url": "https://reddit.com/r/cursor/comments/1xoooah/i_got_tired_of_ai_coding_agents_breaking_my",
+      "summary": "Hey everyone! 👋 If you use Claude Desktop, Cursor, or autonomous agents that run terminal commands, you’ve probably experienced this frustrating loop: The agent modifies or wipes working files, and git doesn't help with scratch files or un…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T01:28:44+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开发者推出开源 MCP 服务器，为 AI 编码代理装“黑匣子”",
+        "takeaway": "针对 AI 代理改坏文件、卡死端口的问题，有人做了个开源工具来记录和诊断。",
+        "bullets": [
+          "项目名为 agent-blackbox-mcp，是开源 MCP 服务器",
+          "面向 Claude Desktop、Cursor 等能跑终端命令的代理",
+          "解决代理改坏工作区文件、git 无法恢复临时文件的问题",
+          "还能诊断代理卡在已占用端口上的情况"
+        ],
+        "detail": "作者在使用 Claude Desktop、Cursor 等能执行终端命令的 AI 代理时，常遇到代理改坏甚至清空工作文件、卡在被占用端口上的循环。由于 git 对临时文件无能为力，他开发了开源 MCP 服务器 agent-blackbox-mcp，充当“飞行记录仪与医生”，用于记录代理操作并辅助诊断问题。",
+        "generatedAt": "2026-11-06T03:06:10+08:00"
+      }
+    },
+    {
+      "id": "cfd1704d56b5f495",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027",
+      "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T02:02:27+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO"
+      ],
+      "confidence": 0.8,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI总裁称公司或于2027年具备IPO条件",
+        "takeaway": "OpenAI总裁Brockman透露2027年可能准备好上市，企业收入加速增长是底气。",
+        "bullets": [
+          "Brockman称OpenAI可能在2027年准备好IPO",
+          "企业收入加速增长，业务出现好转",
+          "上市计划尚属表态，未公布具体安排"
+        ],
+        "detail": "OpenAI总裁格雷格·布罗克曼表示，公司可能在2027年做好上市准备。他提到企业收入正在加速增长，业务也出现好转，这为IPO前景提供了支撑。",
+        "generatedAt": "2026-11-06T03:06:12+08:00"
+      }
+    },
+    {
+      "id": "7b187a5bdc286419",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool",
+      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T02:00:00+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users",
+        "tool"
+      ],
+      "confidence": 0.33,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude 推出个人财务工具，可分析你的消费",
+        "takeaway": "Anthropic 为 Claude 新增个人财务功能，用户可连接银行账户并提问消费情况。",
+        "bullets": [
+          "通过 Plaid 连接银行和信用卡账户",
+          "用户可向 Claude 提问个人财务问题",
+          "面向个人消费分析场景，拓展 AI 助手用途"
+        ],
+        "detail": "Claude 上线个人财务工具，用户借助 Plaid 将银行和信用卡账户接入后，就能直接向 Claude 询问自己的财务状况。这意味着 AI 助手开始涉足个人理财分析场景。",
+        "generatedAt": "2026-11-06T03:06:12+08:00"
+      }
+    },
+    {
+      "id": "2290f2160696d317",
+      "title": "DeepSeek-V4.1-Flash-1017 on one RTX 3090: Big updates to the Delta Inference Engine v0.93. Same 41 tok/s at 192GB/IQ2 at better quality, usable from 64 GB RAM, first token ~40% sooner, new Unsloth quants at full speed, EXL3, basic multi-GPU, public CI and more",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates",
+      "summary": "Big update to the Delta Inference Engine, you guys asked for more features, more benchmarks and less clickbait. I'm here to deliver The short version: I've added almost everything requested and more. Delta Inference Engine now supports 64/9…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T02:23:22+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features",
+        "update",
+        "updates"
+      ],
+      "confidence": 0,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Delta 推理引擎 v0.93：单张 RTX 3090 跑 DeepSeek-V4.1-Flash-1017",
+        "takeaway": "个人显卡也能跑大模型，新版引擎在画质、速度和内存占用上都有改进。",
+        "bullets": [
+          "单张 RTX 3090 上实现 41 tok/s，192GB/IQ2 量化下质量更好",
+          "最低 64GB 内存即可运行，首个 token 生成速度提升约 40%",
+          "新增 Unsloth 量化全速支持、EXL3、基础多 GPU 和公开 CI"
+        ],
+        "detail": "Delta 推理引擎发布 v0.93 大更新，回应社区需求增加了多项功能与基准测试。新版在单张 RTX 3090 上运行 DeepSeek-V4.1-Flash-1017 时，保持 41 tok/s 的速度，同时提升 192GB/IQ2 量化下的输出质量，并降低内存门槛至 64GB，首 token 延迟减少约 40%。",
+        "generatedAt": "2026-11-06T03:06:12+08:00"
+      }
+    },
+    {
+      "id": "87e6cbc6b0ad288a",
+      "title": "Cursor AI has become highly stupid, repetitive, filled with errors and utterly garbage type of design making with latest Grok changes.",
+      "url": "https://reddit.com/r/cursor/comments/1xonunk/cursor_ai_has_become_highly_stupid_repetitive",
+      "summary": "I've been Cursor user since 1 year from now, manage to get 3 big projects thanks to it, but currently making some web landing design changes or others, it has become a highly stupid, retarded, and lets not talk about narrative and writing, …",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T24:57:50+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "老用户吐槽 Cursor 变笨：Grok 更新后错误频出",
+        "takeaway": "一年老用户称 Cursor 近期质量下滑，设计任务重复出错，引发社区共鸣。",
+        "bullets": [
+          "用户使用 Cursor 一年，靠它完成三个大项目",
+          "近期做网页落地页设计时，AI 输出重复且错误多",
+          "用户将问题归因于最新的 Grok 相关改动",
+          "抱怨文案和叙述质量也明显下降"
+        ],
+        "detail": "一位用了一年 Cursor 的老用户表示，自己靠它拿下过三个大项目，但最近做网页落地页设计等任务时，Cursor 变得很笨、重复、错误频出，文案写作质量也下滑。他把问题指向最新的 Grok 相关改动。",
+        "generatedAt": "2026-11-06T03:06:14+08:00"
+      }
+    },
+    {
+      "id": "a231f12f9906a671",
+      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "url": "https://theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's fir…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T01:51:52+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "民主党中期选举大胜，AI监管风向或生变",
+        "takeaway": "民主党掌控国会两院，可能推动AI立法与监管，影响科技行业走向。",
+        "bullets": [
+          "民主党拿下众议院和参议院控制权",
+          "传统红州和摇摆州翻蓝，佐治亚选出首位黑人女州长",
+          "国会控制权更迭或改变AI监管立法节奏"
+        ],
+        "detail": "周二晚，民主党创造历史，夺得众议院和参议院控制权，蓝色浪潮席卷传统红州和摇摆州，佐治亚州选出全国首位黑人女州长。这一政治格局变化可能影响未来AI监管立法方向。",
+        "generatedAt": "2026-11-06T03:06:16+08:00"
+      }
+    },
+    {
+      "id": "37e23ca10f7e7abf",
+      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+      "url": "https://theverge.com/entertainment/1026282/grimes-ai-movie",
+      "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a notable test case for the comme…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T01:00:00+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Grimes 加盟 AI 生成科幻电影，将登陆院线",
+        "takeaway": "AI 生成电影《Gods Don't Give Gifts》邀 Grimes 出演，号称首部院线 AI 电影，成行业试金石。",
+        "bullets": [
+          "Grimes 将出演 AI 生成科幻片《Gods Don't Give Gifts》。",
+          "该片号称首部登陆院线的 AI 电影，引发关注。",
+          "此举被视为 AI 电影商业化的重要测试案例。"
+        ],
+        "detail": "AI 生成的科幻电影《Gods Don't Give Gifts》宣布流行歌手 Grimes 将参演。该片自称是首部进入院线的 AI 电影，因此成为检验 AI 电影商业可行性的重要案例。",
+        "generatedAt": "2026-11-06T03:06:16+08:00"
+      }
+    },
+    {
+      "id": "4051eda06776c72c",
+      "title": "Muse has a voice mode now",
+      "url": "https://theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with yo…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T03:03:04+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "feature",
+        "app"
+      ],
+      "confidence": 0.5,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 为 Muse AI 代理推出实时语音对话模式",
+        "takeaway": "Meta 的 Muse AI 代理新增实时语音功能，扎克伯格亲自宣布，已在 iOS 应用上线。",
+        "bullets": [
+          "Meta CEO 扎克伯格宣布 Muse AI 代理支持实时语音对话",
+          "该功能已向部分用户开放，可在 iOS 应用中使用",
+          "用户能与 AI 进行更自然的语音交互，提升使用体验"
+        ],
+        "detail": "Meta 首席执行官马克·扎克伯格今日宣布，Muse AI 代理现已支持实时语音对话。该功能已向部分用户推送，The Verge 编辑在 iOS 应用上进行了体验。用户在与 AI 聊天时，可以通过语音进行更自然的互动。",
+        "generatedAt": "2026-11-06T03:06:18+08:00"
+      }
+    },
     {
       "id": "e9432e6f277323d5",
       "title": "模型之外，腾讯还在补什么？",
@@ -37,6 +435,174 @@
       }
     },
     {
+      "id": "d8471b7e1fca6684",
+      "title": "Quoting Paul Ford",
+      "url": "https://simonwillison.net/2026/Nov/5/paul-ford",
+      "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . &mdash; Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford , web-development",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T01:34:03+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Paul Ford：浏览器能力极强，使用门槛持续降低",
+        "takeaway": "Paul Ford 认为浏览器作为应用平台非常强大，且获取其能力的成本正逐日下降。",
+        "bullets": [
+          "Paul Ford 称浏览器是功能极强的应用软件",
+          "使用浏览器能力的成本似乎每天都在降低",
+          "观点出自其文章《The Web Is More Than Enough》"
+        ],
+        "detail": "Paul Ford 在文章《The Web Is More Than Enough》中表示，网页浏览器作为应用平台非常强大，而获取这种能力的成本似乎每天都在下降。这一观点强调了 Web 平台在应用开发中的价值与易用性提升。",
+        "generatedAt": "2026-11-06T03:06:20+08:00"
+      }
+    },
+    {
+      "id": "2846e03446f423d7",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics",
+      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T24:16:45+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Axiom Math 用 AI 验证数学证明，防止 AI 垃圾污染数学",
+        "takeaway": "AI 生成数学证明泛滥，Axiom Math 以形式化验证确保正确性，并成功验证了 Stacks Project。",
+        "bullets": [
+          "Axiom Math 的 AI 代理形式化验证了 Stacks Project，这是数学领域最大的库之一。",
+          "该公司旨在应对 AI 生成未经检查的证明带来的问题。",
+          "这有助于维护数学证明的可靠性，防止 AI 垃圾内容。"
+        ],
+        "detail": "随着 AI 大量生成未经检查的数学证明，Axiom Math 押注于验证。这家初创公司的 AI 代理刚刚形式化验证了 Stacks Project，这是该领域最大的库之一。",
+        "generatedAt": "2026-11-06T03:06:20+08:00"
+      }
+    },
+    {
+      "id": "bd7b5fc297108a05",
+      "title": "[Paper] SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding - By Qwen",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xoo0pp/paper_specopd_branchparallel_onpolicy",
+      "summary": "Speculative decoding (SD) accelerates large language model inference by reducing the sequential cost of token-by-token generation. Advanced SD methods reduce proposal cost with parallel drafters that predict entire blocks in one forward pas…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T01:03:58+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "paper"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e019729d59ad3dab",
+      "title": "[GUIDE] Qwen3.8 Flash-Next on a single RTX 5080 + 64GB RAM: >250 tok/s tg and 5700 tok/s prefill in real agent coding sessions (Basalt + new Unsloth UD-IQ3_XXS + Lamina drafter),+ how it compares to llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xomy0i/guide_qwen38_flashnext_on_a_single_rtx_5080_64gb",
+      "summary": "TL;DR Basalt is the engine and it's doing the heavy lifting. Same model file, same box: about 3.5x llama.cpp's decode without drafting and ~5x with it, and ~7x faster prompt reads . Unsloth's new UD-IQ3_XXS (Dynamic v3.1, uploaded Nov 4) is…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T24:23:15+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "98cb596c31776482",
+      "title": "Add support for the xing4_0 by shuxiaoqiong · Pull Request #31589 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xoqc59/add_support_for_the_xing4_0_by_shuxiaoqiong_pull",
+      "summary": "Xing4.0-29B-A4B is a next-generation large language model in the Xing series (formerly TeleChat ), developed by China Telecom Artificial Intelligence Technology Co., Ltd. With 29B total parameters and only 4B activated per token, it nativel…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T02:30:55+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 0.25,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "629628b52c4009b3",
+      "title": "Cursor making audio sounds every 5 seconds",
+      "url": "https://reddit.com/r/cursor/comments/1xoo4xw/cursor_making_audio_sounds_every_5_seconds",
+      "summary": "With the latest update to Cursor (Version: 3.29.9) the app now making a sound like marbles tapping into each other five seconds while it works. It's annoying. How do I turn that off? There's nothing in the help file about this. submitted by…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T01:08:31+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "408ba1617bda60c6",
       "title": "PHP 修复了两处已遭到攻击的严重远程代码执行漏洞",
       "url": "https://infoq.cn/article/qUEjcWbwOj5RO59250Lu",
@@ -69,6 +635,107 @@
         "detail": "PHP 官方修复了两个严重的远程代码执行漏洞，且这两个漏洞已经遭到实际攻击。远程代码执行意味着攻击者可能直接控制服务器，风险极高。使用 PHP 的网站和系统应尽快升级到修复版本。",
         "generatedAt": "2026-11-05T19:39:56+08:00"
       }
+    },
+    {
+      "id": "b5323f65c52d2cb7",
+      "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
+      "url": "https://wired.com/story/wired-world-fair-2026-alexis-ohanian",
+      "summary": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T24:26:57+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "founder",
+        "says"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "69c3ac3a4127111b",
+      "title": "印度金融机构遭黑客利用 AI 工具发动的网络攻击",
+      "url": "https://solidot.org/story?sid=85809",
+      "summary": "印度计算机应急响应小组（CERT-In）星期三发布安全通报，被称为“狡猾猎鹰”（Crafty Falcon）的黑客组织，已入侵非银行贷款机构、金融科技公司及加密货币交易所。攻击者利用公开可用的 AI 工具，实现高速自动化入侵。印度计算机应急响应小组形容这项威胁“仍在发生，且持续活跃”。该机构点名四款用于入侵的工具，分别是 ARTEX、PentAGI、Cairn 和 CyberStrikeAI。ARTEX 此前曾被用于攻击韩国银行。印度计算机应急响应小组没有说明这些攻击事件由谁…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T24:53:00+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ca6d250f780b67b3",
+      "title": "[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Performance-Cost Pareto Frontier",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon",
+      "summary": "We introduce FireFlash , a 300B-scale model tailored for long-horizon agentic tasks. FireFlash excels as a terminal and coding agent, achieving 46.2% on Terminal-Bench 4.0 1 , putting it on par with Fable 5 and GPT-6 Sol, while costing over…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T24:17:42+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "paper"
+      ],
+      "confidence": 0.75,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7d508421875174da",
+      "title": "I am EU Citizen and here are my rights",
+      "url": "https://reddit.com/r/cursor/comments/1xoox48/i_am_eu_citizen_and_here_are_my_rights",
+      "summary": "Cursor is committing one breach of contract after another. EU Directive on Digital Content (Directive (EU) 2019/770): The provider is obligated to supply the software as agreed. If features are unilaterally removed or the service deviates f…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T01:37:55+08:00",
+      "fetchedAt": "2026-11-06T03:05:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
