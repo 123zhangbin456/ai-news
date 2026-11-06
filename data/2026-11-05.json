@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "updatedAt": "2026-11-06T03:06:22+08:00",
+  "updatedAt": "2026-11-06T09:19:02+08:00",
   "items": [
     {
       "id": "5978e168ee564d91",
@@ -107,7 +107,7 @@
       "confidence": 1,
       "score": 62,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI 发布 GPT-6 Cyber：专注漏洞发现与修复的安全模型",
         "takeaway": "OpenAI 推出面向网络安全的新模型，能找漏洞并开发修复方案，且训练时强调在授权范围内行动。",
@@ -118,7 +118,8 @@
         ],
         "detail": "OpenAI 推出 GPT-6 Cyber，这是一款网络安全模型，主要能力是找出可被利用的漏洞并帮助开发修复方案。该模型在训练中特别强调遵守授权范围，避免越权操作。",
         "generatedAt": "2026-11-06T03:06:06+08:00"
-      }
+      },
+      "pushedAt": "2026-11-06T09:19:02+08:00"
     },
     {
       "id": "2cf2b8bdbf4f0463",
@@ -143,7 +144,7 @@
       "confidence": 1,
       "score": 61,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "开源项目PipesHub登顶EnterpriseRAG-Bench，超越OpenAI等巨头",
         "takeaway": "开源RAG项目PipesHub在企业级基准测试中排名第一，领先OpenAI、谷歌、微软和亚马逊的官方系统。",
@@ -154,7 +155,8 @@
         ],
         "detail": "开源项目PipesHub在EnterpriseRAG-Bench基准测试中综合得分排名第一，超过了OpenAI、谷歌、微软和亚马逊的官方系统。此前该团队在FRAMES测试中对比了18种RAG流程，其agent loop得分92.7%，而最佳流程仅78.9%。",
         "generatedAt": "2026-11-06T03:06:06+08:00"
-      }
+      },
+      "pushedAt": "2026-11-06T09:19:02+08:00"
     },
     {
       "id": "57cbc4a0ab017171",
@@ -264,6 +266,44 @@
         ],
         "detail": "安世半导体作为闻泰科技的子公司，却将母公司告上法庭，索赔金额高达134亿元。闻泰科技对此强硬回击，具体纠纷细节尚未披露。这起罕见的“子告母”事件引发市场关注。",
         "generatedAt": "2026-11-05T19:39:47+08:00"
+      }
+    },
+    {
+      "id": "300d91101f21ec1d",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T16:00:00+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "product",
+        "tools",
+        "updates"
+      ],
+      "confidence": 0.7,
+      "score": 58,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Merge 用 OpenAI 技术打通产品与业务工具",
+        "takeaway": "Merge 借助 GPT-6 Astra、ChatGPT 和 Codex 同时服务产品代码审查与营销工作，展示 AI 跨部门落地。",
+        "bullets": [
+          "Merge 用 GPT-6 Astra、ChatGPT 和 Codex 审查产品代码",
+          "同一套 AI 工具还用于支持营销工作",
+          "团队用 AI 规划高管晚宴、准备销售更新"
+        ],
+        "detail": "Merge 把 OpenAI 的 GPT-6 Astra、ChatGPT 和 Codex 引入日常工作：既用来审查产品代码，也用来支持营销。此外，团队还借助 AI 规划高管晚宴、准备销售更新，覆盖产品与业务多个环节。",
+        "generatedAt": "2026-11-06T09:18:43+08:00"
       }
     },
     {
@@ -449,6 +489,43 @@
         "detail": "Box 推出了一个以智能体为核心的新内容检索系统，底层采用英伟达的 Nemotron 模型。据称，该系统能将查询响应速度提升至原来的四倍，同时错误率下降 20%，并且 token 消耗量大幅减少 90%。",
         "generatedAt": "2026-11-06T03:06:08+08:00"
       }
+    },
+    {
+      "id": "5d176638f112cbdf",
+      "title": "Build Live Apps in Cursor",
+      "url": "https://cursor.com/changelog/build-live-apps",
+      "summary": "Build and deploy web apps directly in Cursor with cloud agents handling hosting, database, auth, and deployment.",
+      "source": {
+        "id": "cursor-changelog",
+        "name": "Cursor Changelog",
+        "weight": 5,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T08:00:00+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 53,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Cursor 推出实时应用构建功能",
+        "takeaway": "Cursor 新增云代理，可直接构建并部署 Web 应用，集成托管、数据库、认证和部署。",
+        "bullets": [
+          "云代理处理托管、数据库、认证和部署",
+          "用户可在 Cursor 内直接构建和部署 Web 应用",
+          "简化开发流程，降低运维复杂度"
+        ],
+        "detail": "Cursor 更新日志宣布，用户现在可以在 Cursor 中直接构建和部署 Web 应用。云代理负责处理托管、数据库、认证和部署等后端任务，让开发者更专注于编码。",
+        "generatedAt": "2026-11-06T09:18:43+08:00"
+      },
+      "pushedAt": "2026-11-06T09:19:02+08:00"
     },
     {
       "id": "aecc9a23fd3ca859",
@@ -1164,7 +1241,7 @@
       "confidence": 1,
       "score": 46,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Cursor 用户反馈 Grok 模型回复粗鲁且拒绝处理请求",
         "takeaway": "有用户称在 Cursor 中使用 Grok 时遭遇异常粗鲁回复和拒绝处理请求，此前未遇。",
@@ -1175,7 +1252,8 @@
         ],
         "detail": "一位 Cursor 用户在 Reddit 发帖称，使用 Grok 模型时遇到奇怪对话：机器拒绝处理一个正常请求，并以有些粗鲁的方式回复。该用户表示以前从未发生过这种情况。",
         "generatedAt": "2026-11-06T03:06:14+08:00"
-      }
+      },
+      "pushedAt": "2026-11-06T09:19:02+08:00"
     },
     {
       "id": "472484bded0ab565",
@@ -1423,6 +1501,42 @@
         ],
         "detail": "百度官方发布预热海报，透露李彦宏将在11月12日百度世界2026开幕式演讲。海报提出三个关于智能组织的问题，结合大会主题“下一幕，智能组织”，演讲可能分享组织进化趋势及企业AI转型建议。",
         "generatedAt": "2026-11-05T19:39:51+08:00"
+      }
+    },
+    {
+      "id": "c0d7b0808284d182",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "url": "https://openai.com/index/franklin-templeton",
+      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T08:00:00+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "investment"
+      ],
+      "confidence": 0.67,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "富兰克林邓普顿用OpenAI开发投资研究AI工作流",
+        "takeaway": "资管巨头富兰克林邓普顿与OpenAI合作，从股票研究切入，用AI辅助投资研究，提升效率。",
+        "bullets": [
+          "富兰克林邓普顿正在开发AI工作流，帮助投资经理比较研究观点、审视投资风险。",
+          "合作从股票研究开始，未来可能扩展到更多投资领域。",
+          "这显示生成式AI在金融投资研究中的应用正在落地。"
+        ],
+        "detail": "富兰克林邓普顿正与OpenAI合作，开发AI工作流以支持投资研究。初期聚焦股票研究，帮助投资组合经理比较不同研究观点并审查投资风险。此举旨在利用AI提升研究效率。",
+        "generatedAt": "2026-11-06T09:18:49+08:00"
       }
     },
     {
@@ -2219,6 +2333,43 @@
       "score": 40,
       "related": [],
       "pushed": false
+    },
+    {
+      "id": "1f9981de57006417",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-05T08:45:15+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "product",
+        "ads"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Flipsnack 借 ChatGPT 广告优化转化，注册量增长",
+        "takeaway": "Flipsnack 通过聚焦产品试用优化 ChatGPT 广告，实现注册增长并降低单注册成本。",
+        "bullets": [
+          "Flipsnack 将 ChatGPT 广告活动目标定为引导用户试用产品。",
+          "注册量增长的同时，单次注册成本有所下降。",
+          "案例来自 OpenAI，展示 ChatGPT 广告的转化优化效果。"
+        ],
+        "detail": "Flipsnack 把 ChatGPT 广告活动的重点放在吸引用户试用产品上，结果注册量实现增长，同时每次注册的成本有所降低。这一案例由 OpenAI 分享，体现了转化优化在广告投放中的作用。",
+        "generatedAt": "2026-11-06T09:18:52+08:00"
+      }
     },
     {
       "id": "42db10ec9623630b",

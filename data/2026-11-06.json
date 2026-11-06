@@ -1,7 +1,44 @@
 {
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T04:25:20+08:00",
+  "updatedAt": "2026-11-06T09:19:02+08:00",
   "items": [
+    {
+      "id": "b9afbb2661b640b5",
+      "title": "Perplexity launches its own take on AI agents for work",
+      "url": "https://theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T06:26:50+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launches"
+      ],
+      "confidence": 1,
+      "score": 67,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Perplexity 推出常驻 AI 同事，进军工作场景智能体",
+        "takeaway": "Perplexity 发布面向工作的 AI 智能体 Teammates，直接对标 OpenAI 和 Anthropic。",
+        "bullets": [
+          "Teammates 是常驻式 AI 智能体，可在工作空间内承担多种角色。",
+          "它能调用 Perplexity 中已有的项目、技能和记忆，延续上下文。",
+          "此举意味着 Perplexity 正式与 OpenAI、Anthropic 争夺企业 AI 市场。"
+        ],
+        "detail": "Perplexity 推出名为 Teammates 的常驻 AI 智能体，主打工作场景。它能在工作空间里扮演多个角色，并自动调用用户已有的项目、技能和记忆。这被视为 Perplexity 对 OpenAI 和 Anthropic 在企业 AI 领域发起的直接挑战。",
+        "generatedAt": "2026-11-06T09:18:43+08:00"
+      },
+      "pushedAt": "2026-11-06T09:19:02+08:00"
+    },
     {
       "id": "003a6dd08e360129",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
@@ -111,6 +148,45 @@
       }
     },
     {
+      "id": "9a7976cb594ada07",
+      "title": "【钛晨报】国务院关于金融工作情况的报告；OpenAI总裁称公司大部分收入已来自企业业务， 预计2027年具备上市条件；国内航线燃油附加费11月5日起上调",
+      "url": "https://tmtpost.com/8195163.html",
+      "summary": "华为发布首个国产化率100%的电脑；芯原股份：在手订单达185.69亿元，预计2027年经调整归母净利润转正；联想集团任命摩托罗拉全球业务新负责人；高通2026财年营收431亿美元，同比下降3%；Arm第二财季营收创纪录，达14.4亿美元，同比增长27%；广电总局重申：扶持真人微短剧，规范AI微短剧；事关初级、中级养老服务师职业资格考试，两部门出台实施办法；工业和信息化部：积极稳妥推进低空装备产业安全发展；上交所召开并购重组专题座谈会，“并购六条”以来沪市新增披露资产重组18…",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T07:20:00+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "并购",
+        "上市",
+        "亿美元",
+        "亿元"
+      ],
+      "confidence": 0.79,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI总裁：企业业务贡献主要收入，预计2027年具备上市条件",
+        "takeaway": "OpenAI透露收入结构转向企业客户，并给出2027年上市预期，反映其商业化加速。",
+        "bullets": [
+          "OpenAI总裁称公司大部分收入已来自企业业务",
+          "预计2027年具备上市条件，但未确认具体IPO时间",
+          "同日华为发布首个国产化率100%的电脑，芯原股份在手订单185.69亿元"
+        ],
+        "detail": "OpenAI总裁表示，公司收入大头已从个人用户转向企业客户，并预计到2027年满足上市条件。同日国内科技动态包括华为推出全国产化电脑、芯原股份披露大额在手订单，以及广电总局规范AI微短剧。",
+        "generatedAt": "2026-11-06T09:18:45+08:00"
+      }
+    },
+    {
       "id": "bf46c639d5b9296e",
       "title": "I got tired of AI coding agents breaking my workspace and hanging on occupied ports, so I built an open-source \"Flight Recorder & Doctor\" MCP server: agent-blackbox-mcp",
       "url": "https://reddit.com/r/cursor/comments/1xoooah/i_got_tired_of_ai_coding_agents_breaking_my",
@@ -133,7 +209,7 @@
       "confidence": 1,
       "score": 51,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "开发者推出开源 MCP 服务器，为 AI 编码代理装“黑匣子”",
         "takeaway": "针对 AI 代理改坏文件、卡死端口的问题，有人做了个开源工具来记录和诊断。",
@@ -145,6 +221,44 @@
         ],
         "detail": "作者在使用 Claude Desktop、Cursor 等能执行终端命令的 AI 代理时，常遇到代理改坏甚至清空工作文件、卡在被占用端口上的循环。由于 git 对临时文件无能为力，他开发了开源 MCP 服务器 agent-blackbox-mcp，充当“飞行记录仪与医生”，用于记录代理操作并辅助诊断问题。",
         "generatedAt": "2026-11-06T03:06:10+08:00"
+      },
+      "pushedAt": "2026-11-06T09:19:02+08:00"
+    },
+    {
+      "id": "54e0059fbe4ebd62",
+      "title": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+      "url": "https://ifanr.com/1688032",
+      "summary": "· 丰田将设立直属机器人部门，由首席生产官兼任负责人 · 三季度全球 DRAM 营收逼近 2000 亿美元，价格上涨是主因 · 鸿蒙电脑累计发货破百万，华为带来政企台式机与企业版 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T08:15:15+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "GPT"
+      ],
+      "confidence": 0.7,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GPT-6 Cyber发布：复现1724项漏洞，AI安全能力引关注",
+        "takeaway": "GPT-6 Cyber发布，能复现1724项漏洞，AI在安全领域的攻防能力再进一步。",
+        "bullets": [
+          "GPT-6 Cyber发布，宣称可复现1724项漏洞",
+          "与AI安全测试和漏洞挖掘场景直接相关",
+          "可能影响安全研究流程与漏洞披露节奏"
+        ],
+        "detail": "GPT-6 Cyber 正式发布，官方称其能复现 1724 项漏洞。这意味着 AI 在漏洞发现与验证环节的能力进一步增强，安全团队和攻击方都可能因此改变工作方式。",
+        "generatedAt": "2026-11-06T09:18:45+08:00"
       }
     },
     {
@@ -255,6 +369,114 @@
       }
     },
     {
+      "id": "b53db0f7184a4acc",
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "url": "https://theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-di…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T08:37:56+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 承诺数据中心项目不再使用保密协议",
+        "takeaway": "中期选举后选民反对数据中心扩张，OpenAI 调整社区沟通策略。",
+        "bullets": [
+          "OpenAI 宣布数据中心项目不再使用保密协议",
+          "背景是中期选举选民强烈反对数据中心扩张",
+          "新承诺面向项目所在社区，涉及沟通透明度"
+        ],
+        "detail": "本周中期选举中，选民明确反对数据中心扩张。OpenAI 随后宣布对数据中心项目所在社区作出新承诺，其中包括不再使用保密协议（NDA），以回应社区关切。",
+        "generatedAt": "2026-11-06T09:18:45+08:00"
+      }
+    },
+    {
+      "id": "56b7bacf1dd0d65a",
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable",
+      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T05:40:36+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌：学校可不用Gemini，但AI搜索不可回避",
+        "takeaway": "谷歌给学校选择权，但AI搜索仍强制，引发教育界争议。",
+        "bullets": [
+          "学校可保留传统搜索，但需接受AI搜索功能。",
+          "Gemini可跳过，但AI搜索无法关闭。",
+          "谷歌称提供更多选择，实际限制学校自主权。"
+        ],
+        "detail": "谷歌表示学校可以继续使用传统搜索而跳过Gemini，但AI搜索功能无法关闭。这看似给了学校选择，实则并非学校真正想要的选项。",
+        "generatedAt": "2026-11-06T09:18:47+08:00"
+      }
+    },
+    {
+      "id": "1eac7fe42e873b21",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027",
+      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T06:40:55+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Airbnb宣布2027年上半年推出AI旅行管家",
+        "takeaway": "Airbnb计划用AI代理覆盖行程规划到入住协助，旅行平台竞争转向智能服务。",
+        "bullets": [
+          "Airbnb称AI代理将于2027年上半年上线",
+          "功能包括规划行程、比价、管理预订和入住协助",
+          "此举意味着Airbnb从房源平台向旅行服务延伸"
+        ],
+        "detail": "Airbnb宣布将在2027年上半年推出AI旅行代理，帮助旅客规划行程、比较选项、管理预订，并在入住期间提供协助。目前尚未公布具体技术细节和定价。",
+        "generatedAt": "2026-11-06T09:18:47+08:00"
+      }
+    },
+    {
       "id": "2290f2160696d317",
       "title": "DeepSeek-V4.1-Flash-1017 on one RTX 3090: Big updates to the Delta Inference Engine v0.93. Same 41 tok/s at 192GB/IQ2 at better quality, usable from 64 GB RAM, first token ~40% sooner, new Unsloth quants at full speed, EXL3, basic multi-GPU, public CI and more",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates",
@@ -329,6 +551,42 @@
       }
     },
     {
+      "id": "0f93f9540dbc64ad",
+      "title": "当 Coding Agent 走进研发团队：我们打造并开源了自进化研发平台 LoopForge",
+      "url": "https://infoq.cn/article/QGaIWSgd9uwx2WGw0yFv",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T15:14:48+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "LoopForge：开源自进化研发平台，让 Coding Agent 融入研发团队",
+        "takeaway": "InfoQ 介绍团队自研并开源的 LoopForge，探索 Coding Agent 在真实研发流程中如何自我进化。",
+        "bullets": [
+          "团队打造并开源自进化研发平台 LoopForge",
+          "聚焦 Coding Agent 落地研发团队的实践",
+          "面向开源社区，可供研发团队参考复用"
+        ],
+        "detail": "InfoQ 中国分享了团队自研并开源的研发平台 LoopForge，主题是 Coding Agent 进入研发团队后的落地方式。平台强调“自进化”，即让 Agent 在研发流程中持续迭代改进。文章为开源项目介绍，具体能力需查看原文。",
+        "generatedAt": "2026-11-06T09:18:47+08:00"
+      }
+    },
+    {
       "id": "87e6cbc6b0ad288a",
       "title": "Cursor AI has become highly stupid, repetitive, filled with errors and utterly garbage type of design making with latest Grok changes.",
       "url": "https://reddit.com/r/cursor/comments/1xonunk/cursor_ai_has_become_highly_stupid_repetitive",
@@ -351,7 +609,7 @@
       "confidence": 1,
       "score": 46,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "老用户吐槽 Cursor 变笨：Grok 更新后错误频出",
         "takeaway": "一年老用户称 Cursor 近期质量下滑，设计任务重复出错，引发社区共鸣。",
@@ -363,7 +621,8 @@
         ],
         "detail": "一位用了一年 Cursor 的老用户表示，自己靠它拿下过三个大项目，但最近做网页落地页设计等任务时，Cursor 变得很笨、重复、错误频出，文案写作质量也下滑。他把问题指向最新的 Grok 相关改动。",
         "generatedAt": "2026-11-06T03:06:14+08:00"
-      }
+      },
+      "pushedAt": "2026-11-06T09:19:02+08:00"
     },
     {
       "id": "3c0e84566a0e25fa",
@@ -438,6 +697,43 @@
       }
     },
     {
+      "id": "b3c78967a13a03ad",
+      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+      "url": "https://wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not",
+      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T05:37:18+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users",
+        "ads"
+      ],
+      "confidence": 0.75,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "聊天机器人广告时代开启：谁在试水，谁在坚守？",
+        "takeaway": "AI聊天机器人行业正探索广告变现，Anthropic坚持Claude无广告，其他玩家竞相试水。",
+        "bullets": [
+          "Anthropic重申Claude不引入广告，与行业趋势形成反差。",
+          "其他AI聊天机器人公司正尝试广告模式，争夺广告主预算。",
+          "行业面临平衡用户体验与广告收入的挑战。"
+        ],
+        "detail": "随着AI聊天机器人普及，行业开始探索广告变现。Anthropic坚持Claude无广告，而其他公司则在尝试引入广告的同时，努力避免激怒用户。这场竞赛将考验各平台在商业化和用户体验间的平衡能力。",
+        "generatedAt": "2026-11-06T09:18:49+08:00"
+      }
+    },
+    {
       "id": "a231f12f9906a671",
       "title": "‘Total repudiation’: The blue wave is about to hit AI",
       "url": "https://theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
@@ -503,6 +799,115 @@
         ],
         "detail": "AI 生成的科幻电影《Gods Don't Give Gifts》宣布流行歌手 Grimes 将参演。该片自称是首部进入院线的 AI 电影，因此成为检验 AI 电影商业可行性的重要案例。",
         "generatedAt": "2026-11-06T03:06:16+08:00"
+      }
+    },
+    {
+      "id": "c88b52d0b21039c7",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T04:00:00+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tools"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cult.fit 借助 Codex 打造运营能力",
+        "takeaway": "印度健身平台 Cult.fit 用 OpenAI Codex 帮各部门建工具、提效率，改变工作方式。",
+        "bullets": [
+          "Cult.fit 将 Codex 用于跨职能团队，辅助构建内部工具。",
+          "目标是加快工作节奏，并改变任务完成方式。",
+          "案例来自 OpenAI，展示 Codex 在企业运营中的落地。"
+        ],
+        "detail": "Cult.fit 正在使用 OpenAI 的 Codex，帮助不同职能的团队开发工具、提升速度，并改变工作推进的方式。这一案例展示了 Codex 在运营场景中的实际应用。",
+        "generatedAt": "2026-11-06T09:18:49+08:00"
+      }
+    },
+    {
+      "id": "0802c2aa0040da83",
+      "title": "Airbnb is working on an AI travel agent",
+      "url": "https://theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T08:06:12+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Airbnb 计划 2027 上半年推出 AI 旅行代理",
+        "takeaway": "Airbnb 要在 2027 上半年上线 AI 旅行代理，帮用户规划并预订行程，旅行预订入口可能被重塑。",
+        "bullets": [
+          "Airbnb 在 Q3 2026 财报信中公布该计划",
+          "AI 代理将协助用户规划并预订旅行",
+          "目标上线时间为 2027 年上半年",
+          "公司称现有 AI 代理只擅长简单常规任务"
+        ],
+        "detail": "Airbnb 在第三季度财报股东信里透露，计划在 2027 年上半年推出 AI 旅行代理，帮用户规划行程并完成预订。公司同时指出，目前的 AI 代理还只擅长简单、常规的任务，暗示这次要做的产品难度更高。",
+        "generatedAt": "2026-11-06T09:18:50+08:00"
+      }
+    },
+    {
+      "id": "b0ae5318dec9e884",
+      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder",
+      "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T05:39:40+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "lawsuit"
+      ],
+      "confidence": 0.8,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "男子介绍妻子用ChatGPT，妻子竟用它策划谋杀",
+        "takeaway": "一起诉讼称，妻子利用ChatGPT策划毒杀丈夫，引发对AI安全与监管的担忧。",
+        "bullets": [
+          "诉讼指控妻子用ChatGPT策划毒杀丈夫。",
+          "丈夫曾将ChatGPT介绍给妻子使用。",
+          "案件引发对AI工具被滥用的关注。"
+        ],
+        "detail": "一名男子将ChatGPT介绍给妻子后，妻子据称利用该工具策划谋杀丈夫，通过能量饮料下毒。诉讼称ChatGPT在事件中起到指导作用，此案再次引发对AI安全与监管的讨论。",
+        "generatedAt": "2026-11-06T09:18:50+08:00"
       }
     },
     {
@@ -578,6 +983,43 @@
         ],
         "detail": "一位用户在本地硬件上测试模型解决 HDMI 显示问题的能力。Qwen 3.8 flash next 两次尝试都失败，且得出结论耗时很长；DeepSeek 则大约用 15 分钟完成了任务。测试平台为 128GB DDR4 内存和 RTX 3080 20GB 显存。",
         "generatedAt": "2026-11-06T04:25:18+08:00"
+      }
+    },
+    {
+      "id": "08e7e63415aa0842",
+      "title": "Strata for all Qwen models from little to big",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xottw2/strata_for_all_qwen_models_from_little_to_big",
+      "summary": "Ran every Qwen GGUF on my disk through RustingStrata and llama.cpp, same PC, same file, back to back. PC: RTX 3060 12 GB, Ryzen 5 7600X, 32 GB RAM. CUDA. Normal desktop open (browser, Discord), no tuning, so numbers are lower than in the RE…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T04:47:30+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 全系模型 GGUF 实测：从最小到最大同机对比",
+        "takeaway": "作者用同一台 PC 跑遍本地 Qwen GGUF，给出贴近日常使用的真实性能参考。",
+        "bullets": [
+          "测试覆盖 Qwen 全系 GGUF，从最小到最大模型",
+          "硬件为 RTX 3060 12GB、Ryzen 5 7600X、32GB 内存",
+          "后台开着浏览器和 Discord，未做调优，数据偏保守"
+        ],
+        "detail": "作者把硬盘里所有 Qwen GGUF 模型分别用 RustingStrata 和 llama.cpp 在同一台电脑上连续跑了一遍。配置是 RTX 3060 12GB、Ryzen 5 7600X、32GB 内存，走 CUDA。测试时正常开着浏览器和 Discord，也没做任何调优，所以成绩比专门优化过的环境要低。",
+        "generatedAt": "2026-11-06T09:18:51+08:00"
       }
     },
     {
@@ -683,6 +1125,78 @@
       }
     },
     {
+      "id": "3b58ffb304e7b124",
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 430 # Comments: 151",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T06:17:15+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Code 被曝向网站发送用户邮箱地址",
+        "takeaway": "Anthropic 的编程工具 Claude Code 存在隐私问题，会把用户邮箱泄露给访问的网站，引发社区热议。",
+        "bullets": [
+          "有用户在 GitHub 上报告 Claude Code 会向访问的网站发送用户邮箱地址",
+          "该问题在 Hacker News 上获得 430 分、151 条评论，关注度很高",
+          "涉及 Anthropic 的 Claude Code 用户，可能影响隐私信任"
+        ],
+        "detail": "GitHub 上有人指出，Claude Code 在访问网站时会把用户的邮箱地址一并发送出去。该 issue 在 Hacker News 上引发大量讨论，用户担忧隐私泄露。目前 Anthropic 尚未公开回应。",
+        "generatedAt": "2026-11-06T09:18:52+08:00"
+      }
+    },
+    {
+      "id": "e734cd50ba63e140",
+      "title": "OwnCoder 0.2.0 发布:安全优先，token 消耗显著低于同类产品安全优先，token 消耗显著低于同类产品的本地 AI 编程工具",
+      "url": "https://oschina.net/news/503432",
+      "summary": "当前版本能力持续完善，产品效果提升明显，Token 消耗相比同类 AI 编程工具具备优势。软件简介 OwnCode 是一款面向开发者的桌面端 AI 编程工具，从设计之初就把安全与隐私放在首位：敏感信息（API Key、密钥等）在发送给大模型之前自动脱敏，代码索引与向量检索均在本地完成。在此基础上，OwnCode 的上下文管理策略经过...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T07:03:07+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0.33,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OwnCoder 0.2.0 发布：本地 AI 编程工具主打安全与低 token 消耗",
+        "takeaway": "OwnCoder 新版本强调安全隐私，token 消耗低于同类，适合关注数据安全的开发者。",
+        "bullets": [
+          "OwnCoder 0.2.0 发布，能力完善，效果提升。",
+          "敏感信息发送前自动脱敏，代码索引与检索本地完成。",
+          "token 消耗相比同类 AI 编程工具具备优势。"
+        ],
+        "detail": "OwnCoder 是一款面向开发者的桌面端 AI 编程工具，0.2.0 版本能力持续完善，效果提升明显。它从设计之初就注重安全与隐私：API Key 等敏感信息在发送给大模型前自动脱敏，代码索引和向量检索都在本地完成。此外，其上下文管理策略使 token 消耗显著低于同类产品。",
+        "generatedAt": "2026-11-06T09:18:53+08:00"
+      }
+    },
+    {
       "id": "bd7b5fc297108a05",
       "title": "[Paper] SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding - By Qwen",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xoo0pp/paper_specopd_branchparallel_onpolicy",
@@ -781,6 +1295,42 @@
       "score": 38,
       "related": [],
       "pushed": false
+    },
+    {
+      "id": "cd3703c234d6eba0",
+      "title": "Lawyer with too many GPUs, part 4: DeepSeek-V4.1-Flash on eight V100s from 2018. 200+ tok/s on code, ~110 on legal writing, 2,200 tok/s prefill at 128K, 524K context, every weight in VRAM",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xoubyo/lawyer_with_too_many_gpus_part_4_deepseekv41flash",
+      "summary": "fuck you sam altman. i am keeping my spare capacity. Update from the lawyer with the V100 server. Three days ago I got excited and posted DeepSeek-V4.1-Flash on four V100s at 36-38 tok/s, before I had done my custom kernel work and prefill …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T05:07:54+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "律师用八块2018年V100跑DeepSeek-V4.1-Flash，代码生成超200 tok/s",
+        "takeaway": "老V100服务器经自定义内核优化后，跑新模型速度惊人，证明旧硬件仍有潜力。",
+        "bullets": [
+          "律师用户用八块V100（2018年）运行DeepSeek-V4.1-Flash，代码生成200+ tok/s，法律写作约110 tok/s。",
+          "128K上下文预填充达2200 tok/s，支持524K上下文，所有模型权重均驻留显存。",
+          "此前四卡仅36-38 tok/s，经自定义内核和预填充优化后性能大幅提升。"
+        ],
+        "detail": "一位律师在LocalLLaMA分享：他用八块2018年的V100显卡运行DeepSeek-V4.1-Flash，代码生成速度超过200 tok/s，法律写作约110 tok/s，128K上下文预填充达2200 tok/s，支持524K上下文且全部权重在显存中。相比三天前四卡仅36-38 tok/s，自定义内核优化带来巨",
+        "generatedAt": "2026-11-06T09:18:54+08:00"
+      }
     },
     {
       "id": "408ba1617bda60c6",
@@ -965,6 +1515,42 @@
       }
     },
     {
+      "id": "35380f9d4ca7fe57",
+      "title": "AI 狂烧 2000亿美元，谷歌全球启动“自愿买断”计划：最高补偿12个月工资",
+      "url": "https://infoq.cn/article/vMSj216sQUhmeDH4H0G7",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T16:00:00+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "亿美元"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌启动全球自愿买断计划，AI投入2000亿美元后控成本",
+        "takeaway": "谷歌在AI领域投入巨大后，推出自愿离职补偿，最高12个月工资，反映科技巨头成本压力。",
+        "bullets": [
+          "谷歌全球启动自愿买断，补偿最高12个月工资",
+          "背景是AI领域已烧掉2000亿美元",
+          "此举旨在控制成本，可能影响员工规模"
+        ],
+        "detail": "谷歌在全球范围推出自愿买断计划，员工可主动离职并获得最高12个月工资的补偿。这一举措发生在公司AI业务已投入约2000亿美元之后，显示出谷歌在巨额AI投资下开始着手控制人力成本。",
+        "generatedAt": "2026-11-06T09:18:54+08:00"
+      }
+    },
+    {
       "id": "7d508421875174da",
       "title": "I am EU Citizen and here are my rights",
       "url": "https://reddit.com/r/cursor/comments/1xoox48/i_am_eu_citizen_and_here_are_my_rights",
@@ -1005,6 +1591,55 @@
       "topic": "ai",
       "publishedAt": "2026-11-06T04:06:15+08:00",
       "fetchedAt": "2026-11-06T04:25:08+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a53d0f256e24e02f",
+      "title": "Qwen3.8-27B Benchmark: 6 Inference Engines, GGUF vs NInfer, 256K Context — Comparing Both Speed AND Quality",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xoxx4a/qwen3827b_benchmark_6_inference_engines_gguf_vs",
+      "summary": "Most LLM inference benchmarks focus on tokens/sec or TTFT. But faster inference doesn't mean much if the output quality degrades, especially with aggressive quantization, speculative decoding, or very long contexts. I ran a comprehensive be…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T07:39:57+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "benchmark",
+        "benchmarks"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "725579ace26daf96",
+      "title": "CPython 0-Day Vulnerabilities Threaten the AI Supply Chain",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xoyr90/cpython_0day_vulnerabilities_threaten_the_ai",
+      "summary": "Vulnerability in cpython that neither cpython guys, jinja guys, or huggingface has fixed despite being informed. submitted by /u/Thrumpwart [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T08:17:41+08:00",
+      "fetchedAt": "2026-11-06T09:18:21+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
