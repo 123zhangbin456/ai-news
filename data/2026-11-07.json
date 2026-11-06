@@ -1,7 +1,43 @@
 {
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T02:33:24+08:00",
+  "updatedAt": "2026-11-07T03:46:51+08:00",
   "items": [
+    {
+      "id": "f2e0b426347d1cdf",
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "url": "https://wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking",
+      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T02:43:43+08:00",
+      "fetchedAt": "2026-11-07T03:46:41+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "免费中国AI模型黑客能力逼近OpenAI尖端模型",
+        "takeaway": "实验显示DeepSeek和GLM的入侵模拟网络能力接近OpenAI未公开的高级网络安全模型。",
+        "bullets": [
+          "实验要求AI模型入侵模拟网络，测试其黑客技能。",
+          "DeepSeek和GLM的表现与OpenAI最先进网络模型相差不远。",
+          "OpenAI该模型未公开，凸显免费中国模型的威胁。"
+        ],
+        "detail": "一项实验让AI模型尝试入侵模拟网络，结果显示DeepSeek和GLM的黑客技能与OpenAI最先进的网络模型相差不大，而后者并未公开。",
+        "generatedAt": "2026-11-07T03:46:47+08:00"
+      }
+    },
     {
       "id": "64170924ee1ac3dc",
       "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
@@ -38,6 +74,78 @@
         ],
         "detail": "Meta 宣布，用户现在可以在其 Muse AI 助手中搭建可定制的、类似应用的体验。这项新功能名为「空间」，能让 Muse 生成购物中心、学校仪表盘、音乐追踪器、问答游戏等各类界面。",
         "generatedAt": "2026-11-07T02:33:09+08:00"
+      }
+    },
+    {
+      "id": "016e849ea3abf5a8",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T02:44:20+08:00",
+      "fetchedAt": "2026-11-07T03:46:41+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 推出 Spaces，与 Muse 智能体协作新方式",
+        "takeaway": "Meta 为 Muse 智能体新增 Spaces 功能，提供与 AI 助手互动协作的新途径。",
+        "bullets": [
+          "Meta 宣布推出 Spaces，用于与 Muse 智能体协作",
+          "Muse 智能体持续获得新功能与集成",
+          "Spaces 被描述为与 AI 助手交互的新方式"
+        ],
+        "detail": "Meta 的 Muse 智能体不断更新，新增了名为 Spaces 的功能。官方称 Spaces 是一种与 AI 助手互动的新方式，旨在方便用户协作。目前具体细节尚未公布。",
+        "generatedAt": "2026-11-07T03:46:47+08:00"
+      }
+    },
+    {
+      "id": "110860b3709745c9",
+      "title": "SoMarkAI/OXR-1.0 · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xplapb/somarkaioxr10_hugging_face",
+      "summary": "Found this last month model while browsing Trending models of HF. I don't see any existing threads so posting. OXR (Optical Everything Recognition) is an open-source model from the SoMark team. It turns PDFs and document images into Agent-F…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T03:08:47+08:00",
+      "fetchedAt": "2026-11-07T03:46:41+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "SoMark 开源 OXR-1.0：文档图像转 Agent 可用格式",
+        "takeaway": "Hugging Face 上发现的 OXR-1.0 开源模型，能把 PDF 和文档图像转成 Agent 可用的结构化数据。",
+        "bullets": [
+          "SoMark 团队发布开源模型 OXR-1.0，定位为光学万物识别。",
+          "可将 PDF 和文档图像转换为 Agent 可用的结构化格式。",
+          "该模型在 Hugging Face 趋势榜上被用户发现，此前无相关讨论。"
+        ],
+        "detail": "有用户在浏览 Hugging Face 趋势模型时发现了 OXR-1.0，这是 SoMark 团队的开源项目，全称 Optical Everything Recognition。它能把 PDF 和文档图片转换成 Agent 可用的结构化数据，方便后续自动化处理。",
+        "generatedAt": "2026-11-07T03:46:49+08:00"
       }
     },
     {
@@ -292,6 +400,43 @@
       }
     },
     {
+      "id": "29c568495a81ef6e",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T02:44:38+08:00",
+      "fetchedAt": "2026-11-07T03:46:41+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tool",
+        "tools"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "数百个Artex AI黑客工具服务器暴露公网",
+        "takeaway": "安全研究人员发现数百个Artex渗透测试工具服务器暴露在互联网上，任何人可访问，构成严重安全风险。",
+        "bullets": [
+          "Artex AI是渗透测试工具，用于模拟黑客攻击。",
+          "数百个服务器配置不当，暴露于公网。",
+          "未经授权者可能利用这些工具发起攻击。"
+        ],
+        "detail": "安全研究人员发现，数百个托管Artex渗透测试工具的服务器暴露在互联网上，任何人都能访问。Artex AI是一款AI驱动的黑客工具，这些暴露的服务器可能被恶意利用，引发安全担忧。",
+        "generatedAt": "2026-11-07T03:46:49+08:00"
+      }
+    },
+    {
       "id": "ceaa699752749576",
       "title": "Ripple 65B Preview vs Qwen 3.8 27B vs Qwen 3.8 Flash Next",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xphi5w/ripple_65b_preview_vs_qwen_38_27b_vs_qwen_38",
@@ -363,6 +508,42 @@
         ],
         "detail": "一位用户原本打算卖掉办公室升级替换下来的旧 kiosk Mac Mini，突发奇想测试它能否运行本不该跑得动的模型。他通过 Strata 加载了 iQ3_xxs 量化的 Qwen-Flash-Next，结果成功运行，展示了在 16GB 内存的 M2 Pro 上跑大模型的可能性。",
         "generatedAt": "2026-11-07T02:33:20+08:00"
+      }
+    },
+    {
+      "id": "9d63805dda72af89",
+      "title": "bartowski/XingChen-AGI_Xing4.0-29B-A4B-GGUF · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xplkdu/bartowskixingchenagi_xing4029ba4bgguf_hugging_face",
+      "summary": "do you want to try new 29B MoE today? https://www.reddit.com/r/LocalLLaMA/comments/1xoqc59/add_support_for_the_xing4_0_by_shuxiaoqiong_pull/ Xing4.0-29B-A4B is a next-generation large language model in the Xing series (formerly TeleChat ), …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T03:19:24+08:00",
+      "fetchedAt": "2026-11-07T03:46:41+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "series"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "星辰4.0 29B MoE模型GGUF版发布，可在本地运行",
+        "takeaway": "XingChen-AGI推出29B MoE新模型Xing4.0，已有GGUF量化版，方便本地部署试用。",
+        "bullets": [
+          "Xing4.0-29B-A4B是星辰系列（原TeleChat）新一代大模型",
+          "bartowski已提供GGUF量化版本，可在Hugging Face下载",
+          "MoE架构29B参数，适合本地硬件尝试运行"
+        ],
+        "detail": "星辰系列（原TeleChat）推出新一代模型Xing4.0-29B-A4B，采用MoE架构。bartowski已发布其GGUF量化版本，方便用户在本地设备上部署和测试，社区也在讨论为其添加支持。",
+        "generatedAt": "2026-11-07T03:46:51+08:00"
       }
     },
     {

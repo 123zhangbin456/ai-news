@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "updatedAt": "2026-11-07T02:33:24+08:00",
+  "updatedAt": "2026-11-07T03:46:51+08:00",
   "items": [
     {
       "id": "b9afbb2661b640b5",
@@ -1166,6 +1166,42 @@
       }
     },
     {
+      "id": "fd1a4c4700c82bdd",
+      "title": "Voice Chat with Agents",
+      "url": "https://cursor.com/changelog/voice-chat",
+      "summary": "Talk with your agents in a realtime voice call on desktop, web, and iOS.",
+      "source": {
+        "id": "cursor-changelog",
+        "name": "Cursor Changelog",
+        "weight": 5,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T08:00:00+08:00",
+      "fetchedAt": "2026-11-07T03:46:41+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor 上线实时语音对话功能，支持桌面、网页和 iOS",
+        "takeaway": "Cursor 新增语音通话式交互，用户可直接与 AI 代理实时对话，覆盖多端。",
+        "bullets": [
+          "Cursor 推出实时语音通话功能，可与 AI 代理直接对话",
+          "支持桌面端、网页端和 iOS 设备",
+          "交互方式从文字扩展到语音，提升多场景使用便利性"
+        ],
+        "detail": "Cursor 更新日志显示，用户现在可以在桌面、网页和 iOS 上通过实时语音通话与 AI 代理交流。这意味着除了文字输入，用户还能用语音直接对话，操作更自然便捷。",
+        "generatedAt": "2026-11-07T03:46:47+08:00"
+      }
+    },
+    {
       "id": "a231f12f9906a671",
       "title": "‘Total repudiation’: The blue wave is about to hit AI",
       "url": "https://theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
@@ -1563,6 +1599,42 @@
         ],
         "detail": "今天早上，抗议者闯入了微软在阿姆斯特丹新建数据中心的施工工地。活动组织Geef Tegengas参与组织了这次抗议，反对在该地区建造三座85米高的数据中心塔。",
         "generatedAt": "2026-11-07T02:33:11+08:00"
+      }
+    },
+    {
+      "id": "cfd4354afa14004f",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-06T08:00:00+08:00",
+      "fetchedAt": "2026-11-07T03:46:41+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "benchmark"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 推出 BioBasicsBench：100 项任务评测 AI 处理湿实验日常科研能力",
+        "takeaway": "OpenAI 发布新基准，专门衡量 AI 智能体解读原始实验数据、应对湿实验室日常工作的能力。",
+        "bullets": [
+          "BioBasicsBench 包含 100 项任务，聚焦湿实验室日常科研场景。",
+          "评测重点在于 AI 智能体能否解读原始实验数据。",
+          "该基准由 OpenAI 推出，面向 AI 在生命科学实验中的实际应用。"
+        ],
+        "detail": "OpenAI 推出名为 BioBasicsBench 的基准，包含 100 项任务，用于评估 AI 智能体在湿实验室日常科研中的表现。它重点考察 AI 能否正确解读原始实验数据，以及处理常见实验工作的能力。",
+        "generatedAt": "2026-11-07T03:46:49+08:00"
       }
     },
     {
