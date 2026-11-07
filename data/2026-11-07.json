@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T18:29:33+08:00",
+  "updatedAt": "2026-11-08T24:34:27+08:00",
   "items": [
     {
       "id": "5287355c1060331a",
@@ -120,6 +120,40 @@
       }
     },
     {
+      "id": "1de98537a9e61441",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new rep…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T20:30:00+08:00",
+      "fetchedAt": "2026-11-08T24:34:17+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic用AI造AI，模型迭代速度翻倍引研究者担忧",
+        "takeaway": "新报告称Anthropic用AI加速自身模型研发，速度约为一年前两倍，引发研究者对失控风险的警觉。",
+        "bullets": [
+          "Anthropic正用AI构建更强的AI，模型改进速度约为一年前两倍。",
+          "报告显示这一加速趋势几乎没有放缓迹象。",
+          "研究者对AI自我加速研发的潜在风险表示担忧。"
+        ],
+        "detail": "据The Verge AI报道，一份新报告指出Anthropic正利用AI来开发更强大的AI，且效果显著：其模型改进速度大约是一年前的两倍，且几乎没有放缓的迹象。这种“AI造AI”的加速趋势让部分研究者感到不安。",
+        "generatedAt": "2026-11-08T24:34:24+08:00"
+      }
+    },
+    {
       "id": "4a3451625ee463dc",
       "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
       "url": "https://qbitai.com/2026/11/508264.html",
@@ -189,6 +223,44 @@
         ],
         "detail": "有用户在 r/LocalLLaMA 发布了 Harness Leaderboard，将 Kimi Code、Hermes、Pi、Claude Code、Codex 等多款 AI 编码工具放在 Terminal Bench 2.1 和 Deep SWE 1.1 两个基准上测试。目前摘要未给出具体分数和排名，详情需查看原链",
         "generatedAt": "2026-11-07T11:19:08+08:00"
+      }
+    },
+    {
+      "id": "2634a86d9aad18ee",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T23:43:45+08:00",
+      "fetchedAt": "2026-11-08T24:34:17+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chips",
+        "NVIDIA",
+        "H200"
+      ],
+      "confidence": 0.79,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "美批准英伟达向中国空壳公司出售H200芯片引质疑",
+        "takeaway": "美国商务部与英伟达被指审查不严，获批接收H200芯片的中国公司竟是空壳办公室。",
+        "bullets": [
+          "纽约时报称获批公司New Matrix的办公地点为空置办公室",
+          "外界质疑商务部与英伟达未对中国客户做尽职调查",
+          "涉及英伟达H200 AI芯片的对华出口审批流程"
+        ],
+        "detail": "据《纽约时报》报道，一家名为New Matrix的中国公司获准接收英伟达H200 AI芯片，但其办公地点却是空置的。这引发外界质疑：美国商务部和英伟达在审核获准处理这些芯片的中国企业时，是否尽到了应有的审查责任。",
+        "generatedAt": "2026-11-08T24:34:24+08:00"
       }
     },
     {
@@ -811,6 +883,79 @@
       }
     },
     {
+      "id": "bb9dc983cfcbeb71",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A n…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T23:50:00+08:00",
+      "fetchedAt": "2026-11-08T24:34:17+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "assistant"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "纽约时报烹饪AI助手：救得了晚餐，差点毁了蛋糕",
+        "takeaway": "The Verge记者实测NYT Cooking的AI助手，日常晚餐表现不错，但烘焙场景险些翻车，说明AI烹饪助手仍分场景。",
+        "bullets": [
+          "记者用AI助手解决工作日晚餐选择困难，效果令人满意",
+          "但在蛋糕烘焙环节，AI建议几乎导致失败",
+          "说明AI烹饪助手在精确烘焙场景可靠性不足",
+          "对普通家庭用户：可辅助日常做菜，烘焙需谨慎"
+        ],
+        "detail": "记者每晚7点面对冰箱发愁，用NYT Cooking的AI助手解决了“又吃鸡肉”的晚餐难题。但轮到烤蛋糕时，AI的建议差点让蛋糕失败，显示这类工具在需要精确配比的烘焙中还不够可靠。",
+        "generatedAt": "2026-11-08T24:34:25+08:00"
+      }
+    },
+    {
+      "id": "ac30c3ff268d6e3d",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "url": "https://theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always e…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T23:00:00+08:00",
+      "fetchedAt": "2026-11-08T24:34:17+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "series"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI冲击网络安全，专家探讨下一步",
+        "takeaway": "The Verge对话Cognition首席安全官Alex Stamos，讨论AI如何搅动网络安全及未来走向。",
+        "bullets": [
+          "对话对象是Cognition首席安全官Alex Stamos",
+          "主题为AI对网络安全现状的冲击与后续",
+          "属于The Verge“AI真实生活”系列首期"
+        ],
+        "detail": "The Verge播客采访了Cognition首席安全官、资深网络安全专家Alex Stamos，讨论当前网络安全领域的混乱局面。这是“AI在真实生活中”系列专题的第一期，聚焦AI带来的实际影响。",
+        "generatedAt": "2026-11-08T24:34:26+08:00"
+      }
+    },
+    {
       "id": "f5eee778bf79baeb",
       "title": "All the latest updates on AI data centers",
       "url": "https://theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
@@ -1370,6 +1515,29 @@
       "pushed": false
     },
     {
+      "id": "cd1f9840fc34f55b",
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "url": "https://wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough",
+      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T19:00:00+08:00",
+      "fetchedAt": "2026-11-08T24:34:17+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "0d33f2bef48b605c",
       "title": "百图生科与11家伙伴战略合作，AI生物计算覆盖医药研发及农业育种",
       "url": "https://leiphone.com/category/industrynews/X7HwwQTEXJhiVVzK.html",
@@ -1615,6 +1783,54 @@
       "pushed": false
     },
     {
+      "id": "dd49fccc8f7e4709",
+      "title": "Valet: use local LLMs to manage your homelab (open source)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xq7qi4/valet_use_local_llms_to_manage_your_homelab_open",
+      "summary": "My favourite use case for local LLMs is running my homelab, because everything stays private (and it helps me justify the GPU lol) I wanted one dashboard to help me manage all of my services, so I made Valet. Live demo: https://demo.askvale…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T22:32:04+08:00",
+      "fetchedAt": "2026-11-08T24:34:17+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open source"
+      ],
+      "confidence": 0.6,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "264cd74cdfc7f265",
+      "title": "Terrarium – Local VMs for AI agents with explicit permissions",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xq6xqg/terrarium_local_vms_for_ai_agents_with_explicit",
+      "summary": "I wanted a secure way to run AI agents against my local models without giving them my whole machine. Something in the spirit of pi : simple, narrow and auditable, yet flexible. What I found tried to do too much, so I built Terrarium . It ru…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T21:55:36+08:00",
+      "fetchedAt": "2026-11-08T24:34:17+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "649435e90e91d2e0",
       "title": "机器人行业卸下租赁“缓冲垫”",
       "url": "https://tmtpost.com/8196810.html",
@@ -1630,6 +1846,56 @@
       "topic": "ai",
       "publishedAt": "2026-11-07T13:56:37+08:00",
       "fetchedAt": "2026-11-07T18:29:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1dc7088f89b2fcc6",
+      "title": "广电总局整治 AI 低俗微短剧",
+      "url": "https://solidot.org/story?sid=85821",
+      "summary": "广电总局周五晚上公布了一则通知，整治 AI 低俗短剧：“针对 AI 微短剧质量良莠不齐、AI 技术助长低俗不良内容反弹等问题，部署开展新一轮微短剧低俗化同质化专项治理工作，治理为期两个月，自 11 月 1 日起至 12 月底。新一轮专项治理聚焦两个方面的突出问题，内容创作方面，深化治理儿童类不良、软色情擦边、极端对立、拜金主义、严重违背家庭伦理道德等低俗不良内容；治理未按要求备案审核的特殊题材内容；治理“盗脸”“偷声”问题，规范 AI 微短剧创作。传播推广方面，治理片名、宣推…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T19:19:42+08:00",
+      "fetchedAt": "2026-11-08T24:34:17+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "备案",
+        "伦理",
+        "治理"
+      ],
+      "confidence": 0.8,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "03e6000e3e3313cb",
+      "title": "Does anyone use None reasoning level for anything ever?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xq4pb6/does_anyone_use_none_reasoning_level_for_anything",
+      "summary": "Sometimes I am tempted to use none reasoning level in agentic tasks to save time, but I am always kinda scared to do so. I have only ever used llm with reasoning and with medium at the lowest. Anybody have a lot of experience using none for…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T19:59:19+08:00",
+      "fetchedAt": "2026-11-08T24:34:17+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,

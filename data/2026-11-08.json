@@ -1,7 +1,43 @@
 {
   "date": "2026-11-08",
-  "updatedAt": "2026-11-07T02:33:24+08:00",
+  "updatedAt": "2026-11-08T24:34:27+08:00",
   "items": [
+    {
+      "id": "5cbaf13d00d8c00a",
+      "title": "llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add",
+      "summary": "This is a significant speedup for MoE offloading (low VRAM people). I tried Strata once, and it had some tuning mechanism, so probably this is a similar idea. submitted by /u/jacek2023 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T24:25:06+08:00",
+      "fetchedAt": "2026-11-08T24:34:17+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 新 PR：MoE 缺失专家改由 CPU 运行，并附调优脚本",
+        "takeaway": "显存不足时 MoE 模型可把未命中的专家放到 CPU 跑，并配调优脚本，提升推理速度。",
+        "bullets": [
+          "PR #30966 由 am17an 提交，针对 MoE 模型显存卸载场景",
+          "思路是让未命中的专家在 CPU 上执行，减少 GPU 显存压力",
+          "附带调优脚本，类似 Strata 的调参机制，方便低显存用户"
+        ],
+        "detail": "这是 llama.cpp 的一个拉取请求，目标是优化 MoE 模型的卸载推理。做法是把没被选中的专家放到 CPU 上运行，从而缓解显存不足的问题，并附带调优脚本帮助用户调整参数。对显存较小的本地部署用户来说，这可能带来明显的速度提升。",
+        "generatedAt": "2026-11-08T24:34:27+08:00"
+      }
+    },
     {
       "id": "b5d45a3a31c9d6ed",
       "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
