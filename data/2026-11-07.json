@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T10:07:20+08:00",
+  "updatedAt": "2026-11-07T10:33:19+08:00",
   "items": [
     {
       "id": "5287355c1060331a",
@@ -338,6 +338,42 @@
         ],
         "detail": "NousResearch 在阿里 Qwen3.8-27B 基础上做了后训练，推出新模型 Arete-27B，官方称旨在给中文训练的模型注入西方价值观。该模型已开源，Hugging Face 上由 bartowski 提供了 GGUF 量化版本，方便本地运行。",
         "generatedAt": "2026-11-07T08:32:08+08:00"
+      }
+    },
+    {
+      "id": "efac5f893c85a941",
+      "title": "Weight Space Programming on my Production Qwen 3.8 4-Bit",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xpuexr/weight_space_programming_on_my_production_qwen_38",
+      "summary": "Well I had a lot of resets on ChatGPT and all of those credits and I thought, well can Astra actually do it. We had a little looping and a lot of 'Wait.' Let me check the thing I just checked -- but it always got the job done. I have dubbed…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T09:50:05+08:00",
+      "fetchedAt": "2026-11-07T10:33:06+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "本地量化模型也能做权重空间编程：Qwen 3.8 4-bit 实测",
+        "takeaway": "用户在生产环境用 4-bit 量化的 Qwen 3.8 尝试权重空间编程，过程有循环但最终完成任务。",
+        "bullets": [
+          "在本地 4-bit 量化的 Qwen 3.8 上实测权重空间编程",
+          "过程中出现循环和反复确认，但最终完成任务",
+          "说明低精度量化模型也能承担此类编程任务"
+        ],
+        "detail": "作者因 ChatGPT 频繁重置，转而在生产环境的 4-bit 量化 Qwen 3.8 上尝试权重空间编程。过程中出现循环和多次“等等，我确认一下”的反复，但任务最终都完成了。",
+        "generatedAt": "2026-11-07T10:33:19+08:00"
       }
     },
     {
@@ -985,6 +1021,40 @@
         ],
         "detail": "Cloudflare 推出新功能，开发者可直接查看生产环境火焰图，诊断线上 Worker 变慢问题。此前这类问题在本地难以复现，现在能直接分析生产环境性能数据，定位瓶颈。",
         "generatedAt": "2026-11-07T09:23:56+08:00"
+      }
+    },
+    {
+      "id": "ca61fd89b5bcee70",
+      "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+      "url": "https://infoq.cn/article/K1bCIbHxeu3wLIjdusgr",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T18:00:00+08:00",
+      "fetchedAt": "2026-11-07T10:33:06+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "CyberwIIOS 探讨大模型在 OT 侧如何跨越幻觉与失控",
+        "takeaway": "InfoQ 中国 AICon 北京议题聚焦大模型落地 OT 场景时，如何应对幻觉与失控风险。",
+        "bullets": [
+          "议题来自 InfoQ 中国 AICon 北京站",
+          "关注大模型在 OT（运营技术）侧的应用",
+          "核心挑战是模型幻觉与失控风险"
+        ],
+        "detail": "InfoQ 中国报道，AICon 北京站议题 CyberwIIOS 讨论大模型在 OT 侧落地时，如何驾驭“幻觉”与“失控”问题。原文未展开具体方案，仅点出这一关键挑战。",
+        "generatedAt": "2026-11-07T10:33:18+08:00"
       }
     },
     {
