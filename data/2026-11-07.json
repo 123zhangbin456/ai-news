@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T09:23:56+08:00",
+  "updatedAt": "2026-11-07T10:07:20+08:00",
   "items": [
     {
       "id": "5287355c1060331a",
@@ -227,6 +227,43 @@
         ],
         "detail": "有开发者在 llama.cpp 提交 PR，新增对月之暗面 Kimi-K3.1-Pro 文本模型的支持，权重取自 Hugging Face 官方仓库。提交者用「祝你好运」调侃本地跑起来并不轻松，暗示模型体量大、对显存和算力要求高。",
         "generatedAt": "2026-11-07T08:32:06+08:00"
+      }
+    },
+    {
+      "id": "c2107a5a7cf60537",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T09:40:28+08:00",
+      "fetchedAt": "2026-11-07T10:06:57+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center",
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Crusoe 将怀俄明州问题数据中心项目出售给谷歌",
+        "takeaway": "Crusoe 把陷入困境的怀俄明州数据中心项目卖给谷歌，凸显大型 AI 数据中心开发之难。",
+        "bullets": [
+          "Crusoe 出售怀俄明州数据中心项目给谷歌",
+          "该项目此前开发遇阻，交易凸显建设难题",
+          "谷歌接手，或加速该 AI 数据中心落地"
+        ],
+        "detail": "Crusoe 已将位于怀俄明州的一个数据中心项目出售给谷歌。该项目此前开发不顺，这笔交易也反映出建设大规模 AI 数据中心所面临的挑战。",
+        "generatedAt": "2026-11-07T10:07:20+08:00"
       }
     },
     {
@@ -1049,6 +1086,31 @@
         "research"
       ],
       "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4275bd935e67e552",
+      "title": "AI基建预期生变，万盛股份2.85亿溢价并购遭上交所三问",
+      "url": "https://tmtpost.com/8196758.html",
+      "summary": "溢价并购遭监管追问。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T09:21:27+08:00",
+      "fetchedAt": "2026-11-07T10:06:57+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "并购"
+      ],
+      "confidence": 0.5,
       "score": 30,
       "related": [],
       "pushed": false
