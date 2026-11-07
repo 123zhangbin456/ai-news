@@ -1,7 +1,82 @@
 {
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T24:34:27+08:00",
+  "updatedAt": "2026-11-08T06:26:57+08:00",
   "items": [
+    {
+      "id": "2c93e9013ac15b4c",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T05:17:08+08:00",
+      "fetchedAt": "2026-11-08T06:26:47+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "memo"
+      ],
+      "confidence": 0.4,
+      "score": 47,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "美情报备忘录称中国国安招募女高管监视英伟达CEO",
+        "takeaway": "美方情报备忘录指控中国国安招募科技女高管监视黄仁勋，涉及英伟达与中美科技博弈。",
+        "bullets": [
+          "备忘录称中国国安招募一名女性科技高管，目标为英伟达CEO黄仁勋。",
+          "报道未披露该高管姓名及所属公司，英伟达方面暂无回应。",
+          "事件或加剧美国对华科技人才与供应链的安全审查。"
+        ],
+        "detail": "TechCrunch AI 援引一份今年早些时候流传的美国情报备忘录报道，称中国国家安全部招募了一名女性科技高管，目的是监视英伟达CEO黄仁勋。报道未说明该高管身份、所属企业及具体监视方式，英伟达也未置评。此事可能进一步激化中美在AI芯片领域的互不信任。",
+        "generatedAt": "2026-11-08T06:26:56+08:00"
+      },
+      "pushedAt": "2026-11-08T06:26:57+08:00"
+    },
+    {
+      "id": "d44fec61ccb764a3",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T06:07:22+08:00",
+      "fetchedAt": "2026-11-08T06:26:47+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "中期选举后，马斯克与数据中心面临变数",
+        "takeaway": "中期选举结果可能改变科技行业政策环境，马斯克和数据中心业务或受冲击。",
+        "bullets": [
+          "TechCrunch播客Equity讨论中期选举对科技行业的影响",
+          "马斯克与数据中心成为选举后值得关注的风险点",
+          "政策变动可能影响数据中心建设和运营"
+        ],
+        "detail": "TechCrunch的Equity播客分析了中期选举对科技行业的意义，指出选举后马斯克和数据中心领域可能面临挑战。具体影响尚不明确，但政策环境变化值得关注。",
+        "generatedAt": "2026-11-08T06:26:55+08:00"
+      },
+      "pushedAt": "2026-11-08T06:26:57+08:00"
+    },
     {
       "id": "5cbaf13d00d8c00a",
       "title": "llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp",
@@ -25,7 +100,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "llama.cpp 新 PR：MoE 缺失专家改由 CPU 运行，并附调优脚本",
         "takeaway": "显存不足时 MoE 模型可把未命中的专家放到 CPU 跑，并配调优脚本，提升推理速度。",
@@ -36,7 +111,8 @@
         ],
         "detail": "这是 llama.cpp 的一个拉取请求，目标是优化 MoE 模型的卸载推理。做法是把没被选中的专家放到 CPU 上运行，从而缓解显存不足的问题，并附带调优脚本帮助用户调整参数。对显存较小的本地部署用户来说，这可能带来明显的速度提升。",
         "generatedAt": "2026-11-08T24:34:27+08:00"
-      }
+      },
+      "pushedAt": "2026-11-08T06:26:57+08:00"
     },
     {
       "id": "b5d45a3a31c9d6ed",
@@ -59,7 +135,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI公司高价收购企业工作文件与邮件，数据经纪商牵线",
         "takeaway": "数据经纪商正收集企业内部文件用于训练AI模型，引发员工与隐私担忧。",
@@ -70,7 +146,110 @@
         ],
         "detail": "数据经纪商正在大量收集企业内部的工作文件和邮件，卖给AI公司用于训练模型。虽然有人愿意出售，但不少员工和企业对此感到不满，担心隐私和机密泄露。",
         "generatedAt": "2026-11-07T02:33:23+08:00"
-      }
+      },
+      "pushedAt": "2026-11-08T06:26:57+08:00"
+    },
+    {
+      "id": "1eeaf5457cb1a01a",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 263 # Comments: 147",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T02:02:17+08:00",
+      "fetchedAt": "2026-11-08T06:26:47+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "research"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-11-08T06:26:57+08:00"
+    },
+    {
+      "id": "5465a6cb4efcc0ef",
+      "title": "Crowd-v1 - The collaborative LLM",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xqh8hk/crowdv1_the_collaborative_llm",
+      "summary": "Processing img 0ybf7gn4c90i1... Hello r/LocalLLaMA :D This is yet another follow-up post on the project CrowdGPT , which aims at creating the first collaboratively trained 1 billion parameters transformer, Crowd-v1 , without any datacenters…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T05:19:40+08:00",
+      "fetchedAt": "2026-11-08T06:26:47+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "billion"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-11-08T06:26:57+08:00"
+    },
+    {
+      "id": "88464d17c883520a",
+      "title": "# One token at the beginning of a prompt changed 6 out of 15 LLM responses. Does it matter?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xqh2jw/one_token_at_the_beginning_of_a_prompt_changed_6",
+      "summary": "I'm back with another experiment. After the last heated discussion about KV cache, temperature 0, and reproducibility — where I got quite a beating for both my post and my writing style (partly deserved, to be fair ;) ) — I decided to inves…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T05:12:26+08:00",
+      "fetchedAt": "2026-11-08T06:26:47+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-11-08T06:26:57+08:00"
+    },
+    {
+      "id": "400e6d5eddae9572",
+      "title": "What is best local LLMs for strategic reasoning?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xqegfj/what_is_best_local_llms_for_strategic_reasoning",
+      "summary": "Hey guys, I work with AI safety and much of our work is with huge models like Opus, Astra,... Recently we carried out a series of experiments and found out that models like Sonnet 4.5 and GLM 5.3 are able to notice when their reasoning is b…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T03:17:56+08:00",
+      "fetchedAt": "2026-11-08T06:26:47+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 0.25,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-11-08T06:26:57+08:00"
     }
   ],
   "topic": "ai"
