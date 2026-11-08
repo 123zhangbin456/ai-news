@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updatedAt": "2026-11-09T02:10:21+08:00",
+  "updatedAt": "2026-11-09T06:37:05+08:00",
   "items": [
     {
       "id": "0548b6b007bd3f7b",
@@ -23,7 +23,7 @@
       "confidence": 0,
       "score": 51,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "华为、OpenAI、字节为何纷纷跨界制药？",
         "takeaway": "科技巨头扎堆布局制药，AI能否真正改变新药研发值得关注。",
@@ -34,7 +34,8 @@
         ],
         "detail": "钛媒体探讨科技巨头为何纷纷插手制药，以及AI能给制药带来多大改变。文章聚焦华为、OpenAI、字节等公司的跨界动向，并追问AI在药物研发中的实际作用。",
         "generatedAt": "2026-11-09T24:23:45+08:00"
-      }
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "2c93e9013ac15b4c",
@@ -98,7 +99,7 @@
       "confidence": 0,
       "score": 46,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Llama-modchip：无 GPU 也能在 64GB 内存跑 284B DeepSeek",
         "takeaway": "开源项目展示纯 CPU 大模型推理新思路，让超大模型在普通硬件上运行成为可能。",
@@ -109,7 +110,8 @@
         ],
         "detail": "该项目在 GitHub 上发布，声称无需 GPU，仅靠 64GB 内存就能运行 284B 参数的 DeepSeek 大模型。这为缺乏高端显卡的用户提供了本地运行超大模型的新可能，但具体性能和实用性仍需社区验证。",
         "generatedAt": "2026-11-09T24:23:46+08:00"
-      }
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "0d1b6b6a5a7f6221",
@@ -134,7 +136,7 @@
       "confidence": 0.5,
       "score": 45,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "顶尖 AI 实验室成“人才黑洞”，Claude Code 工程师离职后首度发声",
         "takeaway": "AI 人才争夺白热化，顶尖实验室虹吸效应引发行业关注，离职工程师视角揭示内情。",
@@ -145,7 +147,8 @@
         ],
         "detail": "InfoQ 中国报道，顶尖 AI 实验室正像“人才黑洞”一样吸走行业人才。Claude Code 团队一名工程师离职后首次受访，分享经历。这折射出 AI 人才争夺战愈演愈烈，可能对团队建设和行业生态产生深远影响。",
         "generatedAt": "2026-11-08T17:36:56+08:00"
-      }
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "1d660dc4ea7a4018",
@@ -173,7 +176,7 @@
       "confidence": 1,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI 完成 110 亿美元融资，估值 1.25 万亿美元",
         "takeaway": "OpenAI 新一轮融资落地，估值低于最初目标，反映市场对超高估值的谨慎。",
@@ -184,7 +187,8 @@
         ],
         "detail": "OpenAI 宣布完成 110 亿美元融资，公司估值达到 1.25 万亿美元。这一数字低于其最初寻求的 1.4 万亿美元估值，显示本轮融资规模或定价未完全达到预期。",
         "generatedAt": "2026-11-09T02:10:19+08:00"
-      }
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "d44fec61ccb764a3",
@@ -244,7 +248,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Datasette 修复 Firefox 下 HTML 页面预取问题",
         "takeaway": "Datasette 不再向 Firefox 的 HTML 页面发送 link: rel=next 头，避免意外预取下一页。",
@@ -255,7 +259,8 @@
         ],
         "detail": "Simon Willison 在查看 Firefox 网络面板时，发现访问 Datasette 表格页会触发对下一页的 HTTP 预取。原因是响应中的 link: rel=next 头被 Firefox 用于预取。该修复让 Datasette 不再向 Firefox 的 HTML 页面发送此头，避免不必要的请求。",
         "generatedAt": "2026-11-08T08:57:44+08:00"
-      }
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "5186d80b7eef5626",
@@ -280,7 +285,7 @@
       "confidence": 0.5,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Claude Code「不再询问」功能致密码泄露，GitHub 上 1122 个公开文件受影响",
         "takeaway": "Claude Code 的「不再询问」选项可能让敏感信息被写入公开代码库，开发者需警惕。",
@@ -291,7 +296,8 @@
         ],
         "detail": "Claude Code 的「不再询问」功能允许用户跳过重复确认，但可能无意中将密码等敏感信息写入代码并推送到公开的 GitHub 仓库。安全公司 apiiro 发现已有 1122 个公开文件因此泄露密码，引发对 AI 编程工具安全性的担忧。",
         "generatedAt": "2026-11-08T08:57:45+08:00"
-      }
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "11d5c12583f345de",
@@ -314,7 +320,7 @@
       "confidence": 0,
       "score": 39,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "资本正在撤离“世界模型”",
         "takeaway": "曾被视为AI下一风口的“世界模型”遭遇资本退潮，行业热度降温。",
@@ -325,7 +331,8 @@
         ],
         "detail": "据量子位报道，资本正在撤离“世界模型”领域。这一方向曾被视为AI的重要风口，但如今投资热情减退，行业可能进入调整阶段。",
         "generatedAt": "2026-11-08T17:36:56+08:00"
-      }
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "5cbaf13d00d8c00a",
@@ -387,7 +394,7 @@
       "confidence": 1,
       "score": 38,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "告别 Claude 转投 Pi：一篇 HN 热帖的模型迁移记录",
         "takeaway": "Hacker News 热帖记录作者从 Claude 转向 Pi 的使用体验，引发 162 条讨论。",
@@ -398,7 +405,8 @@
         ],
         "detail": "Hacker News 上出现一篇题为「Goodbye Claude, Hello Pi」的文章，作者讲述自己从 Claude 转向 Pi 的过程。帖子获得 277 分和 162 条评论，引发不少讨论。但摘要只给了链接，没有说明 Pi 是什么、为何迁移，具体内容需阅读原文。",
         "generatedAt": "2026-11-08T17:36:56+08:00"
-      }
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "2a38b450ed2f9f44",
@@ -423,7 +431,7 @@
       "confidence": 1,
       "score": 37,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "llama.cpp 新增 MageVL-Cowork 模型支持",
         "takeaway": "llama.cpp 通过 PR 支持 MageVL-Cowork 多模态模型，本地推理生态再添新选择。",
@@ -434,7 +442,8 @@
         ],
         "detail": "llama.cpp 的 PR #31819 由 ngxson 提交，目的是让 llama.cpp 支持 MageVL-Cowork 模型。对应的 GGUF 格式权重已发布在 Hugging Face 的 ggml-org 组织下，方便用户直接下载并在本地运行。",
         "generatedAt": "2026-11-08T17:36:58+08:00"
-      }
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "a848963fbccb9d4a",
@@ -459,7 +468,7 @@
       "confidence": 0.17,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI泡沫监测：第三个定价器上牌桌，选票成新变量",
         "takeaway": "AI热潮未现放缓迹象，但融资结构已发出信号，地方选举结果正成为影响市场的新定价因素。",
@@ -470,7 +479,8 @@
         ],
         "detail": "文章通过四张考卷对账发现，AI相关企业均未承认增长放缓，但融资结构的变化已提前释放信号。11月5日纳指暴跌5.52%，导火索是选票——监管压力并非来自联邦政府，而是从地方县政府层面浮现。作者指出，股票、债券和选票分别按故事、到期日和任期定价，台账已登记，读数留待下期。",
         "generatedAt": "2026-11-08T10:47:26+08:00"
-      }
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "b1677b6da2e469a8",
@@ -495,7 +505,7 @@
       "confidence": 1,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Cordonix 0.4.1 发布：每日后台更新，完善 MCP 工具说明",
         "takeaway": "AI 编程智能体工具 Cordonix 更新，优化更新体验和 MCP 工具说明，提升易用性。",
@@ -506,7 +516,8 @@
         ],
         "detail": "Cordonix 是一款用 C11 编写的 AI 编程智能体工具，支持 Windows 和 Linux，通过 MCP 提供本地执行、文件读写等能力。0.4.1 版改进了安装后的更新体验，补全了所有 MCP 工具的参数说明，并让文件创建失败时的错误提示更准确。",
         "generatedAt": "2026-11-08T10:47:26+08:00"
-      }
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "b5d45a3a31c9d6ed",
@@ -564,7 +575,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "自动路由省钱吗？便宜模型出错后人类修复成本更高",
         "takeaway": "自动路由虽降低模型调用成本，但便宜模型出错后人工修复耗时可能更贵，需权衡总成本。",
@@ -576,7 +587,8 @@
         ],
         "detail": "自动路由通过为简单任务分配便宜模型来降低调用成本，但便宜模型可能出错，导致人类需要花时间修复。文章指出，修复错误的时间成本可能超过节省的模型费用，因此省钱效果需综合计算。",
         "generatedAt": "2026-11-08T09:38:53+08:00"
-      }
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "925da713d741956f",
@@ -599,7 +611,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Ontology 与 AI 自迭代：AICon 北京分享实践",
         "takeaway": "InfoQ 报道 AICon 北京一场演讲，讲 Ontology 如何支撑 AI 自迭代的落地实践。",
@@ -610,7 +622,8 @@
         ],
         "detail": "InfoQ 中国发布了一则 AICon 北京站演讲信息，主题为“从约束到进化：Ontology 与 AI 自迭代的实践”。摘要未展开具体内容，读者需点击原文了解演讲细节。",
         "generatedAt": "2026-11-08T10:04:11+08:00"
-      }
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "1ffd83b62bfbdb1d",
@@ -633,7 +646,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI 视频生成难逃“抽卡”：高效背后的返工与成本",
         "takeaway": "AI 视频生成看似高效，实际仍靠反复试错，返工与成本问题待解。",
@@ -644,7 +657,8 @@
         ],
         "detail": "文章讨论 AI 生成视频为何还离不开“抽卡”：看似一键出片，实际要反复生成、筛选和返工，隐性成本不低。高效生成的背后，返工与成本仍是待解难题。",
         "generatedAt": "2026-11-08T17:36:58+08:00"
-      }
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "de87750ba7a28998",
@@ -667,7 +681,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "租户隔离做了四层还不够？工程师提醒要验证边界生效",
         "takeaway": "多租户隔离不能只靠堆叠防护层，必须能观测边界是否真正生效，否则可能形同虚设。",
@@ -678,7 +692,8 @@
         ],
         "detail": "有工程师提醒，租户隔离即使做了四层，也不能想当然认为安全。关键在于能否看见每层边界是否真正生效，否则防护可能只是摆设。团队应关注隔离措施的实际效果，而非单纯堆叠层数。",
         "generatedAt": "2026-11-08T17:36:58+08:00"
-      }
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "d463e89def2c7765",
@@ -701,7 +716,7 @@
       "confidence": 0,
       "score": 35,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "MiniMax闫俊杰：AGI路径是抄“后”路，中美AI差距5%但更难追",
         "takeaway": "闫俊杰提出追赶AGI的“抄后路”策略，并指出中美AI差距虽仅5%但追赶难度更大。",
@@ -712,7 +727,8 @@
         ],
         "detail": "MiniMax创始人闫俊杰在钛媒体分享了对AGI路径的看法。他认为中美AI水平只差5%，但追赶这最后的5%比追赶前面95%更困难。为此，他提出“抄后路”的策略，即从后方迂回追赶。",
         "generatedAt": "2026-11-09T24:23:48+08:00"
-      }
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "1eeaf5457cb1a01a",
@@ -789,7 +805,19 @@
       "confidence": 1,
       "score": 34,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "Qwen 3.6 35B 新微调模型 Apex 与 Axion 引发社区询问",
+        "takeaway": "社区发现两款基于 Qwen 3.6 35B 的新微调模型，但缺乏讨论和资料，用户求评测反馈。",
+        "bullets": [
+          "Apex 35B 和 Axion 35B 均为 Qwen 3.6 35B 的微调版本",
+          "发帖者找不到任何相关讨论或评测信息",
+          "Axion 疑似由字节跳动制作，但未证实"
+        ],
+        "detail": "有用户在 LocalLLaMA 发帖称，发现了 Qwen 3.6 35B 的两个新微调模型 Apex 35B 和 Axion 35B，但在网上找不到任何讨论。其中 Axion 似乎由字节跳动制作，并附上了 Hugging Face 链接。发帖者询问是否有人试用过这些模型，因为相关信息很少。",
+        "generatedAt": "2026-11-09T06:36:58+08:00"
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "6797542b56c02b57",
@@ -815,7 +843,19 @@
       "confidence": 1,
       "score": 34,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "纽约时报烹饪应用推出AI食谱修改器，实测效果不错",
+        "takeaway": "NYT Cooking 新增 AI 测试功能，可替换食材或调整食谱，实测基本靠谱。",
+        "bullets": [
+          "纽约时报在 Cooking 应用中推出 AI 食谱修改器测试版。",
+          "用户可替换食材或按需求调整食谱。",
+          "Wired 作者实测后认为该功能大多准确。"
+        ],
+        "detail": "纽约时报在其烹饪应用中添加了一项测试功能，帮助读者替换食材或调整食谱以满足个人需求。Wired 作者试用后表示，该功能大多能达到预期效果。",
+        "generatedAt": "2026-11-09T06:36:58+08:00"
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "b2811de866489491",
@@ -838,7 +878,19 @@
       "confidence": 0,
       "score": 33,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "世界模型即将无处不在：你需要了解什么",
+        "takeaway": "世界模型让AI从文本走向3D空间，模拟物理世界，教机器人和自动驾驶汽车应对现实。",
+        "bullets": [
+          "世界模型模拟真实物理规律，让AI理解三维空间。",
+          "用于训练机器人和自动驾驶汽车在现实中导航。",
+          "Wired指出世界模型将变得无处不在，影响广泛。"
+        ],
+        "detail": "世界模型将AI从文本处理推进到三维空间，通过模拟真实世界的物理规律，帮助机器人和自动驾驶汽车学习如何在现实中导航。这种技术正变得无处不在，值得关注。",
+        "generatedAt": "2026-11-09T06:37:00+08:00"
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "040cc4eebcf1e655",
@@ -866,7 +918,20 @@
       "confidence": 0.82,
       "score": 33,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "interpret": {
+        "headline": "高通谈终端侧AI：从影像单点应用走向智能体体验",
+        "takeaway": "终端侧AI经过三四年发展迎来关键节点，正从拍照、问答等单点功能迈向智能体体验。",
+        "bullets": [
+          "高通中国区AI负责人万卫星在上海分享终端侧AI进展",
+          "影像是最早落地的领域，如今扩展到多模态应用",
+          "端侧已具备问答、图像生成、实时翻译等落地条件",
+          "下一步方向是从单点应用走向智能体体验"
+        ],
+        "detail": "高通AI产品技术中国区负责人万卫星指出，终端侧AI并非始于大模型，影像是最早落地的领域之一。如今它已扩展到问答、聊天、图像生成、文本处理、语音转录和实时翻译等多模态应用，不少功能在端侧落地条件已较成熟，正从单点应用走向智能体体验。",
+        "generatedAt": "2026-11-09T06:37:01+08:00"
+      },
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "88464d17c883520a",
@@ -941,7 +1006,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "b1d6d2a86fc5a322",
@@ -967,7 +1033,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "9712b935bc86d3fd",
@@ -992,7 +1059,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "9e3f0a6d42b78d1f",
@@ -1017,7 +1085,8 @@
       "confidence": 1,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "9948c2db2aeec085",
@@ -1040,7 +1109,8 @@
       "confidence": 0,
       "score": 29,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "6f1c9ae75312a132",
@@ -1063,7 +1133,8 @@
       "confidence": 0,
       "score": 29,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "323c42171476535c",
@@ -1086,7 +1157,8 @@
       "confidence": 0,
       "score": 29,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
       "id": "3849952f4db294f3",
@@ -1109,7 +1181,8 @@
       "confidence": 0,
       "score": 29,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-09T06:37:05+08:00"
     }
   ],
   "topic": "ai"
