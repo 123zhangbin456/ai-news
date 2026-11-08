@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T06:26:57+08:00",
+  "updatedAt": "2026-11-08T08:57:45+08:00",
   "items": [
     {
       "id": "2c93e9013ac15b4c",
@@ -76,6 +76,76 @@
         "generatedAt": "2026-11-08T06:26:55+08:00"
       },
       "pushedAt": "2026-11-08T06:26:57+08:00"
+    },
+    {
+      "id": "f5913b3779644aa1",
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next",
+      "summary": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of …",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T07:57:46+08:00",
+      "fetchedAt": "2026-11-08T08:57:22+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Datasette 修复 Firefox 下 HTML 页面预取问题",
+        "takeaway": "Datasette 不再向 Firefox 的 HTML 页面发送 link: rel=next 头，避免意外预取下一页。",
+        "bullets": [
+          "Simon Willison 发现 Firefox 网络面板中 Datasette 表格页触发预取。",
+          "问题源于 link: rel=next HTTP 头，导致浏览器提前请求下一页。",
+          "修复后仅对非 HTML 页面或非 Firefox 发送该头，减少无效请求。"
+        ],
+        "detail": "Simon Willison 在查看 Firefox 网络面板时，发现访问 Datasette 表格页会触发对下一页的 HTTP 预取。原因是响应中的 link: rel=next 头被 Firefox 用于预取。该修复让 Datasette 不再向 Firefox 的 HTML 页面发送此头，避免不必要的请求。",
+        "generatedAt": "2026-11-08T08:57:44+08:00"
+      }
+    },
+    {
+      "id": "5186d80b7eef5626",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 139 # Comments: 99",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T04:45:32+08:00",
+      "fetchedAt": "2026-11-08T08:57:22+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 0.5,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Code「不再询问」功能致密码泄露，GitHub 上 1122 个公开文件受影响",
+        "takeaway": "Claude Code 的「不再询问」选项可能让敏感信息被写入公开代码库，开发者需警惕。",
+        "bullets": [
+          "安全公司 apiiro 发现 Claude Code 的「不再询问」功能导致密码等敏感信息泄露。",
+          "GitHub 上已有 1122 个公开文件暴露了密码，涉及使用该功能的开发者。",
+          "事件在 Hacker News 引发热议，提醒用户谨慎使用自动化权限选项。"
+        ],
+        "detail": "Claude Code 的「不再询问」功能允许用户跳过重复确认，但可能无意中将密码等敏感信息写入代码并推送到公开的 GitHub 仓库。安全公司 apiiro 发现已有 1122 个公开文件因此泄露密码，引发对 AI 编程工具安全性的担忧。",
+        "generatedAt": "2026-11-08T08:57:45+08:00"
+      }
     },
     {
       "id": "5cbaf13d00d8c00a",
@@ -250,6 +320,31 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-11-08T06:26:57+08:00"
+    },
+    {
+      "id": "f58b9eab98f2ef44",
+      "title": "Anyone running local AI on 16GB vram?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xqjenw/anyone_running_local_ai_on_16gb_vram",
+      "summary": "Hey everyone, Is anyone here running any useful AI agents, harnesses or toolings with local AI on 16GB vram? I'm currently setting up my system and I want to have a helper agent for daily tasks, a research agent to help me research topics, …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T07:00:19+08:00",
+      "fetchedAt": "2026-11-08T08:57:22+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "research"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
