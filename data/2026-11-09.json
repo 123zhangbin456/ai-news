@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-09",
+  "updatedAt": "2026-11-09T24:23:48+08:00",
+  "items": [
+    {
+      "id": "76422fd0550c2632",
+      "title": "LexiSuite AIO bootable all rust OS/Engine/Kernel/Tuning & training management suite. Runs kernel 7.4 rc1 by default as the kernel needs work. Engine runs Qwen3.8 27b faster with lossless 5-25% lead over llama.cpp. 100% solo authored. Built on for 7900xtx vulcan, should work on other AMD cards.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xr20gs/lexisuite_aio_bootable_all_rust",
+      "summary": "Use balena etcher or whatever to mount to USB stick, boot. Test. Report. Verified 5-25% faster than llama.cpp, system uses 91% of card bandwidth as opposed to 80% on my 7900xtx. I there is code for nvidia, intel, amd, and chinese hardware a…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T24:12:34+08:00",
+      "fetchedAt": "2026-11-09T24:23:35+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA",
+        "AMD"
+      ],
+      "confidence": 0.56,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "个人开发者打造全 Rust 可启动 AI 系统，推理速度超 llama.cpp",
+        "takeaway": "一个可 U 盘启动的 Rust 系统，自带推理引擎，在 AMD 7900XTX 上比 llama.cpp 快 5-25%。",
+        "bullets": [
+          "LexiSuite 是单人编写的全 Rust 系统，含内核、引擎和训练管理套件",
+          "默认搭载 Linux 内核 7.4 rc1，作者称内核仍需完善",
+          "在 7900XTX 上运行 Qwen3.8 27b，比 llama.cpp 快 5-25% 且无损",
+          "系统占用 91% 显卡带宽，llama.cpp 约为 80%"
+        ],
+        "detail": "作者发布了一个可 U 盘启动的全 Rust 系统 LexiSuite，内置推理引擎，默认用 Linux 内核 7.4 rc1。在 AMD 7900XTX 上跑 Qwen3.8 27b，比 llama.cpp 快 5-25%，显卡带宽利用率达 91%。代码里也有英伟达、英特尔、AMD 和中国硬件的适配。",
+        "generatedAt": "2026-11-09T24:23:46+08:00"
+      }
+    },
+    {
+      "id": "e8a6915e8c732074",
+      "title": "Agent 越用越多，企业为何仍不够 AI Native？",
+      "url": "https://infoq.cn/article/YZx670AAiudsqZjx3UNo",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T08:08:00+08:00",
+      "fetchedAt": "2026-11-09T24:23:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Agent 越用越多，企业为何仍难成 AI Native？",
+        "takeaway": "Agent 数量增长不等于组织完成 AI 转型，企业距离 AI Native 仍有差距。",
+        "bullets": [
+          "InfoQ 中国发文追问：Agent 用得越来越多，企业为何仍不够 AI Native",
+          "讨论聚焦 Agent 普及与企业 AI Native 程度之间的落差",
+          "提示企业引入 Agent 不等于完成组织与流程的 AI 化"
+        ],
+        "detail": "InfoQ 中国提出一个问题：企业里用的 Agent 越来越多，但为什么还算不上 AI Native？文章围绕这一落差展开讨论，指出 Agent 的普及程度与企业的 AI Native 程度并不等同。",
+        "generatedAt": "2026-11-09T24:23:47+08:00"
+      }
+    }
+  ],
+  "topic": "ai"
+}

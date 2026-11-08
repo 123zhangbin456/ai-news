@@ -1,7 +1,41 @@
 {
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T17:36:58+08:00",
+  "updatedAt": "2026-11-09T24:23:48+08:00",
   "items": [
+    {
+      "id": "0548b6b007bd3f7b",
+      "title": "华为、OpenAI、字节等科技巨头为何都要插手制药？",
+      "url": "https://tmtpost.com/8197608.html",
+      "summary": "为何科技巨头都要插手制药？以及，AI到底能给制药带来多大改变？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T20:13:38+08:00",
+      "fetchedAt": "2026-11-09T24:23:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "华为、OpenAI、字节为何纷纷跨界制药？",
+        "takeaway": "科技巨头扎堆布局制药，AI能否真正改变新药研发值得关注。",
+        "bullets": [
+          "华为、OpenAI、字节等科技巨头纷纷涉足制药领域。",
+          "巨头跨界引发对AI赋能药物研发的讨论。",
+          "AI能否实质性改变制药流程成为核心疑问。"
+        ],
+        "detail": "钛媒体探讨科技巨头为何纷纷插手制药，以及AI能给制药带来多大改变。文章聚焦华为、OpenAI、字节等公司的跨界动向，并追问AI在药物研发中的实际作用。",
+        "generatedAt": "2026-11-09T24:23:45+08:00"
+      }
+    },
     {
       "id": "2c93e9013ac15b4c",
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
@@ -39,6 +73,43 @@
         "generatedAt": "2026-11-08T06:26:56+08:00"
       },
       "pushedAt": "2026-11-08T06:26:57+08:00"
+    },
+    {
+      "id": "5e9d3fd0e59ccb77",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "summary": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 153 # Comments: 44",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T18:22:04+08:00",
+      "fetchedAt": "2026-11-09T24:23:35+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama",
+        "DeepSeek"
+      ],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Llama-modchip：无 GPU 也能在 64GB 内存跑 284B DeepSeek",
+        "takeaway": "开源项目展示纯 CPU 大模型推理新思路，让超大模型在普通硬件上运行成为可能。",
+        "bullets": [
+          "项目名为 llama-modchip，在 GitHub 开源，登 Hacker News 热门。",
+          "目标是在 64GB 内存、无 GPU 环境下运行 284B 参数的 DeepSeek 模型。",
+          "若可行，将降低大模型部署门槛，影响个人开发者和小型团队。"
+        ],
+        "detail": "该项目在 GitHub 上发布，声称无需 GPU，仅靠 64GB 内存就能运行 284B 参数的 DeepSeek 大模型。这为缺乏高端显卡的用户提供了本地运行超大模型的新可能，但具体性能和实用性仍需社区验证。",
+        "generatedAt": "2026-11-09T24:23:46+08:00"
+      }
     },
     {
       "id": "0d1b6b6a5a7f6221",
@@ -571,6 +642,40 @@
       }
     },
     {
+      "id": "d463e89def2c7765",
+      "title": "MiniMax怎样实现AGI ？闫俊杰的办法是抄“后”路",
+      "url": "https://tmtpost.com/8197537.html",
+      "summary": "闫俊杰认为，中美AI只差5%，却比前面95%更难追。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T20:05:35+08:00",
+      "fetchedAt": "2026-11-09T24:23:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "MiniMax闫俊杰：AGI路径是抄“后”路，中美AI差距5%但更难追",
+        "takeaway": "闫俊杰提出追赶AGI的“抄后路”策略，并指出中美AI差距虽仅5%但追赶难度更大。",
+        "bullets": [
+          "闫俊杰认为中美AI差距只有5%，但追赶这5%比前面95%更难。",
+          "他提出的方法是“抄后路”，即从后方迂回追赶。",
+          "该观点来自钛媒体对MiniMax实现AGI路径的报道。"
+        ],
+        "detail": "MiniMax创始人闫俊杰在钛媒体分享了对AGI路径的看法。他认为中美AI水平只差5%，但追赶这最后的5%比追赶前面95%更困难。为此，他提出“抄后路”的策略，即从后方迂回追赶。",
+        "generatedAt": "2026-11-09T24:23:48+08:00"
+      }
+    },
+    {
       "id": "1eeaf5457cb1a01a",
       "title": "The end of Microsoft Research's AI Frontiers group",
       "url": "https://hunch.net/?p=13764006",
@@ -644,6 +749,83 @@
       ],
       "confidence": 1,
       "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6797542b56c02b57",
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "url": "https://wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good",
+      "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T20:00:00+08:00",
+      "fetchedAt": "2026-11-09T24:23:35+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "feature",
+        "app"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b2811de866489491",
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "url": "https://wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know",
+      "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T18:00:00+08:00",
+      "fetchedAt": "2026-11-09T24:23:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "040cc4eebcf1e655",
+      "title": "终端侧AI：从单点应用走向智能体体验",
+      "url": "https://leiphone.com/category/chips/aOKsujJpdDvRKj5S.html",
+      "summary": "发言人：高通公司AI产品技术中国区负责人万卫星 2026年11月7日，上海终端侧AI发展到了什么阶段？ 终端侧AI经过过去3至4年的发展，正在迎来一个比较重要的变化节点。从应用来看，终端侧AI并不是从大模型开始的。影像其实是AI较早在终端落地的领域之一。近年来手机拍照效果不断提升，背后就有终端侧AI技术的推动。如今，终端侧AI已经进一步拓展到简单问答、聊天、图像生成与处理，以及文本处理、语音转录、实时翻译等多模态应用，其中不少功能在端侧落地的条件已经比较成熟。不过，目前很多端…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T15:54:00+08:00",
+      "fetchedAt": "2026-11-09T24:23:35+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "产品",
+        "功能",
+        "应用",
+        "落地"
+      ],
+      "confidence": 0.82,
+      "score": 33,
       "related": [],
       "pushed": false
     },
@@ -749,6 +931,56 @@
       "pushed": false
     },
     {
+      "id": "9712b935bc86d3fd",
+      "title": "\"Does censorship exist in [country]?\", according to various LLMs",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to",
+      "summary": "I wrote a small program that asks the same Yes/No question about every country to a language model, and generates an SVG world map that visualizes the model's responses: https://github.com/p-e-w/llm-beliefs I'm rather surprised by the resul…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T22:56:07+08:00",
+      "fetchedAt": "2026-11-09T24:23:35+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9e3f0a6d42b78d1f",
+      "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb",
+      "summary": "Oh look, thats us! submitted by /u/ab2377 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T22:45:22+08:00",
+      "fetchedAt": "2026-11-09T24:23:35+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "9948c2db2aeec085",
       "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财原",
       "url": "https://ifanr.com/1688364",
@@ -764,6 +996,75 @@
       "topic": "ai",
       "publishedAt": "2026-11-08T11:35:42+08:00",
       "fetchedAt": "2026-11-08T17:36:49+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6f1c9ae75312a132",
+      "title": "刘庆峰交出科大讯飞半张AI答卷",
+      "url": "https://tmtpost.com/8197516.html",
+      "summary": "科大讯飞的AI布局像个杂货铺么？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T20:13:27+08:00",
+      "fetchedAt": "2026-11-09T24:23:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "323c42171476535c",
+      "title": "中石油60%控股，与宇树、泛界合设公司，油气机器人“验收权”不能交给外部厂商",
+      "url": "https://tmtpost.com/8197535.html",
+      "summary": "中石油控股三方合营，锚定油气具身机器人标准定义。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T20:09:29+08:00",
+      "fetchedAt": "2026-11-09T24:23:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3849952f4db294f3",
+      "title": "What do to with RTX A2000 6GB",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xqwhcj/what_do_to_with_rtx_a2000_6gb",
+      "summary": "So, bought a workstation with single RTX A2000 6GB, since its being used as a VM server it just stays there idle. Machine runs 24/7. I can pass it to some VM but though 12GB was a bare minimum to do anything productive with local AI, LLM or…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T19:38:44+08:00",
+      "fetchedAt": "2026-11-09T24:23:35+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
