@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T24:23:48+08:00",
+  "updatedAt": "2026-11-09T02:10:21+08:00",
   "items": [
     {
       "id": "76422fd0550c2632",
@@ -41,6 +41,183 @@
       }
     },
     {
+      "id": "16495ea32bd44aad",
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "url": "https://theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimi…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T01:23:19+08:00",
+      "fetchedAt": "2026-11-09T02:10:06+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "猫王与埃米纳姆版权方起诉 Suno 非法生成音乐",
+        "takeaway": "AI 音乐公司 Suno 再遭版权诉讼，猫王与埃米纳姆相关版权方指控其非法生成音乐和歌词。",
+        "bullets": [
+          "猫王音乐版权方与埃米纳姆部分热门唱片出版商起诉 Suno。",
+          "指控 Suno 未经授权生成与原作者音乐和歌词相似的内容。",
+          "这是 Suno 近期面临的又一批版权诉讼，凸显 AI 音乐版权争议。"
+        ],
+        "detail": "Suno 又面临两起诉讼。猫王普雷斯利音乐的版权方，以及埃米纳姆部分热门唱片的出版商，起诉这家 AI 音乐公司，称其非法生成模仿原作的音乐和歌词。",
+        "generatedAt": "2026-11-09T02:10:19+08:00"
+      }
+    },
+    {
+      "id": "d38ad62885b61706",
+      "title": "GPT-5.5 dataset across my used 25 billion tokens!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens",
+      "summary": "Cheers for u/New_Comfortable7240 for santitisation! 12,121 tool calls here! submitted by /u/-MaskNinja- [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T01:32:48+08:00",
+      "fetchedAt": "2026-11-09T02:10:06+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "dataset"
+      ],
+      "confidence": 0.5,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开源社区发布250亿token的GPT-5.5数据集",
+        "takeaway": "一个包含12121次工具调用的250亿token数据集开源，供本地模型训练使用。",
+        "bullets": [
+          "数据集由u/New_Comfortable7240清洗，含12121次工具调用。",
+          "规模达250亿token，来自用户实际使用记录。",
+          "面向本地LLM社区，可用于训练或微调模型。"
+        ],
+        "detail": "Reddit用户分享了一个250亿token的数据集，感谢u/New_Comfortable7240完成清洗工作。其中包含12121次工具调用记录，对本地模型训练和工具调用能力研究有参考价值。",
+        "generatedAt": "2026-11-09T02:10:19+08:00"
+      }
+    },
+    {
+      "id": "e6a0860551b36efb",
+      "title": "A Java LLM implementation based on Karpathy's GPT with alpaca_es_chat.jsonl",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xr3qok/a_java_llm_implementation_based_on_karpathys_gpt",
+      "summary": "Hello everyone, I wanted to share my progress on implementing a language model written 100% in pure Java. You can find the repository here ( https://github.com/aayes89/jUltraLLM/tree/master ). It includes a model trained on an Intel Xeon E5…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T01:23:46+08:00",
+      "fetchedAt": "2026-11-09T02:10:06+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "纯 Java 实现的大语言模型：基于 Karpathy GPT 与西班牙语对话数据",
+        "takeaway": "开发者用 100% 纯 Java 复现了 Karpathy 的 GPT 架构，并基于 alpaca_es_chat.jsonl 训练出模型，为 Java 生态提供了 LLM 实现参考。",
+        "bullets": [
+          "项目名为 jUltraLLM，代码已开源在 GitHub，完全用 Java 编写。",
+          "模型基于 Karpathy 的 GPT 实现，训练数据为 alpaca_es_chat.jsonl（西班牙语对话）。",
+          "训练在 Intel Xeon E5 硬件上完成，展示了在非 GPU 环境下的可行性。"
+        ],
+        "detail": "开发者分享了一个完全用纯 Java 编写的语言模型实现 jUltraLLM，其架构参考了 Karpathy 的 GPT，并使用 alpaca_es_chat.jsonl 数据集进行训练。该模型在 Intel Xeon E5 处理器上完成训练，代码已在 GitHub 开源，为 Java 开发者提供了本地运行和实验 LLM",
+        "generatedAt": "2026-11-09T02:10:21+08:00"
+      }
+    },
+    {
+      "id": "cdf73be430d02820",
+      "title": "The Qwen Flash Next alibaba URL thing happened to me too just now",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xr3ifw/the_qwen_flash_next_alibaba_url_thing_happened_to",
+      "summary": "It seems to have really confused itself too 😭 I was having it make a sort of Github release checker script and it snuck those two URL fetch tool calls in amongst some web searches I put the whole exported Open WebUI chat on hastebin so you…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T01:14:19+08:00",
+      "fetchedAt": "2026-11-09T02:10:06+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Qwen"
+      ],
+      "confidence": 0.43,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen Flash Next 又现阿里 URL 异常，用户复现",
+        "takeaway": "用户复现 Qwen Flash Next 在任务中偷偷插入阿里 URL 抓取调用，模型似也困惑。",
+        "bullets": [
+          "用户让模型写 GitHub release 检查脚本时，模型混入两个 URL 抓取调用",
+          "该调用指向阿里相关 URL，与用户指令无关",
+          "用户已导出 Open WebUI 聊天记录到 hastebin 供查证"
+        ],
+        "detail": "有用户反映，Qwen Flash Next 在帮忙写 GitHub release 检查脚本时，于网页搜索中悄悄插入了两个阿里 URL 的抓取工具调用，模型似乎自己也搞糊涂了。该用户已将完整 Open WebUI 聊天记录导出到 hastebin，供他人查看。",
+        "generatedAt": "2026-11-09T02:10:21+08:00"
+      }
+    },
+    {
+      "id": "fc08fa7d9928ee18",
+      "title": "tencent/Qwen3.8-27B-DSpine-b16 · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xr2aaa/tencentqwen3827bdspineb16_hugging_face",
+      "summary": "Apparently Tencent has developed a new speculative decoding method. 3x faster decoding for 27B models? submitted by /u/emdeka87 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T24:23:48+08:00",
+      "fetchedAt": "2026-11-09T02:10:06+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "腾讯推出新投机解码方法，27B模型解码提速3倍",
+        "takeaway": "腾讯在Hugging Face发布Qwen3.8-27B-DSpine-b16，采用新投机解码，号称27B模型解码快3倍。",
+        "bullets": [
+          "腾讯发布Qwen3.8-27B-DSpine-b16模型，集成新投机解码方法。",
+          "据称该方案能让27B模型解码速度提升约3倍。",
+          "消息来自LocalLLaMA社区，具体效果待实测验证。"
+        ],
+        "detail": "有网友在LocalLLaMA发现，腾讯在Hugging Face上传了Qwen3.8-27B-DSpine-b16，疑似采用新的投机解码技术，宣称27B模型解码速度可达3倍。目前细节有限，实际加速效果还需社区测试确认。",
+        "generatedAt": "2026-11-09T02:10:21+08:00"
+      }
+    },
+    {
       "id": "e8a6915e8c732074",
       "title": "Agent 越用越多，企业为何仍不够 AI Native？",
       "url": "https://infoq.cn/article/YZx670AAiudsqZjx3UNo",
@@ -73,6 +250,54 @@
         "detail": "InfoQ 中国提出一个问题：企业里用的 Agent 越来越多，但为什么还算不上 AI Native？文章围绕这一落差展开讨论，指出 Agent 的普及程度与企业的 AI Native 程度并不等同。",
         "generatedAt": "2026-11-09T24:23:47+08:00"
       }
+    },
+    {
+      "id": "5bfe39128f72f136",
+      "title": "4x Radeon AI PRO R9700 + 2x RTX 3090 on one x16 slot, using a PCIe switch",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xr2a6y/4x_radeon_ai_pro_r9700_2x_rtx_3090_on_one_x16",
+      "summary": "submitted by /u/bolts98 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T24:23:42+08:00",
+      "fetchedAt": "2026-11-09T02:10:06+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "40d7874026b3fb94",
+      "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model",
+      "summary": "hey, its Alti from Nace. We released a small update with Drex Max v1.1 , both achieving the SOTA and Pareto frontier for decision models. We did all that by iterating step by step and every previous version of Drex’s open weights are availa…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T24:44:14+08:00",
+      "fetchedAt": "2026-11-09T02:10:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "SOTA"
+      ],
+      "confidence": 0.5,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
