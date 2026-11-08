@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T10:47:26+08:00",
+  "updatedAt": "2026-11-08T17:36:58+08:00",
   "items": [
     {
       "id": "2c93e9013ac15b4c",
@@ -39,6 +39,42 @@
         "generatedAt": "2026-11-08T06:26:56+08:00"
       },
       "pushedAt": "2026-11-08T06:26:57+08:00"
+    },
+    {
+      "id": "0d1b6b6a5a7f6221",
+      "title": "顶尖 AI 实验室正在成为“人才黑洞”！Claude Code 团队工程师离职后首次受访",
+      "url": "https://infoq.cn/article/Qs0pJ5M43c56hdozHiR0",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T23:03:06+08:00",
+      "fetchedAt": "2026-11-08T17:36:49+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "离职"
+      ],
+      "confidence": 0.5,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "顶尖 AI 实验室成“人才黑洞”，Claude Code 工程师离职后首度发声",
+        "takeaway": "AI 人才争夺白热化，顶尖实验室虹吸效应引发行业关注，离职工程师视角揭示内情。",
+        "bullets": [
+          "顶尖 AI 实验室正成为“人才黑洞”，大量吸纳行业精英。",
+          "Claude Code 团队一名工程师离职后首次接受采访。",
+          "事件反映 AI 领域人才流动加剧，或影响团队稳定与创新。"
+        ],
+        "detail": "InfoQ 中国报道，顶尖 AI 实验室正像“人才黑洞”一样吸走行业人才。Claude Code 团队一名工程师离职后首次受访，分享经历。这折射出 AI 人才争夺战愈演愈烈，可能对团队建设和行业生态产生深远影响。",
+        "generatedAt": "2026-11-08T17:36:56+08:00"
+      }
     },
     {
       "id": "d44fec61ccb764a3",
@@ -148,6 +184,40 @@
       }
     },
     {
+      "id": "11d5c12583f345de",
+      "title": "资本正在撤离“世界模型”",
+      "url": "https://qbitai.com/2026/11/508466.html",
+      "summary": "没有永远的夏天",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T12:09:55+08:00",
+      "fetchedAt": "2026-11-08T17:36:49+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "资本正在撤离“世界模型”",
+        "takeaway": "曾被视为AI下一风口的“世界模型”遭遇资本退潮，行业热度降温。",
+        "bullets": [
+          "“世界模型”赛道投资热度下降，资本开始撤离。",
+          "该领域此前被看好为AI重要方向，如今面临降温。",
+          "行业或进入调整期，相关创业公司承压。"
+        ],
+        "detail": "据量子位报道，资本正在撤离“世界模型”领域。这一方向曾被视为AI的重要风口，但如今投资热情减退，行业可能进入调整阶段。",
+        "generatedAt": "2026-11-08T17:36:56+08:00"
+      }
+    },
+    {
       "id": "5cbaf13d00d8c00a",
       "title": "llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add",
@@ -183,6 +253,78 @@
         "generatedAt": "2026-11-08T24:34:27+08:00"
       },
       "pushedAt": "2026-11-08T06:26:57+08:00"
+    },
+    {
+      "id": "e66f4eeac8f3ba07",
+      "title": "Goodbye Claude, Hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 277 # Comments: 162",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T11:11:48+08:00",
+      "fetchedAt": "2026-11-08T17:36:49+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "告别 Claude 转投 Pi：一篇 HN 热帖的模型迁移记录",
+        "takeaway": "Hacker News 热帖记录作者从 Claude 转向 Pi 的使用体验，引发 162 条讨论。",
+        "bullets": [
+          "帖子标题为「Goodbye Claude, Hello Pi」，作者分享从 Claude 迁移到 Pi 的经历",
+          "该帖在 Hacker News 获 277 分、162 条评论，讨论热度较高",
+          "摘要未披露 Pi 的具体功能与迁移原因，细节需看原文"
+        ],
+        "detail": "Hacker News 上出现一篇题为「Goodbye Claude, Hello Pi」的文章，作者讲述自己从 Claude 转向 Pi 的过程。帖子获得 277 分和 162 条评论，引发不少讨论。但摘要只给了链接，没有说明 Pi 是什么、为何迁移，具体内容需阅读原文。",
+        "generatedAt": "2026-11-08T17:36:56+08:00"
+      }
+    },
+    {
+      "id": "2a38b450ed2f9f44",
+      "title": "mtmd: support MageVL-Cowork model by ngxson · Pull Request #31819 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xqpc7u/mtmd_support_magevlcowork_model_by_ngxson_pull",
+      "summary": "GGUF to use : https://huggingface.co/ggml-org/Mage-VL-Cowork-GGUF submitted by /u/pmttyji [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T12:04:59+08:00",
+      "fetchedAt": "2026-11-08T17:36:49+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 新增 MageVL-Cowork 模型支持",
+        "takeaway": "llama.cpp 通过 PR 支持 MageVL-Cowork 多模态模型，本地推理生态再添新选择。",
+        "bullets": [
+          "PR #31819 由 ngxson 提交，为 llama.cpp 增加 MageVL-Cowork 支持",
+          "配套 GGUF 权重已上传至 Hugging Face 的 ggml-org 仓库",
+          "用户可在本地用 llama.cpp 运行该多模态模型"
+        ],
+        "detail": "llama.cpp 的 PR #31819 由 ngxson 提交，目的是让 llama.cpp 支持 MageVL-Cowork 模型。对应的 GGUF 格式权重已发布在 Hugging Face 的 ggml-org 组织下，方便用户直接下载并在本地运行。",
+        "generatedAt": "2026-11-08T17:36:58+08:00"
+      }
     },
     {
       "id": "a848963fbccb9d4a",
@@ -361,6 +503,74 @@
       }
     },
     {
+      "id": "1ffd83b62bfbdb1d",
+      "title": "AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题",
+      "url": "https://infoq.cn/article/xd9o6TyQ8GLON3dmiWpG",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T24:19:44+08:00",
+      "fetchedAt": "2026-11-08T17:36:49+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 视频生成难逃“抽卡”：高效背后的返工与成本",
+        "takeaway": "AI 视频生成看似高效，实际仍靠反复试错，返工与成本问题待解。",
+        "bullets": [
+          "AI 生成视频常需多次“抽卡”式尝试才能得到可用结果",
+          "反复返工推高了实际使用成本",
+          "高效生成的宣传与真实工作流存在落差"
+        ],
+        "detail": "文章讨论 AI 生成视频为何还离不开“抽卡”：看似一键出片，实际要反复生成、筛选和返工，隐性成本不低。高效生成的背后，返工与成本仍是待解难题。",
+        "generatedAt": "2026-11-08T17:36:58+08:00"
+      }
+    },
+    {
+      "id": "de87750ba7a28998",
+      "title": "租户隔离做了四层，就能放心了吗？工程师提醒：还得看得见边界是否生效",
+      "url": "https://infoq.cn/article/zTFVgklcTFZvgE2fkV7A",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T22:00:00+08:00",
+      "fetchedAt": "2026-11-08T17:36:49+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "租户隔离做了四层还不够？工程师提醒要验证边界生效",
+        "takeaway": "多租户隔离不能只靠堆叠防护层，必须能观测边界是否真正生效，否则可能形同虚设。",
+        "bullets": [
+          "工程师指出，四层租户隔离不等于安全，需验证每层边界是否生效。",
+          "隔离措施若缺乏可见性，可能掩盖配置错误或绕过风险。",
+          "建议团队建立边界生效的观测机制，而非只关注层数。"
+        ],
+        "detail": "有工程师提醒，租户隔离即使做了四层，也不能想当然认为安全。关键在于能否看见每层边界是否真正生效，否则防护可能只是摆设。团队应关注隔离措施的实际效果，而非单纯堆叠层数。",
+        "generatedAt": "2026-11-08T17:36:58+08:00"
+      }
+    },
+    {
       "id": "1eeaf5457cb1a01a",
       "title": "The end of Microsoft Research's AI Frontiers group",
       "url": "https://hunch.net/?p=13764006",
@@ -411,6 +621,31 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-11-08T06:26:57+08:00"
+    },
+    {
+      "id": "b801d5345db4a4ce",
+      "title": "Anybody tried Apex 35B and Axion 35B?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xqrqn6/anybody_tried_apex_35b_and_axion_35b",
+      "summary": "I found new finetunes of Qwen 3.6 35B but I couldn't find any discussions on them anywhere. Anybody tried these models? There isn't much info out there. Axion seems like it was made by bytedance https://huggingface.co/Apexintelligence-AI/Ap…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T14:26:17+08:00",
+      "fetchedAt": "2026-11-08T17:36:49+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "88464d17c883520a",
@@ -484,6 +719,55 @@
       ],
       "confidence": 1,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b1d6d2a86fc5a322",
+      "title": "从资本密集到人力密集：全球AI的瓶颈，卡在缺乏“电工”",
+      "url": "https://tmtpost.com/8194549.html",
+      "summary": "AI 基建瓶颈几经转移：从 GPU、电力、电气设备，如今落到电工等施工人力。资本可买断设备排期，却无法压缩技工数年培养周期。这场 AI 竞赛，正从资本密集转向人力密集，人力供给约束，或将决定算力扩张长期上限。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T14:55:09+08:00",
+      "fetchedAt": "2026-11-08T17:36:49+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力",
+        "GPU"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9948c2db2aeec085",
+      "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财原",
+      "url": "https://ifanr.com/1688364",
+      "summary": "磁带在 AI 时代迎来了第二春。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T11:35:42+08:00",
+      "fetchedAt": "2026-11-08T17:36:49+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
       "related": [],
       "pushed": false
     }
