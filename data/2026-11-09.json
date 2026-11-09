@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T10:23:44+08:00",
+  "updatedAt": "2026-11-09T11:06:05+08:00",
   "items": [
     {
       "id": "ce0a393f5bc7e60b",
@@ -150,6 +150,42 @@
         ],
         "detail": "英伟达周日宣布，正调查CEO黄仁勋与AI高管Alice Huang的关系。Alice Huang被指为中国政府代理人。董事会已启动调查，事件涉及公司治理与地缘政治风险。",
         "generatedAt": "2026-11-09T09:17:18+08:00"
+      }
+    },
+    {
+      "id": "0e5dccef67ce7b61",
+      "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
+      "url": "https://qbitai.com/2026/11/508498.html",
+      "summary": "英伟达暗盘跌2%",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T08:40:50+08:00",
+      "fetchedAt": "2026-11-09T11:05:59+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "英伟达"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋承认出轨发全员信道歉，英伟达启动紧急调查",
+        "takeaway": "英伟达CEO黄仁勋承认个人行为不当并道歉，公司启动调查，暗盘股价跌2%。",
+        "bullets": [
+          "黄仁勋发全员信承认出轨并道歉",
+          "英伟达已启动紧急调查程序",
+          "消息致英伟达暗盘股价下跌2%"
+        ],
+        "detail": "英伟达CEO黄仁勋向全体员工发送信件，承认自己出轨并公开道歉。公司随即启动紧急调查。受此消息影响，英伟达暗盘股价下跌2%。",
+        "generatedAt": "2026-11-09T11:06:04+08:00"
       }
     },
     {
@@ -701,6 +737,74 @@
         "generatedAt": "2026-11-09T24:23:47+08:00"
       },
       "pushedAt": "2026-11-09T06:37:05+08:00"
+    },
+    {
+      "id": "e99b223537e584a1",
+      "title": "Harness 已经很准了，为什么还需要一个 Agent Native Database",
+      "url": "https://infoq.cn/article/49JGp1l7v97riBlPpZ1q",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T18:44:00+08:00",
+      "fetchedAt": "2026-11-09T11:05:59+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Harness 已够准，为何还需 Agent 原生数据库",
+        "takeaway": "InfoQ 探讨在 Harness 已较准确的前提下，为何仍要引入面向 Agent 的原生数据库。",
+        "bullets": [
+          "讨论对象是 Harness 与 Agent 原生数据库的关系",
+          "核心问题是已有准确度是否足以支撑 Agent 场景",
+          "文章来自 InfoQ 中国，属技术架构层面的探讨"
+        ],
+        "detail": "文章围绕一个技术选型问题展开：Harness 的准确度已经不错，为什么还要专门做一个 Agent 原生数据库。原文未给出更多细节，具体论据需查看原文。",
+        "generatedAt": "2026-11-09T11:06:05+08:00"
+      }
+    },
+    {
+      "id": "ae8989ffbdc53e91",
+      "title": "2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+      "url": "https://infoq.cn/article/6kuDZAK0IFkKviGrGzIR",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T18:25:36+08:00",
+      "fetchedAt": "2026-11-09T11:05:59+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 2.5小时挖出一个Linux零日，人类逆向数周才看懂",
+        "takeaway": "AI挖漏洞速度远超人类理解速度，Linux安全面临新挑战。",
+        "bullets": [
+          "AI每2.5小时发现一个Linux零日漏洞",
+          "累计发现400多个root提权漏洞",
+          "人类逆向分析单个漏洞需数周时间"
+        ],
+        "detail": "InfoQ报道，AI工具以每2.5小时一个的速度挖掘Linux零日漏洞，已发现400多个root提权漏洞。但人类逆向工程师需要数周才能理解其中一个漏洞，凸显AI发现速度与人类理解能力之间的巨大差距。",
+        "generatedAt": "2026-11-09T11:06:05+08:00"
+      }
     },
     {
       "id": "c5f863e409daa2ad",
