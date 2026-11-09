@@ -1,7 +1,122 @@
 {
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T11:06:05+08:00",
+  "updatedAt": "2026-11-09T19:52:45+08:00",
   "items": [
+    {
+      "id": "fe4e06ad9a4c9436",
+      "title": "OpenAI、Anthropic、Google 各有接口，开放标准离统一还有多远？",
+      "url": "https://infoq.cn/article/5e8Qs11VHRHRyYsB2kFO",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T22:35:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "开放"
+      ],
+      "confidence": 1,
+      "score": 60,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "OpenAI、Anthropic、Google 各有接口，开放标准离统一还有多远？",
+        "takeaway": "三大模型厂商接口各成体系，统一开放标准仍缺共识，开发者适配成本高。",
+        "bullets": [
+          "OpenAI、Anthropic、Google 各自提供模型接口",
+          "接口互不兼容，开发者需分别适配",
+          "开放标准尚未统一，生态碎片化待解"
+        ],
+        "detail": "InfoQ 中国讨论 OpenAI、Anthropic、Google 三家各自推出模型接口的现状，指出接口标准尚未统一。文章追问开放标准距离真正统一还有多远，关注开发者跨平台适配的成本问题。",
+        "generatedAt": "2026-11-09T19:52:25+08:00"
+      },
+      "pushedAt": "2026-11-09T19:52:45+08:00"
+    },
+    {
+      "id": "aa42e095f983da84",
+      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+      "url": "https://qbitai.com/2026/11/508694.html",
+      "summary": "11月9日，千问办公发布2.0版本",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T16:34:03+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 59,
+      "related": [
+        {
+          "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+          "url": "https://infoq.cn/article/1Mz0ADa02PxcDsVfpVEb",
+          "source": "InfoQ 中国"
+        }
+      ],
+      "pushed": false,
+      "interpret": {
+        "headline": "千问办公2.0发布，推出首个多人与Agent协作的Team Agent",
+        "takeaway": "千问办公升级2.0，首次实现多人与AI Agent协同工作，办公协作模式迎来新变化。",
+        "bullets": [
+          "千问办公2.0于11月9日正式发布",
+          "推出首个支持多人与Agent协作的Team Agent功能",
+          "Team Agent让多个用户与AI Agent共同完成任务"
+        ],
+        "detail": "11月9日，千问办公发布2.0版本，最大亮点是推出首个支持多人与Agent协作的Team Agent。这意味着多个用户可以和AI Agent一起协同工作，提升办公效率。",
+        "generatedAt": "2026-11-09T19:52:25+08:00"
+      }
+    },
+    {
+      "id": "bd98d4cd36bbdff8",
+      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+      "url": "https://qbitai.com/2026/11/507843.html",
+      "summary": "",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T16:44:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.6,
+      "score": 57,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "腾讯混元Hy4开源实测：搭配WorkBuddy，多模态Agent交付力拉满",
+        "takeaway": "腾讯混元新开源模型Hy4被称最强开源之一，实测搭配WorkBuddy展现多模态Agent交付能力。",
+        "bullets": [
+          "腾讯混元Hy4跻身最强开源模型行列",
+          "实测搭配WorkBuddy，多模态Agent交付力突出",
+          "对开源模型生态和Agent应用有参考价值"
+        ],
+        "detail": "量子位报道，腾讯混元新模型Hy4被视为最强开源模型之一。作者一手实测，将其与WorkBuddy搭配，展示多模态Agent在任务交付上的表现。",
+        "generatedAt": "2026-11-09T19:52:25+08:00"
+      }
+    },
     {
       "id": "ce0a393f5bc7e60b",
       "title": "Apple is racing to make Siri more agentic",
@@ -39,6 +154,76 @@
         "generatedAt": "2026-11-09T06:36:54+08:00"
       },
       "pushedAt": "2026-11-09T06:37:05+08:00"
+    },
+    {
+      "id": "9a78a09b2759cba0",
+      "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+      "url": "https://qbitai.com/2026/11/508607.html",
+      "summary": "Worker不够了主管Agent还能自己招！",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:47:58+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 1,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI接管8万Star开源公司，写代码派任务查Bug全包",
+        "takeaway": "AI开始接管开源公司日常开发，主管Agent还能自己招Worker，值得关注。",
+        "bullets": [
+          "AI系统接管一家8万Star开源公司的开发工作",
+          "覆盖写代码、派任务、查Bug全流程",
+          "主管Agent在Worker不足时可自主招募"
+        ],
+        "detail": "一家拥有8万Star的开源公司被AI系统接管，AI负责写代码、分配任务和查Bug。当Worker不够时，主管Agent还能自己招人。",
+        "generatedAt": "2026-11-09T19:52:27+08:00"
+      }
+    },
+    {
+      "id": "f3a7a7e691b19148",
+      "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
+      "url": "https://qbitai.com/2026/11/508629.html",
+      "summary": "最早量产的亲自泼冷水",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T15:02:36+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "奔驰宝马放弃L3自动驾驶：体验不及L2",
+        "takeaway": "曾率先量产L3的奔驰宝马宣布退出，称其还不如L2好用，给行业泼冷水。",
+        "bullets": [
+          "奔驰和宝马官宣不再推进L3级自动驾驶。",
+          "两家车企认为L3体验甚至不如现有的L2。",
+          "作为最早量产L3的车企，此举引发行业反思。"
+        ],
+        "detail": "奔驰和宝马近日宣布放弃L3级自动驾驶项目。这两家最早量产L3的车企表示，实际体验还不如L2好用，因此决定不再继续。这一表态给正热衷L3的车企和供应商泼了冷水。",
+        "generatedAt": "2026-11-09T19:52:27+08:00"
+      }
     },
     {
       "id": "45da7994669e5304",
@@ -189,6 +374,262 @@
       }
     },
     {
+      "id": "f154d5ffd8b82cd8",
+      "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+      "url": "https://qbitai.com/2026/11/508603.html",
+      "summary": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:09:23+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "preview"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+        "takeaway": "基元律动推出Agent原生模型新版本，RSI迭代进入第二轮，值得关注其能力提升。",
+        "bullets": [
+          "11月5日，基元律动发布NeoHorse-1.5-Flash Preview。",
+          "该模型为Agent原生模型，RSI进入第二轮迭代。",
+          "发布方为基元律动（TokenRhythm）。"
+        ],
+        "detail": "11月5日，基元律动（TokenRhythm）发布了Agent原生模型NeoHorse-1.5-Flash Preview。该模型的RSI（迭代式自我改进）已进入第二轮迭代。",
+        "generatedAt": "2026-11-09T19:52:27+08:00"
+      }
+    },
+    {
+      "id": "7220d908db0913b0",
+      "title": "🔥 优化及缺陷修复：开源 AI 无代码平台 NocoBase",
+      "url": "https://oschina.net/news/503485",
+      "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支： main、next 和 develop。** main： 截至目前最稳定的版本，推荐安装此版本。 next： 包含即将发布的新功能，经过初步测试的版本，可能存在部分已知或未知问题。主要面向测试用户，用于收集反馈和进一步优化功能。适合愿意提前体验...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T16:24:02+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.6,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "NocoBase 更新：优化与缺陷修复，稳定版推荐安装",
+        "takeaway": "开源 AI 无代码平台 NocoBase 发布周更新，以优化和修缺陷为主，稳定版 main 分支推荐使用。",
+        "bullets": [
+          "NocoBase 汇总一周产品更新日志，最新发布可查看博客",
+          "平台分 main、next、develop 三个分支，main 最稳定",
+          "next 含即将发布的新功能，面向测试用户收集反馈"
+        ],
+        "detail": "NocoBase 是一个开源 AI 无代码平台，本次更新主要做优化和缺陷修复。它有三个分支：main 最稳定推荐安装，next 含初步测试的新功能适合尝鲜，develop 供开发使用。",
+        "generatedAt": "2026-11-09T19:52:29+08:00"
+      }
+    },
+    {
+      "id": "c34401c55344fe31",
+      "title": "“AI毁了我的计算机学位”",
+      "url": "https://qbitai.com/2026/11/508706.html",
+      "summary": "教授也用Claude糊弄…",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T16:57:20+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI冲击计算机学位：教授也用Claude糊弄教学",
+        "takeaway": "AI工具渗透课堂，学生质疑计算机学位价值，教学双方都在用AI应付。",
+        "bullets": [
+          "学生抱怨AI让计算机学位贬值，学习质量下降",
+          "教授也被曝用Claude等工具糊弄备课或答疑",
+          "教学双方依赖AI，引发对教育诚信的担忧"
+        ],
+        "detail": "有声音指出AI正在毁掉计算机学位：学生用AI完成作业，教授也用Claude等工具应付教学，导致课堂质量下滑。这引发了对计算机教育价值和学术诚信的普遍担忧。",
+        "generatedAt": "2026-11-09T19:52:29+08:00"
+      }
+    },
+    {
+      "id": "7a92ba3787cb7a13",
+      "title": "“印度成OpenAI最大市场”，Altman首次回应“离职潮”：一群聪明人互不信任",
+      "url": "https://infoq.cn/article/7AXcQvPCSwfPhtL8iQpo",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T22:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "离职"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Altman回应离职潮：聪明人互不信任，印度成OpenAI最大市场",
+        "takeaway": "OpenAI CEO首次回应人才流失，称内部信任问题；同时印度成为其最大市场，凸显全球AI竞争格局变化。",
+        "bullets": [
+          "Altman承认离职潮源于聪明人之间的互不信任",
+          "印度成为OpenAI最大市场，用户增长迅速",
+          "回应背景：近期多名核心研究员离职创业",
+          "OpenAI面临人才保留与市场扩张的双重挑战"
+        ],
+        "detail": "OpenAI CEO Sam Altman首次公开回应近期离职潮，称一群聪明人互不信任导致人才流失。同时他透露印度已成为OpenAI最大市场，用户规模快速增长。这反映出OpenAI在内部管理和全球市场拓展上的新动向。",
+        "generatedAt": "2026-11-09T19:52:31+08:00"
+      }
+    },
+    {
+      "id": "6d695b0f5c48f737",
+      "title": "Java 近期资讯：JDK 28 发布日程、Oracle 关键补丁、eMudhra 证书、Apache POI、WildFly、Azul 与 BellSoft",
+      "url": "https://infoq.cn/article/w8RTJSY44DJJy97uagQr",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T19:27:27+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Java 近期动态：JDK 28 日程、Oracle 补丁与多项生态更新",
+        "takeaway": "InfoQ 汇总 Java 生态近期多条动态，涉及 JDK 28 发布日程、Oracle 关键补丁及多个项目更新。",
+        "bullets": [
+          "JDK 28 发布日程公布，Java 版本节奏继续推进",
+          "Oracle 发布关键补丁，涉及 Java 相关安全修复",
+          "Apache POI、WildFly、Azul、BellSoft 等均有更新"
+        ],
+        "detail": "InfoQ 中国汇总了 Java 生态近期资讯：JDK 28 的发布日程已明确，Oracle 推出关键补丁，eMudhra 证书相关事项也有更新；此外 Apache POI、WildFly、Azul 和 BellSoft 等项目和厂商同样有动态。",
+        "generatedAt": "2026-11-09T19:52:31+08:00"
+      }
+    },
+    {
+      "id": "6ee1dee33e4bfc63",
+      "title": "Hide your slop PR descriptions behind",
+      "url": "https://simonwillison.net/2026/Nov/9/details-summary",
+      "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document d…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T12:25:05+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Simon Willison：把 AI 生成的粗糙 PR 描述藏起来",
+        "takeaway": "AI 代写 PR 已成常态，但描述质量参差，作者建议别让它们直接暴露给协作者。",
+        "bullets": [
+          "Willison 的项目改动多由 Claude Code 或 Codex 自动开 PR",
+          "他把 PR 当作工作单元，用来打包提交并反复迭代",
+          "AI 生成的 PR 描述往往粗糙，直接展示会影响协作体验"
+        ],
+        "detail": "Willison 说，他如今对项目的大部分改动，都是 Claude Code 或 Codex 替他开的 PR。他把 PR 当作基本工作单元，把提交打包在一起，反复迭代直到功能完成。但这类 AI 生成的 PR 描述通常比较粗糙，他建议把它们藏起来，别直接暴露给协作者。",
+        "generatedAt": "2026-11-09T19:52:32+08:00"
+      }
+    },
+    {
+      "id": "4e92252af62d1303",
+      "title": "投早、投小、投硬科技：浦东是AI创业者绕不开的科技梦想启航热土",
+      "url": "https://leiphone.com/category/industrynews/XXfvZnVJPOL1N6yx.html",
+      "summary": "对一支刚刚组建的 AI 创业团队来说，最难的时刻，往往不是产品上线之后，而是产品还没成形之前：技术路线有了，核心成员到位了，甚至已经看见了一个值得投入的市场，却拿不出成熟产品和营收数据。此时，第一笔融资从哪里来？谁愿意在最早期相信一群创业者？这张支票，常常决定一个技术梦想能不能真正启程。今年3月17日，浦东创投AI训练营首期正式开营，24名创始人走进张江人工智能创新小镇。根据公开报道，入营团队即与浦东创投完成签约，获得保底30万元股权投资；经过营中观察和结营评估，优质项目还可…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T15:05:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "投资",
+        "股权"
+      ],
+      "confidence": 0.73,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "浦东创投AI训练营开营：给早期AI团队保底30万投资",
+        "takeaway": "浦东用训练营+保底投资的方式，帮还没产品的AI团队拿到第一笔钱，值得早期创业者关注。",
+        "bullets": [
+          "24名AI创始人入营张江人工智能创新小镇，入营即签约获保底30万元股权投资。",
+          "训练营由浦东创投主办，聚焦投早、投小、投硬科技，解决早期融资难。",
+          "优质项目结营评估后还可获进一步投资，降低AI团队启动门槛。"
+        ],
+        "detail": "对刚组建的AI团队来说，产品没成形、没有营收时最难拿到第一笔钱。今年3月17日，浦东创投AI训练营首期开营，24位创始人入营即与浦东创投签约，获得保底30万元股权投资；表现好的项目在结营评估后还有机会拿到更多投资。",
+        "generatedAt": "2026-11-09T19:52:33+08:00"
+      }
+    },
+    {
       "id": "76422fd0550c2632",
       "title": "LexiSuite AIO bootable all rust OS/Engine/Kernel/Tuning & training management suite. Runs kernel 7.4 rc1 by default as the kernel needs work. Engine runs Qwen3.8 27b faster with lossless 5-25% lead over llama.cpp. 100% solo authored. Built on for 7900xtx vulcan, should work on other AMD cards.",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xr20gs/lexisuite_aio_bootable_all_rust",
@@ -261,6 +702,42 @@
         ],
         "detail": "现有AI编程基准只关注解题率和输出成本，却不惩罚冗余代码和过度设计，长期会累积技术债。作者开源了一个新基准，通过统计补丁中的语句、调用、名称等语法单元，来衡量代码的简洁程度。",
         "generatedAt": "2026-11-09T09:17:18+08:00"
+      }
+    },
+    {
+      "id": "b10abbc74a2315ba",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:26:29+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.33,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋CEO职位悬了？耶鲁学者估留任概率五五开",
+        "takeaway": "英伟达董事会调查黄仁勋与疑似中国间谍的关系，耶鲁教授认为其去留概率各半。",
+        "bullets": [
+          "英伟达董事会正调查黄仁勋与一名疑似中国间谍的关系",
+          "耶鲁大学杰弗里·索南菲尔德估计黄仁勋留任概率约50%",
+          "调查结果可能影响英伟达管理层稳定与公司战略"
+        ],
+        "detail": "英伟达董事会正在调查CEO黄仁勋与一名疑似中国间谍的关系。耶鲁大学管理学教授杰弗里·索南菲尔德认为，黄仁勋能否继续担任CEO大约五五开。这一调查可能影响英伟达的领导层稳定。",
+        "generatedAt": "2026-11-09T19:52:34+08:00"
       }
     },
     {
@@ -445,6 +922,115 @@
       }
     },
     {
+      "id": "6895cfdbfea2328f",
+      "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
+      "url": "https://qbitai.com/2026/11/508690.html",
+      "summary": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T16:26:45+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "投资"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "第20届中国投资年会LP峰会即将启幕",
+        "takeaway": "峰会以“叙事奔涌，何以为锚”为主题，聚焦投资与产业的底层逻辑。",
+        "bullets": [
+          "第20届中国投资年会·有限合伙人峰会即将举行",
+          "主题强调厘清故事与现实的边界",
+          "面向LP群体，回归投资与产业底层逻辑"
+        ],
+        "detail": "第20届中国投资年会·有限合伙人峰会即将启幕，主题为“叙事奔涌，何以为锚”。会议主张厘清故事与现实的边界，回归投资与产业的底层逻辑。",
+        "generatedAt": "2026-11-09T19:52:33+08:00"
+      }
+    },
+    {
+      "id": "6e7cf72f5c66edbb",
+      "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+      "url": "https://wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers",
+      "summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T16:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "伦敦东郊居民联合抗议谷歌新建数据中心",
+        "takeaway": "欧洲数据中心抗议潮蔓延，伦敦东郊多元群体联手阻挠谷歌大型设施建设。",
+        "bullets": [
+          "谷歌计划在伦敦以东建设大型数据中心，遭当地居民抗议。",
+          "抗议者包括骑行爱好者和昆虫爱好者等不同群体。",
+          "类似抗议正在欧洲多地出现，反映数据中心扩张引发社区矛盾。"
+        ],
+        "detail": "随着欧洲各地爆发针对数据中心的抗议，一群背景各异的活动人士正试图阻止谷歌在伦敦以东建设一座大型数据中心。抗议者中既有骑行爱好者，也有昆虫爱好者，他们因反对该设施而联合起来。",
+        "generatedAt": "2026-11-09T19:52:35+08:00"
+      }
+    },
+    {
+      "id": "b98ba548e198b683",
+      "title": "FAV Lab 未来视听实验室正式开业：华强北“硬科技潮品首发地”",
+      "url": "https://leiphone.com/category/industrynews/XMSv9fRcpKP6fRXD.html",
+      "summary": "11月1日，坐落于“中国电子第一街”华强北核心地段、毗邻深南大道的 FAV Lab 未来视听实验室正式宣告开业。FAV Lab由世界人工智能眼镜联盟（WAEA）与世界超高清视频产业联盟（UWA）共同发起，镜界探索负责投资运营，定位为全球AI视听场景展示体验中心、硬科技潮品首发地、国际买手选品一站式枢纽，将打造华强北极具辨识度的“街头超级科技橱窗”和面向海内外客商的国际化科技会客厅。 FAV Lab 采用独立全通透地面单层展馆形态，以“多重现实共生”为设计理念，在全球 AI+硬…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T14:23:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "实验"
+      ],
+      "confidence": 0.25,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "FAV Lab未来视听实验室在华强北开业，定位AI视听首发地",
+        "takeaway": "华强北新增AI视听体验中心，由两大联盟发起，意在打造硬科技首发与选品枢纽。",
+        "bullets": [
+          "FAV Lab由WAEA与UWA共同发起，镜界探索投资运营。",
+          "定位全球AI视听展示体验中心与硬科技潮品首发地。",
+          "选址华强北核心地段，采用全通透单层展馆形态。",
+          "目标成为国际化科技会客厅和买手选品枢纽。"
+        ],
+        "detail": "11月1日，FAV Lab未来视听实验室在华强北核心地段开业，毗邻深南大道。该实验室由世界人工智能眼镜联盟和世界超高清视频产业联盟共同发起，镜界探索负责投资运营，定位为全球AI视听场景展示体验中心、硬科技潮品首发地及国际买手选品一站式枢纽，设计上强调“多重现实共生”。",
+        "generatedAt": "2026-11-09T19:52:36+08:00"
+      }
+    },
+    {
       "id": "d38ad62885b61706",
       "title": "GPT-5.5 dataset across my used 25 billion tokens!",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens",
@@ -556,6 +1142,42 @@
       "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
+      "id": "abeae1125b0b71be",
+      "title": "🔥🔥ApiGo 5.5 发布，新增数据行列级权限",
+      "url": "https://oschina.net/news/503488",
+      "summary": "ApiGo 是面向企业的 AI Agent 受控数据服务网关与 API 与 MCP 构建平台，通过WorkBuddy、千问办公等 AI 智能体，一句话即可完成受控的 API 与 MCP 的创建发布，帮助企业把 ERP、CRM、SRM 等存量业务系统数据封装成标准化 REST API 与 MCP 工具，让 AI 智能体在策略管控下访问企业业务数据。 5.5 更新内容 1、新增接口发布...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T17:29:47+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ApiGo 5.5 发布：新增数据行列级权限管控",
+        "takeaway": "企业 AI Agent 数据网关 ApiGo 升级到 5.5，加入行列级权限，让智能体访问业务数据更可控。",
+        "bullets": [
+          "ApiGo 5.5 新增数据行列级权限，细粒度控制智能体可见数据",
+          "面向企业，把 ERP、CRM、SRM 等存量系统数据封装为 REST API 与 MCP 工具",
+          "通过 WorkBuddy、千问办公等智能体，一句话即可创建发布受控 API 与 MCP"
+        ],
+        "detail": "ApiGo 是面向企业的 AI Agent 受控数据服务网关与 API、MCP 构建平台。5.5 版本新增数据行列级权限，可更细粒度地管控 AI 智能体访问企业业务数据；同时支持通过 WorkBuddy、千问办公等智能体一句话创建发布受控 API 与 MCP，把 ERP、CRM、SRM 等存量系统数据标准化开放给智能体",
+        "generatedAt": "2026-11-09T19:52:36+08:00"
+      }
+    },
+    {
       "id": "cdf73be430d02820",
       "title": "The Qwen Flash Next alibaba URL thing happened to me too just now",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xr3ifw/the_qwen_flash_next_alibaba_url_thing_happened_to",
@@ -631,6 +1253,159 @@
       }
     },
     {
+      "id": "2382673acb375df8",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "url": "https://simonwillison.net/2026/Nov/9/hn-50421091",
+      "summary": "My comment on The Web Is More Than Enough, by Paul Ford &mdash; Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.n…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T12:32:33+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Paul Ford 撰文《The Web Is More Than Enough》，Simon Willison 受启发用 Three.js 做海兔彩蛋",
+        "takeaway": "Simon Willison 受 Paul Ford 文章和 HN 评论启发，用 Three.js 做了一个海兔主题的 Faberge 彩蛋。",
+        "bullets": [
+          "Paul Ford 发表文章《The Web Is More Than Enough》，引发 Hacker News 讨论。",
+          "Simon Willison 称一条 HN 评论说服他尝试，随即用 Three.js 创作。",
+          "作品是海兔主题的 Faberge 彩蛋，链接已公开。"
+        ],
+        "detail": "Simon Willison 在博客中回应 Paul Ford 的文章《The Web Is More Than Enough》。他表示，Hacker News 上的一条评论让他决定动手试试，于是当天上午用 Three.js 做了一个海兔主题的 Faberge 彩蛋，并附上了链接。",
+        "generatedAt": "2026-11-09T19:52:38+08:00"
+      }
+    },
+    {
+      "id": "26f46239719cf110",
+      "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
+      "url": "https://qbitai.com/2026/11/508586.html",
+      "summary": "“让人放心，把人放大。”",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T11:47:12+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [
+        {
+          "title": "当 AI 在加速狂奔，什么反而应该“慢”下来？",
+          "url": "https://infoq.cn/article/Guys6YS7FsKUg8dLtMJx",
+          "source": "InfoQ 中国"
+        },
+        {
+          "title": "当 AI 在加速狂奔，什么反而应该“慢”下来？",
+          "url": "https://leiphone.com/category/industrynews/zGBfQTDDCpSCfYIK.html",
+          "source": "雷锋网"
+        }
+      ],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI狂奔时，什么该慢下来？答案：让人放心、把人放大",
+        "takeaway": "量子位提出AI加速发展中的反向思考：技术越快，越需关注人的信任与价值放大。",
+        "bullets": [
+          "量子位发文探讨AI加速狂奔背景下应“慢”下来的方面",
+          "核心观点是“让人放心，把人放大”",
+          "强调技术发展需兼顾信任与人的价值"
+        ],
+        "detail": "量子位文章提出，在AI技术高速发展时，反而应该在某些方面慢下来。核心是“让人放心，把人放大”，即建立信任并增强人的能力，而非单纯追求速度。",
+        "generatedAt": "2026-11-09T19:52:38+08:00"
+      }
+    },
+    {
+      "id": "fb03b813665fe75e",
+      "title": "行业最大规模具身模型挑战赛迎来决赛：15支战队将展开48小时真机角逐",
+      "url": "https://leiphone.com/category/industrynews/5ejIhKWAtmfZvdqx.html",
+      "summary": "11月6日，首届蚂蚁灵波具身大模型挑战赛决赛晋级战队正式出炉：15支战队、59位选手从全球1855支队伍、3252位选手中脱颖而出，锁定线下决赛资格。 （图：首届蚂蚁灵波具身大模型挑战赛决赛入围名单） 15强集结，48小时真机黑客松决战本届挑战赛聚焦具身大模型与物理世界的交互能力，吸引了全球13个国家、648所高校、科研院所、科技企业及具身智能团队参与。据大赛算力合作方之一AMD披露，初赛GPU投入由原计划的200张增至350张，两阶段累计提供超34万卡时算力支持。参赛规模和…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T17:16:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力",
+        "GPU",
+        "AMD"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "蚂蚁灵波具身大模型挑战赛15强出炉，48小时真机决赛",
+        "takeaway": "全球1855支队伍参赛，15支战队晋级，将进行48小时真机角逐，规模为行业最大。",
+        "bullets": [
+          "15支战队从全球1855支队伍、3252位选手中晋级线下决赛。",
+          "决赛为48小时真机黑客松，聚焦具身大模型与物理世界交互。",
+          "AMD披露初赛GPU从200张增至350张，累计提供超34万卡时算力。"
+        ],
+        "detail": "首届蚂蚁灵波具身大模型挑战赛决赛名单公布，15支战队、59位选手从全球1855支队伍中突围。比赛聚焦具身大模型与物理世界交互，决赛以48小时真机黑客松形式进行。AMD称初赛GPU投入增至350张，两阶段累计提供超34万卡时算力。",
+        "generatedAt": "2026-11-09T19:52:38+08:00"
+      }
+    },
+    {
+      "id": "11f43071a0da4b85",
+      "title": "Vue 可视化 AI 表单设计器 FcDesigner v3.6 版本发布，支持导出 SQL 功能!",
+      "url": "https://oschina.net/news/503482",
+      "summary": "FcDesigner 是基于 Vue 的低代码可视化 AI 表单设计器。用自然语言描述业务即可生成表单结构，也可以拖拽组件并导出 JSON，再由渲染器还原成可交互表单，适合政务、OA、ERP、电商和流程审批。源码地址: Github | Gitee | 文档 | 在线演示核心功能内置表单多语言体系，轻松打破语言隔阂。提供 30+ 常用组件，涵盖表单...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T15:01:16+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0.33,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "FcDesigner v3.6 发布：Vue 低代码表单设计器新增 SQL 导出",
+        "takeaway": "基于 Vue 的可视化 AI 表单设计器 FcDesigner 更新，支持导出 SQL，方便表单数据落库。",
+        "bullets": [
+          "FcDesigner 是基于 Vue 的低代码可视化 AI 表单设计器，可用自然语言生成表单结构。",
+          "v3.6 版本新增导出 SQL 功能，表单设计可直接对接数据库。",
+          "内置多语言体系和 30+ 常用组件，适用于政务、OA、ERP 等场景。"
+        ],
+        "detail": "FcDesigner 是一款基于 Vue 的低代码可视化 AI 表单设计器，用户可以用自然语言描述业务来生成表单，也可以拖拽组件并导出 JSON，再由渲染器还原成可交互表单。v3.6 版本新增导出 SQL 功能，让表单设计更直接地对接数据库，适合政务、OA、ERP、电商和流程审批等场景。",
+        "generatedAt": "2026-11-09T19:52:40+08:00"
+      }
+    },
+    {
       "id": "063e3273dcec8a1d",
       "title": "Kimi-K3.1-Pro-Coder (2.8T) | 1.77 TB -> 775 GB (-56%) | 36.8 TPS (Batch) / 10.8 TPS on 1x Blackwell | 96.7% on both AIME 2025 and LiveCodeBench",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xr777l/kimik31procoder_28t_177_tb_775_gb_56_368_tps",
@@ -667,6 +1442,114 @@
         "generatedAt": "2026-11-09T06:36:56+08:00"
       },
       "pushedAt": "2026-11-09T06:37:05+08:00"
+    },
+    {
+      "id": "377136af568cea2e",
+      "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
+      "url": "https://qbitai.com/2026/11/508566.html",
+      "summary": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T10:19:08+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "虎鲸文娱鲸锐AI创作大赛走进清华，寻找最会讲故事的AI创作者",
+        "takeaway": "虎鲸文娱在清华举办AI创作大赛对谈，聚焦用AI讲好中国故事，值得关注AI与文化创作的结合。",
+        "bullets": [
+          "11月6日，清华大学举行鲸锐AI创作大赛大咖对谈活动。",
+          "活动主题为“新技术激发文化新活力，用AI讲好中国故事”。",
+          "大赛旨在寻找最会讲故事的AI创作者，虎鲸文娱主办。"
+        ],
+        "detail": "11月6日，虎鲸文娱在清华大学举办鲸锐AI创作大赛的大咖对谈活动，主题是“新技术激发文化新活力，用AI讲好中国故事”。活动面向AI创作者，旨在寻找最会讲故事的人。",
+        "generatedAt": "2026-11-09T19:52:40+08:00"
+      }
+    },
+    {
+      "id": "6d9e6a691cdd1110",
+      "title": "第八届世界浙商大会举行AI专题活动支付宝分享AI办事实践",
+      "url": "https://leiphone.com/category/industrynews/41xBwd2JagAdaaxT.html",
+      "summary": "11月6日，第八届世界浙商大会在杭州开幕。大会由浙江省委、省政府主办，省委统战部、省工商联、浙商总会承办，开幕式展示了近两年浙江民营企业主导或参与的科技创新成果，并发布创新实践案例。其中，由省委统战部、省工商联报送的《数字赋能送政策，精准直达惠民企》案例成功入选，成为大会发布的省级单位创新实践案例之一。该案例依托省工商联牵头建设的“浙里政策惠企精准直达大模型”平台，运用人工智能技术构建惠企政策“归集—解读—推送—评价”业务闭环，推动实现从“企业找政策”向“政策找企业”转变。支…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T11:43:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "世界浙商大会聚焦AI，支付宝分享AI办事实践",
+        "takeaway": "浙商大会展示AI惠企成果，政策找企业模式获认可，支付宝分享实践。",
+        "bullets": [
+          "第八届世界浙商大会在杭州开幕，展示浙江民企科技创新成果。",
+          "“浙里政策惠企精准直达大模型”入选省级创新实践案例。",
+          "该平台用AI实现政策归集、解读、推送、评价闭环。",
+          "支付宝在AI专题活动分享AI办事实践。"
+        ],
+        "detail": "11月6日，第八届世界浙商大会在杭州开幕，展示近两年浙江民企科技创新成果并发布创新实践案例。其中，依托省工商联“浙里政策惠企精准直达大模型”平台的案例入选，该平台用AI构建惠企政策闭环，推动“企业找政策”变“政策找企业”。支付宝在AI专题活动分享AI办事实践。",
+        "generatedAt": "2026-11-09T19:52:40+08:00"
+      }
+    },
+    {
+      "id": "c008339f51d4d66b",
+      "title": "L11 N8147 is a neuron that will make Qwen-3.5-4B get things confidently wrong while being weirdly snarky... But also makes it write interesting poetry",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get",
+      "summary": "Inspired by some of the other brain surgery posts, I wanted to see if I could find anything interesting in Qwen. Not particularly useful to make it get things wrong all the time I guess, but I find the poetry it comes out with weirdly fasci…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T14:42:07+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen-3.5-4B 单个神经元被玩坏：自信答错还毒舌，却写出有趣诗歌",
+        "takeaway": "社区玩家在 Qwen-3.5-4B 里定位到一个神经元，激活它会让模型自信答错、语气毒舌，但诗歌输出反而更有意思。",
+        "bullets": [
+          "受其他“脑外科”帖子启发，作者在 Qwen 中寻找可操控的神经元。",
+          "L11 N8147 被激活后，模型会自信地给出错误答案，语气还带讽刺。",
+          "同一神经元似乎也让模型写出风格独特的诗歌。",
+          "作者认为这不算实用，但展示了小模型内部行为的可解释性趣味。"
+        ],
+        "detail": "作者模仿社区里的“脑外科”实验，在 Qwen-3.5-4B 中定位到第 11 层第 8147 号神经元。激活它后，模型会自信地答错问题，还带点毒舌语气；但同一操作下，模型写出的诗歌却意外有趣。作者坦言这没什么实用价值，更多是好奇和好玩。",
+        "generatedAt": "2026-11-09T19:52:43+08:00"
+      }
     },
     {
       "id": "fc08fa7d9928ee18",
@@ -807,6 +1690,201 @@
       }
     },
     {
+      "id": "862b9137ab2d5379",
+      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+      "url": "https://wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools",
+      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T19:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "paper"
+      ],
+      "confidence": 0.5,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "48a3a305e1db3be8",
+      "title": "AI越来越聪明，企业却快管不住了：Gartner 2027年十大趋势，智能体治理成新战场",
+      "url": "https://infoq.cn/article/CUgMFMX7uRJNMec1pfYo",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T24:55:59+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "治理"
+      ],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "81fe60d750dae48e",
+      "title": "当 Flutter 遇上鸿蒙：一次“杂志级”混合开发实战",
+      "url": "https://infoq.cn/article/R6kE7tmckRcxpNj11mBb",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T21:55:46+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "78aa8793774e1c14",
+      "title": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的隐形底座？",
+      "url": "https://infoq.cn/article/icMBWWjE3LTzEY1tHKr8",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T21:40:24+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "助手"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0220b41a01aa9b08",
+      "title": "开发者每周借助 AI 节约数十小时的比例在一年内从 68% 降至 26%",
+      "url": "https://infoq.cn/article/sdqHapplv45dQguTJ415",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T21:14:31+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "56339ea3fc557a22",
+      "title": "得票最高的功能终于来了，OpenTofu 开始内置代码检查",
+      "url": "https://infoq.cn/article/jXBV6ib9g8g2Gw6kDaYh",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T21:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "功能"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0f91b4aa8e6722c5",
+      "title": "【Fintech 周报】六大行恢复大额存单发售；工行旗下村镇银行清零",
+      "url": "https://tmtpost.com/8197883.html",
+      "summary": "外汇局拟拓宽支付机构外汇业务范围至贸易新业态；利率自律机制核心成员扩容至18家；8款App被互金协会通报；普通型人身险预定利率研究值下调4个基点；10月不良贷款挂牌约238亿元；全国首笔数字人民币智能合约公积金“商转公”贷款在常州落地；农行500亿元二级资本债落地；招行日均消耗800亿Token；国宝人寿注册资本增至45.21亿元；太保系举牌中国神华H股；鲲鹏支付承认商户结算延迟；万事达卡与OpenAI达成Agent Pay战略合作。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T16:38:27+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地",
+        "app"
+      ],
+      "confidence": 0.4,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d02e2309aed1b617",
+      "title": "微信 AI 录音笔体验：手机都能装的办公神器，免费！",
+      "url": "https://ifanr.com/1688410",
+      "summary": "又能摸鱼了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T12:00:04+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "c5f863e409daa2ad",
       "title": "Resurrecting 2013 E-Waste: Native CUDA Mamba-1 & PyTorch 2.7.1 on Windows (Kepler–Turing, SM 3.5–7.5)",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xr97iz/resurrecting_2013_ewaste_native_cuda_mamba1",
@@ -843,6 +1921,157 @@
         "generatedAt": "2026-11-09T06:36:58+08:00"
       },
       "pushedAt": "2026-11-09T06:37:05+08:00"
+    },
+    {
+      "id": "c8e73eddb47a44eb",
+      "title": "皮尔法伯集团与晶泰科技达成AI驱动药物发现合作，将在肿瘤领域联合开展多个研发项目",
+      "url": "https://leiphone.com/category/shengwuyiyao/HMCKdmWiZA0bT07Q.html",
+      "summary": "雷峰网消息，2026年11月6日，皮尔法伯集团与晶泰科技（2228.HK）宣布达成一项合作协议。双方将在肿瘤领域联合开展多个研发项目，共同发现新型临床候选药物，并有望拓展至皮肤病、罕见病等领域。根据协议，晶泰科技将依托其一体化的“AI+机器人”核心能力，针对未披露的靶点从头设计并交付新型小分子治疗药物。皮尔法伯集团将发挥其在疾病生物学、药物发现、转化研究和临床开发领域的经验，筛选、推进最有前景的化合物，并负责后续的临床与商业开发。此次合作体现了双方在探索具有挑战性、且长期以来…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T15:28:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "研究"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5340d61be8566edb",
+      "title": "从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”",
+      "url": "https://leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html",
+      "summary": "9 月22 日，张江人工智能创新小镇的一间路演厅里，二十余支极早期创业团队依次登台。这里没有太多成熟企业的标准答案：不少公司成立尚不足一年，有的还没有完整产品，更谈不上稳定营收。但在这场结营仪式上，团队们迎来了一个重要节点——他们全部与浦东创投完成签约，入营阶段获得的种子支持得到确认，其中超过半数项目获得追加投资，金额最高可达150万元。同一天，第三期AI训练营面向全球开启招募。一场结营仪式，呈现出浦东创投正在推进的一条新路径：让一笔投资成为入口，再把课程、资本、产业场景和创…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T15:17:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "投资"
+      ],
+      "confidence": 0.67,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "38bbc974c2517115",
+      "title": "脚本 Ram Altman 监视 PC 闲置内存然后发邮件给 Sam Altman",
+      "url": "https://solidot.org/story?sid=85834",
+      "summary": "OpenAI CEO Sam Altman 因为一句 PC 内存浪费的评论而成为无数梗图的讽刺对象，他甚至为此自嘲，在社交媒体上将用户名改名为“Ram Altman”。现在开发者 Iain Kay 为 Linux 系统开发了一个 BASH 脚本 Ram Altman，旨在监测 PC 的闲置内存容量。闲置内存的百分比会被发送邮件给 Sam Altman。当然只是说说，具体取决于用户的设置。默认情况下脚本未预先配置电邮服务器。如果闲置内存超过了总内存的 10%，Ram Altma…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T15:32:15+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "评论",
+        "CEO"
+      ],
+      "confidence": 0.5,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7c7ce56614eeda55",
+      "title": "苹果将工程师的每日 AI 预算限制在 200 美元",
+      "url": "https://solidot.org/story?sid=85833",
+      "summary": "世界市值最高的公司也开始对 AI 预算设限。苹果据报道将部分工程师的每日 AI 预算从 300 美元削减至 200 美元。苹果市值最近再次超过英伟达跃居第一。苹果此举并非是因为缺乏现金支持内部研发，而是因为在企业级规模下生成式 AI 存在着无法回避的经济规律。如果对先进模型的使用不加限制，成本曲线将呈指数级增长，这足以摧毁任何企业的利润空间，即便苹果也不例外。",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T14:40:12+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "英伟达"
+      ],
+      "confidence": 1,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "36a09a8e048d6bad",
+      "title": "“X-Day”西丽湖路演社亚太数智创新专场成功举办共探AI硬件出海新机遇",
+      "url": "https://leiphone.com/category/weiwu/ZpO4WNiF4Go9XTtQ.html",
+      "summary": "2026年11月5日下午，“X-Day”西丽湖路演社亚太数智创新专场在深圳大学城国际会议中心成功举办。活动以“拥抱数智、链接全球”为主题，聚焦AI硬件跨境产业优势与亚太区域创新合作，共吸引头部投资机构、优质创业团队、行业专家及高校师生200余人参加。活动现场，工商银行深圳市分行普惠金融事业部总经理兼科技金融中心总经理李玉霜，万兴科技副总裁、战略投资总经理吴佳兵，洪泰基金合伙人王远博，金沙江联合资本合伙人邱恺，云沐资本早期投资负责人李津瑶，浩方集团副总裁、浩方创投副总裁李颖，帝…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T09:50:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "投资"
+      ],
+      "confidence": 1,
+      "score": 32,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8e51793c49fe8885",
+      "title": "Asahi Linux 从 MIT 许可证切换到 GPL 许可证",
+      "url": "https://solidot.org/story?sid=85832",
+      "summary": "旨在将 Linux 移植到运行 Apple Silicon 芯片的 Mac 电脑的发行版项目 Asahi Linux 宣布从 MIT 许可证切换到 GPLv2 或以上版本的许可证。原因是有人将开发者分支尚在开发中的代码未注明出处发表，甚至利用 AI 重写代码以掩盖来源意图取代原项目和进行牟利。AI 出现前，代码洗白（Code laundering）通常涉及逐行手动重写代码、修改变量名，通过调整函数结构，使代码看起来与原版截然不同。LLM 的出现让这一过程变得更轻松、成本也更低…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T14:29:20+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片"
+      ],
+      "confidence": 1,
+      "score": 31,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "5bfe39128f72f136",
@@ -1025,6 +2254,643 @@
       ],
       "confidence": 1,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b4d7f5da43b69763",
+      "title": "AI进不了相亲相爱一家人，怎么办？",
+      "url": "https://tmtpost.com/8198165.html",
+      "summary": "微信不妨学一学？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T19:00:16+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "59e2a334b4a35086",
+      "title": "AI带得动这届双十一吗？",
+      "url": "https://tmtpost.com/8198668.html",
+      "summary": "AI省下的效率，还没换来电商对等的增长。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T19:00:07+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d750f09801fa2230",
+      "title": "谁家 AI 这么听劝？Seedream 5.5 爆改 iPhone Duo 界面，精准到像素级",
+      "url": "https://ifanr.com/1688514",
+      "summary": "AI 版 PS 的时代来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T17:19:02+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d749101f896e3fb2",
+      "title": "苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini",
+      "url": "https://ifanr.com/1688485",
+      "summary": "终于不是后空翻、跳舞、跑步了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T15:56:58+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8dc672eb85212af9",
+      "title": "MARS: Training Multilingual Search Agents for Retriever-Free Evidence Acquisition",
+      "url": "https://arxiv.org/abs/2611.09090",
+      "summary": "arXiv:2611.09090v1 Announce Type: new Abstract: Existing multilingual retrieval-augmented generation relies heavily on learned retrievers and similarity-based ranking from multilingual collections, which are vulnerable to cross-lingual retr…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "paperRank": 5,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6f686aa5b32d6a3a",
+      "title": "Github Repo: Torchlens - Inspect, visualize and intervene on any operation in any neural network.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xrh5iz/github_repo_torchlens_inspect_visualize_and",
+      "summary": "submitted by /u/Thrumpwart [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T11:25:32+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github",
+        "repo"
+      ],
+      "confidence": 1,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b4717b7762b78b19",
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
+      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 340 # Comments: 563",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T07:44:36+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 1,
+      "score": 26,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d51855ec0b7b4a19",
+      "title": "Phantom Consensus: Measuring Social Reasoning in Multi-Agent LLM Decision-Making",
+      "url": "https://arxiv.org/abs/2611.08971",
+      "summary": "arXiv:2611.08971v1 Announce Type: cross Abstract: Multi-agent LLM systems increasingly aggregate judgments across model instances, but reasoning about other agents can itself introduce failure. We study a setting in which LLMs shift their p…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2c739bb8e64036fb",
+      "title": "Failure Profiling and Reachable Trajectory Selection for Reasoning Distillation",
+      "url": "https://arxiv.org/abs/2611.09042",
+      "summary": "arXiv:2611.09042v1 Announce Type: new Abstract: Training smaller language models on reasoning solutions generated by a larger teacher model is the prevailing approach for transferring mathematical reasoning capabilities. However, the studen…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "842012e0a52e84b3",
+      "title": "CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs",
+      "url": "https://arxiv.org/abs/2611.09868",
+      "summary": "arXiv:2611.09868v1 Announce Type: new Abstract: Large reasoning models (LRMs) improve task performance by generating longer intermediate reasoning traces, but this substantially increases inference costs and makes low-precision quantization…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a3ac2e3d6b5d8af6",
+      "title": "Turkish Multimodal Video Fact-Checking: A New Dataset and a Comparison of Zero-Shot Agentic and Fine-Tuned Systems",
+      "url": "https://arxiv.org/abs/2611.08651",
+      "summary": "arXiv:2611.08651v1 Announce Type: cross Abstract: Video-based misinformation spreads rapidly on social media, but almost all existing fact-checking systems focus exclusively on English text. Tools for low-resource languages such as Turkish …",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "262ac78ec24d92b7",
+      "title": "Hide to See: Reasoning-prefix Masking for Visual-anchored Thinking in VLM Distillation",
+      "url": "https://arxiv.org/abs/2605.11651",
+      "summary": "arXiv:2605.11651v5 Announce Type: replace-cross Abstract: Recent think-answer approaches in VLMs, such as Qwen3-VL-Thinking, boost reasoning performance by leveraging intermediate thinking steps before the final answer, but their computatio…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "00ea43f3e83d6eff",
+      "title": "Does Reasoning Improve Psychological Depth in Large Language Models?",
+      "url": "https://arxiv.org/abs/2611.09061",
+      "summary": "arXiv:2611.09061v1 Announce Type: new Abstract: Benchmark gains from reasoning-enhanced large language models encourage the assumption that these models should broadly perform better on complex generative tasks, but this remains underexplor…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2ccd643a984d52e4",
+      "title": "RPEG: Training Reasoning Language Models Scalably and Cost-Effectively",
+      "url": "https://arxiv.org/abs/2611.09207",
+      "summary": "arXiv:2611.09207v1 Announce Type: cross Abstract: Reinforcement learning (RL) is now central to training Reasoning Language Models (RLMs), but RLM pipelines are difficult to scale and costly to run because each RL step couples multiple larg…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d4e343d61f8735ad",
+      "title": "Characterize Then Distill: Mechanistic Reasoning in Large Output Spaces",
+      "url": "https://arxiv.org/abs/2606.06840",
+      "summary": "arXiv:2606.06840v5 Announce Type: replace Abstract: Reasoning-trained language models can select, zero-shot, a small set of relevant labels from thousands to hundreds of thousands of candidates. We ask how they do it mechanistically, and wh…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c5b96de905643951",
+      "title": "Reasoning Before Translation: Enhancing Legal Machine Translation with Structured Reasoning",
+      "url": "https://arxiv.org/abs/2607.19181",
+      "summary": "arXiv:2607.19181v2 Announce Type: replace Abstract: Neural machine translation (NMT) in the legal domain is a linguistically and conceptually demanding task, primarily due to the complexity of legal language and the high level of precision …",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ed60a47980de5e19",
+      "title": "Beyond Accuracy: What Language-Subspace Interventions Capture, Remove, and Improve",
+      "url": "https://arxiv.org/abs/2611.05278",
+      "summary": "arXiv:2611.05278v2 Announce Type: replace Abstract: Language-subspace interventions aim to improve multilingual reasoning by suppressing language-related components in mid-layer activations. Using MATH and MGSM across four open-weight LLMs,…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9d30321766d335ff",
+      "title": "Measuring Weak-to-Strong Legibility of Reasoning Models",
+      "url": "https://arxiv.org/abs/2603.20508",
+      "summary": "arXiv:2603.20508v3 Announce Type: replace-cross Abstract: Language models are increasingly trained to \"reason\" before answering users' queries, outputting hundreds of intermediate tokens before a final answer. While reasoning is designed wi…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c334a40f9d4599d6",
+      "title": "Learning to Simulate Individuals from Macro Social Signals",
+      "url": "https://arxiv.org/abs/2610.07062",
+      "summary": "arXiv:2610.07062v2 Announce Type: replace-cross Abstract: Large language models are increasingly used to simulate how individuals respond to new situations, yet the behavioral reasoning behind these responses is either inherited from pretra…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9a2971de9c87b097",
+      "title": "From Procedures to Permissions: Learning Precise Subagent Authorization from Agent Skills",
+      "url": "https://arxiv.org/abs/2611.08905",
+      "summary": "arXiv:2611.08905v1 Announce Type: new Abstract: As language agents tackle increasingly complex tasks, they increasingly rely on multiple agents to coordinate specialized work, requiring decisions not only about what each subagent should do …",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 5,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "bd566faeb4d87218",
+      "title": "Benchmarking Speaker Embedders in the Sub-Second Regime for Real-Time Voice AI Agents",
+      "url": "https://arxiv.org/abs/2611.09516",
+      "summary": "arXiv:2611.09516v1 Announce Type: new Abstract: Real-time Voice AI agents must separate the active user from intelligible background speech that survives conventional noise suppression. Background sources include television audio, family me…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 5,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "05d080d0cf7b4e4b",
+      "title": "How Much Conversation History Does an AI Agent Need?",
+      "url": "https://arxiv.org/abs/2611.09662",
+      "summary": "arXiv:2611.09662v1 Announce Type: new Abstract: How does using less conversational history change reader-token use and benchmark scores? We examine this question on 1,100 BEAM questions. We held the retrieval ranking and reader constant acr…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 5,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "16070ed2199bf952",
+      "title": "Language as Trait, Politeness as Strategy: Controlled Tests of Linguistic Effects in LLM Social-Deduction Agents",
+      "url": "https://arxiv.org/abs/2611.09768",
+      "summary": "arXiv:2611.09768v1 Announce Type: new Abstract: Large language model (LLM) agents coordinate through conversation, and the same message can be phrased in simpler or more complex language, bluntly or politely. We test whether such difference…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 5,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3c11d2a0364243de",
+      "title": "ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2611.09770",
+      "summary": "arXiv:2611.09770v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) require continuous factual updates to stay current, yet lifelong knowledge editing remains a daunting challenge. The primary obstacle is the severe Loc…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 5,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4e5e563d28c916ee",
+      "title": "Compaction, decay and reinforcement in a two-tier conversational memory: a paired evaluation against retrieval-augmented generation",
+      "url": "https://arxiv.org/abs/2611.09807",
+      "summary": "arXiv:2611.09807v1 Announce Type: new Abstract: A conversational agent that remembers has to decide what to keep. Retrieval-augmented generation keeps the transcript and searches it; the alternative is to compact each turn into atomic facts…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T13:00:00+08:00",
+      "fetchedAt": "2026-11-09T19:52:16+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 5,
       "related": [],
       "pushed": false
     }
