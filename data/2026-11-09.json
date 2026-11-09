@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T06:37:05+08:00",
+  "updatedAt": "2026-11-09T09:17:20+08:00",
   "items": [
     {
       "id": "ce0a393f5bc7e60b",
@@ -116,6 +116,43 @@
       "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
+      "id": "0b3a357762c231aa",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "url": "https://theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Hu…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T06:54:50+08:00",
+      "fetchedAt": "2026-11-09T09:17:12+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "memo"
+      ],
+      "confidence": 0.25,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达调查黄仁勋与AI高管关系，涉华裔政府代理人指控",
+        "takeaway": "英伟达董事会启动对CEO黄仁勋与AI高管Alice Huang关系的调查，后者被指为中国政府代理人，事件或影响公司治理与中美科技关系。",
+        "bullets": [
+          "英伟达董事会宣布调查CEO黄仁勋与AI高管Alice Huang的关系。",
+          "Alice Huang被指为中国政府代理人，引发安全与合规担忧。",
+          "调查可能影响英伟达公司治理及中美科技合作氛围。"
+        ],
+        "detail": "英伟达周日宣布，正调查CEO黄仁勋与AI高管Alice Huang的关系。Alice Huang被指为中国政府代理人。董事会已启动调查，事件涉及公司治理与地缘政治风险。",
+        "generatedAt": "2026-11-09T09:17:18+08:00"
+      }
+    },
+    {
       "id": "76422fd0550c2632",
       "title": "LexiSuite AIO bootable all rust OS/Engine/Kernel/Tuning & training management suite. Runs kernel 7.4 rc1 by default as the kernel needs work. Engine runs Qwen3.8 27b faster with lossless 5-25% lead over llama.cpp. 100% solo authored. Built on for 7900xtx vulcan, should work on other AMD cards.",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xr20gs/lexisuite_aio_bootable_all_rust",
@@ -155,6 +192,81 @@
       "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
+      "id": "35c6ece263393e17",
+      "title": "How much code do AI models and harnesses add? I made an open-source benchmark to measure code complexity.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xrathc/how_much_code_do_ai_models_and_harnesses_add_i",
+      "summary": "Existing benchmarks measure the solve rate and token output/cost, but don't punish excess code or overengineering, which increases technical debt in the long term. Parsimony counts syntax units (statements, calls, names) in the patches othe…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T06:19:15+08:00",
+      "fetchedAt": "2026-11-09T09:17:12+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 0.1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开源基准新工具：衡量AI写代码的复杂度与冗余",
+        "takeaway": "现有基准只看解题率和成本，新工具惩罚过度工程，关注长期技术债。",
+        "bullets": [
+          "现有基准只测解题率和token成本，不惩罚多余代码",
+          "新开源基准统计补丁中的语法单元，衡量代码精简度",
+          "过度工程会增加技术债，该工具旨在量化这一风险"
+        ],
+        "detail": "现有AI编程基准只关注解题率和输出成本，却不惩罚冗余代码和过度设计，长期会累积技术债。作者开源了一个新基准，通过统计补丁中的语句、调用、名称等语法单元，来衡量代码的简洁程度。",
+        "generatedAt": "2026-11-09T09:17:18+08:00"
+      }
+    },
+    {
+      "id": "ad9c604acd06dbb8",
+      "title": "早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元",
+      "url": "https://ifanr.com/1688379",
+      "summary": "· 苹果称超 10 万款应用已适配 iPhone Duo · Anthropic 拟于本周启动 IPO 路演 · 比亚迪李柯回应玛莎拉蒂收购传闻 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T08:34:19+08:00",
+      "fetchedAt": "2026-11-09T09:17:12+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "收购",
+        "IPO",
+        "亿美元"
+      ],
+      "confidence": 0.9,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "早报：苹果特努斯要求加快AI研发，Anthropic拟本周启动IPO路演",
+        "takeaway": "苹果AI研发提速与Anthropic IPO路演同日传出，显示大厂与AI新贵竞争进入新阶段。",
+        "bullets": [
+          "曝苹果特努斯要求加快AI研发，或影响其AI产品节奏",
+          "Anthropic拟本周启动IPO路演，AI公司上市进程受关注",
+          "Win 11优化8GB内存电脑流畅度，旧设备体验或改善",
+          "马斯克称SpaceX明年12月年化营收或超5000亿美元"
+        ],
+        "detail": "苹果被曝要求加快AI研发，反映其面对AI竞争的压力。Anthropic计划本周启动IPO路演，若成行将是AI公司上市的重要信号。同日还有Win 11针对8GB内存优化、马斯克对SpaceX营收的预测等消息。",
+        "generatedAt": "2026-11-09T09:17:18+08:00"
+      }
+    },
+    {
       "id": "16495ea32bd44aad",
       "title": "Elvis and Eminem rights holders are suing Suno",
       "url": "https://theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
@@ -188,6 +300,79 @@
         "generatedAt": "2026-11-09T02:10:19+08:00"
       },
       "pushedAt": "2026-11-09T06:37:05+08:00"
+    },
+    {
+      "id": "3e62264ffb8eefe5",
+      "title": "parse_number() as a SQLite extension: C vs Rust",
+      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust",
+      "summary": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.5…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T06:26:00+08:00",
+      "fetchedAt": "2026-11-09T09:17:12+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "adds"
+      ],
+      "confidence": 0.5,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用 C 和 Rust 写 SQLite 扩展：parse_number() 实践对比",
+        "takeaway": "Simon Willison 对比用 C 和 Rust 为 SQLite 添加 parse_number() 函数的难易程度，为扩展开发选型提供参考。",
+        "bullets": [
+          "作者遛狗时萌生想法：写 SQLite 扩展添加 parse_number() 函数。",
+          "该函数可将 -$1,234.5 这类字符串解析为数字。",
+          "对比 C 与 Rust 两种语言实现同一扩展的难易度。"
+        ],
+        "detail": "Simon Willison 在遛狗时好奇：用 C 写一个 SQLite 扩展，添加 parse_number() 函数来解析 -$1,234.5 这样的字符串有多难？他随后对比了 C 和 Rust 两种实现方式，探讨了各自的难易程度。",
+        "generatedAt": "2026-11-09T09:17:20+08:00"
+      }
+    },
+    {
+      "id": "5cf8732bfa2bb0c0",
+      "title": "【钛晨报】国常会：完善资本市场稳市机制，增强股市内在稳定性；伯克希尔Q3营业利润小幅下滑，回购为年内单季最高，现金攀升至3774亿美元；中国央行连续第24个月增持黄金",
+      "url": "https://tmtpost.com/8197696.html",
+      "summary": "小米汽车架构调整：成立国际业务部，副总裁于立国兼任国际业务部总经理；火山引擎汽车研发苏杰被曝离职，知情人士称非技术负责人；马斯克放话：Q4营收料将增长70%，明年剑指5000亿美元；苹果研究团队披露机器人“大脑”进展，单项任务测试平均成功率为91%；谷歌母公司Alphabet斥资约5.48亿美元建仓高通，押注AI数据中心芯片赛道；中国首个科技法学院在雄安新区成立；国家发改委：抓紧出台配套政策，支持“六网协同”新场景培育打造；七部门发布《关于加快航运保险高质量发展的指导意见》；…",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T07:20:00+08:00",
+      "fetchedAt": "2026-11-09T09:17:12+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "数据中心"
+      ],
+      "confidence": 0.25,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Alphabet斥资5.48亿美元建仓高通，押注AI数据中心芯片",
+        "takeaway": "谷歌母公司重金入股高通，看中的是AI数据中心芯片赛道，芯片竞争格局或生变。",
+        "bullets": [
+          "Alphabet以约5.48亿美元建仓高通，成为重要股东。",
+          "押注方向明确：AI数据中心芯片，与高通转型呼应。",
+          "对高通是资本背书，对AI芯片竞争格局是新增变量。"
+        ],
+        "detail": "谷歌母公司Alphabet花约5.48亿美元买入高通股票，明确押注AI数据中心芯片赛道。这笔投资既是对高通的资本背书，也显示科技巨头正围绕AI算力芯片加紧布局。",
+        "generatedAt": "2026-11-09T09:17:20+08:00"
+      }
     },
     {
       "id": "d38ad62885b61706",
@@ -617,6 +802,31 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-11-09T06:37:05+08:00"
+    },
+    {
+      "id": "8e9f485086d175b3",
+      "title": "How do you locally benchmark and compare local LLMs?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xrbhdf/how_do_you_locally_benchmark_and_compare_local",
+      "summary": "If I wanted to locally compare performance for multiple different offline LLM models across various modalities (speed, efficiency, reasoning, tool use, programing/coding, etc), what strategies, prompts, software are commonly used to do this…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T06:49:16+08:00",
+      "fetchedAt": "2026-11-09T09:17:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "benchmark"
+      ],
+      "confidence": 0.67,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
