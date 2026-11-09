@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T09:17:20+08:00",
+  "updatedAt": "2026-11-09T09:48:00+08:00",
   "items": [
     {
       "id": "ce0a393f5bc7e60b",
@@ -524,6 +524,43 @@
       "pushedAt": "2026-11-09T06:37:05+08:00"
     },
     {
+      "id": "673a7ce38a49ee7a",
+      "title": "Quick One Shot Pelican RTX 5090 Test - Qwen 3.8 27B. Q4_K_M vs Q5_K_M Quants. Both Ran @ 110-120tokens/sec in OpenCode 2+LM Studio.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xrexe0/quick_one_shot_pelican_rtx_5090_test_qwen_38_27b",
+      "summary": "Test - A pelican riding a bicycle. GPU - RTX 5090 (31GB VRAM Usage, Model+KV cache) Speed - 110-120tok/sec Model - Qwen 3.8 27B Unsloth, GGUF Quants/Context - Q4_K_M/120K vs. Q5_K_M/90K Software - OpenCode 2+LM Studio(MTP On, Thinking Mediu…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T09:33:01+08:00",
+      "fetchedAt": "2026-11-09T09:47:50+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "RTX 5090 实测 Qwen 3.8 27B：Q4 与 Q5 量化均达 110-120 tok/s",
+        "takeaway": "本地跑 27B 模型在 5090 上速度可观，量化等级对生成速度影响不大，值得关注显存与上下文取舍。",
+        "bullets": [
+          "测试用 RTX 5090，模型加 KV 缓存共占 31GB 显存",
+          "Q4_K_M 配 120K 上下文，Q5_K_M 配 90K 上下文",
+          "两者在 OpenCode 2 + LM Studio 下均达 110-120 tok/s",
+          "测试任务为让鹈鹕骑自行车的一次性生成"
+        ],
+        "detail": "有用户在 RTX 5090 上测试 Unsloth 版 Qwen 3.8 27B 的 GGUF 量化模型，让模型生成“鹈鹕骑自行车”画面。Q4_K_M 用 120K 上下文、Q5_K_M 用 90K 上下文，两者速度都在 110-120 tok/s，显存占用约 31GB。",
+        "generatedAt": "2026-11-09T09:48:00+08:00"
+      }
+    },
+    {
       "id": "063e3273dcec8a1d",
       "title": "Kimi-K3.1-Pro-Coder (2.8T) | 1.77 TB -> 775 GB (-56%) | 36.8 TPS (Batch) / 10.8 TPS on 1x Blackwell | 96.7% on both AIME 2025 and LiveCodeBench",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xr777l/kimik31procoder_28t_177_tb_775_gb_56_368_tps",
@@ -824,6 +861,31 @@
         "benchmark"
       ],
       "confidence": 0.67,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "07e0c8712ed61043",
+      "title": "AI会撞上的下一堵墙可能是水",
+      "url": "https://tmtpost.com/8197774.html",
+      "summary": "世界经济论坛的报告估计，全球约45%的数据中心设施位于高水压力地区",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T09:20:50+08:00",
+      "fetchedAt": "2026-11-09T09:47:50+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "数据中心"
+      ],
+      "confidence": 1,
       "score": 30,
       "related": [],
       "pushed": false
