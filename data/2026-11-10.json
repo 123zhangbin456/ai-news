@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T12:50:14+08:00",
+  "updatedAt": "2026-11-10T21:05:28+08:00",
   "items": [
     {
       "id": "dd4da662fab5b635",
@@ -41,6 +41,42 @@
       "pushedAt": "2026-11-10T06:48:47+08:00"
     },
     {
+      "id": "f8c1a7370c130fe5",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "source": {
+        "id": "deepmind",
+        "name": "Google DeepMind",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T20:02:28+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing"
+      ],
+      "confidence": 1,
+      "score": 68,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepMind 推出 AlphaProof Code，用 Lean 验证 Signal 加密核心",
+        "takeaway": "AI 智能体自动生成三百万行 Lean 证明，验证 Signal 核心加密，软件深度验证迈出关键一步。",
+        "bullets": [
+          "AlphaProof Code 智能体自动生成 Lean 证明，用于验证软件。",
+          "目标为 Signal 的核心加密实现，共写出三百万行证明。",
+          "展示 AI 在复杂软件形式化验证上的深度应用潜力。"
+        ],
+        "detail": "Google DeepMind 发布 AlphaProof Code，其智能体为 Signal 的核心加密代码编写了约三百万行 Lean 证明，以完成深度验证。这标志着 AI 在复杂软件形式化验证领域取得突破。",
+        "generatedAt": "2026-11-10T21:05:12+08:00"
+      }
+    },
+    {
       "id": "9c331579e229757a",
       "title": "ChatGPT Enterprise now available in AWS Marketplace",
       "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
@@ -79,6 +115,44 @@
       "pushedAt": "2026-11-10T06:48:47+08:00"
     },
     {
+      "id": "1afd9e573768b3f1",
+      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "url": "https://simonwillison.net/2026/Nov/10/muse-ember",
+      "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoni…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T15:28:21+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing",
+        "GPT",
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 63,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 推出最小高效模型 Muse Ember，对标 Claude Haiku",
+        "takeaway": "Meta 加入轻量级模型竞争，推出主打高效推理的 Muse Ember，与 Claude Haiku、GPT Luna 同场竞技。",
+        "bullets": [
+          "Meta AI 发布 Muse Ember，称其为自家最小、最高效的模型",
+          "定位对标 Claude Haiku 和 GPT Luna 等轻量级模型",
+          "官方称其面向复杂推理场景设计，兼顾效率与能力"
+        ],
+        "detail": "Meta AI 正式发布 Muse Ember，这是其目前体积最小、效率最高的模型，官方称它专为复杂推理任务设计。该模型直接对标 Claude Haiku 和 GPT Luna 所在的轻量高效赛道，意味着 Meta 也加入了这一细分市场的竞争。",
+        "generatedAt": "2026-11-10T21:05:13+08:00"
+      }
+    },
+    {
       "id": "56a49980686e6366",
       "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
       "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
@@ -114,6 +188,76 @@
         "generatedAt": "2026-11-10T05:39:40+08:00"
       },
       "pushedAt": "2026-11-10T06:48:47+08:00"
+    },
+    {
+      "id": "46ecb159c1535b09",
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T20:00:00+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 58,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 为美国五城护理者提供免费 ChatGPT 实操培训",
+        "takeaway": "OpenAI 通过线下工作坊帮助护理者掌握实用 AI 技能，降低使用门槛。",
+        "bullets": [
+          "OpenAI Academy 将在美国五个城市举办免费线下工作坊。",
+          "培训面向护理者，教授日常生活中的实用 ChatGPT 技能。",
+          "这是 OpenAI 推动 AI 普惠、拓展教育场景的举措之一。"
+        ],
+        "detail": "OpenAI Academy 正在美国五座城市为护理者提供免费的 ChatGPT 实操工作坊，帮助他们掌握实用的 AI 技能，以应用于日常生活。此举旨在让更多非技术人群也能轻松使用 AI 工具。",
+        "generatedAt": "2026-11-10T21:05:13+08:00"
+      }
+    },
+    {
+      "id": "d8a967756fad10d6",
+      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns",
+      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T21:00:00+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 0.4,
+      "score": 58,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Hugging Face高管警告：网络攻击或迫使开源AI收紧开放度",
+        "takeaway": "Hugging Face高管Irene Solaiman警告，针对开放AI平台的网络攻击增多，可能迫使平台加强安全限制，威胁开源社区赖以生存的开放性。",
+        "bullets": [
+          "Hugging Face高管Irene Solaiman发出警告：网络攻击正威胁开源AI的开放性。",
+          "攻击增多可能迫使开放AI平台实施更严格的安全限制。",
+          "开发者依赖的开源社区可访问性可能因此受损。"
+        ],
+        "detail": "Hugging Face高管Irene Solaiman警告，针对开放AI平台的网络攻击日益增多，可能迫使平台施加更严格的安全限制。这将会威胁到开源社区对全球开发者的可访问性，而正是这种开放性让开源社区具有价值。",
+        "generatedAt": "2026-11-10T21:05:14+08:00"
+      }
     },
     {
       "id": "99d632aaa4166752",
@@ -189,6 +333,42 @@
         ],
         "detail": "Anthropic 于 11 月 9 日推出 Claude Fable 5.2 和 Claude Mythos 5.2。两者其实是同一个底层模型：Fable 保留完整的网络安全和生物学防护，向所有用户开放；Mythos 去掉部分限制，只通过验证计划提供给从事防御性安全或生物医学研究的机构。官方还声称它能用 8 天写出一",
         "generatedAt": "2026-11-10T11:52:46+08:00"
+      }
+    },
+    {
+      "id": "6f6fff482120edaf",
+      "title": "Quoting Prompting Claude Fable 5.2",
+      "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52",
+      "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model …",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T13:34:14+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0.5,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Fable 5.2 对代码归属提示高度敏感",
+        "takeaway": "Anthropic 测试显示，提示中是否说明代码归属，会明显影响 Claude Fable 5.2 在小型编程任务中的表现。",
+        "bullets": [
+          "提示未提代码归属或说成他人代码时，模型行为出现变化",
+          "该现象来自 Anthropic 对小型编程任务的测试",
+          "说明提示措辞可能影响模型在代码任务中的输出"
+        ],
+        "detail": "Simon Willison 引用了一段关于 Claude Fable 5.2 的测试观察：模型对提示中“代码归谁所有”的说法很敏感。在 Anthropic 的小型编程任务测试里，如果提示完全不提归属，或把代码库说成是别人的，模型的表现就会有所不同。",
+        "generatedAt": "2026-11-10T21:05:15+08:00"
       }
     },
     {
@@ -300,6 +480,116 @@
         ],
         "detail": "qOntology 开源版 v1.1.0 聚焦本体工程中的知识整理、模型维护与图谱探索。重点增强 AI 辅助建模和知识图谱多视图能力，并补充项目版本管理、约束规则配置，同时调整了本体应用及基础管理页面。",
         "generatedAt": "2026-11-10T11:52:45+08:00"
+      }
+    },
+    {
+      "id": "abf5bad969f13fc6",
+      "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+      "url": "https://qbitai.com/2026/11/508996.html",
+      "summary": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T15:57:45+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 1,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "蚂蚁灵波开源LingBot-Touch触觉基础模型，从一脑多机到一脑多手",
+        "takeaway": "蚂蚁灵波科技开源触觉基础模型LingBot-Touch，推动机器人触觉感知与多手协同操作发展。",
+        "bullets": [
+          "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch。",
+          "该模型从“一脑多机”延伸至“一脑多手”，拓展触觉应用。",
+          "开源举措或降低触觉AI研发门槛，促进机器人灵巧操作。"
+        ],
+        "detail": "11月10日，蚂蚁灵波科技开源了触觉基础模型LingBot-Touch。该模型将“一脑多机”能力扩展到“一脑多手”，旨在提升机器人触觉感知与多手协同操作水平。开源有望推动触觉AI技术普及。",
+        "generatedAt": "2026-11-10T21:05:15+08:00"
+      }
+    },
+    {
+      "id": "14d5be49e31e64bd",
+      "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+      "url": "https://qbitai.com/2026/11/508991.html",
+      "summary": "TensorWorld物原科技在一个月内已拿到过亿美元融资",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T15:50:26+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "亿美元"
+      ],
+      "confidence": 1,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "成立四个月融资过亿美金，TensorWorld物原科技押注物理真实路线",
+        "takeaway": "一家成立仅四个月的AI公司一个月内融资过亿美元，主打“物理真实”技术路线，值得关注其能否跑通。",
+        "bullets": [
+          "TensorWorld物原科技成立仅四个月，已获过亿美元融资",
+          "融资在一个月内完成，节奏极快",
+          "公司主打“物理真实”路线，具体方向未在摘要中展开"
+        ],
+        "detail": "据量子位报道，TensorWorld物原科技成立四个月便在一个月内拿到过亿美元融资。公司对外强调要跑通“物理真实”路线，但摘要未透露投资方、估值及技术细节。",
+        "generatedAt": "2026-11-10T21:05:16+08:00"
+      }
+    },
+    {
+      "id": "c9449c0a6e8fe80a",
+      "title": "成本仅1/3！Meta 新模型 Muse Ember 硬刚 Claude Haiku 5.5",
+      "url": "https://infoq.cn/article/Ou4l4aD7zvUzXWXsWJfY",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T23:22:09+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "新模型",
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta 发布新模型 Muse Ember，成本仅 Claude Haiku 5.5 的三分之一",
+        "takeaway": "Meta 推出轻量模型 Muse Ember，主打低成本，直接对标 Claude Haiku 5.5。",
+        "bullets": [
+          "Meta 发布新模型 Muse Ember，定位轻量级。",
+          "成本仅为 Claude Haiku 5.5 的三分之一。",
+          "直接对标 Anthropic 的 Claude Haiku 5.5。"
+        ],
+        "detail": "Meta 推出新模型 Muse Ember，主打低成本，价格仅为 Claude Haiku 5.5 的三分之一。该模型定位与 Claude Haiku 5.5 直接竞争，但具体性能参数尚未披露。",
+        "generatedAt": "2026-11-10T21:05:17+08:00"
       }
     },
     {
@@ -448,6 +738,42 @@
       }
     },
     {
+      "id": "01a8528fa117926a",
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T17:00:00+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "research"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 与 ThinkYoung 研究：填补教育中的 AI 指导空白",
+        "takeaway": "新研究结合 OpenAI 欧洲教育合作经验，探讨如何支持教师、提升 AI 素养和独立学习。",
+        "bullets": [
+          "ThinkYoung 新研究聚焦教育中的 AI 指导缺口",
+          "OpenAI 分享 EMEA 地区教育合作的经验教训",
+          "重点包括支持教师、AI 素养和独立学习"
+        ],
+        "detail": "OpenAI 引用 ThinkYoung 的新研究，并总结其在欧洲、中东和非洲教育合作中的经验，讨论如何帮助教师、培养学生的 AI 素养以及促进独立学习，以弥补教育中 AI 指导的不足。",
+        "generatedAt": "2026-11-10T21:05:17+08:00"
+      }
+    },
+    {
       "id": "d75c80b5454dda4b",
       "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
       "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
@@ -558,6 +884,44 @@
         "generatedAt": "2026-11-10T12:14:04+08:00"
       },
       "pushedAt": "2026-11-10T12:14:24+08:00"
+    },
+    {
+      "id": "90bdca777f02a245",
+      "title": "Fable 5.2 “撞车”蚂蚁灵波触觉模型，CEO 朱兴：两类模型协同将加速具身产业成熟",
+      "url": "https://leiphone.com/category/industrynews/Qhv28gnFkgFPCbXV.html",
+      "summary": "11 月 10 日，Claude Fable 5.2 发布同日，蚂蚁灵波科技开源触觉基础模型 LingBot-Touch。一款面向数字世界的通用大模型，一款面向物理操作闭环的具身基础模型，同一天走进公众视野。这两条技术路线的关系，正是当下具身智能行业讨论的焦点。在蚂蚁灵波看来，通用大模型与具身基础模型更接近 1+1＞2 的协同关系：前者增强对任务和环境的理解与推理，后者补齐物理感知与闭环操作能力，两者齐头并进，才能共同加速具身产业成熟。此次开源的 LingBot-Touch …",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T14:49:00+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "Claude"
+      ],
+      "confidence": 0,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Fable 5.2 与蚂蚁灵波触觉模型同日发布，CEO 称两类模型协同加速具身产业",
+        "takeaway": "通用大模型与具身触觉模型同日亮相，蚂蚁灵波认为二者互补而非竞争，将共同推动具身智能落地。",
+        "bullets": [
+          "Claude Fable 5.2 与蚂蚁灵波 LingBot-Touch 于 11 月 10 日同日发布",
+          "LingBot-Touch 是面向物理操作闭环的开源触觉基础模型",
+          "蚂蚁灵波 CEO 朱兴称两类模型是 1+1＞2 的协同关系",
+          "通用模型负责理解推理，具身模型补齐物理感知与闭环操作"
+        ],
+        "detail": "11 月 10 日，Claude Fable 5.2 发布当天，蚂蚁灵波科技开源了触觉基础模型 LingBot-Touch。前者面向数字世界，后者面向物理操作闭环。蚂蚁灵波认为两者是协同关系：通用大模型增强任务理解与推理，具身模型补齐物理感知和闭环操作，共同加速具身产业成熟。",
+        "generatedAt": "2026-11-10T21:05:19+08:00"
+      }
     },
     {
       "id": "3ac4256f36a8d92e",
@@ -709,6 +1073,42 @@
       "pushedAt": "2026-11-10T06:48:47+08:00"
     },
     {
+      "id": "1032abf6a3a5d724",
+      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+      "url": "https://wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol",
+      "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T13:01:00+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tool"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepMind 用 AI 工具形式化验证 Signal 协议安全性",
+        "takeaway": "谷歌 DeepMind 首次用 AI 形式化验证 Signal 加密协议安全，目标扩展至全球软件。",
+        "bullets": [
+          "DeepMind 新 AI 工具完成 Signal 协议形式化验证",
+          "证明该加密协议按预期工作，提升安全可信度",
+          "团队下一步目标：验证“世界上所有软件”"
+        ],
+        "detail": "谷歌 DeepMind 的研究人员开发了一款新 AI 工具，成功对广泛使用的 Signal 加密协议进行了形式化验证，证明其安全性符合设计预期。团队还设定了更宏大的目标：将这种验证方法推广到“世界上所有软件”。",
+        "generatedAt": "2026-11-10T21:05:19+08:00"
+      }
+    },
+    {
       "id": "eb0c65b2b58fbc7a",
       "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
       "url": "https://theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
@@ -779,6 +1179,42 @@
         ],
         "detail": "有用户用同一个一次性提示词（要求生成完整交互式 V8 相关内容）分别测试 DeepSeek V4.1 Flash 和 Qwen 3.8 FN 两款可本地运行的 MoE 模型。结果显示 Qwen 3.8 FN 达到 350 tok/s，而 DeepSeek V4.1 Flash 仅 94 tok/s，速度差距接近四倍。",
         "generatedAt": "2026-11-10T11:52:50+08:00"
+      }
+    },
+    {
+      "id": "3f40ce420208307f",
+      "title": "突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”",
+      "url": "https://infoq.cn/article/STFszc8JxPkXGeV9QRH3",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T21:27:00+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "服务器"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Uber 重新定义“一核”，突破 K8s CPU 抽象适配异构服务器",
+        "takeaway": "Uber 改造 Kubernetes 的 CPU 抽象，让异构服务器资源调度更精准，值得关注。",
+        "bullets": [
+          "Uber 针对异构服务器重新定义“一核”概念。",
+          "突破 Kubernetes 原有 CPU 抽象限制。",
+          "提升资源调度精度，或影响大规模集群管理。"
+        ],
+        "detail": "Uber 对 Kubernetes 的 CPU 抽象进行了改造，为异构服务器重新定义了“一核”的含义。这一调整旨在让资源调度更贴合实际硬件差异，提升集群管理效率。",
+        "generatedAt": "2026-11-10T21:05:19+08:00"
       }
     },
     {
@@ -927,6 +1363,115 @@
       }
     },
     {
+      "id": "aa9d06fdcfe1a35b",
+      "title": "Yonkers Rises",
+      "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises",
+      "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fabl…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T11:53:04+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Simon Willison 用 Claude 新模型做 3D 动画记地名",
+        "takeaway": "开发者借 Claude Fable 5.2 的 3D 建模能力，把扬克斯的位置做成动画，展示模型新技能。",
+        "bullets": [
+          "Simon Willison 查地图后，用 Claude Fable 5.2 生成扬克斯的 3D 模型和动画。",
+          "目的是帮助自己记住扬克斯的位置和形状。",
+          "这展示了 Claude 在 3D 建模与动画生成上的新能力。"
+        ],
+        "detail": "Simon Willison 发现自己不知道扬克斯在哪，查了谷歌地图后，为了记住它的位置和形状，也顺便测试 Claude Fable 5.2 的 3D 建模和动画技能，便用提示词让模型生成了相关动画。",
+        "generatedAt": "2026-11-10T21:05:21+08:00"
+      }
+    },
+    {
+      "id": "35f6059bcaf6574e",
+      "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+      "url": "https://qbitai.com/2026/11/509017.html",
+      "summary": "近亿元融资刚刚落袋",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T16:33:25+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "亿元"
+      ],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "超导量子计算公司获近亿元融资，从芯片迈向千比特整机",
+        "takeaway": "国内超导量子计算企业完成近亿元融资，资金将用于从芯片研发到千比特整机集成的攻坚。",
+        "bullets": [
+          "该公司近期完成近亿元融资，具体投资方未披露。",
+          "融资将用于推进超导量子计算从芯片到千比特整机的研发。",
+          "千比特整机是超导量子计算工程化的重要门槛。"
+        ],
+        "detail": "国内一家超导量子计算公司宣布完成近亿元融资。公司计划将资金投入从量子芯片研发到千比特整机集成的全过程，以突破工程化瓶颈。",
+        "generatedAt": "2026-11-10T21:05:20+08:00"
+      }
+    },
+    {
+      "id": "2ebb8ea6d2632b0e",
+      "title": "Token卷到触觉了！机器人终于有了通用手感",
+      "url": "https://qbitai.com/2026/11/508919.html",
+      "summary": "蚂蚁灵波开源LingBot-Touch",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T15:26:53+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "蚂蚁灵波开源LingBot-Touch，机器人触觉也有“通用手感”",
+        "takeaway": "蚂蚁灵波开源触觉模型LingBot-Touch，让机器人获得通用触觉感知能力，推动触觉AI发展。",
+        "bullets": [
+          "蚂蚁灵波开源LingBot-Touch触觉模型",
+          "机器人有望获得通用触觉感知能力",
+          "触觉成为继视觉、语言后的新竞争点"
+        ],
+        "detail": "蚂蚁灵波开源了触觉模型LingBot-Touch，旨在让机器人拥有通用的触觉感知能力。这标志着继文本、图像之后，触觉也成为AI模型的重要方向，有望提升机器人的精细操作与环境交互能力。",
+        "generatedAt": "2026-11-10T21:05:20+08:00"
+      }
+    },
+    {
       "id": "2969b0807146033c",
       "title": "The backlash about data centers might really just be about electricity",
       "url": "https://technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity",
@@ -1071,6 +1616,42 @@
         ],
         "detail": "蚂蚁灵波发布了一款通用触觉模型，核心思路是把触觉信号也做Token化处理。官方将其定位为把“具身原生”能力推进到机器人指尖，属于机器人触觉感知方向的模型发布。",
         "generatedAt": "2026-11-10T11:52:51+08:00"
+      }
+    },
+    {
+      "id": "2a0afa4ac89c6cfd",
+      "title": "DeepSeek Harness 日活154万，官方开始给插件作者发Token：Agent 生态要靠开发者了",
+      "url": "https://infoq.cn/article/Y7lTO7Q1M8oN5JhxhirK",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T23:20:56+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "日活"
+      ],
+      "confidence": 0,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek Harness 日活154万，官方给插件作者发Token",
+        "takeaway": "DeepSeek Harness 日活达154万，官方以Token激励插件作者，意在构建Agent开发者生态。",
+        "bullets": [
+          "DeepSeek Harness 日活跃用户达到154万",
+          "官方开始向插件作者发放Token作为激励",
+          "此举意在吸引开发者共建Agent生态"
+        ],
+        "detail": "DeepSeek Harness 日活用户已达154万，官方宣布向插件作者发放Token。这被视为其构建Agent生态的关键一步，通过激励开发者来丰富插件生态。",
+        "generatedAt": "2026-11-10T21:05:22+08:00"
       }
     },
     {
@@ -1404,6 +1985,112 @@
       }
     },
     {
+      "id": "e0a06e4cd9798d8d",
+      "title": "面向 AI Native 的数据库技术演进 | 腾讯云数据库 DBTalk",
+      "url": "https://infoq.cn/video/W1VS3q3eMAosMwrHb1k4",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T23:53:17+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "腾讯云 DBTalk：面向 AI Native 的数据库演进",
+        "takeaway": "腾讯云在 DBTalk 分享数据库如何适配 AI Native 应用，值得关注技术路线。",
+        "bullets": [
+          "腾讯云数据库 DBTalk 聚焦 AI Native 场景",
+          "主题是数据库技术面向 AI 原生的演进",
+          "具体技术细节需查看原文"
+        ],
+        "detail": "腾讯云数据库 DBTalk 推出专题，讨论数据库技术如何面向 AI Native 演进。摘要未给出具体方案，需查看原文了解细节。",
+        "generatedAt": "2026-11-10T21:05:23+08:00"
+      }
+    },
+    {
+      "id": "bec3e94618eb8a8b",
+      "title": "生成式 AI 过度美化现实",
+      "url": "https://solidot.org/story?sid=85847",
+      "summary": "生成式 AI 如 ChatGPT 正融入日常生活，成为人们获取信息和辅助决策的重要工具。然而大模型中嵌入的错误信息和偏见引发了一系列伦理方面的担忧。以往的研究已揭示出 AI 在涉及人类特征的内容上存在偏见，例如肤色、性别以及地理文化背景等。为减轻文本生成图像（Text-to-Image）生成式模型中的偏见，OpenAI 等公司引入了提示词修订（Prompt Revision）机制。一种隐性的处理过程，即通过重写用户输入的提示词，添加更多细节，例如要求图像中呈现不同性别和肤色的…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T19:04:32+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "伦理"
+      ],
+      "confidence": 0.33,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "生成式 AI 美化现实：偏见与伦理隐忧",
+        "takeaway": "生成式 AI 融入日常却暗藏偏见，OpenAI 等用提示词修订机制隐性干预，引发伦理担忧。",
+        "bullets": [
+          "ChatGPT 等生成式 AI 成为信息获取和决策工具，但嵌入错误信息和偏见。",
+          "AI 在肤色、性别、地理文化等人类特征上存在偏见，伦理担忧加剧。",
+          "OpenAI 等引入提示词修订机制，通过重写提示词添加多样性细节来减轻偏见。"
+        ],
+        "detail": "生成式 AI 如 ChatGPT 正融入日常生活，成为获取信息和辅助决策的重要工具。但大模型中的错误信息和偏见引发伦理担忧，以往研究已揭示 AI 在肤色、性别、地理文化背景等人类特征上存在偏见。为减轻文本生成图像模型的偏见，OpenAI 等公司引入了提示词修订机制，通过重写用户输入、添加更多细节（如要求呈现不同性别和肤",
+        "generatedAt": "2026-11-10T21:05:25+08:00"
+      }
+    },
+    {
+      "id": "d3b6c247300151f2",
+      "title": "Decision model to edit LLM weight directly - No training",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no",
+      "summary": "On September 18, I launched Laya at you guys request, the first system 1 open-source decision model in this subreddit, and you guys gave immense support. I saw the MIT post on direct weight edits and thought about doing the same with a deci…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T19:27:44+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开源决策模型 Laya 拟直接编辑 LLM 权重，无需训练",
+        "takeaway": "作者受 MIT 直接改权重思路启发，计划让 Laya 不训练就修改大模型权重。",
+        "bullets": [
+          "Laya 是 9 月 18 日发布的开源决策模型，曾获社区支持",
+          "作者参考 MIT 直接编辑权重的帖子，想用决策模型做同样的事",
+          "若可行，调整 LLM 行为可能不再依赖训练"
+        ],
+        "detail": "作者此前应社区要求开源了决策模型 Laya。看到 MIT 关于直接编辑权重的帖子后，他打算用决策模型实现类似效果，即不经过训练直接修改大语言模型权重。目前只是想法，尚未公布具体方法或结果。",
+        "generatedAt": "2026-11-10T21:05:25+08:00"
+      }
+    },
+    {
       "id": "dbd9680f73cbc538",
       "title": "Medium’s new TK app brings AI assistance directly into the writing process",
       "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process",
@@ -1585,6 +2272,146 @@
       }
     },
     {
+      "id": "0cb7ad579ad86abd",
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T15:00:00+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "feature"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Otter AI 新增27种语言支持，可跨语言实时转写",
+        "takeaway": "Otter AI 扩展至30多种语言，并预告能自动识别说话人切换语言的功能，提升多语言会议体验。",
+        "bullets": [
+          "新增27种语言支持，总覆盖超30种语言。",
+          "预告新功能：说话人切换语言时仍能持续转写。",
+          "面向多语言会议场景，提升转写与协作效率。"
+        ],
+        "detail": "Otter AI 宣布新增27种语言支持，使其转写服务覆盖超过30种语言。同时，它预告了一项即将推出的功能：当对话中说话人切换不同语言时，系统仍能持续跟随并转写。这有助于多语言团队更顺畅地使用会议记录。",
+        "generatedAt": "2026-11-10T21:05:25+08:00"
+      }
+    },
+    {
+      "id": "65a48ec41a1f767a",
+      "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+      "url": "https://qbitai.com/2026/11/508998.html",
+      "summary": "让每一次任务，都成为下一次进步的起点",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T15:56:29+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "框架"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "openJiuwen 首发 TTSE 框架，Agent 自演进进入双轨时代",
+        "takeaway": "开源项目 openJiuwen 推出 TTSE 经验学习框架，让 Agent 从每次任务中积累经验、持续自我演进。",
+        "bullets": [
+          "openJiuwen 发布 TTSE 经验学习框架，主打 Agent 自演进",
+          "官方称 Agent 自演进由此进入“双轨时代”",
+          "核心理念是让每次任务都成为下一次进步的起点"
+        ],
+        "detail": "开源工具 openJiuwen 首发 TTSE 经验学习框架，目标是让 AI Agent 在完成任务的过程中积累经验并自我演进。官方把这一进展称为 Agent 自演进进入“双轨时代”，强调每次任务都能成为下一次进步的基础。",
+        "generatedAt": "2026-11-10T21:05:27+08:00"
+      }
+    },
+    {
+      "id": "045b209bee5db0b0",
+      "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+      "url": "https://qbitai.com/2026/11/508985.html",
+      "summary": "加速东部城市型智算中心向E-AIDC演进",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T15:33:19+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "达卯科技与浦东环保能源合作，黎明智算中心启动算电协同平台",
+        "takeaway": "双方战略合作推动东部城市型智算中心向E-AIDC演进，算电协同平台正式启动。",
+        "bullets": [
+          "达卯科技与浦东环保能源达成战略合作",
+          "黎明智算中心算电协同平台启动",
+          "目标加速东部城市型智算中心向E-AIDC演进"
+        ],
+        "detail": "达卯科技与浦东环保能源建立战略合作关系，同时黎明智算中心的算电协同平台正式启动。该合作旨在推动东部城市型智算中心向E-AIDC方向演进。",
+        "generatedAt": "2026-11-10T21:05:26+08:00"
+      }
+    },
+    {
+      "id": "f810a5e75c97d2a2",
+      "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+      "url": "https://qbitai.com/2026/11/508912.html",
+      "summary": "作曲、拍片、3D建模一条龙全包圆",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T15:03:43+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Fable 5.2 首批实测：作曲拍片 3D 建模一条龙",
+        "takeaway": "新模型 Fable 5.2 实测能一站式完成作曲、拍片和 3D 建模，网友称 Opus 突然不香了。",
+        "bullets": [
+          "Fable 5.2 首批实测覆盖作曲、拍片、3D 建模全流程",
+          "网友评价其表现让 Opus 模型突然不香了",
+          "实测来自量子位，展示多任务一条龙能力"
+        ],
+        "detail": "量子位发布了 Fable 5.2 的首批实测，显示它能一条龙完成作曲、拍片和 3D 建模。网友看完后表示 Opus 突然不香了，暗示新模型在多任务创作上表现突出。",
+        "generatedAt": "2026-11-10T21:05:27+08:00"
+      }
+    },
+    {
       "id": "e2cc7821517590d5",
       "title": "Qwen 3.8 FN getting stressed from messing up",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xs2okh/qwen_38_fn_getting_stressed_from_messing_up",
@@ -1648,6 +2475,68 @@
       }
     },
     {
+      "id": "320ca4dbc50c5720",
+      "title": "RustingStrata vs PolyStrata vs llama.cpp on one RTX 3060 12 GB: Qwen3.6-35B-A3B",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xsipew/rustingstrata_vs_polystrata_vs_llamacpp_on_one",
+      "summary": "RTX 3060 12 GB, Ryzen 5 7600X, 32 GB RAM, one GGUF file: Qwen3.6-35B-A3B-UD-Q3_K_M.gguf (Unsloth, MTP layer included, 15.9 GiB, does not fit in VRAM). Prompt of 5290 tokens, 128 generated tokens. RustingStrata PolyStrata llama.cpp b12119 Pr…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T17:38:17+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "RTX 3060 12GB 实测：RustingStrata、PolyStrata 与 llama.cpp 跑 Qwen3.6-35B-A3B",
+        "takeaway": "同一块 12GB 显卡、同一个 GGUF 文件，对比三种推理方案在显存不足时的表现。",
+        "bullets": [
+          "测试平台为 RTX 3060 12GB、Ryzen 5 7600X、32GB 内存",
+          "模型为 Qwen3.6-35B-A3B 的 Q3_K_M 量化版，15.9GiB 超出显存",
+          "对比 RustingStrata、PolyStrata 与 llama.cpp b12119 三个方案",
+          "输入 5290 token，生成 128 token，考察显存不足下的推理效率"
+        ],
+        "detail": "有用户在 RTX 3060 12GB 上对比了 RustingStrata、PolyStrata 和 llama.cpp 三个推理方案。测试用同一个 Qwen3.6-35B-A3B 的 Q3_K_M GGUF 文件，大小 15.9GiB，装不进显存，需要借助内存。输入约 5290 token，生成 128 token，",
+        "generatedAt": "2026-11-10T21:05:28+08:00"
+      }
+    },
+    {
+      "id": "550602d253ddce95",
+      "title": "I found this gem when searching Qwen stuff, a Qwen \"character song\"",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xsj73e/i_found_this_gem_when_searching_qwen_stuff_a_qwen",
+      "summary": "Original video by 小伙伴Ko Good thing to watch before Qwen 4 drop 😄 submitted by /u/doraemoe [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T18:09:03+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "2ebdd4fa060b870d",
       "title": "Project migration from DotNet to Rust in one go - using Cursor",
       "url": "https://reddit.com/r/cursor/comments/1xr2v1n/project_migration_from_dotnet_to_rust_in_one_go",
@@ -1684,6 +2573,80 @@
       }
     },
     {
+      "id": "92090b809bc627f7",
+      "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
+      "url": "https://qbitai.com/2026/11/508828.html",
+      "summary": "速度提了，API价格降了",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T10:48:22+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 37,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ba6fe56cb5ec00a1",
+      "title": "四维图新创想大会 | 以数据与算力为基，SEEWAY.AI驶向新一站",
+      "url": "https://leiphone.com/category/industrynews/dZrtBnDtC720JWGW.html",
+      "summary": "11月6日，四维图新在上海举办2026 EVOLUTION创想大会。CEO 程鹏全面解读穿越 “极点” 的破局方向，以数据与算力为基，答行业焦点之问，并正式公布向移动智能体领域拓展的战略布局。数据之战，先拿好合规这张入场券 \"过去十年，中国新能源赢在电池；未来十年，中国汽车要赢在数据。\"程鹏的判断直指行业下一个核心战场——数据已成为汽车智能化的\"第二战场\"，而用好数据的前提，是合规。监管的门槛正在快速抬高。2026年9月，GB 48319与GB 48320两项时空数据安全新强…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T15:23:00+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "监管",
+        "合规"
+      ],
+      "confidence": 0.11,
+      "score": 37,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "860a9f793f4d7c0b",
+      "title": "feat: external PLE file loading by pwilkin · Pull Request #31185 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xsgpby/feat_external_ple_file_loading_by_pwilkin_pull",
+      "summary": "Overview Provides a new --shard command line argument and support for loading a model from multiple shard locations; common use case is loading the PLE (engram) files from a separate GGUF. Adds conversion support for building both a PLE-les…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T15:26:42+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 0.5,
+      "score": 37,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "b30d58dd70539937",
       "title": "Where is my Cursor Pro account?",
       "url": "https://reddit.com/r/cursor/comments/1xqa14k/where_is_my_cursor_pro_account",
@@ -1718,6 +2681,77 @@
         "detail": "Cursor 近期大力推广统一账户，一位 Pro 用户终于照做，结果发现自己的 Pro 订阅和账户里的内容全都不见了。他发帖求助，想知道是否有人遇到同样问题，并质疑合并过程是否安全。",
         "generatedAt": "2026-11-10T12:14:15+08:00"
       }
+    },
+    {
+      "id": "ee0fd18311461ce0",
+      "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+      "url": "https://qbitai.com/2026/11/508798.html",
+      "summary": "办公AI结束单机模式",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T09:27:09+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "45d62080de0e2dc8",
+      "title": "从众筹爆款到现货开售，妙动科技Beni机器人开创影像新视角",
+      "url": "https://leiphone.com/category/industrynews/Hh7kHix5gWd00cEC.html",
+      "summary": "2026 年 11 月 10 日，消费级机器人公司妙动科技宣布，旗下全球首款多地形跟拍机器人 Beni 正式开启现货发售：标准套装售价 4999 元、探索套装售价 5799 元，国内用户可通过京东商城购买，即买即发货。一个月前，Beni 刚以筹资超 500 万美元、全球 7926 名支持者的成绩，创下Kickstarter 平台消费级机器人众筹金额历史第一的纪录。今天，它已从“众筹爆款”进入“现货开售”的阶段。对成立不到两年的妙动科技而言，此次Beni开售不止是面向全球用户推…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T13:02:00+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "dcd04f74c6f7526d",
+      "title": "xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d",
+      "summary": "Image-conditioned 64³ voxel structure generator of JoVox: Joint Hierarchical Flow Matching for Lightweight Voxel Generation . JoVox is a discrete flow matching framework that learns the joint hierarchical distribution of voxels while keepin…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T19:41:51+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "framework"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "ee51a055ec0cb6df",
@@ -1907,6 +2941,176 @@
       }
     },
     {
+      "id": "4b30b4f33b7dbfa6",
+      "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
+      "url": "https://qbitai.com/2026/11/508787.html",
+      "summary": "投毒 → 耗尽预算 → 诱导误判",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T06:11:49+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "82fda640970b5538",
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand",
+      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T20:15:32+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center",
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "12db1bd0d8b67b1a",
+      "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+      "url": "https://wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers",
+      "summary": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T19:00:00+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e20c5d7bc50dc7fe",
+      "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+      "url": "https://wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are",
+      "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T19:00:00+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3c1a8a89eb6a7c93",
+      "title": "给 AI 腾内存？Discord 抛弃Electron，省70%内存还秒开：Windows应用该跟进了",
+      "url": "https://infoq.cn/article/MQTTu6dgGxHBZm1wOLPI",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T24:04:53+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "应用"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "62c9b4c32bb8c706",
+      "title": "Cloudflare KV Instant：读取 p99 仅 1.62 毫秒，写入一次却要 0.1 美元",
+      "url": "https://infoq.cn/article/YrPwJgFYyBSAmJE4hJAB",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T23:00:00+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "46b645d06298bb35",
+      "title": "美女陪打LOL，腾讯入局AI游戏陪伴，会走米哈游的老路吗？",
+      "url": "https://tmtpost.com/8199749.html",
+      "summary": "行业长期趋势看，AI陪伴赛道已经告别“只要有好看数字人、会聊天就能吸引用户”的早期幻想。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T18:05:53+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "趋势"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "e01130ed7c431233",
       "title": "Multiverse Computing's Comet 60B (A12B) GGUFs with the MTP head",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xsbc2r/multiverse_computings_comet_60b_a12b_ggufs_with",
@@ -1952,6 +3156,82 @@
         "Qwen"
       ],
       "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "255f947021f27ac6",
+      "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+      "url": "https://wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information",
+      "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T15:00:00+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "available"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a2a094b7064694aa",
+      "title": "灵光接入什么值得买，AI助理开始帮用户“盯好价”",
+      "url": "https://leiphone.com/category/industrynews/Z3dOHYCNYfPNwijf.html",
+      "summary": "从商品推荐到价格追踪，个人AI助理进一步深入日常消费场景。 11月10日消息，蚂蚁集团旗下个人AI助理灵光接入消费内容平台「什么值得买」，将商品信息、消费决策支持等服务进一步纳入灵光。此次接入是灵光持续扩展开放服务生态的又一动作。此前，灵光已陆续接入支付宝、钉钉、飞书、米家、微信读书、哈啰打车等40个连接器服务，能力覆盖工作、出行、家庭管理和日常生活等多个场景。「什么值得买」长期积累了商品信息、消费内容和优惠信息等资源。对于灵光而言，接入专业消费信息服务，有助于提升AI在具体…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T16:41:00+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "接入"
+      ],
+      "confidence": 0.67,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4ba619f9d558a68f",
+      "title": "AI的收费站正在搬家：端侧抢的不是算力，是云端的收银台",
+      "url": "https://tmtpost.com/8199775.html",
+      "summary": "11月4日，信通院联合20家单位在乌镇发布《智能体发展自律公约》，同日，端侧芯片公司后摩智能宣布数十亿元B轮。两件事被分开解读，本文判断它们是同一场搬家的两个截面：端侧拆的不是云端的算力，是云端按token计费的收银台。大模型的收费对象，正从每一次调用，转向每一台装机的设备。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T16:34:58+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "算力"
+      ],
+      "confidence": 0.5,
       "score": 34,
       "related": [],
       "pushed": false
@@ -2172,6 +3452,121 @@
       "topic": "ai",
       "publishedAt": "2026-11-10T12:16:17+08:00",
       "fetchedAt": "2026-11-10T12:50:07+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7b5d3487b8ec5940",
+      "title": "管窥AI游戏的产业现状，从Roblox这份“意外”的财报",
+      "url": "https://tmtpost.com/8199114.html",
+      "summary": "方兴未艾，暗流涌动。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T18:07:49+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3bf6211aa772fd49",
+      "title": "4.12亿分红刚落袋又拟募资10亿，宏达电子定增抢AI器件窗口",
+      "url": "https://tmtpost.com/8199771.html",
+      "summary": "上一轮定增募投项目三度延期、产能利用率不足四成。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T17:27:48+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "22bae6798d33460a",
+      "title": "特努斯施压 Siri 掌门人，苹果 AI 不能再等了",
+      "url": "https://ifanr.com/1688570",
+      "summary": "油门焊死 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T17:30:18+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "90cd2c4a355112ed",
+      "title": "有「眼力」，也有「洁癖」，戴森智能扫拖机器人改变了什么？",
+      "url": "https://ifanr.com/1688755",
+      "summary": "在习以为常的将就里，戴森的执拗是一种稀缺的浪漫 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T17:30:04+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cea93b879e804e9f",
+      "title": "Fable 5.2 not only has guardrails against AI acceleration, its capabilities were capped in training too",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai",
+      "summary": "This seems excessive, especially if they trust their classification models for safeguards, why add both? However I guess it is to be expected from a private company. It's also \"yet another reason\" for open weight LLMs submitted by /u/Entrop…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T18:23:52+08:00",
+      "fetchedAt": "2026-11-10T21:05:01+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
