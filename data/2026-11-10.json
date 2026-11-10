@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T06:48:47+08:00",
+  "updatedAt": "2026-11-10T11:52:58+08:00",
   "items": [
     {
       "id": "dd4da662fab5b635",
@@ -153,6 +153,45 @@
       "pushedAt": "2026-11-10T06:48:47+08:00"
     },
     {
+      "id": "fc6c9dc8d37c7ec9",
+      "title": "Anthropic 发布 Fable 5.2 与 Mythos 5.2，声称“8 天写出一个能开机的操作系统”",
+      "url": "https://oschina.net/news/503499/claude-fable-and-mythos-5-2",
+      "summary": "Anthropic 在 11 月 9 日发布了 Claude Fable 5.2 和 Claude Mythos 5.2。这两个名字看起来像两条产品线，实际上是同一个底层模型——Fable 带完整的网络安全和生物学防护，对所有用户开放；Mythos 卸掉部分限制，只通过验证计划提供给从事防御性安全或生物医学研究的机构。对开发者来说，真正想知道的不是它能解什么难...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T11:37:45+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "开放",
+        "Claude"
+      ],
+      "confidence": 0.8,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 发布 Fable 5.2 与 Mythos 5.2，同一模型两种开放策略",
+        "takeaway": "同一底层模型分两版：Fable 全防护面向大众，Mythos 松绑仅限验证机构，主打安全分级。",
+        "bullets": [
+          "Fable 5.2 带完整网络安全与生物学防护，对所有用户开放",
+          "Mythos 5.2 卸掉部分限制，仅通过验证计划提供给防御性安全或生物医学机构",
+          "两者实为同一底层模型，区别在防护策略与开放范围",
+          "官方声称该模型 8 天能写出一个可开机的操作系统"
+        ],
+        "detail": "Anthropic 于 11 月 9 日推出 Claude Fable 5.2 和 Claude Mythos 5.2。两者其实是同一个底层模型：Fable 保留完整的网络安全和生物学防护，向所有用户开放；Mythos 去掉部分限制，只通过验证计划提供给从事防御性安全或生物医学研究的机构。官方还声称它能用 8 天写出一",
+        "generatedAt": "2026-11-10T11:52:46+08:00"
+      }
+    },
+    {
       "id": "3541a994b8f0a12c",
       "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
       "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy",
@@ -190,6 +229,188 @@
       "pushedAt": "2026-11-10T06:48:47+08:00"
     },
     {
+      "id": "b399a842f09038e6",
+      "title": "qOntology 本体工程平台开源版 v1.1.0 发布：AI 辅助建模、知识图谱多视图！企业本体 FDE 的超强工具！",
+      "url": "https://oschina.net/news/503498",
+      "summary": "qOntology 本体工程平台开源版 v1.1.0 围绕本体工程中的知识整理、模型维护与图谱探索进行更新，重点增强 AI 辅助建模和知识图谱多视图能力，同时补充项目版本管理、约束规则配置，并对本体应用及基础管理页面进行调整。本次更新关注的是本体建设过程中的几个具体环节： 如何从业务材料中整理建模候选，如何通过不同视图...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T11:07:06+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.4,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "qOntology 开源版 v1.1.0 发布：AI 辅助建模与知识图谱多视图",
+        "takeaway": "本体工程平台 qOntology 开源版更新，强化 AI 辅助建模和图谱多视图，方便企业整理知识模型。",
+        "bullets": [
+          "新增 AI 辅助建模，可从业务材料整理建模候选",
+          "知识图谱支持多视图探索，便于不同角度查看",
+          "补充项目版本管理与约束规则配置",
+          "调整本体应用及基础管理页面"
+        ],
+        "detail": "qOntology 开源版 v1.1.0 聚焦本体工程中的知识整理、模型维护与图谱探索。重点增强 AI 辅助建模和知识图谱多视图能力，并补充项目版本管理、约束规则配置，同时调整了本体应用及基础管理页面。",
+        "generatedAt": "2026-11-10T11:52:45+08:00"
+      }
+    },
+    {
+      "id": "ac841c16ab1a0f7b",
+      "title": "llm-anthropic 0.31",
+      "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic",
+      "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm keys set anthropic #…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T07:58:46+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 0.33,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llm-anthropic 0.31 发布，新增 Fable 5.2 与 Mythos 5.2 支持",
+        "takeaway": "Simon Willison 的 Anthropic 插件更新，用户可通过命令行直接调用两款新模型。",
+        "bullets": [
+          "llm-anthropic 0.31 新增对 Fable 5.2 和 Mythos 5.2 的支持",
+          "用户可用 llm 命令行工具直接向 Fable 5.2 发送提示词",
+          "安装方式：uv tool install llm，再安装插件并设置 API 密钥"
+        ],
+        "detail": "Anthropic 今天发布了 Fable 5.2 和 Mythos 5.2 两款模型。Simon Willison 已将它们加入 llm-anthropic 插件，用户安装后即可通过命令行调用 Fable 5.2 等模型。",
+        "generatedAt": "2026-11-10T11:52:45+08:00"
+      }
+    },
+    {
+      "id": "baaf713b11e387f5",
+      "title": "Locating the source of a mysterious beep with Claude",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps",
+      "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping . The beeps were far enough apart that standing in the room and trying to…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T07:57:21+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用 Claude 定位神秘哔哔声来源",
+        "takeaway": "Simon Willison 借助 Claude 排查家中储物间间歇性哔哔声，展示 AI 在现实问题中的实用价值。",
+        "bullets": [
+          "储物间堆满搬家纸箱，几周前开始间歇性哔哔响。",
+          "哔声间隔长，站在房间里也难以定位来源。",
+          "作者用 Claude 辅助推理，尝试找出声音出处。"
+        ],
+        "detail": "作者家的储物间堆着搬家后没拆的箱子，几周前开始时不时发出哔哔声。因为间隔太久，人站在屋里也很难判断声音从哪来。于是他借助 Claude 来帮忙推理定位。",
+        "generatedAt": "2026-11-10T11:52:47+08:00"
+      }
+    },
+    {
+      "id": "6289435bdbbde177",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T09:27:12+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO",
+        "valuation"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic据报推进IPO计划，本周或确定估值区间",
+        "takeaway": "AI公司Anthropic重启上市进程，本周可能敲定估值区间，引发市场关注。",
+        "bullets": [
+          "《华尔街日报》报道，Anthropic计划推进IPO。",
+          "公司预计本周确定估值范围。",
+          "此举可能影响AI行业融资与上市节奏。"
+        ],
+        "detail": "据《华尔街日报》消息，AI公司Anthropic计划推进首次公开募股（IPO），预计本周内确定估值区间。这一动向意味着该公司可能重启上市进程，其估值水平也将成为观察AI行业资本市场表现的重要参考。",
+        "generatedAt": "2026-11-10T11:52:47+08:00"
+      }
+    },
+    {
+      "id": "897b2093d4a38721",
+      "title": "刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5",
+      "url": "https://ifanr.com/1688605",
+      "summary": "全球最强模型再次易主 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T06:54:06+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Fable 5.2 登顶全球最强模型，超越 Opus 5.5",
+        "takeaway": "Anthropic 新模型 Claude Fable 5.2 登顶世界第一，一夜之间超越 Opus 5.5，最强模型再次易主。",
+        "bullets": [
+          "Claude Fable 5.2 登顶全球最强模型榜单",
+          "上一代 Opus 5.5 被迅速超越",
+          "全球最强模型排名再次发生变化"
+        ],
+        "detail": "据爱范儿报道，Claude Fable 5.2 刚刚登顶世界第一，一夜之间超越了 Opus 5.5。这意味着全球最强模型的头衔再次易主，Anthropic 的新模型在短时间内完成了对上一代领先者的反超。",
+        "generatedAt": "2026-11-10T11:52:48+08:00"
+      }
+    },
+    {
       "id": "d75c80b5454dda4b",
       "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
       "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
@@ -225,6 +446,44 @@
         "generatedAt": "2026-11-10T05:39:44+08:00"
       },
       "pushedAt": "2026-11-10T06:48:47+08:00"
+    },
+    {
+      "id": "195bc05537b0ad62",
+      "title": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
+      "url": "https://ifanr.com/1688654",
+      "summary": "· 曝苹果调整 iOS 28 开发节奏，首阶段留出六周探索功能 · 谷歌发布两套第八代 TPU 系统，分别面向长上下文和保密推理 · 迪士尼与 Adobe 达成多年合作，将为旗下 IP 定制生成模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T08:47:46+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "Claude"
+      ],
+      "confidence": 0.2,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "苹果国行AI备案扩至iPad与笔记本，Claude新模型降价20%",
+        "takeaway": "苹果AI入华范围扩大，Anthropic新模型降价，AI竞争与落地同步加速。",
+        "bullets": [
+          "苹果国行AI备案新增iPad和笔记本设备",
+          "Claude Fable 5.2发布，价格下调20%",
+          "谷歌推出两套第八代TPU，分攻长上下文与保密推理",
+          "迪士尼与Adobe合作定制生成模型"
+        ],
+        "detail": "苹果国行AI备案设备从iPhone扩展到iPad和笔记本，意味着Apple Intelligence在华落地范围扩大。Anthropic发布Claude Fable 5.2并降价20%，谷歌则推出面向长上下文和保密推理的两套第八代TPU。迪士尼与Adobe达成多年合作，将为旗下IP定制生成模型。",
+        "generatedAt": "2026-11-10T11:52:49+08:00"
+      }
     },
     {
       "id": "faa2c8a3a8207575",
@@ -339,6 +598,79 @@
       "pushedAt": "2026-11-10T06:48:47+08:00"
     },
     {
+      "id": "eb0c65b2b58fbc7a",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "url": "https://theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intell…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T07:07:59+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.33,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达CEO黄仁勋承认婚外情，公司启动调查",
+        "takeaway": "英伟达CEO黄仁勋承认与Megaspeed高管Alice Huang有婚外情，公司已展开调查，事件引发全球关注。",
+        "bullets": [
+          "黄仁勋承认与Megaspeed高管Alice Huang存在婚外情",
+          "英伟达公司已对此事启动内部调查",
+          "事件引发全球讨论，并牵涉美国情报部门关注"
+        ],
+        "detail": "英伟达CEO黄仁勋承认与Megaspeed高管Alice Huang发生婚外情，公司随即启动调查。此事引发全球热议，有报道称美国情报部门自去年起已对此有所关注。",
+        "generatedAt": "2026-11-10T11:52:49+08:00"
+      }
+    },
+    {
+      "id": "08f75a34c0202763",
+      "title": "Same prompt, DeepSeek V4.1 Flash vs Qwen 3.8 FN: 94 tok/s vs 350 tok/s",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xs7ffm/same_prompt_deepseek_v41_flash_vs_qwen_38_fn_94",
+      "summary": "I wanted to see how big of a difference there is between arguably two of the top MoE models that you can actually run locally, so I ran the same one shot prompt and left it unattended for a while. The prompt asks for a fully interactive V8 …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T07:32:31+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek V4.1 Flash 与 Qwen 3.8 FN 本地实测：速度差近 4 倍",
+        "takeaway": "同一提示词下，Qwen 3.8 FN 生成速度达 350 tok/s，DeepSeek V4.1 Flash 仅 94 tok/s，本地 MoE 模型性能差距明显。",
+        "bullets": [
+          "测试对比两款可本地运行的热门 MoE 模型",
+          "同一提示词下 Qwen 3.8 FN 速度约为 DeepSeek 的 3.7 倍",
+          "结果反映本地推理效率差异，选型需权衡速度与质量"
+        ],
+        "detail": "有用户用同一个一次性提示词（要求生成完整交互式 V8 相关内容）分别测试 DeepSeek V4.1 Flash 和 Qwen 3.8 FN 两款可本地运行的 MoE 模型。结果显示 Qwen 3.8 FN 达到 350 tok/s，而 DeepSeek V4.1 Flash 仅 94 tok/s，速度差距接近四倍。",
+        "generatedAt": "2026-11-10T11:52:50+08:00"
+      }
+    },
+    {
       "id": "b9896352c4a7b887",
       "title": "不想当管理者，就用不好 Coding Agent？Anthropic 工程师长文谈 Agent 管理实战",
       "url": "https://infoq.cn/article/YPQyY6bqhzhtO8MN6XUb",
@@ -446,6 +778,42 @@
         "generatedAt": "2026-11-10T05:39:46+08:00"
       },
       "pushedAt": "2026-11-10T06:48:47+08:00"
+    },
+    {
+      "id": "4660c9985b904824",
+      "title": "Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效",
+      "url": "https://infoq.cn/article/sBjhhysFKZibZpXQZEGy",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T19:00:00+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "架构"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 重做源码管理系统，提交量激增 12 倍",
+        "takeaway": "Anthropic 因提交量增长 12 倍而重构源码管理系统，传统架构已难以支撑。",
+        "bullets": [
+          "Anthropic 重新设计源代码管理系统",
+          "提交量增长 12 倍，传统架构开始失效",
+          "对大型 AI 团队的研发基础设施有参考价值"
+        ],
+        "detail": "Anthropic 重新设计了自家的源代码管理系统。原因是提交量增长了 12 倍，原有传统架构已经撑不住。这说明 AI 公司研发规模快速扩张后，底层工程工具也需要跟着换代。",
+        "generatedAt": "2026-11-10T11:52:51+08:00"
+      }
     },
     {
       "id": "2969b0807146033c",
@@ -559,6 +927,42 @@
       "pushedAt": "2026-11-10T06:48:47+08:00"
     },
     {
+      "id": "4cd002d21002acd3",
+      "title": "触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+      "url": "https://infoq.cn/article/W7VPoeNBPX4y2u72WAGM",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T18:40:29+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "蚂蚁灵波发布通用触觉模型，触觉也能Token化",
+        "takeaway": "蚂蚁灵波推出通用触觉模型，把触觉信号Token化，推进机器人指尖的具身原生能力。",
+        "bullets": [
+          "蚂蚁灵波发布通用触觉模型，主打触觉信号Token化",
+          "目标是把具身原生能力延伸到机器人指尖",
+          "属于模型发布，面向机器人触觉感知方向"
+        ],
+        "detail": "蚂蚁灵波发布了一款通用触觉模型，核心思路是把触觉信号也做Token化处理。官方将其定位为把“具身原生”能力推进到机器人指尖，属于机器人触觉感知方向的模型发布。",
+        "generatedAt": "2026-11-10T11:52:51+08:00"
+      }
+    },
+    {
       "id": "b680bcb5a232def1",
       "title": "ConceptCountry/qwen-concept-27b · Hugging Face",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xrxwg1/conceptcountryqwenconcept27b_hugging_face",
@@ -594,6 +998,79 @@
         "generatedAt": "2026-11-10T05:39:48+08:00"
       },
       "pushedAt": "2026-11-10T06:48:47+08:00"
+    },
+    {
+      "id": "7d8b4ae6c27ecf7d",
+      "title": "What could China get from Jensen Huang?",
+      "url": "https://theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T07:51:58+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chips",
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋能帮中国拿到什么？",
+        "takeaway": "英伟达芯片是AI基石，黄仁勋对华策略影响中美AI格局。",
+        "bullets": [
+          "英伟达芯片是美国AI技术的基础，需求多年供不应求。",
+          "黄仁勋作为CEO，其决策可能影响中国获取先进芯片。",
+          "中美科技竞争下，英伟达对华出口政策备受关注。"
+        ],
+        "detail": "英伟达在当今AI领域的地位怎么强调都不为过。其芯片是美国构建先进AI技术的基石，多年来需求一直超过供应。黄仁勋作为英伟达掌门人，其对中国市场的态度和策略，将直接影响中国AI产业能获得多少算力支持。",
+        "generatedAt": "2026-11-10T11:52:53+08:00"
+      }
+    },
+    {
+      "id": "1a76a51854451da2",
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "url": "https://theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T07:47:46+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.33,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "特朗普回应黄仁勋婚外情传闻：称事先不知情",
+        "takeaway": "特朗普在白宫记者会上被问及英伟达CEO黄仁勋的婚外情传闻，称自己事先并不知情。",
+        "bullets": [
+          "特朗普在白宫简报会上回应了关于黄仁勋婚外情的问题",
+          "黄仁勋此前承认自己“不忠”，传闻对象被指为中国间谍",
+          "事件涉及英伟达CEO个人生活，可能引发外界关注"
+        ],
+        "detail": "特朗普总统在白宫记者会上被问及是否知晓英伟达CEO黄仁勋的婚外情传闻，他表示自己事先并不知情。黄仁勋此前承认自己“不忠”，传闻中的第三方被指为中国间谍。",
+        "generatedAt": "2026-11-10T11:52:53+08:00"
+      }
     },
     {
       "id": "24fbdd6b452ddf65",
@@ -706,6 +1183,80 @@
       "pushedAt": "2026-11-10T06:48:47+08:00"
     },
     {
+      "id": "22878e0f67369061",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "url": "https://theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I thin…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T08:28:49+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "says"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "派拉蒙CEO：AI或成现代史上最大创意突破",
+        "takeaway": "派拉蒙Skydance CEO David Ellison在财报会上称，AI对电影业的影响可能超过CGI，是重大创意机遇。",
+        "bullets": [
+          "Ellison在财报电话会上回应AI前景提问时发表上述观点",
+          "他认为AI对电影业的影响将超越CGI技术",
+          "这反映好莱坞高层对AI创意潜力的积极态度"
+        ],
+        "detail": "派拉蒙Skydance首席执行官David Ellison在最新财报电话会上表示，很难想象AI对电影行业的影响不会比CGI更大。他在回答公司AI展望问题时称，AI可能成为现代史上最大的创意突破。",
+        "generatedAt": "2026-11-10T11:52:53+08:00"
+      }
+    },
+    {
+      "id": "0123206fe565ebbb",
+      "title": "Anthropic IPO倒计时：最早11月16日上市",
+      "url": "https://tmtpost.com/8199231.html",
+      "summary": "Anthropic赶感恩节窗口冲刺IPO，将成AI定价试金石。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T11:15:00+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "上市",
+        "IPO"
+      ],
+      "confidence": 0.89,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic冲刺IPO：最早11月16日上市",
+        "takeaway": "Anthropic抢感恩节窗口上市，其定价将成为AI公司估值的重要参照。",
+        "bullets": [
+          "Anthropic计划最早11月16日启动IPO",
+          "上市时间瞄准感恩节前后的窗口期",
+          "此次IPO被视为AI公司定价的试金石"
+        ],
+        "detail": "Anthropic正加紧推进IPO，目标是最早11月16日上市，赶在感恩节前后的时间窗口。作为AI领域的重要公司，它的上市定价和表现将被市场当作衡量AI企业估值的关键参考。",
+        "generatedAt": "2026-11-10T11:52:55+08:00"
+      }
+    },
+    {
       "id": "dbd9680f73cbc538",
       "title": "Medium’s new TK app brings AI assistance directly into the writing process",
       "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process",
@@ -781,6 +1332,76 @@
       "pushedAt": "2026-11-10T06:48:47+08:00"
     },
     {
+      "id": "9b0466c1eb021a36",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T07:28:37+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋被曝一年前聘请擅长处理性丑闻的公关公司",
+        "takeaway": "英伟达CEO黄仁勋据报在《纽约时报》报道其妻商业往来后，聘请了有处理高调性丑闻经验的公关公司。",
+        "bullets": [
+          "《连线》报道，黄仁勋一年前聘请该公关公司。",
+          "时间点紧接《纽约时报》2025年10月报道其妻Alice Huang的商业往来。",
+          "公关公司过往处理过高调性丑闻，引发外界关注。"
+        ],
+        "detail": "据《连线》报道，英伟达CEO黄仁勋在一年前聘请了一家曾处理多起高调性丑闻的公关公司。此举发生在《纽约时报》2025年10月报道其妻Alice Huang与黄仁勋的商业往来之后不久。目前尚不清楚聘请公关公司的具体原因。",
+        "generatedAt": "2026-11-10T11:52:55+08:00"
+      }
+    },
+    {
+      "id": "446c17bdcc5a968a",
+      "title": "Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2",
+      "url": "https://ifanr.com/1688678",
+      "summary": "人类的快乐却还是如此朴素。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T09:19:39+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Codex 游戏掌机突袭开卖，网友却催更 GPT-6.2",
+        "takeaway": "Codex 掌机突然上架开卖，但网友更关心 GPT-6.2 何时发布，形成有趣反差。",
+        "bullets": [
+          "Codex 游戏掌机突然开卖，此前无预热。",
+          "网友讨论焦点转向催更 GPT-6.2。",
+          "反映用户对 AI 模型迭代的期待高于硬件。"
+        ],
+        "detail": "爱范儿报道，Codex 游戏掌机突然开卖，但网友的注意力却集中在催促 GPT-6.2 上。摘要仅以“人类的快乐却还是如此朴素”作结，未透露掌机具体配置或 GPT-6.2 的发布信息。",
+        "generatedAt": "2026-11-10T11:52:56+08:00"
+      }
+    },
+    {
       "id": "e2cc7821517590d5",
       "title": "Qwen 3.8 FN getting stressed from messing up",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xs2okh/qwen_38_fn_getting_stressed_from_messing_up",
@@ -805,6 +1426,43 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-11-10T06:48:47+08:00"
+    },
+    {
+      "id": "4e5997cce114177c",
+      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "url": "https://wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling",
+      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T08:18:19+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chips",
+        "NVIDIA"
+      ],
+      "confidence": 0.71,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋婚外情风波波及AI行业",
+        "takeaway": "英伟达CEO黄仁勋被曝婚外情，对象疑似中国间谍，可能动摇其在AI界的地位。",
+        "bullets": [
+          "黄仁勋凭借财力和芯片优势，在AI领域影响力巨大。",
+          "婚外情对象疑似中国间谍，可能带来安全与信任危机。",
+          "事件或影响英伟达业务及整个AI行业格局。"
+        ],
+        "detail": "英伟达CEO黄仁勋凭借雄厚资金和抢手芯片，在AI领域举足轻重。但据称他与一名疑似中国间谍的女子有婚外情，这可能让他的地位和公司前景面临风险。",
+        "generatedAt": "2026-11-10T11:52:56+08:00"
+      }
     },
     {
       "id": "ee51a055ec0cb6df",
@@ -855,6 +1513,136 @@
       "pushedAt": "2026-11-10T06:48:47+08:00"
     },
     {
+      "id": "1038d808525b2bd6",
+      "title": "硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+      "url": "https://infoq.cn/article/mZlISiZL9c1eurrsZRpo",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T19:28:44+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "李飞飞、Jeff Dean 齐泼冷水：AI 自我进化无限加速不可信",
+        "takeaway": "硅谷热炒 AI 自我进化，两位技术领袖公开质疑其无限加速的说法。",
+        "bullets": [
+          "硅谷近期热炒 AI 自我进化概念，宣称可无限加速。",
+          "李飞飞、Jeff Dean 公开质疑，认为无限加速不可信。",
+          "两人观点为过热讨论降温，提醒理性看待 AI 能力。"
+        ],
+        "detail": "硅谷最近热炒 AI 自我进化，声称能无限加速。李飞飞和 Jeff Dean 公开泼冷水，认为这种无限加速的说法不可信。他们的表态给过热讨论降温，提醒业界理性看待 AI 能力。",
+        "generatedAt": "2026-11-10T11:52:57+08:00"
+      }
+    },
+    {
+      "id": "642571d641391658",
+      "title": "ADD 资产驱动开发：让 AI Coding 懂业务、守规范、稳架构、实现端到端交付｜AICon北京",
+      "url": "https://infoq.cn/article/rsMuS4cuc2ir68ulGgEs",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T18:00:00+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "架构"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ADD资产驱动开发：让AI Coding懂业务守规范",
+        "takeaway": "InfoQ介绍ADD资产驱动开发，试图让AI编码理解业务、遵守规范并稳定架构。",
+        "bullets": [
+          "ADD指资产驱动开发，面向AI Coding场景提出",
+          "目标是让AI懂业务、守规范、稳架构",
+          "强调端到端交付，来源为AICon北京分享",
+          "属研究论文类内容，具体方案细节需看原文"
+        ],
+        "detail": "InfoQ中国刊文介绍ADD资产驱动开发，主张通过资产驱动的方式，让AI编码工具理解业务背景、遵守开发规范、保持架构稳定，并完成端到端交付。该内容来自AICon北京的分享，摘要未展开具体实现方法。",
+        "generatedAt": "2026-11-10T11:52:57+08:00"
+      }
+    },
+    {
+      "id": "dd85f77f6dfac9f8",
+      "title": "Airbnb 借助 Chronon 将推荐延迟从两天缩短至秒级",
+      "url": "https://infoq.cn/article/yuRNB72KsEbjGYSkV7FY",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T17:11:00+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Airbnb 用 Chronon 把推荐延迟从两天压到秒级",
+        "takeaway": "Airbnb 借助 Chronon 大幅缩短推荐延迟，意味着推荐系统能更快响应用户行为。",
+        "bullets": [
+          "Airbnb 将推荐延迟从两天缩短至秒级",
+          "借助 Chronon 实现这一提速",
+          "更快推荐可能提升用户体验和转化"
+        ],
+        "detail": "Airbnb 利用 Chronon 技术，把推荐系统的延迟从原来的两天降低到秒级。这意味着推荐结果能更及时地反映用户最新行为，有望改善使用体验。",
+        "generatedAt": "2026-11-10T11:52:58+08:00"
+      }
+    },
+    {
+      "id": "e01130ed7c431233",
+      "title": "Multiverse Computing's Comet 60B (A12B) GGUFs with the MTP head",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xsbc2r/multiverse_computings_comet_60b_a12b_ggufs_with",
+      "summary": "I wanted to try MultiverseComputingCAI/Comet_60B_A12B_BF16 (Multiverse Computing's compressed version of Nemotron 3.5 Super), so I converted it to GGUF, and it runs on stock llama.cpp: Q4_K_M (42.6 GB) Q8_0 (64.2 GB) They keep the MTP head,…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T10:32:52+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "081ddfa5d367604f",
       "title": "Best Practices for Provisioning Local Inference to a Team?",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xs0uxs/best_practices_for_provisioning_local_inference",
@@ -877,6 +1665,107 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-11-10T06:48:47+08:00"
+    },
+    {
+      "id": "e1dff3424d288727",
+      "title": "美股AI巨震，如何把握港A的AI产业链分化机遇？",
+      "url": "https://tmtpost.com/8198218.html",
+      "summary": "美国中期选举的选情，正在为全球AI估值体系增添新的变数。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T11:16:02+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "估值"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b4df69830433f9e6",
+      "title": "连环保组织都离不开AI，这么多电花得值吗？",
+      "url": "https://tmtpost.com/8199018.html",
+      "summary": "从野生动物保护到电网扩容，算力的成本远超电费。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T10:46:08+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5c21abd9583a2f05",
+      "title": "手机芯片困在AI的繁荣里",
+      "url": "https://tmtpost.com/8198787.html",
+      "summary": "手机销量下滑，涨价难以弥补芯片订单流失。AI基础设施扩张推高供应链成本，端侧AI尚未兑现换机需求，手机芯片厂商在持续投入的同时，正加速转向数据中心寻找增长。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T10:43:15+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "数据中心"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "066ba8b9581957dd",
+      "title": "CUDA+ROCm dual-backends LLM inference for mixed-vendor GPUs (up to 48% faster)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xsaurn/cudarocm_dualbackends_llm_inference_for",
+      "summary": "I have seen potential in combining Strix Halo's iGPU with RTX 5090 for LLM inferencing. Initially I found no inference engine that can run LLM inference on both these GPUs at the same time, inference engine such as vLLM support inference on…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T10:09:31+08:00",
+      "fetchedAt": "2026-11-10T11:52:34+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "5851f7d6345af8a0",
