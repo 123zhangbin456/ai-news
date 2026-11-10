@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T21:05:28+08:00",
+  "updatedAt": "2026-11-11T04:07:57+08:00",
   "items": [
     {
       "id": "dd4da662fab5b635",
@@ -150,6 +150,42 @@
         ],
         "detail": "Meta AI 正式发布 Muse Ember，这是其目前体积最小、效率最高的模型，官方称它专为复杂推理任务设计。该模型直接对标 Claude Haiku 和 GPT Luna 所在的轻量高效赛道，意味着 Meta 也加入了这一细分市场的竞争。",
         "generatedAt": "2026-11-10T21:05:13+08:00"
+      }
+    },
+    {
+      "id": "5ca4dc7b6d88cb31",
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T18:00:00+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing"
+      ],
+      "confidence": 1,
+      "score": 63,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 在 ChatGPT 中推出企业功能",
+        "takeaway": "企业可在 ChatGPT 内管理信息、查看曝光并转化兴趣，意味着 ChatGPT 正从聊天工具转向商业平台。",
+        "bullets": [
+          "企业能管理自身信息并查看在 ChatGPT 中的展示情况",
+          "目标是把用户兴趣转化为实际业务行动",
+          "功能由 OpenAI 发布，面向使用 ChatGPT 的企业"
+        ],
+        "detail": "OpenAI 宣布在 ChatGPT 中推出企业功能。企业可以管理自己的业务信息，了解在 ChatGPT 里如何被展示，并借助这些洞察把用户的兴趣转化为实际行动。",
+        "generatedAt": "2026-11-11T04:07:45+08:00"
       }
     },
     {
@@ -369,6 +405,42 @@
         ],
         "detail": "Simon Willison 引用了一段关于 Claude Fable 5.2 的测试观察：模型对提示中“代码归谁所有”的说法很敏感。在 Anthropic 的小型编程任务测试里，如果提示完全不提归属，或把代码库说成是别人的，模型的表现就会有所不同。",
         "generatedAt": "2026-11-10T21:05:15+08:00"
+      }
+    },
+    {
+      "id": "0f696e8c856711df",
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak",
+      "summary": "The new model is up to twice as successful at some tasks.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T23:00:39+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 0.25,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepMind发布Gemini Robotics 2.5及安全基准ASIMOV-jailbreak",
+        "takeaway": "DeepMind推出机器人模型升级版，部分任务成功率翻倍，并开源安全测试基准。",
+        "bullets": [
+          "Gemini Robotics 2.5在部分任务上成功率提升至两倍。",
+          "同步发布开放安全基准ASIMOV-jailbreak，用于评估机器人模型抗越狱能力。",
+          "该进展或推动机器人AI能力与安全评估标准并行发展。"
+        ],
+        "detail": "DeepMind发布了新一代机器人模型Gemini Robotics 2.5，在某些任务上的成功率最高达到之前的两倍。同时，团队推出了名为ASIMOV-jailbreak的开放安全基准，旨在测试机器人模型对越狱攻击的抵御能力。",
+        "generatedAt": "2026-11-11T04:07:47+08:00"
       }
     },
     {
@@ -593,6 +665,43 @@
       }
     },
     {
+      "id": "661f340c132f6a4d",
+      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot",
+      "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T21:30:00+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launch",
+        "launches"
+      ],
+      "confidence": 0.56,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Ring 推出家用安防无人机和企业巡逻机器人",
+        "takeaway": "亚马逊旗下 Ring 从门铃摄像头拓展到机器人安防，家庭和企业场景同步布局。",
+        "bullets": [
+          "Ring 发布家用安防无人机，可自主巡逻家庭周边",
+          "同时推出企业级滚动巡逻机器人，用于商业场所防护",
+          "这是 Ring 首次进入机器人硬件领域，背靠亚马逊生态"
+        ],
+        "detail": "以门铃摄像头闻名的 Ring 正在进军机器人领域。它发布了一款家用安防无人机，以及一款面向企业、可滚动巡逻的安防机器人，标志着 Ring 从固定摄像头向移动安防设备扩展。",
+        "generatedAt": "2026-11-11T04:07:49+08:00"
+      }
+    },
+    {
       "id": "ac841c16ab1a0f7b",
       "title": "llm-anthropic 0.31",
       "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic",
@@ -774,6 +883,43 @@
       }
     },
     {
+      "id": "a92c103556a09803",
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os",
+      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T23:29:30+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "assistant",
+        "users"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta AI助手Muse登陆Apple Watch与Wear OS",
+        "takeaway": "Meta将AI助手Muse扩展到智能手表，用户可通过语音、短信或听写与AI交互。",
+        "bullets": [
+          "Meta的AI助手Muse现已支持Apple Watch和Android Wear OS。",
+          "用户可通过语音通话、短信或听写与Muse互动。",
+          "此举将Meta AI从手机延伸至可穿戴设备，提升便携性。"
+        ],
+        "detail": "Meta宣布其AI助手Muse正式登陆Apple Watch和Android Wear OS智能手表。用户现在可以通过语音通话、发送短信或听写方式与Muse交互，将AI体验从手机扩展到手腕。",
+        "generatedAt": "2026-11-11T04:07:49+08:00"
+      }
+    },
+    {
       "id": "d75c80b5454dda4b",
       "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
       "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
@@ -921,6 +1067,118 @@
         ],
         "detail": "11 月 10 日，Claude Fable 5.2 发布当天，蚂蚁灵波科技开源了触觉基础模型 LingBot-Touch。前者面向数字世界，后者面向物理操作闭环。蚂蚁灵波认为两者是协同关系：通用大模型增强任务理解与推理，具身模型补齐物理感知和闭环操作，共同加速具身产业成熟。",
         "generatedAt": "2026-11-10T21:05:19+08:00"
+      }
+    },
+    {
+      "id": "9871791e1b1f7cac",
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion",
+      "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T22:01:39+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO",
+        "valuation"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 设定 IPO 发行价区间 70 至 78 美元，隐含估值达 1.404 万亿美元",
+        "takeaway": "AI 公司 Anthropic 启动 IPO，若按区间上限定价，完全稀释后估值将达 1.404 万亿美元。",
+        "bullets": [
+          "Anthropic 公布 IPO 发行价区间为每股 70 至 78 美元。",
+          "按区间上限计算，公司完全稀释后估值达 1.404 万亿美元。",
+          "该估值规模在 AI 行业融资与上市案例中极为突出。"
+        ],
+        "detail": "Anthropic 为 IPO 设定了每股 70 至 78 美元的发行价区间。若股票以区间最高价上市，按完全稀释口径计算，公司估值将达到 1.404 万亿美元。",
+        "generatedAt": "2026-11-11T04:07:50+08:00"
+      }
+    },
+    {
+      "id": "06c34be0a2ca7f1f",
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "url": "https://theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T22:06:54+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO",
+        "valuation"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 拟 IPO 估值最高 1.4 万亿美元",
+        "takeaway": "Anthropic 确认启动 IPO，定价区间 70–78 美元，估值最高达 1.4 万亿美元，规模或创纪录。",
+        "bullets": [
+          "Anthropic 周二确认 IPO 计划，估值最高 1.4 万亿美元",
+          "发行价区间 70–78 美元/股，低于此前市场预期",
+          "若成行，将是史上规模最大的 IPO 之一"
+        ],
+        "detail": "Anthropic 周二确认其 IPO 可能成为史上最大规模之一，但估值仍低于此前预期。发行价预计在每股 70 至 78 美元之间，对应估值最高可达 1.4 万亿美元。",
+        "generatedAt": "2026-11-11T04:07:50+08:00"
+      }
+    },
+    {
+      "id": "865216ef113dee31",
+      "title": "阿里巴巴：已正式申请平头哥独立上市",
+      "url": "https://leiphone.com/category/industrynews/dew7AYBxkGAYilZj.html",
+      "summary": "11月10日晚，阿里巴巴集团发布公告：已向香港联交所交表，申请旗下子公司平头哥独立上市。上市完成后，平头哥仍将是阿里巴巴子公司。公告显示，2026年9月11日，平头哥已向香港联交所递交上市申请，拟通过H股在香港联交所主板独立上市。据悉，IPO具体规模尚未最终确定。截至2026年4月，平头哥真武系列AI芯片累计出货量达56万片。平头哥上市安排，将有助于市场更清晰定价阿里巴巴核心业务价值，并展现平头哥自身作为中国领先全栈数据中心芯片提供商的商业价值，吸引半导体和AI算力赛道专业投…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T20:46:00+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "上市",
+        "IPO"
+      ],
+      "confidence": 0.33,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阿里申请平头哥独立上市，芯片业务拟登陆港股",
+        "takeaway": "阿里分拆芯片子公司平头哥赴港上市，意在让AI算力业务独立定价，释放半导体资产价值。",
+        "bullets": [
+          "阿里已向港交所交表，申请平头哥以H股在主板独立上市",
+          "上市后平头哥仍是阿里子公司，IPO规模尚未确定",
+          "平头哥真武系列AI芯片累计出货已达56万片",
+          "分拆有助于市场更清晰定价阿里核心业务与芯片资产"
+        ],
+        "detail": "阿里公告称已正式向港交所递交申请，计划让旗下芯片公司平头哥独立上市，完成后仍保持子公司身份。平头哥定位全栈数据中心芯片提供商，截至2026年4月真武系列AI芯片出货56万片。此举意在让市场分别给阿里主业和芯片业务定价。",
+        "generatedAt": "2026-11-11T04:07:51+08:00"
       }
     },
     {
@@ -1109,6 +1367,42 @@
       }
     },
     {
+      "id": "c188bc0e22913fbf",
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era",
+      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T22:00:00+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "founder"
+      ],
+      "confidence": 0.25,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cyanogen联合创始人再创业，瞄准AI时代挑战Windows",
+        "takeaway": "曾挑战安卓的Cyanogen联合创始人推出Kora，欲做AI时代的Windows替代品。",
+        "bullets": [
+          "Kora定位为免费操作系统，替代Windows。",
+          "目标用户是重度依赖AI模型和智能体的群体。",
+          "创始人曾用Cyanogen挑战谷歌Android。"
+        ],
+        "detail": "Cyanogen联合创始人如今把目光转向Windows，计划推出免费操作系统Kora，主要面向深度使用AI模型和智能体的用户，试图在AI时代提供Windows之外的替代选择。",
+        "generatedAt": "2026-11-11T04:07:52+08:00"
+      }
+    },
+    {
       "id": "eb0c65b2b58fbc7a",
       "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
       "url": "https://theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
@@ -1215,6 +1509,42 @@
         ],
         "detail": "Uber 对 Kubernetes 的 CPU 抽象进行了改造，为异构服务器重新定义了“一核”的含义。这一调整旨在让资源调度更贴合实际硬件差异，提升集群管理效率。",
         "generatedAt": "2026-11-10T21:05:19+08:00"
+      }
+    },
+    {
+      "id": "7da1b2b4758f6148",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "source": {
+        "id": "deepmind",
+        "name": "Google DeepMind",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T03:51:47+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌DeepMind发布Gemini Robotics 2.5，提升机器人真实世界灵巧性",
+        "takeaway": "这是谷歌迄今最强的视觉-语言-动作模型，旨在让机器人更灵巧、可靠且安全地执行现实任务。",
+        "bullets": [
+          "模型提升机器人灵巧性、可靠性和安全性",
+          "属于视觉-语言-动作模型，可理解并执行指令",
+          "由谷歌DeepMind发布，加速真实场景应用"
+        ],
+        "detail": "谷歌DeepMind推出Gemini Robotics 2.5，这是其能力最强的视觉-语言-动作模型。新模型重点提升了机器人的灵巧操作能力、运行可靠性和安全性，旨在加速机器人在真实世界中的通用应用。",
+        "generatedAt": "2026-11-11T04:07:53+08:00"
       }
     },
     {
@@ -1472,6 +1802,42 @@
       }
     },
     {
+      "id": "3588ceed41552e46",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T15:00:00+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "research"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI与Upwork研究：AI如何改变自由职业需求",
+        "takeaway": "AI相关自由职业项目预算更高、工时更长，技能需求也在变化。",
+        "bullets": [
+          "OpenAI与Upwork联合研究自由职业市场变化",
+          "AI相关项目预算更高、工时更长",
+          "自由职业者需掌握新技能组合"
+        ],
+        "detail": "OpenAI和Upwork的新研究分析了AI对自由职业工作的影响，发现市场对自由职业的需求正在变化，AI相关项目获得更高预算和更多工时，同时从业者需要掌握新的技能组合。",
+        "generatedAt": "2026-11-11T04:07:53+08:00"
+      }
+    },
+    {
       "id": "2969b0807146033c",
       "title": "The backlash about data centers might really just be about electricity",
       "url": "https://technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity",
@@ -1655,6 +2021,43 @@
       }
     },
     {
+      "id": "196c0edf93f91dc3",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips",
+      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T23:54:08+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip",
+        "chips"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌推出两款专用TPU芯片，拓展AI硬件版图",
+        "takeaway": "谷歌新增两款TPU，分别面向机密模型训练和更大内存容量，覆盖更多AI场景。",
+        "bullets": [
+          "谷歌发布两款新TPU芯片，扩展AI硬件产品线。",
+          "新芯片针对机密模型训练和更大内存容量优化。",
+          "旨在满足更多AI用例，巩固谷歌在AI芯片领域的布局。"
+        ],
+        "detail": "谷歌推出两款新的张量处理单元（TPU），将其芯片产品线扩展到更多使用场景，包括机密模型训练和更大内存容量。此举意味着谷歌正为不同AI工作负载提供更专门的硬件支持。",
+        "generatedAt": "2026-11-11T04:07:55+08:00"
+      }
+    },
+    {
       "id": "b680bcb5a232def1",
       "title": "ConceptCountry/qwen-concept-27b · Hugging Face",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xrxwg1/conceptcountryqwenconcept27b_hugging_face",
@@ -1765,6 +2168,40 @@
       }
     },
     {
+      "id": "724fae9251483a53",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T08:00:00+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Hugging Face Hub 现支持用 Google Cloud 账户付款",
+        "takeaway": "Hugging Face 用户可直接用 Google Cloud 账户支付 Hub 费用，简化企业采购流程。",
+        "bullets": [
+          "Hugging Face Hub 新增 Google Cloud 账户付款方式",
+          "企业用户可直接通过现有云账户结算，无需单独付款",
+          "简化采购流程，便于统一管理云支出"
+        ],
+        "detail": "Hugging Face 宣布，用户现在可以使用 Google Cloud 账户支付 Hugging Face Hub 的相关费用。这意味着企业客户能够直接通过已有的云账户完成结算，无需额外设置支付方式，从而简化采购流程并方便统一管理支出。",
+        "generatedAt": "2026-11-11T04:07:56+08:00"
+      }
+    },
+    {
       "id": "88920ed24aaf19c0",
       "title": "2026 开源行业解决方案创新赛总决赛评委阵容公布",
       "url": "https://oschina.net/news/503501",
@@ -1799,6 +2236,66 @@
         "detail": "第四届开放原子大赛的开源行业解决方案创新赛公布总决赛评委阵容。比赛 11 月 13 日在北京亦庄通明湖会议中心举行，由北京市经信局和开放原子开源基金会主办、开源中国承办，主题是开源赋能行业创新、方案驱动场景落地，分基础软件、智能硬件、AIGC 视频创作三条赛道，目的是发掘和培养开源人才与方案。",
         "generatedAt": "2026-11-10T12:14:08+08:00"
       }
+    },
+    {
+      "id": "af26721288564ff6",
+      "title": "Hands-on with Ring’s new AI drone camera for your home",
+      "url": "https://theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+      "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T21:30:00+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launch"
+      ],
+      "confidence": 0.33,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Ring 室内无人机摄像头定档 2027 年，售价 249.99 美元",
+        "takeaway": "Ring 终于要发货能飞的室内无人机摄像头，2027 年 1 月 27 日上市，售价 249.99 美元。",
+        "bullets": [
+          "Ring 创始人 Jamie Siminoff 在纽约发布会上宣布了这款产品",
+          "产品名为 Ring Drone Cam，是一款室内飞行无人机摄像头",
+          "售价 249.99 美元，2027 年 1 月 27 日发货",
+          "此前曾多次跳票，这次是正式确定上市时间"
+        ],
+        "detail": "Ring 在纽约发布会上宣布，其室内无人机摄像头 Ring Drone Cam 将于 2027 年 1 月 27 日发货，售价 249.99 美元。创始人 Jamie Siminoff 亲自公布了这一消息。该产品此前曾多次推迟，这次终于有了明确的上市日期。",
+        "generatedAt": "2026-11-11T04:07:57+08:00"
+      }
+    },
+    {
+      "id": "e6edefffefd4fb8f",
+      "title": "MiniMaxAI/MiniMax-H3-Image · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face",
+      "summary": "Actual working link this time. submitted by /u/Bestlife73 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T23:01:52+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 41,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "24fbdd6b452ddf65",
@@ -2412,6 +2909,110 @@
       }
     },
     {
+      "id": "f9ddc69f831717b4",
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp",
+      "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T22:05:10+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tool",
+        "tools",
+        "brings"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f650f08e36be0976",
+      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter",
+      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T22:00:00+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "85e69ee9d60b6746",
+      "title": "Adobe is going all in on agentic AI",
+      "url": "https://theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+      "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T22:00:00+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features",
+        "assistant",
+        "tools"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4ddbe1642bc5ece8",
+      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+      "url": "https://theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+      "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for a…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T22:00:00+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "e2cc7821517590d5",
       "title": "Qwen 3.8 FN getting stressed from messing up",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xs2okh/qwen_38_fn_getting_stressed_from_messing_up",
@@ -2532,6 +3133,29 @@
         "Qwen"
       ],
       "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3229de0d919212c3",
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T08:00:00+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 38,
       "related": [],
       "pushed": false
@@ -3111,6 +3735,32 @@
       "pushed": false
     },
     {
+      "id": "a98f8bd1b1c5219a",
+      "title": "adventists-ai/Sophon-Realtime-v1 · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xso32l/adventistsaisophonrealtimev1_hugging_face",
+      "summary": "An open full-duplex voice model family that hears your tone and speaks with one. Adventists AI · Apache-2.0 · Recommended: Tag · Flash · Try it online · GitHub Talking to it feels like a phone call with a person: it listens the whole time y…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T22:20:01+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github",
+        "apache"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "e01130ed7c431233",
       "title": "Multiverse Computing's Comet 60B (A12B) GGUFs with the MTP head",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xsbc2r/multiverse_computings_comet_60b_a12b_ggufs_with",
@@ -3232,6 +3882,31 @@
         "算力"
       ],
       "confidence": 0.5,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e11d8fcf8258a49a",
+      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+      "url": "https://wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds",
+      "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T22:00:00+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users"
+      ],
+      "confidence": 1,
       "score": 34,
       "related": [],
       "pushed": false
@@ -3625,6 +4300,77 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-11-10T06:48:47+08:00"
+    },
+    {
+      "id": "5422acb9724fbcfb",
+      "title": "波士顿动力为其人形机器人加入了轮子",
+      "url": "https://solidot.org/story?sid=85849",
+      "summary": "波士顿动力通过官方 YouTube 频道公布了一则新视频，展示了其人形机器人 Atlas 改用轮子在地面上移动。视频展示了 Atlas 能通过足部的轮子用脚尖旋转，以及做出其它高强度的动作。Atlas 能在平坦地面上的快速滚动与应对障碍物或不规则地面的关节式腿部运动之间实现平滑切换。Atlas 项目控制工程师 Andy Wu 称，系统在模拟环境中进行了训练，在模拟环境中学会所有动作后能在现实世界中以高准确度执行出来。Atlas 转换到移动模式仅需一个定制的适配器，就能将现有的…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T23:58:19+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "加入"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "889bc7c7327344d5",
+      "title": "My 0.8B fine-tune proofreads Spanish at 138 ms per sentence on a CPU",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xsocrj/my_08b_finetune_proofreads_spanish_at_138_ms_per",
+      "summary": "I have been building a Spanish proofreader that runs fully local, and it's finally released, so I wanted to share how it went. It only corrects Spanish, but I think the approach works for other languages and narrow tasks too. If the project…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T22:31:04+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "534e23320d33a495",
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 227 # Comments: 281",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T18:25:58+08:00",
+      "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 27,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
