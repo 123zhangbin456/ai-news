@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T11:52:58+08:00",
+  "updatedAt": "2026-11-10T12:14:24+08:00",
   "items": [
     {
       "id": "dd4da662fab5b635",
@@ -484,6 +484,80 @@
         "detail": "苹果国行AI备案设备从iPhone扩展到iPad和笔记本，意味着Apple Intelligence在华落地范围扩大。Anthropic发布Claude Fable 5.2并降价20%，谷歌则推出面向长上下文和保密推理的两套第八代TPU。迪士尼与Adobe达成多年合作，将为旗下IP定制生成模型。",
         "generatedAt": "2026-11-10T11:52:49+08:00"
       }
+    },
+    {
+      "id": "8800c9c86878fabc",
+      "title": "Anyone else having issues signing into Grok Bot with a legacy Cursor account?",
+      "url": "https://reddit.com/r/cursor/comments/1xsc14n/anyone_else_having_issues_signing_into_grok_bot",
+      "summary": "I have a Pro+ Cursor account linked to my Google account, and my phone was logged into the Grok Bot app, but they did an update I guess and I was logged out. I logged in with my Google account and it tried selling me the an account, which i…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T11:06:14+08:00",
+      "fetchedAt": "2026-11-10T12:13:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "旧版 Cursor 账号登录 Grok Bot 遇阻，用户被要求重新购买",
+        "takeaway": "Cursor Pro+ 用户更新 Grok Bot 后被登出，用谷歌账号登录却提示购买，账号互通出问题。",
+        "bullets": [
+          "用户持 Pro+ Cursor 账号，绑定谷歌登录",
+          "Grok Bot 更新后强制登出，重新登录被要求购买",
+          "疑似旧版 Cursor 账号与 Grok Bot 订阅未打通"
+        ],
+        "detail": "有用户反映，自己的 Pro+ Cursor 账号通过谷歌登录，手机上的 Grok Bot 原本已登录，但应用更新后被登出。再用同一谷歌账号登录时，系统却提示购买账号，而不是识别已有订阅。",
+        "generatedAt": "2026-11-10T12:14:04+08:00"
+      },
+      "pushedAt": "2026-11-10T12:14:24+08:00"
+    },
+    {
+      "id": "3ac4256f36a8d92e",
+      "title": "How to make Cursor rules and skills usable by Claude Code, Codex, OpenCode, etc?",
+      "url": "https://reddit.com/r/cursor/comments/1xsagxt/how_to_make_cursor_rules_and_skills_usable_by",
+      "summary": "Cursor has been my primary editor for 1.5 years. I've been trying out Claude Code, Codex, and OpenCode recently. Most of my instructions are Cursor rules (.mdc), afaik there isn't an equivalent for the others. So the options are to make the…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T09:50:57+08:00",
+      "fetchedAt": "2026-11-10T12:13:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 48,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Cursor 规则如何跨工具复用？开发者寻求方案",
+        "takeaway": "一位 Cursor 老用户转向 Claude Code 等工具时，发现 .mdc 规则无法通用，引发跨工具规则兼容讨论。",
+        "bullets": [
+          "用户使用 Cursor 1.5 年，近期试玩 Claude Code、Codex、OpenCode",
+          "其指令多为 Cursor 专属 .mdc 规则，其他工具无对等格式",
+          "问题核心：如何让 Cursor 规则和技能被其他 AI 编程工具复用"
+        ],
+        "detail": "这位开发者用 Cursor 一年半，最近尝试 Claude Code、Codex 和 OpenCode，发现自己的大部分指令都是 Cursor 的 .mdc 规则，其他工具没有对应格式。他发帖询问如何让这些规则和技能跨工具使用。",
+        "generatedAt": "2026-11-10T12:14:05+08:00"
+      },
+      "pushedAt": "2026-11-10T12:14:24+08:00"
     },
     {
       "id": "faa2c8a3a8207575",
@@ -1073,6 +1147,42 @@
       }
     },
     {
+      "id": "88920ed24aaf19c0",
+      "title": "2026 开源行业解决方案创新赛总决赛评委阵容公布",
+      "url": "https://oschina.net/news/503501",
+      "summary": "第四届开放原子大赛 · 2026 开源行业解决方案创新赛总决赛将于 11 月 13 日在北京亦庄通明湖会议中心举行，本届大赛由北京市经济和信息化局、开放原子开源基金会联合主办，开源中国承办，以「开源赋能行业创新，方案驱动场景落地」为主题，设置“基础软件”、“智能硬件”、“AIGC 视频创作”三大技术赛道，旨在发掘和培...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T11:57:26+08:00",
+      "fetchedAt": "2026-11-10T12:13:56+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.7,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "2026 开源行业解决方案创新赛总决赛评委阵容公布",
+        "takeaway": "第四届开放原子大赛总决赛 11 月 13 日在北京举行，设三大技术赛道，评委阵容揭晓。",
+        "bullets": [
+          "总决赛 11 月 13 日在北京亦庄通明湖会议中心举行",
+          "由北京市经信局与开放原子开源基金会联合主办，开源中国承办",
+          "设基础软件、智能硬件、AIGC 视频创作三大技术赛道"
+        ],
+        "detail": "第四届开放原子大赛的开源行业解决方案创新赛公布总决赛评委阵容。比赛 11 月 13 日在北京亦庄通明湖会议中心举行，由北京市经信局和开放原子开源基金会主办、开源中国承办，主题是开源赋能行业创新、方案驱动场景落地，分基础软件、智能硬件、AIGC 视频创作三条赛道，目的是发掘和培养开源人才与方案。",
+        "generatedAt": "2026-11-10T12:14:08+08:00"
+      }
+    },
+    {
       "id": "24fbdd6b452ddf65",
       "title": "Instagram’s Effect Builder makes new filters from AI prompts",
       "url": "https://theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
@@ -1402,6 +1512,42 @@
       }
     },
     {
+      "id": "530c006ce56a16b4",
+      "title": "Muse ember is out.",
+      "url": "https://reddit.com/r/cursor/comments/1xs34u3/muse_ember_is_out",
+      "summary": "It's the cheapest yet stronger than Grok 4.7 and similar to claude haiku. Two things. I have already replaced Grok 4.7 high with claude haiku 5.5 high for my development work. Now muse ember which is the cheapest model available for higher …",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T04:42:27+08:00",
+      "fetchedAt": "2026-11-10T12:13:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Muse Ember 上线：最便宜却强过 Grok 4.7",
+        "takeaway": "Cursor 社区讨论新模型 Muse Ember，价格最低但性能超 Grok 4.7，接近 Claude Haiku。",
+        "bullets": [
+          "Muse Ember 是目前可用的最便宜模型",
+          "性能强于 Grok 4.7，与 Claude Haiku 相近",
+          "有用户已用它替代 Grok 4.7 做开发"
+        ],
+        "detail": "Reddit 用户称 Muse Ember 已发布，是当前最便宜的模型，但性能比 Grok 4.7 更强，和 Claude Haiku 差不多。该用户原本用 Claude Haiku 5.5 替代 Grok 4.7 做开发，现在开始关注 Muse Ember。",
+        "generatedAt": "2026-11-10T12:14:09+08:00"
+      }
+    },
+    {
       "id": "e2cc7821517590d5",
       "title": "Qwen 3.8 FN getting stressed from messing up",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xs2okh/qwen_38_fn_getting_stressed_from_messing_up",
@@ -1462,6 +1608,78 @@
         ],
         "detail": "英伟达CEO黄仁勋凭借雄厚资金和抢手芯片，在AI领域举足轻重。但据称他与一名疑似中国间谍的女子有婚外情，这可能让他的地位和公司前景面临风险。",
         "generatedAt": "2026-11-10T11:52:56+08:00"
+      }
+    },
+    {
+      "id": "2ebdd4fa060b870d",
+      "title": "Project migration from DotNet to Rust in one go - using Cursor",
+      "url": "https://reddit.com/r/cursor/comments/1xr2v1n/project_migration_from_dotnet_to_rust_in_one_go",
+      "summary": "Has anyone been able to make it work in one go using Cursor to move from one programming language to the other using Cursor, without having had to test it again? If so, what are some of the best practices you followed. submitted by /u/softw…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T24:48:05+08:00",
+      "fetchedAt": "2026-11-10T12:13:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用 Cursor 一次性把 .NET 项目迁到 Rust，可行吗？",
+        "takeaway": "有用户在 r/cursor 发问：能否用 Cursor 一次性完成 .NET 到 Rust 的迁移且无需重新测试，并求最佳实践。",
+        "bullets": [
+          "提问者想用 Cursor 把 .NET 项目整体迁移到 Rust，一次搞定。",
+          "核心疑问是迁移后能否不重新测试就放心使用。",
+          "帖子征集实践者的最佳做法，目前尚无定论。"
+        ],
+        "detail": "一位用户在 r/cursor 社区发帖，询问是否有人成功用 Cursor 一次性把项目从 .NET 迁移到 Rust，并且迁移后不需要再测试。他同时希望了解大家遵循的最佳实践。目前帖子只是提问，没有给出具体答案。",
+        "generatedAt": "2026-11-10T12:14:13+08:00"
+      }
+    },
+    {
+      "id": "b30d58dd70539937",
+      "title": "Where is my Cursor Pro account?",
+      "url": "https://reddit.com/r/cursor/comments/1xqa14k/where_is_my_cursor_pro_account",
+      "summary": "With the Unified Account thing they are putting each day in our face. I finally said. I will do it. Big mistake. I was on a pro plan... Where is my pro plan??? Like all my stuff from cursor is gone with the merging. I just want to know if I…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-08T24:11:52+08:00",
+      "fetchedAt": "2026-11-10T12:13:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor 统一账户合并后，Pro 订阅消失了？",
+        "takeaway": "用户按官方引导合并账户后，原有 Pro 订阅和内容全部不见，引发对数据迁移的担忧。",
+        "bullets": [
+          "用户原本是 Cursor Pro 订阅者，按提示完成统一账户合并。",
+          "合并后 Pro 计划消失，账户内原有内容也不见了。",
+          "官方力推统一账户，但迁移体验引发用户不满。"
+        ],
+        "detail": "Cursor 近期大力推广统一账户，一位 Pro 用户终于照做，结果发现自己的 Pro 订阅和账户里的内容全都不见了。他发帖求助，想知道是否有人遇到同样问题，并质疑合并过程是否安全。",
+        "generatedAt": "2026-11-10T12:14:15+08:00"
       }
     },
     {
@@ -1618,6 +1836,40 @@
       }
     },
     {
+      "id": "ae6055583d173961",
+      "title": "openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+      "url": "https://infoq.cn/article/dLF01VxLUZpLX40Wmlv7",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T19:56:55+08:00",
+      "fetchedAt": "2026-11-10T12:13:56+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "openJiuwen 首发 Agent Device Foundation，重定义 Agent 与物理世界交互",
+        "takeaway": "openJiuwen 推出 Agent Device Foundation，旨在重新定义 AI Agent 与物理设备的交互方式。",
+        "bullets": [
+          "openJiuwen 发布 Agent Device Foundation，聚焦 Agent 与物理世界交互。",
+          "该基金会旨在为 Agent 连接物理设备提供基础性支撑。",
+          "具体技术细节与落地场景尚未在摘要中展开。"
+        ],
+        "detail": "openJiuwen 首次发布 Agent Device Foundation，宣称要重新定义 Agent 与物理世界的交互方式。目前公开信息有限，具体如何实现、面向哪些设备与场景，还有待官方进一步披露。",
+        "generatedAt": "2026-11-10T12:14:15+08:00"
+      }
+    },
+    {
       "id": "e01130ed7c431233",
       "title": "Multiverse Computing's Comet 60B (A12B) GGUFs with the MTP head",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xsbc2r/multiverse_computings_comet_60b_a12b_ggufs_with",
@@ -1639,6 +1891,31 @@
       ],
       "confidence": 1,
       "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f19f3d2bb81a16ca",
+      "title": "Anyone lost work to an AI agent that git couldn’t bring back?",
+      "url": "https://reddit.com/r/cursor/comments/1xr2n3n/anyone_lost_work_to_an_ai_agent_that_git_couldnt",
+      "summary": "Cursor went and added a bunch of stuff I never asked for a few weeks ago, and I hadn’t made a branch. Spent way too long untangling my own code. I know, “just commit before every run.” But I’m wondering about the cases where that didn’t sav…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-09T24:38:54+08:00",
+      "fetchedAt": "2026-11-10T12:13:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 33,
       "related": [],
       "pushed": false
     },
@@ -1761,6 +2038,56 @@
       "category": "算力芯片",
       "keywords": [
         "GPUs"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c7838a3fb1b70e66",
+      "title": "got reset, ty",
+      "url": "https://reddit.com/r/cursor/comments/1xrxsh0/got_reset_ty",
+      "summary": "anyone else? submitted by /u/TONI1597 [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T01:25:21+08:00",
+      "fetchedAt": "2026-11-10T12:13:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3b3837a12563deb1",
+      "title": "Reviewing agent code",
+      "url": "https://reddit.com/r/cursor/comments/1xs6v9f/reviewing_agent_code",
+      "summary": "submitted by /u/Senior_Ad_9791 [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T07:08:52+08:00",
+      "fetchedAt": "2026-11-10T12:13:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
       ],
       "confidence": 1,
       "score": 30,

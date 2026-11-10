@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updatedAt": "2026-11-09T06:37:05+08:00",
+  "updatedAt": "2026-11-10T12:14:24+08:00",
   "items": [
     {
       "id": "5287355c1060331a",
@@ -159,6 +159,43 @@
         "generatedAt": "2026-11-08T10:04:09+08:00"
       },
       "pushedAt": "2026-11-09T06:37:05+08:00"
+    },
+    {
+      "id": "7e51f68da753c5fb",
+      "title": "Grok Bot now demands a Cursor cloud agent for repo implementation—how do I keep my local Claude Code/Codex workflow?",
+      "url": "https://reddit.com/r/cursor/comments/1xq5ogn/grok_bot_now_demands_a_cursor_cloud_agent_for",
+      "summary": "I built a working multi-bot setup: Grok Bot coordinates local Claude Code and Codex implementation using my existing subscriptions, then we review, branch, push and open a PR with my approval. On November 6 in the morning, local Claude wrot…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T20:53:20+08:00",
+      "fetchedAt": "2026-11-10T12:13:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 52,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Grok Bot 要求改用 Cursor 云代理，本地工作流如何保留？",
+        "takeaway": "用户搭建的多机器人本地协作流程被 Grok Bot 要求改用 Cursor 云代理，引发对本地 Claude Code/Codex 工作流能否延续的疑问。",
+        "bullets": [
+          "用户用 Grok Bot 协调本地 Claude Code 和 Codex 完成实现，再人工审核、建分支、推送并开 PR。",
+          "11 月 6 日上午，Grok Bot 开始要求使用 Cursor 云代理来执行仓库实现。",
+          "核心矛盾：现有订阅和本地流程是否还能继续，还是必须迁移到云端。"
+        ],
+        "detail": "有用户分享了一套可运行的多机器人协作方案：Grok Bot 负责协调，本地 Claude Code 和 Codex 负责写代码，最后人工审核并提交 PR。但 11 月 6 日上午，Grok Bot 突然要求改用 Cursor 云代理来执行仓库实现，用户因此担心原有的本地工作流和订阅无法继续使用。",
+        "generatedAt": "2026-11-10T12:14:05+08:00"
+      },
+      "pushedAt": "2026-11-10T12:14:24+08:00"
     },
     {
       "id": "f2e0b426347d1cdf",
@@ -536,6 +573,43 @@
       "pushedAt": "2026-11-08T06:26:57+08:00"
     },
     {
+      "id": "46c4c104592f15b0",
+      "title": "What are you doing cursor?????",
+      "url": "https://reddit.com/r/cursor/comments/1xq156m/what_are_you_doing_cursor",
+      "summary": "I used to have a pretty solid workflow with Cursor: GPT for design, Fable for planning, Sonnet for implementation, and Composer for simpler tasks. Now? Everything has gone downhill. After switching to Grok, I was refunded and effectively re…",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T16:07:31+08:00",
+      "fetchedAt": "2026-11-10T12:13:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Cursor 用户吐槽：模型切换后工作流崩塌",
+        "takeaway": "用户抱怨 Cursor 模型调整后原有分工失效，体验下滑，引发社区共鸣。",
+        "bullets": [
+          "用户原用 GPT 设计、Fable 规划、Sonnet 实现、Composer 处理简单任务",
+          "切换到 Grok 后获得退款，但工作流被打乱",
+          "社区讨论反映模型变动对开发效率的直接影响"
+        ],
+        "detail": "一位 Cursor 用户表示，过去用 GPT 做设计、Fable 做规划、Sonnet 写代码、Composer 处理简单任务，工作流很顺畅。但切换到 Grok 后，虽然获得了退款，整个流程却变得一团糟，体验大不如前。",
+        "generatedAt": "2026-11-10T12:14:07+08:00"
+      },
+      "pushedAt": "2026-11-10T12:14:24+08:00"
+    },
+    {
       "id": "0feab7e92e6c9f88",
       "title": "NousResearch/Arete-27B · Hugging Face (Qwen finetune)",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xpmj33/nousresearcharete27b_hugging_face_qwen_finetune",
@@ -608,6 +682,44 @@
         "generatedAt": "2026-11-07T10:33:19+08:00"
       },
       "pushedAt": "2026-11-08T06:26:57+08:00"
+    },
+    {
+      "id": "de4c2d6ccf57be3d",
+      "title": "Default model of cursor projects keeps switching to grok 4.7 high",
+      "url": "https://reddit.com/r/cursor/comments/1xq5vsq/default_model_of_cursor_projects_keeps_switching",
+      "summary": "Im not able to figure out how I can set the default model of my cursor projects. The ones I created earlier are all set to auto. But the new ones are all on Grok 4.7 high which burn a lot of tokens. Want them to also be auto. When I switch …",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T21:03:37+08:00",
+      "fetchedAt": "2026-11-10T12:13:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Cursor 新项目默认模型被指自动切到 Grok 4.7 high，用户称耗 token 严重",
+        "takeaway": "用户反映 Cursor 新建项目默认模型变成 Grok 4.7 high，而非 Auto，导致 token 消耗大增，且找不到统一设置入口。",
+        "bullets": [
+          "旧项目默认模型仍为 Auto，新建项目却默认 Grok 4.7 high",
+          "用户称 Grok 4.7 high 消耗大量 token，希望改回 Auto",
+          "手动切换后问题依旧，用户找不到项目级默认模型设置",
+          "该反馈来自 r/cursor 社区，涉及 Cursor 项目默认配置"
+        ],
+        "detail": "一位 Cursor 用户在 r/cursor 发帖称，自己找不到设置项目默认模型的方法。早期创建的项目都默认使用 Auto，但新项目却全部默认成 Grok 4.7 high，消耗大量 token。他尝试手动切换，但问题仍未解决，希望新项目也能默认使用 Auto。",
+        "generatedAt": "2026-11-10T12:14:07+08:00"
+      },
+      "pushedAt": "2026-11-10T12:14:24+08:00"
     },
     {
       "id": "110860b3709745c9",
@@ -1639,6 +1751,42 @@
       "pushedAt": "2026-11-08T06:26:57+08:00"
     },
     {
+      "id": "da62049647e0c72e",
+      "title": "This large ad greeted me in Cursor today - thought I'd been hacked.",
+      "url": "https://reddit.com/r/cursor/comments/1xpxvg8/this_large_ad_greeted_me_in_cursor_today_thought",
+      "summary": "Time to rethink this subscription submitted by /u/johnkappa [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T12:52:40+08:00",
+      "fetchedAt": "2026-11-10T12:13:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cursor 弹大广告引用户担忧：以为被黑，想退订",
+        "takeaway": "Cursor 在编辑器内展示大幅广告，用户误以为遭黑客入侵，引发订阅反思。",
+        "bullets": [
+          "用户打开 Cursor 时被大幅广告问候，第一反应是账号被黑。",
+          "发帖者直言该体验让人想重新考虑是否续订。",
+          "广告出现在编程工具内，可能影响开发者信任。"
+        ],
+        "detail": "有用户在 Cursor 中遇到大幅广告，一度以为自己被黑客攻击。他在社区发帖吐槽，称这种体验让人想重新考虑订阅。目前尚不清楚广告的具体内容和投放范围。",
+        "generatedAt": "2026-11-10T12:14:18+08:00"
+      }
+    },
+    {
       "id": "1f51588e06ccf215",
       "title": "We are in the golden age of Local LLM",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xppbht/we_are_in_the_golden_age_of_local_llm",
@@ -2104,6 +2252,31 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-11-08T06:26:57+08:00"
+    },
+    {
+      "id": "313b2a130979671f",
+      "title": "Has anyone managed to get a refund for their prepaid annual plan after the 14-day window (EU)?",
+      "url": "https://reddit.com/r/cursor/comments/1xq888f/has_anyone_managed_to_get_a_refund_for_their",
+      "summary": "Has anyone get a refund outside that time window? submitted by /u/infinityMCdx [link] [comments]",
+      "source": {
+        "id": "cursor-reddit",
+        "name": "r/cursor",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-07T22:54:39+08:00",
+      "fetchedAt": "2026-11-10T12:13:56+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 28,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
