@@ -66,9 +66,9 @@
     "lastOkDay": "2026-11-11"
   },
   "qbitai": {
-    "failDays": 0,
-    "lastFailDay": null,
-    "lastError": null,
+    "failDays": 1,
+    "lastFailDay": "2026-11-11",
+    "lastError": "网络请求失败",
     "lastOkDay": "2026-11-11"
   },
   "infoq-ai": {
@@ -78,9 +78,9 @@
     "lastOkDay": "2026-11-11"
   },
   "leiphone": {
-    "failDays": 0,
-    "lastFailDay": null,
-    "lastError": null,
+    "failDays": 1,
+    "lastFailDay": "2026-11-11",
+    "lastError": "网络请求失败",
     "lastOkDay": "2026-11-11"
   },
   "tmtpost": {
@@ -120,10 +120,10 @@
     "lastOkDay": "2026-11-11"
   },
   "arxiv-ai": {
-    "failDays": 5,
-    "lastFailDay": "2026-11-11",
-    "lastError": "订阅源为空或格式无法解析",
-    "lastOkDay": "2026-11-07"
+    "failDays": 0,
+    "lastFailDay": null,
+    "lastError": null,
+    "lastOkDay": "2026-11-11"
   },
   "arxiv-cl": {
     "failDays": 0,
