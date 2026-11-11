@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T08:57:43+08:00",
+  "updatedAt": "2026-11-11T09:33:58+08:00",
   "items": [
     {
       "id": "af7403b4563990ca",
@@ -787,6 +787,42 @@
       }
     },
     {
+      "id": "1db87d928cf65b1f",
+      "title": "OwnCoder 0.2.0 发布，面向开发者的桌面端 AI 编程工具",
+      "url": "https://oschina.net/news/503518",
+      "summary": "修复了一些bug，优化了效果。有时候我们总想多做点什么，告诉LLM要怎么做，最后发现，什么都不说，让LLM自行判断才是最好的。说的越多，越容易带偏。佛家说，放下自己的执着。道家讲无为，或许对LLM会很适用。无为，就是让LLM自己判断，不做过多的干涉和引导。软件简介 OwnCode 是一款面向开发者的桌面端 AI 编程工具...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T01:13:40+08:00",
+      "fetchedAt": "2026-11-11T09:33:52+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OwnCoder 0.2.0 发布：桌面端 AI 编程工具修复 bug 并优化效果",
+        "takeaway": "面向开发者的桌面 AI 编程工具迎来小版本更新，修复问题并调整了与 LLM 的交互思路。",
+        "bullets": [
+          "OwnCoder 0.2.0 发布，主要修复 bug、优化使用效果",
+          "官方分享心得：对 LLM 少加引导、让其自行判断效果更好",
+          "工具面向开发者，定位为桌面端 AI 编程助手"
+        ],
+        "detail": "OwnCoder 0.2.0 是一次小版本更新，主要修复了一些 bug 并优化了效果。官方在发布说明中分享了一个体会：与其告诉 LLM 该怎么做，不如少做干涉、让它自行判断，过度引导反而容易带偏。",
+        "generatedAt": "2026-11-11T09:33:58+08:00"
+      }
+    },
+    {
       "id": "be7b88bc292b3087",
       "title": "speakleash/Bielik-11B-v3.1-Instruct · Hugging Face",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xsrg0l/speakleashbielik11bv31instruct_hugging_face",
@@ -922,6 +958,40 @@
         ],
         "detail": "据 9to5Mac 报道，苹果正在为 Mac 开发一款新应用，目的是让运行本地 AI 模型变得简单。目前本地跑模型通常需要命令行和复杂配置，这款应用有望降低门槛。该消息在 Hacker News 上获得 100 点、68 条评论，讨论热度较高。",
         "generatedAt": "2026-11-11T08:57:34+08:00"
+      }
+    },
+    {
+      "id": "13932b2f7ed934cc",
+      "title": "微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用",
+      "url": "https://infoq.cn/article/mfy0RUYOqEAW8imUrGTY",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T17:06:00+08:00",
+      "fetchedAt": "2026-11-11T09:33:52+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软10月安全更新修复1400余个漏洞，其中一个已被利用",
+        "takeaway": "微软发布大规模安全更新，修复超1400个漏洞，其中一漏洞已遭利用，需尽快安装补丁。",
+        "bullets": [
+          "微软10月安全更新修复1400余个漏洞，数量庞大。",
+          "其中一个漏洞已被攻击者利用，存在实际风险。",
+          "用户和企业应尽快安装更新，避免被攻击。"
+        ],
+        "detail": "微软在10月的安全更新中修复了超过1400个漏洞，其中有一个漏洞已经被攻击者利用。这意味着该漏洞存在实际攻击风险，用户应尽快安装更新以保护系统安全。",
+        "generatedAt": "2026-11-11T09:33:57+08:00"
       }
     },
     {

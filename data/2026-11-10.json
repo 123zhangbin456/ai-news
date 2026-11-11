@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updatedAt": "2026-11-11T08:57:43+08:00",
+  "updatedAt": "2026-11-11T09:33:58+08:00",
   "items": [
     {
       "id": "dd4da662fab5b635",
@@ -3272,6 +3272,42 @@
       "score": 37,
       "related": [],
       "pushed": false
+    },
+    {
+      "id": "fbe3f29736d1b0e2",
+      "title": "YuanQi（UIEIP）低代码平台 v1.0 开源：一个 Go 单文件，装下建模、表单、权限、流程与 AI 知识库（MIT）",
+      "url": "https://oschina.net/news/503516",
+      "summary": "做企业后台这些年，最耗人的从来不是业务逻辑本身。一个能用的后台管理系统，业务代码通常只占 20%，剩下 80% 全是公共设施：数据表怎么建模、表单怎么做校验和联动、RBAC 怎么拼、数据范围和按钮权限怎么控、审批流怎么接、统一登录怎么对接 OAuth2/OIDC/CAS/LDAP、门户和知识库是不是还得再搭一套。每开一个新项目，这...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-10T20:25:47+08:00",
+      "fetchedAt": "2026-11-11T09:33:52+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "YuanQi 低代码平台 v1.0 开源：Go 单文件集成建模、表单、权限、流程与 AI 知识库",
+        "takeaway": "一个 MIT 协议的低代码平台开源，用 Go 单文件打包企业后台常见公共设施，减少重复搭建。",
+        "bullets": [
+          "YuanQi（UIEIP）v1.0 以 MIT 协议开源，定位企业后台低代码平台。",
+          "单个 Go 文件集成数据建模、表单校验联动、RBAC 权限、审批流与 AI 知识库。",
+          "还覆盖 OAuth2/OIDC/CAS/LDAP 统一登录和门户，减少新项目重复造轮子。"
+        ],
+        "detail": "企业后台开发中，业务逻辑往往只占两成，剩下八成是建模、表单、权限、流程、登录等公共设施。YuanQi 把这些能力打包进一个 Go 单文件，并以 MIT 协议开源，目标是让新项目少重复搭建基础模块。",
+        "generatedAt": "2026-11-11T09:33:58+08:00"
+      }
     },
     {
       "id": "b30d58dd70539937",
