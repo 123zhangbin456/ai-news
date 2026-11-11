@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T04:07:57+08:00",
+  "updatedAt": "2026-11-11T08:57:43+08:00",
   "items": [
     {
       "id": "af7403b4563990ca",
@@ -26,7 +26,7 @@
       "confidence": 1,
       "score": 71,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic 推出 Claude Meetings，会议讨论可自动生成计划与任务",
         "takeaway": "Claude 能实时把会议对话转成计划、时间线和任务，并调用工作应用查数据，提升会议效率。",
@@ -37,7 +37,8 @@
         ],
         "detail": "Anthropic 发布 Claude Meetings，参会者交谈时，Claude 能同步起草讨论中的计划、在白板上画出时间线，还能在会议聊天里答疑，并接入已连接的工作应用获取信息，比如去年的数据。",
         "generatedAt": "2026-11-11T04:07:43+08:00"
-      }
+      },
+      "pushedAt": "2026-11-11T08:57:43+08:00"
     },
     {
       "id": "fc6b6a56df7b3650",
@@ -62,7 +63,7 @@
       "confidence": 0,
       "score": 64,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Google DeepMind 发布 Gemini 4 Carbon 模型",
         "takeaway": "Gemini 4 Carbon 正式上线，但官方未披露具体能力与参数，值得关注后续细节。",
@@ -73,7 +74,8 @@
         ],
         "detail": "Google DeepMind 在模型发布分类下宣布 Gemini 4 Carbon 现已可用。由于没有摘要，目前不清楚该模型的具体能力、参数或适用场景，需要等待官方补充说明。",
         "generatedAt": "2026-11-11T04:07:43+08:00"
-      }
+      },
+      "pushedAt": "2026-11-11T08:57:43+08:00"
     },
     {
       "id": "445fc6287a33b8c1",
@@ -98,7 +100,7 @@
       "confidence": 1,
       "score": 64,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI 推出企业资料页，ChatGPT 更像搜索引擎",
         "takeaway": "OpenAI 让商家在 ChatGPT 内建资料页，推动其成为消费发现引擎，向谷歌模式靠拢。",
@@ -109,7 +111,83 @@
         ],
         "detail": "OpenAI 正在让 ChatGPT 变得更像消费发现引擎。新功能允许企业创建资料页，在 ChatGPT 内展示信息，帮助用户发现商家和服务。这被视为对谷歌搜索商业模式的直接模仿。",
         "generatedAt": "2026-11-11T04:07:43+08:00"
-      }
+      },
+      "pushedAt": "2026-11-11T08:57:43+08:00"
+    },
+    {
+      "id": "571fb0494bf3f24f",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T05:08:52+08:00",
+      "fetchedAt": "2026-11-11T08:57:22+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "acquires"
+      ],
+      "confidence": 0.6,
+      "score": 62,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "OpenAI收购Sonder创始人创办的旅游初创公司Odessia",
+        "takeaway": "OpenAI收购旅游初创Odessia，创始人背景显赫，但收购意图未明。",
+        "bullets": [
+          "OpenAI收购旅游初创公司Odessia，交易细节未披露。",
+          "Odessia由Sonder创始人Francis Davidson创办，他在旅游业知名。",
+          "OpenAI未说明对旅游业务的未来计划，引发猜测。"
+        ],
+        "detail": "OpenAI收购了旅游初创公司Odessia，该公司由Sonder创始人Francis Davidson创立。Davidson在旅游行业颇具知名度，但OpenAI尚未透露将如何规划旅游相关业务。",
+        "generatedAt": "2026-11-11T08:57:29+08:00"
+      },
+      "pushedAt": "2026-11-11T08:57:43+08:00"
+    },
+    {
+      "id": "c012fc7ecd62b33e",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T04:52:13+08:00",
+      "fetchedAt": "2026-11-11T08:57:22+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety",
+        "disclose"
+      ],
+      "confidence": 1,
+      "score": 60,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "纽约AI安全法生效，OpenAI与Anthropic面临新监管",
+        "takeaway": "纽约开始执行全面AI安全法，大型开发商须注册、披露安全实践并报告重大事故，否则罚款。",
+        "bullets": [
+          "纽约AI安全法正式生效，要求大型AI开发商合规。",
+          "OpenAI、Anthropic等须注册并披露安全实践。",
+          "发生重大事故须报告，违规将面临罚款。"
+        ],
+        "detail": "纽约正准备执行其全面的AI安全法，要求OpenAI和Anthropic等主要开发商进行注册、披露安全实践，并报告重大事故，否则将面临罚款。",
+        "generatedAt": "2026-11-11T08:57:29+08:00"
+      },
+      "pushedAt": "2026-11-11T08:57:43+08:00"
     },
     {
       "id": "f724697ad4799a39",
@@ -223,6 +301,44 @@
       }
     },
     {
+      "id": "096f075e11080075",
+      "title": "llm-gemini 0.36",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini",
+      "summary": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at laun…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T04:09:44+08:00",
+      "fetchedAt": "2026-11-11T08:57:22+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Gemini"
+      ],
+      "confidence": 0.71,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llm-gemini 0.36 发布，Gemini 4 Carbon 向所有用户开放",
+        "takeaway": "此前仅限部分网络安全防御者的 Gemini 4 Carbon 现已全面开放，是 Google 迄今最强 Gemini 模型。",
+        "bullets": [
+          "Gemini 4 Carbon 两周前仅限“部分网络安全防御者”使用，今日向所有用户开放。",
+          "该模型被称为 Google 迄今最好的 Gemini。",
+          "发布定价为输入每百万 token 2 美元、输出每百万 token 10 美元。",
+          "llm-gemini 0.36 是配套工具更新，方便开发者调用该模型。"
+        ],
+        "detail": "llm-gemini 0.36 版本发布，对应 Gemini 4 Carbon 模型从限定范围开放给所有用户。该模型被 Simon Willison 称为 Google 迄今最好的 Gemini，发布时定价为输入每百万 token 2 美元、输出每百万 token 10 美元。",
+        "generatedAt": "2026-11-11T08:57:29+08:00"
+      }
+    },
+    {
       "id": "e18f58ec7dc7acb9",
       "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
       "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo",
@@ -259,6 +375,45 @@
       }
     },
     {
+      "id": "5f12cf459e5b89f7",
+      "title": "【钛晨报】李强签署国务院令，公布修订后的《基金会管理条例》；阿里拟分拆平头哥独立赴港上市；Anthropic IPO定价区间确定，目标市值约1万亿美元低于预期",
+      "url": "https://tmtpost.com/8200471.html",
+      "summary": "i茅台将从“抢购”模式逐步转为日常售卖；台积电批准409亿美元资本预算，用于长期产能扩张；华为新型存储系统即将启动试商用；贾国龙质押西贝股权，股权数额超2660万；英伟达、黄仁勋遭股东集体诉讼；国家发改委：多渠道增加普通高中和高等教育学位供给；减少个人信息泄露，首批700专用码号服务业务试点获批。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T07:20:00+08:00",
+      "fetchedAt": "2026-11-11T08:57:22+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "上市",
+        "IPO",
+        "亿美元",
+        "股权"
+      ],
+      "confidence": 0.84,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阿里拟分拆平头哥赴港上市，Anthropic IPO目标市值低于预期",
+        "takeaway": "阿里芯片业务独立上市，Anthropic估值未达万亿，两笔大额IPO动向值得关注。",
+        "bullets": [
+          "阿里计划分拆平头哥独立赴港上市，芯片业务资本化提速。",
+          "Anthropic IPO定价区间确定，目标市值约1万亿美元但低于预期。",
+          "台积电批准409亿美元资本预算，用于长期产能扩张。"
+        ],
+        "detail": "阿里拟将旗下芯片公司平头哥分拆，独立在香港上市。AI公司Anthropic的IPO定价区间已确定，目标市值约1万亿美元，但低于此前预期。台积电则批准了409亿美元的资本预算，用于长期产能扩张。",
+        "generatedAt": "2026-11-11T08:57:31+08:00"
+      }
+    },
+    {
       "id": "9922bcaa36cd876a",
       "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
       "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
@@ -292,6 +447,43 @@
         ],
         "detail": "TechCrunch梳理了英伟达CEO黄仁勋与一名疑似中国间谍的交往时间线。此事正值中美竞相发展最先进AI基础设施之际，可能对国家安全产生影响。",
         "generatedAt": "2026-11-11T04:07:51+08:00"
+      }
+    },
+    {
+      "id": "9d4ba77141327aaa",
+      "title": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上",
+      "url": "https://ifanr.com/1688883",
+      "summary": "非付费用户什么时候能用上？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T08:26:39+08:00",
+      "fetchedAt": "2026-11-11T08:57:22+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "上线",
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gemini 4 Carbon 正式上线，但并非人人可用",
+        "takeaway": "谷歌新模型 Gemini 4 Carbon 上线，但仅部分用户可用，免费用户还需等待。",
+        "bullets": [
+          "Gemini 4 Carbon 正式上线，但仅向部分用户开放。",
+          "非付费用户暂时无法使用，具体时间未公布。",
+          "该消息来自爱范儿，更多细节待官方披露。"
+        ],
+        "detail": "谷歌宣布 Gemini 4 Carbon 正式上线，但并非所有用户都能立即使用。目前非付费用户何时能用上还没有明确时间，爱范儿对此进行了报道。",
+        "generatedAt": "2026-11-11T08:57:31+08:00"
       }
     },
     {
@@ -438,6 +630,40 @@
       }
     },
     {
+      "id": "c3e82675d569c730",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T05:12:59+08:00",
+      "fetchedAt": "2026-11-11T08:57:22+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Grok Build 编码代理泄露大量机密信息，部分属于 SpaceX",
+        "takeaway": "研究人员发现 3.5 万个 Grok Build 应用对任何人开放，暴露机密数据，涉及 SpaceX。",
+        "bullets": [
+          "研究人员发现约 3.5 万个 Grok Build 应用未受保护，可被任意访问。",
+          "泄露信息包含机密内容，部分属于 SpaceX。",
+          "事件凸显 AI 编码工具部署中的安全风险。"
+        ],
+        "detail": "一名研究人员发现，约 3.5 万个 Grok Build 应用处于完全开放状态，任何人都能访问。这些应用泄露了大量机密信息，其中一部分属于 SpaceX。此事引发对 AI 编码代理安全性的担忧。",
+        "generatedAt": "2026-11-11T08:57:33+08:00"
+      }
+    },
+    {
       "id": "7739f93bab443e21",
       "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
       "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m",
@@ -486,6 +712,79 @@
       "score": 40,
       "related": [],
       "pushed": false
+    },
+    {
+      "id": "9531c706dbfc8caf",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T06:35:01+08:00",
+      "fetchedAt": "2026-11-11T08:57:22+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "debut"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "亚马逊推出AI安防无人机与机器人，Ring摄像头可移动",
+        "takeaway": "亚马逊发布可移动的Ring安防设备，AI加持，2026年底起上市，家庭安防从固定走向巡逻。",
+        "bullets": [
+          "亚马逊推出Ring Robotics系列，含AI安防无人机和机器人",
+          "设备可移动巡逻，突破传统固定摄像头限制",
+          "2026年底至2027年初上市，具体价格未公布"
+        ],
+        "detail": "亚马逊宣布推出Ring Robotics系列产品，包括AI驱动的安防无人机和地面机器人，让Ring摄像头从固定位置变为可移动巡逻。这些设备将于2026年底至2027年初上市，具体售价尚未公布。",
+        "generatedAt": "2026-11-11T08:57:33+08:00"
+      }
+    },
+    {
+      "id": "2df0c952ba0091bc",
+      "title": "XeMaya, an Intel Arc inference engine to run DeepSeek V4.1 and GLM 5.3",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xt2mjk/xemaya_an_intel_arc_inference_engine_to_run",
+      "summary": "I've been trying to get some of the newer MoE models running on my Intel Arc GPUs, mainly DeepSeek V4.1 Flash and GLM 5.3 Flash. Intel support for these models is still pretty limited, and while I could get some things working through patch…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T07:50:54+08:00",
+      "fetchedAt": "2026-11-11T08:57:22+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "XeMaya：为 Intel Arc 打造的推理引擎，支持 DeepSeek V4.1 与 GLM 5.3",
+        "takeaway": "社区开发者推出 XeMaya，让 Intel Arc 显卡能跑新款 MoE 模型，弥补官方支持不足。",
+        "bullets": [
+          "开发者针对 Intel Arc GPU 自建推理引擎 XeMaya",
+          "目标模型是 DeepSeek V4.1 Flash 和 GLM 5.3 Flash",
+          "官方对这类新 MoE 模型的支持仍然有限",
+          "通过补丁方式部分跑通，社区方案填补空白"
+        ],
+        "detail": "有开发者一直在尝试让较新的 MoE 模型跑在自己的 Intel Arc 显卡上，主要是 DeepSeek V4.1 Flash 和 GLM 5.3 Flash。由于 Intel 对这些模型的支持还很有限，他只能靠打补丁等方式让部分功能跑起来，于是有了 XeMaya 这个推理引擎。",
+        "generatedAt": "2026-11-11T08:57:33+08:00"
+      }
     },
     {
       "id": "be7b88bc292b3087",
@@ -584,6 +883,71 @@
       "pushed": false
     },
     {
+      "id": "77d255b4e9ac58d2",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 100 # Comments: 68",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T05:25:03+08:00",
+      "fetchedAt": "2026-11-11T08:57:22+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [
+        {
+          "title": "Apple has new Mac app coming to make running local AI models easy",
+          "url": "https://reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running",
+          "source": "r/LocalLLaMA"
+        }
+      ],
+      "pushed": false,
+      "interpret": {
+        "headline": "苹果将推 Mac 新应用，简化本地 AI 模型运行",
+        "takeaway": "苹果计划推出 Mac 应用，让普通用户也能轻松在本地跑 AI 模型，降低使用门槛。",
+        "bullets": [
+          "苹果正在开发一款 Mac 新应用，目标是简化本地 AI 模型的运行流程。",
+          "消息来自 9to5Mac，在 Hacker News 上引发 68 条讨论、100 点热度。",
+          "若落地，Mac 用户无需复杂配置即可本地运行 AI，或影响开发者与隐私敏感用户。"
+        ],
+        "detail": "据 9to5Mac 报道，苹果正在为 Mac 开发一款新应用，目的是让运行本地 AI 模型变得简单。目前本地跑模型通常需要命令行和复杂配置，这款应用有望降低门槛。该消息在 Hacker News 上获得 100 点、68 条评论，讨论热度较高。",
+        "generatedAt": "2026-11-11T08:57:34+08:00"
+      }
+    },
+    {
+      "id": "2dcde4b665668871",
+      "title": "What happens to mathematics when AI becomes an oracle?",
+      "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle",
+      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World .",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T04:30:01+08:00",
+      "fetchedAt": "2026-11-11T08:57:22+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "bc98f21280662e13",
       "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights",
@@ -624,6 +988,75 @@
       "topic": "ai",
       "publishedAt": "2026-11-11T01:27:12+08:00",
       "fetchedAt": "2026-11-11T04:07:33+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "bd0f344c7532f9b6",
+      "title": "My AI is lazier than me",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me",
+      "summary": "Let's start with my setup: I have 2 Sparks running glm 5.3 flash, and the harness is hermes agent running on a MacBook Air. While trying to justify all the money I spent (around 6500 euro for both machines, a long time ago when prices were …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T05:11:05+08:00",
+      "fetchedAt": "2026-11-11T08:57:22+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e0a977f15d7b2b39",
+      "title": "We got custom inference per model per hardware now. How long before we get custom hardware for model?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xt059z/we_got_custom_inference_per_model_per_hardware",
+      "summary": "Is it possible to have a custom hardware designed (by ai) and open sourced that we can send for manufacturing for specific models? like for DSF 4.1F submitted by /u/catbluesgames [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T06:04:28+08:00",
+      "fetchedAt": "2026-11-11T08:57:22+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4584560cf3effc34",
+      "title": "I built a zero-dependency streaming Markdown renderer for AI chat replies, n× faster than the next one I benchmarked",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xt3hjd/i_built_a_zerodependency_streaming_markdown",
+      "summary": "I've been building chat UIs for agents and kept running into the same issues with react-markdown: it re-parses the whole reply on every token, so long answers get noticeably slower, and you see raw ** and half-typed [links](htt until the to…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T08:27:43+08:00",
+      "fetchedAt": "2026-11-11T08:57:22+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
