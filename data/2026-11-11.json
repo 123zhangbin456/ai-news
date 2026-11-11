@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T19:15:43+08:00",
+  "updatedAt": "2026-11-12T02:46:55+08:00",
   "items": [
     {
       "id": "af7403b4563990ca",
@@ -409,6 +409,42 @@
       }
     },
     {
+      "id": "6734a79295b9f50e",
+      "title": "Anthropic's IPO roadshow video",
+      "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow",
+      "summary": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom B…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T23:11:59+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO"
+      ],
+      "confidence": 0.9,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic启动IPO路演，视频披露业务运作细节",
+        "takeaway": "Anthropic正式启动IPO路演，路演视频首次公开其业务运作和算力策略信息。",
+        "bullets": [
+          "Anthropic昨日启动IPO路演，视频含此前未公开的业务信息。",
+          "联合创始人Tom B在“算力策略”部分出镜讲解。",
+          "视频披露了公司如何运作业务的具体细节。"
+        ],
+        "detail": "Anthropic昨天正式启动IPO路演，其路演视频中包含了此前未公开的业务运作信息。其中联合创始人Tom B出镜的“算力策略”部分，介绍了公司在这方面的做法。",
+        "generatedAt": "2026-11-12T02:46:40+08:00"
+      }
+    },
+    {
       "id": "5f12cf459e5b89f7",
       "title": "【钛晨报】李强签署国务院令，公布修订后的《基金会管理条例》；阿里拟分拆平头哥独立赴港上市；Anthropic IPO定价区间确定，目标市值约1万亿美元低于预期",
       "url": "https://tmtpost.com/8200471.html",
@@ -481,6 +517,75 @@
         ],
         "detail": "阿里云宣布推出第十代ECS企业级实例，搭载AMD第六代EPYC处理器。该发布属于模型发布分类下的算力基础设施更新，原文未披露实例的具体规格、性能数据和上线时间。",
         "generatedAt": "2026-11-11T19:15:29+08:00"
+      }
+    },
+    {
+      "id": "ddb95c61a535c749",
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "url": "https://theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T23:00:00+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌AlphaGenome 2：从细胞层面解读疾病根源",
+        "takeaway": "DeepMind发布新AI模型，能更精细地分析DNA变化如何影响不同细胞，为疾病研究提供新工具。",
+        "bullets": [
+          "模型名为AlphaGenome 2，由谷歌DeepMind团队研发。",
+          "旨在揭示DNA变异对不同细胞类型的影响。",
+          "有望帮助科学家理解疾病背后的细胞机制。"
+        ],
+        "detail": "谷歌DeepMind的研究人员推出了新AI模型AlphaGenome 2，专门研究DNA变化如何影响不同细胞。这个难题一直困扰科学界，新模型能提供更详细的视角，可能为疾病根源带来重要线索。",
+        "generatedAt": "2026-11-12T02:46:42+08:00"
+      }
+    },
+    {
+      "id": "4878c495cef54ff1",
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup",
+      "summary": "The four-week project hints that AI could make formal verification far more practical.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T22:08:57+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Google DeepMind 用数学方法验证 Signal 关键部分",
+        "takeaway": "AI 辅助形式化验证取得进展，或让高成本的安全验证更实用。",
+        "bullets": [
+          "Google DeepMind 对 Signal 的关键部分完成数学验证",
+          "项目耗时四周，展示 AI 可加速形式化验证",
+          "形式化验证能证明代码安全，但传统上成本高",
+          "若推广，或提升加密通讯等软件的安全保障"
+        ],
+        "detail": "Google DeepMind 用四周时间，对加密通讯应用 Signal 的关键部分进行了数学层面的形式化验证。这类验证能严格证明代码符合安全规范，但通常耗时费力。该案例暗示，AI 有望让形式化验证变得更可行。",
+        "generatedAt": "2026-11-12T02:46:42+08:00"
       }
     },
     {
@@ -703,6 +808,74 @@
       }
     },
     {
+      "id": "e879c6fc35d4933f",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "source": {
+        "id": "deepmind",
+        "name": "Google DeepMind",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T23:00:15+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AlphaGenome 2：解码细胞如何读取DNA，助力疾病理解",
+        "takeaway": "Google DeepMind 推出 AlphaGenome 2，能预测DNA序列变异如何影响特定细胞类型和疾病。",
+        "bullets": [
+          "新模型可预测DNA变异对特定人类细胞类型的影响。",
+          "旨在帮助理解疾病背后的遗传机制。",
+          "由Google DeepMind发布，属于AI for Science方向。"
+        ],
+        "detail": "Google DeepMind 发布 AlphaGenome 2，重点在于预测DNA序列及其变异如何影响特定的人类细胞类型和疾病。这有助于从细胞读取DNA的层面理解疾病机制。",
+        "generatedAt": "2026-11-12T02:46:43+08:00"
+      }
+    },
+    {
+      "id": "622041e2e6f67db0",
+      "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+      "url": "https://qbitai.com/2026/11/509085.html",
+      "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T14:18:09+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "大模型厂商双11在天猫打5折，智谱、MiniMax等参战",
+        "takeaway": "多家大模型厂商借双11在天猫五折促销，AI服务价格战从技术卷到电商。",
+        "bullets": [
+          "智谱、MiniMax、千问办公、阿里云、Qoder均参与天猫五折活动",
+          "促销选在11月11日，大模型厂商首次集体登陆电商大促",
+          "AI服务价格竞争从API降价蔓延至终端消费促销"
+        ],
+        "detail": "11月11日，智谱、MiniMax、千问办公、阿里云、Qoder等大模型厂商在天猫推出五折优惠。这意味着大模型厂商开始借助电商大促直接触达用户，价格竞争从技术层面延伸到消费市场。",
+        "generatedAt": "2026-11-12T02:46:45+08:00"
+      }
+    },
+    {
       "id": "5d01611fd6de2935",
       "title": "The US is winning the AI race. Jensen Huang could have blown it",
       "url": "https://theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
@@ -808,6 +981,42 @@
       }
     },
     {
+      "id": "6619f09dbc0d0a8f",
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth",
+      "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T23:00:00+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Databricks 新 AI 代理向 CEO 直言不讳",
+        "takeaway": "Databricks 推出新版 Genie 代理，帮 CEO 了解员工真实情况，避免信息失真。",
+        "bullets": [
+          "CEO Ghodsi 用 Genie 代理获取员工不敢直说的反馈",
+          "公司员工达 1.2 万，CEO 难以直接了解每个人",
+          "Genie 代理能提供不加修饰的真相，辅助管理决策"
+        ],
+        "detail": "Databricks 员工数已达 1.2 万，CEO Ali Ghodsi 承认自己无法认识所有人，员工也不太可能向他坦白问题。但他不需要员工直接说，而是用新版 Genie 代理来获取这些真实反馈。",
+        "generatedAt": "2026-11-12T02:46:46+08:00"
+      }
+    },
+    {
       "id": "1485e1614efd9936",
       "title": "Zyphra/ZONOS3-Mini · Hugging Face",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xtb9gw/zyphrazonos3mini_hugging_face",
@@ -844,6 +1053,42 @@
       }
     },
     {
+      "id": "3ab674d00e1b28ce",
+      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "url": "https://wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway",
+      "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T23:30:00+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达CEO黄仁勋为何落入中国美人计陷阱？",
+        "takeaway": "中国利用美人计获取情报早有先例，但全球最强AI高管黄仁勋仍中招，引发对其安全意识的质疑。",
+        "bullets": [
+          "中国使用美人计是成熟情报手段，近期有高调案例。",
+          "黄仁勋作为英伟达CEO，是全球最具影响力的AI高管。",
+          "事件引发对科技领袖安全防范意识的讨论。"
+        ],
+        "detail": "中国利用美人计进行情报活动是已知策略，近期有多个高调案例。但令人意外的是，全球最强大的AI公司CEO黄仁勋竟也落入此类陷阱，这引发了对科技领袖安全意识的质疑。",
+        "generatedAt": "2026-11-12T02:46:47+08:00"
+      }
+    },
+    {
       "id": "f669f496b89aea74",
       "title": "10 亿 Token 开源万只假鸟， AI 伪科普正在「污染」下一代的常识",
       "url": "https://ifanr.com/1688897",
@@ -877,6 +1122,43 @@
         ],
         "detail": "爱范儿报道，一个开源项目消耗10亿Token生成了上万只假鸟的科普内容。文章批评将严谨的自然科学当作AI技能大赛现场的做法，担忧这类AI伪科普会污染下一代的常识。",
         "generatedAt": "2026-11-11T19:15:33+08:00"
+      }
+    },
+    {
+      "id": "449c0e5d38e406e8",
+      "title": "阿里云获中国游戏云市场整体和六项细分第一",
+      "url": "https://leiphone.com/category/industrynews/JfRMJsIb0HJvjdrl.html",
+      "summary": "近日，国际数据公司（IDC）最新发布的《中国游戏云市场跟踪研究，2026H1》报告显示，2026年上半年阿里云以37%的市场份额位居整体市场第一，并在基础设施IaaS+CDN、基础设施IaaS+解决方案、基础设施IaaS、解决方案、通用云平台、云游戏平台六大细分市场获得第一。其中，在游戏云基础设施市场，阿里云占比达40%；在游戏云解决方案市场，阿里云占比达44%。围绕游戏研发、运营与出海，阿里云提供从芯片、云基础设施、基础模型到MaaS和智能体的全栈AI技术。在Agent层面…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T15:20:00+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片"
+      ],
+      "confidence": 0.25,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阿里云以37%份额领跑中国游戏云市场，六项细分均第一",
+        "takeaway": "IDC报告显示阿里云在2026上半年中国游戏云市场整体及六项细分均居首，体现其全栈AI能力受游戏行业认可。",
+        "bullets": [
+          "2026上半年阿里云占中国游戏云整体市场37%份额，排名第一。",
+          "在IaaS、解决方案、云游戏平台等六大细分市场均获第一。",
+          "游戏云基础设施市场阿里云占比40%，解决方案市场占比44%。",
+          "阿里云提供从芯片到智能体的全栈AI技术，服务游戏研发运营出海。"
+        ],
+        "detail": "IDC最新报告指出，2026年上半年阿里云以37%的份额位居中国游戏云市场整体第一，并在基础设施、解决方案、云游戏平台等六个细分领域领先。其中游戏云基础设施和解决方案市场占比分别为40%和44%。阿里云围绕游戏研发、运营与出海，提供从芯片、云基础设施到基础模型、MaaS及智能体的全栈AI技术。",
+        "generatedAt": "2026-11-12T02:46:47+08:00"
       }
     },
     {
@@ -1112,6 +1394,76 @@
       }
     },
     {
+      "id": "0ccfb511c0c877ba",
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads",
+      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T22:00:00+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Plurai 借鉴自动驾驶技术，提升 AI 代理可靠性",
+        "takeaway": "Plurai 用自动驾驶的端到端训练思路，解决 AI 代理在不确定环境中的表现问题。",
+        "bullets": [
+          "Plurai 将自动驾驶的端到端模型方法用于 AI 代理训练。",
+          "AI 代理与自动驾驶类似，都是概率系统，面临不可预测环境。",
+          "该方法有望提升 AI 代理在复杂任务中的稳定性和可靠性。"
+        ],
+        "detail": "Plurai 公司提出，AI 代理和自动驾驶汽车一样，都是概率性系统，需要在不可预测的环境中运行。他们借鉴了自动驾驶领域成功的端到端模型训练方法，来帮助 AI 代理更好地工作。",
+        "generatedAt": "2026-11-12T02:46:49+08:00"
+      }
+    },
+    {
+      "id": "6e40d6043154dab3",
+      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+      "url": "https://theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T22:00:00+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "interview"
+      ],
+      "confidence": 0.5,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Adobe 实验性 AI 工具：照片变可探索 3D 场景，还能采访角色",
+        "takeaway": "Adobe 在 Max 大会展示实验性 AI 功能，可将图片转为可探索 3D 场景，并与角色互动。",
+        "bullets": [
+          "Adobe 年度 Max 大会发布实验性 AI 工具",
+          "可将图像转换为可探索的 3D 场景",
+          "支持与照片中的角色进行采访式互动"
+        ],
+        "detail": "Adobe 在年度 Max 大会上展示的实验性 AI 工具包括：将图像转化为可探索的 3D 场景，以及让用户与照片中的角色进行采访式互动。这些功能目前处于实验阶段，展示了 Adobe 在 AI 与创意工具结合上的探索方向。",
+        "generatedAt": "2026-11-12T02:46:50+08:00"
+      }
+    },
+    {
       "id": "e2becf10571d3986",
       "title": "Shengshu’s First AI Feature Film Misses the Mark as Its Hong Kong IPO Nears",
       "url": "https://tmtpost.com/8201282.html",
@@ -1146,6 +1498,42 @@
         ],
         "detail": "中国首部AI辅助院线电影票房表现不佳，而盛数科技正筹备香港上市。该公司在可控视频生成方面实力较强，目前正将自己重新定位为世界模型方向，投资者对此有所关注。",
         "generatedAt": "2026-11-11T19:15:36+08:00"
+      }
+    },
+    {
+      "id": "8c999d6885d24711",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T08:00:00+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "explains"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "JioStar首席架构师谈5亿用户规模的AI发现",
+        "takeaway": "JioStar首席架构师分享在5亿用户规模下落地AI的经验，涉及评估、护栏与生产化。",
+        "bullets": [
+          "JioStar首席架构师Vijay Seshadri分享AI发现经验",
+          "覆盖5亿用户规模下的评估与护栏实践",
+          "重点讨论如何将AI推向生产环境"
+        ],
+        "detail": "JioStar首席架构师Vijay Seshadri以5亿用户规模为背景，讲解AI发现（AI discovery）的落地经验。他重点分享了评估（evals）、护栏（guardrails）以及将AI投入生产（taking AI into production）方面的教训。",
+        "generatedAt": "2026-11-12T02:46:52+08:00"
       }
     },
     {
@@ -1221,6 +1609,44 @@
       }
     },
     {
+      "id": "7237b07f4797843b",
+      "title": "独家丨清华系团队创业做 AI 眼镜，拿下传统眼镜厂商种子轮",
+      "url": "https://leiphone.com/category/weiwu/Lfff1nBYqpWoqgMF.html",
+      "summary": "清目创始团队均为清华背景，成员背景涵盖XREAL、荣耀、阿里等。作者丨黄艳冰编辑丨姚单雷峰网·鲸犀独家获悉， 智能眼镜初创公司深圳市清目数字科技有限公司 （下文简称清目数字 ） 已完成种子轮融资，投资方为南京视客 ，天使轮融资正在推进中。清目数字首款产品定位职场办公场景， 采用双目双波导显示、多麦克风阵列、双喇叭导音方案，无摄像头，整机 31.7 克。目前硬件方案已定型并完成工程样机，进入 EVT 阶段，首版电路板点亮，App 闭环 Demo 跑通。清目数字成立于 2025 …",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T10:02:00+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "轮融资",
+        "投资"
+      ],
+      "confidence": 0.69,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "清华系AI眼镜团队清目数字获种子轮融资",
+        "takeaway": "清目数字完成种子轮融资，投资方为传统眼镜厂商南京视客，首款产品瞄准职场办公场景。",
+        "bullets": [
+          "清目数字获南京视客种子轮投资，天使轮融资推进中",
+          "创始团队来自清华，成员曾任职XREAL、荣耀、阿里",
+          "首款产品无摄像头，重31.7克，已进入EVT阶段"
+        ],
+        "detail": "清目数字已完成种子轮融资，投资方为南京视客，天使轮正在推进。团队来自清华，成员有XREAL、荣耀、阿里背景。首款AI眼镜定位职场办公，采用双目双波导显示、多麦克风阵列，无摄像头，重31.7克，硬件方案定型并进入EVT阶段。",
+        "generatedAt": "2026-11-12T02:46:53+08:00"
+      }
+    },
+    {
       "id": "be7b88bc292b3087",
       "title": "speakleash/Bielik-11B-v3.1-Instruct · Hugging Face",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xsrg0l/speakleashbielik11bv31instruct_hugging_face",
@@ -1278,6 +1704,101 @@
         "detail": "VulnCheck 在博客中更新了对 Anthropic 所发现漏洞的追踪情况。这条内容在 Hacker News 上引发近 200 条讨论，说明社区对 AI 公司参与漏洞发现及其披露流程颇为关注。",
         "generatedAt": "2026-11-11T19:15:37+08:00"
       }
+    },
+    {
+      "id": "ec9dd4580de6682f",
+      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+      "url": "https://qbitai.com/2026/11/509146.html",
+      "summary": "价格、门槛全打穿",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T14:41:26+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "罗永浩双11直播上手TRAE，AI编程门槛被打穿",
+        "takeaway": "罗永浩在双11直播间演示TRAE，把AI编程带进大众视野，价格和门槛双降。",
+        "bullets": [
+          "罗永浩在双11直播间上手TRAE，演示AI编程。",
+          "直播主打价格和门槛双打穿，降低使用成本。",
+          "TRAE借头部主播触达非技术人群，推动AI Coding普及。"
+        ],
+        "detail": "双11期间，罗永浩在直播间演示AI编程工具TRAE，并称价格和门槛都被打穿。这场直播把AI Coding从开发者圈子推向大众，让普通用户也能直观感受用AI写代码。",
+        "generatedAt": "2026-11-12T02:46:54+08:00"
+      }
+    },
+    {
+      "id": "29bfc8bc4b4cc13a",
+      "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
+      "url": "https://qbitai.com/2026/11/509088.html",
+      "summary": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T14:27:03+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "联想沙龙激辩Token经济：从卖Token到卖结果",
+        "takeaway": "联想举办沙龙探讨Token经济三大议题，行业从卖Token转向卖结果，值得关注AI商业模式变化。",
+        "bullets": [
+          "10月30日，联想在京举办“科技有「联想」·Token畅想曲”沙龙。",
+          "沙龙围绕Token经济三大议题展开激辩。",
+          "核心观点：行业正从“卖Token”转向“卖结果”。"
+        ],
+        "detail": "10月30日，联想在北京举办线下沙龙“科技有「联想」·Token畅想曲”。活动围绕Token经济的三大议题展开讨论，与会者激辩行业趋势，核心观点是正从“卖Token”转向“卖结果”。",
+        "generatedAt": "2026-11-12T02:46:54+08:00"
+      }
+    },
+    {
+      "id": "82d64a92245352bb",
+      "title": "askmdb: My new project where I fine-tuned Qwen models to build a MongoDB CLI assistant - turn plain-language questions into MongoDB queries",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xtfvct/askmdb_my_new_project_where_i_finetuned_qwen",
+      "summary": "I built askmdb to help people finding the right query for turn plain-language questions into MongoDB queries . For example, you type askmdb \"top 5 customers by spending this year\" , and the app returns the query. A small fine-tuned model wr…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T19:55:54+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app",
+        "customers",
+        "assistant"
+      ],
+      "confidence": 0.5,
+      "score": 36,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "8e79503dc6b4e427",
@@ -1639,6 +2160,29 @@
       }
     },
     {
+      "id": "cc3b1a78338ac0a4",
+      "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+      "url": "https://qbitai.com/2026/11/509052.html",
+      "summary": "L4无人化作业走向规模交付",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T11:43:31+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "2dcde4b665668871",
       "title": "What happens to mathematics when AI becomes an oracle?",
       "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle",
@@ -1687,6 +2231,31 @@
       "pushed": false
     },
     {
+      "id": "b874676b0bc7b94c",
+      "title": "[Paper] Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xthtwt/paper_treeising_repairing_language_models_with",
+      "summary": "Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning loops of Qwen3.5-0.8B without gradients, …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T21:32:30+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "paper"
+      ],
+      "confidence": 0.63,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "082cd6451642f0ee",
       "title": "Microsoft Research backdoored an AI agent by directly editing fewer than 10 dormant neurons",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by",
@@ -1705,6 +2274,55 @@
       "category": "研究论文",
       "keywords": [
         "research"
+      ],
+      "confidence": 1,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d2296a64c0dc3b89",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T08:00:00+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4d0ff3cac8b996e3",
+      "title": "和大疆抢食，这家公司做了台桌面摄影机器人",
+      "url": "https://leiphone.com/category/weiwu/7us3N77Jwt0jzWda.html",
+      "summary": "一个美食创作者想把镜头从餐桌全景慢慢推到一碗面上。这个动作不难，难的是他没有第二个人帮他推，也没有空间在桌上架一条滑轨。最后他切了一个固定机位，画面清楚，但缺少呼吸感。这张桌子，是今天很多内容创作的真实现场。产品测评、美食、美妆、直播、带货，大量拍摄都发生在几平方米之内。设备其实已经不差：手机能拍4K，口袋云台能稳住画面，相机的画质早已溢出大多数人的需求。可一旦镜头需要“动起来”，需要推、拉、环绕、升降，普通人手里那套东西就接不上了。相机已经够好了，但运镜依然是一门需要多年训…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T18:29:00+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "产品",
+        "上架"
       ],
       "confidence": 1,
       "score": 33,
@@ -1735,6 +2353,35 @@
       "confidence": 0.2,
       "score": 32,
       "related": [],
+      "pushed": false
+    },
+    {
+      "id": "06b30440a13a48b7",
+      "title": "AI接手运营后，速卖通潜力市场双11成交大涨超50%",
+      "url": "https://leiphone.com/category/industrynews/zRG1ZBXyPvQHcb5o.html",
+      "summary": "今年海外双11，中国跨境商家的订单出现在不少意想不到的“冷门”市场。记者从阿里旗下跨境电商平台速卖通AliExpress获悉，双11大促前7日，速卖通主力市场之外的潜力国家市场日均成交同比大涨超50%。借助AI智能托管，商家们把生意做到了更多平时顾不上经营的市场。聚光灯之外的消费者“剁手”有多积极？速卖通数据显示，“企鹅比人多”的福克兰群岛，参与大促的买家平均每人下了5.5单。地方不大，购物热情可不小； 北极圈里的斯瓦尔巴群岛，11月太阳已经“下班”，消费者们却没闲着。今年双…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T10:42:00+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 32,
+      "related": [
+        {
+          "title": "AI接手运营后，速卖通潜力市场双11成交大涨超50%",
+          "url": "https://leiphone.com/category/industrynews/GTyH9f6MgPPWlf4S.html",
+          "source": "雷锋网"
+        }
+      ],
       "pushed": false
     },
     {
@@ -1949,6 +2596,56 @@
       ],
       "confidence": 1,
       "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5785953773a669da",
+      "title": "You can now train your own LLMs with less memory, on your gaming GPUs",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xtgnh9/you_can_now_train_your_own_llms_with_less_memory",
+      "summary": "TL;DR: You can train your own 27B model on a 3090 with 24GB VRAM, though you would have to go through hundreds of billions of tokens for it to be good. I am working on conversion of existing models. Check repos for code and the paper if you…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T20:36:21+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs"
+      ],
+      "confidence": 0.5,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1ce4525273f36e13",
+      "title": "AI 生成的代码并不可靠",
+      "url": "https://solidot.org/story?sid=85857",
+      "summary": "一位 100% 依赖 AI 生成代码的资深开发者认为 AI 生成的代码库无法满足高可用、高扩展性 SaaS 应用的需求。原因包括：AI 写的测试过于简单，无法覆盖真正重要的使用场景；AI 写的代码过于复杂，经常引入两三个辅助方法，实际上一个就够了，这种复杂性增加了理解代码或进行调试的难度；人类程序员难以理解 AI 生成的代码库，一家企业依赖 AI 生成代码库的时间越长，真正理解代码库的程序员就越少；AI 产出速度太快，无法维持高质量标准，人工审核的时间越来越短，从而会造成长期…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-11T18:43:22+08:00",
+      "fetchedAt": "2026-11-12T02:46:24+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "代码库"
+      ],
+      "confidence": 0.5,
+      "score": 28,
       "related": [],
       "pushed": false
     },
