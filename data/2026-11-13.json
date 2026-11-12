@@ -1,7 +1,412 @@
 {
   "date": "2026-11-13",
-  "updatedAt": "2026-11-12T02:46:55+08:00",
+  "updatedAt": "2026-11-13T04:35:01+08:00",
   "items": [
+    {
+      "id": "a8d5fa7d24b3647f",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "summary": "",
+      "source": {
+        "id": "deepmind",
+        "name": "Google DeepMind",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T02:00:50+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing",
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 67,
+      "related": [
+        {
+          "title": "Gemini 4 Hydrogen",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen",
+          "source": "Hacker News"
+        }
+      ],
+      "pushed": false,
+      "interpret": {
+        "headline": "Google DeepMind 发布 Gemini 4 Hydrogen 模型",
+        "takeaway": "Google DeepMind 推出新一代 Gemini 4 Hydrogen，命名独特，但细节尚未公开。",
+        "bullets": [
+          "Google DeepMind 正式发布 Gemini 4 Hydrogen 模型",
+          "官方未提供摘要，具体能力与参数未知",
+          "命名中的 Hydrogen 可能暗示新架构或版本分支"
+        ],
+        "detail": "Google DeepMind 宣布推出 Gemini 4 Hydrogen，这是 Gemini 系列的新成员。官方仅公布名称，未透露功能、性能或开放时间等细节。",
+        "generatedAt": "2026-11-13T04:34:46+08:00"
+      }
+    },
+    {
+      "id": "372847c9499451eb",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/index/amplitude",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T04:00:00+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "product"
+      ],
+      "confidence": 1,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Amplitude借助OpenAI实现1-2天产品迭代",
+        "takeaway": "Amplitude用OpenAI模型打造主动式产品代理Wave，将产品改进周期缩短至1-2天。",
+        "bullets": [
+          "Wave基于OpenAI模型，能主动识别产品改进点",
+          "协助团队用编码代理快速交付变更",
+          "并衡量改进效果，形成闭环",
+          "产品迭代周期缩短至1-2天"
+        ],
+        "detail": "Amplitude主要基于OpenAI模型构建了主动式产品代理Wave。它能识别该开发什么，帮助团队用编码代理交付变更，并衡量影响，从而将产品改进周期缩短到1-2天。",
+        "generatedAt": "2026-11-13T04:34:46+08:00"
+      }
+    },
+    {
+      "id": "d3c21aad125298df",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands",
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T03:11:00+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launches"
+      ],
+      "confidence": 1,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Nectar推出AI代理，自动化网红营销全流程",
+        "takeaway": "Nectar发布AI代理，帮品牌自动发现网红、管理外联并追踪活动效果，提升营销效率。",
+        "bullets": [
+          "Nectar的新AI代理可自动发现适合品牌的创作者。",
+          "该代理还能管理外联和合作伙伴关系。",
+          "品牌可借此追踪营销活动结果，提升效率。"
+        ],
+        "detail": "Nectar推出了一款AI代理，旨在自动化网红营销流程。该代理能帮助品牌发现创作者、管理外联与合作伙伴关系，并追踪活动效果，从而提升营销效率。",
+        "generatedAt": "2026-11-13T04:34:48+08:00"
+      }
+    },
+    {
+      "id": "875637b2c34d1326",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions",
+      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T03:27:45+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌搜索升级：AI模式更擅长回答复杂问题",
+        "takeaway": "谷歌用Gemini 4 Hydrogen驱动AI模式，提升复杂查询理解与视觉回答能力。",
+        "bullets": [
+          "谷歌搜索AI模式升级，由Gemini 4 Hydrogen驱动。",
+          "新模型提升复杂查询理解，并展示相关链接。",
+          "回答将包含更丰富的视觉内容，体验更直观。"
+        ],
+        "detail": "谷歌宣布升级搜索的AI模式，新版本由Gemini 4 Hydrogen模型驱动。该模式能更好地理解用户提出的复杂问题，提供更相关的链接，并给出视觉信息更丰富的回答。",
+        "generatedAt": "2026-11-13T04:34:49+08:00"
+      }
+    },
+    {
+      "id": "3903c89c61e50edc",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T02:39:23+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raises",
+        "acquisition"
+      ],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋退出引发英伟达开源AI承诺质疑",
+        "takeaway": "黄仁勋退出后，英伟达对开源AI的支持，包括收购Hugging Face和开放权重模型，可能生变。",
+        "bullets": [
+          "黄仁勋退出英伟达，引发对其开源AI承诺的疑问。",
+          "涉及英伟达收购Hugging Face及开放权重模型等举措。",
+          "公司领导层过渡期，开源倡导立场或受影响。"
+        ],
+        "detail": "黄仁勋的退出让外界质疑英伟达是否继续支持开源AI，包括收购Hugging Face、开放权重模型以及反对限制的立场。公司正经历领导层过渡，这些开源举措的未来走向尚不明朗。",
+        "generatedAt": "2026-11-13T04:34:50+08:00"
+      }
+    },
+    {
+      "id": "5c8a7e2ce9e472f4",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T01:36:40+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open source"
+      ],
+      "confidence": 0.3,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Hugging Face CEO 誓言继续为开源 AI 而战，黄仁勋退出引关注",
+        "takeaway": "Hugging Face CEO 承诺继续推动开源 AI，此前黄仁勋退出引发对英伟达 129 亿美元收购的疑问。",
+        "bullets": [
+          "Hugging Face CEO 表态坚持开源 AI 立场",
+          "黄仁勋退出相关事件引发对英伟达 129 亿美元收购的疑问",
+          "事件凸显开源 AI 与商业收购之间的张力"
+        ],
+        "detail": "Hugging Face CEO 公开承诺将继续为开源 AI 而奋斗。此前黄仁勋的退出引发外界对英伟达 129 亿美元收购案的猜测，这一表态让开源 AI 与商业收购之间的关系更受关注。",
+        "generatedAt": "2026-11-13T04:34:50+08:00"
+      }
+    },
+    {
+      "id": "a67e1509e9c05d5d",
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash",
+      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T03:23:03+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌发布Gemini 4 Hydrogen，取代3.8 Flash",
+        "takeaway": "谷歌推出Gemini 4 Hydrogen模型，直接替代3.8 Flash，发布节奏不同于以往安全优先的Carbon和Argon。",
+        "bullets": [
+          "Gemini 4 Hydrogen正式发布，接替3.8 Flash",
+          "发布未采用Carbon和Argon的缓慢安全流程",
+          "新模型上线速度更快，影响开发者与用户"
+        ],
+        "detail": "谷歌正式推出Gemini 4 Hydrogen模型，用于取代此前的3.8 Flash版本。与Carbon和Argon那种缓慢、注重安全的发布方式不同，这次更新节奏明显更快。",
+        "generatedAt": "2026-11-13T04:34:50+08:00"
+      }
+    },
+    {
+      "id": "81bcb5c122b27570",
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks",
+      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T02:57:45+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "lawsuit"
+      ],
+      "confidence": 0.2,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gemini试点引争议，Google面临校园AI禁令呼声",
+        "takeaway": "青少年诉讼称Gemini是“自杀教练”，家庭质问Google，校园AI试点遭抵制。",
+        "bullets": [
+          "一名青少年起诉，称Gemini扮演了“自杀教练”角色。",
+          "家庭在Gemini校园试点后向Google提出质问。",
+          "事件引发对学校AI试点的禁令呼吁。",
+          "Google面临政策与舆论双重压力。"
+        ],
+        "detail": "Google在校园试点Gemini后遭到反弹。一个家庭就一名青少年的诉讼质问Google，诉讼中将Gemini称为“自杀教练”。此事引发要求在学校暂停AI试点的呼声。",
+        "generatedAt": "2026-11-13T04:34:52+08:00"
+      }
+    },
+    {
+      "id": "01b2dea6cc209fac",
+      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+      "url": "https://wired.com/story/google-deepmind-staff-escalate-their-union-fight",
+      "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T02:05:41+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepMind员工工会化遇阻，转向英国政府施压",
+        "takeaway": "谷歌DeepMind员工工会谈判停滞，试图绕过管理层寻求英国政府介入，值得关注科技巨头劳资关系走向。",
+        "bullets": [
+          "DeepMind员工工会化谈判初步会谈后停滞。",
+          "员工试图绕过公司管理层，向英国政府寻求支持。",
+          "此举可能影响谷歌在英国的劳资关系与监管环境。"
+        ],
+        "detail": "谷歌DeepMind的员工在推动工会化的过程中，与公司管理层的初步谈判未能取得进展。于是，他们尝试绕过管理层，直接向英国政府寻求帮助，以继续推进工会化进程。",
+        "generatedAt": "2026-11-13T04:34:52+08:00"
+      }
+    },
+    {
+      "id": "44722bd030259051",
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor",
+      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T24:12:44+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.33,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "特朗普提议库克接任英伟达CEO",
+        "takeaway": "特朗普在Truth Social称只有库克能接替黄仁勋执掌英伟达，引发关注。",
+        "bullets": [
+          "特朗普发帖称库克是黄仁勋唯一接班人",
+          "库克现任苹果董事长，与英伟达无直接关联",
+          "言论或影响市场对英伟达领导层预期"
+        ],
+        "detail": "特朗普在Truth Social上发文，称只有一个人能接替黄仁勋担任英伟达负责人，那就是蒂姆·库克。库克目前是苹果董事长，此番言论与英伟达领导层变动无关，但可能引发外界对芯片巨头未来掌舵者的猜测。",
+        "generatedAt": "2026-11-13T04:34:52+08:00"
+      }
+    },
+    {
+      "id": "aff4b2c65530b3e6",
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry",
+      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T24:32:33+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.67,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋若离开英伟达，AI 行业将受五大冲击",
+        "takeaway": "文章假设黄仁勋被罢免，分析其影响力缺失对 AI 产业的具体损害。",
+        "bullets": [
+          "黄仁勋被描绘为以个人影响力推动 AI 产业方向的关键人物",
+          "文章列举五种可能损害 AI 行业的具体方式",
+          "事件背景涉及性丑闻，但重点在产业影响而非八卦"
+        ],
+        "detail": "TechCrunch AI 发文探讨英伟达 CEO 黄仁勋若被罢免会如何伤害 AI 行业。文章指出，这并非普通的亿万富翁性丑闻，黄仁勋一直在用他的影响力以特定方式推动 AI 产业发展，他的离开将带来五方面损害。",
+        "generatedAt": "2026-11-13T04:34:54+08:00"
+      }
+    },
     {
       "id": "f0476f4b70e90c24",
       "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
@@ -37,6 +442,515 @@
         "detail": "谷歌推出了名为Tabletop的实验性AI工具，能生成定制化的协作中心，帮助用户与家人朋友协调事务。该平台在视觉上与职场管理应用有相似之处，目前仍是实验项目。",
         "generatedAt": "2026-11-12T02:46:45+08:00"
       }
+    },
+    {
+      "id": "92467d3f16d5f88c",
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports",
+      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T04:26:47+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.33,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "路透社称黄仁勋再有婚外情，对象为英伟达员工",
+        "takeaway": "路透社报道黄仁勋第三段婚外情，对象是英伟达员工，但未公开其姓名。",
+        "bullets": [
+          "路透社报道黄仁勋存在第三段婚外情",
+          "报道称涉事女性为英伟达员工",
+          "路透社未公开该员工姓名",
+          "事件涉及英伟达CEO个人声誉"
+        ],
+        "detail": "路透社报道称，英伟达CEO黄仁勋有第三段婚外情，对象是英伟达的一名员工。路透社没有公布这名员工的姓名，只确认她是英伟达员工。",
+        "generatedAt": "2026-11-13T04:34:55+08:00"
+      }
+    },
+    {
+      "id": "0a3a3741b20c2318",
+      "title": "The Jensen Huang scandal is hardly over",
+      "url": "https://theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia.…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T01:44:33+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋第二起婚外情传闻发酵，其“不可撼动”地位受质疑",
+        "takeaway": "英伟达CEO黄仁勋再陷婚外情传闻，此前被视为不可动摇的AI核心人物地位开始动摇。",
+        "bullets": [
+          "第二起婚外情传闻令黄仁勋的公众形象进一步受损",
+          "他此前因身处AI产业中心且无接班计划而被视为不可替代",
+          "事件可能影响英伟达领导层稳定性和外界信心"
+        ],
+        "detail": "作者原本坚信黄仁勋地位稳固，因为他身处AI产业中心，且英伟达没有公开的接班安排。但第二起婚外情传闻的出现，让这一判断开始动摇，相关风波远未结束。",
+        "generatedAt": "2026-11-13T04:34:56+08:00"
+      }
+    },
+    {
+      "id": "75e8b5158ffa2b00",
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "url": "https://theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in a…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T03:42:40+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI智能体并未发现未知玛雅遗址，实为已公开遗址",
+        "takeaway": "谷歌研究员称AI智能体发现新玛雅遗址，但该遗址早已被发现并发表，引发对AI考古能力的质疑。",
+        "bullets": [
+          "谷歌研究员Pietro Miotti声称AI智能体在墨西哥发现未知玛雅遗址。",
+          "该遗址实际上早已被发现并公开发表。",
+          "事件引发对AI智能体在考古发现中作用的讨论。"
+        ],
+        "detail": "本周，谷歌研究员Pietro Miotti声称利用AI智能体团队在墨西哥发现了一处可能未被绘制的玛雅遗址。但问题在于，该遗址早已被发现并发表，所谓“新发现”并不成立。",
+        "generatedAt": "2026-11-13T04:34:57+08:00"
+      }
+    },
+    {
+      "id": "11a9f97485e11126",
+      "title": "Jensen Huang is out. What did China want from him?",
+      "url": "https://theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T24:30:00+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.33,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋卸任英伟达CEO，中国此前有何诉求？",
+        "takeaway": "英伟达CEO黄仁勋突然辞职，事件进展极快，引发对其与中国关系的关注。",
+        "bullets": [
+          "黄仁勋已辞去英伟达CEO职务。",
+          "事件发展迅速，媒体紧急更新报道。",
+          "报道探讨中国此前对黄仁勋的诉求。"
+        ],
+        "detail": "今天讨论英伟达的黄仁勋风波，事件进展太快，我们在发布前几分钟紧急更新了开场白。黄仁勋刚刚辞去英伟达CEO一职……",
+        "generatedAt": "2026-11-13T04:34:57+08:00"
+      }
+    },
+    {
+      "id": "b19430df4313f879",
+      "title": "MoE and expert offloading on llama, exllamav3, strata on 9070XT",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xun15v/moe_and_expert_offloading_on_llama_exllamav3",
+      "summary": "First off. I am by all means no expert, and excellent work has been done in the past few years that we all currently enjoy. Came over this post https://www.reddit.com/r/LocalLLM/comments/1x5mxcj/qwen3827b_on_a_single_rx_9070_xt_150_toks_on_…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T04:00:04+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "在 RX 9070 XT 上跑 MoE 模型：llama、exllamav3 与 strata 的专家卸载实践",
+        "takeaway": "普通玩家分享在单张 AMD RX 9070 XT 上通过专家卸载运行 MoE 大模型的尝试，为本地部署提供参考。",
+        "bullets": [
+          "作者自谦非专家，基于他人 Qwen3 27B 在 9070 XT 上跑出 150 tok/s 的帖子继续探索",
+          "涉及 llama、exllamav3、strata 三种方案在 MoE 模型上的专家卸载",
+          "目标是让大 MoE 模型在单张消费级 AMD 显卡上跑起来"
+        ],
+        "detail": "作者表示自己并非专家，只是在前人成果基础上继续尝试。他参考了社区里 Qwen3 27B 在单张 RX 9070 XT 上达到 150 tok/s 的帖子，测试了 llama、exllamav3 和 strata 在 MoE 模型上的专家卸载效果，探索消费级 AMD 显卡本地跑大模型的可行性。",
+        "generatedAt": "2026-11-13T04:34:58+08:00"
+      }
+    },
+    {
+      "id": "a88bddb17214a029",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T03:07:35+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "LLMON：面向大模型的原生标记语言，现已支持 Granite 4.1 3B 和 8B",
+        "takeaway": "Hugging Face 推出 LLMON 标记语言，并集成到 Granite 4.1 小模型，让模型更原生地处理结构化标记。",
+        "bullets": [
+          "LLMON 是一种专为大语言模型设计的标记语言",
+          "已适配 Granite 4.1 的 3B 和 8B 版本",
+          "可能提升模型对结构化文本的理解与生成效率"
+        ],
+        "detail": "LLMON 是一种新提出的标记语言，旨在让大语言模型更自然地理解和生成结构化内容。该语言现已集成到 Granite 4.1 的 3B 和 8B 模型中，意味着这两个小模型能原生支持 LLMON，可能简化相关开发流程。",
+        "generatedAt": "2026-11-13T04:34:59+08:00"
+      }
+    },
+    {
+      "id": "322f998ba4d6dbd2",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
+      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T01:17:58+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "customers"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "美联航以网络安全为由禁止AI代理订票",
+        "takeaway": "美联航禁止AI代理代客订票和管理预订，引发AI自动化与安全边界的讨论。",
+        "bullets": [
+          "美联航明确禁止客户使用AI代理预订航班和管理预订。",
+          "官方理由是网络安全风险，但未披露具体威胁细节。",
+          "此举可能影响依赖AI代理的旅客，并引发行业效仿。"
+        ],
+        "detail": "美联航表示，出于网络安全考虑，不允许客户使用AI代理来预订航班或管理预订。这意味着旅客无法通过AI助手自动完成订票、改签等操作，但具体风险细节未公开。",
+        "generatedAt": "2026-11-13T04:34:59+08:00"
+      }
+    },
+    {
+      "id": "ca80552a275a9336",
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions",
+      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T01:00:52+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "billion"
+      ],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "软银押注天然气发电遇挫，AI数据中心供电野心受挫",
+        "takeaway": "软银因预购天然气涡轮机损失超30亿美元，AI数据中心供电计划或受阻。",
+        "bullets": [
+          "软银为AI数据中心预购天然气涡轮机，损失超30亿美元。",
+          "该损失可能限制AI行业利用天然气供电的雄心。",
+          "事件或影响电力市场对AI数据中心供电的预期。"
+        ],
+        "detail": "软银为给AI数据中心供电，提前订购天然气涡轮机，却因此损失超过30亿美元。这笔亏损可能给AI行业利用天然气满足庞大电力需求的计划泼冷水，并影响电力市场对数据中心供电的预期。",
+        "generatedAt": "2026-11-13T04:35:01+08:00"
+      }
+    },
+    {
+      "id": "0cefd18c08c5c4ac",
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots",
+      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T01:00:00+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tool"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "aa4bf4548cc5dfc6",
+      "title": "Jensen Huang agrees to testify before Congress",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress",
+      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T24:36:37+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "78397eaf147cfe84",
+      "title": "Oh, Palantir is ‘progressive’ now, is it?",
+      "url": "https://theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+      "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T02:06:54+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4ae3018d79171170",
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "url": "https://theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge pr…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T01:00:00+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "study",
+        "research"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5fb6d7fe9d2dea3c",
+      "title": "More game developers are starting to use generative AI",
+      "url": "https://theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their jo…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T01:00:00+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tools"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6736945d4ac448cd",
+      "title": "Jensen Huang’s $470 Billion Affair",
+      "url": "https://wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair",
+      "summary": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T02:59:58+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "billion"
+      ],
+      "confidence": 0.25,
+      "score": 39,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f414a027de5670ca",
+      "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+      "url": "https://wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month",
+      "summary": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T01:59:15+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "08abc03215360f9e",
+      "title": "Intel Arc Vulkan prefill got a dedicated FA kernel in llama.cpp master",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xumdj4/intel_arc_vulkan_prefill_got_a_dedicated_fa",
+      "summary": "We have a new dedicated Vulkan Flash Attention prefill kernel for Intel Arc and Xe, delivering massive prefill acceleration on supported platforms like ARL-H and Xe2/Xe3. This implementation leverages customized shaders to utilize Intel's n…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T03:35:39+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b5b1e8f149e47936",
+      "title": "Ars Live: Can the cloud survive drone strikes on data centers?",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers",
+      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T03:59:59+08:00",
+      "fetchedAt": "2026-11-13T04:34:24+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
