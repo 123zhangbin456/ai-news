@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T03:56:41+08:00",
+  "updatedAt": "2026-11-12T10:04:19+08:00",
   "items": [
     {
       "id": "28b27e2d175e8658",
@@ -26,7 +26,7 @@
       "confidence": 0.6,
       "score": 63,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "谷歌发布 Gemini 4 Carbon，主打智能体集群功能",
         "takeaway": "谷歌向公众开放最强模型 Gemini 4 Carbon，新增智能体集群能力，AI 竞争再升级。",
@@ -38,7 +38,8 @@
         ],
         "detail": "谷歌最新 AI 模型 Gemini 4 Carbon 已向公众开放，此前两周仅限少数网络安全防御人员试用。谷歌称这是其迄今最强模型，并具备智能体“集群”功能，声称足以参与竞争。",
         "generatedAt": "2026-11-11T04:07:45+08:00"
-      }
+      },
+      "pushedAt": "2026-11-12T10:04:19+08:00"
     },
     {
       "id": "2ed3a890d3d8bbd2",
@@ -74,6 +75,48 @@
         ],
         "detail": "据报道，OpenAI第三季度营收首次突破100亿美元，达到约100亿美元。相比第二季度记录的67亿美元，环比增长近50%。这一数据表明该公司的AI产品商业化正在快速推进。",
         "generatedAt": "2026-11-12T02:46:38+08:00"
+      }
+    },
+    {
+      "id": "624a305adfa41ec6",
+      "title": "Gemini Decisions API",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api",
+      "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and e…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T06:03:25+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 57,
+      "related": [
+        {
+          "title": "Gemini Decisions API",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+          "source": "Hacker News"
+        }
+      ],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌推出 Gemini Decisions API，加入决策模型赛道",
+        "takeaway": "谷歌发布 Gemini Decision 1，与 Jev、OpenAI 同台竞争，决策类模型 API 再添新玩家。",
+        "bullets": [
+          "谷歌发布 Gemini Decision 1 模型 API，正式进入决策模型品类。",
+          "该 API 与 Jev 高度相似，支持是/否、多选和评分三种提问类型。",
+          "决策模型赛道已有 Jev 和 OpenAI，谷歌此番跟进加剧竞争。"
+        ],
+        "detail": "谷歌推出 Gemini Decisions API，新模型名为 Gemini Decision 1，正式加入决策模型这一品类。该 API 与 Jev 几乎一致，同样支持是/否、多选和评分三种问题类型。此前该赛道已有 Jev 和 OpenAI 布局，谷歌此次跟进意味着竞争进一步升温。",
+        "generatedAt": "2026-11-12T10:04:07+08:00"
       }
     },
     {
@@ -186,6 +229,153 @@
       }
     },
     {
+      "id": "41c8ca1c5076cf3b",
+      "title": "【钛晨报】维护股票、债券、外汇等金融市场平稳运行，央行发布重要报告；腾讯全新搜索产品元宝搜索正式上线；苹果支持社区将于11月20日永久关闭",
+      "url": "https://tmtpost.com/8201636.html",
+      "summary": "京东内测独立短剧产品；Token首次成天猫双11独立品类，大模型厂商今日打5折；张雪机车第十万台量产车下线；马斯克：SpaceX已向Singulus订购年产能100GW的HJT设备，以打造一颗“智能太阳”；Anthropic披露一项超过100亿美元的新交易；中国将加快推进“人工智能+自然资源”深度融合；行业版商保创新药推荐清单来了，纳入6款“天价抗癌药”；国家发改委：共建“一带一路”拓展新兴领域合作，推进“小而美”项目建设；《会计改革与发展“十五五”规划》发布；中国期货业协会…",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T07:20:00+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "上线",
+        "内测"
+      ],
+      "confidence": 0.67,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "钛晨报：央行报告、腾讯元宝搜索上线、苹果社区关闭",
+        "takeaway": "今日科技要闻：央行发布金融市场报告，腾讯推出元宝搜索，苹果支持社区将关闭。",
+        "bullets": [
+          "央行发布重要报告，维护股票、债券、外汇等金融市场平稳运行。",
+          "腾讯全新搜索产品“元宝搜索”正式上线。",
+          "苹果支持社区将于11月20日永久关闭。",
+          "其他：京东内测短剧产品，Token成天猫双11独立品类。"
+        ],
+        "detail": "央行发布报告，强调维护股票、债券、外汇等金融市场平稳运行。腾讯推出全新搜索产品“元宝搜索”并正式上线。苹果支持社区宣布将于11月20日永久关闭。此外，京东内测独立短剧产品，Token首次成为天猫双11独立品类。",
+        "generatedAt": "2026-11-12T10:04:07+08:00"
+      }
+    },
+    {
+      "id": "b91248042740580a",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T07:28:45+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达董事会据报准备罢免CEO黄仁勋，股价下跌",
+        "takeaway": "英伟达董事会或最快周三晚决定是否罢免创始CEO黄仁勋，公司股价应声下跌。",
+        "bullets": [
+          "英伟达董事会据报准备罢免CEO黄仁勋。",
+          "黄仁勋是公司创始人，已担任CEO 33年。",
+          "消息传出后，英伟达股价出现下跌。"
+        ],
+        "detail": "据TechCrunch AI报道，英伟达董事会可能最早在周三晚间决定是否罢免其创始人兼CEO黄仁勋。黄仁勋已执掌公司33年，消息传出后英伟达股价下跌。",
+        "generatedAt": "2026-11-12T10:04:07+08:00"
+      }
+    },
+    {
+      "id": "d8ef3fe6591f506a",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T07:17:05+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋再被曝与英伟达下属有婚外情",
+        "takeaway": "继承认与中国情报人员有染后，黄仁勋再被指与英伟达下属有婚外情，个人声誉风险升级。",
+        "bullets": [
+          "黄仁勋此前已承认与一名被指为中国情报人员的女性有婚外情。",
+          "新指控称他还与一名英伟达下属存在另一段婚外情。",
+          "事件涉及英伟达高管个人行为，可能影响公司声誉。"
+        ],
+        "detail": "黄仁勋此前因承认与一名被指为中国情报人员的女性有婚外情而受到批评，如今又被指控与一名英伟达下属存在另一段婚外情。这些指控涉及公司高管个人行为，可能对英伟达声誉造成影响。",
+        "generatedAt": "2026-11-12T10:04:09+08:00"
+      }
+    },
+    {
+      "id": "cd03d116301a7043",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "url": "https://theverge.com/tech/1031652/jensen-huang-rumor",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wa…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T06:44:36+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.67,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达被曝准备解雇CEO黄仁勋",
+        "takeaway": "英伟达董事会据报准备罢免CEO黄仁勋，此前《纽约时报》报道其第二起婚外情指控。",
+        "bullets": [
+          "英伟达董事会据报准备解雇CEO黄仁勋。",
+          "《纽约时报》报道了第二起婚外情指控。",
+          "数天前黄仁勋承认与一名被指为中国间谍的女性有染。"
+        ],
+        "detail": "据The Verge AI报道，英伟达董事会正筹备解雇CEO黄仁勋。此前《纽约时报》称其面临第二起婚外情指控，而就在几天前，黄仁勋刚承认与一名被指为中国间谍的女性存在另一段婚外情。",
+        "generatedAt": "2026-11-12T10:04:09+08:00"
+      }
+    },
+    {
       "id": "f28f90d2895a812c",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -253,6 +443,76 @@
         ],
         "detail": "llm 0.37.2 是一个安全修复版本，解决了 Daniel de Araujo 报告的两个安全公告中的问题。漏洞与 extra-openai-models.yaml 机制有关，该文件现在由 0.37 版引入的 llm openai endpoint add 命令管理。",
         "generatedAt": "2026-11-12T02:46:44+08:00"
+      }
+    },
+    {
+      "id": "70b89fd3ef03cc10",
+      "title": "Meta is losing its longtime head of infrastructure",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure",
+      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T04:12:01+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta基础设施负责人Santosh Janardhan将卸任",
+        "takeaway": "Meta长期基础设施掌门人离职，或影响其AI与数据中心战略推进。",
+        "bullets": [
+          "Santosh Janardhan于2009年加入Meta，长期负责基础设施。",
+          "他将卸任基础设施负责人一职，具体原因未披露。",
+          "Meta正大力投入AI算力，此时高层变动值得关注。"
+        ],
+        "detail": "Meta基础设施负责人Santosh Janardhan即将卸任。他2009年就加入公司，是效力多年的老将。目前官方未说明离职原因，也未公布接任者。",
+        "generatedAt": "2026-11-12T10:04:09+08:00"
+      }
+    },
+    {
+      "id": "601f818933b4f312",
+      "title": "生图又快又便宜，MiniMax为什么还是没赢GPT？",
+      "url": "https://tmtpost.com/8201577.html",
+      "summary": "真拿来干活，差距就出来了。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T09:15:00+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "MiniMax生图又快又便宜，为何仍难敌GPT？",
+        "takeaway": "MiniMax生图在速度和成本上有优势，但实际干活时与GPT仍有差距，值得关注。",
+        "bullets": [
+          "MiniMax生图主打又快又便宜，但实际任务表现不及GPT。",
+          "对比显示，真拿来干活时差距明显。",
+          "这引发对模型实用性的讨论，影响用户选择。"
+        ],
+        "detail": "MiniMax的生图模型以速度快、成本低为卖点，但钛媒体指出，在实际工作场景中，它与GPT的差距就显现出来。这说明光靠低价和速度还不够，真正干活时的效果才是关键。",
+        "generatedAt": "2026-11-12T10:04:11+08:00"
       }
     },
     {
@@ -438,6 +698,40 @@
       }
     },
     {
+      "id": "efdd0bfa6110086b",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T07:50:00+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋风波时间线：或波及美国国家安全",
+        "takeaway": "TechCrunch 梳理黄仁勋相关风波时间线，事件可能影响中美 AI 竞赛下的美国国家安全。",
+        "bullets": [
+          "TechCrunch 以时间线形式梳理黄仁勋相关风波",
+          "报道称事件可能对美国国家安全产生影响",
+          "背景是中美竞相发展最先进 AI 基础设施"
+        ],
+        "detail": "TechCrunch 发布了一条关于黄仁勋风波的时间线报道。报道指出，这起事件可能产生国家安全层面的影响，因为当前美国和中国正在竞相建设最先进的 AI 基础设施。",
+        "generatedAt": "2026-11-12T10:04:11+08:00"
+      }
+    },
+    {
       "id": "cd13d19ac0b18a7e",
       "title": "Unsloth Dynamic V3.1 released for Qwen3.8-27B, DeepSeek-V4.1-Flash-1017 and Qwen3.8-Flash-Next",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xtmcoe/unsloth_dynamic_v31_released_for_qwen3827b",
@@ -510,6 +804,258 @@
       }
     },
     {
+      "id": "53d5cdba12bea358",
+      "title": "aws-emulator",
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator",
+      "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in …",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T05:18:30+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AWS 推出官方本地模拟器，Rust 编写、近 3 万次提交",
+        "takeaway": "AWS 发布官方模拟器，开发者可在本地测试多项云服务，无需付费 API 密钥。",
+        "bullets": [
+          "官方模拟器支持本地运行 AWS 多项服务，测试无需付费密钥",
+          "用 Rust 编写，由大量智能体协作完成，提交数达 29,684 次",
+          "对开发者意味着更低的测试成本和更快的本地迭代"
+        ],
+        "detail": "AWS 终于推出了官方模拟器，让开发者能在本地克隆环境中测试其众多服务，而不必先开通付费 API 密钥。该工具用 Rust 编写，由一大群智能体协作开发，提交记录高达 29,684 次。",
+        "generatedAt": "2026-11-12T10:04:12+08:00"
+      }
+    },
+    {
+      "id": "ae5556d61c0b046e",
+      "title": "Why the data center you dread might never even be built",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lo…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T04:15:15+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "数据中心建设遇阻：你担心的项目可能根本建不成",
+        "takeaway": "数据中心热潮面临现实障碍，从地方反对到电力短缺，项目可能无法落地。",
+        "bullets": [
+          "数据中心建设遭遇地方反对和许可延迟",
+          "电力供应紧张成为另一大挑战",
+          "更基础的问题可能导致项目无法启动"
+        ],
+        "detail": "数据中心建设热潮正遭遇现实阻力，包括当地居民的广泛反对、许可审批的延迟以及电力的争夺。然而在这些挑战出现之前，还有一个更基本的问题：选址。",
+        "generatedAt": "2026-11-12T10:04:13+08:00"
+      }
+    },
+    {
+      "id": "bdeaa23eb9886c5a",
+      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+      "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lo…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T04:02:14+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data center",
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "数据中心热潮遇阻：地方反对与审批拖延成拦路虎",
+        "takeaway": "数据中心扩张面临地方反对、审批延迟和电力短缺，现实障碍拖慢建设步伐。",
+        "bullets": [
+          "地方社区反对和许可审批延迟是数据中心建设的主要障碍",
+          "电力供应紧张加剧了数据中心的运营挑战",
+          "这些现实问题正在减缓数据中心的发展速度"
+        ],
+        "detail": "数据中心建设热潮正遭遇现实阻力，包括当地居民的广泛反对、许可审批的拖延以及电力的争夺。在这些挑战发挥作用之前，还有一个更基本的问题：选址。",
+        "generatedAt": "2026-11-12T10:04:13+08:00"
+      }
+    },
+    {
+      "id": "d8ee9ab549e424bc",
+      "title": "United won’t let your AI agent book your flight",
+      "url": "https://theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal re…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T05:54:21+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "regulatory",
+        "privacy"
+      ],
+      "confidence": 0.71,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "美联航禁止个人AI助手代订机票，隐私与监管成顾虑",
+        "takeaway": "美联航明确拒绝AI代理订票，隐私和监管是主因，但实际尝试者尚少。",
+        "bullets": [
+          "美联航以隐私和监管为由，禁止个人AI助手代订机票。",
+          "公司称目前尝试用AI代理订票的用户并不多。",
+          "此举或影响AI旅行助手生态，其他航司可能跟进。"
+        ],
+        "detail": "美联航表示，出于隐私和监管方面的担忧，不会允许个人AI助手在其平台预订机票。公司称目前尚未看到大量用户尝试用AI代理订票，但已提前表明立场。",
+        "generatedAt": "2026-11-12T10:04:14+08:00"
+      }
+    },
+    {
+      "id": "b1bde400e8cf7c5d",
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "url": "https://wired.com/story/i-trained-a-microduck-to-be-my-cats-butler",
+      "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T03:55:54+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "虚拟鸭子追猫？OpenAI模型让机器人活起来",
+        "takeaway": "OpenAI模型助力训练Microduck机器人，实现行走和当猫咪管家，展示机器人未来。",
+        "bullets": [
+          "OpenAI模型用于训练Microduck机器人。",
+          "Microduck能行走并扮演猫咪管家。",
+          "体验者通过虚拟鸭子看到机器人未来。"
+        ],
+        "detail": "作者借助OpenAI模型，教会了Microduck机器人摇摇摆摆地走路，还让它兼职做猫咪的小管家。这个虚拟鸭子追猫的体验，展示了机器人技术的未来可能性。",
+        "generatedAt": "2026-11-12T10:04:15+08:00"
+      }
+    },
+    {
+      "id": "e615adee1bf7d019",
+      "title": "DeepSeek V4.1 Flash 1017 exl3 2.9bpw APEX 2025 benchmark results",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xtyxl9/deepseek_v41_flash_1017_exl3_29bpw_apex_2025",
+      "summary": "My main AI machine is a 6x3090 128GB DDR4 Threadripper 3960x system. I probably spend more time trying to optimize it than actually using it but it has been fun. I tried a bunch of saturated benchmarks like Terminal Bench 2.1, AIME 2026 and…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T08:50:08+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "benchmark",
+        "benchmarks"
+      ],
+      "confidence": 0.56,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek V4.1 Flash 量化版在 6 卡 3090 上的基准测试结果",
+        "takeaway": "用户分享 DeepSeek V4.1 Flash 的 2.9bpw 量化版在自建多卡平台上的跑分，展示本地部署可行性。",
+        "bullets": [
+          "测试平台为 6 张 RTX 3090、128GB DDR4 和 Threadripper 3960x。",
+          "使用 exl3 2.9bpw 量化，在 Terminal Bench 2.1、AIME 2026 等基准上测试。",
+          "作者称花大量时间优化机器，体现本地大模型部署的折腾与乐趣。"
+        ],
+        "detail": "一位用户在自己的 6 卡 3090 工作站上，用 exl3 2.9bpw 量化运行 DeepSeek V4.1 Flash，并跑了 Terminal Bench 2.1、AIME 2026 等饱和基准。他坦言优化机器的时间比实际使用还多，但过程很有趣。",
+        "generatedAt": "2026-11-12T10:04:16+08:00"
+      }
+    },
+    {
+      "id": "927181826b8abf66",
+      "title": "New Paper -> Unless Told Otherwise, an Open Language Model Says OpenAI Made It",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xtpqxm/new_paper_unless_told_otherwise_an_open_language",
+      "summary": "Hi all I've just started r/LLMPsychology as I want to pursue research in this area with my own local hardware, and work with other people also exploring how AI minds think and behave. (I'm a psychology researcher with an AI hobby) Posting j…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T02:36:37+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "paper",
+        "research"
+      ],
+      "confidence": 0.56,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "新研究：不特别说明时，开源模型自称由OpenAI开发",
+        "takeaway": "研究发现开源语言模型在未被明确告知的情况下，会默认声称自己是OpenAI的产品，揭示模型身份认知偏差。",
+        "bullets": [
+          "心理学研究者创建r/LLMPsychology，专注AI思维与行为研究",
+          "实验发现开源模型在无提示时自称OpenAI制造",
+          "该现象或反映训练数据偏差与模型自我认知问题"
+        ],
+        "detail": "一位心理学研究者新开了r/LLMPsychology社区，想用本地硬件研究AI的思维和行为。他发帖分享了一篇新论文，其中发现：如果不特别告诉开源语言模型它是谁开发的，它就会说自己是OpenAI做的。",
+        "generatedAt": "2026-11-12T10:04:16+08:00"
+      }
+    },
+    {
       "id": "d5d770161b3f2ac9",
       "title": "KRAFTON/Raon-1-nano · Hugging Face",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face",
@@ -531,6 +1077,44 @@
       "score": 36,
       "related": [],
       "pushed": false
+    },
+    {
+      "id": "0f061cd1caaae18a",
+      "title": "估值1300亿，字节背后的算力独角兽，要赴美IPO了",
+      "url": "https://tmtpost.com/8201448.html",
+      "summary": "字节核心算力供应商DayOne递交招股书。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T09:02:00+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "估值",
+        "IPO",
+        "独角兽"
+      ],
+      "confidence": 0.78,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "字节算力供应商DayOne估值1300亿，赴美递交招股书",
+        "takeaway": "字节核心算力供应商DayOne启动赴美IPO，估值达1300亿元，算力基建受资本市场关注。",
+        "bullets": [
+          "DayOne是字节跳动的核心算力供应商，已递交赴美招股书。",
+          "公司估值达1300亿元，IPO进程正式启动。",
+          "算力基础设施供应商登陆资本市场，反映AI算力需求增长。"
+        ],
+        "detail": "字节跳动的核心算力供应商DayOne已递交赴美招股书，估值达1300亿元。该公司为字节提供算力支持，此次IPO意味着其算力业务将接受公开市场检验。",
+        "generatedAt": "2026-11-12T10:04:17+08:00"
+      }
     },
     {
       "id": "951df531bf3f6358",
@@ -877,6 +1461,180 @@
       ],
       "confidence": 0.63,
       "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7337e2c1520b1588",
+      "title": "谷歌采用 DPoP 增强 OAuth 2.0，抵御令牌窃取与重放攻击",
+      "url": "https://infoq.cn/article/FQHBH7cfSYPFUUdbmyui",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T17:05:00+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌为 OAuth 2.0 引入 DPoP，防令牌窃取与重放",
+        "takeaway": "谷歌在 OAuth 2.0 中采用 DPoP 机制，提升令牌安全性，抵御窃取和重放攻击。",
+        "bullets": [
+          "谷歌采用 DPoP 增强 OAuth 2.0 安全性",
+          "DPoP 可防止令牌被窃取和重放攻击",
+          "该机制将影响使用谷歌 OAuth 的开发者"
+        ],
+        "detail": "谷歌宣布在 OAuth 2.0 中采用 DPoP（演示证明持有）机制。该机制通过绑定令牌与客户端密钥，防止攻击者窃取令牌后重放使用，从而提升授权安全性。",
+        "generatedAt": "2026-11-12T10:04:18+08:00"
+      }
+    },
+    {
+      "id": "dc6cc5d780fce33a",
+      "title": "Personal AI 开战，它是如何引爆全球的",
+      "url": "https://tmtpost.com/8200985.html",
+      "summary": "AI第一次，开始替你过日子。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T09:42:02+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7a69c1b89eda0814",
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "summary": "Article URL: https://machinelearning.apple.com/research/faster-retrieval Comments URL: https://news.ycombinator.com/item?id=50455633 Points: 153 # Comments: 28",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T24:57:45+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "research"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "576d29469f053bde",
+      "title": "[2610.29162v1] Why is AI-generated language so hard to understand?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xtux72/261029162v1_why_is_aigenerated_language_so_hard",
+      "summary": "submitted by /u/TheRealMasonMac [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T05:56:29+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f8a919376d903b58",
+      "title": "Simplest Local Agentic Setup",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xty1vc/simplest_local_agentic_setup",
+      "summary": "TL;DR simplest reasonable agentic setup Currently Pi Agent, Bonsai 2 9B, SearXNG Any suggestions ? Hi all So I have a secondary workstation with line 24GB of RAM and 12GB VRAM I wanted to make a local agentic setup there Currently using Pi …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T08:09:37+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "53bc56e14c08d499",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 376 # Comments: 357",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T05:24:35+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "12149c8999a27fe5",
+      "title": "US and China \"may\" collaborate on AI. The jokes write themselves",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xtqsuu/us_and_china_may_collaborate_on_ai_the_jokes",
+      "summary": "submitted by /u/fatboy93 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-12T03:15:33+08:00",
+      "fetchedAt": "2026-11-12T10:03:58+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
       "related": [],
       "pushed": false
     }
