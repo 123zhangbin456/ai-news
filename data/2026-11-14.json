@@ -1,7 +1,218 @@
 {
   "date": "2026-11-14",
-  "updatedAt": "2026-11-13T19:38:51+08:00",
+  "updatedAt": "2026-11-14T02:49:03+08:00",
   "items": [
+    {
+      "id": "4e379f6cb9d33e5a",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T24:00:12+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "rollout"
+      ],
+      "confidence": 0,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ChatGPT 推出钱包功能，AI 代理可代用户购物结账",
+        "takeaway": "ChatGPT 新增钱包，AI 代理能替用户下单付款，先向美国 Pro 订阅者开放。",
+        "bullets": [
+          "ChatGPT 钱包让 AI 代理代用户购物并完成结账",
+          "功能先向美国 Pro 订阅用户限量推出",
+          "意味着 AI 从对话助手向交易执行延伸"
+        ],
+        "detail": "ChatGPT 上线钱包功能，允许 AI 代理代表用户挑选商品并完成支付。该功能目前仅面向美国 Pro 订阅用户小范围开放，后续可能扩大范围。",
+        "generatedAt": "2026-11-14T02:48:49+08:00"
+      }
+    },
+    {
+      "id": "f17748102e2c4282",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T02:40:30+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chips",
+        "NVIDIA"
+      ],
+      "confidence": 0.43,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "研究称中国最强AI模型竟用被禁英伟达芯片训练",
+        "takeaway": "新研究揭示中国顶尖AI模型依赖出口禁令下的英伟达芯片，凸显管制漏洞。",
+        "bullets": [
+          "研究显示中国最先进AI模型使用被禁英伟达芯片训练",
+          "涉及英伟达受出口管制的高性能芯片",
+          "可能引发对出口禁令有效性的质疑"
+        ],
+        "detail": "新研究表明，中国最强大的AI模型是在被禁止出口的英伟达芯片上训练出来的。这暗示尽管有出口管制，相关芯片仍流入中国并用于前沿AI研发。",
+        "generatedAt": "2026-11-14T02:48:50+08:00"
+      }
+    },
+    {
+      "id": "a114c8a499e5f08f",
+      "title": "DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1",
+      "summary": "1% on challenging SWE-sweep bug finding benchmark\" title=\"DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark\" /> Hi, I've just updated the SWE-sweep leaderboard with more open-weight models! De…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T24:31:47+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "benchmark"
+      ],
+      "confidence": 0.33,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek新模型在SWE-sweep缺陷查找基准上首次突破1%",
+        "takeaway": "DeepSeek flash max成为首个在SWE-sweep基准上得分超1%的模型，显示其在复杂代码缺陷查找上取得进展。",
+        "bullets": [
+          "SWE-sweep是挑战性代码缺陷查找基准，此前无模型得分超1%。",
+          "DeepSeek flash max首个突破1%，由r/LocalLLaMA用户更新榜单披露。",
+          "榜单同时新增多个开源权重模型，便于横向对比。"
+        ],
+        "detail": "有用户在r/LocalLLaMA更新了SWE-sweep排行榜，加入更多开源权重模型。其中DeepSeek flash max成为首个在该缺陷查找基准上得分超过1%的模型，虽然绝对值不高，但已是该基准上的首次突破。",
+        "generatedAt": "2026-11-14T02:48:52+08:00"
+      }
+    },
+    {
+      "id": "c371d06a5231e17d",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns",
+      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T01:25:45+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI董事警告：AI接管社会或仅剩数月",
+        "takeaway": "OpenAI董事会成员担忧AI可能很快接管社会，并追溯从奖励黑客到人类灭绝的路径。",
+        "bullets": [
+          "OpenAI董事会成员公开表达对AI接管社会的担忧。",
+          "该担忧基于从AI奖励黑客到人类灭绝的研究路径。",
+          "警告称这种接管可能仅剩数月时间。"
+        ],
+        "detail": "OpenAI一位董事会成员警告，AI接管社会可能只需数月。这位研究者梳理了一条从AI奖励黑客行为到人类灭绝的潜在路径，引发对AI安全风险的关注。",
+        "generatedAt": "2026-11-14T02:48:54+08:00"
+      }
+    },
+    {
+      "id": "2427bacb74a96b4b",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T02:00:39+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用 SimReady 资产搭建机器人抓取放置仿真",
+        "takeaway": "Hugging Face 发布教程，教开发者用 SimReady 资产快速构建机器人抓取放置仿真环境。",
+        "bullets": [
+          "教程面向机器人仿真开发者，基于 SimReady 资产。",
+          "内容为搭建抓取放置（pick-and-place）仿真场景。",
+          "可降低机器人仿真环境搭建门槛。"
+        ],
+        "detail": "Hugging Face 上线一篇教程，主题是用 SimReady 资产构建机器人抓取放置仿真。SimReady 资产是可直接用于仿真的标准化 3D 模型，教程旨在帮助开发者快速搭建机器人操作仿真场景。",
+        "generatedAt": "2026-11-14T02:48:59+08:00"
+      }
+    },
+    {
+      "id": "8400bdfe1e2afd49",
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T01:02:35+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "XYBench：帮你看清问题背后的问题",
+        "takeaway": "Hugging Face 推出 XYBench，关注提问背后的真实问题，值得关注。",
+        "bullets": [
+          "XYBench 来自 Hugging Face，聚焦问题背后的深层问题。",
+          "目前没有摘要，具体评测方式与数据未知。",
+          "对研究提问理解和评测的人有参考价值。"
+        ],
+        "detail": "Hugging Face 发布了名为 XYBench 的新项目，标题强调“帮助解决提问背后的问题”。由于没有摘要，目前无法得知它的具体评测内容、数据集或使用方法，只能确认它关注的是问题背后的真实意图或深层问题。",
+        "generatedAt": "2026-11-14T02:48:59+08:00"
+      }
+    },
     {
       "id": "43e6e27a22596539",
       "title": "智能互动 Agent 在快手商业场景的落地实践",
@@ -71,6 +282,79 @@
         "detail": "Edera 提出，光靠容器隔离来约束 AI 智能体还不够，主张把限制下沉到虚拟机监控器层，在更底层控制智能体的行为。这属于 AI 智能体安全隔离方向的新尝试。",
         "generatedAt": "2026-11-13T19:38:47+08:00"
       }
+    },
+    {
+      "id": "8049135ca1d365e6",
+      "title": "从快速部署到记忆共享，数据库如何支撑 Agent 应用？",
+      "url": "https://infoq.cn/video/FwbOyyfoAmkQPMTItMDN",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T04:54:12+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "应用"
+      ],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a1e895b935bb3a95",
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 114 # Comments: 10",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T01:30:10+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2c4041f79b956f03",
+      "title": "I built speedy Strix Halo kernels for the top-51 LLMs with AMD Loom (and you can too)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvcmm0/i_built_speedy_strix_halo_kernels_for_the_top51",
+      "summary": "I’ve been trying out a new experimental software flow from AMD’s AI Group, and I’ve been having a lot of fun with it, so I thought I’d share and see what y’all think too. hrx-loom is a new end-to-end tool stack (compiler, runtime, serving t…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T24:37:41+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "AMD"
+      ],
+      "confidence": 0.67,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T19:38:51+08:00",
+  "updatedAt": "2026-11-14T02:49:03+08:00",
   "items": [
     {
       "id": "a8d5fa7d24b3647f",
@@ -45,6 +45,79 @@
         "generatedAt": "2026-11-13T04:34:46+08:00"
       },
       "pushedAt": "2026-11-13T09:35:46+08:00"
+    },
+    {
+      "id": "5bf4951adbe9698d",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T23:00:00+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing"
+      ],
+      "confidence": 1,
+      "score": 66,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 推出 ChatGPT Wallet，让 AI 代理代付购物",
+        "takeaway": "ChatGPT 里的 AI 代理现在能替用户完成购买，但每笔都需用户批准，并沿用现有银行卡保护。",
+        "bullets": [
+          "ChatGPT Wallet 面向 ChatGPT Work、Codex 和 dots 中的代理",
+          "代理可完成购买，但每笔交易需用户批准",
+          "支付沿用现有银行卡保护机制"
+        ],
+        "detail": "OpenAI 发布 ChatGPT Wallet，为 ChatGPT Work、Codex 和 dots 中的 AI 代理提供安全支付方式。代理可在用户批准后完成购买，并继续享受现有银行卡的保护。",
+        "generatedAt": "2026-11-14T02:48:48+08:00"
+      }
+    },
+    {
+      "id": "bd1f518dfa03aa3a",
+      "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
+      "url": "https://qbitai.com/2026/11/509663.html",
+      "summary": "数据不出域、本地可部署",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T15:06:32+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源",
+        "部署"
+      ],
+      "confidence": 0.67,
+      "score": 66,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "无界前沿开源Fx-Bio-1031，盲测超越GPT-6-Astra与Opus-5",
+        "takeaway": "一款面向生命科学的开源模型在盲测中胜出，且支持本地部署、数据不出域。",
+        "bullets": [
+          "无界前沿发布开源模型Fx-Bio-1031，主打生命科学场景。",
+          "高难度盲测中表现超越GPT-6-Astra与Opus-5。",
+          "支持本地部署，数据不出域，适合隐私敏感场景。"
+        ],
+        "detail": "无界前沿开源了Fx-Bio-1031，把RSI（推理扩展）能力带入生命科学。该模型在高难盲测中成绩超过GPT-6-Astra和Opus-5，并支持本地部署，确保数据不出域，适合对隐私要求高的科研与医疗场景。",
+        "generatedAt": "2026-11-14T02:48:48+08:00"
+      }
     },
     {
       "id": "3a6e631e3bbad271",
@@ -153,6 +226,42 @@
         ],
         "detail": "谷歌称新模型 Gemini 4 Hydrogen 能更有效地回答复杂问题，包括包含多个部分、有难懂错别字或高度具体请求的提问。该模型可以拆解用户的问题，从而提供更有帮助的答案。",
         "generatedAt": "2026-11-13T09:35:33+08:00"
+      }
+    },
+    {
+      "id": "1bd099ba94a31657",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T22:00:00+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Duet 智能体：有点神经质却意外好用",
+        "takeaway": "Anthropic 推出消费级 AI 智能体 Claude Duet，体验独特且实用，值得关注。",
+        "bullets": [
+          "Anthropic 发布消费级 AI 智能体 Claude Duet",
+          "测试中主动提出帮忙撰写体验，表现意外",
+          "AI 公司再尝试说服用户智能体有用"
+        ],
+        "detail": "通常我测试的产品不会主动提出帮我写体验报告，但 Duet 不一样。它是 Anthropic 面向消费者的 AI 智能体，也是 AI 公司试图证明智能体实用性的最新尝试。",
+        "generatedAt": "2026-11-14T02:48:48+08:00"
       }
     },
     {
@@ -591,6 +700,78 @@
       }
     },
     {
+      "id": "40e78db6601d46e6",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T22:05:22+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 发布 v1.0.0，本地 AI 生态迎来更稳基石",
+        "takeaway": "llama.cpp 正式迈入 1.0 版本，为本地运行大模型提供更稳定的基础，值得关注。",
+        "bullets": [
+          "llama.cpp 发布 v1.0.0，标志项目进入稳定阶段。",
+          "该工具用于在本地设备高效运行大语言模型。",
+          "版本升级有望提升本地 AI 应用的可靠性。"
+        ],
+        "detail": "llama.cpp 是一个让大语言模型能在个人电脑等本地设备上运行的开源项目。v1.0.0 的发布意味着它从实验性工具走向更成熟稳定的基础，有助于推动本地 AI 生态发展。",
+        "generatedAt": "2026-11-14T02:48:50+08:00"
+      }
+    },
+    {
+      "id": "a140bb50e9bae8d3",
+      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+      "url": "https://qbitai.com/2026/11/509796.html",
+      "summary": "250名国内顶尖三甲医院医生联合评测",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T15:43:03+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "评测"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "中国AI突破复杂肺癌诊疗，250名三甲医生联合评测",
+        "takeaway": "中国团队发布肺癌诊疗AI研究，由250名三甲医院医生联合评测，引发中美医疗圈关注。",
+        "bullets": [
+          "研究论文称AI在复杂肺癌诊疗上取得突破",
+          "250名国内顶尖三甲医院医生参与联合评测",
+          "消息引发中美医疗圈集体关注"
+        ],
+        "detail": "量子位报道了一项中国AI研究论文，宣称在复杂肺癌诊疗上实现突破。该研究由250名国内顶尖三甲医院医生联合评测，消息称中美医疗圈对此高度关注。",
+        "generatedAt": "2026-11-14T02:48:51+08:00"
+      }
+    },
+    {
       "id": "6e7f4ca7daf14e21",
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
       "url": "https://technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking",
@@ -664,6 +845,42 @@
         ],
         "detail": "英伟达11月10日发布端到端自动驾驶模型Alpamayo 2 Edge，它结合因果推理与扩散动作，直接输出控制指令。模型由约2.45B的VLM骨干和约0.2B的动作专家组成，运行在车规级芯片DRIVE AGX Thor上，闭环表现提升48.9%。",
         "generatedAt": "2026-11-13T19:38:42+08:00"
+      }
+    },
+    {
+      "id": "e00ed907e42f1c2a",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil",
+      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T20:52:19+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达动荡之际，以色列风投看到挑战者机会",
+        "takeaway": "英伟达在AI领域的强势地位及其对以色列的重要性，让当地创投生态在其变局中既担忧又看到新机会。",
+        "bullets": [
+          "英伟达在AI芯片领域的主导地位对以色列科技生态影响深远。",
+          "以色列风投认为英伟达的动荡为挑战者提供了切入机会。",
+          "当地创业生态对英伟达相关变动的影响感到担忧。"
+        ],
+        "detail": "英伟达在AI领域的强势地位及其对以色列的重要性，让该国创投生态对其变局感到担忧。但一些风投也从中看到机会，认为挑战者有望在英伟达动荡时崛起。",
+        "generatedAt": "2026-11-14T02:48:52+08:00"
       }
     },
     {
@@ -774,6 +991,115 @@
         ],
         "detail": "Artificial Analysis 更新了 Qwen 3.8 Flash Next 的评测分数为 29。这一成绩排在 GPT-6 Luna Max（28）和 Claude Haiku 5.5 High（30）之间。与自家 Qwen 3.8 系列相比，它更靠近 Max 版的 34 分，明显高于 27B 版的 20 分",
         "generatedAt": "2026-11-13T19:38:42+08:00"
+      }
+    },
+    {
+      "id": "ec77256b6af0e19c",
+      "title": "从仰望极速新纪录和鼎曜全球发布看比亚迪的国际化与高端化之路",
+      "url": "https://qbitai.com/2026/11/509716.html",
+      "summary": "比亚迪正在把规模优势转化为技术与品牌价值",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T15:12:42+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "比亚迪发布极速新纪录与鼎曜全球战略，加速国际化高端化",
+        "takeaway": "比亚迪正将规模优势转化为技术与品牌价值，通过新纪录和全球发布推进国际化与高端化。",
+        "bullets": [
+          "比亚迪发布极速新纪录，展示技术实力",
+          "鼎曜全球发布，推进国际化布局",
+          "战略核心：规模优势转化为技术与品牌价值"
+        ],
+        "detail": "比亚迪通过仰望极速新纪录和鼎曜全球发布，展示其技术与品牌升级。公司正将规模优势转化为技术和品牌价值，加速国际化与高端化进程。",
+        "generatedAt": "2026-11-14T02:48:53+08:00"
+      }
+    },
+    {
+      "id": "068a53c60b73e28c",
+      "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
+      "url": "https://qbitai.com/2026/11/509653.html",
+      "summary": "想要什么功能，让Agent自己开发",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T14:54:44+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0.67,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "openJiuwen发布RSI原生AgentOS，Agent可自开发功能",
+        "takeaway": "openJiuwen推出RSI原生AgentOS，让Agent按需自我开发功能并持续迭代，值得关注。",
+        "bullets": [
+          "openJiuwen发布RSI原生AgentOS，主打Agent自由变身。",
+          "核心能力是让Agent根据需求自己开发所需功能。",
+          "该OS支持Agent持续迭代，提升自主性。"
+        ],
+        "detail": "openJiuwen发布了RSI原生AgentOS，其特点是让Agent能够自由变身。用户想要什么功能，可以让Agent自己开发，从而实现持续迭代。",
+        "generatedAt": "2026-11-14T02:48:54+08:00"
+      }
+    },
+    {
+      "id": "7e4a82aae5902afd",
+      "title": "llama.cpp v1.0 is here 🦙",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here",
+      "summary": "Hey folks, it's Merve from Hugging Face. Today, llama.cpp releases v1! Moving forward, we’ll keep covering every platform and every model type, while keeping llama.cpp robust and lean for downstream applications that build on it. While I'm …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T22:07:33+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "releases",
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 发布 v1.0 正式版",
+        "takeaway": "本地推理框架 llama.cpp 迎来首个正式版，承诺继续覆盖全平台全模型并保持轻量。",
+        "bullets": [
+          "Hugging Face 的 Merve 宣布 llama.cpp 发布 v1.0",
+          "官方承诺继续支持所有平台和模型类型",
+          "强调保持健壮精简，方便下游应用集成"
+        ],
+        "detail": "Hugging Face 的 Merve 宣布 llama.cpp 发布 v1.0 正式版。团队表示后续会继续覆盖各类平台和模型类型，同时让 llama.cpp 保持健壮、精简，便于在其上构建的下游应用使用。",
+        "generatedAt": "2026-11-14T02:48:55+08:00"
       }
     },
     {
@@ -920,6 +1246,116 @@
         ],
         "detail": "Anthropic因高达5180亿美元的算力支出压力，正计划进行史上最大规模IPO，试图将这笔“算力房租”转嫁给公开市场投资者。若成功，这将成为科技行业最大上市事件之一，也凸显AI公司对算力的巨额资金需求。",
         "generatedAt": "2026-11-13T19:38:42+08:00"
+      }
+    },
+    {
+      "id": "c594ef9dee93780a",
+      "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+      "url": "https://qbitai.com/2026/11/509995.html",
+      "summary": "一个时代结束了",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T17:02:39+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "英伟达"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋辞任英伟达CEO，33年来首次换帅",
+        "takeaway": "英伟达创始人黄仁勋卸任CEO，公司33年来首次换帅，市值蒸发超3万亿元，标志一个时代落幕。",
+        "bullets": [
+          "黄仁勋辞去英伟达CEO职务，结束33年掌舵生涯。",
+          "这是英伟达成立以来首次CEO更替。",
+          "消息公布后英伟达市值蒸发超3万亿元。"
+        ],
+        "detail": "黄仁勋辞去英伟达CEO一职，这是英伟达33年来首次换帅。消息传出后，公司市值蒸发超过3万亿元。一个时代就此结束。",
+        "generatedAt": "2026-11-14T02:48:56+08:00"
+      }
+    },
+    {
+      "id": "15feea836be2f2af",
+      "title": "Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider",
+      "summary": "Perplexity has released two new \"decision models.\" These are general-purpose classifiers built from generative LLM backbones. You give them an input (the \"state\") and one or more questions, and they return a probability distribution over th…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T21:08:10+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "releases"
+      ],
+      "confidence": 0,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Perplexity 发布 Decider v1.3 决策模型，26B 与 5B 双版本开源",
+        "takeaway": "Perplexity 推出两款基于生成式 LLM 的通用分类/决策模型，Apache 2.0 开源，可本地部署。",
+        "bullets": [
+          "Decider v1.3 为 26B，Flash 版为 5B，均采用 Apache 2.0 许可",
+          "模型输入状态和问题，输出概率分布，用于分类决策",
+          "基于生成式 LLM 骨干构建，面向通用分类任务"
+        ],
+        "detail": "Perplexity 发布了两款“决策模型”，本质是通用分类器，由生成式大模型改造而来。使用时输入一个状态和若干问题，模型会返回对应的概率分布，适合做分类或决策任务。两个版本均以 Apache 2.0 协议开源。",
+        "generatedAt": "2026-11-14T02:48:56+08:00"
+      }
+    },
+    {
+      "id": "0d984d80f3cea682",
+      "title": "I ran the same Halloween animation prompt through five coding agents on one local Qwen model",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xv5dsb/i_ran_the_same_halloween_animation_prompt_through",
+      "summary": "I gave Claude Code, OpenCode, GitHub Copilot Desktop, Pi, and Codex the same prompt to build a looping pixel-art Halloween diorama. I pointed all five at the same local model, Qwen3.8 Flash Next (Unsloth UD-Q4_K_XL) , served by Halogen. The…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T19:25:12+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude",
+        "Qwen"
+      ],
+      "confidence": 0.33,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "同一本地 Qwen 模型跑五个编程智能体，效果对比",
+        "takeaway": "用同一本地 Qwen 模型驱动五个编程智能体做同一动画任务，可直观比较各工具表现。",
+        "bullets": [
+          "测试对象为 Claude Code、OpenCode、GitHub Copilot Desktop、Pi 和 Codex 五个编程智能体。",
+          "五个智能体均接入同一个本地 Qwen3.8 Flash Next 模型，由 Halogen 提供服务。",
+          "任务是用相同提示词生成循环像素风万圣节立体场景动画。",
+          "结果可帮助开发者了解不同智能体在同一本地模型下的实际差异。"
+        ],
+        "detail": "作者让 Claude Code、OpenCode、GitHub Copilot Desktop、Pi 和 Codex 五个编程智能体，用完全相同的提示词制作一个循环播放的像素风万圣节立体场景动画。五个智能体背后都指向同一个本地 Qwen3.8 Flash Next 模型（Unsloth UD-Q4_K_XL 量化版），",
+        "generatedAt": "2026-11-14T02:48:57+08:00"
       }
     },
     {
@@ -1098,6 +1534,42 @@
       }
     },
     {
+      "id": "5d09d1e98e76f00d",
+      "title": "What’s really at stake in the Jensen Huang saga",
+      "url": "https://theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A s…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T22:47:16+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "stake"
+      ],
+      "confidence": 0.5,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋卸任英伟达CEO，AI芯片巨头走向何方？",
+        "takeaway": "黄仁勋辞任英伟达CEO，结束一段传奇，但更大变局可能刚刚开始。",
+        "bullets": [
+          "黄仁勋周四卸任英伟达CEO，结束其领导时代。",
+          "英伟达是AI芯片最关键供应商，人事变动影响行业。",
+          "未来数周或数月可能有更大事件展开，值得关注。"
+        ],
+        "detail": "英伟达CEO黄仁勋于周四卸任，结束了一段围绕他的风波。作为AI领域最重要公司的掌门人，他的离开可能只是更大故事的开端，未来几周或几个月或有更重大进展。",
+        "generatedAt": "2026-11-14T02:48:58+08:00"
+      }
+    },
+    {
       "id": "b19430df4313f879",
       "title": "MoE and expert offloading on llama, exllamav3, strata on 9070XT",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xun15v/moe_and_expert_offloading_on_llama_exllamav3",
@@ -1239,6 +1711,42 @@
         ],
         "detail": "r/LocalLLaMA社区出现一个名为Edge0-145B的开源项目，号称是拥有1450亿参数的端侧AI模型。帖子仅提供标题和链接，未披露技术细节或实测表现，其实际能否在本地设备运行尚待验证。",
         "generatedAt": "2026-11-13T09:35:40+08:00"
+      }
+    },
+    {
+      "id": "f41c719b0c126243",
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "url": "https://theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are d…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T20:00:00+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋的“多位情人”引发热议，英伟达怎么了？",
+        "takeaway": "The Verge 发文调侃黄仁勋的“多位情人”，但承认对英伟达现状也给不出答案。",
+        "bullets": [
+          "The Verge 发文讨论黄仁勋的“多位情人”，但表示不清楚英伟达发生了什么。",
+          "文章以调侃口吻称黄仁勋新情人的出现速度惊人。",
+          "事件涉及英伟达 CEO 黄仁勋，引发外界对公司状况的猜测。"
+        ],
+        "detail": "The Verge 通常会在新闻事件后解答读者疑问，但这次他们坦言对英伟达的状况也给不出答案。文章调侃黄仁勋的“新情人”出现速度之快，但未提供具体事实。",
+        "generatedAt": "2026-11-14T02:48:58+08:00"
       }
     },
     {
@@ -1691,6 +2199,42 @@
       }
     },
     {
+      "id": "025a6c711bf81c35",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T22:44:48+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ElevenLabs推出团队会议记录与听写应用ElevenAI",
+        "takeaway": "ElevenLabs发布新应用ElevenAI，整合会议记录与听写功能，面向团队和企业。",
+        "bullets": [
+          "ElevenLabs推出ElevenAI，集会议记录与听写于一体。",
+          "目标用户是团队和企业，提升协作效率。",
+          "这是ElevenLabs在AI语音领域的产品扩展。"
+        ],
+        "detail": "ElevenLabs推出了名为ElevenAI的新应用，它既能记录会议内容，也支持听写功能，主要面向团队和企业用户。这款产品将两种常用办公场景结合，旨在帮助团队更高效地处理语音信息。",
+        "generatedAt": "2026-11-14T02:49:00+08:00"
+      }
+    },
+    {
       "id": "6736945d4ac448cd",
       "title": "Jensen Huang’s $470 Billion Affair",
       "url": "https://wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair",
@@ -1775,6 +2319,76 @@
         ],
         "detail": "上汽大众ID. ERA 5X正式上市，定位都市纯电SUV，面向年轻人和家庭用户。它是大众CMP+CEA+ADAS全球首款量产车，全系标配4纳米MTK8676车规芯片和豆包大模型2.0，并搭载行云智能辅助驾驶系统。新车还针对纯电车型残值问题推出了基于限时权益价的方案。",
         "generatedAt": "2026-11-13T19:38:46+08:00"
+      }
+    },
+    {
+      "id": "69b43a95305bbe20",
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says",
+      "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T20:28:23+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋被曝对继任者缺乏信心，称其“像被车灯照到的鹿”",
+        "takeaway": "报道称黄仁勋私下用“被车灯照到的鹿”形容继任者，引发外界对英伟达接班安排的关注。",
+        "bullets": [
+          "黄仁勋在夏季一次会议上形容继任者Kress“像被车灯照到的鹿”。",
+          "该描述被解读为黄仁勋对Kress缺乏信心。",
+          "事件涉及英伟达CEO接班问题，可能影响投资者预期。"
+        ],
+        "detail": "据TechCrunch AI报道，黄仁勋在夏季一次会议上用“被车灯照到的鹿”来形容其继任者Kress，暗示对其表现缺乏信心。这一说法引发外界对英伟达未来领导层交接的关注。",
+        "generatedAt": "2026-11-14T02:49:01+08:00"
+      }
+    },
+    {
+      "id": "1d54bbc72f640f9b",
+      "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
+      "url": "https://qbitai.com/2026/11/509730.html",
+      "summary": "比亚迪第1900万辆新能源汽车在西安工厂正式下线",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T15:17:54+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "比亚迪第1900万辆新能源车下线，方程豹钛9同步开启预订",
+        "takeaway": "比亚迪产量再破纪录，同时新旗舰SUV开启预订，显示其产品与产能双线推进。",
+        "bullets": [
+          "第1900万辆新能源汽车在西安工厂下线。",
+          "科技新奢旗舰SUV方程豹钛9开启预订。",
+          "产量里程碑与新车预订同步公布，强化品牌势头。"
+        ],
+        "detail": "比亚迪在西安工厂迎来第1900万辆新能源汽车下线，同时宣布方程豹钛9开启预订。这款车被定位为科技新奢旗舰SUV，两项消息一同发布，展示出比亚迪在产能和产品布局上的持续进展。",
+        "generatedAt": "2026-11-14T02:49:01+08:00"
       }
     },
     {
@@ -1949,6 +2563,122 @@
         "detail": "英伟达11月12日宣布，联合创始人黄仁勋辞去CEO一职，由CFO科莱特·克雷斯担任临时CEO。黄仁勋1993年参与创办公司，用33年把英伟达从游戏显卡厂商做成市值4万亿美元的AI算力核心。此次交接正值AI投资周期关键节点，一家如此体量的公司暂时由财务背景高管掌舵，引发外界关注。",
         "generatedAt": "2026-11-13T19:38:47+08:00"
       }
+    },
+    {
+      "id": "d016b6a7cd728115",
+      "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+      "url": "https://qbitai.com/2026/11/509827.html",
+      "summary": "12.9 北京，来MEET2027现场",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T15:51:08+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "MEET2027第二批嘉宾公布，聚焦AI4S、量子计算与AI Infra",
+        "takeaway": "MEET2027大会12月9日在北京举行，第二批嘉宾揭晓，覆盖AI4S、量子计算、AI Infra等前沿方向。",
+        "bullets": [
+          "第二批嘉宾来自AI4S、量子计算、AI Infra等领域",
+          "大会定于12月9日在北京举办",
+          "嘉宾阵容加码，含金量进一步提升"
+        ],
+        "detail": "量子位公布MEET2027大会第二批嘉宾名单，涉及AI4S、量子计算和AI Infra等方向。大会将于12月9日在北京举行，更多嘉宾信息将陆续揭晓。",
+        "generatedAt": "2026-11-14T02:49:01+08:00"
+      }
+    },
+    {
+      "id": "77542e24449243ed",
+      "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
+      "url": "https://qbitai.com/2026/11/509710.html",
+      "summary": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T15:09:05+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "比亚迪与神州租车首批闪充车及闪充站落地济南",
+        "takeaway": "双方战略合作进入实质落地阶段，闪充车型与站点同步投放，加速闪充网络铺开。",
+        "bullets": [
+          "投放仪式在山东济南举行，首批闪充车与闪充站同步落地",
+          "合作方为比亚迪与神州租车，属战略合作的兑现动作",
+          "此举被视为“闪充中国”提速的信号，租车场景先行试点"
+        ],
+        "detail": "2026年11月10日，比亚迪与神州租车在山东济南举办首批闪充车及闪充站投放仪式。这标志着双方战略合作从协议走向实际落地，也意味着闪充车型和配套站点开始进入租车运营场景，为“闪充中国”计划提速。",
+        "generatedAt": "2026-11-14T02:49:03+08:00"
+      }
+    },
+    {
+      "id": "95716c53d9c3e3c5",
+      "title": "特斯拉和SpaceX最快下月合并",
+      "url": "https://qbitai.com/2026/11/509613.html",
+      "summary": "马斯克帝国终极形态。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T14:43:06+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "be74c8d1deab60ba",
+      "title": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
+      "url": "https://qbitai.com/2026/11/509614.html",
+      "summary": "信息少传80%，准确率反而提高",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T14:29:23+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "b5b1e8f149e47936",
@@ -2369,6 +3099,32 @@
       "pushed": false
     },
     {
+      "id": "f37c9d28309c96b1",
+      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+      "url": "https://wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back",
+      "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T19:45:00+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says",
+        "critics"
+      ],
+      "confidence": 1,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "cb7ce27114a89627",
       "title": "VLM 在预测性空间推理上的缺口还有多大？21 个模型，最高准确率仅 58.0%",
       "url": "https://leiphone.com/category/academic/Ma9dfYJE9ifGDZ9I.html",
@@ -2441,6 +3197,32 @@
         "introducing"
       ],
       "confidence": 1,
+      "score": 32,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3cee298200ca5794",
+      "title": "独家｜燧原科技首席生态官李星宇离职",
+      "url": "https://leiphone.com/category/chips/G6AiPuplIGyPkaQL.html",
+      "summary": "作者｜包永刚编辑｜刘伟雷峰网独家获悉，燧原科技首席生态官李星宇已于近日离职。他离职后已入读港大-北大联合DBA博士项目，但尚未披露下一步职业计划。李星宇拥有超过20年的半导体行业从业经验，工作经历涵盖云端AI计算芯片、自动驾驶AI芯片、智能座舱芯片等领域。加入燧原科技之前，他曾在地平线任职8年，担任生态发展与战略规划副总裁，是地平线创始管理团队成员。更早之前，他曾任职于恩智浦半导体。从地平线的创始管理团队成员，到燧原科技首席生态官，李星宇在企业战略规划和产业生态建设方面积累了…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T18:00:00+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "离职",
+        "加入"
+      ],
+      "confidence": 0.64,
       "score": 32,
       "related": [],
       "pushed": false
@@ -2591,6 +3373,29 @@
         "上市"
       ],
       "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2f44ca0e016fa14e",
+      "title": "AI Is Destroying the Trust Between Writers and Readers",
+      "url": "https://theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391",
+      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 233 # Comments: 126",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T19:13:46+08:00",
+      "fetchedAt": "2026-11-14T02:48:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 30,
       "related": [],
       "pushed": false
