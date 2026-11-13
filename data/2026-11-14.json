@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T02:49:03+08:00",
+  "updatedAt": "2026-11-14T04:12:48+08:00",
   "items": [
     {
       "id": "4e379f6cb9d33e5a",
@@ -112,6 +112,44 @@
       }
     },
     {
+      "id": "456080b7b5f6e9ee",
+      "title": "DeepSeek v4.1 Flash vs Qwen 3.8 Flash Next Performance",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvhzq9/deepseek_v41_flash_vs_qwen_38_flash_next",
+      "summary": "While waiting for Qwen 4, I installed and benchmarked DeepSeek v4.1 Flash to see if I was missing out. Based on the type of work I do, DeepSeek is not better but is definitely much slower. Turns out Strata with Qwen 3.8 Flash-Next is best b…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T03:57:57+08:00",
+      "fetchedAt": "2026-11-14T04:12:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek v4.1 Flash 对比 Qwen 3.8 Flash Next：用户实测称前者更慢",
+        "takeaway": "用户自测两款轻量模型，DeepSeek 效果不占优且明显更慢，Qwen 组合更顺手。",
+        "bullets": [
+          "用户安装并跑分 DeepSeek v4.1 Flash，与 Qwen 3.8 Flash-Next 对比",
+          "按其工作类型，DeepSeek 效果没有更好，但速度慢很多",
+          "该用户认为 Strata 搭配 Qwen 3.8 Flash-Next 体验最佳",
+          "测试发生在等待 Qwen 4 期间，属个人非官方评测"
+        ],
+        "detail": "一位用户在等待 Qwen 4 时，安装并测试了 DeepSeek v4.1 Flash，想看看自己是否错过了什么。按其工作类型，DeepSeek 并没有更好，但速度明显更慢。他最终认为 Strata 搭配 Qwen 3.8 Flash-Next 是最佳选择。",
+        "generatedAt": "2026-11-14T04:12:45+08:00"
+      }
+    },
+    {
       "id": "c371d06a5231e17d",
       "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
       "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns",
@@ -143,6 +181,42 @@
         ],
         "detail": "OpenAI一位董事会成员警告，AI接管社会可能只需数月。这位研究者梳理了一条从AI奖励黑客行为到人类灭绝的潜在路径，引发对AI安全风险的关注。",
         "generatedAt": "2026-11-14T02:48:54+08:00"
+      }
+    },
+    {
+      "id": "81edf0fb751b6510",
+      "title": "Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace",
+      "summary": "hey llamas, its Alish from nace.ai (open source ai lab behind #1 decision model on latest Artificial Analysis decision index v2.1) & Kapitsa (optimized inference for apple silicon). As promised in the last post , we are releasing the GGUF w…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T03:23:54+08:00",
+      "fetchedAt": "2026-11-14T04:12:23+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open source"
+      ],
+      "confidence": 0.2,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Nace 发布量化新方法：Qwen 系列 KL 散度最高改善 2 倍",
+        "takeaway": "开源团队 Nace 推出权重空间编程量化，Qwen 9B 到 35B 的 GGUF 模型精度明显提升。",
+        "bullets": [
+          "Nace.ai 与 Kapitsa 联合发布 GGUF 量化模型",
+          "覆盖 Qwen 9B、27B、35B 及 Flash Next",
+          "KL 散度最高改善 2 倍，量化后更接近原模型"
+        ],
+        "detail": "Nace.ai 和 Kapitsa 兑现上次承诺，放出了 GGUF 量化文件。新方法叫权重空间编程，针对 Qwen 9B、27B、35B 和 Flash Next 做量化，KL 散度最多好 2 倍，意味着量化后输出分布更贴近原模型。",
+        "generatedAt": "2026-11-14T04:12:45+08:00"
       }
     },
     {
@@ -211,6 +285,78 @@
         ],
         "detail": "Hugging Face 发布了名为 XYBench 的新项目，标题强调“帮助解决提问背后的问题”。由于没有摘要，目前无法得知它的具体评测内容、数据集或使用方法，只能确认它关注的是问题背后的真实意图或深层问题。",
         "generatedAt": "2026-11-14T02:48:59+08:00"
+      }
+    },
+    {
+      "id": "38741df50e34ad24",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T03:37:57+08:00",
+      "fetchedAt": "2026-11-14T04:12:23+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "valuation"
+      ],
+      "confidence": 0.5,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "LangChain估值达30亿美元，智能体管理工具LangSmith获7000客户",
+        "takeaway": "AI智能体平台LangChain估值升至30亿美元，其模型无关的LangSmith工具已获7000家客户，显示企业级智能体管理需求增长。",
+        "bullets": [
+          "LangChain估值达30亿美元，成为AI智能体领域高价值初创公司。",
+          "其工具LangSmith支持模型和平台无关的智能体管理，已获7000家客户。",
+          "客户数表明企业正积极采用智能体管理工具，推动LangChain业务增长。"
+        ],
+        "detail": "LangChain是一家AI智能体初创公司，其估值已达到30亿美元。该公司旗下的LangSmith工具用于管理智能体，不依赖特定模型或平台，目前已有7000家客户使用。这一客户规模反映出市场对智能体管理解决方案的旺盛需求。",
+        "generatedAt": "2026-11-14T04:12:45+08:00"
+      }
+    },
+    {
+      "id": "46c449a8ea0a4254",
+      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "url": "https://wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage",
+      "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T03:08:57+08:00",
+      "fetchedAt": "2026-11-14T04:12:23+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "update"
+      ],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软365全球宕机24小时后恢复，元凶是错误更新",
+        "takeaway": "微软365经历24小时全球宕机后恢复，官方确认是错误更新所致，非网络攻击或AI。",
+        "bullets": [
+          "微软365全球服务中断持续24小时，现已恢复。",
+          "官方称原因是错误更新，排除网络攻击和AI因素。",
+          "影响全球用户，具体范围未在摘要中说明。"
+        ],
+        "detail": "微软365服务在全球范围内宕机约24小时后恢复。微软表示，问题源于一次错误的更新，而非网络攻击或AI故障。此次中断影响了全球用户，但摘要未提及具体受影响的服务和用户数量。",
+        "generatedAt": "2026-11-14T04:12:47+08:00"
       }
     },
     {
@@ -307,6 +453,42 @@
       "score": 35,
       "related": [],
       "pushed": false
+    },
+    {
+      "id": "937cc970d1199657",
+      "title": "浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年 | 世界模型50人",
+      "url": "https://leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html",
+      "summary": "八年研究，两个落地系统，超六万GitHub Stars。作者丨李秋悦编辑丨吴彤一支女团跳舞，镜头不必再听导演安排，观众甚至能看到拍摄时不存在的机位。传统MV拍摄，摄影机架在哪里，观众看到的就是哪个角度。现在用多台摄像机同时记录舞者动作，再重建出一个三维动态场景，镜头可以任意调换位置；从队形正面绕到侧面，穿过舞者之间，甚至换一个从未真正架设过的机位，重新观看刚才的表演。今年10月，韩国SM娱乐创始人李秀满在新女团A2O LITE的出道活动上，展示了这项名为4D Gaussian…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T24:50:00+08:00",
+      "fetchedAt": "2026-11-14T04:12:23+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "研究"
+      ],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "浙大彭思达：八年三维视觉研究，从元宇宙到具身智能",
+        "takeaway": "浙大研究者彭思达八年成果：两个落地系统、超六万GitHub Stars，技术已用于4D动态场景重建。",
+        "bullets": [
+          "彭思达研究三维视觉八年，产出两个落地系统和超六万GitHub Stars。",
+          "其4D Gaussian技术可重建动态三维场景，实现任意机位回放。",
+          "韩国SM娱乐创始人李秀满已用该技术展示新女团出道活动。"
+        ],
+        "detail": "浙大彭思达专注三维视觉八年，从元宇宙到具身智能，做出两个落地系统，GitHub累计超六万星。其4D Gaussian技术能多机位重建舞者三维动态，让观众自由切换视角。今年10月，李秀满已用该技术展示新女团A2O LITE的出道表演。",
+        "generatedAt": "2026-11-14T04:12:48+08:00"
+      }
     },
     {
       "id": "a1e895b935bb3a95",

@@ -24,10 +24,10 @@
     "lastOkDay": "2026-11-14"
   },
   "importai": {
-    "failDays": 10,
-    "lastFailDay": "2026-11-14",
-    "lastError": "HTTP 403",
-    "lastOkDay": "2026-11-05"
+    "failDays": 0,
+    "lastFailDay": null,
+    "lastError": null,
+    "lastOkDay": "2026-11-14"
   },
   "techcrunch-ai": {
     "failDays": 0,
@@ -90,9 +90,9 @@
     "lastOkDay": "2026-11-14"
   },
   "ifanr": {
-    "failDays": 0,
-    "lastFailDay": null,
-    "lastError": null,
+    "failDays": 1,
+    "lastFailDay": "2026-11-14",
+    "lastError": "请求超时",
     "lastOkDay": "2026-11-14"
   },
   "oschina": {
