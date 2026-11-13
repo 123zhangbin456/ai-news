@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T04:35:01+08:00",
+  "updatedAt": "2026-11-13T09:35:46+08:00",
   "items": [
     {
       "id": "a8d5fa7d24b3647f",
@@ -32,7 +32,7 @@
           "source": "Hacker News"
         }
       ],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Google DeepMind 发布 Gemini 4 Hydrogen 模型",
         "takeaway": "Google DeepMind 推出新一代 Gemini 4 Hydrogen，命名独特，但细节尚未公开。",
@@ -43,6 +43,43 @@
         ],
         "detail": "Google DeepMind 宣布推出 Gemini 4 Hydrogen，这是 Gemini 系列的新成员。官方仅公布名称，未透露功能、性能或开放时间等细节。",
         "generatedAt": "2026-11-13T04:34:46+08:00"
+      },
+      "pushedAt": "2026-11-13T09:35:46+08:00"
+    },
+    {
+      "id": "3a6e631e3bbad271",
+      "title": "【钛晨报】李强主持国务院第二十二次专题学习，聚焦健全多层次社会保障体系；英伟达换帅！黄仁勋辞任CEO，CFO克雷斯临时接棒；国内首个口服GLP-1类减肥药获批上市",
+      "url": "https://tmtpost.com/8203507.html",
+      "summary": "国家发改委：11月12日24时起汽、柴油价格每吨分别下调645元、625元；存储涨价潮仍将延续，产品需求现分化；美国FDA终止药物快速审评计划；张一鸣：字节AI最早2029年或2030年追平OpenAI与Anthropic；百度推出大模型交易平台词元所；腾讯相关知情人士：微信“看一看”正在小范围测试短剧入口；台积电回应“6.9GB员工资料外泄”：将向相关人员提供必要协助",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T07:20:00+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "上市"
+      ],
+      "confidence": 0,
+      "score": 58,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达CEO黄仁勋辞任，CFO克雷斯临时接棒",
+        "takeaway": "英伟达突发换帅，黄仁勋辞任CEO，CFO临时接任，公司战略与市场影响待观察。",
+        "bullets": [
+          "黄仁勋辞任英伟达CEO，CFO克雷斯临时接棒。",
+          "换帅消息与存储涨价、张一鸣AI预测等并列晨报。",
+          "英伟达未来战略走向及对AI芯片市场的影响受关注。"
+        ],
+        "detail": "钛媒体晨报称，英伟达CEO黄仁勋已辞任，由CFO克雷斯临时接任。同一晨报还提到存储涨价延续、张一鸣预测字节AI最早2029至2030年追平OpenAI与Anthropic等消息。",
+        "generatedAt": "2026-11-13T09:35:33+08:00"
       }
     },
     {
@@ -80,6 +117,42 @@
         ],
         "detail": "Amplitude主要基于OpenAI模型构建了主动式产品代理Wave。它能识别该开发什么，帮助团队用编码代理交付变更，并衡量影响，从而将产品改进周期缩短到1-2天。",
         "generatedAt": "2026-11-13T04:34:46+08:00"
+      }
+    },
+    {
+      "id": "8af226d2b9f4a115",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "url": "https://theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions an…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T05:55:32+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 0.5,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌发布 Gemini 4 Hydrogen，更擅长理解复杂问题",
+        "takeaway": "谷歌新模型能拆解多部分、含错别字或高度具体的提问，回答更实用。",
+        "bullets": [
+          "新模型名为 Gemini 4 Hydrogen，由谷歌发布。",
+          "擅长处理多部分问题、难懂错别字和高度具体请求。",
+          "能拆解用户问题，给出更有帮助的答案。"
+        ],
+        "detail": "谷歌称新模型 Gemini 4 Hydrogen 能更有效地回答复杂问题，包括包含多个部分、有难懂错别字或高度具体请求的提问。该模型可以拆解用户的问题，从而提供更有帮助的答案。",
+        "generatedAt": "2026-11-13T09:35:33+08:00"
       }
     },
     {
@@ -336,6 +409,43 @@
       }
     },
     {
+      "id": "9a08ae200d1d3d29",
+      "title": "早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口",
+      "url": "https://ifanr.com/1689292",
+      "summary": "· 接近腾讯人士称「裁员 50%」传闻不实，管理层提出两条 AI 转型路线 · 张雪：今年已经挣到了「一个小目标」 · Claude 10 月网站访问量增近 24%，增幅超过 ChatGPT 和 Gemini #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T08:00:46+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "英伟达"
+      ],
+      "confidence": 0.25,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋仍为英伟达最大个人股东；豆包工作接入第三方模型；微信测试短剧入口",
+        "takeaway": "爱范儿早报汇总：黄仁勋持股未变，豆包工作平台开放接入第三方模型，微信「看一看」测试短剧入口。",
+        "bullets": [
+          "黄仁勋仍为英伟达最大个人股东，持股情况未变。",
+          "豆包工作平台接入多款第三方模型，扩展模型选择。",
+          "微信「看一看」测试短剧入口，探索内容分发新形式。",
+          "接近腾讯人士称裁员50%传闻不实，管理层提出两条AI转型路线。"
+        ],
+        "detail": "爱范儿早报消息，黄仁勋仍是英伟达最大个人股东。豆包工作平台已接入多款第三方模型。微信「看一看」正在测试短剧入口。接近腾讯人士否认裁员50%传闻，并称管理层提出两条AI转型路线。",
+        "generatedAt": "2026-11-13T09:35:33+08:00"
+      }
+    },
+    {
       "id": "44722bd030259051",
       "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
       "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor",
@@ -408,6 +518,80 @@
       }
     },
     {
+      "id": "4e2810e47ea31ac4",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump",
+      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T06:42:51+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launch"
+      ],
+      "confidence": 0,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "民主党对英伟达启动调查，就黄仁勋与特朗普的“计划”发严厉信函",
+        "takeaway": "美国国会民主党人调查英伟达对华销售及其与特朗普的往来，系相关传闻曝光后第二起调查。",
+        "bullets": [
+          "民主党议员对英伟达启动国会调查，聚焦其对华销售。",
+          "调查还涉及黄仁勋与特朗普之间的往来。",
+          "这是相关传闻曝光后的第二起调查。"
+        ],
+        "detail": "美国国会民主党人宣布对英伟达展开调查，重点是其对华销售以及与特朗普的往来，并致信严厉批评黄仁勋与特朗普的“计划”。这是自相关间谍传闻曝光以来，针对英伟达的第二起调查。",
+        "generatedAt": "2026-11-13T09:35:35+08:00"
+      }
+    },
+    {
+      "id": "6e7f4ca7daf14e21",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Th…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T04:16:24+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip",
+        "chips",
+        "NVIDIA"
+      ],
+      "confidence": 0.61,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达私下承认可追踪芯片，反走私技术可行",
+        "takeaway": "英伟达向议员表示，芯片安全法案要求的反走私措施技术上可行，尽管业界公开质疑。",
+        "bullets": [
+          "英伟达代表向伊利诺伊州议员福斯特私下确认，追踪芯片技术上可行。",
+          "该措施是《芯片安全法案》要求的反走私手段。",
+          "业界此前公开质疑此类追踪的可行性。"
+        ],
+        "detail": "英伟达代表私下告诉伊利诺伊州议员比尔·福斯特，实施《芯片安全法案》所要求的反走私措施在技术上是可行的。福斯特在接受《麻省理工科技评论》采访时透露了这一消息。尽管业界公开质疑追踪芯片的可行性，英伟达私下承认了技术上的可能性。",
+        "generatedAt": "2026-11-13T09:35:35+08:00"
+      }
+    },
+    {
       "id": "f0476f4b70e90c24",
       "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
       "url": "https://theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
@@ -441,6 +625,42 @@
         ],
         "detail": "谷歌推出了名为Tabletop的实验性AI工具，能生成定制化的协作中心，帮助用户与家人朋友协调事务。该平台在视觉上与职场管理应用有相似之处，目前仍是实验项目。",
         "generatedAt": "2026-11-12T02:46:45+08:00"
+      }
+    },
+    {
+      "id": "bb5e9f110578a157",
+      "title": "Uncensored models are awesome",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xutb77/uncensored_models_are_awesome",
+      "summary": "Has anyone been experimenting with ablated or uncensored variants of open-source models like DeepSeek V4.1 Flash, Qwen 3.8 27B, or GLM 5.3 flash? It's so refreshing to have models that just do whatever you ask them to do without having to f…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T08:19:26+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 0.2,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开源社区热议无审查模型：让模型直接照做",
+        "takeaway": "用户讨论 DeepSeek、Qwen、GLM 等开源模型的无审查变体，看重其不加限制地执行指令。",
+        "bullets": [
+          "讨论聚焦 DeepSeek V4.1 Flash、Qwen 3.8 27B、GLM 5.3 flash 等开源模型的无审查或消融版本。",
+          "发帖者认为无需反复绕开限制、模型直接照做，体验更顺畅。",
+          "这类变体多由社区自行微调，合规与安全风险需自行评估。"
+        ],
+        "detail": "有用户在 LocalLLaMA 发帖，询问是否有人试过 DeepSeek V4.1 Flash、Qwen 3.8 27B、GLM 5.3 flash 等开源模型的消融版或无审查版。发帖者觉得，模型不加限制、直接按指令执行，用起来很省心。",
+        "generatedAt": "2026-11-13T09:35:37+08:00"
       }
     },
     {
@@ -517,6 +737,42 @@
       }
     },
     {
+      "id": "3cbdcee5dac1e73a",
+      "title": "Lawyer with too many GPUs, part 5: DeepSeek-V4.1-Flash at near-NVFP4 quality on eight V100s from 2018. 524K context, 100+ tok/s decode, ~160 tok/s with two chats at once, and my legal harness now runs on it, 100% local",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xus81t/lawyer_with_too_many_gpus_part_5_deepseekv41flash",
+      "summary": "From about February 2026 to July 2026, I spent an immense amount of time building a legal harness to make Claude more predictable. It worked well. I tried to build the same thing that ran local models. That did not work. And then Opus impro…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T07:31:29+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs"
+      ],
+      "confidence": 0.25,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "律师用8块2018年V100跑DeepSeek-V4.1-Flash，接近NVFP4质量",
+        "takeaway": "老V100显卡也能本地跑大模型，524K上下文、百token每秒，法律工具全本地化。",
+        "bullets": [
+          "用户用8块2018年V100运行DeepSeek-V4.1-Flash，质量接近NVFP4。",
+          "支持524K上下文，解码超100 tok/s，双对话约160 tok/s。",
+          "其法律工具链已完全迁移到该本地模型，100%本地运行。"
+        ],
+        "detail": "这位律师从2026年2月到7月花大量时间搭建法律工具链，让Claude更可控，效果不错。但把同样方案搬到本地模型时失败了，后来Opus改进后，他成功在8块老V100上跑起DeepSeek-V4.1-Flash，质量接近NVFP4，上下文达524K，解码速度超100 tok/s，双对话约160 tok/s，法律工具链现已",
+        "generatedAt": "2026-11-13T09:35:37+08:00"
+      }
+    },
+    {
       "id": "75e8b5158ffa2b00",
       "title": "No, AI agents did not discover a previously unknown Maya site",
       "url": "https://theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
@@ -587,6 +843,40 @@
       }
     },
     {
+      "id": "82d9be95873a98db",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay",
+      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T06:22:28+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Muse AI 可代打电话给美国商家，但需付费",
+        "takeaway": "Muse 的 AI 现在能主动致电美国企业，但这是一项付费功能，标志着 AI 语音代理进入实用阶段。",
+        "bullets": [
+          "Muse AI 新增外呼功能，可代用户致电美国商家",
+          "该功能并非免费，需付费使用",
+          "面向美国市场，可能影响客服与预约等场景"
+        ],
+        "detail": "Muse 的 AI 现在可以主动给美国商家打电话了，但这项服务不是免费的。用户需要付费才能使用该功能，它可能用于预约、咨询等场景。",
+        "generatedAt": "2026-11-13T09:35:37+08:00"
+      }
+    },
+    {
       "id": "b19430df4313f879",
       "title": "MoE and expert offloading on llama, exllamav3, strata on 9070XT",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xun15v/moe_and_expert_offloading_on_llama_exllamav3",
@@ -620,6 +910,150 @@
         ],
         "detail": "作者表示自己并非专家，只是在前人成果基础上继续尝试。他参考了社区里 Qwen3 27B 在单张 RX 9070 XT 上达到 150 tok/s 的帖子，测试了 llama、exllamav3 和 strata 在 MoE 模型上的专家卸载效果，探索消费级 AMD 显卡本地跑大模型的可行性。",
         "generatedAt": "2026-11-13T04:34:58+08:00"
+      }
+    },
+    {
+      "id": "fc0f425d4885ad33",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
+      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T05:27:10+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "billion"
+      ],
+      "confidence": 0,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Nebius 拟投 400 亿美元建 AI 基础设施，靠预付款和贷款融资",
+        "takeaway": "Nebius 用客户预付款和贷款支撑 400 亿美元扩张，但微软数据中心延期引发融资模式质疑。",
+        "bullets": [
+          "Nebius 计划投入 400 亿美元扩建 AI 基础设施",
+          "资金主要来自客户预付款和贷款",
+          "微软数据中心项目延期，令其融资模式受质疑"
+        ],
+        "detail": "Nebius 打算通过客户预付款和贷款来筹集 400 亿美元，用于 AI 基础设施扩张。但微软数据中心出现延期，这让外界开始质疑其融资模式是否可行。",
+        "generatedAt": "2026-11-13T09:35:39+08:00"
+      }
+    },
+    {
+      "id": "dce5e82d2a55a425",
+      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+      "url": "https://wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in",
+      "summary": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T06:14:41+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋卸任英伟达，竞争对手能否借机崛起？",
+        "takeaway": "英伟达CEO黄仁勋辞职，引发公司未来与AI行业格局的猜测，对手或迎机会。",
+        "bullets": [
+          "黄仁勋从英伟达卸任，具体原因未在摘要中说明。",
+          "英伟达作为AI芯片龙头，领导层变动可能影响其战略方向。",
+          "竞争对手或借机争夺市场份额，AI芯片格局可能生变。"
+        ],
+        "detail": "在《Uncanny Valley》特辑中，节目分析了黄仁勋从英伟达辞职一事，探讨了公司下一步走向以及AI行业未来的发展。",
+        "generatedAt": "2026-11-13T09:35:39+08:00"
+      }
+    },
+    {
+      "id": "ec2785f219cccfbb",
+      "title": "Edge0-145B: Open-Source On-Device AI with 145B Parameters",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xuuq0b/edge0145b_opensource_ondevice_ai_with_145b",
+      "summary": "submitted by /u/BrightCandle [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T09:25:20+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Edge0-145B：1450亿参数的开源端侧AI模型",
+        "takeaway": "开源社区推出145B参数端侧模型，探索大模型在本地设备运行的可能。",
+        "bullets": [
+          "模型名为Edge0-145B，参数规模达1450亿",
+          "定位为开源、可在设备端运行的AI",
+          "消息来自r/LocalLLaMA社区讨论"
+        ],
+        "detail": "r/LocalLLaMA社区出现一个名为Edge0-145B的开源项目，号称是拥有1450亿参数的端侧AI模型。帖子仅提供标题和链接，未披露技术细节或实测表现，其实际能否在本地设备运行尚待验证。",
+        "generatedAt": "2026-11-13T09:35:40+08:00"
+      }
+    },
+    {
+      "id": "d40fca9fd5e12c4b",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity",
+      "summary": "Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/ Comments URL: https://news.ycombinator.com/item?id=50472260 Points: 294 # Comments: 70",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T02:52:01+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌发布 Gemini 4 Hydrogen 与 Orchestrator",
+        "takeaway": "谷歌在 Antigravity 博客发布 Gemini 4 Hydrogen 及 Orchestrator，登上 Hacker News 热榜。",
+        "bullets": [
+          "谷歌推出 Gemini 4 Hydrogen 模型，并配套 Orchestrator 组件",
+          "消息来自谷歌 Antigravity 官方博客，属模型发布类动态",
+          "Hacker News 上获 294 分、70 条评论，关注度较高"
+        ],
+        "detail": "谷歌在 Antigravity 博客上发布了 Gemini 4 Hydrogen，同时推出名为 Orchestrator 的配套组件。该消息在 Hacker News 上引发讨论，获得 294 分和 70 条评论，但摘要未披露模型能力、发布时间等具体细节。",
+        "generatedAt": "2026-11-13T09:35:40+08:00"
       }
     },
     {
@@ -853,6 +1287,79 @@
       "pushed": false
     },
     {
+      "id": "c1ba94011bd64caa",
+      "title": "Gemini 4 Hydrogen来了，所有人都能用",
+      "url": "https://tmtpost.com/8203746.html",
+      "summary": "终于不光卷跑分了。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T09:17:46+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gemini 4 Hydrogen 发布，向所有人开放",
+        "takeaway": "谷歌推出 Gemini 4 Hydrogen，不再只拼跑分，普通用户也能直接用。",
+        "bullets": [
+          "谷歌发布新一代模型 Gemini 4 Hydrogen",
+          "所有用户均可使用，不再限于特定群体",
+          "官方强调不再只卷跑分，转向实际体验"
+        ],
+        "detail": "谷歌正式发布 Gemini 4 Hydrogen 模型，并宣布向所有用户开放。官方释放的信号是，这次不再只追求跑分成绩，而是更注重实际可用性。",
+        "generatedAt": "2026-11-13T09:35:40+08:00"
+      }
+    },
+    {
+      "id": "a7f19341134c8030",
+      "title": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
+      "url": "https://ifanr.com/1689267",
+      "summary": "更快更便宜还更聪明 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T07:11:11+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "新模型",
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gemini 4 新模型发布，人人可用",
+        "takeaway": "谷歌推出 Gemini 4 新模型，主打更快更便宜更聪明，且向所有人开放。",
+        "bullets": [
+          "Gemini 4 新模型正式发布，面向所有用户开放",
+          "官方称其速度更快、成本更低、能力更强",
+          "此前受限用户现可直接使用该模型"
+        ],
+        "detail": "谷歌发布 Gemini 4 新模型，强调在速度、价格和智能水平上均有提升。该模型不再设限，普通用户也能直接使用。",
+        "generatedAt": "2026-11-13T09:35:42+08:00"
+      }
+    },
+    {
       "id": "6736945d4ac448cd",
       "title": "Jensen Huang’s $470 Billion Affair",
       "url": "https://wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair",
@@ -928,6 +1435,79 @@
       "pushed": false
     },
     {
+      "id": "df0f04a53737f5af",
+      "title": "Silicon Valley Is Still Defending Jensen Huang",
+      "url": "https://wired.com/story/silicon-valley-is-still-defending-jensen-huang",
+      "summary": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T06:29:43+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip",
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋突然辞职，硅谷仍不愿相信",
+        "takeaway": "英伟达员工与科技圈对黄仁勋辞职感到意外，许多人仍处于否认状态。",
+        "bullets": [
+          "英伟达员工和科技内部人士从未想过这位芯片之王会丢掉工作。",
+          "黄仁勋突然辞职后，许多人仍不愿接受这一事实。",
+          "事件引发外界对英伟达未来走向的关注。"
+        ],
+        "detail": "英伟达员工和科技圈内部人士一直认为黄仁勋不会离开公司。尽管他突然辞去职务，但许多人仍难以接受这一现实，表现出否认的态度。",
+        "generatedAt": "2026-11-13T09:35:42+08:00"
+      }
+    },
+    {
+      "id": "da98f7d95f7d5455",
+      "title": "Jensen Huang's mistake was being too pro LocalAI, which was a threat to companies like ClosedAI and Anthropic which are about to go IPO",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xujb7c/jensen_huangs_mistake_was_being_too_pro_localai",
+      "summary": "submitted by /u/Limp_Classroom_2645 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T01:43:09+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋被指过于支持本地AI，或威胁即将IPO的闭源公司",
+        "takeaway": "社区观点认为，英伟达对本地AI的倾斜可能触怒准备上市的闭源AI公司，引发利益博弈。",
+        "bullets": [
+          "Reddit网友称黄仁勋‘太支持LocalAI’是个错误。",
+          "该观点认为本地AI威胁ClosedAI、Anthropic等闭源公司。",
+          "这些闭源公司据称正筹备IPO，利益冲突受关注。"
+        ],
+        "detail": "在Reddit的LocalLLaMA板块，有用户发帖称英伟达CEO黄仁勋的错误在于过于支持本地AI，这对ClosedAI和Anthropic等闭源公司构成威胁，而这些公司即将进行IPO。帖子未提供具体证据，属于社区观点讨论。",
+        "generatedAt": "2026-11-13T09:35:43+08:00"
+      }
+    },
+    {
       "id": "b5b1e8f149e47936",
       "title": "Ars Live: Can the cloud survive drone strikes on data centers?",
       "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers",
@@ -949,6 +1529,178 @@
       ],
       "confidence": 1,
       "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e94b957965237b81",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T06:28:47+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tool"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "FAA将AI建议工具扩展至全美空域，管理空中交通拥堵",
+        "takeaway": "美国联邦航空管理局扩大AI工具使用范围，以缓解全美空域拥堵，但空管工会未参与引发关注。",
+        "bullets": [
+          "FAA将AI建议工具从局部扩展至全美空域，用于管理交通拥堵。",
+          "航空公司对该工具表示赞赏，认为有助于提升效率。",
+          "空管工会未被纳入相关过程，可能引发劳资争议。"
+        ],
+        "detail": "美国联邦航空管理局（FAA）将其AI建议工具的使用范围扩大到全美空域，以帮助管理空中交通拥堵。航空公司对此表示欢迎，但空中交通管制员工会并未参与该工具的推广过程。",
+        "generatedAt": "2026-11-13T09:35:44+08:00"
+      }
+    },
+    {
+      "id": "d02a69b3c75f5982",
+      "title": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+      "url": "https://infoq.cn/article/joYjCTbwWFSkbACK5lje",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T17:17:00+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌发布 LiteRT Tensor API，简化端侧模型构建与优化",
+        "takeaway": "谷歌为端侧机器学习推出新 API，开发者可更灵活地构建和调优设备端模型。",
+        "bullets": [
+          "谷歌推出 LiteRT Tensor API，面向端侧机器学习",
+          "支持模型的构建、定制与优化",
+          "面向需要在设备本地运行模型的开发者"
+        ],
+        "detail": "谷歌发布 LiteRT Tensor API，目标是让开发者更方便地构建、定制和优化在设备端运行的机器学习模型。该 API 属于 LiteRT 体系，具体能力与适用范围以官方原文为准。",
+        "generatedAt": "2026-11-13T09:35:44+08:00"
+      }
+    },
+    {
+      "id": "53632fc1e891e8fd",
+      "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
+      "url": "https://wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech",
+      "summary": "A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T04:35:11+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5cc1cd5ec2413793",
+      "title": "美国天然气巨头，开始抢电力公司的AI客户",
+      "url": "https://tmtpost.com/8203683.html",
+      "summary": "美国版本的魏桥模式？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T09:18:01+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "客户"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d096a8a420fb437e",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 153 # Comments: 42",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T05:56:11+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "20c0e7a9e7900d95",
+      "title": "I built a benchmark where LLMs reverse-engineer an audio codec, and the benchmark evolves",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xupf99/i_built_a_benchmark_where_llms_reverseengineer_an",
+      "summary": "Most coding benchmarks feel like textbook coding tasks or black boxes — either easy to benchmaxx or full of hidden tasks with unclear evaluation criteria. And most of them get irrelevant with each new model generation because all of the new…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T05:34:05+08:00",
+      "fetchedAt": "2026-11-13T09:35:23+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "benchmark",
+        "benchmarks",
+        "evaluation"
+      ],
+      "confidence": 1,
+      "score": 30,
       "related": [],
       "pushed": false
     }
