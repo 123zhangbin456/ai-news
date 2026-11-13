@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T11:41:23+08:00",
+  "updatedAt": "2026-11-13T19:38:51+08:00",
   "items": [
     {
       "id": "a8d5fa7d24b3647f",
@@ -629,6 +629,44 @@
       }
     },
     {
+      "id": "1d0f96b5005b9802",
+      "title": "英伟达博客发声：她不一样，她懂显卡 ( bushi )，她懂端到端！",
+      "url": "https://leiphone.com/category/ai/1jG5k34DSlHSSJE9.html",
+      "summary": "她叫Alpamayo 2 Edge，因果推理结合扩散动作，端到端输出闭环表现提升 48.9%。作者丨郑佳美编辑丨岑峰点开前，你以为老黄家的惊天大瓜又有了什么后续； 点开后才发现：这个“她”连人都不是。她叫 Alpamayo 2 Edge。英伟达11月10日刚发布出来的一款端到端自动驾驶模型。VLM 骨干约 2.45B、动作专家约 0.2B，跑在车规级芯片 DRIVE AGX Thor 上。但“懂端到端”这四个字，还真不是标题党蹭流量。在各路AI疯狂“嘴替”、大模型疯狂自言自语…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T15:49:00+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "显卡",
+        "英伟达"
+      ],
+      "confidence": 0.83,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达发布端到端自动驾驶模型Alpamayo 2 Edge",
+        "takeaway": "英伟达推出新模型，因果推理结合扩散动作，闭环表现提升48.9%，跑在车规芯片上。",
+        "bullets": [
+          "模型名为Alpamayo 2 Edge，是端到端自动驾驶模型。",
+          "VLM骨干约2.45B，动作专家约0.2B，部署于DRIVE AGX Thor。",
+          "闭环表现提升48.9%，体现端到端能力。"
+        ],
+        "detail": "英伟达11月10日发布端到端自动驾驶模型Alpamayo 2 Edge，它结合因果推理与扩散动作，直接输出控制指令。模型由约2.45B的VLM骨干和约0.2B的动作专家组成，运行在车规级芯片DRIVE AGX Thor上，闭环表现提升48.9%。",
+        "generatedAt": "2026-11-13T19:38:42+08:00"
+      }
+    },
+    {
       "id": "f0476f4b70e90c24",
       "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
       "url": "https://theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
@@ -698,6 +736,44 @@
         ],
         "detail": "有用户在 LocalLLaMA 发帖，询问是否有人试过 DeepSeek V4.1 Flash、Qwen 3.8 27B、GLM 5.3 flash 等开源模型的消融版或无审查版。发帖者觉得，模型不加限制、直接按指令执行，用起来很省心。",
         "generatedAt": "2026-11-13T09:35:37+08:00"
+      }
+    },
+    {
+      "id": "48a3214bd8ba72a8",
+      "title": "Artificial Analysis updated Qwen 3.8 Flash Next score as 29",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xuxzfs/artificial_analysis_updated_qwen_38_flash_next",
+      "summary": "Between GPT-6 Luna Max (28) and Claude Haiku 5.5 High (30). Comparing to other Qwen 3.8, the model is closer to max (34) than to 27B (20). https://artificialanalysis.ai/models/qwen3-8-flash-next submitted by /u/lionellee77 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T12:06:06+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT",
+        "Claude",
+        "Qwen"
+      ],
+      "confidence": 0.5,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 Flash Next 在 Artificial Analysis 得分 29",
+        "takeaway": "新模型得分介于 GPT-6 Luna Max 与 Claude Haiku 5.5 High 之间，定位中端。",
+        "bullets": [
+          "Artificial Analysis 给 Qwen 3.8 Flash Next 打出 29 分。",
+          "该分数高于 GPT-6 Luna Max 的 28 分，低于 Claude Haiku 5.5 High 的 30 分。",
+          "在同系列中，它更接近 Qwen 3.8 Max 的 34 分，而非 27B 的 20 分。"
+        ],
+        "detail": "Artificial Analysis 更新了 Qwen 3.8 Flash Next 的评测分数为 29。这一成绩排在 GPT-6 Luna Max（28）和 Claude Haiku 5.5 High（30）之间。与自家 Qwen 3.8 系列相比，它更靠近 Max 版的 34 分，明显高于 27B 版的 20 分",
+        "generatedAt": "2026-11-13T19:38:42+08:00"
       }
     },
     {
@@ -807,6 +883,43 @@
         ],
         "detail": "这位律师从2026年2月到7月花大量时间搭建法律工具链，让Claude更可控，效果不错。但把同样方案搬到本地模型时失败了，后来Opus改进后，他成功在8块老V100上跑起DeepSeek-V4.1-Flash，质量接近NVFP4，上下文达524K，解码速度超100 tok/s，双对话约160 tok/s，法律工具链现已",
         "generatedAt": "2026-11-13T09:35:37+08:00"
+      }
+    },
+    {
+      "id": "0cae22b208acde47",
+      "title": "Anthropic想给算力债“找下家”",
+      "url": "https://tmtpost.com/8203967.html",
+      "summary": "为了5180亿美元的“算力房租”，Anthropic冲击史上最大IPO。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T17:56:33+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO",
+        "亿美元"
+      ],
+      "confidence": 0.38,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic为5180亿美元算力债冲刺史上最大IPO",
+        "takeaway": "Anthropic拟通过IPO转嫁巨额算力成本，若成行将创史上最大IPO纪录。",
+        "bullets": [
+          "Anthropic背负5180亿美元算力相关债务，被形容为“算力房租”。",
+          "公司计划冲击史上最大规模IPO，以缓解算力成本压力。",
+          "此举将AI算力投入与资本市场深度绑定，引发关注。"
+        ],
+        "detail": "Anthropic因高达5180亿美元的算力支出压力，正计划进行史上最大规模IPO，试图将这笔“算力房租”转嫁给公开市场投资者。若成功，这将成为科技行业最大上市事件之一，也凸显AI公司对算力的巨额资金需求。",
+        "generatedAt": "2026-11-13T19:38:42+08:00"
       }
     },
     {
@@ -948,6 +1061,40 @@
         ],
         "detail": "11月12日百度世界大会期间，百度与商用服务机器人企业普渡科技达成战略合作。百度智能云为普渡提供模型训练的基础设施和云服务，普渡则自主训练具身基座模型、完善多元场景数据并升级智能体平台，双方还将在产业生态上协同。",
         "generatedAt": "2026-11-13T11:41:22+08:00"
+      }
+    },
+    {
+      "id": "36b3e279b41bbd22",
+      "title": "奥运史上第一次，一朵云整体留给了举办国",
+      "url": "https://infoq.cn/article/7Wih8vL541W3vkq1WAHi",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T22:21:31+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "奥运史上首次：一朵云整体留给举办国",
+        "takeaway": "奥运云资源首次整体移交举办国，标志大型赛事技术遗产从临时租用转向长期留存。",
+        "bullets": [
+          "奥运云资源首次整体留给举办国，而非赛后拆除。",
+          "涉及赛事技术基础设施的长期归属与再利用。",
+          "可能影响未来大型赛事的技术遗产规划模式。"
+        ],
+        "detail": "InfoQ 中国报道，奥运史上第一次将一朵云整体留给举办国。这意味着赛事使用的云基础设施不再赛后拆除，而是作为技术遗产长期保留，供举办国后续使用。",
+        "generatedAt": "2026-11-13T19:38:43+08:00"
       }
     },
     {
@@ -1128,6 +1275,44 @@
         ],
         "detail": "谷歌在 Antigravity 博客上发布了 Gemini 4 Hydrogen，同时推出名为 Orchestrator 的配套组件。该消息在 Hacker News 上引发讨论，获得 294 分和 70 条评论，但摘要未披露模型能力、发布时间等具体细节。",
         "generatedAt": "2026-11-13T09:35:40+08:00"
+      }
+    },
+    {
+      "id": "865f5eddb0b2986c",
+      "title": "独家丨腾讯 AI 李牧青离职，出任 AI 公司联席 CEO",
+      "url": "https://leiphone.com/category/industrynews/xfpQo71RiPDWJHvS.html",
+      "summary": "雷峰网独家获悉，近日，腾讯云 AI 全球业务负责人李牧青，正式出任教育 AI 科技公司启鸣达人联席 CEO。雷峰网了解到，李牧青本科、硕士毕业于上海交通大学，曾任 UCLA 访问学者。2016 年，他加入依图科技，主导早期 AI 产业化体系的建设，亲历「AI 四小龙」从初创走向鼎盛。 2018 年，李牧青加入腾讯优图，出任首席方案架构师，负责计算机视觉技术的落地。此后分别担任腾讯云智能总架构师、腾讯云智能副总经理、腾讯云 AI 全球业务负责人。在腾讯期间，他带领团队在二十多个…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T11:43:00+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "离职",
+        "加入",
+        "CEO"
+      ],
+      "confidence": 0.8,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "腾讯云 AI 全球业务负责人李牧青离职，出任启鸣达人联席 CEO",
+        "takeaway": "腾讯云 AI 业务高管李牧青跳槽至教育 AI 公司启鸣达人担任联席 CEO，反映 AI 人才向垂直领域流动。",
+        "bullets": [
+          "李牧青曾任腾讯云 AI 全球业务负责人，负责计算机视觉落地与全球业务。",
+          "他此前在依图科技主导 AI 产业化，亲历“AI 四小龙”发展。",
+          "新东家启鸣达人是教育 AI 科技公司，李牧青出任联席 CEO。"
+        ],
+        "detail": "雷峰网独家消息，腾讯云 AI 全球业务负责人李牧青已离职，正式加入教育 AI 公司启鸣达人担任联席 CEO。他毕业于上海交通大学，曾为 UCLA 访问学者，2016 年加入依图科技主导 AI 产业化，2018 年进入腾讯优图，历任首席方案架构师、腾讯云智能总架构师、副总经理等职。",
+        "generatedAt": "2026-11-13T19:38:43+08:00"
       }
     },
     {
@@ -1434,6 +1619,78 @@
       }
     },
     {
+      "id": "22bcd83804c6c356",
+      "title": "Claude Is Down",
+      "url": "https://status.claude.com/history",
+      "summary": "Article URL: https://status.claude.com/history Comments URL: https://news.ycombinator.com/item?id=50481220 Points: 101 # Comments: 83",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T18:20:09+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude 服务出现故障，官方状态页记录中断",
+        "takeaway": "Anthropic 的 Claude 服务发生宕机，用户无法正常使用，引发 Hacker News 热议。",
+        "bullets": [
+          "Claude 服务中断，官方状态页已记录此次故障",
+          "Hacker News 上相关讨论获得 101 分、83 条评论",
+          "故障影响范围与恢复时间尚未在摘要中说明"
+        ],
+        "detail": "Claude 状态页面显示服务出现故障，导致用户无法正常访问。该消息在 Hacker News 上引发关注，评论数已达 83 条，但摘要未提及具体原因和修复进展。",
+        "generatedAt": "2026-11-13T19:38:44+08:00"
+      }
+    },
+    {
+      "id": "44da454e7900959c",
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 199 # Comments: 146",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T18:18:13+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude 多项服务出现异常报错，官方状态页通报",
+        "takeaway": "claude.ai、Claude Code 与平台站同时报错，开发者与用户受影响，官方已挂出事故通告。",
+        "bullets": [
+          "受影响范围包括 claude.ai、Claude Code 和 platform.claude.com",
+          "官方状态页已发布事故通告，HN 讨论热度较高",
+          "依赖 Claude 的编程与 API 工作流可能中断"
+        ],
+        "detail": "Claude 的网页版、编程工具 Claude Code 以及开发者平台同时出现错误率升高。官方状态页已登记该事故，Hacker News 上相关讨论获得近 200 点热度，说明不少用户和开发者受到影响。",
+        "generatedAt": "2026-11-13T19:38:45+08:00"
+      }
+    },
+    {
       "id": "6736945d4ac448cd",
       "title": "Jensen Huang’s $470 Billion Affair",
       "url": "https://wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair",
@@ -1482,6 +1739,43 @@
       "score": 39,
       "related": [],
       "pushed": false
+    },
+    {
+      "id": "6e4c442c89ec2330",
+      "title": "ID. ERA 5X上市，限时权益价9.99万元起",
+      "url": "https://leiphone.com/category/transportation/Uxxem2Ha3zzVNdv9.html",
+      "summary": "近日，上汽大众ID. ERA 5X正式上市，新车共推出Pro、Pro+、Max、Ultra四款车型。限时权益价为 9 . 99 万元— 13 . 99 万元。作为一款面向年轻人与家庭用户的都市纯电SUV，ID. ERA 5X是大众CMP+CEA+ADAS全球首款量产车，全系标配4纳米MTK8676车规级芯片与豆包大模型2.0，并搭载行云智能辅助驾驶系统，融合中国原生智能技术与大众全球标准，兼顾智能体验与家庭出行需求。同时，针对用户关注的纯电车型残值问题，新车推出基于限时权益价…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T11:16:00+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "上市"
+      ],
+      "confidence": 0.5,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "上汽大众ID. ERA 5X上市，限时9.99万元起",
+        "takeaway": "大众全球首款CMP+CEA+ADAS量产车，标配豆包大模型，主打年轻家庭纯电SUV。",
+        "bullets": [
+          "推出Pro、Pro+、Max、Ultra四款车型，限时权益价9.99万至13.99万元",
+          "全系标配4纳米MTK8676车规芯片与豆包大模型2.0",
+          "搭载行云智能辅助驾驶系统，融合中国原生技术与大众全球标准",
+          "针对纯电残值问题推出基于限时权益价的配套方案"
+        ],
+        "detail": "上汽大众ID. ERA 5X正式上市，定位都市纯电SUV，面向年轻人和家庭用户。它是大众CMP+CEA+ADAS全球首款量产车，全系标配4纳米MTK8676车规芯片和豆包大模型2.0，并搭载行云智能辅助驾驶系统。新车还针对纯电车型残值问题推出了基于限时权益价的方案。",
+        "generatedAt": "2026-11-13T19:38:46+08:00"
+      }
     },
     {
       "id": "08abc03215360f9e",
@@ -1579,6 +1873,81 @@
         ],
         "detail": "在Reddit的LocalLLaMA板块，有用户发帖称英伟达CEO黄仁勋的错误在于过于支持本地AI，这对ClosedAI和Anthropic等闭源公司构成威胁，而这些公司即将进行IPO。帖子未提供具体证据，属于社区观点讨论。",
         "generatedAt": "2026-11-13T09:35:43+08:00"
+      }
+    },
+    {
+      "id": "e8322f859eabe0d4",
+      "title": "llama.cpp : bump version to 1.0.0 by ggerganov · Pull Request #32190 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xv3cyt/llamacpp_bump_version_to_100_by_ggerganov_pull",
+      "summary": "llama.cpp is now 1.0.0 (maybe there will be some additional announcement? I couldn't find it now) submitted by /u/jacek2023 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T17:22:15+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 版本号升至 1.0.0，本地推理框架迎来里程碑",
+        "takeaway": "ggerganov 提交 PR 将 llama.cpp 版本号提升至 1.0.0，标志这一本地大模型推理项目进入正式版阶段。",
+        "bullets": [
+          "ggerganov 提交 PR #32190，将 llama.cpp 版本号改为 1.0.0",
+          "项目由 ggml-org 维护，是本地运行大模型的主流工具",
+          "发帖者称暂未找到官方公告，可能后续还有说明"
+        ],
+        "detail": "llama.cpp 的版本号被提升到 1.0.0，相关改动由作者 ggerganov 以 PR 形式提交。发帖的网友表示目前还没看到配套的正式公告，猜测之后可能会有更多说明。这意味着这个广泛使用的本地推理项目迈过了 1.0 门槛。",
+        "generatedAt": "2026-11-13T19:38:46+08:00"
+      }
+    },
+    {
+      "id": "08d2761800f87217",
+      "title": "黄仁勋辞任英伟达 CEO，CFO 接任临时掌门",
+      "url": "https://oschina.net/news/503568/nvidia-announces-ceo-transition",
+      "summary": "英伟达 11 月 12 日宣布，联合创始人黄仁勋辞去 CEO 职务。CFO 科莱特·克雷斯（Colette Kress）出任临时 CEO。一家 4 万亿美元的公司，在 AI 投资周期最关键的节点上，暂时由一位财务背景的高管掌舵。这是一个 33 年的句号。黄仁勋 1993 年参与创办英伟达，把它从做游戏显卡的公司带成了市值 4 万亿美元的 AI 算力中枢...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T16:39:45+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力",
+        "显卡",
+        "英伟达"
+      ],
+      "confidence": 0.53,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋辞任英伟达CEO，CFO克雷斯临时接任",
+        "takeaway": "执掌33年的黄仁勋在AI投资关键节点卸任，财务背景的CFO暂掌4万亿美元巨头。",
+        "bullets": [
+          "英伟达11月12日宣布，联合创始人黄仁勋辞去CEO职务",
+          "CFO科莱特·克雷斯出任临时CEO，公司暂由财务高管掌舵",
+          "黄仁勋1993年参与创办英伟达，将其带成4万亿美元AI算力中枢",
+          "交接发生在AI投资周期最关键节点，后续正式CEO人选受关注"
+        ],
+        "detail": "英伟达11月12日宣布，联合创始人黄仁勋辞去CEO一职，由CFO科莱特·克雷斯担任临时CEO。黄仁勋1993年参与创办公司，用33年把英伟达从游戏显卡厂商做成市值4万亿美元的AI算力核心。此次交接正值AI投资周期关键节点，一家如此体量的公司暂时由财务背景高管掌舵，引发外界关注。",
+        "generatedAt": "2026-11-13T19:38:47+08:00"
       }
     },
     {
@@ -1785,6 +2154,148 @@
       }
     },
     {
+      "id": "eb3c00e91c593861",
+      "title": "在银行业为基于 Kubernetes 的平台打造云原生文化",
+      "url": "https://infoq.cn/article/AVoPIHgU8BvWY12j1sQ5",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T23:18:00+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "银行业如何为Kubernetes平台培育云原生文化",
+        "takeaway": "InfoQ分享银行业基于Kubernetes平台建设云原生文化的实践，对金融科技转型有参考价值。",
+        "bullets": [
+          "主题是银行业在Kubernetes平台上打造云原生文化",
+          "涉及组织文化、流程与技术的协同转变",
+          "对金融机构云原生转型有借鉴意义"
+        ],
+        "detail": "InfoQ中国发文探讨银行业如何围绕基于Kubernetes的平台构建云原生文化。文章聚焦金融行业在采用容器平台时，如何推动团队文化、协作方式与工程实践同步转型。",
+        "generatedAt": "2026-11-13T19:38:49+08:00"
+      }
+    },
+    {
+      "id": "f2f7afc0276d4740",
+      "title": "应用只是冰山一角：构建大规模移动应用基础设施需要什么",
+      "url": "https://infoq.cn/article/oKGTGPNZuleM61QqQOVf",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T21:00:00+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "应用"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "移动应用背后：大规模基础设施构建之道",
+        "takeaway": "InfoQ 探讨构建大规模移动应用基础设施的关键要素，揭示应用背后的复杂工程。",
+        "bullets": [
+          "移动应用只是冰山一角，基础设施才是支撑大规模应用的关键。",
+          "文章可能涉及架构设计、可扩展性、运维等核心挑战。",
+          "对开发者和技术决策者具有参考价值。"
+        ],
+        "detail": "InfoQ 中国发文讨论构建大规模移动应用所需的基础设施，指出应用本身只是冰山一角。文章可能涵盖后端架构、可扩展性、运维等工程实践，为开发者提供参考。",
+        "generatedAt": "2026-11-13T19:38:49+08:00"
+      }
+    },
+    {
+      "id": "638d2f55f68e80ac",
+      "title": "中金公司与蚂蚁集团达成战略合作共探AI赋能财富管理",
+      "url": "https://leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html",
+      "summary": "11月13日，中国国际金融股份有限公司（简称“中金公司”）与蚂蚁科技集团股份有限公司（简称“蚂蚁集团”）签署战略合作协议。双方将结合中金公司在专业投研、金融服务等方面的积累，以及蚂蚁集团在人工智能、行业生态、客户运营等方面的优势，围绕金融大模型技术创新、AI赋能财富管理、客户全生命周期服务等领域开展合作，共同探索“AI+金融”创新路径。中金公司党委副书记、副董事长、总裁王曙光（右二），蚂蚁集团首席执行官、蚂蚁数科董事长韩歆毅（左二）出席并见证签约仪式。中金公司党委委员、中金财…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T17:05:00+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "客户"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "中金与蚂蚁集团战略合作，共探AI赋能财富管理",
+        "takeaway": "券商投研能力与蚂蚁AI技术结合，探索金融大模型和智能财富管理新路径。",
+        "bullets": [
+          "中金与蚂蚁集团签署战略合作协议",
+          "围绕金融大模型、AI财富管理展开合作",
+          "双方高层出席签约，探索AI+金融创新"
+        ],
+        "detail": "11月13日，中金公司与蚂蚁集团签署战略合作协议。双方将结合中金的投研与金融服务积累，以及蚂蚁在人工智能、生态和客户运营上的优势，在金融大模型、AI赋能财富管理、客户全生命周期服务等领域合作，探索“AI+金融”创新路径。",
+        "generatedAt": "2026-11-13T19:38:49+08:00"
+      }
+    },
+    {
+      "id": "4fbbaeabd93c18c4",
+      "title": "通用代码生成器光船，特默尔尝鲜版二，人工智能设置项目会话",
+      "url": "https://oschina.net/news/503572",
+      "summary": "通用代码生成器光船，特默尔尝鲜版二，人工智能设置项目会话通用代码生成器光船已发布1.1.0特默尔尝鲜版二。特默尔尝鲜版二支持人工智能生成会话和项目设置功能。相关视频请见： https://www.bilibili.com/video/BV1ZMW26dEdS/ 通用代码生成器光船，特默尔尝鲜版二项目地址： https://gitee.com/jerryshensjf/LightBoat...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T17:32:32+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0.33,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "通用代码生成器光船发布1.1.0特默尔尝鲜版二",
+        "takeaway": "光船新尝鲜版加入AI生成会话与项目设置功能，值得关注代码生成工具智能化进展。",
+        "bullets": [
+          "光船发布1.1.0特默尔尝鲜版二，属尝鲜版本",
+          "新增人工智能生成会话和项目设置功能",
+          "项目托管于Gitee，并提供B站演示视频"
+        ],
+        "detail": "通用代码生成器光船推出1.1.0特默尔尝鲜版二，该版本支持用人工智能生成会话以及进行项目设置。官方在B站发布了相关演示视频，项目源码托管在Gitee平台。",
+        "generatedAt": "2026-11-13T19:38:50+08:00"
+      }
+    },
+    {
       "id": "53632fc1e891e8fd",
       "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
       "url": "https://wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech",
@@ -1802,6 +2313,31 @@
       "fetchedAt": "2026-11-13T09:35:23+08:00",
       "category": "其他",
       "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d24ed7da0cf058b7",
+      "title": "京博控股集团与千问办公达成战略合作，共创化工行业AI Native标杆",
+      "url": "https://leiphone.com/category/industrynews/TVkq6K4xkcX9zKSN.html",
+      "summary": "近日，京博控股集团与千问办公达成战略合作，明确全集团将基于千问办公打造AI Native组织。后续双方将围绕科研创新、生产运营优化、经营分析、流程组织重构等核心场景展开合作，共同探索化工行业的智能化升级路径。京博控股集团执行董事、首席轮值总裁栾波，集团轮值总裁兼海外总裁汪君华和千问办公CEO陈宇森等共同出席了本次战略合作签约仪式。图示京博控股集团和千问办公战略合作签约现场京博控股集团是中国500强企业，向全球50余个国家和地区提供高性能新材料、高端化学品、高端装备智造、数智化…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T15:27:00+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "升级"
+      ],
       "confidence": 0,
       "score": 34,
       "related": [],
@@ -1829,6 +2365,83 @@
       ],
       "confidence": 0.33,
       "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cb7ce27114a89627",
+      "title": "VLM 在预测性空间推理上的缺口还有多大？21 个模型，最高准确率仅 58.0%",
+      "url": "https://leiphone.com/category/academic/Ma9dfYJE9ifGDZ9I.html",
+      "summary": "空间专项模型反而不如通用模型？浙大庄越挺团队提出空间智能新基准作者丨张岂萍编辑丨幸丽娟空间智能正在成为 AI 竞赛的主战场。视觉语言模型（Vision-Language Model，VLM）已经能回答不少空间问题：一个物体在另一个物体的哪一侧，两者距离多远，换一个视角后物体在哪里。但空间智能不止于理解静态场景。在真实交互环境中，机器人还需要面对动作带来的场景变化：物体被移动、旋转或拿走后，视觉语言模型需要判断新的空间关系。如果不给变化后的画面，只告诉视觉语言模型“把这个物体移…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T10:59:00+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "预测"
+      ],
+      "confidence": 0.5,
+      "score": 32,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c9702ad0a97cc725",
+      "title": "微软云服务全球宕机",
+      "url": "https://solidot.org/story?sid=85875",
+      "summary": "微软云服务全球宕机，受影响服务包括了 Outlook、Teams 和 OneDrive 等办公工具以及 AI 工具 Copilot。微软通过其社交媒体账号表示正全力解决该问题。根据 Downdetector 的报告，截至周四 18:00 GMT，全球报告的 Outlook 故障数量接近 14 万。目前无迹象表明此次大范围宕机是由网络攻击引起的。微软表示，受影响的用户可能无法查看部分文件，或无法在日历应用中查看详细信息。Copilot 也可能无法正常运行。即时通讯和在线会议功能…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T13:30:36+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "功能",
+        "应用",
+        "copilot"
+      ],
+      "confidence": 1,
+      "score": 32,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f980cc1f1e212524",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 268 # Comments: 75",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T07:06:17+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing"
+      ],
+      "confidence": 1,
+      "score": 32,
       "related": [],
       "pushed": false
     },
@@ -1929,6 +2542,125 @@
       "keywords": [],
       "confidence": 0,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e0d0dfbf53943bbe",
+      "title": "China’s Internet Giants Are Listing AI Units Because the Parent Stock Will Not Price Them",
+      "url": "https://tmtpost.com/8204635.html",
+      "summary": "Alibaba, Baidu, and Kuaishou are sending chip and model assets to separate markets. The subsidiaries attract lofty private or target valuations; the parents do not. Spin-offs buy a public price tag without removing the cost or the control.",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T18:52:05+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f0a5e545c4a4635a",
+      "title": "大厂搞AI的尽头，是拆家上市？",
+      "url": "https://tmtpost.com/8204039.html",
+      "summary": "不是谷歌学不起，拆开卖更有性价比",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T18:42:28+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "上市"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0832c0b959dd8faa",
+      "title": "李彦宏，为什么要建一座AI时代的新厂房？",
+      "url": "https://tmtpost.com/8203362.html",
+      "summary": "“智能组织”，从哪儿改？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T14:54:25+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2a5280c0d6dec97f",
+      "title": "AI 时代，公司的「新厂房」长什么样？",
+      "url": "https://ifanr.com/1689182",
+      "summary": "真正决定公司未来十年身位的，是谁先动手重建那座名叫「智能组织」的新厂房。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T14:34:19+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b3c84623c44d3655",
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments",
+      "summary": "Article URL: https://brave.com/blog/search-api-agentic-payments/ Comments URL: https://news.ycombinator.com/item?id=50477649 Points: 121 # Comments: 76",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T11:08:08+08:00",
+      "fetchedAt": "2026-11-13T19:38:36+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
       "related": [],
       "pushed": false
     }
