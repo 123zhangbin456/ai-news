@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T09:35:46+08:00",
+  "updatedAt": "2026-11-13T10:14:20+08:00",
   "items": [
     {
       "id": "a8d5fa7d24b3647f",
@@ -372,6 +372,43 @@
         ],
         "detail": "Google在校园试点Gemini后遭到反弹。一个家庭就一名青少年的诉讼质问Google，诉讼中将Gemini称为“自杀教练”。此事引发要求在学校暂停AI试点的呼声。",
         "generatedAt": "2026-11-13T04:34:52+08:00"
+      }
+    },
+    {
+      "id": "abc9750b7fe9f819",
+      "title": "inferencekit: open-source plugin to optimize any model on any hardware using coding agents",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xut6z0/inferencekit_opensource_plugin_to_optimize_any",
+      "summary": "KittenML just released inferencekit , a free opensource plugin to turn coding agents(Claude Code, Codex, OpenCode) into inference engineers for your hardware. Most models ship with inference tuned for whatever hardware the authors used, whi…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T08:14:11+08:00",
+      "fetchedAt": "2026-11-13T10:13:58+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 0.8,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "KittenML 开源 inferencekit：用编码代理为任意硬件优化模型推理",
+        "takeaway": "免费开源插件让 Claude Code 等编码代理变身推理工程师，自动为你的硬件调优模型。",
+        "bullets": [
+          "KittenML 发布开源插件 inferencekit，可免费使用",
+          "支持 Claude Code、Codex、OpenCode 等编码代理",
+          "解决模型默认推理配置只适配作者硬件的问题",
+          "目标是为任意模型在任意硬件上自动优化推理"
+        ],
+        "detail": "KittenML 推出免费开源插件 inferencekit，能把 Claude Code、Codex、OpenCode 等编码代理变成针对你硬件的推理工程师。多数模型出厂时的推理配置只针对作者使用的硬件调优，该插件旨在自动为不同硬件优化任意模型的推理性能。",
+        "generatedAt": "2026-11-13T10:14:20+08:00"
       }
     },
     {
@@ -1602,6 +1639,40 @@
         ],
         "detail": "谷歌发布 LiteRT Tensor API，目标是让开发者更方便地构建、定制和优化在设备端运行的机器学习模型。该 API 属于 LiteRT 体系，具体能力与适用范围以官方原文为准。",
         "generatedAt": "2026-11-13T09:35:44+08:00"
+      }
+    },
+    {
+      "id": "c2ad64129a83d0f1",
+      "title": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+      "url": "https://infoq.cn/article/dkQAAL0SSdhIq1h61eKx",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T18:00:00+08:00",
+      "fetchedAt": "2026-11-13T10:13:58+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GFlow：游戏设计中的多 Agent 协作与验证实践",
+        "takeaway": "InfoQ 中国介绍 GFlow 在游戏设计场景下用多 Agent 协作并做验证的实践，值得关注 AI 落地游戏研发的方式。",
+        "bullets": [
+          "GFlow 面向游戏设计，采用多 Agent 协作方式",
+          "实践强调协作之后的验证环节",
+          "内容来自 AICon 北京分享，由 InfoQ 中国发布"
+        ],
+        "detail": "InfoQ 中国发布 AICon 北京相关内容，主题是 GFlow 在游戏设计中的多 Agent 协作与验证实践。摘要信息有限，主要指向用多个 AI Agent 配合完成游戏设计任务，并对其结果进行验证。",
+        "generatedAt": "2026-11-13T10:14:20+08:00"
       }
     },
     {
