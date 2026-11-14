@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updatedAt": "2026-11-14T04:12:48+08:00",
+  "updatedAt": "2026-11-14T09:09:43+08:00",
   "items": [
     {
       "id": "a8d5fa7d24b3647f",
@@ -69,7 +69,7 @@
       "confidence": 1,
       "score": 66,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI 推出 ChatGPT Wallet，让 AI 代理代付购物",
         "takeaway": "ChatGPT 里的 AI 代理现在能替用户完成购买，但每笔都需用户批准，并沿用现有银行卡保护。",
@@ -80,7 +80,8 @@
         ],
         "detail": "OpenAI 发布 ChatGPT Wallet，为 ChatGPT Work、Codex 和 dots 中的 AI 代理提供安全支付方式。代理可在用户批准后完成购买，并继续享受现有银行卡的保护。",
         "generatedAt": "2026-11-14T02:48:48+08:00"
-      }
+      },
+      "pushedAt": "2026-11-14T09:09:43+08:00"
     },
     {
       "id": "bd1f518dfa03aa3a",
@@ -106,7 +107,7 @@
       "confidence": 0.67,
       "score": 66,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "无界前沿开源Fx-Bio-1031，盲测超越GPT-6-Astra与Opus-5",
         "takeaway": "一款面向生命科学的开源模型在盲测中胜出，且支持本地部署、数据不出域。",
@@ -117,7 +118,8 @@
         ],
         "detail": "无界前沿开源了Fx-Bio-1031，把RSI（推理扩展）能力带入生命科学。该模型在高难盲测中成绩超过GPT-6-Astra和Opus-5，并支持本地部署，确保数据不出域，适合对隐私要求高的科研与医疗场景。",
         "generatedAt": "2026-11-14T02:48:48+08:00"
-      }
+      },
+      "pushedAt": "2026-11-14T09:09:43+08:00"
     },
     {
       "id": "3a6e631e3bbad271",
@@ -589,6 +591,40 @@
         ],
         "detail": "爱范儿早报消息，黄仁勋仍是英伟达最大个人股东。豆包工作平台已接入多款第三方模型。微信「看一看」正在测试短剧入口。接近腾讯人士否认裁员50%传闻，并称管理层提出两条AI转型路线。",
         "generatedAt": "2026-11-13T09:35:33+08:00"
+      }
+    },
+    {
+      "id": "d1318183fe172893",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T16:00:00+08:00",
+      "fetchedAt": "2026-11-14T09:09:25+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Shield用OpenAI助IT技术员交接遗留门户工作",
+        "takeaway": "Shield借助OpenAI让Forge代理自动操作遗留系统，技术员可专注需判断的问题。",
+        "bullets": [
+          "Shield利用OpenAI技术帮助IT技术员交接遗留门户中的工作。",
+          "Forge代理能自动导航系统，完成重复性操作。",
+          "技术员得以聚焦于需要人工判断的复杂问题。"
+        ],
+        "detail": "Shield公司使用OpenAI的技术，帮助IT技术员在遗留门户中交接任务。其Forge代理可以自动操作系统，让技术员腾出精力处理需要判断的问题。",
+        "generatedAt": "2026-11-14T09:09:36+08:00"
       }
     },
     {
@@ -1747,6 +1783,43 @@
         ],
         "detail": "The Verge 通常会在新闻事件后解答读者疑问，但这次他们坦言对英伟达的状况也给不出答案。文章调侃黄仁勋的“新情人”出现速度之快，但未提供具体事实。",
         "generatedAt": "2026-11-14T02:48:58+08:00"
+      }
+    },
+    {
+      "id": "9f0b516152c12ca0",
+      "title": "llm-gemini 0.37",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini",
+      "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really c…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-13T06:55:19+08:00",
+      "fetchedAt": "2026-11-14T09:09:25+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Gemini"
+      ],
+      "confidence": 0.57,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llm-gemini 0.37 发布，适配 Gemini 4 Hydrogen 低价型号",
+        "takeaway": "Simon Willison 的 llm-gemini 插件更新到 0.37，支持谷歌新推出的 Gemini 4 家族最低价成员 Hydrogen。",
+        "bullets": [
+          "llm-gemini 0.37 新增对 Gemini 4 Hydrogen 的支持",
+          "Hydrogen 是 Gemini 4 家族中价格最低的型号",
+          "其定价与更大的 Carbon、Argon 相差不大，性价比存疑"
+        ],
+        "detail": "谷歌今天发布 Gemini 4 Hydrogen，是 Gemini 4 系列里最便宜的型号。但它的价格和更大的 Carbon、Argon 差距不大，作者认为 Gemini 4 的定价策略有点让人困惑。llm-gemini 插件同步更新到 0.37 以支持该模型。",
+        "generatedAt": "2026-11-14T09:09:39+08:00"
       }
     },
     {

@@ -1,7 +1,67 @@
 {
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T04:12:48+08:00",
+  "updatedAt": "2026-11-14T09:09:40+08:00",
   "items": [
+    {
+      "id": "d450ad1a277fe530",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T04:45:10+08:00",
+      "fetchedAt": "2026-11-14T09:09:25+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 58,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 推出 ChatGPT Wallet，让 Dots 智能体替你下单",
+        "takeaway": "OpenAI 为 Dots 智能体平台推出钱包功能，AI 代理可代用户完成购买，支付自动化迈出一步。",
+        "bullets": [
+          "ChatGPT Wallet 今日起向美国 ChatGPT Pro 订阅用户开放",
+          "用户需年满 18 岁并使用美国账单地址",
+          "钱包让 Dots 智能体直接执行购买操作",
+          "这是 OpenAI 今年推出 Dots 平台后的支付配套"
+        ],
+        "detail": "OpenAI 今年早些时候上线了 Dots AI 智能体平台，现在又为这些智能体推出钱包。ChatGPT Wallet 从今天起面向美国 18 岁以上、使用美国账单地址的 ChatGPT Pro 订阅用户逐步开放，让智能体可以代用户完成购买。",
+        "generatedAt": "2026-11-14T09:09:36+08:00"
+      }
+    },
+    {
+      "id": "ad639fbc6552b9e9",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T06:43:00+08:00",
+      "fetchedAt": "2026-11-14T09:09:25+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "funding"
+      ],
+      "confidence": 0.7,
+      "score": 54,
+      "related": [],
+      "pushed": false
+    },
     {
       "id": "4e379f6cb9d33e5a",
       "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
@@ -184,6 +244,43 @@
       }
     },
     {
+      "id": "43a8bca0b0770597",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Produ…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T07:49:11+08:00",
+      "fetchedAt": "2026-11-14T09:09:25+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "product",
+        "available"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "亚马逊计划索引全球网购商品数据",
+        "takeaway": "亚马逊欲建全球商品数据库，涵盖非自营商品，或改变网购比价与搜索方式。",
+        "bullets": [
+          "项目名为“World Product”，旨在收集全网商品信息。",
+          "数据将包括亚马逊不销售的产品，通过亚马逊网站提供。",
+          "此举可能影响电商竞争格局和消费者购物体验。"
+        ],
+        "detail": "据路透社报道，亚马逊计划建立一个数据库，收录互联网上销售的所有产品信息，包括亚马逊自身不销售的商品，并通过其网站向用户提供这些信息。该项目名为“World Product”，旨在索引全球在线购物数据。",
+        "generatedAt": "2026-11-14T09:09:38+08:00"
+      }
+    },
+    {
       "id": "81edf0fb751b6510",
       "title": "Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace",
@@ -357,6 +454,78 @@
         ],
         "detail": "微软365服务在全球范围内宕机约24小时后恢复。微软表示，问题源于一次错误的更新，而非网络攻击或AI故障。此次中断影响了全球用户，但摘要未提及具体受影响的服务和用户数量。",
         "generatedAt": "2026-11-14T04:12:47+08:00"
+      }
+    },
+    {
+      "id": "fde4e161df129b17",
+      "title": "datasette-cluster-map 0.19",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map",
+      "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T07:02:45+08:00",
+      "fetchedAt": "2026-11-14T09:09:25+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "cluster"
+      ],
+      "confidence": 0.5,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "datasette-cluster-map 0.19 发布，适配 Datasette 1.0a42",
+        "takeaway": "Datasette 最老牌插件之一更新，兼容新版并改用 datasette-leaflet 确保地图瓦片请求带 referrer。",
+        "bullets": [
+          "插件现已兼容 Datasette 1.0a42 版本",
+          "新增依赖 datasette-leaflet，确保 OpenStreetMap 瓦片请求携带 referrer",
+          "该插件是 Datasette 最早期的插件之一，作者仍非常喜爱"
+        ],
+        "detail": "datasette-cluster-map 0.19 版本发布，这是 Datasette 最老的插件之一。新版本兼容 Datasette 1.0a42，并依赖新的 datasette-leaflet 插件，以确保请求 OpenStreetMap 瓦片时带上 referrer。",
+        "generatedAt": "2026-11-14T09:09:38+08:00"
+      }
+    },
+    {
+      "id": "673d8bd62405d369",
+      "title": "datasette-leaflet 0.3",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet",
+      "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that l…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T06:30:54+08:00",
+      "fetchedAt": "2026-11-14T09:09:25+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 0.33,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "datasette-leaflet 0.3 发布：修复地图瓦片请求的 Referrer 头问题",
+        "takeaway": "Datasette 插件更新，调整 Referrer 策略以符合 OpenStreetMap 要求，确保地图正常加载。",
+        "bullets": [
+          "OpenStreetMap 要求请求其瓦片服务器时携带 Referrer 头。",
+          "Datasette 表格页原先设置 Referrer-Policy: no-referrer，导致插件无法发送 Referrer。",
+          "新版本调整了该策略，使地图瓦片请求符合 OSM 政策。"
+        ],
+        "detail": "datasette-leaflet 0.3 发布。OpenStreetMap 的政策要求访问其瓦片服务器时发送 Referrer 头，但 Datasette 表格页此前使用 no-referrer 策略，导致插件请求不带 Referrer。此次更新调整了该策略，使地图功能符合 OSM 要求。",
+        "generatedAt": "2026-11-14T09:09:40+08:00"
       }
     },
     {
@@ -535,6 +704,54 @@
       ],
       "confidence": 0.67,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f1dda081ead78521",
+      "title": "Why are LLMs still so bad at jokes?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvm8r3/why_are_llms_still_so_bad_at_jokes",
+      "summary": "I remembered that this was one of my evaluation approaches from 2 years ago to test a model's general capability. I remember wondering in the near future how bad things could get if models could begin to just spit out funny engaging content…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T06:48:25+08:00",
+      "fetchedAt": "2026-11-14T09:09:25+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "evaluation"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cf3d716ed3c5c165",
+      "title": "Voice dictation with one model.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvia6x/voice_dictation_with_one_model",
+      "summary": "Hey, I'm 14 and was looking into how AI voice dictation apps like Wispr Flow work. As you might know they use a transcription model + LLM. The transcriber outputs one to one text as it hears it and then the LLM gets rid of fillers like \"um\"…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T04:08:48+08:00",
+      "fetchedAt": "2026-11-14T09:09:25+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
       "related": [],
       "pushed": false
     }
