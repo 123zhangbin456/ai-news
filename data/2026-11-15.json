@@ -1,7 +1,43 @@
 {
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T24:51:34+08:00",
+  "updatedAt": "2026-11-15T02:36:55+08:00",
   "items": [
+    {
+      "id": "b08cefd9996dfc5a",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T01:30:00+08:00",
+      "fetchedAt": "2026-11-15T02:36:49+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launch"
+      ],
+      "confidence": 0.33,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 项目墓地：那些折戟的 AI 计划与初创公司",
+        "takeaway": "TechCrunch 汇总了未能兑现承诺或已关停的 AI 项目，提醒行业热潮背后失败同样密集。",
+        "bullets": [
+          "苹果 Siri AI 多次延期，成为典型跳票案例",
+          "OpenAI 的“超级应用”发布混乱，被列入名单",
+          "名单持续更新，涵盖关停或未达预期的项目"
+        ],
+        "detail": "TechCrunch 整理了一份持续更新的“AI 墓地”清单，收录那些已关停或未能达到预期的 AI 项目与初创公司。其中既包括苹果多次推迟的 Siri AI 升级，也提到 OpenAI 发布过程混乱的“超级应用”。这份清单为观察 AI 热潮中的失败案例提供了参照。",
+        "generatedAt": "2026-11-15T02:36:55+08:00"
+      }
+    },
     {
       "id": "2a2bfff1121f561b",
       "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
@@ -37,6 +73,42 @@
         ],
         "detail": "英伟达CEO黄仁勋离任后，亚洲多国政府迅速反应：有的出面确认芯片供应承诺不变，有的则评估此事对本地项目的冲击，同时还有正在进行的调查需要应对。",
         "generatedAt": "2026-11-15T24:51:26+08:00"
+      }
+    },
+    {
+      "id": "04c3039fd0945eb5",
+      "title": "nex-agi/Nex-N2.6 · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xw9mpa/nexaginexn26_hugging_face",
+      "summary": "Nex-N2.6 is a multimodal agentic model from Nex-AGI, built on GLM-5.3-Flash . It is designed for computer use, coding, and long-horizon tasks involving tools. This repository contains the FP8-quantized weights of Nex-N2.6, with approximatel…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T02:31:49+08:00",
+      "fetchedAt": "2026-11-15T02:36:49+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "weights"
+      ],
+      "confidence": 0.33,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Nex-AGI 发布 Nex-N2.6 多模态智能体模型 FP8 量化版",
+        "takeaway": "基于 GLM-5.3-Flash 的多模态智能体模型开源 FP8 权重，面向电脑操作、编程和长周期工具任务。",
+        "bullets": [
+          "Nex-N2.6 是 Nex-AGI 推出的多模态智能体模型，基座为 GLM-5.3-Flash。",
+          "主打电脑使用、编程及涉及工具的长周期任务。",
+          "Hugging Face 仓库提供 FP8 量化权重，降低部署门槛。"
+        ],
+        "detail": "Nex-AGI 在 Hugging Face 发布了 Nex-N2.6 的 FP8 量化权重。该模型基于 GLM-5.3-Flash 构建，属于多模态智能体模型，主要面向电脑操作、编程以及需要调用工具的长周期任务。",
+        "generatedAt": "2026-11-15T02:36:54+08:00"
       }
     },
     {
