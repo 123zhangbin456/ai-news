@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T09:53:49+08:00",
+  "updatedAt": "2026-11-14T10:33:18+08:00",
   "items": [
     {
       "id": "d450ad1a277fe530",
@@ -241,6 +241,40 @@
         ],
         "detail": "一位用户在等待 Qwen 4 时，安装并测试了 DeepSeek v4.1 Flash，想看看自己是否错过了什么。按其工作类型，DeepSeek 并没有更好，但速度明显更慢。他最终认为 Strata 搭配 Qwen 3.8 Flash-Next 是最佳选择。",
         "generatedAt": "2026-11-14T04:12:45+08:00"
+      }
+    },
+    {
+      "id": "587557a737ef99b5",
+      "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+      "url": "https://infoq.cn/article/eTz8pt2LoALMvzvxj4aa",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T18:00:00+08:00",
+      "fetchedAt": "2026-11-14T10:33:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AICon北京：AI如何让小团队实现能力突破",
+        "takeaway": "InfoQ中国AICon北京场聚焦AI驱动下小团队从提效到扩能的组织演进路径。",
+        "bullets": [
+          "议题关注AI驱动小团队从提效走向扩能",
+          "讨论小团队能力突破与组织演进",
+          "活动由InfoQ中国主办，落地AICon北京"
+        ],
+        "detail": "InfoQ中国发布AICon北京相关议题，主题为“从提效到扩能”，探讨AI如何驱动小团队实现能力突破，以及组织随之发生的演进。摘要未披露更多具体案例与嘉宾信息。",
+        "generatedAt": "2026-11-14T10:33:17+08:00"
       }
     },
     {
@@ -694,6 +728,40 @@
       }
     },
     {
+      "id": "85b7e930e6458dea",
+      "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+      "url": "https://infoq.cn/article/YRXscVHsTh0g6CVCJJ0D",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T18:00:00+08:00",
+      "fetchedAt": "2026-11-14T10:33:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Inkitt 用 AI 自动写 PR，最难的却是工程细节",
+        "takeaway": "AI 自动提 PR 的瓶颈不在模型，而在 Webhook 去重、CI 失败和合并冲突这些工程问题。",
+        "bullets": [
+          "Inkitt 让 AI 自动生成 PR，模型本身反而是最简单的一环",
+          "真正棘手的是 Webhook 重复触发、CI 失败和合并冲突",
+          "说明 AI 写代码落地时，工程配套比模型能力更关键"
+        ],
+        "detail": "Inkitt 分享了用 AI 自动生成 PR 的实践：模型部分并不复杂，难点集中在工程侧，比如 Webhook 重复触发、CI 构建失败以及合并冲突的处理。这提醒团队，AI 编码要真正落地，配套的流程与自动化机制同样重要。",
+        "generatedAt": "2026-11-14T10:33:18+08:00"
+      }
+    },
+    {
       "id": "a1e895b935bb3a95",
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
       "url": "https://theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
@@ -762,6 +830,29 @@
         "evaluation"
       ],
       "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "485a0601c20e36ac",
+      "title": "均胜电子交付首台“背包”后，机器人业务离放量还有多远",
+      "url": "https://tmtpost.com/8204806.html",
+      "summary": "凭什么接住订单？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T09:39:06+08:00",
+      "fetchedAt": "2026-11-14T10:33:11+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 30,
       "related": [],
       "pushed": false
