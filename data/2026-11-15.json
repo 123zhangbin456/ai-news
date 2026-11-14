@@ -1,7 +1,44 @@
 {
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T02:36:55+08:00",
+  "updatedAt": "2026-11-15T06:49:55+08:00",
   "items": [
+    {
+      "id": "0d55843954181056",
+      "title": "My LumaBrowser project is nearing 150 stars on Github! Not a big accomplishment I know, but in return here is a video showing some of its \"Anthropic/OpenAI in a box\" abilities. Hotswapping LLM/Image/Video models, live game creation mode, scheduled tasks and more.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xw8af1/my_lumabrowser_project_is_nearing_150_stars_on",
+      "summary": "I feel like I am inching closer to being able to actually explain what my system does without requiring run-on sentences and endless descriptions. https://github.com/amurgola/LumaBrowser submitted by /u/valdev [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T01:38:18+08:00",
+      "fetchedAt": "2026-11-15T06:49:42+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "LumaBrowser 开源项目将破 150 星，演示多模型热切换等能力",
+        "takeaway": "个人开发者打造的 LumaBrowser 接近 150 GitHub 星，演示了集成本地 LLM/图像/视频模型的热切换与实时游戏创建。",
+        "bullets": [
+          "项目作者在 r/LocalLLaMA 分享进展，GitHub 星标数接近 150。",
+          "演示视频展示 LLM/图像/视频模型热切换、实时游戏创建和定时任务。",
+          "定位为“Anthropic/OpenAI in a box”，强调本地多模型集成能力。"
+        ],
+        "detail": "LumaBrowser 是一个开源项目，作者称其星标数即将达到 150，并发布视频展示核心功能：可在 LLM、图像和视频模型之间热切换，支持实时游戏创建模式和定时任务。作者表示正努力用更简洁的方式解释系统用途。",
+        "generatedAt": "2026-11-15T06:49:49+08:00"
+      },
+      "pushedAt": "2026-11-15T06:49:55+08:00"
+    },
     {
       "id": "b08cefd9996dfc5a",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -25,7 +62,7 @@
       "confidence": 0.33,
       "score": 48,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "AI 项目墓地：那些折戟的 AI 计划与初创公司",
         "takeaway": "TechCrunch 汇总了未能兑现承诺或已关停的 AI 项目，提醒行业热潮背后失败同样密集。",
@@ -36,7 +73,8 @@
         ],
         "detail": "TechCrunch 整理了一份持续更新的“AI 墓地”清单，收录那些已关停或未能达到预期的 AI 项目与初创公司。其中既包括苹果多次推迟的 Siri AI 升级，也提到 OpenAI 发布过程混乱的“超级应用”。这份清单为观察 AI 热潮中的失败案例提供了参照。",
         "generatedAt": "2026-11-15T02:36:55+08:00"
-      }
+      },
+      "pushedAt": "2026-11-15T06:49:55+08:00"
     },
     {
       "id": "2a2bfff1121f561b",
@@ -62,7 +100,7 @@
       "confidence": 0.6,
       "score": 47,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "黄仁勋离任英伟达CEO，亚洲多国政府紧急应对",
         "takeaway": "黄仁勋卸任英伟达CEO，亚洲多国政府紧急确认芯片供应或评估影响，凸显其对区域AI算力的关键性。",
@@ -73,7 +111,83 @@
         ],
         "detail": "英伟达CEO黄仁勋离任后，亚洲多国政府迅速反应：有的出面确认芯片供应承诺不变，有的则评估此事对本地项目的冲击，同时还有正在进行的调查需要应对。",
         "generatedAt": "2026-11-15T24:51:26+08:00"
-      }
+      },
+      "pushedAt": "2026-11-15T06:49:55+08:00"
+    },
+    {
+      "id": "9a736294c460795d",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T05:41:22+08:00",
+      "fetchedAt": "2026-11-15T06:49:42+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "马斯克等科技高管联名请愿，要求英伟达恢复黄仁勋职务",
+        "takeaway": "科技界高层集体发声，请愿已获超11.5万签名，要求英伟达让黄仁勋回归。",
+        "bullets": [
+          "马斯克等科技高管签署请愿书，要求英伟达恢复黄仁勋职务。",
+          "截至周六下午，请愿签名数已超过11.5万。",
+          "事件涉及英伟达管理层变动，引发行业关注。"
+        ],
+        "detail": "请愿书由马斯克等科技公司高管发起，呼吁英伟达重新任命黄仁勋。截至周六下午，签名人数已突破11.5万，显示业界对此事高度关注。",
+        "generatedAt": "2026-11-15T06:49:49+08:00"
+      },
+      "pushedAt": "2026-11-15T06:49:55+08:00"
+    },
+    {
+      "id": "fdeb2910eff57fa1",
+      "title": "Update: tandem.cpp — DeepSeek-V4.1 on a 64 GB PC with a 16 GB card, and AMD (ROCm) support",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xwan2j/update_tandemcpp_deepseekv41_on_a_64_gb_pc_with_a",
+      "summary": "Quick update on tandem.cpp, my patch set for llama.cpp that runs MoE models too big for your VRAM faster. It keeps the hot experts on the GPU and lets the CPU help with the rest. Repo: https://github.com/ewhacc/tandem.cpp DeepSeek-V4.1-Flas…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T03:12:45+08:00",
+      "fetchedAt": "2026-11-15T06:49:42+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU",
+        "AMD"
+      ],
+      "confidence": 0.2,
+      "score": 43,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "tandem.cpp 更新：16GB 显卡跑 DeepSeek-V4.1，新增 AMD 支持",
+        "takeaway": "个人开发者补丁让大 MoE 模型在消费级硬件上跑得更快，并支持 AMD 显卡。",
+        "bullets": [
+          "tandem.cpp 是 llama.cpp 补丁，把热门专家放 GPU、其余交给 CPU",
+          "实测 64GB 内存 + 16GB 显卡可运行 DeepSeek-V4.1 的 MoE 模型",
+          "本次更新新增 AMD ROCm 支持，扩大可用硬件范围"
+        ],
+        "detail": "tandem.cpp 是开发者 ewhacc 为 llama.cpp 写的补丁集，专门解决 MoE 模型显存不够的问题：把高频专家留在 GPU 上，其余部分交给 CPU 分担。这次更新确认 64GB 内存加 16GB 显卡能跑 DeepSeek-V4.1，并加入 AMD ROCm 支持。",
+        "generatedAt": "2026-11-15T06:49:49+08:00"
+      },
+      "pushedAt": "2026-11-15T06:49:55+08:00"
     },
     {
       "id": "04c3039fd0945eb5",
@@ -98,7 +212,7 @@
       "confidence": 0.33,
       "score": 36,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Nex-AGI 发布 Nex-N2.6 多模态智能体模型 FP8 量化版",
         "takeaway": "基于 GLM-5.3-Flash 的多模态智能体模型开源 FP8 权重，面向电脑操作、编程和长周期工具任务。",
@@ -109,7 +223,8 @@
         ],
         "detail": "Nex-AGI 在 Hugging Face 发布了 Nex-N2.6 的 FP8 量化权重。该模型基于 GLM-5.3-Flash 构建，属于多模态智能体模型，主要面向电脑操作、编程以及需要调用工具的长周期任务。",
         "generatedAt": "2026-11-15T02:36:54+08:00"
-      }
+      },
+      "pushedAt": "2026-11-15T06:49:55+08:00"
     },
     {
       "id": "ce5a306b38b5a376",
@@ -135,7 +250,98 @@
       "confidence": 1,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-15T06:49:55+08:00"
+    },
+    {
+      "id": "0442a74f15b3b415",
+      "title": "Microsoft patent describes turning idle gaming GPUs into paid AI training hardware",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xwe9i5/microsoft_patent_describes_turning_idle_gaming",
+      "summary": "submitted by /u/Shot-Height-7194 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T05:48:41+08:00",
+      "fetchedAt": "2026-11-15T06:49:42+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "微软专利：闲置游戏GPU可变身付费AI训练硬件",
+        "takeaway": "微软申请专利，拟将闲置游戏GPU整合为付费AI训练资源，或开辟算力共享新市场。",
+        "bullets": [
+          "专利描述将闲置游戏GPU用于AI训练并收费。",
+          "涉及微软及游戏GPU用户，可能影响算力供给。",
+          "或降低AI训练成本，但需解决调度与隐私问题。"
+        ],
+        "detail": "微软一项专利提出，把闲置的游戏GPU变成可付费使用的AI训练硬件。这意味着玩家不玩游戏时，显卡算力可能被租用。该模式若落地，或缓解AI算力紧张，但调度和隐私仍是挑战。",
+        "generatedAt": "2026-11-15T06:49:51+08:00"
+      },
+      "pushedAt": "2026-11-15T06:49:55+08:00"
+    },
+    {
+      "id": "40faaf42c0c12ba9",
+      "title": "Finally clicked for me: local AI is the future, not cloud AI",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xwf8bb/finally_clicked_for_me_local_ai_is_the_future_not",
+      "summary": "Maybe this is kind of obvious to others, but it just dawned on me even though I've been lurking this sub since the original LLaMA. I was watching this (excellent, as always) video by Gamers Nexus. Steve Burke was bashing on Tim Sweeney (CEO…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T06:32:27+08:00",
+      "fetchedAt": "2026-11-15T06:49:42+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-11-15T06:49:55+08:00"
+    },
+    {
+      "id": "a955aa42079e7773",
+      "title": "Ai Rig finally done and stable, perfect winter heater",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter",
+      "summary": "8x3090 my ocd wouldn't let me have different gpu models so ended up with 8 gigabyte gaming OC. I bought all the gpus by early 2026 before the prices went crazy. Avg maybe 600 to 700 gbp per gpu. Running on a Romed8-2t motherboard. All run a…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T04:13:38+08:00",
+      "fetchedAt": "2026-11-15T06:49:42+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU",
+        "GPUs"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-11-15T06:49:55+08:00"
     }
   ],
   "topic": "ai"
