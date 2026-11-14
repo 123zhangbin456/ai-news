@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T11:39:49+08:00",
+  "updatedAt": "2026-11-14T19:00:04+08:00",
   "items": [
     {
       "id": "d450ad1a277fe530",
@@ -312,6 +312,79 @@
       }
     },
     {
+      "id": "b26717d449a421fa",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 594 # Comments: 344",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T10:52:59+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs",
+        "NVIDIA"
+      ],
+      "confidence": 0.29,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达被指自导自演：投资AI初创公司再让其回购GPU制造稀缺",
+        "takeaway": "英伟达被质疑通过投资AI初创公司并引导其购买自家GPU，人为制造供不应求局面，引发行业关注。",
+        "bullets": [
+          "指控称英伟达投资AI初创公司，资金变相回流购买其GPU",
+          "此举被指人为制造GPU稀缺假象，推高产品价格与市场热度",
+          "Hacker News讨论热度高，反映业界对算力市场公平性的担忧"
+        ],
+        "detail": "有文章指控英伟达通过投资AI初创公司，再让这些公司用资金购买自家GPU，从而人为制造产品稀缺。该说法在Hacker News引发热议，讨论聚焦于算力芯片市场的竞争公平性与英伟达的商业策略。",
+        "generatedAt": "2026-11-14T19:00:00+08:00"
+      }
+    },
+    {
+      "id": "517a4f65360f05c3",
+      "title": "Qwen 3.8 Flash Next for gamedev - it's very capable!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvyol3/qwen_38_flash_next_for_gamedev_its_very_capable",
+      "summary": "I've shared the project I'm working on approx a month ago, today it's completed. I wanted to know a simple thing: how good is Qwen 3.8FN at gamedev? And I had so much fun in the process that I am shipping a finished product, free to play. t…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T17:55:18+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0.5,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Qwen 3.8 Flash Next 游戏开发实测：能力很强，成品已免费上线",
+        "takeaway": "开发者用 Qwen 3.8 Flash Next 做游戏开发实验，一个月后完成可玩成品并免费发布。",
+        "bullets": [
+          "开发者一个月前启动项目，测试该模型在游戏开发中的实际能力",
+          "实验过程顺利，最终完成完整游戏并免费开放游玩",
+          "为社区提供了模型在游戏开发场景下的真实案例参考"
+        ],
+        "detail": "一位开发者在 LocalLLaMA 分享：他一个月前开始测试 Qwen 3.8 Flash Next 在游戏开发上的表现，如今项目已完成。过程很有趣，他直接把成品游戏免费发布，供大家游玩体验。",
+        "generatedAt": "2026-11-14T19:00:00+08:00"
+      }
+    },
+    {
       "id": "43a8bca0b0770597",
       "title": "Amazon has a plan to index the world’s online shopping data",
       "url": "https://theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
@@ -382,6 +455,42 @@
         ],
         "detail": "Nace.ai 和 Kapitsa 兑现上次承诺，放出了 GGUF 量化文件。新方法叫权重空间编程，针对 Qwen 9B、27B、35B 和 Flash Next 做量化，KL 散度最多好 2 倍，意味着量化后输出分布更贴近原模型。",
         "generatedAt": "2026-11-14T04:12:45+08:00"
+      }
+    },
+    {
+      "id": "69df4a422ec1ba33",
+      "title": "GitHub Actions 锁文件功能正式可用，保障工作流依赖安全",
+      "url": "https://infoq.cn/article/XrW1cdg9NFRkemvqLiZc",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T23:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 0.5,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GitHub Actions 锁文件功能正式上线，工作流依赖更安全",
+        "takeaway": "GitHub Actions 新增锁文件机制，可固定工作流依赖版本，降低供应链风险。",
+        "bullets": [
+          "锁文件功能已正式可用，不再只是预览",
+          "用于固定 Actions 工作流依赖的版本",
+          "有助于防范依赖被篡改带来的供应链风险"
+        ],
+        "detail": "GitHub Actions 的锁文件功能现已正式可用。它把工作流依赖的版本固定下来，避免因依赖变动引入意外或恶意改动，从而提升 CI/CD 流程的供应链安全。",
+        "generatedAt": "2026-11-14T18:59:59+08:00"
       }
     },
     {
@@ -597,6 +706,80 @@
       }
     },
     {
+      "id": "1b72f64791607b5c",
+      "title": "Crazy there's a probable connection between my desktop running Qwen 3.8 27B and a major geo-economic-political event",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvubha/crazy_theres_a_probable_connection_between_my",
+      "summary": "https://www.tbsnews.net/explainer/nvidia-ceos-alleged-affair-tech-entrepreneur-raises-questions-over-china-chip-links submitted by /u/nathan555 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:29:37+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip",
+        "NVIDIA"
+      ],
+      "confidence": 0.29,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "网友调侃：本地跑 Qwen 27B 竟与地缘政治事件“有关联”",
+        "takeaway": "Reddit 用户戏称自己桌面运行 Qwen 3.8 27B 与英伟达 CEO 涉华芯片传闻存在“ probable 联系”，实为调侃。",
+        "bullets": [
+          "发帖人将本地跑 Qwen 27B 与英伟达 CEO 传闻强行关联",
+          "链接指向英伟达 CEO 与科技创业者绯闻及中国芯片联系报道",
+          "本质是社区玩梗，无实际技术或事实关联"
+        ],
+        "detail": "Reddit 用户 nathan555 发帖调侃，称自己桌面运行 Qwen 3.8 27B 与一则重大地缘经济政治事件“可能存在联系”。链接指向英伟达 CEO 与科技创业者绯闻及中国芯片联系的报道。这其实是社区玩梗，把本地跑模型和芯片新闻强行挂钩，并无实际关联。",
+        "generatedAt": "2026-11-14T19:00:02+08:00"
+      }
+    },
+    {
+      "id": "b9d0ec1ec561e777",
+      "title": "sensenova/SenseNova-Loop-9B-Preview · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvysss/sensenovasensenovaloop9bpreview_hugging_face",
+      "summary": "Very interesting model/architecture. Seems to match Qwen 3.5 27b overall at only 9b parameters. Could be useful for some and it looks like it’s not even fully cooked yet. I haven’t tried it yet. I’m not sure if it’d be slower than qwen, it’…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T18:02:25+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "preview",
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "商汤 SenseNova-Loop-9B 预览版发布，9B 参数对标 Qwen 3.5 27B",
+        "takeaway": "9B 小模型整体表现接近 27B 的 Qwen 3.5，架构新颖且尚未完全成熟，值得关注。",
+        "bullets": [
+          "SenseNova-Loop-9B-Preview 在 Hugging Face 发布，参数仅 9B。",
+          "社区反馈其整体表现与 Qwen 3.5 27B 相当。",
+          "模型可能尚未完全训练完成，推理速度未知。"
+        ],
+        "detail": "商汤在 Hugging Face 上发布了 SenseNova-Loop-9B-Preview，这是一个架构有趣的 9B 参数模型。有社区用户认为它的整体表现能与 270 亿参数的 Qwen 3.5 相提并论，但该模型似乎还未完全训练好，实际速度和效果有待验证。",
+        "generatedAt": "2026-11-14T19:00:02+08:00"
+      }
+    },
+    {
       "id": "9eae422d4ff0ec7f",
       "title": "这只AI广告股迎史上最强单日表现，分析师称其股价可能翻倍",
       "url": "https://tmtpost.com/8205214.html",
@@ -628,6 +811,79 @@
         ],
         "detail": "Liftoff Mobile借助人工智能技术优化广告业务，利润增长超出市场预期，股价因此创下历史最佳单日涨幅。分析师认为其股价还有翻倍空间。",
         "generatedAt": "2026-11-14T11:39:49+08:00"
+      }
+    },
+    {
+      "id": "6bdc0f6d275f5187",
+      "title": "Will It Survive? Deciphering the Fate of AI Agent-Authored Code in Open Source",
+      "url": "https://arxiv.org/abs/2601.16809",
+      "summary": "arXiv:2601.16809v2 Announce Type: replace-cross Abstract: AI coding agents such as GitHub Copilot, OpenAI Codex and Devin now open pull requests (PRs) that are merged into open-source projects. Industry reports suggest that AI-assisted code…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "paperRank": 15,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI代理写的代码在开源项目里能活下来吗？",
+        "takeaway": "研究探讨AI编程代理提交的代码在开源项目中的存活情况，揭示AI参与开源开发的现实挑战。",
+        "bullets": [
+          "GitHub Copilot、OpenAI Codex、Devin等AI代理已能提交PR并被合并。",
+          "研究关注这些AI生成的代码在开源项目中的长期命运。",
+          "结果可能影响开发者对AI编码工具的信任和使用策略。"
+        ],
+        "detail": "研究论文关注AI编程代理（如GitHub Copilot、OpenAI Codex和Devin）提交的拉取请求被合并到开源项目后的命运。行业报告显示AI辅助代码日益增多，但它们在开源社区中的存活情况尚不明确，本研究试图解密这一问题。",
+        "generatedAt": "2026-11-14T19:00:02+08:00"
+      }
+    },
+    {
+      "id": "5084daa6581f3d59",
+      "title": "KittenML/kitten-tts-2-mini · Hugging Face - Text-to-Speech",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvw34k/kittenmlkittentts2mini_hugging_face_texttospeech",
+      "summary": "Kitten TTS 2 Mini 82M parameters, 16 languages, 118 voices, 24 kHz. ONNX with int8 weights ( 82.7 MB ; runs on CPU, no PyTorch needed), and the float32 PyTorch weights. Kitten TTS 2 Nano 17M parameters per language model, 8 languages, 37 vo…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T15:11:58+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "weights"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Kitten TTS 2 Mini 发布：82M 参数、16 语言、118 音色",
+        "takeaway": "一个可在 CPU 上离线运行的小型开源语音合成模型，无需 PyTorch，适合本地部署。",
+        "bullets": [
+          "Mini 版 82M 参数，支持 16 种语言和 118 种音色，采样率 24kHz",
+          "提供 int8 量化 ONNX 权重，仅 82.7MB，纯 CPU 即可推理",
+          "同时发布 Nano 版，每语言模型 17M 参数，支持 8 种语言和 37 种音色"
+        ],
+        "detail": "KittenML 在 Hugging Face 上发布了 Kitten TTS 2 系列语音合成模型。Mini 版有 8200 万参数，覆盖 16 种语言和 118 种音色，输出 24kHz 音频；它提供 int8 量化的 ONNX 权重，体积仅 82.7MB，在 CPU 上就能运行，不需要 PyTorch。此外还有更",
+        "generatedAt": "2026-11-14T19:00:04+08:00"
       }
     },
     {
@@ -796,6 +1052,117 @@
       }
     },
     {
+      "id": "2941826634cabf17",
+      "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo",
+      "summary": "submitted by /u/billy_booboo [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T11:40:06+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU",
+        "NVIDIA"
+      ],
+      "confidence": 0.71,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "传黄仁勋资助AI初创公司消化过剩GPU，而非降价",
+        "takeaway": "爆料称英伟达前CEO黄仁勋通过投资AI初创公司来吸收过剩芯片，而非降低GPU价格，颠覆了市场对芯片短缺的认知。",
+        "bullets": [
+          "爆料称黄仁勋资助AI初创公司购买过剩GPU",
+          "英伟达未选择降价，而是通过投资消化库存",
+          "此举可能掩盖了GPU供应过剩的真实情况"
+        ],
+        "detail": "有报道称，英伟达前CEO黄仁勋没有选择降低GPU价格，而是通过资助AI初创公司来吸收过剩的芯片库存。这种做法打破了外界对GPU短缺的普遍看法，暗示市场供应可能并不紧张。",
+        "generatedAt": "2026-11-14T19:00:04+08:00"
+      }
+    },
+    {
+      "id": "33eeb2b9ea55fac5",
+      "title": "salesforce-sovereign-intelligence/SOV-Transcribe-1 · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvst4u/salesforcesovereignintelligencesovtranscribe1",
+      "summary": "SOV-Transcribe-1 SOV-Transcribe-1 is Salesforce's open-weight speech-augmented language model built for non-streaming automatic speech recognition (ASR). It combines leading English transcription accuracy with multilingual support and natur…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T12:06:46+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f75972f3ff87c8ba",
+      "title": "Can open-weight LLMs can predict the effects of weight edits without running the model (9B–30B)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvxyhj/can_openweight_llms_can_predict_the_effects_of",
+      "summary": "I’ve been experimenting with weight-space reading using Qwen and Muse models (9B–30B). The goal: can an LLM inspect raw model weights and predict the behavioral effects of weight edits without running the target model? A few findings: 🔹Qwe…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T17:07:32+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "weights"
+      ],
+      "confidence": 0.33,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1491ac8472c14832",
+      "title": "NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation",
+      "url": "https://arxiv.org/abs/2606.03159",
+      "summary": "arXiv:2606.03159v4 Announce Type: replace-cross Abstract: As autonomous vehicle capabilities advance, the safe evaluation of driving policies in long-tail scenarios remains a critical bottleneck. In closed-loop simulation, the driving polic…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 31,
+      "paperRank": 12,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "a1e895b935bb3a95",
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
       "url": "https://theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
@@ -892,6 +1259,52 @@
       "pushed": false
     },
     {
+      "id": "3099507ce256ee9d",
+      "title": "当广告开始被追更：肌肉唐僧唱摇滚，AI改写游戏获客",
+      "url": "https://tmtpost.com/8205248.html",
+      "summary": "素材可以量产，好创意却不能一键生成。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T16:54:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ca77c35ad721193a",
+      "title": "AI时代，公司越来越扁平，也越来越官僚",
+      "url": "https://tmtpost.com/8205239.html",
+      "summary": "未来最有活力的公司，也许不是每件事都管得最细的公司，而是有人敢说：这条规则，该改了。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T15:21:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "cf3d716ed3c5c165",
       "title": "Voice dictation with one model.",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xvia6x/voice_dictation_with_one_model",
@@ -911,6 +1324,498 @@
       "keywords": [],
       "confidence": 0,
       "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6408269b99bf37fb",
+      "title": "[Paper] Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvuit5/paper_read_less_solve_more_tokenefficient_sparse",
+      "summary": "Web-facing AI agents repeatedly access webpages, documents, repositories, and tool responses, yet reading interfaces often expose entire objects when only sparse evidence is needed. This over-reading increases token and latency costs and ca…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:41:22+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "paper"
+      ],
+      "confidence": 0.75,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7d7a20c8642e341e",
+      "title": "LLM's might be bad at jokes but they still make me laugh a lot",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvsi2i/llms_might_be_bad_at_jokes_but_they_still_make_me",
+      "summary": "https://preview.redd.it/ikefi7yb2i1i1.png?width=1502&format=png&auto=webp&s=81e034eca6da6e807648313bb9509a78d7e22910 This was a new session with Qwen3.8-Flash-Next-GSQ-RCO-Coder just asking it to commit. No clue what it was trying to here x…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T11:50:31+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "preview"
+      ],
+      "confidence": 1,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a18fd36573d27cfb",
+      "title": "Can an AI Agent Be Epistemically Akratic? Higher-Order Evidence & the Limits of Self-Correction",
+      "url": "https://arxiv.org/abs/2611.14889",
+      "summary": "arXiv:2611.14889v1 Announce Type: new Abstract: When we judge that our reasoning was defective, it seems plausible that we should abandon the conclusion it produced. This thought has special force for AI agents built to assess and correct t…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b2f19aaee866d9d8",
+      "title": "Emergent Vision-Shaped Thinking in Text-Only Reasoning through Multimodal Training",
+      "url": "https://arxiv.org/abs/2611.14942",
+      "summary": "arXiv:2611.14942v1 Announce Type: new Abstract: Does multimodal training shape how a language model thinks, even when the input is text only? We test this with targeted causal ablations across 10 multimodal configurations from 6 model famil…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "33b0e0827c109937",
+      "title": "Can MLLMs Reason over Surround-View Driving Videos? A Multi-View Autonomous Driving QA Benchmark",
+      "url": "https://arxiv.org/abs/2611.15225",
+      "summary": "arXiv:2611.15225v1 Announce Type: new Abstract: Surround-view video understanding in autonomous driving is a crucial capability for Multimodal Large Language Models (MLLMs) to achieve reliable driving reasoning. Real-world driving often req…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9143ec80387f5f28",
+      "title": "Food Critic: An Agentic Visualization System for Auditable Restaurant-Safety Reasoning",
+      "url": "https://arxiv.org/abs/2611.15843",
+      "summary": "arXiv:2611.15843v1 Announce Type: new Abstract: Generative AI agents are increasingly being embedded into visualization systems that can search data, invoke tools, summarize evidence, and produce recommendations. However, when agents rely s…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0c69b09df3eb03aa",
+      "title": "TraceKV: Policy-Preserving Low-Rank KV Cache Compression for Reasoning Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.15569",
+      "summary": "arXiv:2611.15569v1 Announce Type: cross Abstract: Reasoning vision-language models (VLMs) impose substantial KV cache demands from both large multimodal contexts and growing reasoning traces. Low-rank KV compression has emerged as a promisi…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2eab79a2d63ef79c",
+      "title": "Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline",
+      "url": "https://arxiv.org/abs/2611.17220",
+      "summary": "arXiv:2611.17220v1 Announce Type: cross Abstract: Oral exams are compelling because (1) students can be asked to provide their reasoning for an answer and (2) their interactive nature permits follow-up questions to resolve ambiguous answers…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "acad440d720e1a4c",
+      "title": "LEAP: Supercharging LLMs for Formal Mathematics with Agentic Frameworks",
+      "url": "https://arxiv.org/abs/2606.03303",
+      "summary": "arXiv:2606.03303v3 Announce Type: replace Abstract: Large Language Models (LLMs) exhibit strong informal mathematical reasoning but struggle to generate mechanically verifiable proofs in formal languages like Lean. We present LEAP, an agent…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "98957f0e75af0c14",
+      "title": "UMER: Unifying Embedding and Ranking via Pair-Aware Discriminative Reasoning for Universal Multimodal Retrieval",
+      "url": "https://arxiv.org/abs/2608.18504",
+      "summary": "arXiv:2608.18504v3 Announce Type: replace Abstract: Modern Web information access increasingly involves heterogeneous multimodal content, including images, videos and visually rich documents. Users may seek not only globally similar content…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b04ed1cc202dde05",
+      "title": "LOLPlay: Benchmarking Real-Time Visual Agents in League of Legends",
+      "url": "https://arxiv.org/abs/2611.03685",
+      "summary": "arXiv:2611.03685v2 Announce Type: replace Abstract: Visual agents need to coordinate reasoning and action while their environment evolves during inference. We introduce LOLPlay, a benchmark in native League of Legends with 36 champion-speci…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "804ab93bd90e3b4e",
+      "title": "BunshinRL: Whole-Workspace Forking for Agentic Reinforcement Learning Rollouts",
+      "url": "https://arxiv.org/abs/2611.10453",
+      "summary": "arXiv:2611.10453v2 Announce Type: replace Abstract: Agentic reinforcement learning (RL) rollouts interleave model reasoning with tool calls in persistent workspaces. Scaling these rollouts incurs substantial memory costs for concurrent envi…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1aaf9aa3ce8af7dc",
+      "title": "Joint Learning of Hierarchical Neural Options and Abstract World Model",
+      "url": "https://arxiv.org/abs/2602.02799",
+      "summary": "arXiv:2602.02799v3 Announce Type: replace-cross Abstract: Building agents that can perform new skills by composing existing skills is a long-standing goal of AI agent research. Towards this end, we investigate how to efficiently acquire a s…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2daa92383e6f56e9",
+      "title": "AgroOmni: A Large-Scale Multi-view Agricultural Dataset for Cross-Scale Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2603.14342",
+      "summary": "arXiv:2603.14342v3 Announce Type: replace-cross Abstract: Modern agricultural data is sourced from diverse platforms and spans multiple spatial scales, ranging from ground-level close-up photography to Unmanned Aerial Vehicle (UAV) aerial o…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "612952f4bedf94c8",
+      "title": "Fill the GAP: A Granular Alignment Paradigm for Visual Reasoning in Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12374",
+      "summary": "arXiv:2605.12374v5 Announce Type: replace-cross Abstract: Visual latent reasoning lets a multimodal large language model (MLLM) create intermediate visual evidence as continuous tokens, avoiding external tools or image generators. However, …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e9c39adc96ec4df2",
+      "title": "When Failures Propagate: Causal Failure Attribution in Agentic Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2608.20627",
+      "summary": "arXiv:2608.20627v2 Announce Type: replace-cross Abstract: Agentic retrieval-augmented generation (RAG) interleaves retrieval, reasoning, and answer generation across multiple hops. A retrieval error at hop 1 can surface only as a wrong answ…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "029a550b282f4da7",
+      "title": "HumanSightBench: A Benchmark for Human Visual Perception in MLLMs",
+      "url": "https://arxiv.org/abs/2611.12305",
+      "summary": "arXiv:2611.12305v2 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) have demonstrated strong performance on knowledge-intensive and reasoning-based vision-language benchmark datasets, but still struggle to sol…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a7b33ce932dac293",
+      "title": "Effective Teacher Support for Reasoning Distillation",
+      "url": "https://arxiv.org/abs/2611.14850",
+      "summary": "arXiv:2611.14850v1 Announce Type: new Abstract: Forward-KL language-model distillation normally computes dense teacher and student scores over the full vocabulary at every supervised position, making training and stored teacher targets expe…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c37690858e177334",
+      "title": "Hint-Informed Self-Distillation for Reasoning Segmentation",
+      "url": "https://arxiv.org/abs/2611.14931",
+      "summary": "arXiv:2611.14931v1 Announce Type: cross Abstract: Reasoning segmentation requires identifying the target referred to by a query among visually similar objects, yet trajectory-level rewards cannot directly indicate which tokens provide relev…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-14T13:00:00+08:00",
+      "fetchedAt": "2026-11-14T18:59:53+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "paperRank": 10,
       "related": [],
       "pushed": false
     }
