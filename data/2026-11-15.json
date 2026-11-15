@@ -1,7 +1,46 @@
 {
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T11:15:26+08:00",
+  "updatedAt": "2026-11-15T19:16:11+08:00",
   "items": [
+    {
+      "id": "a9725311308b9abf",
+      "title": "【数智周报】黄仁勋辞任英伟达CEO ，CFO克雷斯任临时CEO；阿里拟分拆平头哥港股独立上市；Anthropic启动IPO路演，估值较峰值近腰斩……",
+      "url": "https://tmtpost.com/8205592.html",
+      "summary": "（11月9日-14日） DeepSeek发布全家桶应用API；谷歌发布Gemini 4 Hydrogen；微软全球服务中断十小时致歉；美国人工智能建设遭遇电力瓶颈……",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T14:19:18+08:00",
+      "fetchedAt": "2026-11-15T19:16:02+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "估值",
+        "上市",
+        "IPO"
+      ],
+      "confidence": 0.78,
+      "score": 56,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "数智周报：黄仁勋辞任英伟达CEO，阿里拟分拆平头哥上市",
+        "takeaway": "一周内英伟达换帅、阿里分拆芯片业务、Anthropic估值腰斩，AI行业格局生变。",
+        "bullets": [
+          "黄仁勋辞任英伟达CEO，CFO克雷斯任临时CEO",
+          "阿里拟分拆平头哥港股独立上市",
+          "Anthropic启动IPO路演，估值较峰值近腰斩",
+          "DeepSeek发布全家桶应用API，谷歌发布Gemini 4 Hydrogen"
+        ],
+        "detail": "11月9日至14日，英伟达CEO黄仁勋辞职，CFO克雷斯暂代；阿里计划分拆平头哥在港股上市；Anthropic启动IPO路演，估值较峰值近半。同期DeepSeek发布应用API全家桶，谷歌推出Gemini 4 Hydrogen，微软全球服务中断十小时致歉，美国AI建设遇电力瓶颈。",
+        "generatedAt": "2026-11-15T19:16:09+08:00"
+      }
+    },
     {
       "id": "0d55843954181056",
       "title": "My LumaBrowser project is nearing 150 stars on Github! Not a big accomplishment I know, but in return here is a video showing some of its \"Anthropic/OpenAI in a box\" abilities. Hotswapping LLM/Image/Video models, live game creation mode, scheduled tasks and more.",
@@ -186,6 +225,42 @@
         ],
         "detail": "英伟达安全主管在8月悄然离职。随后，CEO黄仁勋因个人关系问题辞职，其中涉及与一家被怀疑向中国输送芯片的公司高管的关系。一位前情报官员对此提出质疑，追问英伟达安全团队当时在做什么。",
         "generatedAt": "2026-11-15T09:25:38+08:00"
+      }
+    },
+    {
+      "id": "d0131f8751dcebad",
+      "title": "当Gemini被戏称为“美国豆包”，张一鸣也活成了“中国布林”",
+      "url": "https://tmtpost.com/8205798.html",
+      "summary": "在太平洋两岸的科技版图上，一种奇妙的镜像正在发生。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T16:06:47+08:00",
+      "fetchedAt": "2026-11-15T19:16:02+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gemini被戏称“美国豆包”，张一鸣活成“中国布林”",
+        "takeaway": "中美AI产品出现镜像对照：谷歌Gemini像字节豆包，张一鸣的角色类比谷歌布林，反映竞争格局趋同。",
+        "bullets": [
+          "Gemini被戏称为“美国豆包”，暗示其产品形态与豆包相似。",
+          "张一鸣被比作“中国布林”，指向创始人角色与谷歌的对照。",
+          "太平洋两岸科技版图呈现奇妙镜像，竞争格局趋同。"
+        ],
+        "detail": "钛媒体文章指出，中美科技领域出现一种镜像现象：谷歌的Gemini被戏称为“美国豆包”，而字节跳动创始人张一鸣则被比作“中国布林”。这反映出两国AI产品与创始人角色存在有趣的对应关系。",
+        "generatedAt": "2026-11-15T19:16:09+08:00"
       }
     },
     {
@@ -470,6 +545,76 @@
       }
     },
     {
+      "id": "476e3424762141c5",
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "url": "https://wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets",
+      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T19:00:00+08:00",
+      "fetchedAt": "2026-11-15T19:16:02+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI电子宠物OATs：让日常物品变成有性格的虚拟宠物",
+        "takeaway": "卡内基梅隆学生发明E Ink小装置OATs，给植物、滑板等物品赋予个性，督促你养成好习惯。",
+        "bullets": [
+          "OATs是E Ink小装置，可为植物、滑板、哑铃等日常物品赋予表情和性格。",
+          "通过拟人化互动，OATs以“ needy”方式提醒用户关注物品，推动习惯养成。",
+          "由卡内基梅隆大学学生设计，探索AI与日常物品结合的新交互形式。"
+        ],
+        "detail": "卡内基梅隆大学一名学生开发了名为OATs的E Ink小装置，能把家里的植物、滑板、哑铃等普通物品变成有表情和个性的虚拟宠物。这些宠物会像电子鸡一样“粘人”，通过互动提醒你照顾物品，从而引导你养成更好的生活习惯。",
+        "generatedAt": "2026-11-15T19:16:09+08:00"
+      }
+    },
+    {
+      "id": "e96967c7d6538418",
+      "title": "Yelp AI 助手融合原生 UI 与服务端驱动 UI",
+      "url": "https://infoq.cn/article/1N801doFOEl2Swqey5Jy",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T23:00:00+08:00",
+      "fetchedAt": "2026-11-15T19:16:02+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "助手"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Yelp AI助手融合原生UI与服务端驱动UI",
+        "takeaway": "Yelp在AI助手中结合原生UI与服务端驱动UI，提升交互灵活性与开发效率。",
+        "bullets": [
+          "Yelp AI助手采用混合UI架构，兼顾原生体验与动态更新。",
+          "服务端驱动UI允许快速迭代，无需频繁发布客户端版本。",
+          "该方案或为AI助手界面开发提供新思路，平衡性能与灵活性。"
+        ],
+        "detail": "Yelp的AI助手将原生UI与服务端驱动UI结合，原生UI保证流畅体验，服务端驱动UI则让界面能动态调整、快速上线新功能。这种混合模式旨在兼顾性能与开发效率，为AI产品界面设计提供参考。",
+        "generatedAt": "2026-11-15T19:16:11+08:00"
+      }
+    },
+    {
       "id": "40faaf42c0c12ba9",
       "title": "Finally clicked for me: local AI is the future, not cloud AI",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xwf8bb/finally_clicked_for_me_local_ai_is_the_future_not",
@@ -548,6 +693,56 @@
       "pushed": false
     },
     {
+      "id": "a80fe1a36270b4c6",
+      "title": "Placing an implant into AI brain with Lazarus: Anatomy of a trojan",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xwsrp1/placing_an_implant_into_ai_brain_with_lazarus",
+      "summary": "hello there, I recently got a bit fascinated about Lazarus from Microsoft (even tho it is probably old technique) and I wrote a blog post showing a thought process I had while researching it - maybe it is helpful to anyone https://int8.io/i…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T19:01:09+08:00",
+      "fetchedAt": "2026-11-15T19:16:02+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "578cab1f3ae1c879",
+      "title": "RASA will cause total chaos to open LLMs and beyond",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xwmnkw/rasa_will_cause_total_chaos_to_open_llms_and",
+      "summary": "Commerce Moves to Finalize Rule Blocking Chinese AI Firms From Renting Nvidia GPUs Abroad https://explainx.ai/blog/commerce-final-rule-chinese-ai-firms-remote-nvidia-chips-the-information-2026 House Passes Remote Access Security Act to Limi…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T12:47:03+08:00",
+      "fetchedAt": "2026-11-15T19:16:02+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chips",
+        "GPUs",
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 32,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "a955aa42079e7773",
       "title": "Ai Rig finally done and stable, perfect winter heater",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter",
@@ -622,6 +817,104 @@
       ],
       "confidence": 0.53,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6d8cee9105ec13d6",
+      "title": "T-DEGE 2026前瞻①｜AI如何重写影视业的成本、资本与权力",
+      "url": "https://tmtpost.com/8205257.html",
+      "summary": "AI改写行业，谁先交卷？钛媒体《智能大迁移》将从十个问题出发，观察AI如何从模型之争落地到千行百业。接下来我们还会整理更多的话题，通过中美技术趋势和行业观察，看不同行业的智能迁移。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T15:37:00+08:00",
+      "fetchedAt": "2026-11-15T19:16:02+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b143470fe2eb86e0",
+      "title": "EUROPA, the EU's open AI model, is aiming for nearly 1 trillion parameters",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xwr917/europa_the_eus_open_ai_model_is_aiming_for_nearly",
+      "summary": "One can hope submitted by /u/mawcopolow [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T17:24:57+08:00",
+      "fetchedAt": "2026-11-15T19:16:02+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4fef59ff2ba2330a",
+      "title": "全球芯片股较峰值回撤近四成，AI泡沫破了吗？",
+      "url": "https://tmtpost.com/8205717.html",
+      "summary": "非AI板块却创了新高。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T12:19:48+08:00",
+      "fetchedAt": "2026-11-15T19:16:02+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片"
+      ],
+      "confidence": 1,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "37a3da8897d9202a",
+      "title": "AI 时代，微服务不该再被\"部署复杂\"劝退 —— QuickBlue 用 3 条命令，把整套微服务装进 Docker",
+      "url": "https://oschina.net/news/503579",
+      "summary": "AI 时代，微服务不该再被\"部署复杂\"劝退——QuickBlue 用 3 条命令，把整套微服务装进 Docker 本文是 QuickBlue-MicroAI 的部署理念与实践介绍。如果你只想直接上手，跳到文末的\"3 条命令速查\"即可。一、微服务之争，争的其实不是架构关于单体与微服务之争，业界观点并不统一： 单体架构胜在部署简单、调用链路短；微服...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T10:20:19+08:00",
+      "fetchedAt": "2026-11-15T19:16:02+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "部署"
+      ],
+      "confidence": 0.25,
+      "score": 27,
       "related": [],
       "pushed": false
     }
