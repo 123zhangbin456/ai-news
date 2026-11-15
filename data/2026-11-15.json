@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T06:49:55+08:00",
+  "updatedAt": "2026-11-15T09:25:40+08:00",
   "items": [
     {
       "id": "0d55843954181056",
@@ -152,6 +152,115 @@
       "pushedAt": "2026-11-15T06:49:55+08:00"
     },
     {
+      "id": "cdf34d438f124e67",
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T08:08:07+08:00",
+      "fetchedAt": "2026-11-15T09:25:26+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chips",
+        "NVIDIA"
+      ],
+      "confidence": 0.6,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达安全团队去哪了？安全主管离职与CEO辞职风波",
+        "takeaway": "英伟达安全主管8月悄然离职，CEO黄仁勋因人际关系辞职，引发对芯片流向中国疑云的追问。",
+        "bullets": [
+          "英伟达安全主管于今年8月低调离职。",
+          "CEO黄仁勋因人际关系问题辞职，涉及一家被疑向中国输送芯片的公司高管。",
+          "前情报官员质疑英伟达安全团队在此事中的角色。"
+        ],
+        "detail": "英伟达安全主管在8月悄然离职。随后，CEO黄仁勋因个人关系问题辞职，其中涉及与一家被怀疑向中国输送芯片的公司高管的关系。一位前情报官员对此提出质疑，追问英伟达安全团队当时在做什么。",
+        "generatedAt": "2026-11-15T09:25:38+08:00"
+      }
+    },
+    {
+      "id": "f9a3c449e5989b1d",
+      "title": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm",
+      "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datase…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T07:59:28+08:00",
+      "fetchedAt": "2026-11-15T09:25:26+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 0.33,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "datasette-llm 0.1a11 发布，新增 OpenAI 兼容端点支持",
+        "takeaway": "Datasette 的 LLM 中间插件更新，允许配置兼容 OpenAI 的端点，方便接入更多模型服务。",
+        "bullets": [
+          "datasette-llm 是 Datasette 的中间插件，用于配置 LLM 供其他插件使用。",
+          "新版本 0.1a11 增加对 OpenAI 兼容端点的支持。",
+          "用户可配置 Datasette 连接兼容 OpenAI 的模型服务。"
+        ],
+        "detail": "datasette-llm 是 Datasette 的一个中间插件，负责配置 LLM 以便其他 Datasette 插件调用。0.1a11 版本新增了对 OpenAI 兼容端点的支持，这意味着你可以配置 Datasette 使用兼容 OpenAI 接口的模型服务。",
+        "generatedAt": "2026-11-15T09:25:37+08:00"
+      }
+    },
+    {
+      "id": "1d6fa7df1732381e",
+      "title": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+      "url": "https://infoq.cn/article/0IpE2EOypcqMFtL7z4z1",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T17:00:00+08:00",
+      "fetchedAt": "2026-11-15T09:25:26+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GitLab 19.5 发布：把智能体开发纳入可治理的 DevOps 平台",
+        "takeaway": "GitLab 新版将智能体开发纳入平台治理，AI 编程从工具走向可管控的工程流程。",
+        "bullets": [
+          "GitLab 19.5 发布，重点是把智能体开发纳入 DevOps 平台",
+          "强调可治理，智能体开发不再游离于平台管控之外",
+          "对使用 GitLab 的团队意味着 AI 开发流程更易审计和管理"
+        ],
+        "detail": "GitLab 发布 19.5 版本，核心变化是把智能体开发纳入 DevOps 平台能力，并强调可治理。也就是说，团队在 GitLab 里做 AI 智能体开发时，可以像管理其他工程流程一样进行管控，而不是散落在平台之外。",
+        "generatedAt": "2026-11-15T09:25:38+08:00"
+      }
+    },
+    {
       "id": "fdeb2910eff57fa1",
       "title": "Update: tandem.cpp — DeepSeek-V4.1 on a 64 GB PC with a 16 GB card, and AMD (ROCm) support",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xwan2j/update_tandemcpp_deepseekv41_on_a_64_gb_pc_with_a",
@@ -188,6 +297,42 @@
         "generatedAt": "2026-11-15T06:49:49+08:00"
       },
       "pushedAt": "2026-11-15T06:49:55+08:00"
+    },
+    {
+      "id": "5acb9d3d7e18f6cd",
+      "title": "datasette-vega 0.7",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega",
+      "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility wit…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T01:09:09+08:00",
+      "fetchedAt": "2026-11-15T09:25:26+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Datasette 图表插件 datasette-vega 发布 0.7 版",
+        "takeaway": "沉寂近六年的 Datasette 图表插件终于更新，恢复兼容性。",
+        "bullets": [
+          "datasette-vega 0.7 发布，是 Datasette 最久未更新的插件。",
+          "该插件用 Vega-Lite 为表格或自定义查询结果渲染图表。",
+          "上次发布是 2018 年 7 月，本次主要为兼容性升级。"
+        ],
+        "detail": "Datasette 的图表插件 datasette-vega 发布了 0.7 版本。它基于 Vega-Lite，能把表格或自定义查询的数据画成图表。这个插件上次更新还是 2018 年 7 月，这次终于为兼容性做了升级。",
+        "generatedAt": "2026-11-15T09:25:40+08:00"
+      }
     },
     {
       "id": "04c3039fd0945eb5",
