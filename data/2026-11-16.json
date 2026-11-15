@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updatedAt": "2026-11-16T01:52:39+08:00",
+  "updatedAt": "2026-11-16T03:12:18+08:00",
   "items": [
     {
       "id": "bfce57e293c4d3d7",
@@ -76,6 +76,29 @@
         "detail": "该 PR 在 llama.cpp 中为 Q2_0 量化格式加入 AVX-VNNI 与 VBMI 指令优化。在 AMD EPYC 9645 八核、16GB 内存环境下，Bonsai 1.7B 的 pp512 吞吐从约 142.5 tok/s 提升到 186.4 tok/s，约 1.3 倍。对没有 GPU、依赖 CPU 推",
         "generatedAt": "2026-11-16T01:52:39+08:00"
       }
+    },
+    {
+      "id": "1278034560fb117a",
+      "title": "Villanova2 - a VillanovaAI Collection",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xx1rbk/villanova2_a_villanovaai_collection",
+      "summary": "Villanova2 family , for English, Italian, German, Spanish and French. Built in EU, for EU. The family Villanova2-15B-A3B-Base · sparse mixture of experts, 15.5B total / 3.9B active Villanova2-15B-A3B · instruction-tuned Villanova2-15B-A3B-V…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T01:46:04+08:00",
+      "fetchedAt": "2026-11-16T03:12:13+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
