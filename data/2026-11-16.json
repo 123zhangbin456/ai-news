@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-16",
+  "updatedAt": "2026-11-16T01:52:39+08:00",
+  "items": [
+    {
+      "id": "bfce57e293c4d3d7",
+      "title": "Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up",
+      "summary": "Hi everyone! I wanted to post a quick update on Basalt . Since last I posted, multi model and router support was implemented, starting with DeepSeek V4.1 Flash (IQ1_M 90 tok/s conv, 246 tok/s struct on a 5090 + 5060 Ti). Also new: video sup…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T01:30:31+08:00",
+      "fetchedAt": "2026-11-16T01:52:30+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen",
+        "DeepSeek"
+      ],
+      "confidence": 0.67,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Basalt 0.4.0 发布：多模型路由上线，Qwen 27B 在 5090 上达 770 tok/s",
+        "takeaway": "Basalt 更新支持多模型与路由，本地推理速度亮眼，值得关注本地部署玩家。",
+        "bullets": [
+          "新增多模型与路由支持，首个接入 DeepSeek V4.1 Flash",
+          "DeepSeek V4.1 Flash 在 5090+5060 Ti 上达 246 tok/s 结构化输出",
+          "Qwen 27B 在单张 5090 上最高 770 tok/s",
+          "还新增了视频相关支持（摘要未展开）"
+        ],
+        "detail": "Basalt 作者发布 0.4.0 更新，重点加入多模型和路由功能，首批支持 DeepSeek V4.1 Flash，在 5090 加 5060 Ti 上对话约 90 tok/s、结构化输出约 246 tok/s。同时 Qwen 27B 在 5090 上可达 770 tok/s，并新增视频相关能力。",
+        "generatedAt": "2026-11-16T01:52:37+08:00"
+      }
+    },
+    {
+      "id": "76ba7c25ffe346b7",
+      "title": "CPU-only boost for Q2_0 on AVX-VNNI · Pull Request #26348 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xx0fqn/cpuonly_boost_for_q2_0_on_avxvnni_pull_request",
+      "summary": "Measurements: mean ± sample standard deviation in tok/s, 3 runs after normal warmup (16GB of RAM on the AMD EPYC 9645 using eight CPU cores) Model Test Upstream master VNNI + VBMI Speedup Bonsai 1.7B pp512 142.517 ± 0.589 186.373 ± 1.582 1.…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T24:55:21+08:00",
+      "fetchedAt": "2026-11-16T01:52:30+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Llama"
+      ],
+      "confidence": 0.25,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 为纯 CPU 推理加入 AVX-VNNI 加速",
+        "takeaway": "llama.cpp 新 PR 让纯 CPU 跑 Q2_0 量化模型更快，AMD EPYC 上实测提速约 1.3 倍。",
+        "bullets": [
+          "PR #26348 为 Q2_0 量化格式增加 AVX-VNNI 指令集优化",
+          "测试平台为 AMD EPYC 9645，仅用 8 核和 16GB 内存",
+          "Bonsai 1.7B 模型 pp512 从 142.5 tok/s 提升到 186.4 tok/s",
+          "纯 CPU 用户无需 GPU 即可获得更快的低比特推理"
+        ],
+        "detail": "该 PR 在 llama.cpp 中为 Q2_0 量化格式加入 AVX-VNNI 与 VBMI 指令优化。在 AMD EPYC 9645 八核、16GB 内存环境下，Bonsai 1.7B 的 pp512 吞吐从约 142.5 tok/s 提升到 186.4 tok/s，约 1.3 倍。对没有 GPU、依赖 CPU 推",
+        "generatedAt": "2026-11-16T01:52:39+08:00"
+      }
+    }
+  ],
+  "topic": "ai"
+}

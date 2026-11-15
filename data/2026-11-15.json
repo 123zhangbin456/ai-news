@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T19:16:11+08:00",
+  "updatedAt": "2026-11-16T01:52:39+08:00",
   "items": [
     {
       "id": "a9725311308b9abf",
@@ -374,6 +374,80 @@
       "pushedAt": "2026-11-15T06:49:55+08:00"
     },
     {
+      "id": "6fdb9cf64c8f5904",
+      "title": "An overview of Jensen Huang’s messy days",
+      "url": "https://theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our su…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T21:00:00+08:00",
+      "fetchedAt": "2026-11-16T01:52:30+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋 messy 日子全记录：英伟达领导层危机发酵",
+        "takeaway": "The Verge 梳理黄仁勋近期混乱日子，涉及辞职传闻与英伟达领导层危机余波。",
+        "bullets": [
+          "The Verge 专栏 The Stepback 本周聚焦黄仁勋的混乱时期",
+          "文章提及黄仁勋辞职及英伟达领导层危机的后续影响",
+          "由 Terrence O'Brien 主笔，追踪事件发展"
+        ],
+        "detail": "The Verge 的每周专栏 The Stepback 本周拆解科技圈一个重要故事：黄仁勋近期的混乱日子。文章涉及黄仁勋辞职以及英伟达领导层危机带来的余波，由 Terrence O'Brien 跟进报道。",
+        "generatedAt": "2026-11-16T01:52:37+08:00"
+      }
+    },
+    {
+      "id": "13facb3dedb9af98",
+      "title": "meituan-longcat/LongCat-Video-Avatar-1.6 · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xwvrri/meituanlongcatlongcatvideoavatar16_hugging_face",
+      "summary": "🚀 Model Introduction We are excited to announce the release of LongCat-Video-Avatar 1.6, the latest upgrade to our open-source framework for audio-driven human video generation. Building upon LongCat-Video-Avatar 1.5, 1.6 improves expressi…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T21:41:06+08:00",
+      "fetchedAt": "2026-11-16T01:52:30+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source",
+        "framework"
+      ],
+      "confidence": 0.38,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "美团开源 LongCat-Video-Avatar 1.6：音频驱动数字人视频升级",
+        "takeaway": "美团升级开源音频驱动数字人视频框架，表情表现力进一步提升，值得关注。",
+        "bullets": [
+          "美团发布 LongCat-Video-Avatar 1.6，为 1.5 的升级版",
+          "主打音频驱动的人体视频生成，开源可自部署",
+          "重点改进表情表现力，具体效果待实测",
+          "面向本地部署与开源社区用户"
+        ],
+        "detail": "美团在 Hugging Face 发布开源框架 LongCat-Video-Avatar 1.6，这是其音频驱动数字人视频生成工具的最新版本。相比 1.5，1.6 主要提升了表情表现力，其余改进细节摘要未展开。",
+        "generatedAt": "2026-11-16T01:52:37+08:00"
+      }
+    },
+    {
       "id": "5acb9d3d7e18f6cd",
       "title": "datasette-vega 0.7",
       "url": "https://simonwillison.net/2026/Nov/14/datasette-vega",
@@ -445,6 +519,77 @@
         "generatedAt": "2026-11-15T02:36:54+08:00"
       },
       "pushedAt": "2026-11-15T06:49:55+08:00"
+    },
+    {
+      "id": "de1b04aef2180495",
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 474 # Comments: 287",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T22:46:58+08:00",
+      "fetchedAt": "2026-11-16T01:52:30+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source",
+        "open source"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "争议：AI 生成的代码是否都该开源？",
+        "takeaway": "一篇主张 AI 生成代码应全部开源的博客在 Hacker News 引发热议，值得关注开源与 AI 版权边界。",
+        "bullets": [
+          "博客作者主张所有 AI 生成的代码都应开源",
+          "Hacker News 上获 474 分、287 条评论，讨论激烈",
+          "涉及 AI 代码的版权归属与开源伦理争议"
+        ],
+        "detail": "这篇博客提出，AI 生成的代码应当全部开源。文章在 Hacker News 上引发大量讨论，获得 474 分和 287 条评论。核心争议在于 AI 生成代码的版权归属、开源义务以及对企业使用的影响。",
+        "generatedAt": "2026-11-16T01:52:39+08:00"
+      }
+    },
+    {
+      "id": "e99985acb7c94c98",
+      "title": "higurashi-ai/Haru-4B · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face",
+      "summary": "Haru-4B Code · Technical blog · Technical blog (Japanese) Haru-4B is a low-latency and multilingual full-duplex continuous spoken dialogue foundation model: it listens and speaks at the same time, the way people do on a phone call. It is a …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T21:58:52+08:00",
+      "fetchedAt": "2026-11-16T01:52:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Haru-4B：低延迟多语言全双工对话模型发布",
+        "takeaway": "Haru-4B 是一个能边听边说的语音对话基础模型，像打电话一样自然，值得关注。",
+        "bullets": [
+          "Haru-4B 支持全双工连续对话，可同时听和说。",
+          "模型低延迟、多语言，适合实时语音交互场景。",
+          "由 higurashi-ai 发布在 Hugging Face，附技术博客。"
+        ],
+        "detail": "Haru-4B 是一个低延迟、多语言的全双工连续语音对话基础模型。它能像人们打电话那样同时听和说，而不是传统的一问一答。该模型由 higurashi-ai 发布在 Hugging Face，并配有技术博客（含日文版）。",
+        "generatedAt": "2026-11-16T01:52:39+08:00"
+      }
     },
     {
       "id": "ce5a306b38b5a376",
@@ -668,6 +813,29 @@
       "pushed": false
     },
     {
+      "id": "a23beef7bff8aca9",
+      "title": "AI DJs Completely Kill My Groove",
+      "url": "https://wired.com/story/ai-djs-completely-kill-my-groove",
+      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T20:00:00+08:00",
+      "fetchedAt": "2026-11-16T01:52:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "e46463f4ec82d8f3",
       "title": "AI撞上美国“新世界”：暴跌、监管、政治博弈，数据中心何去何从？",
       "url": "https://tmtpost.com/8205551.html",
@@ -865,6 +1033,54 @@
       "keywords": [],
       "confidence": 0,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "950ac38f23f2d5a7",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 117 # Comments: 3",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T20:14:06+08:00",
+      "fetchedAt": "2026-11-16T01:52:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9e0f1b4bc4e9bc03",
+      "title": "Agnes-AI/Agnes-2.5-Pro-Theta • HuggingFace",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xwu5jt/agnesaiagnes25protheta_huggingface",
+      "summary": "https://preview.redd.it/zizl51m0rr1i1.png?width=2400&format=png&auto=webp&s=d3271483929d9e4d92024eadcf286a9247602578 https://huggingface.co/Agnes-AI/Agnes-2.5-Pro-Theta submitted by /u/External_Mood4719 [link] [comments]",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T20:20:50+08:00",
+      "fetchedAt": "2026-11-16T01:52:30+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "preview"
+      ],
+      "confidence": 1,
+      "score": 29,
       "related": [],
       "pushed": false
     },
