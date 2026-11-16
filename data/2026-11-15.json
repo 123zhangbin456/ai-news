@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updatedAt": "2026-11-16T01:52:39+08:00",
+  "updatedAt": "2026-11-16T09:27:44+08:00",
   "items": [
     {
       "id": "a9725311308b9abf",
@@ -484,6 +484,43 @@
       }
     },
     {
+      "id": "9ae934d441da1a71",
+      "title": "datasette-apps 0.4a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps",
+      "summary": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can l…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T12:02:45+08:00",
+      "fetchedAt": "2026-11-16T09:27:36+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Claude"
+      ],
+      "confidence": 0.6,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Datasette Apps 0.4a0 发布：沙箱应用可直连数据查询",
+        "takeaway": "Datasette 推出沙箱 HTML/JS 应用新版本，类似 Claude Artifacts 但能直接跑 SQL 查数据。",
+        "bullets": [
+          "Datasette Apps 是运行在 Datasette 内的沙箱 HTML/JS 应用",
+          "0.4a0 版本新增链接支持，摘要未说明具体用法",
+          "应用可对用户数据执行 SQL 查询，类似 Claude Artifacts 但更贴近数据"
+        ],
+        "detail": "Datasette Apps 是嵌入 Datasette 的沙箱化 HTML 和 JavaScript 应用，类似 Claude Artifacts，但能直接对数据执行 SQL 查询。0.4a0 版本增加了链接支持，摘要提到可以链接但未展开细节。",
+        "generatedAt": "2026-11-16T09:27:44+08:00"
+      }
+    },
+    {
       "id": "04c3039fd0945eb5",
       "title": "nex-agi/Nex-N2.6 · Hugging Face",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xw9mpa/nexaginexn26_hugging_face",
@@ -906,6 +943,31 @@
         "NVIDIA"
       ],
       "confidence": 1,
+      "score": 32,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "16b4b3a7aa40d059",
+      "title": "datasette-agent 0.6a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-agent",
+      "summary": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with suppor…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-15T11:49:47+08:00",
+      "fetchedAt": "2026-11-16T09:27:36+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 0.33,
       "score": 32,
       "related": [],
       "pushed": false

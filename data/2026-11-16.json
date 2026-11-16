@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updatedAt": "2026-11-16T08:34:09+08:00",
+  "updatedAt": "2026-11-16T09:27:44+08:00",
   "items": [
     {
       "id": "87d7014c15ee68a3",
@@ -111,6 +111,42 @@
       }
     },
     {
+      "id": "4b4d48f19f03e283",
+      "title": "datasette-maplibre 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre",
+      "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt …",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T07:58:36+08:00",
+      "fetchedAt": "2026-11-16T09:27:36+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 0,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Datasette 推出 MapLibre 地理空间插件首个 alpha 版",
+        "takeaway": "Datasette 新增地理可视化插件，结合 MapLibre 与免费矢量地图服务 OpenFreeMap。",
+        "bullets": [
+          "datasette-maplibre 0.1a0 是 Datasette 久违的新地理空间插件",
+          "插件结合 MapLibre GL 库与 OpenFreeMap 免费矢量地图服务",
+          "OpenFreeMap 由 Zsolt Ero 运营，作者呼吁赞助支持"
+        ],
+        "detail": "Simon Willison 发布了 datasette-maplibre 0.1a0，这是 Datasette 一段时间以来首个新的地理空间插件。它把 MapLibre GL 地图库和 Zsolt Ero 运营的免费矢量地图服务 OpenFreeMap 结合起来，作者还呼吁大家赞助 Zsolt。",
+        "generatedAt": "2026-11-16T09:27:43+08:00"
+      }
+    },
+    {
       "id": "024802442c5a3f86",
       "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
       "url": "https://theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
@@ -145,6 +181,43 @@
         ],
         "detail": "在英伟达前CEO黄仁勋卷入疑似中国间谍丑闻后，美国国会正寻求进一步限制AI芯片出口。民主党和共和党议员都表态支持各种相关措施，预计出口管制将更严格。",
         "generatedAt": "2026-11-16T08:34:04+08:00"
+      }
+    },
+    {
+      "id": "3bc6cdb34c17f840",
+      "title": "datasette 1.0a43",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette",
+      "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T07:20:27+08:00",
+      "fetchedAt": "2026-11-16T09:27:36+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Datasette 1.0a43 发布：输出渲染器支持流式传输",
+        "takeaway": "Datasette 1.0 里程碑完成 53%，新版本为输出渲染器加入流式支持，提升大数据导出体验。",
+        "bullets": [
+          "Datasette 1.0a43 发布，1.0 里程碑进度达 53%。",
+          "最大更新：输出渲染器支持流式传输，内置 TSV 等受益。",
+          "作者借助 Claude Fable 5.2 加速开发。"
+        ],
+        "detail": "Datasette 发布 1.0a43 版本，作者表示正借助 Claude Fable 5.2 推进 1.0 里程碑，目前完成 53%。此版本最重要的 1.0 事项是为输出渲染器增加流式支持，内置 TSV 等渲染器将能流式输出数据。",
+        "generatedAt": "2026-11-16T09:27:42+08:00"
       }
     },
     {
@@ -219,6 +292,42 @@
         ],
         "detail": "Basalt 作者发布 0.4.0 更新，重点加入多模型和路由功能，首批支持 DeepSeek V4.1 Flash，在 5090 加 5060 Ti 上对话约 90 tok/s、结构化输出约 246 tok/s。同时 Qwen 27B 在 5090 上可达 770 tok/s，并新增视频相关能力。",
         "generatedAt": "2026-11-16T01:52:37+08:00"
+      }
+    },
+    {
+      "id": "883438f4d3857d6a",
+      "title": "融资90亿的AI眼镜风口，被35元的华强北山寨货截胡",
+      "url": "https://tmtpost.com/8205823.html",
+      "summary": "AI眼镜的想象力，正在被透支。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T09:04:06+08:00",
+      "fetchedAt": "2026-11-16T09:27:36+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI眼镜融资90亿，却被35元华强北山寨货截胡",
+        "takeaway": "AI眼镜赛道融资火热，但低价山寨产品泛滥，可能透支行业想象力。",
+        "bullets": [
+          "AI眼镜风口吸引90亿元融资，资本看好。",
+          "华强北35元山寨AI眼镜出现，价格极低。",
+          "山寨产品可能扰乱市场，透支消费者期待。"
+        ],
+        "detail": "AI眼镜被视为下一个热门赛道，已吸引90亿元融资。但华强北出现仅售35元的山寨产品，以极低价格抢占市场。这种乱象可能透支AI眼镜的想象空间，让消费者对品类失去信心。",
+        "generatedAt": "2026-11-16T09:27:42+08:00"
       }
     },
     {
@@ -523,6 +632,29 @@
       "topic": "ai",
       "publishedAt": "2026-11-16T01:46:04+08:00",
       "fetchedAt": "2026-11-16T03:12:13+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "31b30ade0c2615cd",
+      "title": "汽车激光雷达厂商，又开始抢机器人关节的生意了",
+      "url": "https://tmtpost.com/8205984.html",
+      "summary": "一家机器人公司，带来禾赛第一批执行器订单。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T09:12:19+08:00",
+      "fetchedAt": "2026-11-16T09:27:36+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
