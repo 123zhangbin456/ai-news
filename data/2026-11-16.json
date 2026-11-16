@@ -1,7 +1,84 @@
 {
   "date": "2026-11-16",
-  "updatedAt": "2026-11-16T10:34:37+08:00",
+  "updatedAt": "2026-11-16T19:48:33+08:00",
   "items": [
+    {
+      "id": "91e58e2ea930c2fa",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T17:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "announce",
+        "announces"
+      ],
+      "confidence": 1,
+      "score": 60,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "LVMH 媒体部门与 OpenAI 达成战略合作，用 AI 赋能新闻业",
+        "takeaway": "LVMH 旗下媒体与 OpenAI 合作，借助 AI 支持新闻工作，并让出版物通过 ChatGPT 更易获取。",
+        "bullets": [
+          "LVMH 媒体部门与 OpenAI 建立战略合作",
+          "合作旨在用 AI 支持新闻业发展",
+          "出版物将通过 ChatGPT 提升可及性"
+        ],
+        "detail": "LVMH 媒体部门与 OpenAI 宣布战略合作，双方将利用人工智能技术为新闻业提供支持，同时让 LVMH 旗下出版物通过 ChatGPT 更便捷地触达读者。",
+        "generatedAt": "2026-11-16T19:48:16+08:00"
+      },
+      "pushedAt": "2026-11-16T19:48:33+08:00"
+    },
+    {
+      "id": "8c8a52a2a0abf24f",
+      "title": "DeepSeek又来掀桌子了！官方App全套能力开放API，联网搜索价格不到OpenAI、Claude的8%",
+      "url": "https://infoq.cn/article/NWmk4epBL0jPAUtpKSKb",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T22:38:24+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "开放",
+        "Claude",
+        "DeepSeek"
+      ],
+      "confidence": 0.67,
+      "score": 60,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "DeepSeek 开放全套 API，联网搜索价格不到 OpenAI 的 8%",
+        "takeaway": "DeepSeek 把官方 App 的全套能力开放成 API，联网搜索定价远低于 OpenAI、Claude，价格战再升级。",
+        "bullets": [
+          "官方 App 全套能力通过 API 对外开放",
+          "联网搜索价格不到 OpenAI、Claude 的 8%",
+          "开发者可低成本接入搜索增强能力"
+        ],
+        "detail": "DeepSeek 宣布把官方 App 的全套能力开放为 API，其中包括联网搜索。其联网搜索价格不到 OpenAI、Claude 同类服务的 8%，延续低价策略，对开发者接入搜索增强模型有明显吸引力。",
+        "generatedAt": "2026-11-16T19:48:16+08:00"
+      },
+      "pushedAt": "2026-11-16T19:48:33+08:00"
+    },
     {
       "id": "09862cd7036c6133",
       "title": "Apple launches new app to study how people use AI for health",
@@ -36,6 +113,83 @@
         ],
         "detail": "苹果推出了一款新应用，专门用于研究人们如何利用AI来解答日常健康问题。该研究将收集用户与AI互动处理医疗疑问的数据，以了解实际使用情况，并可能为苹果未来的健康相关AI功能提供参考。",
         "generatedAt": "2026-11-16T10:17:06+08:00"
+      }
+    },
+    {
+      "id": "5edb92a369b347f9",
+      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+      "url": "https://leiphone.com/category/industrynews/TRw4D5Bw5HsTmC1G.html",
+      "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max，总参数2.4T，具备原生视觉能力，支持百万上下文。基于创新的模型架构和训练优化，Qwen4-Max以更少的Token消耗实现了更高的性能，在智能体和编程等关键能力项上持续进化：在权威的全球前端编程盲测CodeArena中，Qwen4位居第六；在Agents' Last Exam（ALE）、Vals Index等智能体能力及专业任务三方评测中，Qwen4均处于领先梯队。Qwen4面向全领域的真实任务深度优化，可更好…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T11:33:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0.17,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阿里发布Qwen4-Max：2.4T参数、原生视觉、百万上下文",
+        "takeaway": "阿里推出新一代基座大模型Qwen4-Max，智能体与编程能力进阶，面向真实全场景任务。",
+        "bullets": [
+          "总参数2.4T，具备原生视觉能力，支持百万上下文",
+          "以更少Token消耗实现更高性能，架构与训练有优化",
+          "CodeArena前端编程盲测第六，ALE等智能体评测领先",
+          "面向全领域真实任务深度优化，覆盖更多场景"
+        ],
+        "detail": "11月16日，阿里巴巴发布新一代基座大模型Qwen4-Max，总参数2.4T，原生支持视觉，上下文达百万级。新架构和训练优化让它用更少Token达到更高性能，智能体和编程能力持续提升，在CodeArena、ALE等评测中表现靠前，并针对真实任务做了深度优化。",
+        "generatedAt": "2026-11-16T19:48:16+08:00"
+      }
+    },
+    {
+      "id": "ac4ca44cbe1f203a",
+      "title": "模型选择自由！千问办公上线Qwen4、Kimi-K3.1、GLM-5.3等10款模型",
+      "url": "https://leiphone.com/category/industrynews/tDhzNl3D84AjopSh.html",
+      "summary": "11月16日，千问办公一口气上线10款模型，包括刚刚发布的Qwen4-Max，以及Kimi、GLM、DeepSeek、MiniMax、Step等多款三方大模型。目前，千问办公的模型列表已向用户开放选择，个人版和企业标准版用户可结合自身使用场景自由选择模型。此前，千问办公在模型供给上为用户提供了标准、高级和Qwen3.8-Max三档模型选择，可满足绝大多数日常办公任务的需求。但随着用户使用Agent的场景不断深入，用户对Agent背后的模型需求也越来越个性化。核心原因是，不同模…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T12:08:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "上线",
+        "开放",
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "千问办公上线10款模型，用户可自选Qwen4、Kimi、GLM等",
+        "takeaway": "千问办公从三档固定模型升级为10款模型自由选择，回应Agent场景下的个性化需求。",
+        "bullets": [
+          "11月16日千问办公上线10款模型，含刚发布的Qwen4-Max",
+          "同时引入Kimi、GLM、DeepSeek、MiniMax、Step等三方模型",
+          "个人版和企业标准版用户可按场景自由选择模型",
+          "此前仅提供标准、高级、Qwen3.8-Max三档固定选择"
+        ],
+        "detail": "千问办公在11月16日一次性上线10款模型，除刚发布的Qwen4-Max外，还接入Kimi、GLM、DeepSeek、MiniMax、Step等第三方大模型。用户可在模型列表中自由选择。官方称，随着Agent使用场景深入，用户对背后模型的需求越来越个性化，原有三档固定选择已不够用。",
+        "generatedAt": "2026-11-16T19:48:18+08:00"
       }
     },
     {
@@ -108,6 +262,79 @@
         ],
         "detail": "OpenAI上线科学博客，专门发布利用AI推动科学发现的新成果、实用方法和研究者的亲身经历。该博客旨在分享AI在科研中的实际应用经验，帮助研究人员了解最新进展。",
         "generatedAt": "2026-11-16T08:34:02+08:00"
+      }
+    },
+    {
+      "id": "f7f2865a6bdf7c3f",
+      "title": "腾讯混元发布Hy4 flash，单任务成本仅为 Hy4 的 5%",
+      "url": "https://infoq.cn/article/ejVJGwMvIIvplY8yio5r",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T22:23:27+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "腾讯混元发布 Hy4 flash，单任务成本仅为 Hy4 的 5%",
+        "takeaway": "腾讯混元推出轻量模型 Hy4 flash，主打低成本，单任务成本只有 Hy4 的 5%。",
+        "bullets": [
+          "腾讯混元发布新模型 Hy4 flash",
+          "单任务成本仅为 Hy4 的 5%",
+          "主打低成本，或影响模型选型与调用成本"
+        ],
+        "detail": "腾讯混元推出 Hy4 flash 模型，官方给出的关键信息是单任务成本仅为 Hy4 的 5%。这意味着在同类任务上，调用成本大幅下降，适合对价格敏感的场景。原文未披露更多参数与能力细节。",
+        "generatedAt": "2026-11-16T19:48:18+08:00"
+      }
+    },
+    {
+      "id": "536906be1a0c548f",
+      "title": "百度世界2026｜让金融AI用得起、更专业，度小满“轩辕”探索中小机构落地新路径",
+      "url": "https://leiphone.com/category/industrynews/JDoXug7VZqSjkQrQ.html",
+      "summary": "11月12日，百度世界2026在北京举行，大会聚焦 AI 时代下如何提升组织能力。百度创始人李彦宏在开幕式上判断，人工智能的下一幕是“智能组织”，并首次提出“组织进化三原则”：打破岗位边界、沉淀隐性知识、设计流程闭环。“如果说，人工智能是新电能。那么，智能组织就是AI时代的新厂房，是生产力真正发生的地方。” 本届大会期间，百度围绕“芯云模体”四层架构，发布多项成果：正式推出大模型交易平台词元所，发布文心大模型5.5 Flash预览版及两款文心应用模型；百度搭子、库库、百度一镜…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T12:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "应用",
+        "落地"
+      ],
+      "confidence": 0.25,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "度小满轩辕探索金融AI中小机构落地新路径",
+        "takeaway": "百度世界2026上，度小满展示轩辕如何让金融AI更易用、更专业，瞄准中小机构落地。",
+        "bullets": [
+          "百度世界2026于11月12日在北京举行，聚焦AI时代组织能力。",
+          "李彦宏提出“智能组织”与“组织进化三原则”。",
+          "度小满轩辕探索金融AI在中小机构落地的新路径。"
+        ],
+        "detail": "百度世界2026大会聚焦AI提升组织能力，李彦宏判断AI下一幕是“智能组织”，并提出打破岗位边界等三原则。度小满“轩辕”则针对金融AI在中小机构落地难的问题，探索让AI用得起、更专业的路径。",
+        "generatedAt": "2026-11-16T19:48:19+08:00"
       }
     },
     {
@@ -220,6 +447,44 @@
       }
     },
     {
+      "id": "024ecf108a4c5eaf",
+      "title": "李飞飞对话苏姿丰：AMD 收购后首次同台，CoRL 现场谈算力、机器人与「这个时代最大的失误」",
+      "url": "https://leiphone.com/category/ai/b2VJ0YUl2gN5nNie.html",
+      "summary": "一场横跨科研、经济、AI、社会话题、算力未来的女性对话。作者丨齐铖湧编辑丨岑峰 2026年11月，奥斯汀，CoRL 2026的台下坐满了机器人研究者。台上三把椅子，两位嘉宾，左边是即将出任AMD首席科学家的李飞飞，右边是AMD CEO苏姿丰。这是AMD收购World Labs消息传出后，两人的首次公开同台，也是李飞飞以\"AMD首席科学家\"身份，第一次面对整个机器人学术社区。对话没有客套太久。李飞飞直接把话题引向了敏感区域：公共部门的算力\"饥饿\"，是\" 这个历史最重要时刻最大的…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T15:24:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力",
+        "AMD"
+      ],
+      "confidence": 0.29,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "李飞飞苏姿丰CoRL同台：谈算力饥饿与机器人未来",
+        "takeaway": "AMD收购World Labs后两人首次同台，李飞飞以AMD首席科学家身份谈公共算力短缺。",
+        "bullets": [
+          "李飞飞即将出任AMD首席科学家，这是收购后首次与苏姿丰公开同台",
+          "对话聚焦公共部门算力“饥饿”，李飞飞称其为重要时刻的最大失误",
+          "场合是CoRL 2026机器人学术会议，面向机器人研究社区",
+          "话题横跨科研、经济、AI与算力未来"
+        ],
+        "detail": "2026年11月奥斯汀CoRL 2026现场，李飞飞与AMD CEO苏姿丰同台对话。这是AMD收购World Labs消息传出后两人首次公开同台，也是李飞飞以AMD首席科学家身份首次面对机器人学术社区。她直言公共部门算力“饥饿”是这一历史时刻最大的失误之一。",
+        "generatedAt": "2026-11-16T19:48:20+08:00"
+      }
+    },
+    {
       "id": "3bc6cdb34c17f840",
       "title": "datasette 1.0a43",
       "url": "https://simonwillison.net/2026/Nov/15/datasette",
@@ -294,6 +559,42 @@
       }
     },
     {
+      "id": "3c03dac4e5afc4d0",
+      "title": "Codex、Claude Code 都卷完了，居然还能跑出黑马？整个产品，现在都可以是一个提示词",
+      "url": "https://infoq.cn/article/8TySw9wzqf0l90keJUNf",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T22:44:28+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Codex、Claude Code 之后，产品本身成了提示词",
+        "takeaway": "模型发布新思路：整个产品可作为一个提示词，或成 AI 产品新形态。",
+        "bullets": [
+          "Codex、Claude Code 之后仍有新玩家跑出",
+          "核心思路是把整个产品当作一个提示词",
+          "或改变 AI 产品设计与交付方式"
+        ],
+        "detail": "在 Codex、Claude Code 等编程助手之后，仍有新产品跑出。其思路是把整个产品做成一个提示词，而非传统功能堆叠，这或许为 AI 产品形态提供新方向。",
+        "generatedAt": "2026-11-16T19:48:20+08:00"
+      }
+    },
+    {
       "id": "2cb612de9116082a",
       "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
       "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry",
@@ -327,6 +628,43 @@
         ],
         "detail": "TechCrunch在报道中抛出疑问：黄仁勋的坏消息是否也是AI行业的坏消息？文章引用观点称“黄仁勋就是英伟达”，而当前经济中有很大一部分都依赖英伟达。这反映出市场对英伟达及AI产业高度集中的担忧。",
         "generatedAt": "2026-11-16T08:34:04+08:00"
+      }
+    },
+    {
+      "id": "b43a8a12c15f5f99",
+      "title": "HCI 先驱 de Souza：当 AI 替我们阅读，谁来为知识负责？| ACM MM 2026",
+      "url": "https://leiphone.com/category/private/j1CWHNsD9eBM7Wwc.html",
+      "summary": "研究者需要的不只是AI生成的答案，更是审查答案、追溯来源并为知识判断负责的能力。作者丨张璐编辑丨马晓宁你有没有过这样的经历：面对几十页密密麻麻的PDF，实在抽不出时间细读，于是把论文丢给ChatGPT或Claude，让它帮你提炼核心观点。几秒钟后，一份条理清晰的摘要出现在屏幕上。你点点头，觉得自己已经掌握了论文的主要内容，甚至直接将其中的观点引用进了自己的研究。但是，等等——你确定AI总结的，真的是原作者想表达的意思吗？如果它悄悄引入了原文没有的观点，甚至将毫不相干的概念联系…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T15:59:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "论文",
+        "研究"
+      ],
+      "confidence": 0.5,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "HCI先驱de Souza：AI代读时，谁为知识负责？",
+        "takeaway": "AI摘要可能扭曲原意，研究者需保留审查与追溯能力，而非全盘接受。",
+        "bullets": [
+          "de Souza在ACM MM 2026论文中提出AI代读的知识责任问题",
+          "AI生成的摘要可能引入原文没有的观点或错误关联",
+          "研究者应具备审查答案、追溯来源并判断的能力"
+        ],
+        "detail": "面对长PDF，人们常让ChatGPT或Claude提炼摘要，甚至直接引用。但AI总结未必忠实原意，可能悄悄添加原文没有的观点或乱连概念。de Souza指出，研究者真正需要的是审查、追溯和负责的能力。",
+        "generatedAt": "2026-11-16T19:48:21+08:00"
       }
     },
     {
@@ -401,6 +739,42 @@
         ],
         "detail": "AI眼镜被视为下一个热门赛道，已吸引90亿元融资。但华强北出现仅售35元的山寨产品，以极低价格抢占市场。这种乱象可能透支AI眼镜的想象空间，让消费者对品类失去信心。",
         "generatedAt": "2026-11-16T09:27:42+08:00"
+      }
+    },
+    {
+      "id": "c5bef0f0bbad2786",
+      "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+      "url": "https://wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess",
+      "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T19:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达麻烦不断：黄仁勋风波前已陷竞争重围",
+        "takeaway": "英伟达在黄仁勋风波前已面临AI芯片对手追赶，风波或让对手有机可乘。",
+        "bullets": [
+          "英伟达在黄仁勋风波前已面临AI芯片对手追赶",
+          "竞争对手正伺机利用英伟达的混乱局面",
+          "黄仁勋风波可能加剧英伟达的竞争压力"
+        ],
+        "detail": "据Wired AI报道，英伟达在黄仁勋相关风波发生前就已陷入困境，AI芯片领域的竞争对手正在缩小差距。这些对手可能利用英伟达当前的混乱局面抢占市场。",
+        "generatedAt": "2026-11-16T19:48:22+08:00"
       }
     },
     {
@@ -512,6 +886,80 @@
       }
     },
     {
+      "id": "46274db0ed5a0186",
+      "title": "李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？",
+      "url": "https://leiphone.com/category/ai/zV4No5T5XDHJcupr.html",
+      "summary": "时隔两年，World Labs 的工作已经完全不同了。作者丨齐铖湧编辑丨岑峰 2026年11月，CoRL（机器人学习顶会）在奥斯汀开幕。这一届的演讲嘉宾，有一个无法回避的名字，李飞飞。斯坦福教授、ImageNet发起者、World Labs创始人。就在本届CoRL之前，World Labs被AMD收购的消息正在圈内发酵，她即将出任AMD首席科学家。这届CoRL现场，她不仅全面介绍了World Labs最近的工作和她的行业观点，还邀请AMD苏妈参与了对话圆桌，某种意义上，这是她…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T15:28:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "观点",
+        "创始人"
+      ],
+      "confidence": 0.17,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "李飞飞 CoRL 演讲：从橱柜模型到世界模型，机器人需要怎样的 AI",
+        "takeaway": "李飞飞在 CoRL 2026 阐述 World Labs 从「橱柜模型」转向世界模型，并邀苏姿丰对话，折射其加盟 AMD 后的新动向。",
+        "bullets": [
+          "李飞飞在 CoRL 2026 发表演讲，系统介绍 World Labs 最新工作与行业观点。",
+          "她提出机器人 AI 需从「橱柜模型」走向世界模型，强调对物理世界的理解。",
+          "演讲前 World Labs 被 AMD 收购，她将出任 AMD 首席科学家。",
+          "她邀请 AMD CEO 苏姿丰参与圆桌对话，释放合作信号。"
+        ],
+        "detail": "2026 年 11 月，CoRL 在奥斯汀开幕，李飞飞作为演讲嘉宾全面介绍了 World Labs 的最新进展。她回顾从「橱柜模型」到世界模型的思路转变，探讨机器人需要什么样的 AI。此前 World Labs 被 AMD 收购，她将出任 AMD 首席科学家，并邀请苏姿丰同台对话。",
+        "generatedAt": "2026-11-16T19:48:23+08:00"
+      }
+    },
+    {
+      "id": "b04ec9c936cad601",
+      "title": "实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页",
+      "url": "https://ifanr.com/1689653",
+      "summary": "比 DeepSeek V4.1 Flash 性价比更高 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T17:53:01+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "腾讯 Hy4 flash 实测：两毛钱生成 3D 交互网页",
+        "takeaway": "腾讯新模型主打低价，实测用两毛钱就能让 AI 从零做出 3D 交互网页，性价比超过 DeepSeek V4.1 Flash。",
+        "bullets": [
+          "腾讯发布 Hy4 flash 模型，实测可生成 3D 交互网页",
+          "单次成本约两毛钱，主打低价路线",
+          "来源称其性价比高于 DeepSeek V4.1 Flash"
+        ],
+        "detail": "爱范儿实测腾讯 Hy4 flash，花约两毛钱就能让 AI 从零做出一个 3D 交互网页。文章认为它的性价比比 DeepSeek V4.1 Flash 更高，指向低价模型在网页生成场景的竞争。",
+        "generatedAt": "2026-11-16T19:48:23+08:00"
+      }
+    },
+    {
       "id": "1a811a22b701406e",
       "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
       "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft",
@@ -620,6 +1068,45 @@
       }
     },
     {
+      "id": "400baee26cfc820a",
+      "title": "智算接棒：物理AI的下一个风口，在于计算基础设施",
+      "url": "https://leiphone.com/category/chips/yYPDwzuTBbcMSCSx.html",
+      "summary": "物理AI的热度，正从机器人本体向产业链上下游扩散。过去一年，人形机器人、四足机器狗频繁出现在工厂、仓库和门店。产业界关心的问题正在变化：从“机器人能完成什么动作”转向“如何让它越做越准”。答案不只在机器人本体，更在其背后的计算系统：数据从哪里来，仿真在哪里运行，模型多久迭代，算力如何匹配研发节奏。这些都不是多买几台服务器能解决的。英伟达提出“三台计算机”概念：一台训练模型，一台在数字孪生与仿真环境中训练、验证技能，第三台部署在机器人本体上执行。Omniverse、Isaac、…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T16:04:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力",
+        "英伟达",
+        "服务器"
+      ],
+      "confidence": 0.8,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "物理AI下一站：算力基础设施接棒机器人本体",
+        "takeaway": "物理AI竞争焦点从机器人动作转向背后计算系统，英伟达“三台计算机”思路成参考。",
+        "bullets": [
+          "人形机器人、机器狗进入工厂仓库，产业关注点转向如何越做越准",
+          "答案在计算系统：数据来源、仿真运行、模型迭代与算力匹配",
+          "英伟达提出三台计算机：训练、仿真验证、本体执行各一台",
+          "多买服务器解决不了，需系统级算力基础设施支撑"
+        ],
+        "detail": "物理AI热度正从机器人本体向产业链扩散。过去一年，人形机器人和四足机器狗频繁出现在工厂、仓库和门店，产业界关心的问题从“能完成什么动作”变成“如何越做越准”。这背后依赖计算系统：数据从哪来、仿真在哪跑、模型多久迭代、算力如何匹配研发节奏。英伟达提出“三台计算机”概念，分别用于训练模型、在数字孪生与仿真环境中训练验证技能",
+        "generatedAt": "2026-11-16T19:48:24+08:00"
+      }
+    },
+    {
       "id": "61f0fb7c8641f0b8",
       "title": "AI泡沫监测·之三：英伟达的毛利期权——一张美国AI泡沫的层积图",
       "url": "https://tmtpost.com/8206051.html",
@@ -689,6 +1176,79 @@
         ],
         "detail": "开发者开源了 inside-llm 项目，用于观察大语言模型内部运行情况。它还能同时加载同一模型的两个量化版本，逐 token 对比输出，直观显示两者从哪个 token 开始出现分歧。",
         "generatedAt": "2026-11-16T08:34:07+08:00"
+      }
+    },
+    {
+      "id": "82072c86daf6e8cc",
+      "title": "Asahi Linux 许可证从 MIT 换成 GPL，因为有人拿 AI 洗了它的代码",
+      "url": "https://oschina.net/news/503588/asahi-linux-drops-mit-for-gpl",
+      "summary": "Asahi Linux 是今天你能在 Apple Silicon Mac 上运行 Linux 的底层。多年来，这个开源项目把自己大部分代码放在 MIT 许可证下，好让任何人——包括各种 BSD——都能按需复用。现在这条路走到头了。 Asahi Linux 宣布，所有仓库都迁到 GPL v2 或更高版本。今后 Asahi 的代码只会使用强 copyleft 许可证。原因不是法律风险...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T11:59:50+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.6,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Asahi Linux 改用 GPL 许可证，防 AI 洗代码",
+        "takeaway": "Asahi Linux 因有人用 AI 洗其 MIT 代码，将仓库迁至 GPL，强化 copyleft 保护。",
+        "bullets": [
+          "Asahi Linux 是 Apple Silicon Mac 运行 Linux 的底层项目。",
+          "此前用 MIT 许可证，方便 BSD 等复用。",
+          "现所有仓库迁至 GPL v2 或更高版本。",
+          "原因是有开发者用 AI 洗代码，规避开源义务。"
+        ],
+        "detail": "Asahi Linux 宣布所有仓库从 MIT 许可证迁移到 GPL v2 或更高版本。此前宽松的 MIT 许可证允许包括 BSD 在内的项目自由复用代码，但现在有人利用 AI 工具“洗”代码，绕过开源许可要求，促使项目转向强 copyleft 许可证以保护社区成果。",
+        "generatedAt": "2026-11-16T19:48:25+08:00"
+      }
+    },
+    {
+      "id": "77b6f3085a667983",
+      "title": "internlm/Sage-S2.1-Flash · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xxn631/internlmsages21flash_hugging_face",
+      "summary": "Introduction Sage S2.1 Flash is a scientific multimodal model from Shanghai Artificial Intelligence Laboratory designed for research tasks that require multiple rounds of analysis and verification. It combines scientific data understanding …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T19:36:14+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "multimodal"
+      ],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "上海AI实验室发布Sage-S2.1-Flash科学多模态模型",
+        "takeaway": "上海AI实验室推出面向科研的多模态模型，主打多轮分析与验证，已在Hugging Face上线。",
+        "bullets": [
+          "上海AI实验室发布Sage-S2.1-Flash，定位科学多模态模型。",
+          "面向需多轮分析验证的科研任务，强调科学数据理解。",
+          "模型已上线Hugging Face，供研究者获取使用。"
+        ],
+        "detail": "Sage-S2.1-Flash是上海人工智能实验室推出的科学多模态模型，专为需要多轮分析和验证的研究任务设计。它结合科学数据理解能力，已在Hugging Face发布，方便科研人员使用。",
+        "generatedAt": "2026-11-16T19:48:24+08:00"
       }
     },
     {
@@ -794,6 +1354,299 @@
       }
     },
     {
+      "id": "5e9c4afec7c029bb",
+      "title": "DigitalOcean Managed Agents为AI智能体提供托管云基础设施",
+      "url": "https://infoq.cn/article/LjVeWVAsBWwaiifdMRiu",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T24:42:41+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DigitalOcean 推出 Managed Agents 托管 AI 智能体云基础设施",
+        "takeaway": "DigitalOcean 上线托管服务，帮开发者省去自建 AI 智能体底层设施的麻烦。",
+        "bullets": [
+          "面向 AI 智能体提供托管云基础设施",
+          "开发者无需自行搭建底层运行环境",
+          "目前仅公布产品信息，细节有限"
+        ],
+        "detail": "DigitalOcean 推出 Managed Agents，为 AI 智能体提供托管的云基础设施。开发者可以把智能体运行所需的底层环境交给平台管理，减少自建和维护成本。目前公开信息较少，具体功能和定价尚未披露。",
+        "generatedAt": "2026-11-16T19:48:28+08:00"
+      }
+    },
+    {
+      "id": "f81c6e2c72f145ba",
+      "title": "Docker Sandbox Kit规范：将AI智能体权限打包为OCI镜像",
+      "url": "https://infoq.cn/article/yV89L6iMCqSLDHeSoLxo",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T24:22:11+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Docker 推出 Sandbox Kit 规范：把 AI 智能体权限打包成 OCI 镜像",
+        "takeaway": "Docker 提出新规范，用 OCI 镜像封装 AI 智能体的权限配置，让智能体运行边界更可控。",
+        "bullets": [
+          "Docker 发布 Sandbox Kit 规范，面向 AI 智能体",
+          "智能体权限被打包为 OCI 镜像形式",
+          "目标是让智能体运行环境与权限更可控"
+        ],
+        "detail": "Docker 提出 Sandbox Kit 规范，核心思路是把 AI 智能体的权限配置打包成 OCI 镜像。这样智能体运行所需的边界和授权可以像容器镜像一样分发和管理，便于统一约束其可访问范围。",
+        "generatedAt": "2026-11-16T19:48:29+08:00"
+      }
+    },
+    {
+      "id": "7ec98161d7142b57",
+      "title": "AI 来了，团队究竟怎么变？",
+      "url": "https://infoq.cn/video/ODJ7iuw7swP8TlU4SiAB",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T23:56:35+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 冲击下团队如何转型？InfoQ 探讨组织变革",
+        "takeaway": "InfoQ 中国发文讨论 AI 对团队的影响，但摘要信息有限，需看原文了解具体观点。",
+        "bullets": [
+          "InfoQ 中国发布文章，探讨 AI 时代团队的变化。",
+          "文章标题设问，但摘要仅提示查看原文，未给出具体结论。",
+          "对关注 AI 与团队管理的读者有参考价值，需阅读全文获取细节。"
+        ],
+        "detail": "InfoQ 中国发布了一篇题为《AI 来了，团队究竟怎么变？》的文章，讨论人工智能对团队的影响。但摘要只提供了原文链接，没有具体内容，因此无法得知文章的具体观点和案例。",
+        "generatedAt": "2026-11-16T19:48:30+08:00"
+      }
+    },
+    {
+      "id": "9e76317c09cc6396",
+      "title": "马斯克喊话“真男人自己管理内存”，三十年系统老将警告：Rust 也拦不住 AI 制造复杂性",
+      "url": "https://infoq.cn/article/FWqT2oGIEl9zlyJ7HXZF",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T22:28:15+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "马斯克喊话手动管理内存，老将警告 Rust 也挡不住 AI 复杂性",
+        "takeaway": "马斯克主张手动管理内存，三十年系统老将反驳：Rust 也拦不住 AI 带来的复杂性。",
+        "bullets": [
+          "马斯克称真男人自己管理内存，反对依赖自动内存管理",
+          "三十年系统老将警告：Rust 的安全保障也挡不住 AI 制造的复杂性",
+          "争论核心是内存安全与系统复杂性的取舍"
+        ],
+        "detail": "马斯克公开主张程序员应手动管理内存，引发讨论。一位有三十年经验的系统老将回应称，即便用 Rust 这类强调内存安全的语言，也无法阻止 AI 引入的复杂性，安全语言不是万能解。",
+        "generatedAt": "2026-11-16T19:48:30+08:00"
+      }
+    },
+    {
+      "id": "46b543cc9aaac77a",
+      "title": "AI 写得快，谁来接住生产责任",
+      "url": "https://infoq.cn/article/sIqEVPmL3P9PExLjPzPW",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T22:10:03+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 写得快，谁来接住生产责任",
+        "takeaway": "AI 让代码产出提速，但上线后的故障责任归属成了新问题，值得开发者与团队管理者关注。",
+        "bullets": [
+          "AI 编码提速，生产事故的责任划分变得模糊",
+          "开发者、团队与工具方之间责任边界待厘清",
+          "提示团队需为 AI 生成代码建立审核与兜底机制"
+        ],
+        "detail": "文章讨论 AI 让写代码变快之后，代码上线出问题该由谁负责。核心是速度提升带来的生产责任归属问题，涉及开发者与团队如何为 AI 产出的代码把关。",
+        "generatedAt": "2026-11-16T19:48:30+08:00"
+      }
+    },
+    {
+      "id": "f99ab8aebf990e0b",
+      "title": "众筹超500万美元，全球首款多地形跟拍机器人Beni线下首发",
+      "url": "https://leiphone.com/category/weiwu/nFSVApZT1GmSFH9T.html",
+      "summary": "2026 年 11 月 14 日，深圳湾文化广场北馆INNO100 全球创新旗舰店，Kickstarter为其平台上的众筹爆款新品——妙动科技打造的多地形跟拍机器人Beni，举办“首硬礼”中国线下首发活动。即日起用户可在该线下门店现场体验并直接购买Beni跟拍机器人，标准套装4999元、探索套装5799元。此前，Beni刚以“全球首款多地形跟拍机器人”的定位，通过海外众筹平台Kickstarter首发亮相，截至上月众筹收官，共收获了7926名支持者，总筹资超 500 万美元，…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T11:50:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ca4a04c0f2877521",
+      "title": "部分因为 AI Overviews Reddit 年访问量下滑 13%",
+      "url": "https://solidot.org/story?sid=85899",
+      "summary": "根据分析公司 Similarweb 的数据，2025 年 10 月至 2026 年 10 月期间，Reddit 的全球访问量下滑了 13%。来自 Google 搜索的流量减少，促使 Reddit 准备强制要求所有访客必须登录。2024 年 Reddit 与 Google 达成协议授权其使用平台内容用于 AI 训练，当时受益于 Google 的 Reddit 搜索流量处于激增阶段。根据 Similarweb 的数据，2023 年 5 月至 2024 年 5 月期间 Reddit…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T17:26:54+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "00656bb581ad8949",
+      "title": "AI公司转型最难的一步：如何构建AI Native的产品体系",
+      "url": "https://leiphone.com/category/ai/pzBYjjLW3Cjb6AAO.html",
+      "summary": "企业把大模型接进产品之后，新的经营问题才刚刚展开。客户提出一项任务，系统能拿到哪些信息，由谁核准结果，出现例外时如何处理，都会影响AI能否持续投入使用。产品演示中的能力，需要经由完整的服务过程才能转化为客户价值。王强宇出任百望股份首席执行官（CEO），为观察这项变化提供了一个具体切口：王强宇如何将百望的财税场景积累转化为专业模型与智能体产品，并让研发、交付和组织能力共同支撑商业化。产品的交付单位开始发生变化在传统软件服务中，功能上线、接口联通与流程配置，是重要的交付内容。AI…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T10:12:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "产品",
+        "功能",
+        "客户"
+      ],
+      "confidence": 0.75,
+      "score": 32,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7c76968e2634f3be",
+      "title": "一个 100% 用 AI 写代码的工程师，开始担心它把代码库写“脆弱”了",
+      "url": "https://oschina.net/news/503586/ai-usage-generates-a-fragile-codebase",
+      "summary": "Evan X. Merz 现在 100% 的代码都用 AI 生成。不是因为他信这个，是因为他认为这才符合当今的行业标准。今年 5 月他从 Meta 被裁。他对原因有个猜测：「我怀疑原因之一，是我比一些同事更抗拒把 AI/LLM 当作编码工具。」他承认在 Meta 最后几个月，至少 90% 的代码是 AI 生成的——「这是拿到体面评级的最低标准」。但...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T11:23:14+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "代码库"
+      ],
+      "confidence": 1,
+      "score": 31,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8468cd1c9400b88b",
+      "title": "Qwen4-Max",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 588 # Comments: 248",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T10:14:44+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 31,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "1278034560fb117a",
       "title": "Villanova2 - a VillanovaAI Collection",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xx1rbk/villanova2_a_villanovaai_collection",
@@ -859,6 +1712,546 @@
       "keywords": [],
       "confidence": 0,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "84312759ba0a5488",
+      "title": "AI变量下的多线博弈，面板行业迎来新卡位战",
+      "url": "https://tmtpost.com/8206976.html",
+      "summary": "过去，企业需要思考如何生产更多、更便宜的屏幕。AI时代，则需要思考如何生产更有价值、更符合未来需求的屏幕。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T19:30:16+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9e970491d09ffa39",
+      "title": "Given the flood of new inference engines any recommendations for 2x 7900xtx ?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xxmr68/given_the_flood_of_new_inference_engines_any",
+      "summary": "Hey everyone as the title says I am looking for inference engines that work well with AMD GPUs. There have been so many new ones that I am sure there is something better then llamacpp which currently hosts this. My use case is the following…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T19:11:35+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPUs",
+        "AMD"
+      ],
+      "confidence": 0.71,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d9646e5b1b7fdbde",
+      "title": "Evaluating Large Language Models for Scientific Paper Search: Retrieval Success and Inference Latency on Mac Studio and NVIDIA A100",
+      "url": "https://arxiv.org/abs/2611.17929",
+      "summary": "arXiv:2611.17929v1 Announce Type: new Abstract: Scientific literature search can benefit from locally deployed LLM assistants, which reduce reliance on hosted model providers while giving research teams greater control over their data and i…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T13:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "01beded6f8b6f240",
+      "title": "Hallucination-Free GUI Grounding via Regression-Free Layout-Aware Matching",
+      "url": "https://arxiv.org/abs/2608.09654",
+      "summary": "arXiv:2608.09654v2 Announce Type: replace Abstract: GUI agents are shifting from metadata-dependent large language models to purely visual multimodal large language models (MLLMs) that operate directly on screenshots. The core task, GUI gro…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T13:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "73da86d2fb4a310a",
+      "title": "I'm starting to think a specialized 4B is enough for most of the tasks I'd use an LLM for",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xxfv69/im_starting_to_think_a_specialized_4b_is_enough",
+      "summary": "When I started training Qwen3.5-4B-3D-Coder , I honestly wasn't sure it would work. Now, after that model and the GLB asset version, I'm starting to think I underestimated how much these smaller models can actually learn. My impression is t…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T12:13:31+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e31045ab9c331894",
+      "title": "Evaluating Human Sensitivity to Gender Biased AI-Generated Content through Human Assessment of Google's Autocomplete Function",
+      "url": "https://arxiv.org/abs/2611.18371",
+      "summary": "arXiv:2611.18371v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly present, but their effects on human users remain underexplored. We tested whether AI-attributed information influences views regarding gender-rela…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T13:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 28,
+      "paperRank": 7,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5051c90147699bc6",
+      "title": "Vision-as-a-Tool: Visual Harness for Multimodal Agentic Coding",
+      "url": "https://arxiv.org/abs/2611.17797",
+      "summary": "arXiv:2611.17797v1 Announce Type: new Abstract: Multimodal agentic coding requires robust visual reasoning to analyze observations and evaluate generated artifacts. Current frameworks largely rely on a Thinking-with-Images paradigm, where a…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T13:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 16,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0effe99313d5fbb3",
+      "title": "When to Trust Simulated Patient Responses:Support-Gated World Models for Vasopressor Decision Support",
+      "url": "https://arxiv.org/abs/2611.18458",
+      "summary": "arXiv:2611.18458v1 Announce Type: new Abstract: Clinical world models expose language-model agents to predicted patient responses, but simulations can be unreliable for poorly supported treatments or unfamiliar hospitals. We introduce Suppo…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T13:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3b7e77ad0962dbf8",
+      "title": "When to Rethink: Learning Multi-Perspective Self-Verification for Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.07018",
+      "summary": "arXiv:2610.07018v2 Announce Type: replace Abstract: Vision-language models (VLMs) have achieved strong performance in multimodal reasoning, yet they remain prone to generating plausible but incorrect answers. Self-verification offers a prac…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T13:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2b5446e03b672ceb",
+      "title": "Agent-as-a-Judge",
+      "url": "https://arxiv.org/abs/2611.18067",
+      "summary": "arXiv:2611.18067v1 Announce Type: new Abstract: Artificial intelligence has progressed from task-specific systems toward general models spanning perception, generation, reasoning, and autonomous interaction, making reliable evaluation essen…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T13:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7e9a74ca3ff85ce8",
+      "title": "WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents",
+      "url": "https://arxiv.org/abs/2611.17955",
+      "summary": "arXiv:2611.17955v1 Announce Type: new Abstract: Web agents powered by large language and vision-language models are increasingly applied to realistic browser work that spans heterogeneous applications, multimodal content, and stateful workf…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T13:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "66d8e40987146d3e",
+      "title": "From Chats to Markets: AgenticPay for LLM-Powered Negotiation in Multi-Agent Commerce",
+      "url": "https://arxiv.org/abs/2602.06008",
+      "summary": "arXiv:2602.06008v2 Announce Type: replace Abstract: Large language model agents are increasingly expected to negotiate and transact autonomously, yet existing benchmarks rarely combine multimodal product grounding, multi-issue bargaining, a…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T13:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "719682cd7e7b5761",
+      "title": "Agentic-OPD: Recovering Forgotten Agent Capabilities via On-Policy Distillation for Agentic Tasks",
+      "url": "https://arxiv.org/abs/2611.12799",
+      "summary": "arXiv:2611.12799v2 Announce Type: replace-cross Abstract: Reinforcement learning is now the mainstream paradigm for training LLMs on agentic tasks, yet standard practice keeps only the best-validation checkpoint and discards the rest. We sh…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T13:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 9,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3eab619cb62bfb3b",
+      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+      "url": "https://arxiv.org/abs/2611.17341",
+      "summary": "arXiv:2611.17341v1 Announce Type: new Abstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: r…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T13:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "867bf37f2624a3be",
+      "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
+      "url": "https://arxiv.org/abs/2611.17564",
+      "summary": "arXiv:2611.17564v1 Announce Type: new Abstract: Governments are writing rules for artificial intelligence that decide what counts as an automated decision or a harm, often before the people they affect have a chance to question them. We int…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T13:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a5b6601e3134b35d",
+      "title": "ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models",
+      "url": "https://arxiv.org/abs/2611.18494",
+      "summary": "arXiv:2611.18494v1 Announce Type: new Abstract: Small language models are attractive for local, low-cost, and privacy-sensitive deployment, but they remain unreliable on mathematical reasoning tasks that require decomposition, exact computa…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T13:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "05d9464cb7082aaf",
+      "title": "Benchmarks Don't Talk Back: Learning Through Self-Disagreement",
+      "url": "https://arxiv.org/abs/2611.17563",
+      "summary": "arXiv:2611.17563v1 Announce Type: cross Abstract: A benchmark usually measures a language model alone with a question, and deployment rarely looks like that: answers get contested, and models give up correct ones under counter-reasoning tha…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T13:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1f8a603a7f5323f4",
+      "title": "Rethinking Visual Reasoning in Text-to-Image Reward Modeling",
+      "url": "https://arxiv.org/abs/2611.17585",
+      "summary": "arXiv:2611.17585v1 Announce Type: cross Abstract: Reward models are a core component of modern text-to-image systems, serving as the objective for inference-time selection and RL-based post-training. A key prerequisite is visual understandi…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T13:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9099976e05e38f58",
+      "title": "From Local Prediction Error to Final Outputs: A Theory of Expert Sharing in Multi-Step Reasoning",
+      "url": "https://arxiv.org/abs/2611.17879",
+      "summary": "arXiv:2611.17879v1 Announce Type: cross Abstract: Mixture-of-experts (MoE) models can share experts across layers or computational steps, pooling training information from different contexts. This can reduce local prediction error, but mult…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T13:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "72d5d955cd0b8726",
+      "title": "Condensing Law of Security Information",
+      "url": "https://arxiv.org/abs/2611.17918",
+      "summary": "arXiv:2611.17918v1 Announce Type: cross Abstract: Scaling laws indicate that the generalization error of a large language model (LLM) decreases monotonically with model size once data is sufficient, and the corollary that larger models outp…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T13:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ef5720ac7b8d7093",
+      "title": "Evaluating Chain-of-Thought Reasoning through Reusability and Verifiability",
+      "url": "https://arxiv.org/abs/2602.17544",
+      "summary": "arXiv:2602.17544v2 Announce Type: replace Abstract: AI applications increasingly compose multiple models, where one model acts on the output produced by another model. The transferred text can also carry the reasoning of the sender model. C…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-16T13:00:00+08:00",
+      "fetchedAt": "2026-11-16T19:48:06+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 6,
       "related": [],
       "pushed": false
     }
