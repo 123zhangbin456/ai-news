@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T12:57:45+08:00",
+  "updatedAt": "2026-11-17T13:17:17+08:00",
   "items": [
     {
       "id": "8c824024c9147b94",
@@ -1500,6 +1500,40 @@
         ],
         "detail": "Cloudflare宣布其后量子GeoKey Manager进入封闭测试，但暂不支持基于属性的加密。这意味着早期测试者无法使用属性加密功能，可能影响特定安全场景的部署。",
         "generatedAt": "2026-11-17T12:14:25+08:00"
+      }
+    },
+    {
+      "id": "9f610b3ebd2fa892",
+      "title": "Azure 版 LocalStack 进入公开预览阶段，安全设置会存储但不生效",
+      "url": "https://infoq.cn/article/wPiiddayboPKUEH6m4Ss",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T21:00:00+08:00",
+      "fetchedAt": "2026-11-17T13:17:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Azure 版 LocalStack 公测：安全设置存而不用",
+        "takeaway": "LocalStack 推出 Azure 预览版，但安全配置仅存储不生效，本地模拟需谨慎。",
+        "bullets": [
+          "Azure 版 LocalStack 进入公开预览阶段",
+          "安全设置会存储但不生效，存在配置风险",
+          "面向本地开发测试，需注意安全功能缺失"
+        ],
+        "detail": "LocalStack 的 Azure 模拟版本已开放公开预览。不过官方说明，安全相关设置虽然会被保存，但实际不会生效。这意味着本地开发时依赖这些安全配置的测试可能无法反映真实环境行为。",
+        "generatedAt": "2026-11-17T13:17:17+08:00"
       }
     },
     {
