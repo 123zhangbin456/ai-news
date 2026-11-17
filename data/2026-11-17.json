@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T06:41:11+08:00",
+  "updatedAt": "2026-11-17T12:14:25+08:00",
   "items": [
     {
       "id": "8c824024c9147b94",
@@ -75,6 +75,42 @@
         "generatedAt": "2026-11-17T05:16:58+08:00"
       },
       "pushedAt": "2026-11-17T06:41:11+08:00"
+    },
+    {
+      "id": "5e50937a8e920ca3",
+      "title": "File Mover Express：亚马逊云科技发布用于 S3 文件传输的开源工具",
+      "url": "https://infoq.cn/article/i0a4s8Cf7WMxcZha74kF",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T19:00:00+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.4,
+      "score": 56,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AWS 开源 S3 文件传输工具 File Mover Express",
+        "takeaway": "亚马逊云科技推出开源工具，简化 S3 文件传输，值得关注云存储迁移场景。",
+        "bullets": [
+          "亚马逊云科技发布开源工具 File Mover Express",
+          "该工具面向 S3 文件传输场景",
+          "开源意味着用户可自行部署和定制"
+        ],
+        "detail": "亚马逊云科技推出了名为 File Mover Express 的开源工具，专门用于 S3 文件传输。目前公开信息有限，但开源形式意味着开发者可以自行部署和按需调整。",
+        "generatedAt": "2026-11-17T12:14:17+08:00"
+      }
     },
     {
       "id": "773cc78ee17a9631",
@@ -416,6 +452,76 @@
       "pushedAt": "2026-11-17T06:41:11+08:00"
     },
     {
+      "id": "f1e25b415feb361a",
+      "title": "DeepSeek 悄悄收紧免费额度，或因算力资源紧张所致",
+      "url": "https://oschina.net/news/503610",
+      "summary": "11 月 16 日，「DeepSeek 使用额度已达上限」冲上热搜。多名用户反馈，App 和网页端同时收紧了限制，而且一次收了三条。最直接的一条：超过 7 天没交互的长对话不能再接着聊。页面上的原话是「因算力不足，不再支持 7 天不活跃的长对话」，系统给出的办法是新开一个对话，或者把历史记录导出去。单次输入的文字上限也被...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T11:45:14+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 0.5,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 收紧免费额度，长对话与输入上限双双受限",
+        "takeaway": "DeepSeek 因算力不足限制免费用户，长对话和输入长度被收紧，引发热议。",
+        "bullets": [
+          "超 7 天未互动的长对话无法继续，需新开或导出记录",
+          "单次输入文字上限同步下调，App 与网页端均受影响",
+          "官方页面归因算力不足，用户担忧免费服务收缩"
+        ],
+        "detail": "11 月 16 日「DeepSeek 使用额度已达上限」登上热搜。用户发现 App 和网页端同时收紧限制：超过 7 天不活跃的长对话不能再续聊，页面写明因算力不足；单次输入字数上限也被下调。官方建议新开对话或导出历史记录。",
+        "generatedAt": "2026-11-17T12:14:18+08:00"
+      }
+    },
+    {
+      "id": "6bae380ae579306f",
+      "title": "阿里 Qwen4-Max 正式登场：单任务成本暴降 58%，前端编程全球第六",
+      "url": "https://infoq.cn/article/bZrW40XdHeMSkfOBxL2C",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T18:07:10+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "阿里 Qwen4-Max 发布：单任务成本降 58%，前端编程全球第六",
+        "takeaway": "阿里推出 Qwen4-Max，成本大幅下降且前端编程能力跻身全球第六，值得关注。",
+        "bullets": [
+          "阿里正式发布 Qwen4-Max 模型",
+          "单任务成本相比之前降低 58%",
+          "前端编程能力排名全球第六"
+        ],
+        "detail": "阿里正式推出 Qwen4-Max 模型，其单任务成本大幅下降 58%，同时在前端编程能力上位列全球第六。这一发布意味着模型在降本增效的同时保持了较强的编程性能。",
+        "generatedAt": "2026-11-17T12:14:18+08:00"
+      }
+    },
+    {
       "id": "dca31e1cbc0198f3",
       "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
       "url": "https://theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
@@ -493,6 +599,45 @@
       "pushedAt": "2026-11-17T06:41:11+08:00"
     },
     {
+      "id": "bec78e9702b1517e",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T07:32:32+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raised",
+        "valuation",
+        "series",
+        "billion"
+      ],
+      "confidence": 0.76,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "网络安全AI初创Corma三个月估值破10亿美元",
+        "takeaway": "Corma产品推出仅三个月即获1.25亿美元A轮融资，估值达10亿美元，由NEA领投。",
+        "bullets": [
+          "Corma推出产品仅三个月，完成1.25亿美元A轮融资",
+          "本轮由NEA领投，估值达10亿美元",
+          "AI网络安全赛道热度持续攀升"
+        ],
+        "detail": "AI网络安全初创公司Corma在推出产品约三个月后，完成了1.25亿美元的A轮融资，估值达到10亿美元，本轮融资由NEA领投。",
+        "generatedAt": "2026-11-17T12:14:18+08:00"
+      }
+    },
+    {
       "id": "b1c71d07875ac772",
       "title": "Strengthening the fight against online child sexual abuse with new tools and support",
       "url": "https://openai.com/index/strengthening-online-child-safety",
@@ -566,6 +711,80 @@
         "generatedAt": "2026-11-17T05:17:10+08:00"
       },
       "pushedAt": "2026-11-17T06:41:11+08:00"
+    },
+    {
+      "id": "c267813b00db4e00",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "url": "https://theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreadi…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T07:17:34+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋辞任英伟达引发阴谋论，科技领袖呼吁其回归",
+        "takeaway": "黄仁勋结束33年英伟达生涯，业界震惊并出现被迫离职的猜测，科技领袖要求其回归。",
+        "bullets": [
+          "黄仁勋辞去英伟达CEO职务，结束33年任期。",
+          "科技界领袖呼吁黄仁勋回归英伟达。",
+          "阴谋论流传，称其离职是遭人算计。"
+        ],
+        "detail": "黄仁勋在英伟达工作超过33年后突然辞职，震动科技行业。一些知名人士公开呼吁他回归，同时许多人相信并传播一种阴谋论，认为他的离开是针对他的阴谋。",
+        "generatedAt": "2026-11-17T12:14:19+08:00"
+      }
+    },
+    {
+      "id": "101b57d2a2199602",
+      "title": "Windows 11 在记录你用过哪个 AI 编程助手",
+      "url": "https://oschina.net/news/503608/windows-coding-agent-telemetry",
+      "summary": "一位开发者在让 AI 帮忙翻 Windows 二进制文件时，在 MissionControlAggregator.dll 里翻到了一份名单：codex.exe、claude.exe、copilot.exe、cursor.exe，再往下还有 python.exe、dotnet.exe、gcc.exe、code.exe。一个系统 DLL 为什么要认识编程助手？ 他把这个疑问追下去了。结论是：这个组件确实在记录你用过哪些 AI...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T10:54:07+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "助手",
+        "copilot"
+      ],
+      "confidence": 0.67,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Windows 11 被曝记录你用过哪些 AI 编程助手",
+        "takeaway": "开发者发现系统 DLL 内置名单，追踪 codex、claude、copilot、cursor 等工具的使用情况。",
+        "bullets": [
+          "MissionControlAggregator.dll 内含 AI 编程助手可执行文件名列表",
+          "名单包括 codex.exe、claude.exe、copilot.exe、cursor.exe 等",
+          "还涉及 python.exe、dotnet.exe、gcc.exe、code.exe 等开发工具",
+          "该组件被指在记录用户使用过哪些 AI 编程助手"
+        ],
+        "detail": "有开发者在翻看 Windows 二进制文件时，于 MissionControlAggregator.dll 中发现一份名单，包含 codex.exe、claude.exe、copilot.exe、cursor.exe 等 AI 编程助手，以及 python.exe、dotnet.exe 等开发工具。他追查后认为，该组件",
+        "generatedAt": "2026-11-17T12:14:19+08:00"
+      }
     },
     {
       "id": "d3a67d4f7f1ae331",
@@ -645,6 +864,79 @@
       "pushedAt": "2026-11-17T06:41:11+08:00"
     },
     {
+      "id": "764198fc49a3e15f",
+      "title": "llm 0.37.3",
+      "url": "https://simonwillison.net/2026/Nov/16/llm",
+      "summary": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix that broke LLM's logging code . Short versi…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T07:57:26+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "LLM 0.37.3 发布：修复 Homebrew 新版 SQLite 导致的日志故障",
+        "takeaway": "这是一次针对 Homebrew 打包问题的紧急修复，使用 LLM 命令行工具的用户建议升级。",
+        "bullets": [
+          "LLM 发布 0.37.3 版本，属于 bug 修复更新",
+          "问题源于 Homebrew 升级到 SQLite 3.54.1",
+          "新版 SQLite 的修复破坏了 LLM 的日志代码",
+          "主要影响通过 Homebrew 安装 LLM 的用户"
+        ],
+        "detail": "LLM 0.37.3 是一个修复版本，主要解决 Homebrew 最新打包带来的问题。Homebrew 现在附带 SQLite 3.54.1，其中一项修复意外破坏了 LLM 的日志代码，因此作者发布了这个版本进行修补。",
+        "generatedAt": "2026-11-17T12:14:20+08:00"
+      }
+    },
+    {
+      "id": "90dd00be493a7118",
+      "title": "Skyeye 云企业级 AI + 零代码智能制造系统-3D仓库 - v4.1.12 发布",
+      "url": "https://oschina.net/news/503607",
+      "summary": "Skyeye 云企业级AI+零代码智能制造，智能制造一体化，采用 SpringBoot+ UNI-APP + Ant Design Vue 的零代码平台开发模式。包含 100 多种电子流程，CRM、PM、ERP、MES、ADM、OA、EHR、AI、项目、商城、财务、多班次考勤、薪资、招聘、云售后、论坛、问卷、报表设计、工作流、Saas 等功能。打造全网首套零代码、AI应用最广...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T10:35:20+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Skyeye 智能制造系统 v4.1.12 发布，新增 3D 仓库功能",
+        "takeaway": "零代码 + AI 的智能制造平台更新，3D 仓库上线，覆盖 100 多种电子流程。",
+        "bullets": [
+          "Skyeye 发布 v4.1.12，新增 3D 仓库模块",
+          "基于 SpringBoot、UNI-APP、Ant Design Vue 零代码开发",
+          "集成 CRM、ERP、MES、OA、AI 等 100 多种流程"
+        ],
+        "detail": "Skyeye 是一个企业级 AI + 零代码智能制造系统，采用零代码平台开发模式。本次 v4.1.12 版本新增 3D 仓库功能，系统涵盖 CRM、ERP、MES、OA、AI、财务、考勤等 100 多种电子流程，号称全网首套零代码、AI 应用最广的智能制造平台。",
+        "generatedAt": "2026-11-17T12:14:21+08:00"
+      }
+    },
+    {
       "id": "ea44684bf6587421",
       "title": "Jensen Huang Is Gone. Now What?",
       "url": "https://wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang",
@@ -722,6 +1014,77 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-11-17T06:41:11+08:00"
+    },
+    {
+      "id": "9d7d94f09b0c2fcc",
+      "title": "Huang Leaves Nvidia. Chinese AI Buyers and Suppliers Feel It Next",
+      "url": "https://tmtpost.com/8207932.html",
+      "summary": "Jensen Huang has resigned as Nvidia’s CEO amid personal scandals, rattling a company long identified with one leader. For Chinese firms, the shock runs through export policy, GPU supply, overseas rental capacity, and domestic substitution. …",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T09:54:04+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU",
+        "NVIDIA"
+      ],
+      "confidence": 0.8,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋辞任英伟达CEO，中国AI产业链受波及",
+        "takeaway": "黄仁勋因个人丑闻辞任英伟达CEO，这家长期与单一领导者深度绑定的公司突遭震荡，中国AI企业将面临出口政策、GPU供应等多重不确定性。",
+        "bullets": [
+          "黄仁勋因个人丑闻辞去英伟达CEO职务，公司长期与单一领导者深度绑定。",
+          "中国AI企业受冲击：出口政策、GPU供应、海外租赁算力均存变数。",
+          "国内替代方案可能加速，但短期供应链稳定性面临考验。"
+        ],
+        "detail": "黄仁勋因个人丑闻辞去英伟达CEO一职，这家长期以他为标志的公司因此震荡。对中国企业而言，冲击体现在出口政策、GPU供应、海外租赁算力和国产替代等多个环节。",
+        "generatedAt": "2026-11-17T12:14:21+08:00"
+      }
+    },
+    {
+      "id": "d219ebc99cf95704",
+      "title": "Hugging Face switched its language model inference routing to OpenRouter",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xy9o6j/hugging_face_switched_its_language_model",
+      "summary": "Hugging Face announced on November 16, 2026, that requests to language models through Inference Providers now go through OpenRouter instead of Hugging Face's own router. OpenRouter picks a provider for each call based on live price, speed, …",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T11:16:54+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Hugging Face 推理路由改用 OpenRouter",
+        "takeaway": "Hugging Face 把语言模型推理请求交给 OpenRouter 调度，不再用自研路由，影响开发者调用体验。",
+        "bullets": [
+          "2026年11月16日起，Hugging Face 推理请求改由 OpenRouter 路由",
+          "OpenRouter 按实时价格、速度等指标为每次调用选供应商",
+          "Hugging Face 自研路由被替代，开发者调用路径发生变化"
+        ],
+        "detail": "Hugging Face 宣布，通过 Inference Providers 发起的语言模型请求现在改走 OpenRouter，不再使用自家路由器。OpenRouter 会根据实时价格、速度等因素为每次调用挑选供应商。",
+        "generatedAt": "2026-11-17T12:14:22+08:00"
+      }
     },
     {
       "id": "7c3835656742b10f",
@@ -894,6 +1257,146 @@
       "pushedAt": "2026-11-17T06:41:11+08:00"
     },
     {
+      "id": "b684c0de40676658",
+      "title": "Vitest 5 通过共享 Vite 服务器、跟踪视图和更严格的测试默认设置来优先保障性能",
+      "url": "https://infoq.cn/article/wy7Osc1cHY1U9gQR3pwH",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T20:00:00+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "服务器"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Vitest 5 发布：共享 Vite 服务器提升测试性能",
+        "takeaway": "Vitest 5 通过共享 Vite 服务器、跟踪视图和更严格默认设置，重点优化测试性能。",
+        "bullets": [
+          "Vitest 5 引入共享 Vite 服务器机制",
+          "新增跟踪视图，便于排查测试问题",
+          "测试默认设置更严格，减少隐性问题"
+        ],
+        "detail": "Vitest 5 正式发布，核心变化是让多个测试共享同一个 Vite 服务器，以减少重复启动开销。同时新增跟踪视图帮助定位问题，并采用更严格的测试默认设置。",
+        "generatedAt": "2026-11-17T12:14:23+08:00"
+      }
+    },
+    {
+      "id": "82c89c12e3133ebd",
+      "title": "openEuler 进军 Agentic Infra！主席熊伟：不讲大故事，先解决真问题",
+      "url": "https://infoq.cn/article/JhBUwv1pHR3S986Ih0iJ",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T18:41:20+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "openEuler 进军 Agentic Infra，主席熊伟：先解决真问题",
+        "takeaway": "openEuler 宣布布局 Agentic Infra，强调务实落地而非宏大叙事，值得关注其生态走向。",
+        "bullets": [
+          "openEuler 宣布进军 Agentic Infra 方向",
+          "主席熊伟表态不讲大故事、先解决真问题",
+          "具体落地路径与产品细节尚未披露"
+        ],
+        "detail": "openEuler 社区宣布向 Agentic Infra 方向拓展，社区主席熊伟表示不追求宏大叙事，而是优先解决实际问题。目前公开信息有限，具体技术方案和落地节奏仍待后续披露。",
+        "generatedAt": "2026-11-17T12:14:23+08:00"
+      }
+    },
+    {
+      "id": "21fa78b250b524a5",
+      "title": "从 SDLC 到 ADLC：宝洁的 AI 原生组织实验",
+      "url": "https://infoq.cn/article/prRYMYmhOvSY9EaMz8Oc",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T18:15:13+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "实验"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "宝洁从 SDLC 转向 ADLC：AI 原生组织实验",
+        "takeaway": "宝洁尝试把软件开发生命周期升级为 AI 驱动的开发周期，探索组织层面的 AI 原生改造。",
+        "bullets": [
+          "宝洁提出从 SDLC 到 ADLC 的转变",
+          "核心是让 AI 融入开发全流程",
+          "属于 AI 原生组织实验，非单纯工具应用"
+        ],
+        "detail": "宝洁正在做一场组织实验：把传统的软件开发生命周期（SDLC）改造成 AI 驱动的开发周期（ADLC）。重点不只是用 AI 写代码，而是让 AI 贯穿开发流程，推动组织向 AI 原生形态转变。",
+        "generatedAt": "2026-11-17T12:14:24+08:00"
+      }
+    },
+    {
+      "id": "394236694b9307a2",
+      "title": "Cloudflare 的后量子 GeoKey Manager 进入封闭测试阶段，暂不支持基于属性加密",
+      "url": "https://infoq.cn/article/L4oHv9VcLJNRwhOXgOAi",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T18:02:03+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cloudflare后量子GeoKey Manager开启封闭测试，暂不支持属性加密",
+        "takeaway": "Cloudflare后量子密钥管理进入封闭测试，但暂不支持属性加密，安全能力有限。",
+        "bullets": [
+          "Cloudflare后量子GeoKey Manager进入封闭测试阶段。",
+          "该功能暂不支持基于属性的加密。",
+          "测试阶段意味着功能尚未全面开放。"
+        ],
+        "detail": "Cloudflare宣布其后量子GeoKey Manager进入封闭测试，但暂不支持基于属性的加密。这意味着早期测试者无法使用属性加密功能，可能影响特定安全场景的部署。",
+        "generatedAt": "2026-11-17T12:14:25+08:00"
+      }
+    },
+    {
       "id": "52003d9b3559a3a6",
       "title": "I am sick of doomposting about demise of local AI",
       "url": "https://reddit.com/r/LocalLLaMA/comments/1xxzk23/i_am_sick_of_doomposting_about_demise_of_local_ai",
@@ -918,6 +1421,128 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-11-17T06:41:11+08:00"
+    },
+    {
+      "id": "c09018ed04604d09",
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse",
+      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T06:58:27+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "fd050ae9a245aa39",
+      "title": "“学霸”自首AI作弊，韩国高考紧急布防",
+      "url": "https://tmtpost.com/8208106.html",
+      "summary": "地狱难度的税务师考试大翻车",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T12:03:54+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d2d6c117b4188be6",
+      "title": "下跌周期中的MinMax：早期投资者和闫俊杰的AI畅谈",
+      "url": "https://tmtpost.com/8207380.html",
+      "summary": "中国AI的效率之战。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T12:03:52+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "投资"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b69aebba81f66800",
+      "title": "美国纳管AI算力远程获取，海外数据中心出租算力将须许可",
+      "url": "https://tmtpost.com/8207829.html",
+      "summary": "这项规则对AI投资周期意味着什么？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T11:32:00+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力",
+        "数据中心"
+      ],
+      "confidence": 0.81,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6f3f32a4b0da72ad",
+      "title": "微软全球大宕机，AI 怎么又成了背锅侠",
+      "url": "https://ifanr.com/1689638",
+      "summary": "微软宕机与美国航班停飞，背后都是 AI 失控吗？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T10:23:50+08:00",
+      "fetchedAt": "2026-11-17T12:14:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
