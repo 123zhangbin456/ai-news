@@ -1,7 +1,658 @@
 {
   "date": "2026-11-18",
-  "updatedAt": "2026-11-17T22:43:12+08:00",
+  "updatedAt": "2026-11-18T05:27:45+08:00",
   "items": [
+    {
+      "id": "549a77347d5e1e5f",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T01:45:00+08:00",
+      "fetchedAt": "2026-11-18T05:27:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing",
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 70,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 发布 GPT-6.2 Astra 与 Sol，主打专业输出与降本",
+        "takeaway": "OpenAI 推出双版本 GPT-6.2，在专业任务、编程和电脑操作上更强，同时成本更低。",
+        "bullets": [
+          "新模型分为 Astra 和 Sol 两个版本，覆盖 ChatGPT Work、Codex 和 API。",
+          "官方称在专业输出、编程和电脑使用方面均有提升。",
+          "效率提高且成本降低，对开发者和企业用户影响直接。"
+        ],
+        "detail": "OpenAI 发布 GPT-6.2 系列，包含 Astra 和 Sol 两个模型。官方表示，新模型在专业内容生成、编程和电脑操作方面表现更好，同时效率更高、成本更低，将应用于 ChatGPT Work、Codex 和 API 中。",
+        "generatedAt": "2026-11-18T05:27:31+08:00"
+      }
+    },
+    {
+      "id": "6ab4eb3121ad6e12",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop",
+      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T01:32:25+08:00",
+      "fetchedAt": "2026-11-18T05:27:23+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "privacy"
+      ],
+      "confidence": 0.33,
+      "score": 59,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Proton 推出 Lumo 桌面版，主打隐私的 ChatGPT 替代品",
+        "takeaway": "Proton 的 Lumo 桌面应用登陆 Windows、Mac 和 Linux，强调隐私控制，可跨文件和应用自动化任务。",
+        "bullets": [
+          "Lumo 桌面版支持 Windows、Mac 和 Linux 三大平台。",
+          "用户可精细控制 AI 能访问哪些文件和已连接应用。",
+          "定位为 ChatGPT 和 Claude 的隐私优先替代方案。"
+        ],
+        "detail": "Proton 发布了 Lumo 桌面应用，覆盖 Windows、Mac 和 Linux。用户能借助它跨文件及已连接应用自动执行任务，同时可细致设定 AI 的访问权限，延续了 Proton 一贯的隐私保护路线。",
+        "generatedAt": "2026-11-18T05:27:31+08:00"
+      }
+    },
+    {
+      "id": "0488c951c7292232",
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "url": "https://theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T02:58:01+08:00",
+      "fetchedAt": "2026-11-18T05:27:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 0,
+      "score": 56,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌 Spark AI 代理更名为 Tasks 并免费开放",
+        "takeaway": "谷歌将 Spark AI 代理改名为 Tasks 并免费开放，由新模型 Gemini 4 Hydrogen 驱动，可处理日常事务。",
+        "bullets": [
+          "Spark AI 代理正式更名为 Tasks，并免费向用户开放。",
+          "该功能由谷歌新模型 Gemini 4 Hydrogen 提供支持。",
+          "可创建膳食计划、管理日历、检索邮件等。",
+          "免费开放可能吸引更多用户体验 AI 代理服务。"
+        ],
+        "detail": "谷歌把旗下 AI 代理 Spark 改名为 Tasks，并宣布免费使用。该功能基于新的 Gemini 4 Hydrogen 模型，能帮用户制定膳食计划、管理日历和翻查邮件等。",
+        "generatedAt": "2026-11-18T05:27:31+08:00"
+      }
+    },
+    {
+      "id": "3aa0c6065ac07d71",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases",
+      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T03:02:20+08:00",
+      "fetchedAt": "2026-11-18T05:27:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 0.5,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌扩大Gemini任务模式权限，可代打电话和购物",
+        "takeaway": "谷歌开放Gemini任务模式，AI助手能代用户打电话、登录网站甚至完成购买。",
+        "bullets": [
+          "Gemini任务模式新增代打电话、登录网站和购物功能",
+          "谷歌扩大该功能的访问权限，更多用户可用",
+          "AI助手从对话走向代操作，隐私与安全引关注"
+        ],
+        "detail": "谷歌正在扩大Gemini任务模式的访问范围。该模式能让AI助手代替用户协调通话、登录网站，甚至完成购物。这意味着Gemini从聊天工具向能实际执行任务的智能代理迈进，但代操作也带来隐私和安全方面的考量。",
+        "generatedAt": "2026-11-18T05:27:33+08:00"
+      }
+    },
+    {
+      "id": "3a4b135687e309c5",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off",
+      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T02:48:23+08:00",
+      "fetchedAt": "2026-11-18T05:27:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 0.5,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌Gemini聊天记录保留期延长至2个月，即使关闭历史记录",
+        "takeaway": "谷歌将Gemini聊天记录保留时间从72小时大幅延长至2个月，且关闭历史记录也生效，隐私政策引关注。",
+        "bullets": [
+          "保留期从72小时延长至2个月，全球未来几周推送",
+          "即使关闭聊天历史，记录仍会被保留",
+          "涉及所有Gemini用户，隐私影响需留意"
+        ],
+        "detail": "谷歌宣布，Gemini的聊天记录保留时间将从72小时延长到2个月，这一变化将在未来几周内全球上线。值得注意的是，即使用户关闭了聊天历史记录，对话仍会被保留两个月。此举可能引发用户对隐私的担忧。",
+        "generatedAt": "2026-11-18T05:27:33+08:00"
+      }
+    },
+    {
+      "id": "950a39f90ba9c1a9",
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo",
+      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T24:44:15+08:00",
+      "fetchedAt": "2026-11-18T05:27:23+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "founder",
+        "says"
+      ],
+      "confidence": 0.4,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋称若获准重返英伟达任CEO将深感荣幸",
+        "takeaway": "黄仁勋卸任后首次公开表态，愿意回归英伟达担任CEO，引发外界关注。",
+        "bullets": [
+          "黄仁勋是英伟达创始人，卸任后首次公开表态。",
+          "他表示若获准重返CEO职位将感到荣幸。",
+          "此举可能影响英伟达未来领导层安排。"
+        ],
+        "detail": "英伟达创始人黄仁勋在卸任后首次公开声明中表示，如果获准重返公司担任CEO，他将深感荣幸。这一表态暗示他可能有意回归，但未提及具体条件或时间。",
+        "generatedAt": "2026-11-18T05:27:34+08:00"
+      }
+    },
+    {
+      "id": "bfe144881fd661a3",
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history",
+      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T24:50:10+08:00",
+      "fetchedAt": "2026-11-18T05:27:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Google 将 Gemini 训练数据与聊天记录开关分离",
+        "takeaway": "Google 让用户可单独控制聊天记录是否用于 AI 训练，提升隐私透明度。",
+        "bullets": [
+          "Gemini 活动设置中新增独立开关，分别控制聊天记录保存与 AI 训练数据使用。",
+          "用户可关闭训练数据使用，同时保留聊天记录功能。",
+          "此举回应隐私担忧，让用户更清晰管理个人数据。"
+        ],
+        "detail": "Google 在 Gemini 的活动设置中把 AI 训练和聊天历史拆成两个独立开关。用户现在可以单独选择是否允许自己的对话被用于训练模型，而不必连带关闭聊天记录功能。",
+        "generatedAt": "2026-11-18T05:27:35+08:00"
+      }
+    },
+    {
+      "id": "ae6cdc6347964b56",
+      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+      "url": "https://theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+      "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouri…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T24:09:57+08:00",
+      "fetchedAt": "2026-11-18T05:27:23+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "says"
+      ],
+      "confidence": 0.25,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋称若董事会需要，愿重返英伟达任CEO",
+        "takeaway": "黄仁勋上周辞任英伟达CEO后表态愿回归，公司治理走向值得关注。",
+        "bullets": [
+          "黄仁勋上周辞去英伟达CEO职务",
+          "他表示若董事会希望，愿意回归",
+          "表态通过《华尔街日报》报道的声明发出",
+          "英伟达董事会尚未公开回应"
+        ],
+        "detail": "黄仁勋上周辞去英伟达CEO一职，随后通过声明表示，如果公司董事会希望他回来，他愿意重新出任CEO。这一表态由《华尔街日报》报道，但董事会是否回应尚不明确。",
+        "generatedAt": "2026-11-18T05:27:36+08:00"
+      }
+    },
+    {
+      "id": "b4420b34b7621c1f",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "url": "https://theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T05:00:55+08:00",
+      "fetchedAt": "2026-11-18T05:27:23+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "连 Sam Altman 也难逃 Instagram 上的 AI 深度伪造",
+        "takeaway": "Meta 高管也成深度伪造目标，凸显 AI 假内容在社交平台泛滥且难以防范。",
+        "bullets": [
+          "Instagram 上深度伪造内容泛滥，连 Meta 高管也中招。",
+          "Meta 首席 AI 官 Alexandr Wang 曾分享短片推广 Muse。",
+          "事件显示 AI 假内容治理仍是社交平台难题。"
+        ],
+        "detail": "Instagram 上充斥着用户发布的深度伪造内容，最近连 Meta 自家高管也成了目标。11 月早些时候，Meta 首席 AI 官 Alexandr Wang 分享了一段短片来推广公司的 Muse，但摘要未说明该短片是否为深度伪造。",
+        "generatedAt": "2026-11-18T05:27:38+08:00"
+      }
+    },
+    {
+      "id": "cdafd8ebe9f4be7a",
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "url": "https://theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T24:19:03+08:00",
+      "fetchedAt": "2026-11-18T05:27:23+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA",
+        "data center"
+      ],
+      "confidence": 0.14,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "美司法部调查新加坡数据中心公司Megaspeed",
+        "takeaway": "美国司法部与商务部正调查与英伟达CEO黄仁勋辞职传闻相关的Megaspeed，此前报道称调查已停止。",
+        "bullets": [
+          "美国司法部和商务部表示正在调查新加坡数据中心公司Megaspeed。",
+          "Megaspeed与英伟达CEO黄仁勋的辞职传闻有关联。",
+          "此前有报道称针对该公司的调查已被叫停。"
+        ],
+        "detail": "美国司法部和商务部称，他们正在调查新加坡数据中心公司Megaspeed。该公司与英伟达CEO黄仁勋的辞职事件有关联。此前有报道暗示相关调查已经中止，但官方现在确认调查仍在进行。",
+        "generatedAt": "2026-11-18T05:27:38+08:00"
+      }
+    },
+    {
+      "id": "407420f377abe1ed",
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia",
+      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T04:32:55+08:00",
+      "fetchedAt": "2026-11-18T05:27:23+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋称想回英伟达，批评者质疑其与特朗普关系",
+        "takeaway": "黄仁勋在英伟达调查升级之际表达回归意愿并道歉，引发外界对其与特朗普关系的批评。",
+        "bullets": [
+          "黄仁勋表示“我爱我们的国家”并道歉",
+          "英伟达正面临多项调查且局势升级",
+          "批评者称“特朗普与黄仁勋关系密切”"
+        ],
+        "detail": "英伟达CEO黄仁勋在调查升级之际道歉，并表达想回公司的愿望。批评者借机嘲讽他与特朗普关系密切，称“特朗普和黄仁勋睡一张床”。",
+        "generatedAt": "2026-11-18T05:27:38+08:00"
+      }
+    },
+    {
+      "id": "776157cf22e3ea27",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work",
+      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T03:32:11+08:00",
+      "fetchedAt": "2026-11-18T05:27:23+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raises",
+        "investment"
+      ],
+      "confidence": 0.75,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Model ML 融资 2.5 亿美元，用 AI 代理自动化投行基础工作",
+        "takeaway": "Model ML 获 2.5 亿美元融资，其 AI 代理能理解交易全貌，自动更新财务模型和演示文稿，瞄准投行与咨询业的基础工作自动化。",
+        "bullets": [
+          "Model ML 完成 2.5 亿美元融资，投资方未披露。",
+          "AI 代理可理解交易全貌，自动更新财务模型和演示文稿。",
+          "目标客户是投行和咨询公司的银行家与顾问。",
+          "旨在替代投行中重复性高、耗时的基础工作。"
+        ],
+        "detail": "Model ML 宣布获得 2.5 亿美元融资。该公司开发的 AI 代理能理解银行家和顾问正在处理的交易全貌，当新进展影响分析时，可自动更新财务模型和演示文稿，从而自动化投行中繁琐的基础工作。",
+        "generatedAt": "2026-11-18T05:27:40+08:00"
+      }
+    },
+    {
+      "id": "027b06d66aa2428c",
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier",
+      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T02:10:00+08:00",
+      "fetchedAt": "2026-11-18T05:27:23+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "决策模型使用激增，定制化成新前沿",
+        "takeaway": "Sqwish Labs 推出用自有数据训练决策模型的新方案，以最大化模型能力。",
+        "bullets": [
+          "决策模型使用量正快速上升",
+          "Sqwish Labs 提出用自有数据训练模型",
+          "定制化被视为提升模型能力的新方向"
+        ],
+        "detail": "随着决策模型应用激增，Sqwish Labs 提出一种新思路：用你自己的数据来训练决策模型，从而最大化其能力。这暗示定制化可能成为下一个竞争焦点。",
+        "generatedAt": "2026-11-18T05:27:40+08:00"
+      }
+    },
+    {
+      "id": "48c46304656078a6",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain",
+      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T02:04:16+08:00",
+      "fetchedAt": "2026-11-18T05:27:23+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raises"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Pedestal AI 获 470 万美元融资，用 AI 智能体优化供应链",
+        "takeaway": "这家公司用智能体技术让供应链更快更可靠，刚完成 470 万美元融资。",
+        "bullets": [
+          "Pedestal AI 完成 470 万美元融资，投资方未披露。",
+          "公司利用 AI 智能体提升供应链的速度与可靠性。",
+          "资金将用于推动供应链智能化，可能影响物流行业。"
+        ],
+        "detail": "Pedestal AI 获得 470 万美元融资，致力于用 AI 智能体技术让供应链运转更快速、更可靠。该公司通过智能体自动处理供应链环节，旨在提升整体效率。",
+        "generatedAt": "2026-11-18T05:27:40+08:00"
+      }
+    },
+    {
+      "id": "b20533735bac1c5f",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game",
+      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T01:20:41+08:00",
+      "fetchedAt": "2026-11-18T05:27:23+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "evaluation"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "研究：AI模型可被“游戏化”话术诱导识别平民为军事目标",
+        "takeaway": "旧金山AI评估公司Vals测试发现，主流AI模型易被“这是游戏”的提示欺骗，参与自主战争任务。",
+        "bullets": [
+          "Vals测试主流AI模型是否会被操纵参与自主作战，结果多数配合。",
+          "仅靠“这是游戏”等话术，模型便将平民标记为军事目标。",
+          "研究揭示AI在军事场景中的安全对齐存在明显漏洞。"
+        ],
+        "detail": "旧金山AI评估初创公司Vals测试了领先AI模型是否会被诱导参与自主战争。测试中，模型通常照做，包括在被告知“这是游戏”后，将平民识别为军事目标。",
+        "generatedAt": "2026-11-18T05:27:42+08:00"
+      }
+    },
+    {
+      "id": "5b158888670aa71b",
+      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+      "url": "https://simonwillison.net/2026/Nov/17/datasette-lite",
+      "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable fro…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T24:48:33+08:00",
+      "fetchedAt": "2026-11-18T05:27:23+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Datasette Lite 重写：用 Service Worker 在浏览器跑完整 Python 应用",
+        "takeaway": "Simon Willison 重写 Datasette Lite，借助 Service Worker 和 Pyodide，让完整服务端 Python 应用几乎无差别地跑在浏览器里。",
+        "bullets": [
+          "Datasette Lite 是 Datasette 的浏览器移植版，基于 WebAssembly 和 Pyodide。",
+          "此次用 Service Worker 完全重写，体验已接近原生服务端应用。",
+          "作者 Simon Willison 发布，展示纯前端运行 Python 后端的可行性。"
+        ],
+        "detail": "Datasette Lite 是把 Datasette 这个 Python 应用搬到浏览器里运行的项目，依赖 WebAssembly 和 Pyodide。作者用 Service Worker 做了彻底重写，现在用起来几乎和真正的服务端版本没有区别。",
+        "generatedAt": "2026-11-18T05:27:42+08:00"
+      }
+    },
+    {
+      "id": "9073920a14eae64d",
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too",
+      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T24:32:55+08:00",
+      "fetchedAt": "2026-11-18T05:27:23+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Daydream 推出 AI 购物代理：能记风格、虚拟试穿并代下单",
+        "takeaway": "Daydream 的新 AI 代理可记住你的风格、虚拟试衣、搭配衣橱、追踪折扣并完成购买，值得关注。",
+        "bullets": [
+          "Daydream 发布 AI 购物代理，可记住用户风格偏好。",
+          "支持虚拟试穿、围绕现有衣橱规划穿搭。",
+          "能追踪促销并直接完成购买，充当个人造型师。"
+        ],
+        "detail": "Daydream 推出了一款新的 AI 购物代理，它能记住你的风格偏好，让你虚拟试穿衣服，根据现有衣橱规划穿搭，追踪促销活动，并直接完成购买。",
+        "generatedAt": "2026-11-18T05:27:43+08:00"
+      }
+    },
+    {
+      "id": "23791fed6fa0ce2c",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash",
+      "summary": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50535885 Points: 186 # Comments: 87",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T02:25:13+08:00",
+      "fetchedAt": "2026-11-18T05:27:23+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软发布MAI Code 2与Code 2 Flash两款代码模型",
+        "takeaway": "微软推出两款代码生成模型，分标准版和轻量版，开发者可关注其编程辅助能力。",
+        "bullets": [
+          "微软发布MAI Code 2和MAI Code 2 Flash两款代码模型。",
+          "Flash版可能主打轻量快速，适合低延迟场景。",
+          "Hacker News热度较高，引发开发者讨论。"
+        ],
+        "detail": "微软正式推出MAI Code 2和MAI Code 2 Flash两款代码模型。从命名看，Flash版可能更轻量、响应更快。该消息在Hacker News获得186点热度，引发开发者关注。",
+        "generatedAt": "2026-11-18T05:27:45+08:00"
+      }
+    },
     {
       "id": "55d64d4b83a5f395",
       "title": "面向多智能体应用的大模型推理调度与缓存优化｜AICon北京",
