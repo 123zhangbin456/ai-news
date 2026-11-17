@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T12:14:25+08:00",
+  "updatedAt": "2026-11-17T12:39:59+08:00",
   "items": [
     {
       "id": "8c824024c9147b94",
@@ -937,6 +937,42 @@
       }
     },
     {
+      "id": "2fadee92459bcdcc",
+      "title": "Thinking Machines 4-bit replication: I trained a GPT end to end with a 4-bit forward pass on one B200",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xyawzz/thinking_machines_4bit_replication_i_trained_a",
+      "summary": "Thinking Machines wrote last week that Inkling 2 Small was trained with a native 4-bit forward pass. I wanted to check this for myself. What I ran: 1x B200 on Modal, PyTorch 2.8, plus a small CUDA library that calls cuBLASLt's real NVFP4 an…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T12:19:51+08:00",
+      "fetchedAt": "2026-11-17T12:39:49+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "B200"
+      ],
+      "confidence": 0.6,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开发者复现 Thinking Machines 4-bit 训练：单张 B200 跑通端到端 GPT",
+        "takeaway": "有人用单张 B200 和 NVFP4 原生 4-bit 前向，复现了 Thinking Machines 的 4-bit 训练路线，验证其可行性。",
+        "bullets": [
+          "Thinking Machines 称 Inkling 2 Small 用原生 4-bit 前向训练",
+          "开发者用 1 张 B200、PyTorch 2.8 和 cuBLASLt NVFP4 复现",
+          "在单卡上端到端训练了一个小型 GPT，跑通全流程"
+        ],
+        "detail": "Thinking Machines 上周称 Inkling 2 Small 采用原生 4-bit 前向训练。一位开发者用 Modal 上的单张 B200、PyTorch 2.8，以及调用 cuBLASLt 真实 NVFP4 的小型 CUDA 库，自己端到端训练了一个 GPT 来验证这条路线。",
+        "generatedAt": "2026-11-17T12:39:59+08:00"
+      }
+    },
+    {
       "id": "ea44684bf6587421",
       "title": "Jensen Huang Is Gone. Now What?",
       "url": "https://wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang",
@@ -1084,6 +1120,40 @@
         ],
         "detail": "Hugging Face 宣布，通过 Inference Providers 发起的语言模型请求现在改走 OpenRouter，不再使用自家路由器。OpenRouter 会根据实时价格、速度等因素为每次调用挑选供应商。",
         "generatedAt": "2026-11-17T12:14:22+08:00"
+      }
+    },
+    {
+      "id": "09d8dd31391c32c8",
+      "title": "maxwell-model/Maxwell-V1-Flash · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face",
+      "summary": "Model Introduction Maxwell-V1.0-Flash is a next-generation, high-performance Mixture-of-Experts (MoE) language model developed by the Maxwell Team, with 35B total parameters and 3B active parameters per token (both excluding embeddings) and…",
+      "source": {
+        "id": "localllama",
+        "name": "r/LocalLLaMA",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T12:04:39+08:00",
+      "fetchedAt": "2026-11-17T12:39:49+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Maxwell团队发布35B MoE模型Maxwell-V1-Flash",
+        "takeaway": "新开源MoE模型总参35B、激活仅3B，主打高性能与推理效率。",
+        "bullets": [
+          "Maxwell团队推出Maxwell-V1.0-Flash，采用MoE架构。",
+          "总参数35B，每token仅激活3B（均不含嵌入层）。",
+          "定位下一代高性能语言模型，细节已上线Hugging Face。"
+        ],
+        "detail": "Maxwell团队发布了Maxwell-V1.0-Flash，这是一个新一代高性能混合专家（MoE）语言模型。模型总参数为350亿，但每个token只激活30亿参数（两项均不含嵌入层），旨在兼顾能力与推理效率。",
+        "generatedAt": "2026-11-17T12:39:59+08:00"
       }
     },
     {
