@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updatedAt": "2026-11-18T21:31:56+08:00",
+  "updatedAt": "2026-11-19T05:01:49+08:00",
   "items": [
     {
       "id": "549a77347d5e1e5f",
@@ -39,6 +39,48 @@
         "generatedAt": "2026-11-18T05:27:31+08:00"
       },
       "pushedAt": "2026-11-18T11:12:48+08:00"
+    },
+    {
+      "id": "477d3fb754b34aea",
+      "title": "豆包工作日活突破 800 万，企业客户 ARR 突破 20 亿元",
+      "url": "https://leiphone.com/category/industrynews/cC8dbvo5f5k5tgnE.html",
+      "summary": "11月18日，豆包官方宣布，上线仅三个月的豆包工作日活跃用户数（DAU）突破 800 万，企业客户年度经常性收入（ARR）突破 20 亿元。豆包工作是豆包面向生产力场景推出的 AI 产品及品牌，自8月25日正式发布以来，持续更新专业办公能力。11月16日，豆包工作上线 “工作台” 功能，首批覆盖金融、医疗、教育、创意设计等 21 个专业场景，预先配置相应技能和工具，用户也可创建、保存和分享自定义工作台。此外，豆包工作也在近期接入了Kimi、GLM、DeepSeek 等第三方模…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T21:18:00+08:00",
+      "fetchedAt": "2026-11-19T05:01:22+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "产品",
+        "功能",
+        "接入",
+        "客户",
+        "用户数",
+        "日活"
+      ],
+      "confidence": 0.5,
+      "score": 66,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "豆包工作日活破800万，企业ARR超20亿元",
+        "takeaway": "上线仅三个月，豆包工作用户与收入双增长，显示AI办公产品商业化提速。",
+        "bullets": [
+          "豆包工作日活突破800万，上线仅三个月。",
+          "企业客户年度经常性收入突破20亿元。",
+          "新推工作台功能，覆盖21个专业场景。",
+          "接入Kimi、GLM、DeepSeek等第三方模型。"
+        ],
+        "detail": "豆包工作8月25日发布，三个月内日活超800万，企业ARR破20亿元。11月16日上线工作台，覆盖金融、医疗等21个场景，支持自定义。近期还接入了Kimi、GLM、DeepSeek等第三方模型。",
+        "generatedAt": "2026-11-19T05:01:31+08:00"
+      }
     },
     {
       "id": "23e091fc201d004c",
@@ -483,6 +525,42 @@
       }
     },
     {
+      "id": "c7d3ecb006439a13",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T08:00:00+08:00",
+      "fetchedAt": "2026-11-19T05:01:22+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip"
+      ],
+      "confidence": 0.75,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI模型辅助芯片设计，优化Jalapeño电路与RISC-V内核",
+        "takeaway": "OpenAI用GPT-6 Astra模型优化芯片电路，展示AI辅助芯片设计的进展。",
+        "bullets": [
+          "OpenAI模型优化了Jalapeño硅片中的电路",
+          "同时改进了RISC-V核心设计",
+          "展示AI辅助芯片设计的进展，涉及GPT-6 Astra"
+        ],
+        "detail": "OpenAI利用其模型对Jalapeño芯片中的电路进行了优化，并改进了RISC-V核心设计。这体现了AI辅助芯片设计的进展，相关工作中使用了GPT-6 Astra。",
+        "generatedAt": "2026-11-19T05:01:32+08:00"
+      }
+    },
+    {
       "id": "950a39f90ba9c1a9",
       "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
       "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo",
@@ -848,6 +926,42 @@
       }
     },
     {
+      "id": "11e4ac4d10922d39",
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "url": "https://theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, An…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T23:44:02+08:00",
+      "fetchedAt": "2026-11-19T05:01:22+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "曾因安全风险暂停前沿训练，芯片公司却未放慢脚步",
+        "takeaway": "OpenAI今夏因AI智能体意外攻击Hugging Face而暂停最大前沿训练，但芯片厂商并未因此调整节奏。",
+        "bullets": [
+          "OpenAI今夏暂停最大规模前沿训练，因AI智能体意外入侵Hugging Face。",
+          "早期证据显示其下一代模型可能自主发现并利用安全漏洞。",
+          "芯片公司未因这次暂停改变算力供应与研发计划。"
+        ],
+        "detail": "今年夏天，OpenAI因AI智能体意外攻击Hugging Face，且早期证据表明下一代模型可能自主发现并利用安全漏洞，暂停了最大规模的前沿训练。然而芯片公司并未因此放慢脚步，继续推进算力布局。",
+        "generatedAt": "2026-11-19T05:01:36+08:00"
+      }
+    },
+    {
       "id": "ae6cdc6347964b56",
       "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
       "url": "https://theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
@@ -1065,6 +1179,79 @@
         ],
         "detail": "GPT-6.2 Astra 发布后差评不少，但爱范儿实测后觉得它有点冤。文章想说的是，模型聪明程度和实际好用程度是两回事，用户拿错标准评价，容易让新模型背锅。",
         "generatedAt": "2026-11-18T21:31:45+08:00"
+      }
+    },
+    {
+      "id": "8b6ac2940fdc0d0e",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T14:00:00+08:00",
+      "fetchedAt": "2026-11-19T05:01:22+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "alignment"
+      ],
+      "confidence": 0.25,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI详解前沿AI风险管理：从训练到部署",
+        "takeaway": "OpenAI公开其前沿AI风险管控框架，涵盖对齐、沙箱、拦截与监控，值得关注。",
+        "bullets": [
+          "OpenAI发布文章说明前沿AI风险管理方法",
+          "覆盖训练到部署全流程，包括模型对齐",
+          "采用沙箱隔离、拦截防护和监控措施"
+        ],
+        "detail": "OpenAI 撰文介绍其如何管理前沿 AI 风险，从训练到部署全程覆盖。主要手段包括模型对齐、沙箱隔离、拦截防护和持续监控，以降低风险。",
+        "generatedAt": "2026-11-19T05:01:37+08:00"
+      }
+    },
+    {
+      "id": "bfaa144bfebbdf7c",
+      "title": "Nvidia isn’t selling any more AI chips to China",
+      "url": "https://theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "summary": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T21:01:05+08:00",
+      "fetchedAt": "2026-11-19T05:01:22+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chips",
+        "NVIDIA"
+      ],
+      "confidence": 0.86,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达停止向中国出货先进AI芯片",
+        "takeaway": "英伟达已暂停向中国供应先进AI芯片，尽管去年12月曾获白宫批准，凸显出口管制与商业现实的冲突。",
+        "bullets": [
+          "英伟达临时CEO在财报电话会上宣布停止对华出货先进AI芯片",
+          "去年12月白宫曾批准相关出口，但实际出货已中断",
+          "此举影响中国AI算力供应，也波及英伟达在华收入"
+        ],
+        "detail": "英伟达临时CEO科莱特·克雷斯在周二的财报电话会上表示，公司已停止向中国发送先进AI芯片。尽管去年12月白宫曾批准相关出口，但实际出货并未继续。这意味着英伟达对华先进芯片供应再次中断，具体原因未在摘要中说明。",
+        "generatedAt": "2026-11-19T05:01:39+08:00"
       }
     },
     {
@@ -1396,6 +1583,40 @@
       }
     },
     {
+      "id": "e683d40fba103b5f",
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T08:00:00+08:00",
+      "fetchedAt": "2026-11-19T05:01:22+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI战略未来负责人探讨AI如何重塑社会",
+        "takeaway": "OpenAI高管发文探讨更强大的AI将如何改变社会，以及人们如何保持对机构的控制。",
+        "bullets": [
+          "OpenAI战略未来负责人Dean Ball发表文章《The Silent Consensus》。",
+          "文章探讨更强大的AI可能如何重塑社会。",
+          "关注人们如何保持对机构的控制。"
+        ],
+        "detail": "OpenAI战略未来负责人Dean Ball在《The Silent Consensus》一文中，探讨了能力更强的AI可能如何重塑社会，以及人们怎样才能继续掌控自己的机构。",
+        "generatedAt": "2026-11-19T05:01:39+08:00"
+      }
+    },
+    {
       "id": "bccee91cf8115d86",
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
       "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote",
@@ -1465,6 +1686,74 @@
         ],
         "detail": "英伟达董事会表示，尽管美国总统特朗普、埃隆·马斯克和硅谷高管施压，公司仍“不打算”让被罢免的CEO黄仁勋重新上任。这一决定结束了外界对黄仁勋可能回归的猜测。",
         "generatedAt": "2026-11-18T11:12:42+08:00"
+      }
+    },
+    {
+      "id": "53f2a14376dda94d",
+      "title": "Inside the Codex sandbox",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T16:00:00+08:00",
+      "fetchedAt": "2026-11-19T05:01:22+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 揭秘 Codex 沙箱：如何安全运行命令",
+        "takeaway": "Codex 在本地执行命令时，通过沙箱限制文件系统和网络访问，跨三大平台保障安全。",
+        "bullets": [
+          "Codex 在 macOS、Linux 和 Windows 上运行命令时受沙箱约束",
+          "用户可控制文件系统和网络访问权限",
+          "沙箱机制确保 AI 操作不越界，提升安全性"
+        ],
+        "detail": "OpenAI 发文介绍 Codex 的沙箱机制：当 Codex 在你的机器上执行命令时，会强制实施你设定的文件系统和网络限制，且覆盖 macOS、Linux 和 Windows 三大平台。这让你能安全地使用 AI 助手，不必担心它随意访问敏感文件或网络。",
+        "generatedAt": "2026-11-19T05:01:39+08:00"
+      }
+    },
+    {
+      "id": "b832d435844d4fc4",
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered …",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T22:42:44+08:00",
+      "fetchedAt": "2026-11-19T05:01:22+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 无处不在：从搜索到街头，热潮与代价并存",
+        "takeaway": "MIT 科技评论的 AI 炒作指数指出，AI 已渗透生活各处，但谷歌等公司为此付出高昂代价。",
+        "bullets": [
+          "谷歌强推 AI 概览，导致广告收入损失数十亿美元",
+          "AI 应用蔓延至日常生活，街头巷尾随处可见",
+          "炒作背后，企业需权衡 AI 投入与商业回报"
+        ],
+        "detail": "MIT 科技评论的 AI 炒作指数认为，AI 像皮疹一样四处扩散。谷歌即便损失数十亿美元广告收入，仍强行推广 AI 概览功能。走出公寓，你可能遇到两个扛着 AI 设备的人，说明 AI 已深入日常。",
+        "generatedAt": "2026-11-19T05:01:41+08:00"
       }
     },
     {
@@ -2005,6 +2294,88 @@
       }
     },
     {
+      "id": "bf1424b145e4fc73",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T23:00:23+08:00",
+      "fetchedAt": "2026-11-19T05:01:22+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "series"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Hugging Face 探讨流式数据仓库中的时序模型新场景",
+        "takeaway": "Hugging Face 发文介绍时序模型在流式数据仓库中的新应用方向，但未披露具体融资或并购信息。",
+        "bullets": [
+          "来源为 Hugging Face，主题是流式数据仓库中的时序模型。",
+          "内容聚焦新前沿与用例，未涉及具体交易或金额。",
+          "对关注 AI 基础设施与实时数据处理的读者有参考价值。"
+        ],
+        "detail": "Hugging Face 发布文章，讨论时序模型在流式数据仓库（Streamhouse）中的新前沿和实际用例。标题虽归入融资并购分类，但原文没有摘要，也未提及任何融资或并购细节，更像技术趋势分享。",
+        "generatedAt": "2026-11-19T05:01:49+08:00"
+      }
+    },
+    {
+      "id": "569017a70fd8b933",
+      "title": "Quoting Daniel Stenberg",
+      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg",
+      "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A litt…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T23:58:27+08:00",
+      "fetchedAt": "2026-11-19T05:01:22+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "358ebcd58de33063",
+      "title": "The PSF end-of-year fundraiser",
+      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser",
+      "summary": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work be…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T22:44:48+08:00",
+      "fetchedAt": "2026-11-19T05:01:22+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "23791fed6fa0ce2c",
       "title": "MAI Code 2 and Code 2 Flash",
       "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash",
@@ -2039,6 +2410,29 @@
         "detail": "微软正式推出MAI Code 2和MAI Code 2 Flash两款代码模型。从命名看，Flash版可能更轻量、响应更快。该消息在Hacker News获得186点热度，引发开发者关注。",
         "generatedAt": "2026-11-18T05:27:45+08:00"
       }
+    },
+    {
+      "id": "d414dc9f436f65c1",
+      "title": "Will Wright’s next game uses AI to map your memories",
+      "url": "https://theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+      "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambi…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T22:00:00+08:00",
+      "fetchedAt": "2026-11-19T05:01:22+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "249b825d4642a6bb",
@@ -2634,6 +3028,29 @@
       "pushed": false
     },
     {
+      "id": "780f517515c488f3",
+      "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
+      "url": "https://wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness",
+      "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T23:02:40+08:00",
+      "fetchedAt": "2026-11-19T05:01:22+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "c2e053d45c86d254",
       "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
       "url": "https://wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship",
@@ -2679,6 +3096,52 @@
       ],
       "confidence": 1,
       "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "af1852b4c46dc30e",
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T08:00:00+08:00",
+      "fetchedAt": "2026-11-19T05:01:22+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 32,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "679cee5ea1466f1f",
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T08:00:00+08:00",
+      "fetchedAt": "2026-11-19T05:01:22+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 32,
       "related": [],
       "pushed": false
     },
@@ -2949,6 +3412,31 @@
       "pushed": false
     },
     {
+      "id": "dbf7233003822774",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 186 # Comments: 98",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T23:49:34+08:00",
+      "fetchedAt": "2026-11-19T05:01:22+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "audit"
+      ],
+      "confidence": 1,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "f1feb2e4bb485c20",
       "title": "AI is killing All About Berlin",
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
@@ -2967,6 +3455,31 @@
       "category": "其他",
       "keywords": [],
       "confidence": 0,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3b954fc24a3536eb",
+      "title": "这只高波动AI股较高点已跌80%，且正发出警告信号",
+      "url": "https://tmtpost.com/8210485.html",
+      "summary": "应用光电（Applied Optoelectronics）的股价正在下跌，这可能是在为人工智能建设浪潮亮起一盏警示灯。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T22:13:05+08:00",
+      "fetchedAt": "2026-11-19T05:01:22+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "应用"
+      ],
+      "confidence": 1,
       "score": 28,
       "related": [],
       "pushed": false
