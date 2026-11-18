@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updatedAt": "2026-11-18T12:45:59+08:00",
+  "updatedAt": "2026-11-18T21:31:56+08:00",
   "items": [
     {
       "id": "549a77347d5e1e5f",
@@ -156,6 +156,40 @@
       }
     },
     {
+      "id": "6cab9c8cd38347e3",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T08:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 59,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "费加罗报集团与OpenAI合作，新闻内容将进入ChatGPT",
+        "takeaway": "费加罗报的内容将以摘要和摘录形式出现在ChatGPT中，并附原文链接，这是传统媒体与AI合作的最新案例。",
+        "bullets": [
+          "费加罗报集团与OpenAI达成合作，授权后者在ChatGPT中使用其新闻内容。",
+          "ChatGPT将展示费加罗报文章的摘要和摘录，并链接到原文。",
+          "合作旨在为读者提供便利，同时为新闻机构带来流量和曝光。"
+        ],
+        "detail": "费加罗报集团与OpenAI宣布合作，将费加罗报的新闻内容引入ChatGPT。ChatGPT会以摘要和摘录的形式呈现这些内容，并附上原文链接，方便用户跳转阅读全文。此举是传统媒体与AI公司合作的最新案例。",
+        "generatedAt": "2026-11-18T21:31:41+08:00"
+      }
+    },
+    {
       "id": "b397f013e77fa481",
       "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
       "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo",
@@ -189,6 +223,43 @@
         ],
         "detail": "Anthropic上市后，亚马逊将持有略低于15%的股份，且有权进一步增持；谷歌持股接近14%，位列第二。两家合计持股近30%，显示科技巨头对这家AI公司的深度布局。",
         "generatedAt": "2026-11-18T11:12:32+08:00"
+      }
+    },
+    {
+      "id": "4faa14b90f84c075",
+      "title": "GPT-6.2难产！OpenAI怕了",
+      "url": "https://qbitai.com/2026/11/510914.html",
+      "summary": "OpenAI也终于活成了2022年谷歌的样子",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T15:53:29+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 58,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GPT-6.2 难产，OpenAI 被指重演谷歌 2022 困境",
+        "takeaway": "OpenAI 新模型 GPT-6.2 迟迟未发布，被类比为 2022 年谷歌在 AI 竞赛中的被动局面。",
+        "bullets": [
+          "GPT-6.2 发布受阻，具体原因未在标题中说明",
+          "量子位将 OpenAI 现状比作 2022 年的谷歌",
+          "2022 年谷歌曾因 ChatGPT 突袭而陷入被动",
+          "事件反映头部 AI 公司面临发布节奏压力"
+        ],
+        "detail": "据量子位报道，OpenAI 的 GPT-6.2 模型遭遇难产，发布进度不及预期。文章将这一局面类比为 2022 年谷歌在 AI 领域的处境，暗示 OpenAI 可能正面临竞争压力或内部挑战。",
+        "generatedAt": "2026-11-18T21:31:41+08:00"
       }
     },
     {
@@ -226,6 +297,44 @@
         ],
         "detail": "谷歌把旗下 AI 代理 Spark 改名为 Tasks，并宣布免费使用。该功能基于新的 Gemini 4 Hydrogen 模型，能帮用户制定膳食计划、管理日历和翻查邮件等。",
         "generatedAt": "2026-11-18T05:27:31+08:00"
+      }
+    },
+    {
+      "id": "851ba91521e21699",
+      "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+      "url": "https://qbitai.com/2026/11/510821.html",
+      "summary": "具身全栈玩家",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T12:28:57+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "轮融资",
+        "估值"
+      ],
+      "confidence": 0.5,
+      "score": 56,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达AMD首次联手押注，Genesis A轮融资估值超230亿",
+        "takeaway": "英伟达与AMD罕见共同投资具身智能公司Genesis，A轮融资后估值超230亿元。",
+        "bullets": [
+          "英伟达和AMD首次联手投资同一家AI公司Genesis。",
+          "Genesis完成A轮融资，估值超过230亿元。",
+          "Genesis定位为具身智能全栈玩家，获两大芯片巨头押注。"
+        ],
+        "detail": "具身智能公司Genesis宣布完成A轮融资，估值超过230亿元。值得注意的是，英伟达和AMD首次联手参与投资，显示出两大芯片巨头对具身智能全栈路线的看好。",
+        "generatedAt": "2026-11-18T21:31:41+08:00"
       }
     },
     {
@@ -301,6 +410,42 @@
       }
     },
     {
+      "id": "709316486f763a0c",
+      "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+      "url": "https://qbitai.com/2026/11/510916.html",
+      "summary": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T15:24:50+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "评测"
+      ],
+      "confidence": 0.33,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "全球首个医疗健康AI独立评测平台InclusionMed上线",
+        "takeaway": "医疗健康AI有了独立第三方评测平台，行业评价标准或走向规范化。",
+        "bullets": [
+          "InclusionMed定位为独立评测与分析平台，专注医疗健康AI。",
+          "号称全球首个此类平台，填补医疗AI第三方评测空白。",
+          "上线后或为医疗AI产品提供统一评价参照，影响行业准入。"
+        ],
+        "detail": "量子位消息，InclusionMed正式上线，自称是全球首个医疗健康AI独立评测与分析平台。该平台聚焦医疗健康领域的AI产品评测与分析，有望为行业提供独立的第三方评价参考。",
+        "generatedAt": "2026-11-18T21:31:43+08:00"
+      }
+    },
+    {
       "id": "bcaa5eedc5494b8b",
       "title": "黄仁勋打破沉默：为美国人身份自豪，愿意重返英伟达担任CEO；阿里调整员工回流政策：离职两次不得回流原集团；红果被曝筹备电视端独立APP",
       "url": "https://leiphone.com/category/zaobao/OlqabqceGorcm242.html",
@@ -373,6 +518,43 @@
         ],
         "detail": "英伟达创始人黄仁勋在卸任后首次公开声明中表示，如果获准重返公司担任CEO，他将深感荣幸。这一表态暗示他可能有意回归，但未提及具体条件或时间。",
         "generatedAt": "2026-11-18T05:27:34+08:00"
+      }
+    },
+    {
+      "id": "42b863d179ae2a1c",
+      "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+      "url": "https://qbitai.com/2026/11/510922.html",
+      "summary": "氖人寻味！",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T17:41:55+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "新模型",
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gemini新模型Neon曝光，命名被调侃遍历元素周期表",
+        "takeaway": "谷歌Gemini新模型Neon即将发布，命名延续元素风格引发网友调侃。",
+        "bullets": [
+          "谷歌Gemini新模型代号Neon曝光，发布在即。",
+          "网友调侃其命名像在遍历元素周期表。",
+          "命名风格延续Gemini系列的元素主题。"
+        ],
+        "detail": "量子位报道，Gemini新模型Neon已箭在弦上，即将发布。网友对其命名展开调侃，称像是在遍历元素周期表。摘要仅以“氖人寻味”点题，未透露模型具体能力。",
+        "generatedAt": "2026-11-18T21:31:43+08:00"
       }
     },
     {
@@ -629,6 +811,43 @@
       }
     },
     {
+      "id": "5e888bac8f86cebe",
+      "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds",
+      "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T21:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA",
+        "data center"
+      ],
+      "confidence": 0.8,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达澄清为新型云厂商提供融资担保的条件",
+        "takeaway": "英伟达明确只为有独立融资且建成并安装其设备的数据中心贷款兜底，降低自身风险。",
+        "bullets": [
+          "英伟达临时CEO Kress解释融资担保前提：新型云厂商需有独立融资且设施建成。",
+          "担保仅覆盖已安装英伟达设备的数据中心贷款，否则英伟达不承担还款责任。",
+          "此举旨在支持客户采购其芯片，同时控制英伟达自身的财务风险。"
+        ],
+        "detail": "英伟达临时CEO科莱特·克雷斯说明，只有当新型云厂商拥有独立融资、数据中心建成并安装英伟达设备时，英伟达才会为相关贷款提供担保，否则不承担还款责任。这既支持客户购买其芯片，又控制了自身财务风险。",
+        "generatedAt": "2026-11-18T21:31:43+08:00"
+      }
+    },
+    {
       "id": "ae6cdc6347964b56",
       "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
       "url": "https://theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
@@ -776,6 +995,79 @@
       }
     },
     {
+      "id": "add73746b675cdf9",
+      "title": "纳德拉回应微软首次给工程师发“离场费”：Claude Code 让微软措手不及，二十年 IDE 优势半年动摇",
+      "url": "https://infoq.cn/article/zUC0vHq9xm3BFHSqQlw3",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T21:55:35+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "纳德拉回应微软发工程师离场费：Claude Code 冲击IDE优势",
+        "takeaway": "微软首次为工程师提供离职补偿，纳德拉承认Claude Code令其措手不及，二十年IDE优势半年动摇。",
+        "bullets": [
+          "微软首次向工程师发放“离场费”，即离职补偿。",
+          "纳德拉回应称Claude Code让微软措手不及。",
+          "微软二十年的IDE优势在半年内出现动摇。"
+        ],
+        "detail": "微软首次为工程师提供离职补偿，CEO纳德拉回应称Claude Code的崛起让公司措手不及。他坦言，微软积累了二十年的IDE优势在短短半年内就出现了动摇。",
+        "generatedAt": "2026-11-18T21:31:45+08:00"
+      }
+    },
+    {
+      "id": "bfdaaad8319e6f87",
+      "title": "GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤",
+      "url": "https://ifanr.com/1690103",
+      "summary": "最聪明的模型，未必是最好用的模型；最好用的模型，也未必需要证明自己最聪明。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T10:39:15+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GPT-6.2 Astra 发布即遭差评，实测后作者认为有点冤",
+        "takeaway": "新模型被批不好用，但实测显示问题可能不在能力，而在用户预期与场景错配。",
+        "bullets": [
+          "GPT-6.2 Astra 刚发布就收到大量负面评价",
+          "作者实测后认为差评对模型不太公平",
+          "核心观点：最聪明不等于最好用，好用也不等于最聪明"
+        ],
+        "detail": "GPT-6.2 Astra 发布后差评不少，但爱范儿实测后觉得它有点冤。文章想说的是，模型聪明程度和实际好用程度是两回事，用户拿错标准评价，容易让新模型背锅。",
+        "generatedAt": "2026-11-18T21:31:45+08:00"
+      }
+    },
+    {
       "id": "f378d4ace0f37459",
       "title": "Google joins the tech outage trend by announcing it’s not having one",
       "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one",
@@ -810,6 +1102,81 @@
         ],
         "detail": "近期科技故障频发，谷歌却反其道而行，专门宣布Gmail运行正常。这一不寻常的举动意在安抚用户，同时以轻松方式回应行业内的故障焦虑。",
         "generatedAt": "2026-11-18T11:12:40+08:00"
+      }
+    },
+    {
+      "id": "fe03b5619ea36454",
+      "title": "微软编程模型「MAI Code」上新，用 Claude Opus 5.5 百分之五的价格拿到 96% 的性能",
+      "url": "https://oschina.net/news/503644/ms-mai-code-2-and-mai-code-2-flash",
+      "summary": "微软宣布推出新版本编程模型：MAI Code 2 和 Code 2 Flash。它给 MAI Code 2 定的核心卖点写在小标题里：「不到一半的价格，交付生产级质量」。具体数字更有冲击力。在 DeepSWE 1.1、Terminal Bench 2.1、SWE-Atlas 和 FrontierCode v1.1 这四个针对企业日常编码任务的基准上取平均，MAI Code 2 拿到了 GPT 6.1 Sol 的 ...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T17:50:27+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出",
+        "GPT",
+        "Claude"
+      ],
+      "confidence": 0.67,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软发布 MAI Code 2 编程模型，价格仅 Claude Opus 5.5 的 5%",
+        "takeaway": "微软推出 MAI Code 2 与 Code 2 Flash，以极低价格对标高端编程模型，主打生产级质量。",
+        "bullets": [
+          "MAI Code 2 在四个企业编码基准上平均达到 GPT 6.1 Sol 的 96% 性能",
+          "价格仅为 Claude Opus 5.5 的 5%，不到一半价格交付生产级质量",
+          "同步推出 Code 2 Flash，面向更轻量或低延迟场景"
+        ],
+        "detail": "微软发布新版编程模型 MAI Code 2 和 Code 2 Flash。官方称 MAI Code 2 在 DeepSWE 1.1、Terminal Bench 2.1、SWE-Atlas 和 FrontierCode v1.1 四个企业编码基准上平均达到 GPT 6.1 Sol 的 96% 性能，而价格只有 Clau",
+        "generatedAt": "2026-11-18T21:31:45+08:00"
+      }
+    },
+    {
+      "id": "8920e27eb1961194",
+      "title": "Claude 用了三天，把模型“搬上” AMD 的 GPU",
+      "url": "https://oschina.net/news/503639/claude-mythos-slashed-software-work-to-onboard-amd-gpus",
+      "summary": "Anthropic 最近在 IPO 路演里给投资人放了一张幻灯片：把自家模型跑上 AMD GPU 需要的软件工作，Claude Mythos Preview 用了大约三天做完，几乎不需要人插手。Anthropic 说这件事过去要花 6 到 12 个月。先说清楚这三天的边界。它只覆盖「让某一个 Anthropic 模型在 AMD MI355X 上跑到可用的性能水平」这件事，具体是 ...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T15:14:15+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU",
+        "AMD"
+      ],
+      "confidence": 0.07,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude 三天完成模型迁至 AMD GPU，Anthropic 称过去需 6-12 个月",
+        "takeaway": "Anthropic 在 IPO 路演中展示 Claude 三天完成模型适配 AMD GPU，凸显 AI 加速芯片软件迁移效率。",
+        "bullets": [
+          "Claude Mythos Preview 约三天完成模型在 AMD MI355X 上的可用性能适配",
+          "Anthropic 称同类工作过去需 6 到 12 个月，且几乎无需人工干预",
+          "该成果在 IPO 路演幻灯片中披露，用于向投资人展示效率"
+        ],
+        "detail": "Anthropic 在 IPO 路演幻灯片中透露，让自家模型在 AMD MI355X GPU 上跑到可用性能，Claude Mythos Preview 只用了约三天，几乎无需人工插手。Anthropic 表示这类工作过去要花 6 到 12 个月。不过该成果仅覆盖单个模型在特定 AMD GPU 上的性能适配。",
+        "generatedAt": "2026-11-18T21:31:47+08:00"
       }
     },
     {
@@ -884,6 +1251,42 @@
       }
     },
     {
+      "id": "6021b9270138ae87",
+      "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+      "url": "https://qbitai.com/2026/11/510811.html",
+      "summary": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T12:49:51+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "离职"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "思维链一作Jason Wei入职Meta一年即离职",
+        "takeaway": "OpenAI思维链核心作者Jason Wei在Meta仅待一年便离职，引发对Meta AI人才留存与团队稳定性的关注。",
+        "bullets": [
+          "Jason Wei是思维链（CoT）论文第一作者，此前在OpenAI任职。",
+          "他加入Meta刚满一年出头便离职，具体去向未在标题中说明。",
+          "此事或反映Meta AI团队近期人才流动频繁，影响外界对其研发稳定性的判断。"
+        ],
+        "detail": "据量子位报道，思维链论文第一作者Jason Wei已从Meta离职，此时距他入职仅一年出头。标题以“提桶跑路”形容其突然离开，但未透露离职原因和下一站。作为AI领域知名研究者，他的动向受到行业关注。",
+        "generatedAt": "2026-11-18T21:31:48+08:00"
+      }
+    },
+    {
       "id": "407420f377abe1ed",
       "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
       "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia",
@@ -954,6 +1357,42 @@
         ],
         "detail": "微软CEO萨提亚·纳德拉表示，自己如今算是\"AGI-pilled\"，即相信通用人工智能会带来惊人变化。他主要从经济结构和政治影响的角度看待此事，认为AI可能深刻改变经济运作方式，并由此波及政治格局。",
         "generatedAt": "2026-11-18T11:12:40+08:00"
+      }
+    },
+    {
+      "id": "28daee39fc0a1907",
+      "title": "“绝不愿再创办一次英伟达！”黄仁勋亲述创业33年背后的代价",
+      "url": "https://infoq.cn/article/e7Gtfwy4TI26o5elxRwT",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T21:50:15+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "英伟达"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋：绝不愿再创办一次英伟达",
+        "takeaway": "英伟达掌门人回顾33年创业历程，坦言代价沉重，引发对创业与坚持的思考。",
+        "bullets": [
+          "黄仁勋亲述英伟达33年创业背后的代价",
+          "直言“绝不愿再创办一次英伟达”",
+          "言论引发对创业艰辛与长期坚持的讨论"
+        ],
+        "detail": "黄仁勋在访谈中回顾英伟达33年创业历程，坦言过程代价巨大，甚至表示不愿再经历一次。这番话让人看到芯片巨头光环背后的长期压力与牺牲。",
+        "generatedAt": "2026-11-18T21:31:47+08:00"
       }
     },
     {
@@ -1243,6 +1682,151 @@
       }
     },
     {
+      "id": "82df8b1098237927",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents",
+      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T20:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "enterprise"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Felicis领投750万美元，Unsiloed AI让企业文档可被AI代理使用",
+        "takeaway": "仅7人的Unsiloed AI获Felicis领投750万美元，瞄准企业文档处理市场，与巨头和初创竞争。",
+        "bullets": [
+          "Felicis领投750万美元，Unsiloed AI专注企业文档AI化",
+          "团队仅7人，计划与科技巨头及专业初创公司竞争",
+          "目标让企业文档可被AI代理直接使用，提升自动化"
+        ],
+        "detail": "Unsiloed AI获得由Felicis领投的750万美元融资。这家只有7人的公司致力于让企业文档能被AI代理直接使用，从而在拥挤的AI文档处理市场中与科技巨头和专业初创公司展开竞争。",
+        "generatedAt": "2026-11-18T21:31:49+08:00"
+      }
+    },
+    {
+      "id": "55dde3921be9b1d7",
+      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers",
+      "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T19:30:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raises"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "印度Humyn Labs融资4700万美元，为美国机器人公司提供数据",
+        "takeaway": "成立仅数月的印度初创公司获大额融资，主攻美国机器人数据市场，值得关注。",
+        "bullets": [
+          "Humyn Labs完成4700万美元融资，成立于今年2月。",
+          "约90%收入来自美国，客户主要是机器人公司。",
+          "竞争对手包括Mecka AI和XDOF等初创企业。"
+        ],
+        "detail": "印度初创公司Humyn Labs今年2月成立，近日完成4700万美元融资。该公司主要为美国机器人企业提供所需数据，目前约九成收入来自美国市场，并与Mecka AI、XDOF等公司竞争。",
+        "generatedAt": "2026-11-18T21:31:49+08:00"
+      }
+    },
+    {
+      "id": "bdaac6f563ec9175",
+      "title": "Suno now lets you make AI videos for your AI music",
+      "url": "https://theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T19:16:53+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "feature",
+        "users"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Suno 推出 Visuals 功能，AI 音乐可生成对口型视频",
+        "takeaway": "Suno 从 AI 音乐平台向视频生成扩展，用户可将歌曲转为自动对口型的 AI 视频片段。",
+        "bullets": [
+          "Suno 新增图像和视频生成功能，名为 Visuals。",
+          "用户可将 Suno 歌曲转为自动对口型的 AI 视频片段。",
+          "此举是 Suno 拓展 AI 音乐平台边界的最新尝试。"
+        ],
+        "detail": "Suno 推出了名为 Visuals 的新功能，允许用户将平台生成的歌曲转化为 AI 视频片段，视频会自动匹配歌词进行对口型。这是 Suno 在 AI 音乐之外，向图像和视频生成领域扩展的最新动作。",
+        "generatedAt": "2026-11-18T21:31:49+08:00"
+      }
+    },
+    {
+      "id": "03692ec60cac1bbf",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analys…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T18:20:30+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "气味识别初创公司称AI鼻子媲美人类嗅觉",
+        "takeaway": "一家初创公司用AI鼻子挑战人类嗅觉，或改变气味识别行业。",
+        "bullets": [
+          "约30名人类嗅辨员在实验室为各种气味标注描述词。",
+          "这些数据与化学分析结果交叉比对，用于训练AI。",
+          "公司宣称其AI鼻子识别能力可与人类嗅觉匹敌。"
+        ],
+        "detail": "在新泽西州纽瓦克机场附近的实验室里，约30名经验丰富的人类嗅辨员正逐一辨别地球上的各种气味。他们仔细记录下“坚果味”“桃子味”“海洋味”等描述，并与化学分析结果进行交叉比对，用于训练AI鼻子。该公司声称，其AI嗅觉已达到与人类相当的水平。",
+        "generatedAt": "2026-11-18T21:31:51+08:00"
+      }
+    },
+    {
       "id": "5b158888670aa71b",
       "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
       "url": "https://simonwillison.net/2026/Nov/17/datasette-lite",
@@ -1385,6 +1969,42 @@
       }
     },
     {
+      "id": "2be69326346a9f67",
+      "title": "深度实测 GPT-6.2：强是真强，难用也是真难用",
+      "url": "https://ifanr.com/1690130",
+      "summary": "希望国模也快快跟上啊 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T18:01:23+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GPT-6.2 实测：能力很强，但用起来真费劲",
+        "takeaway": "爱范儿实测 GPT-6.2，结论是性能强悍但上手体验不佳，期待国产模型跟进。",
+        "bullets": [
+          "爱范儿发布 GPT-6.2 深度实测，评价为“强是真强，难用也是真难用”",
+          "评测指出模型能力突出，但实际使用门槛或体验存在问题",
+          "文章结尾表达对国产模型尽快跟上的期待"
+        ],
+        "detail": "爱范儿对 GPT-6.2 做了深度实测，给出的评价很直接：模型本身能力确实强，但用起来并不顺手。文章没有展开具体细节，只在结尾表达了对国产模型快快跟上的期望。",
+        "generatedAt": "2026-11-18T21:31:52+08:00"
+      }
+    },
+    {
       "id": "23791fed6fa0ce2c",
       "title": "MAI Code 2 and Code 2 Flash",
       "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash",
@@ -1418,6 +2038,192 @@
         ],
         "detail": "微软正式推出MAI Code 2和MAI Code 2 Flash两款代码模型。从命名看，Flash版可能更轻量、响应更快。该消息在Hacker News获得186点热度，引发开发者关注。",
         "generatedAt": "2026-11-18T05:27:45+08:00"
+      }
+    },
+    {
+      "id": "249b825d4642a6bb",
+      "title": "纽娲机器人创始人杨睿刚：自动驾驶踩过的数据坑，机器人还会再踩一遍丨物理 AI 50 人",
+      "url": "https://leiphone.com/category/transportation/GLv3yGaPGK64teuS.html",
+      "summary": "做了十多年自动驾驶之后，杨睿刚决定把下一次创业的方向，从高速公路转向居民社区。在此之前，他曾在美国高校研究三维视觉，后来加入百度研究院，负责机器人与自动驾驶实验室，又担任嬴彻科技CTO，推动自动驾驶重卡前装量产。从研究算法到让几十吨重的卡车真正跑上高速公路，他经历了自动驾驶从技术探索走向商业化的过程。 2024年，杨睿刚开始筹备第二次创业。彼时，人形机器人已经成为具身智能行业最受关注的方向，他也接触过相关创业机会，但最终选择了一个看起来没那么性感的场景：社区末端配送。他判断，…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T18:28:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "加入",
+        "创始人"
+      ],
+      "confidence": 0.56,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "纽娲机器人杨睿刚：自动驾驶的数据坑，机器人还会再踩一遍",
+        "takeaway": "自动驾驶老将转做社区配送机器人，提醒行业数据陷阱会重演，值得关注。",
+        "bullets": [
+          "杨睿刚曾负责百度自动驾驶实验室，后任嬴彻科技CTO。",
+          "2024年他筹备二次创业，选择社区末端配送而非人形机器人。",
+          "他认为自动驾驶踩过的数据坑，机器人行业还会再踩一遍。"
+        ],
+        "detail": "杨睿刚有十多年自动驾驶经验，从学术研究到推动重卡量产。2024年他二次创业，没选火热的人形机器人，而是做社区末端配送。他提醒，自动驾驶在数据上踩过的坑，机器人行业还会再踩一遍。",
+        "generatedAt": "2026-11-18T21:31:52+08:00"
+      }
+    },
+    {
+      "id": "3ede266c56e21b63",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long",
+      "summary": "Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/ Comments URL: https://news.ycombinator.com/item?id=50541790 Points: 163 # Comments: 83",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T12:14:04+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gemini 4 Carbon 为何迟迟未发？HN 热议",
+        "takeaway": "Hacker News 上关于 Gemini 4 Carbon 发布延迟的讨论引发关注，折射外界对谷歌新模型的期待与猜测。",
+        "bullets": [
+          "Hacker News 出现讨论帖，追问 Gemini 4 Carbon 为何发布迟缓",
+          "帖子获 163 分、83 条评论，关注度不低",
+          "讨论涉及谷歌下一代 Gemini 模型的发布节奏"
+        ],
+        "detail": "有用户在 Hacker News 发帖，讨论谷歌 Gemini 4 Carbon 为何迟迟不发布，帖子获得 163 分和 83 条评论。原文是一篇博客文章，但摘要未透露具体原因，讨论主要围绕发布延迟展开。",
+        "generatedAt": "2026-11-18T21:31:53+08:00"
+      }
+    },
+    {
+      "id": "ec48e4fd86647589",
+      "title": "海外算力通道收窄！众智 FlagOS × 清昴智能，助力国芯高性能上线商用 Token 工厂",
+      "url": "https://leiphone.com/category/industrynews/ukrIJ082d0MIuodR.html",
+      "summary": "11 月 16 日，美国商务部工业与安全局（BIS）最新出口管制政策正式落地，将限制范围从芯片实物进一步延伸至远程算力访问，旨在封堵中国企业通过海外数据中心获取先进 AI 算力的路径。这一外部变量正在迅速传导至国内算力供给侧。对于正在兴起的“国芯 Token 工厂”而言，海外算力通道的收窄在需求侧倒逼本土算力加快承接真实业务；但在供给侧，国产推理芯片在制造与封装环节同样面临更严苛的审查。硬件供给依然紧俏，产业界不得不直面一个更迫切的工程命题：在现有的国产新卡与海量存量集群之上…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:31:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "算力",
+        "数据中心",
+        "集群"
+      ],
+      "confidence": 0.79,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "美管制延伸至远程算力，众智FlagOS联手清昴智能推国产Token工厂",
+        "takeaway": "海外算力通道收窄倒逼国产芯片承接真实业务，FlagOS与清昴智能合作推动国芯商用落地。",
+        "bullets": [
+          "美BIS新规将出口管制从芯片实物延伸至远程算力访问",
+          "海外通道收窄，需求侧倒逼本土算力承接真实业务",
+          "国产推理芯片制造与封装同样面临更严审查，供给紧俏",
+          "众智FlagOS与清昴智能合作，助国芯高性能上线商用Token工厂"
+        ],
+        "detail": "11月16日美国BIS新出口管制落地，限制范围从芯片实物扩展到远程算力访问，封堵中企通过海外数据中心获取先进AI算力的路径。这正传导至国内算力供给侧：需求侧倒逼本土算力承接真实业务，但国产推理芯片在制造封装环节也面临更严审查，硬件供给依然紧俏。众智FlagOS与清昴智能合作，试图在现有国产新卡与存量集群上解决工程难题，",
+        "generatedAt": "2026-11-18T21:31:54+08:00"
+      }
+    },
+    {
+      "id": "dac69df546203970",
+      "title": "“未名·AI Park”正式揭牌，北大海淀共建AI创新转化高地",
+      "url": "https://tmtpost.com/8210345.html",
+      "summary": "“未名·AI Park”核心启动区选址北大西门外，构建服务北大的“一公里转化圈”，立足北大顶尖AI学科资源与海淀科创沃土，打通“原始创新—技术攻关—成果落地—产业集聚”全链条，是百年京张AI创新带上的重要节点。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T20:11:01+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "北大海淀共建“未名·AI Park”，打造一公里转化圈",
+        "takeaway": "北大与海淀联合揭牌AI创新转化园区，聚焦AI成果落地与产业集聚。",
+        "bullets": [
+          "“未名·AI Park”核心启动区选址北大西门外。",
+          "构建服务北大的“一公里转化圈”，依托AI学科资源。",
+          "打通原始创新到产业集聚全链条，成京张AI创新带节点。"
+        ],
+        "detail": "“未名·AI Park”正式揭牌，核心区设在北大西门外，旨在形成服务北大的“一公里转化圈”。园区结合北大AI学科优势与海淀科创资源，贯通从原始创新、技术攻关到成果落地、产业集聚的全链条，并成为百年京张AI创新带的重要节点。",
+        "generatedAt": "2026-11-18T21:31:54+08:00"
+      }
+    },
+    {
+      "id": "2559d126e0c5735e",
+      "title": "诺奖得主做AI制药，20个月狂揽550亿",
+      "url": "https://tmtpost.com/8209976.html",
+      "summary": "Isomorphic Labs完成C轮融资。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T17:51:26+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "轮融资"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "诺奖得主创立的AI制药公司Isomorphic Labs完成C轮融资，20个月估值达550亿",
+        "takeaway": "诺奖得主领衔的AI制药公司Isomorphic Labs快速完成C轮融资，估值飙升，显示AI制药赛道热度不减。",
+        "bullets": [
+          "Isomorphic Labs由诺奖得主创立，专注AI制药",
+          "公司完成C轮融资，20个月内估值达550亿",
+          "融资凸显AI制药领域受资本追捧"
+        ],
+        "detail": "诺奖得主创立的AI制药公司Isomorphic Labs宣布完成C轮融资。该公司在20个月内估值达到550亿元，展现出AI制药领域的强劲势头。",
+        "generatedAt": "2026-11-18T21:31:55+08:00"
       }
     },
     {
@@ -1619,6 +2425,264 @@
       }
     },
     {
+      "id": "d58a326188f9f50a",
+      "title": "Lovable Wants You to Vibe Code Your Dream Job",
+      "url": "https://wired.com/story/lovable-wants-you-to-vibe-code-a-living",
+      "summary": "This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T18:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app",
+        "users"
+      ],
+      "confidence": 0.25,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Lovable 转型：从氛围编程应用到经营氛围编程生意",
+        "takeaway": "瑞典初创 Lovable 在氛围编程应用热潮中崛起，两年后转向帮用户用氛围编程经营业务。",
+        "bullets": [
+          "Lovable 曾主导氛围编程应用开发热潮",
+          "成立两年后战略转向，聚焦商业运营",
+          "目标帮用户用氛围编程打理自己的生意"
+        ],
+        "detail": "瑞典初创公司 Lovable 在氛围编程应用爆发中占据主导地位。推出两年后，它正调整方向，从帮人做应用转向帮用户用氛围编程经营业务。",
+        "generatedAt": "2026-11-18T21:31:55+08:00"
+      }
+    },
+    {
+      "id": "18fc30b10f5b2aca",
+      "title": "从快速部署到统一运营，Agent 的 AH Moment 来了！",
+      "url": "https://infoq.cn/video/AWswNIWpvlNvaWY8MTDd",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T23:40:10+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "部署"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "35b426905375db6a",
+      "title": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
+      "url": "https://infoq.cn/article/FrDlAvNIwkr8ttdvWMCC",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T22:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c978625fdb955102",
+      "title": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
+      "url": "https://infoq.cn/article/NbShAFtZqRSsFrsVu6aj",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T22:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 0.5,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "83a5c0bcbd4f0a96",
+      "title": "谷歌 SRE 圣经被迫重写：AI 时代，硬技能在塌陷，第一性原理在升值",
+      "url": "https://infoq.cn/article/draE95cYeLAqhcR3CwIF",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T21:39:49+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a413fa3fe043e194",
+      "title": "Java 近期资讯：TornadoVM 8.0、JNoSQL、Endive、JReleaser、JBang、LangChain4j 与 Quarkus Almanac",
+      "url": "https://infoq.cn/article/oSiN27BaersaKQcQGdaa",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T21:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1dbfe33424a2bc69",
+      "title": "清华徐梦迪：预训练做再好都不够，机器人需要在部署中学习 | CoRL 2026",
+      "url": "https://leiphone.com/category/private/S1vnQSfDZDVC7TWb.html",
+      "summary": "人机交互不只是目标，更是解决方案。作者丨邓哲敏编辑丨齐铖湧 2026 年 11 月 12 日，CoRL 2026 “Learn@Deploy”（机器人部署中学习）半日研讨会上，清华大学交叉信息研究院助理教授徐梦迪以 Keynote 讲者身份做开场报告。徐梦迪从清华车辆工程专业毕业后，前往卡内基梅隆大学机械工程系读博，师从 Safe AI Lab 负责人赵鼎，论文《构建可适应的通用机器人》拿下该系最佳博士论文奖。她在论文中指出，构建通用机器人不能只靠堆参数、堆数据、指望预训练自…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T16:28:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "论文",
+        "研究"
+      ],
+      "confidence": 0.33,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9923a3882989b25e",
+      "title": "做了20多年消费硬件，奥尼电子为什么去做Token工厂？",
+      "url": "https://leiphone.com/category/chips/DNqOGFbDk2Vd5eiX.html",
+      "summary": "“这个有什么用？怎么用起来？” 一家有超20年制造经验的企业，进入AI推理算力市场后，被客户的这个问题问住了。这两年，AI算力市场热闹得很。有人建设算力集群，有人销售服务器，也有人提供算力服务。可到了实际使用环节，一些企业却发现，设备买回来了，应用没找到，业务也接不进去。 IDC与中国信通院2026年的联合调研显示，在制造、政务等行业，智算资源利用率达到70%及以上的企业占比不足35%。供给端忙着把算力卖出去，需求端还在琢磨怎么用起来。对进入AI推理算力市场不久的奥尼电子而言…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T15:52:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力",
+        "集群",
+        "服务器"
+      ],
+      "confidence": 0.56,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c2e053d45c86d254",
+      "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+      "url": "https://wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship",
+      "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:01:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6369b2de0e439892",
+      "title": "Google AI Overviews 导致搜索流量下降四成",
+      "url": "https://solidot.org/story?sid=85916",
+      "summary": "Google 的 AI Overviews 服务导致流向网站的搜索流量下降大约四成。在一项随机实验中，研究人员对部分美国桌面端用户隐藏了 AI Overviews。通过对比正常看到 AI Overviews 的美国用户的搜索行为，研究发现 AI Overviews 使流向外部网站的点击量减少 40%。在 DataForSEO 跟踪美国搜索关键词中，逾五成会显示 AI Overviews，而一年前仅为 6%。用户在看到 AI 答案之后通常不再继续点击相关链接，结果就是 AI 答…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T14:36:06+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "研究",
+        "实验"
+      ],
+      "confidence": 1,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "0bd884a542ab38d4",
       "title": "Gartner 2027十大技术趋势：十项里四项与AI治理有关，窗口期只有1到6年",
       "url": "https://tmtpost.com/8209258.html",
@@ -1742,6 +2806,172 @@
       "pushed": false
     },
     {
+      "id": "3a8a4682329a4b46",
+      "title": "大厂AI对照系：李彦宏布道，马化腾预警",
+      "url": "https://tmtpost.com/8208862.html",
+      "summary": "最早看见浪潮的人，为何没跑到最前面；后知后发的赶超者，又靠什么补课？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T18:24:24+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "12b36c54e72794ba",
+      "title": "狂奔后的冷却，AI玩具能跑出下一个泡泡玛特吗？",
+      "url": "https://tmtpost.com/8208866.html",
+      "summary": "在持续的资本狂欢与市场扩容之后，AI玩具赛道的热情正在降温。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T18:07:01+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "575840d318e5e341",
+      "title": "第一批打工的人形机器人，有的已经失业了",
+      "url": "https://tmtpost.com/8209375.html",
+      "summary": "辞退原因是什么？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T17:51:37+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "23a6e8d38fa0e0cc",
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "url": "https://energy-based-reasoners.github.io/",
+      "summary": "Article URL: https://energy-based-reasoners.github.io/ Comments URL: https://news.ycombinator.com/item?id=50543989 Points: 129 # Comments: 17",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T17:29:32+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "df06c166884451d6",
+      "title": "Beyond Bitwidth: Deployment-Constrained Mixed-Precision Quantization for Multilingual LLM Inference on NVIDIA Blackwell",
+      "url": "https://arxiv.org/abs/2611.21974",
+      "summary": "arXiv:2611.21974v1 Announce Type: cross Abstract: Low-bit LLM quantization is useful only if a model preserves service-relevant accuracy, executes through supported GPU kernels, and meets measured memory and latency limits. We study Qwen3-8…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "76e9dd618d13e83a",
+      "title": "美国最近接连发生的技术故障源自为修复 AI 发现的漏洞",
+      "url": "https://solidot.org/story?sid=85918",
+      "summary": "过去几天美国经历了一系列技术故障，全国航班停飞、银行在线服务中断，甚至 NSA 的一个机密通信网络瘫痪。华尔街高管和 NSA 告诉美国国会议员，一系列技术故障的起因是试图修复 AI 发现的系统漏洞。AI 模型在系统中识别了大量漏洞，为尽快修复漏洞而一次性推送了大量补丁，超出了系统的设计承载能力。摩根大通周一将其银行服务中断归咎于软件相关 bug，NSA 周二将其部分网络短暂性能下降归咎于例行维护。",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T15:19:35+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f1feb2e4bb485c20",
+      "title": "AI is killing All About Berlin",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 501 # Comments: 456",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T14:47:26+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "b8930a9a56df63fc",
       "title": "Not Everything Needs an LLM",
       "url": "https://newsletter.posthog.com/p/decision-models",
@@ -1761,6 +2991,447 @@
       "keywords": [],
       "confidence": 0,
       "score": 27,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cef94d7acca43e45",
+      "title": "EgoLink: Egocentric Language-Vision Interactive Network Knowledge Challenge Summary",
+      "url": "https://arxiv.org/abs/2611.21690",
+      "summary": "arXiv:2611.21690v1 Announce Type: cross Abstract: The EgoLink Challenge at ACM Multimedia 2026 benchmarks egocentric multimodal intelligence linking first-person perception, social reasoning, and interactive action. Unlike benchmarks center…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 26,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "6e090bb95c89cabb",
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 226 # Comments: 307",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T05:16:12+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "review"
+      ],
+      "confidence": 1,
+      "score": 24,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3818a96d0492299c",
+      "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
+      "url": "https://arxiv.org/abs/2611.22033",
+      "summary": "arXiv:2611.22033v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as autonomous shopping agents that process multimodal product listings (consisting of visual and text data) and recommend purchases on be…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 16,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "156ee263c7026acf",
+      "title": "EviDARL: Evidence-Centric Dual-Agent Reasoning via Alternating Reinforcement Learning for Multi-Table Question Answering",
+      "url": "https://arxiv.org/abs/2611.22310",
+      "summary": "arXiv:2611.22310v1 Announce Type: new Abstract: Despite advances in LLM-based table reasoning, most studies focus on single-table settings. Multi-table QA requires multi-hop reasoning over complex table relationships and evidence dispersed …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "762df95e73fa0fd0",
+      "title": "PACD: Provenance-Aware Consensus Decoding for Mitigating Cross-Modal Hallucinations in Omnimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2611.22456",
+      "summary": "arXiv:2611.22456v1 Announce Type: new Abstract: Omnimodal large language models (Omni-LLMs) integrate audio, video, and text for multimodal reasoning, yet remain vulnerable to cross-modal hallucinations, where one modality improperly influe…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "63a2866ec20624a5",
+      "title": "LMLineage: Content Lineage and Context Governance for LLM Agents",
+      "url": "https://arxiv.org/abs/2611.22511",
+      "summary": "arXiv:2611.22511v1 Announce Type: new Abstract: Interpretability for AI agents should not be confined to understanding the model's internal weights. It must also cover the agent's reasoning and decision-making process over multi-source cont…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b03ba91b587febca",
+      "title": "PACT: Plan-Action Consistency Training by Preserving Correct Plans and Repairing Actions in GUI Agents",
+      "url": "https://arxiv.org/abs/2611.22591",
+      "summary": "arXiv:2611.22591v1 Announce Type: new Abstract: GUI agents can formulate a correct immediate plan in their reasoning yet emit an action that fails to execute it, creating an execution gap. This recurring mismatch undermines reliable task co…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b48b4efdf65a0061",
+      "title": "Perception into Imagination: Executable Memory for World Models",
+      "url": "https://arxiv.org/abs/2611.22294",
+      "summary": "arXiv:2611.22294v1 Announce Type: cross Abstract: Physical agents must use what they previously saw or touched after visibility or contact is lost. Their actions change the implications of these remembered facts. We introduce executable per…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c5532681b3516099",
+      "title": "Eyes in the Update? Learning Where Rewards Land in Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2611.22438",
+      "summary": "arXiv:2611.22438v1 Announce Type: cross Abstract: Multimodal post-training has moved from broad instruction tuning toward reinforcement learning for image and video reasoning, where outcome rewards can improve final-answer accuracy. Yet the…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "04b00894c6b22fe8",
+      "title": "Manufacturing Differential Sparsity: Planner-Hardware Co-Design for Efficient World Model Planning",
+      "url": "https://arxiv.org/abs/2611.22483",
+      "summary": "arXiv:2611.22483v1 Announce Type: cross Abstract: JEPA-style latent world models let embodied agents plan toward new goals with model predictive control, but they are still too slow for real-life embodied control: sampling-based MPC repeats…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "125bd295b9a2b6ea",
+      "title": "From Perception to Simulation: Unveiling and Empowering Mental Spatial Dynamics in MLLMs",
+      "url": "https://arxiv.org/abs/2611.22541",
+      "summary": "arXiv:2611.22541v1 Announce Type: cross Abstract: Spatial reasoning is a fundamental component of world understanding for Multimodal Large Language Models (MLLMs). While existing research has advanced the perception of spatial relations in …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1eb13b7245c3f0f6",
+      "title": "Seeing with You: Perception-Reasoning Coevolution for Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2603.28618",
+      "summary": "arXiv:2603.28618v3 Announce Type: replace Abstract: Reinforcement learning with verifiable rewards (RLVR) has substantially enhanced the reasoning capabilities of multimodal large language models (MLLMs). However, existing RLVR approaches t…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a0bbad81ae3833d2",
+      "title": "PhysAlign: A Benchmark for Evidence-Grounded Role Alignment in Multimodal Physics Reasoning",
+      "url": "https://arxiv.org/abs/2609.33319",
+      "summary": "arXiv:2609.33319v2 Announce Type: replace Abstract: A key challenge in physics diagram understanding is correctly associating visual information with the physical entities, relations, and conditions it describes. Even when a value, symbol, …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0ed5feaedd6af6dc",
+      "title": "ToolFlood: Beyond Selection -- Hiding Valid Tools from LLM Agents via Semantic Covering",
+      "url": "https://arxiv.org/abs/2603.13950",
+      "summary": "arXiv:2603.13950v2 Announce Type: replace Abstract: Large Language Model (LLM) agents increasingly use external tools for complex tasks and rely on embedding-based retrieval to select a small top-$k$ subset for reasoning. Prior work on atta…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8529a332530270b1",
+      "title": "TableVista: Benchmarking Multimodal Table Reasoning under Visual and Structural Complexity",
+      "url": "https://arxiv.org/abs/2605.05955",
+      "summary": "arXiv:2605.05955v2 Announce Type: replace Abstract: We introduce TableVista, a comprehensive benchmark for evaluating foundation models in multimodal table reasoning under visual and structural complexity. TableVista consists of 3,000 high-…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "19f11360a338f7ef",
+      "title": "RICE-PO: Turning Retrieval Interactions into Credit Signals for Reasoning Agents",
+      "url": "https://arxiv.org/abs/2605.26352",
+      "summary": "arXiv:2605.26352v4 Announce Type: replace Abstract: Retrieval is increasingly moving from one-shot matching toward interactive reasoning, where language agents iteratively inspect evidence, reformulate queries, and search again. Training su…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "8743383bf39959d2",
+      "title": "RoboTeam: Benchmarking Vision-Based Multi-Agent Control of Many Robot Arms in Real Time",
+      "url": "https://arxiv.org/abs/2611.22138",
+      "summary": "arXiv:2611.22138v1 Announce Type: cross Abstract: Multimodal agents can now control robot arms by calling tools and writing code. Existing benchmarks fall short in three ways: most test one or two arms on short tasks, many pause the world w…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T13:00:00+08:00",
+      "fetchedAt": "2026-11-18T21:31:18+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 10,
       "related": [],
       "pushed": false
     }
