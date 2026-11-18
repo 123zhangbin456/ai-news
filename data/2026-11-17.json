@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updatedAt": "2026-11-18T05:27:45+08:00",
+  "updatedAt": "2026-11-18T11:12:48+08:00",
   "items": [
     {
       "id": "8c824024c9147b94",
@@ -62,7 +62,7 @@
       "confidence": 0.63,
       "score": 62,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI与智利政府合作推动负责任AI应用",
         "takeaway": "OpenAI与智利政府达成合作，助力公共部门技能建设与本地AI创业。",
@@ -73,7 +73,8 @@
         ],
         "detail": "OpenAI宣布与智利政府合作，共同推动负责任的人工智能应用。双方将帮助公共部门培养相关技能，并支持智利本地初创企业开发AI应用。",
         "generatedAt": "2026-11-17T22:42:57+08:00"
-      }
+      },
+      "pushedAt": "2026-11-18T11:12:48+08:00"
     },
     {
       "id": "9ccf8665576aaeb3",
@@ -111,6 +112,42 @@
         "generatedAt": "2026-11-17T05:16:58+08:00"
       },
       "pushedAt": "2026-11-17T06:41:11+08:00"
+    },
+    {
+      "id": "c6c361c53bc4ce2d",
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-17T16:00:00+08:00",
+      "fetchedAt": "2026-11-18T11:12:21+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing"
+      ],
+      "confidence": 0.75,
+      "score": 59,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 推出 ChatGPT 销售插件，可查客户、写提案、更新 CRM",
+        "takeaway": "ChatGPT 新增销售专用插件及 30 多个合作插件，帮销售做客户调研、准备提案和推进交易。",
+        "bullets": [
+          "OpenAI 发布 ChatGPT for Sales，含销售插件和 30+ 合作插件",
+          "功能覆盖客户调研、提案准备、CRM 更新和交易推进",
+          "面向销售团队，意在把 ChatGPT 嵌入日常销售工作流"
+        ],
+        "detail": "OpenAI 宣布推出 ChatGPT 销售版，包含新的销售插件以及 30 多个新增和扩展的合作插件。这些工具可帮助销售人员在 ChatGPT 内调研潜在客户、准备推销材料、更新 CRM 并推动交易进展。",
+        "generatedAt": "2026-11-18T11:12:32+08:00"
+      }
     },
     {
       "id": "fd48ebd10031a74c",
