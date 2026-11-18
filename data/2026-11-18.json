@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updatedAt": "2026-11-18T12:02:02+08:00",
+  "updatedAt": "2026-11-18T12:45:59+08:00",
   "items": [
     {
       "id": "549a77347d5e1e5f",
@@ -1209,6 +1209,40 @@
       }
     },
     {
+      "id": "ee17703ffb2970fc",
+      "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+      "url": "https://qbitai.com/2026/11/510737.html",
+      "summary": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T10:49:23+08:00",
+      "fetchedAt": "2026-11-18T12:45:53+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "小红书校招沙龙：AI时代技术人才都在聊什么",
+        "takeaway": "小红书举办校招沙龙，技术高手与年轻人交流，展现AI时代人才关注点。",
+        "bullets": [
+          "小红书举办校招技术沙龙，邀请技术高手参与。",
+          "活动聚焦AI时代技术人才的讨论与交流。",
+          "年轻人展现野心，获得认真对待与互动。"
+        ],
+        "detail": "量子位报道，小红书举办了一场校招沙龙，一群技术高手认真对待年轻人的野心。活动潜伏48小时，观察AI时代顶尖技术人才都在聊什么，展现了技术交流与人才吸引的场景。",
+        "generatedAt": "2026-11-18T12:45:59+08:00"
+      }
+    },
+    {
       "id": "5b158888670aa71b",
       "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
       "url": "https://simonwillison.net/2026/Nov/17/datasette-lite",
@@ -1548,6 +1582,40 @@
         ],
         "detail": "据Hacker News讨论，谷歌的AI搜索摘要功能导致网站来自搜索的流量下降约40%。这意味着用户更少点击链接，直接获取答案，可能改变内容创作者的流量结构。",
         "generatedAt": "2026-11-18T11:12:46+08:00"
+      }
+    },
+    {
+      "id": "ad0ee7e4365659b1",
+      "title": "Kubernetes Confidential Containers 获 Fortanix 认证与密钥管理支持",
+      "url": "https://infoq.cn/article/4PEbu8cLHkgz0oUF3etE",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T20:00:00+08:00",
+      "fetchedAt": "2026-11-18T12:45:53+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Kubernetes 机密容器获 Fortanix 密钥管理支持",
+        "takeaway": "Fortanix 为 Kubernetes 机密容器提供认证与密钥管理，让敏感负载在可信执行环境中更易落地。",
+        "bullets": [
+          "Fortanix 宣布支持 Kubernetes 机密容器",
+          "补齐认证与密钥管理能力",
+          "有助于敏感数据在容器中安全运行"
+        ],
+        "detail": "Fortanix 为 Kubernetes 机密容器增加了认证和密钥管理支持。机密容器让数据在使用中也能保持加密隔离，但密钥如何安全下发一直是落地难点，这次集成补上了这一环。",
+        "generatedAt": "2026-11-18T12:45:59+08:00"
       }
     },
     {
