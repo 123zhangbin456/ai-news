@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updatedAt": "2026-11-19T21:58:42+08:00",
+  "updatedAt": "2026-11-20T05:06:36+08:00",
   "items": [
     {
       "id": "b898a1b2127c5756",
@@ -83,6 +83,40 @@
         ],
         "detail": "谷歌正式发布 Gemini Decision 1，向两个月前引爆决策模型品类的 TypeSafe Jev 发起挑战。该模型不生成任何文本，只计算供程序直接驱动 Agent 执行的候选项概率和置信度，无需逐 Token 生成答案，也省去输出 Token 费用。在基准测试中五项领先、两项落后。",
         "generatedAt": "2026-11-19T21:58:28+08:00"
+      }
+    },
+    {
+      "id": "6687f7be62c34e4a",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T16:00:00+08:00",
+      "fetchedAt": "2026-11-20T05:06:18+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 60,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 用 Codex 打造性能工厂，让 ChatGPT 保持高速",
+        "takeaway": "OpenAI 公开其内部性能优化系统 Performance Factory，用 Codex 自动发现并修复性能问题，保障 ChatGPT 响应速度。",
+        "bullets": [
+          "OpenAI 构建了名为 Performance Factory 的系统，由 Codex 驱动的工作流组成。",
+          "该系统能自动发现并修复性能问题，目标是让 ChatGPT 保持快速。",
+          "这体现了 OpenAI 用自家 AI 工具优化自身产品的工程实践。"
+        ],
+        "detail": "OpenAI 介绍了其内部系统 Performance Factory，它利用 Codex 驱动的工作流来自动查找并修复性能瓶颈，从而帮助 ChatGPT 维持快速响应。这套系统展示了 OpenAI 如何用 AI 工具来优化自身服务。",
+        "generatedAt": "2026-11-20T05:06:24+08:00"
       }
     },
     {
@@ -307,6 +341,42 @@
         ],
         "detail": "Gemini 4 系列现在分三档：Carbon 攻坚最难的长周期项目，Hydrogen 负责日常快速执行，新加入的 Neon 卡在中间，官方说法是平衡深度与效率。价格上，输入每百万 token 3 美元，缓存输入 0.15 美元（95% 折扣），输出 15 美元，上下文窗口 100 万 token。",
         "generatedAt": "2026-11-19T21:58:28+08:00"
+      }
+    },
+    {
+      "id": "824e87dcfa8e13e0",
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test",
+      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T22:54:39+08:00",
+      "fetchedAt": "2026-11-20T05:06:18+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO"
+      ],
+      "confidence": 0.9,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 启动 IPO，AI 循环融资模式面临考验",
+        "takeaway": "Anthropic 上市将检验 AI 行业依赖循环融资的可持续性，其算力承诺巨大。",
+        "bullets": [
+          "Anthropic 上市时背负巨额算力承诺，需向投资者证明商业模式。",
+          "亚马逊和谷歌等基础设施伙伴即使 Anthropic 失去领先也能获利。",
+          "此次 IPO 成为 AI 循环融资热潮的关键测试案例。"
+        ],
+        "detail": "Anthropic 在上市过程中面临巨大的算力投入承诺，这对其财务构成压力。不过，其最大基础设施合作伙伴亚马逊和谷歌即便在 Anthropic 失去行业领先地位时，仍可能从 AI 浪潮中持续获利。此次 IPO 将检验 AI 领域循环融资模式的韧性。",
+        "generatedAt": "2026-11-20T05:06:24+08:00"
       }
     },
     {
@@ -641,6 +711,80 @@
       }
     },
     {
+      "id": "880dd6c194cf107d",
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "url": "https://theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, de…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T23:16:45+08:00",
+      "fetchedAt": "2026-11-20T05:06:18+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "feature"
+      ],
+      "confidence": 1,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "ChatGPT 上线实时听写，边说边转文字",
+        "takeaway": "ChatGPT 新增 Live Dictation，说话时即时转写，不用等录完，全球所有套餐可用。",
+        "bullets": [
+          "功能名为 Live Dictation，边说边转文字，不再等录音结束。",
+          "已面向全球所有 ChatGPT 套餐用户推送，覆盖网页端等平台。",
+          "语音输入延迟降低，适合快速提问和长内容口述。"
+        ],
+        "detail": "ChatGPT 现在支持实时听写：对着麦克风说话时，文字会同步转写出来，不用等整段录音结束再处理。该功能正面向全球所有 ChatGPT 套餐用户推送，网页端等平台均可使用。",
+        "generatedAt": "2026-11-20T05:06:27+08:00"
+      }
+    },
+    {
+      "id": "c554d88a231d4448",
+      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+      "url": "https://theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T22:25:37+08:00",
+      "fetchedAt": "2026-11-20T05:06:18+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO",
+        "raised",
+        "billion"
+      ],
+      "confidence": 1,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 启动史上最大 IPO，募资 813 亿美元，“好人”人设面临考验",
+        "takeaway": "Anthropic 完成史上最大规模 IPO，募资 813 亿美元，但上市后其“好人”声誉将受公众审视。",
+        "bullets": [
+          "Anthropic 完成史上最大 IPO，募资 813 亿美元，超越 SpaceX。",
+          "此次上市为其他 AI 实验室的公开上市树立先例。",
+          "上市后，Anthropic 长期塑造的“好人”声誉将面临考验。"
+        ],
+        "detail": "Anthropic 今日迎来新起点：一场筹备多年的 IPO 以 813 亿美元募资额成为史上最大规模，超越 SpaceX，并为后续 AI 实验室上市定下重要先例。但上市并非终点，其“好人”声誉也将随之受到审视。",
+        "generatedAt": "2026-11-20T05:06:28+08:00"
+      }
+    },
+    {
       "id": "2f383f35a9e21175",
       "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
       "url": "https://theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
@@ -925,6 +1069,43 @@
         ],
         "detail": "11月18日，安谋科技（中国）举办Arm Cortex-M CPU新品说明会，深度解析Cortex-M42，并发布“星辰100e”AIoT原型平台，旨在帮助开发者打造AI性能更强的嵌入式设计。",
         "generatedAt": "2026-11-19T21:58:34+08:00"
+      }
+    },
+    {
+      "id": "1a35daf2aa538744",
+      "title": "刚刚，Anthropic 敲钟上市！史上最大IPO却让硅谷吵翻了",
+      "url": "https://ifanr.com/1690375",
+      "summary": "例如，为什么就你 A 社封号这么严格 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T22:58:57+08:00",
+      "fetchedAt": "2026-11-20T05:06:18+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "上市",
+        "IPO"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 敲钟上市，史上最大 IPO 引硅谷争议",
+        "takeaway": "Anthropic 完成史上最大规模 IPO，但封号严格等做法让硅谷议论纷纷。",
+        "bullets": [
+          "Anthropic 正式敲钟上市，成为史上最大 IPO",
+          "硅谷对其上市议论不断，争议焦点之一是封号政策",
+          "报道提到外界质疑 A 社封号为何格外严格"
+        ],
+        "detail": "Anthropic 正式敲钟上市，被称为史上最大 IPO，却在硅谷引发不少争论。报道提到，争议之一就是外界质疑 A 社的封号为何如此严格。",
+        "generatedAt": "2026-11-20T05:06:30+08:00"
       }
     },
     {
@@ -2374,6 +2555,43 @@
       }
     },
     {
+      "id": "97ccf1ecd5ed5546",
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere",
+      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T22:00:00+08:00",
+      "fetchedAt": "2026-11-20T05:06:18+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "assistant",
+        "available"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Superhuman 将 Go 助手扩展至 Docs 和 Mail",
+        "takeaway": "Superhuman 把 Go 设为核心智能体并接入 Docs 和 Mail，值得关注其能否提升办公效率。",
+        "bullets": [
+          "Superhuman 将 Go 助手升级为核心智能体",
+          "Go 现已集成到 Docs 和 Mail 中",
+          "用户可在文档和邮件场景直接调用 Go"
+        ],
+        "detail": "Superhuman 正在把 Go 助手作为其核心智能体，并让它出现在 Docs 和 Mail 产品中。这意味着用户可以在文档和邮件场景里直接使用 Go 的功能，而不再局限于单一入口。",
+        "generatedAt": "2026-11-20T05:06:36+08:00"
+      }
+    },
+    {
       "id": "630b41be4a2bc539",
       "title": "datasette-arrows 0.1a0",
       "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows",
@@ -3209,6 +3427,29 @@
       "topic": "ai",
       "publishedAt": "2026-11-19T16:35:17+08:00",
       "fetchedAt": "2026-11-19T21:58:21+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "849bf67a7068c267",
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine",
+      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 179 # Comments: 161",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T23:38:12+08:00",
+      "fetchedAt": "2026-11-20T05:06:18+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
