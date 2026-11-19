@@ -1,7 +1,51 @@
 {
   "date": "2026-11-19",
-  "updatedAt": "2026-11-19T05:01:49+08:00",
+  "updatedAt": "2026-11-19T10:52:24+08:00",
   "items": [
+    {
+      "id": "b898a1b2127c5756",
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+      "summary": "",
+      "source": {
+        "id": "deepmind",
+        "name": "Google DeepMind",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T05:35:43+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing",
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 66,
+      "related": [
+        {
+          "title": "Gemini 4 Neon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
+          "source": "Hacker News"
+        }
+      ],
+      "pushed": true,
+      "interpret": {
+        "headline": "Google DeepMind 发布 Gemini 4 Neon 模型",
+        "takeaway": "Google DeepMind 推出新一代模型 Gemini 4 Neon，但未公布具体细节，值得关注后续。",
+        "bullets": [
+          "Google DeepMind 正式发布 Gemini 4 Neon 模型",
+          "官方未提供摘要或功能说明",
+          "具体能力与开放时间尚未公布"
+        ],
+        "detail": "Google DeepMind 宣布推出 Gemini 4 Neon，但未附带任何摘要或细节说明。目前尚不清楚该模型的具体能力、适用场景或开放时间，需等待官方进一步披露。",
+        "generatedAt": "2026-11-19T10:52:08+08:00"
+      },
+      "pushedAt": "2026-11-19T10:52:24+08:00"
+    },
     {
       "id": "2f277485244a55e7",
       "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
@@ -25,7 +69,7 @@
       "confidence": 0.9,
       "score": 58,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Snapchat 开放 AR 镜头开发，支持 Claude Code 与 Cursor",
         "takeaway": "Snapchat 允许开发者用 AI 助手开发 AR 镜头，自然语言描述即可完成全流程。",
@@ -36,7 +80,8 @@
         ],
         "detail": "Snapchat 宣布，开发者现在可以使用 Claude Code、Cursor 等 AI 助手来构建 AR 镜头。创作者只需用日常语言描述想要的镜头效果，AI 助手就会接管从开始到完成的整个开发过程。",
         "generatedAt": "2026-11-19T05:01:31+08:00"
-      }
+      },
+      "pushedAt": "2026-11-19T10:52:24+08:00"
     },
     {
       "id": "50e3ea47cbae988d",
@@ -113,6 +158,42 @@
       }
     },
     {
+      "id": "0e23395eb73494cf",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit",
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T07:17:28+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.33,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋卸任后，微软CEO纳德拉仍对英伟达抱有信心",
+        "takeaway": "微软CEO纳德拉公开支持英伟达临时CEO科莱特·克雷斯，显示双方合作关系稳固。",
+        "bullets": [
+          "黄仁勋卸任英伟达CEO，科莱特·克雷斯出任临时CEO。",
+          "微软CEO纳德拉对克雷斯及英伟达未来表示信心。",
+          "微软与英伟达在AI算力领域合作紧密，此举稳定市场预期。"
+        ],
+        "detail": "英伟达CEO黄仁勋卸任后，微软CEO萨提亚·纳德拉对临时CEO科莱特·克雷斯表示信心。纳德拉的表态显示微软对英伟达领导层过渡的认可，也暗示双方在AI芯片领域的合作将继续。",
+        "generatedAt": "2026-11-19T10:52:08+08:00"
+      }
+    },
+    {
       "id": "2aa15f417aa995a5",
       "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
       "url": "https://wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo",
@@ -146,6 +227,79 @@
         ],
         "detail": "英伟达在黄仁勋被罢免后，临时CEO科莱特·克雷斯首次召开全员大会。她承诺提高薪酬和增加股权，试图缓解员工对突然换帅的担忧。",
         "generatedAt": "2026-11-19T05:01:33+08:00"
+      }
+    },
+    {
+      "id": "b7121aa7617648f3",
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T06:11:15+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic IPO 定价每股 83 美元，高于预期区间",
+        "takeaway": "AI 公司 Anthropic 据报以每股 83 美元完成 IPO 定价，估值达 1.5 万亿美元，高于此前预期区间。",
+        "bullets": [
+          "Anthropic IPO 定价每股 83 美元，超出此前预计区间",
+          "按完全稀释计算，公司估值达 1.5 万亿美元",
+          "这是备受期待的 IPO，定价高于预期或影响市场情绪"
+        ],
+        "detail": "据 TechCrunch AI 报道，Anthropic 的 IPO 定价为每股 83 美元，高于此前公布的预期区间。按完全稀释基准计算，此次 IPO 对公司的估值达到 1.5 万亿美元。这一备受期待的上市交易最终定价高于预期，可能对后续 AI 公司上市和市场情绪产生影响。",
+        "generatedAt": "2026-11-19T10:52:08+08:00"
+      }
+    },
+    {
+      "id": "a123826b9ff00392",
+      "title": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
+      "url": "https://ifanr.com/1690235",
+      "summary": "性能更强，还更便宜 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T07:56:47+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Gemini 4 Neon 突袭发布，性价比反超 Opus 5.5",
+        "takeaway": "谷歌突然推出 Gemini 4 Neon，主打更强性能与更低价格，直接冲击 Opus 5.5 的性价比定位。",
+        "bullets": [
+          "Gemini 4 Neon 未经预热突然发布，属模型发布类消息",
+          "官方口径为性能更强、价格更低",
+          "被拿来与 Opus 5.5 对比，性价比被认为占优"
+        ],
+        "detail": "爱范儿报道，Gemini 4 Neon 突然发布，主打性能更强且更便宜。标题称其性价比一夜之间超过 Opus 5.5，但摘要未给出具体跑分和定价细节。",
+        "generatedAt": "2026-11-19T10:52:10+08:00"
       }
     },
     {
@@ -221,6 +375,78 @@
       }
     },
     {
+      "id": "54bca3b9a46d02f4",
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report",
+      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T05:57:40+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达推迟提交10-Q季报引发市场猜测",
+        "takeaway": "英伟达未按时提交例行10-Q文件，引发关注，分析师已查明原因。",
+        "bullets": [
+          "英伟达宣布数周内不会提交10-Q季报",
+          "此举不同寻常，引发华尔街猜测",
+          "一位分析师已调查并弄清背后原因"
+        ],
+        "detail": "英伟达意外宣布将推迟数周提交正式的季度业绩文件10-Q，这一不寻常举动引发市场猜测。一位华尔街分析师随后查明了原因。",
+        "generatedAt": "2026-11-19T10:52:10+08:00"
+      }
+    },
+    {
+      "id": "246fea28a78903d1",
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated",
+      "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T05:31:21+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.33,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Palmer Luckey 称中国乐见黄仁勋出局，呼吁让其复职",
+        "takeaway": "Anduril CEO 认为罢免黄仁勋会削弱美国，主张让这位英伟达前掌门回归。",
+        "bullets": [
+          "Palmer Luckey 称中国对黄仁勋离开英伟达感到高兴",
+          "他认为罢免黄仁勋会让美国变弱",
+          "他呼吁让黄仁勋重新执掌英伟达"
+        ],
+        "detail": "Anduril 首席执行官 Palmer Luckey 表示，中国会乐见黄仁勋离开英伟达，因为罢免这位前 CEO 会削弱美国。他因此主张让黄仁勋复职。",
+        "generatedAt": "2026-11-19T10:52:12+08:00"
+      }
+    },
+    {
       "id": "61a25aea71886a4b",
       "title": "Google’s AI feature in Search gets its own incognito mode",
       "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode",
@@ -255,6 +481,80 @@
         ],
         "detail": "谷歌在搜索的AI模式中加入了临时对话功能。用户与AI的对话不会保存到搜索历史，也不会用来影响之后的推荐结果。这相当于给AI搜索加了一个无痕模式，让不想留痕的用户多一个选择。",
         "generatedAt": "2026-11-19T05:01:37+08:00"
+      }
+    },
+    {
+      "id": "c8a4b2ac137e196f",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not …",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T08:42:56+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "layoff",
+        "explains"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软CEO纳德拉解释为何让6万员工自愿离职",
+        "takeaway": "微软CEO纳德拉解释，用买断方式让6万员工自愿离职，而非大规模裁员，背后原因与AI有关。",
+        "bullets": [
+          "微软10月向6万名员工提供买断方案，鼓励自愿离职。",
+          "纳德拉称此举是为避免又一次大规模裁员。",
+          "他简短回应原因与AI有关，但摘要未展开具体逻辑。"
+        ],
+        "detail": "微软CEO纳德拉在10月向6万名员工提出买断方案，鼓励他们自愿离职，而不是通过又一轮大规模裁员来缩减人力。他解释这一做法的原因与AI有关，但摘要没有进一步说明具体关联。",
+        "generatedAt": "2026-11-19T10:52:12+08:00"
+      }
+    },
+    {
+      "id": "14c609265d0e616e",
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "url": "https://theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T07:18:35+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "全美最大学区考虑弃用谷歌搜索，因AI功能强制捆绑",
+        "takeaway": "谷歌要求学校接受AI功能否则停用搜索，纽约、洛杉矶、芝加哥学区正考虑替代方案。",
+        "bullets": [
+          "纽约、洛杉矶、芝加哥等全美最大学区考虑弃用谷歌搜索。",
+          "谷歌称明年起，选择退出AI功能的学校将无法使用搜索。",
+          "此举可能影响大量学校，并引发对科技公司捆绑服务的讨论。"
+        ],
+        "detail": "据《纽约时报》报道，谷歌表示从明年开始，如果学校选择不启用其AI功能，将无法使用谷歌搜索。纽约、洛杉矶和芝加哥的学校因此正在考虑其他替代方案。",
+        "generatedAt": "2026-11-19T10:52:12+08:00"
       }
     },
     {
@@ -294,6 +594,118 @@
       }
     },
     {
+      "id": "acb7f96633bb0398",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T06:58:11+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "predicts",
+        "CEO",
+        "says"
+      ],
+      "confidence": 0.5,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "纳德拉预言AI代理将重塑网络经济格局",
+        "takeaway": "微软CEO纳德拉认为AI代理可能颠覆广告驱动的商业模式，迫使亚马逊等公司重新思考竞争方式。",
+        "bullets": [
+          "纳德拉预测AI代理将改变网络经济，冲击广告模式。",
+          "亚马逊等依赖广告的公司需重新思考如何争夺客户。",
+          "这一观点来自微软CEO，凸显AI代理的潜在商业影响。"
+        ],
+        "detail": "微软CEO萨提亚·纳德拉预测，AI代理可能颠覆以广告为核心的网络商业模式，迫使亚马逊等公司重新思考如何竞争客户。这一观点表明AI代理将重塑网络经济格局。",
+        "generatedAt": "2026-11-19T10:52:14+08:00"
+      }
+    },
+    {
+      "id": "2cf389d7c377c9cf",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T07:45:00+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "says"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "纳德拉：大量关键基础设施“无法打补丁”，AI 安全挑战加剧",
+        "takeaway": "微软 CEO 纳德拉指出关键基础设施难以修补，同时 AI 带来安全新挑战，引发行业关注。",
+        "bullets": [
+          "纳德拉称许多关键基础设施“无法打补丁”，安全风险高。",
+          "他淡化近期 Outlook 宕机事件，称 AI 带来机遇与挑战。",
+          "言论反映科技巨头对 AI 时代网络安全威胁的担忧。"
+        ],
+        "detail": "微软 CEO 萨提亚·纳德拉表示，许多关键基础设施存在“无法打补丁”的问题，同时 AI 既带来安全机遇也带来新挑战。他淡化了近期 Outlook 服务中断的影响，强调在互联世界中保障安全需应对这些难题。",
+        "generatedAt": "2026-11-19T10:52:14+08:00"
+      }
+    },
+    {
+      "id": "b8045f14986f976a",
+      "title": "上海推进开源平台建设打造“最懂开发者的城市”",
+      "url": "https://oschina.net/news/503653",
+      "summary": "近年来，上海在AI产业方面的政策支持不断加码，AI产业正在成为上海的一张新名片。开源平台作为连接大模型、算力、工具链与应用场景的分发层，成为上海加快建设AI产业链中的一个重点。为此，上海连续出台措施，助力开发者能够更方便地拿到模型、算力和场景，更高效率地把作品变成产品，致力于将上海打造成最懂开发者的城市...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T10:33:06+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源",
+        "工具链"
+      ],
+      "confidence": 0.71,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "上海加码开源平台建设，要做“最懂开发者的城市”",
+        "takeaway": "上海把开源平台当作AI产业链的分发层，帮开发者更便捷地获取模型、算力和场景。",
+        "bullets": [
+          "上海连续出台措施，推进开源平台建设",
+          "开源平台连接大模型、算力、工具链与应用场景",
+          "目标是让开发者更方便拿到模型、算力和场景，把作品变成产品"
+        ],
+        "detail": "上海正持续加大对AI产业的政策支持，开源平台成为重点方向。它被视为连接大模型、算力、工具链与应用场景的分发层。上海希望通过连续措施，让开发者更便捷地获取模型、算力和场景，更高效率地把作品转化为产品。",
+        "generatedAt": "2026-11-19T10:52:15+08:00"
+      }
+    },
+    {
       "id": "0cefd4c68688efb5",
       "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
       "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show",
@@ -327,6 +739,43 @@
         ],
         "detail": "Meta内部聊天记录显示，员工对AI工具Muse的隐私问题感到担忧。Muse会输出随机的银行和比特币余额，但Meta表示这些数据并非真实。此事引发了对AI隐私风险的关注。",
         "generatedAt": "2026-11-19T05:01:41+08:00"
+      }
+    },
+    {
+      "id": "34e1928465b48db7",
+      "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+      "url": "https://wired.com/story/guys-really-we-got-this",
+      "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T06:16:23+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "CEO",
+        "says"
+      ],
+      "confidence": 0.25,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达临时CEO科莱特·克雷斯：一切尽在掌握",
+        "takeaway": "WIRED统计英伟达临时CEO科莱特·克雷斯多次公开保证公司一切尽在掌控，引发行业关注。",
+        "bullets": [
+          "英伟达临时CEO科莱特·克雷斯多次公开表示公司一切尽在掌控。",
+          "WIRED统计其表态次数，反映外界对英伟达现状的关注。",
+          "临时CEO的保证或意在稳定市场与投资者信心。"
+        ],
+        "detail": "WIRED正在统计英伟达临时CEO科莱特·克雷斯有多少次向公众保证公司一切尽在掌控。这一统计反映了外界对英伟达当前处境的关注，以及临时CEO试图稳定信心的表态。",
+        "generatedAt": "2026-11-19T10:52:16+08:00"
       }
     },
     {
@@ -644,6 +1093,186 @@
       }
     },
     {
+      "id": "74ced337548159bc",
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team",
+      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T07:25:17+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "马斯克力挺黄仁勋：换掉他就像赶走乔丹",
+        "takeaway": "马斯克公开为黄仁勋辩护，称其并非不忠，凸显科技领袖在敏感议题上的立场。",
+        "bullets": [
+          "马斯克表示黄仁勋对美国并无不忠。",
+          "他用“把乔丹踢出球队”比喻解雇黄仁勋的荒谬。",
+          "此番言论或为回应外界对黄仁勋的质疑。"
+        ],
+        "detail": "马斯克在谈及黄仁勋时表示，不认为黄仁勋对美国不忠，并称解雇他就像把迈克尔·乔丹踢出球队一样不明智。这番表态可能是在回应近期围绕黄仁勋的某些争议。",
+        "generatedAt": "2026-11-19T10:52:16+08:00"
+      }
+    },
+    {
+      "id": "6daae7e36fde000d",
+      "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+      "url": "https://qbitai.com/2026/11/510947.html",
+      "summary": "国产AI工具实现「一个人就是一个剧组」",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T08:26:40+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "初中毕业烘焙师用国产AI工具，一人做出千万播放科幻剧",
+        "takeaway": "国产AI工具让个人创作者独立完成科幻剧集，单集播放量破千万，展现AI降低影视制作门槛的潜力。",
+        "bullets": [
+          "初中毕业的烘焙师借助国产AI工具，独自完成科幻剧集制作。",
+          "该剧单集播放量达千万级别，引发关注。",
+          "国产AI工具实现「一个人就是一个剧组」，大幅降低创作门槛。"
+        ],
+        "detail": "一位初中毕业的烘焙师，利用国产AI工具独立制作出科幻剧集，单集播放量突破千万。这背后是国产AI工具让「一个人就是一个剧组」成为可能，显著降低了影视创作的门槛。",
+        "generatedAt": "2026-11-19T10:52:17+08:00"
+      }
+    },
+    {
+      "id": "22c3131e87fdf83a",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running",
+      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T05:34:13+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "founder",
+        "says",
+        "warns"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Palmer Luckey 警告：AI 网络攻击正超越防御，该行动了",
+        "takeaway": "Anduril 联合创始人指出，过时技术让系统易受 AI 攻击，防御已落后。",
+        "bullets": [
+          "Palmer Luckey 称 AI 网络攻击速度已超过现有防御能力",
+          "他将漏洞归因于过时技术，呼吁尽快升级防护",
+          "警告针对各组织系统，可能引发新一轮安全危机"
+        ],
+        "detail": "Anduril 联合创始人 Palmer Luckey 警告，AI 驱动的网络攻击正让防御措手不及。他认为过时的技术使系统暴露在新一波攻击之下，并呼吁业界“该开始行动了”。",
+        "generatedAt": "2026-11-19T10:52:18+08:00"
+      }
+    },
+    {
+      "id": "c9996132d66d48ca",
+      "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
+      "url": "https://wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit",
+      "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T06:00:00+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "特朗普访华难在AI议题上取得进展，连自家官员都不看好",
+        "takeaway": "英伟达丑闻余波未平，美方官员认为AI谈判受阻，特朗普访华难有突破。",
+        "bullets": [
+          "美方官员对特朗普访华在AI议题上取得进展持怀疑态度",
+          "英伟达丑闻的后续影响使围绕AI的谈判变得困难",
+          "此事涉及特朗普访华行程与中美AI议题磋商"
+        ],
+        "detail": "据Wired AI报道，美方官员表示，英伟达丑闻的余波让任何围绕人工智能的谈判都变得棘手，因此连特朗普自己的官员也不认为他的中国之行能在AI议题上取得进展。",
+        "generatedAt": "2026-11-19T10:52:18+08:00"
+      }
+    },
+    {
+      "id": "12611bbc5e8e9fd2",
+      "title": "How I let Cursor's agent edit n8n workflow JSON without silently breaking it",
+      "url": "https://forum.cursor.com/t/how-i-let-cursors-agent-edit-n8n-workflow-json-without-silently-breaking-it/178783",
+      "summary": "I build automations for clients, mostly in n8n, and for the last couple of months I’ve kept every workflow as a JSON file in a git repo and let Cursor’s agent do the edits. For changes like “add error handling to every HTTP node” or “swap t…",
+      "source": {
+        "id": "cursor-guides",
+        "name": "Cursor 论坛指南",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T06:55:28+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "让 Cursor 代理安全编辑 n8n 工作流 JSON 的方法",
+        "takeaway": "一位开发者分享如何用 Cursor 代理编辑 n8n 工作流 JSON，避免静默破坏，适合自动化构建者参考。",
+        "bullets": [
+          "开发者将 n8n 工作流保存为 JSON 文件并纳入 git 仓库。",
+          "使用 Cursor 代理进行批量修改，如添加错误处理或替换节点。",
+          "方法旨在防止代理编辑时无意中破坏工作流结构。"
+        ],
+        "detail": "一位为客户构建自动化流程的开发者，近几个月将 n8n 工作流以 JSON 文件形式存放在 git 仓库中，并让 Cursor 代理直接编辑。对于“为每个 HTTP 节点添加错误处理”或“替换节点”这类改动，他分享了如何避免代理在不知不觉中破坏工作流的方法。",
+        "generatedAt": "2026-11-19T10:52:19+08:00"
+      }
+    },
+    {
       "id": "2b472755494cae61",
       "title": "Agent 驱动 MaaS 新范式，如何让模型能力随需而用？",
       "url": "https://infoq.cn/video/xsEfht2OwBZQBvWVHSIb",
@@ -776,6 +1405,76 @@
       "pushed": false
     },
     {
+      "id": "5591d8d4f061af62",
+      "title": "微软将停用 Azure 部署环境，而且不会推出替代产品",
+      "url": "https://infoq.cn/article/UEZ4CPEr1vyESW6z647r",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T18:00:00+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出"
+      ],
+      "confidence": 0.33,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微软将停用 Azure 部署环境，且无替代方案",
+        "takeaway": "微软确认停用 Azure 部署环境，用户需自行迁移，值得关注后续影响。",
+        "bullets": [
+          "微软宣布停用 Azure 部署环境",
+          "官方不会推出替代产品",
+          "现有用户需自行寻找迁移方案"
+        ],
+        "detail": "据 InfoQ 中国报道，微软将停用 Azure 部署环境，并明确表示不会推出替代产品。使用该功能的用户需要提前规划迁移，避免服务中断。",
+        "generatedAt": "2026-11-19T10:52:19+08:00"
+      }
+    },
+    {
+      "id": "fd4fa45ef30db177",
+      "title": "从可用到好用：Agent 的观测、评估与持续优化｜AICon北京",
+      "url": "https://infoq.cn/article/u8eHrtbbchlNRkP94ALh",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T18:00:00+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AICon北京：Agent从可用到好用的观测与评估",
+        "takeaway": "AICon北京聚焦Agent落地关键：如何通过观测、评估和持续优化，让Agent从能用走向好用。",
+        "bullets": [
+          "议题聚焦Agent的观测、评估与持续优化",
+          "面向Agent从可用到好用的工程实践",
+          "AICon北京为技术交流活动"
+        ],
+        "detail": "InfoQ中国报道，AICon北京设置议题“从可用到好用：Agent的观测、评估与持续优化”，讨论Agent落地后如何监测运行、评估效果并持续改进。摘要未披露更多细节。",
+        "generatedAt": "2026-11-19T10:52:20+08:00"
+      }
+    },
+    {
       "id": "e63bb5569586b4bf",
       "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
       "url": "https://wired.com/story/artex-ai-hacking-tools",
@@ -795,6 +1494,32 @@
       "keywords": [
         "tool",
         "tools"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3a9edeebffe3ac33",
+      "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+      "url": "https://wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair",
+      "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T05:15:00+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip",
+        "chips"
       ],
       "confidence": 1,
       "score": 34,

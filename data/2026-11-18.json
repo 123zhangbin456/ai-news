@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updatedAt": "2026-11-19T05:01:49+08:00",
+  "updatedAt": "2026-11-19T10:52:24+08:00",
   "items": [
     {
       "id": "549a77347d5e1e5f",
@@ -68,7 +68,7 @@
       "confidence": 0.5,
       "score": 66,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "豆包工作日活破800万，企业ARR超20亿元",
         "takeaway": "上线仅三个月，豆包工作用户与收入双增长，显示AI办公产品商业化提速。",
@@ -80,7 +80,8 @@
         ],
         "detail": "豆包工作8月25日发布，三个月内日活超800万，企业ARR破20亿元。11月16日上线工作台，覆盖金融、医疗等21个场景，支持自定义。近期还接入了Kimi、GLM、DeepSeek等第三方模型。",
         "generatedAt": "2026-11-19T05:01:31+08:00"
-      }
+      },
+      "pushedAt": "2026-11-19T10:52:24+08:00"
     },
     {
       "id": "23e091fc201d004c",
@@ -962,6 +963,43 @@
       }
     },
     {
+      "id": "b527b6f0ddceafec",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T16:00:00+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "enterprise",
+        "adoption"
+      ],
+      "confidence": 0.57,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "住友生命高管带头用ChatGPT企业版，推动团队落地",
+        "takeaway": "住友生命通过高管先行使用ChatGPT企业版，带动全员采纳，用于调研、提案和投资分析代码。",
+        "bullets": [
+          "住友生命将ChatGPT企业版用于调研保险公司、准备提案和编写投资分析代码",
+          "高管团队的早期使用成为推动公司内部广泛采纳的关键",
+          "案例来自OpenAI，展示企业级AI工具在保险业的具体落地方式"
+        ],
+        "detail": "住友生命在内部推广ChatGPT企业版，应用场景包括调研其他保险公司、准备提案，以及为投资分析编写代码。高管层率先使用，有效带动了团队跟进，成为企业AI落地的示范案例。",
+        "generatedAt": "2026-11-19T10:52:10+08:00"
+      }
+    },
+    {
       "id": "ae6cdc6347964b56",
       "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
       "url": "https://theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
@@ -1471,6 +1509,42 @@
         ],
         "detail": "据量子位报道，思维链论文第一作者Jason Wei已从Meta离职，此时距他入职仅一年出头。标题以“提桶跑路”形容其突然离开，但未透露离职原因和下一站。作为AI领域知名研究者，他的动向受到行业关注。",
         "generatedAt": "2026-11-18T21:31:48+08:00"
+      }
+    },
+    {
+      "id": "9fa731b0ef6c1da9",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T16:00:00+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "research"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 研究：编程智能体加速 AI 研究，但能力参差不齐",
+        "takeaway": "OpenAI 量化编程智能体对 AI 研究的加速作用，揭示能力不均衡，并探讨递归自我改进的信号。",
+        "bullets": [
+          "OpenAI 发布研究，衡量编程智能体加速 AI 研究的程度。",
+          "智能体表现不均，存在“锯齿状前沿”。",
+          "该研究为递归自我改进提供早期信号。"
+        ],
+        "detail": "OpenAI 研究了编程智能体如何加速 AI 研究，发现其表现并不均衡，存在明显的能力边界。这种不均衡现象被称为“锯齿状前沿”，研究还探讨了这对递归自我改进意味着什么。",
+        "generatedAt": "2026-11-19T10:52:14+08:00"
       }
     },
     {
@@ -3530,6 +3604,31 @@
       "confidence": 1,
       "score": 26,
       "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1bfd54dedbf7723c",
+      "title": "AIGCPanel v2.7.0 模型权重按需下载，直播错误看得见",
+      "url": "https://oschina.net/news/503648",
+      "summary": "模型包不再带着权重一起下，直播里播不出去的那句话会告诉你是为什么。 AIGCPanel 是装在自己电脑上的 AI 数字人工作台，口型、语音合成、语音识别都能在本地跑，显卡不够时也能接云端模型或者自己的 API。v2.7.0 的主线有两条：模型权重从模型包里拆出来按需下载，直播合成失败的原因直接写到面板上。本地跑模型的人感受...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-18T22:14:37+08:00",
+      "fetchedAt": "2026-11-19T10:52:00+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "权重"
+      ],
+      "confidence": 0.5,
+      "score": 26,
       "related": [],
       "pushed": false
     },
