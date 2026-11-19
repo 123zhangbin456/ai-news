@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updatedAt": "2026-11-19T24:41:58+08:00",
+  "updatedAt": "2026-11-19T11:22:54+08:00",
   "items": [
     {
       "id": "a87c1097b8b8d24c",
@@ -27,7 +27,7 @@
       "confidence": 1,
       "score": 62,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "欧盟提议向乌克兰提供450亿欧元贷款，以俄赔款偿还",
         "takeaway": "欧盟委员会提议向乌克兰提供450亿欧元贷款，填补明年700亿欧元资金缺口，还款以俄罗斯支付赔款为前提。",
@@ -38,7 +38,8 @@
         ],
         "detail": "欧盟委员会周三提议向乌克兰提供450亿欧元（约495亿美元）的新贷款，以帮助填补乌克兰明年的700亿欧元资金缺口。乌克兰将继续对抗俄罗斯2022年的入侵。该贷款计划在俄罗斯支付赔款后偿还。",
         "generatedAt": "2026-11-19T24:41:57+08:00"
-      }
+      },
+      "pushedAt": "2026-11-19T11:22:54+08:00"
     },
     {
       "id": "1516217027c0a55b",
@@ -620,6 +621,42 @@
       "pushedAt": "2026-11-18T15:12:48+08:00"
     },
     {
+      "id": "bd3778f1d266aed0",
+      "title": "Congress Rebukes U.S. Navy Battleship in New Budget Proposal",
+      "url": "https://navalnews.com/naval-news/2026/11/congress-rebukes-u-s-navy-battleship-in-new-budget-proposal",
+      "summary": "Senate appropriators have unveiled their reconciliation-free $1.1 trillion Pentagon budget with a number of budget overhauls, including a near-total rejection of the Navy’s prized 34,000 ton guided missile battleship, dealing a major setbac…",
+      "source": {
+        "id": "naval-news",
+        "name": "Naval News",
+        "weight": 4,
+        "type": "topic"
+      },
+      "lang": "en",
+      "domain": "military",
+      "topic": "military",
+      "publishedAt": "2026-11-18T23:42:53+08:00",
+      "fetchedAt": "2026-11-19T11:22:39+08:00",
+      "category": "装备动态",
+      "keywords": [
+        "missile"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "美参议院预算案近乎否决海军3.4万吨导弹战列舰项目",
+        "takeaway": "美参议院拨款委员会公布1.1万亿美元国防预算案，几乎全面否决海军重点打造的3.4万吨导弹战列舰，项目遭遇重大挫折。",
+        "bullets": [
+          "参议院拨款委员会推出1.1万亿美元国防预算案，含多项预算调整。",
+          "海军重点推进的3.4万吨导弹战列舰项目被近乎全面否决。",
+          "此举被视为国会对海军该装备计划的明确否定，项目前景堪忧。"
+        ],
+        "detail": "参议院拨款委员会公布了一份不涉及预算协调程序的1.1万亿美元国防预算案，其中包含多项预算改革。该案几乎全面否决了海军力推的3.4万吨导弹战列舰项目，使这一重点装备计划遭遇重大挫折。",
+        "generatedAt": "2026-11-19T11:22:44+08:00"
+      }
+    },
+    {
       "id": "c3ce43c11c6f50ea",
       "title": "Classified NSA communications network down, people familiar say",
       "url": "https://defenseone.com/threats/2026/11/classified-nsa-communications-network-down-people-familiar-say/417278",
@@ -686,6 +723,65 @@
         "detail": "特朗普呼吁在未来的福特级航母上放弃电磁弹射系统，改用蒸汽弹射。参议院军事委员会主席对此表示反对，称这一要求“行不通”，并指出改动将代价高昂且风险巨大。目前反对声音正在增加。",
         "generatedAt": "2026-11-18T11:42:17+08:00"
       }
+    },
+    {
+      "id": "3c0c31396bde42d4",
+      "title": "Mistral in a Box: MBDA Revives SPIMM Concept Against Drones",
+      "url": "https://navalnews.com/naval-news/2026/11/mistral-in-a-box-mbda-revives-spimm-concept-against-drones",
+      "summary": "MBDA and Terma partner at Euronaval 2026 to revive the SPIMM containerized Mistral 3 air defense system against drones, cruise missiles, and USVs. The post Mistral in a Box: MBDA Revives SPIMM Concept Against Drones appeared first on Naval …",
+      "source": {
+        "id": "naval-news",
+        "name": "Naval News",
+        "weight": 4,
+        "type": "topic"
+      },
+      "lang": "en",
+      "domain": "military",
+      "topic": "military",
+      "publishedAt": "2026-11-18T20:29:17+08:00",
+      "fetchedAt": "2026-11-19T11:22:39+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "MBDA联手Terma重启SPIMM集装箱式防空系统",
+        "takeaway": "MBDA与Terma在2026年欧洲海军展上合作重启SPIMM集装箱化米斯特拉尔3防空系统，以应对无人机、巡航导弹与无人艇威胁。",
+        "bullets": [
+          "MBDA与Terma在2026年欧洲海军展宣布合作，重启SPIMM项目。",
+          "SPIMM将米斯特拉尔3导弹集成于标准集装箱，可快速部署。",
+          "系统针对无人机、巡航导弹及无人水面艇等新兴威胁。"
+        ],
+        "detail": "MBDA与Terma在2026年欧洲海军展上合作，重启SPIMM集装箱化防空系统。该系统把米斯特拉尔3导弹装入标准集装箱，用于拦截无人机、巡航导弹和无人水面艇，旨在提供可快速部署的舰载或岸基近程防空能力。",
+        "generatedAt": "2026-11-19T11:22:46+08:00"
+      }
+    },
+    {
+      "id": "f1cd288d28080ea2",
+      "title": "Italy Confirms New National VLS for Deep-Strike and Hypersonic Defense",
+      "url": "https://navalnews.com/naval-news/2026/11/italy-confirms-new-national-vls-for-deep-strike-and-hypersonic-defense",
+      "summary": "Italy’s 2026–2028 defense plan confirms a new national vertical launching system (VLS) for NG DDG destroyers and FREMM Evo frigates to launch Stratus LO and Aquila missiles. The post Italy Confirms New National VLS for Deep-Strike and Hyper…",
+      "source": {
+        "id": "naval-news",
+        "name": "Naval News",
+        "weight": 4,
+        "type": "topic"
+      },
+      "lang": "en",
+      "domain": "military",
+      "topic": "military",
+      "publishedAt": "2026-11-18T17:20:58+08:00",
+      "fetchedAt": "2026-11-19T11:22:39+08:00",
+      "category": "装备动态",
+      "keywords": [
+        "hypersonic"
+      ],
+      "confidence": 1,
+      "score": 33,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "military"
