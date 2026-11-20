@@ -1,7 +1,43 @@
 {
   "date": "2026-11-21",
-  "updatedAt": "2026-11-20T21:21:44+08:00",
+  "updatedAt": "2026-11-21T04:52:08+08:00",
   "items": [
+    {
+      "id": "f1b7c64ada916315",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T24:34:13+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 59,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic数学家称借Claude攻克黎曼猜想",
+        "takeaway": "Anthropic数学家Levent Alpöge宣称借助Claude证明了黎曼猜想，若属实将是数学界重大突破。",
+        "bullets": [
+          "Anthropic数学家Levent Alpöge声称用Claude证明了黎曼猜想。",
+          "黎曼猜想是数学界最著名的未解难题之一，悬赏百万美元。",
+          "该声明尚未经过同行评审，真实性有待验证。"
+        ],
+        "detail": "Anthropic的数学家Levent Alpöge声称，他借助Claude证明了黎曼猜想。这个难题困扰了顶尖数学家上百年，是克雷数学研究所悬赏百万美元的千禧年大奖难题之一。目前该证明尚未公开，也未经过同行评审，因此结论仍需谨慎看待。",
+        "generatedAt": "2026-11-21T04:51:59+08:00"
+      }
+    },
     {
       "id": "8eedfb938eff80ec",
       "title": "华为云开源昇腾原生具身世界模型CloudRobo-WM1.2，两项评测均列第一",
@@ -36,6 +72,42 @@
         ],
         "detail": "华为云在InfoQ中国发布消息，开源了昇腾原生的具身世界模型CloudRobo-WM1.2。该模型在两项评测中均获得第一，具体评测细节未在摘要中说明。开源将促进具身智能领域的技术交流与应用。",
         "generatedAt": "2026-11-20T21:21:29+08:00"
+      }
+    },
+    {
+      "id": "b8e1839046bc97c6",
+      "title": "Quoting Levent Alpöge",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge",
+      "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T24:30:48+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "研究者称与 Claude 合作证明黎曼猜想",
+        "takeaway": "Levent Alpöge 宣称借助 Claude 证明黎曼猜想并推广至广义版本，若属实将是数学界重大突破。",
+        "bullets": [
+          "Levent Alpöge 称与 Claude 合作发现黎曼猜想的证明",
+          "该方法可推广至广义黎曼猜想，并有望解决扩展版本",
+          "目前仅为个人声明，尚未经同行评议验证"
+        ],
+        "detail": "Levent Alpöge 表示，他与 Claude 合作找到了黎曼猜想的证明，而且这个方法很容易推广，能解决广义黎曼猜想；他预计花更多时间还能处理扩展黎曼猜想。这目前只是他的说法，还需数学界严格验证。",
+        "generatedAt": "2026-11-21T04:52:01+08:00"
       }
     },
     {
@@ -108,6 +180,330 @@
         ],
         "detail": "据 InfoQ 中国报道，被称为“美国大豆包”的一方发布了新模型 Neon，并在接入 Antigravity 后，编程解题率提升到原来的三倍多。摘要未给出具体评测基准和模型参数，实际效果仍需更多信息验证。",
         "generatedAt": "2026-11-20T21:21:34+08:00"
+      }
+    },
+    {
+      "id": "86d3aeca06e8ddb7",
+      "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+      "url": "https://wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation",
+      "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T03:52:21+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.67,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋被指不诚实，英伟达董事会曾在其辞职前警觉",
+        "takeaway": "英伟达前CEO黄仁勋因涉嫌多段婚外情及与一名中国情报人员有染的指控，董事会主要关切其缺乏坦诚。",
+        "bullets": [
+          "黄仁勋被指与直接下属及一名中国情报人员有婚外情。",
+          "消息人士称董事会主要问题是黄仁勋缺乏坦诚。",
+          "此事发生在其辞职前，引发董事会警觉。"
+        ],
+        "detail": "据WIRED报道，英伟达前CEO黄仁勋因涉嫌多段婚外情（包括与一名直接下属及一名据称是中国情报人员）而面临指控。消息人士称，董事会的主要关切并非绯闻本身，而是黄仁勋缺乏坦诚。此事发生在其辞职前夕，引发董事会警觉。",
+        "generatedAt": "2026-11-21T04:52:02+08:00"
+      }
+    },
+    {
+      "id": "81ce5b24dd897b42",
+      "title": "Quoting Ravi Vakil",
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil",
+      "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human,…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T03:21:49+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "广义黎曼猜想或现证明，同行评审进行中",
+        "takeaway": "有人提出广义黎曼猜想的证明，正由专家深入评审，目前反馈积极，但尚未定论。",
+        "bullets": [
+          "Alessandro Masullo 提出广义黎曼猜想的证明。",
+          "Brian Conrad 已仔细审查数月并给出大量反馈。",
+          "反馈正被纳入修改，目前看起来不错。",
+          "该工作完全由人类完成，未依赖 AI。"
+        ],
+        "detail": "Alessandro Masullo 提出了广义黎曼猜想的证明，Brian Conrad 已仔细审查数月并给出大量反馈，这些反馈正在被纳入修改。目前看来情况不错，且整个过程完全由人类完成。",
+        "generatedAt": "2026-11-21T04:52:02+08:00"
+      }
+    },
+    {
+      "id": "59fa562eab8a38b3",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T03:53:41+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "founder"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Spotify创始人Daniel Ek投资AI研究员创办的核聚变公司Europa Fusion",
+        "takeaway": "音乐流媒体巨头创始人押注AI研究者跨界核聚变，值得关注能源与AI交叉创新。",
+        "bullets": [
+          "Daniel Ek投资了Europa Fusion，一家由AI研究员创立的核聚变初创公司。",
+          "Europa Fusion正在开发核聚变能源技术，具体方案未在摘要中详述。",
+          "此举显示科技企业家对清洁能源和AI跨界应用的兴趣。"
+        ],
+        "detail": "Spotify创始人Daniel Ek投资了一家名为Europa Fusion的核聚变初创公司，该公司由一位AI研究员创立。目前关于这家公司具体在建造什么，摘要中没有详细说明，但核聚变被视为潜在的清洁能源突破方向。",
+        "generatedAt": "2026-11-21T04:52:04+08:00"
+      }
+    },
+    {
+      "id": "321bf9e3c390a636",
+      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T03:32:08+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI与人类同时宣称解决167年黎曼猜想",
+        "takeaway": "AI和人类数学家同时声称破解黎曼猜想，数学界震动，但均未获正式验证。",
+        "bullets": [
+          "AI与人类各自提出黎曼猜想的解决方案",
+          "黎曼猜想是数学界167年未解难题",
+          "两项结果均未经过同行评审验证",
+          "事件引发对AI数学能力的广泛讨论"
+        ],
+        "detail": "数学家们对最新AI驱动的结果感到震惊，同时还有一份人类提出的竞争性解决方案。黎曼猜想自1859年提出以来一直悬而未决，目前两项声明都尚未得到数学界的正式确认。",
+        "generatedAt": "2026-11-21T04:52:04+08:00"
+      }
+    },
+    {
+      "id": "e43240c9ae66c70f",
+      "title": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T01:40:01+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chips",
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "芯片能扛住太空，融资能吗？",
+        "takeaway": "太空数据中心面临融资难题：贷款方不愿抵押品被射入轨道，这关乎行业前景。",
+        "bullets": [
+          "贷款方担心抵押芯片被SpaceX射入轨道后无法收回。",
+          "这给太空数据中心整体融资模式带来挑战。",
+          "芯片虽能适应太空环境，但金融风险成新障碍。"
+        ],
+        "detail": "贷款机构不愿接受将芯片作为抵押品并随SpaceX发射入轨，因为一旦设备进入太空，回收和处置都成问题。这反映出太空数据中心在融资层面遭遇的现实障碍，可能影响整个行业的资金获取。",
+        "generatedAt": "2026-11-21T04:52:04+08:00"
+      }
+    },
+    {
+      "id": "08b074f7bce07f08",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "url": "https://theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to a…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T02:50:19+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "特朗普威胁对海外建AI数据中心征重税",
+        "takeaway": "特朗普称将对在海外建数据中心的企业征收重税，同时美国多地正限制新建申请。",
+        "bullets": [
+          "特朗普承诺对在海外建AI数据中心的企业征收“重税”",
+          "美国各州和城市正限制新建数据中心的申请",
+          "政策可能影响科技公司全球布局与算力投资"
+        ],
+        "detail": "特朗普表示，将对在美国境外建设数据中心的企业征收“重税”。与此同时，美国多地正在限制新建数据中心的申请。这一表态可能影响科技公司的全球算力布局。",
+        "generatedAt": "2026-11-21T04:52:05+08:00"
+      }
+    },
+    {
+      "id": "583b7a1c74131e15",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are a…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T02:15:15+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "update"
+      ],
+      "confidence": 0.5,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "METR 更新 AI 能力曲线：指数增长仍在，判断力短板凸显",
+        "takeaway": "非营利机构 METR 发布新报告，指出部分 AI 能力仍指数级提升，但判断类任务表现相对落后。",
+        "bullets": [
+          "METR 新报告聚焦 AI 能力评估，更新了此前被误读的能力曲线。",
+          "部分能力延续指数增长轨迹，但需判断力的任务表现不及预期。",
+          "报告提醒：能力增长不均衡，评估需区分任务类型。"
+        ],
+        "detail": "AI 评估非营利组织 METR 发布新报告，发现部分 AI 能力仍在指数级提升，但模型在需要判断力的任务上表现不如其他任务。报告更新了此前常被误解的能力曲线，强调能力增长并不均衡。",
+        "generatedAt": "2026-11-21T04:52:06+08:00"
+      }
+    },
+    {
+      "id": "83f2b5d135afc442",
+      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+      "url": "https://motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 158 # Comments: 111",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T24:59:27+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌员工请愿：别惩罚拒绝AI的学校",
+        "takeaway": "谷歌员工联名请愿，反对公司因学校拒绝AI而施加惩罚，凸显内部对AI推广方式的争议。",
+        "bullets": [
+          "谷歌员工发起请愿，要求公司不要惩罚不愿采用AI的学校。",
+          "事件与Alphabet工会及Gemini推广相关，引发内部争议。",
+          "Hacker News热议，反映科技公司AI推广中的伦理张力。"
+        ],
+        "detail": "谷歌员工联名请愿，要求公司不要因为学校拒绝使用AI而对其进行惩罚。此事与Alphabet工会和Gemini的推广有关，在Hacker News上引发广泛讨论，反映出科技公司内部对AI推广方式的担忧。",
+        "generatedAt": "2026-11-21T04:52:06+08:00"
+      }
+    },
+    {
+      "id": "549b8cd922976a98",
+      "title": "Making Grok Bot skills cheaper and more reliable: eight measured tricks, plus what native support could do",
+      "url": "https://forum.cursor.com/t/making-grok-bot-skills-cheaper-and-more-reliable-eight-measured-tricks-plus-what-native-support-could-do/178929",
+      "summary": "Hi all, I run a dozen bots and spent this week cutting the skill text each task loads. “Words loaded” below means the words of skill text a bot reads for one task, counted from the real files. Effects on weekly usage are my estimates, becau…",
+      "source": {
+        "id": "cursor-guides",
+        "name": "Cursor 论坛指南",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T24:53:39+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "让 Grok Bot 技能更省钱更可靠：八项实测技巧与原生支持展望",
+        "takeaway": "一位运营多个机器人的用户分享八项实测技巧，通过精简技能文本降低任务加载词数，从而节省成本并提升可靠性。",
+        "bullets": [
+          "作者运营十余个机器人，本周实测精简每个任务加载的技能文本。",
+          "“加载词数”指机器人执行单任务时从真实文件读取的技能文本词数。",
+          "作者给出八项技巧，并探讨原生支持可能带来的改进。",
+          "对周使用量的影响为作者估算，因缺乏官方数据。"
+        ],
+        "detail": "一位管理多个机器人的用户分享，他花一周时间精简每个任务加载的技能文本。文中“加载词数”指机器人执行单个任务时从真实文件读取的技能文本词数。他提出八项实测技巧，并讨论若平台原生支持这些优化，效果会如何。对每周使用量的影响是作者基于自身情况的估算。",
+        "generatedAt": "2026-11-21T04:52:08+08:00"
       }
     },
     {

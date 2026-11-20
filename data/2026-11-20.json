@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updatedAt": "2026-11-20T21:21:44+08:00",
+  "updatedAt": "2026-11-21T04:52:08+08:00",
   "items": [
     {
       "id": "92c2e19464fb3cf6",
@@ -553,6 +553,40 @@
       }
     },
     {
+      "id": "3ea993db7e3c60d1",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-20T18:00:00+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 多管齐下打击对抗性蒸馏，保护模型能力",
+        "takeaway": "OpenAI 披露其分层策略，从训练、防护、检测到执法，防止模型能力被对抗性蒸馏窃取。",
+        "bullets": [
+          "对抗性蒸馏指通过查询模型输出来提取其能力。",
+          "OpenAI 采用分层方法：训练、防护、检测、执法。",
+          "该策略旨在保护模型知识产权，防止能力被复制。"
+        ],
+        "detail": "OpenAI 发文介绍其对抗性蒸馏的防御体系。对抗性蒸馏是指攻击者通过大量查询模型输出，试图复制其能力。OpenAI 将模型训练、安全防护、检测机制和执法行动结合起来，形成多层防御，以保护模型能力不被窃取。",
+        "generatedAt": "2026-11-21T04:51:59+08:00"
+      }
+    },
+    {
       "id": "d9d2fba47fd34f0c",
       "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
       "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
@@ -769,6 +803,78 @@
         ],
         "detail": "Anthropic正式登陆纳斯达克，但这场上市的最大赢家并非敲钟的高管。七家供应商一边收取算力费用，一边持有Anthropic股票，等于把未来十五年的订单提前折成了今天的股权。",
         "generatedAt": "2026-11-20T21:21:31+08:00"
+      }
+    },
+    {
+      "id": "d15c45643214b444",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-20T08:00:00+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 0.5,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Hebbia 测试 GPT-6 Astra：金融研究能力获提升",
+        "takeaway": "Hebbia 预发布评估显示 GPT-6 Astra 在金融研究上表现更好，值得关注。",
+        "bullets": [
+          "Hebbia 对 GPT-6 Astra 进行了金融研究测试。",
+          "预发布评估发现来源覆盖、引用相关性和呈现质量均有提升。",
+          "该测试由 Hebbia 完成，结果来自预发布评估。"
+        ],
+        "detail": "Hebbia 测试了 GPT-6 Astra 在金融研究中的表现。预发布评估显示，该模型在来源覆盖、引用相关性和呈现质量方面都有所提升。",
+        "generatedAt": "2026-11-21T04:51:59+08:00"
+      }
+    },
+    {
+      "id": "f0e77c900b9f7797",
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues",
+      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-20T22:55:44+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.67,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达CEO黄仁勋离职风波持续，财报仍报喜",
+        "takeaway": "英伟达在CEO黄仁勋离职风波中发布财报，业绩增长健康并承诺好时光继续。",
+        "bullets": [
+          "英伟达本周发布最新财报，业绩增长健康。",
+          "公司承诺好时光将继续，但未具体说明。",
+          "CEO黄仁勋离职风波持续发酵，影响待观察。"
+        ],
+        "detail": "英伟达在处理CEO黄仁勋离职风波的同时，本周发布了最新财报，业绩增长健康，并承诺好时光将继续。但公司也透露了其他信息，具体内容未在摘要中详述。",
+        "generatedAt": "2026-11-21T04:52:00+08:00"
       }
     },
     {
@@ -1169,6 +1275,78 @@
         ],
         "detail": "阿里发布2027财年第二季度财报，阿里云AI相关产品收入同比增长53%，且已连续13个季度保持三位数增长。互联网、汽车、具身智能、金融、生物科技等行业客户持续扩大算力采购需求，同时即时零售业务亏损收窄。",
         "generatedAt": "2026-11-20T21:21:33+08:00"
+      }
+    },
+    {
+      "id": "211fbe8009a45ecd",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-20T08:00:00+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Hugging Face 推出 harness 适配器，优化模型性能与成本",
+        "takeaway": "Hugging Face 发布 harness 适配器，让用户将模型适配到自己的 harness，以提升性能并降低成本。",
+        "bullets": [
+          "Hugging Face 推出 harness 适配器，可适配任意模型到用户 harness。",
+          "旨在提升模型性能并降低使用成本。",
+          "面向使用 harness 的开发者，简化适配流程。"
+        ],
+        "detail": "Hugging Face 发布了 harness 适配器，帮助用户将喜欢的模型适配到自己的 harness 中，从而提升性能并降低成本。该工具面向使用 harness 的开发者，旨在简化模型适配流程。",
+        "generatedAt": "2026-11-21T04:52:00+08:00"
+      }
+    },
+    {
+      "id": "03c1bb03b76cd0ad",
+      "title": "Anthropic 的数论学家声称证明黎曼猜想",
+      "url": "https://solidot.org/story?sid=85949",
+      "summary": "美国数学家 Levent Alpöge 以数论和算术统计方面的工作著称，他目前在 AI 公司 Anthropic 工作。他发表声明，声称与公司 AI 工具 Claude 合作获得了数论经典难题黎曼猜想的一般性证明。他们发现了黎曼猜想的一个证明，而这个证明方法可以进一步证明广义黎曼猜想和扩展黎曼猜想。他称论证过程极其冗长，形式化工作已经完成，但产生的文档难以阅读，他表示正致力于对其进行简化，使其更通俗易懂。",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-20T23:14:05+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 数学家称与 Claude 合作证明黎曼猜想",
+        "takeaway": "数论经典难题黎曼猜想据称被证明，合作方是 AI 工具 Claude，但论证尚未公开简化。",
+        "bullets": [
+          "数学家 Levent Alpöge 现于 Anthropic 工作，声称与 Claude 合作完成证明。",
+          "该证明方法还可推广至广义和扩展黎曼猜想。",
+          "论证极其冗长，形式化已完成但文档难读，正在简化。"
+        ],
+        "detail": "美国数学家 Levent Alpöge 以数论研究闻名，目前在 Anthropic 任职。他声明与公司 AI 工具 Claude 合作，找到了黎曼猜想的一般性证明，且该方法能进一步证明广义和扩展黎曼猜想。他称论证极长，形式化工作已完成，但文档难以阅读，正着手简化以便理解。",
+        "generatedAt": "2026-11-21T04:52:02+08:00"
       }
     },
     {
@@ -1933,6 +2111,74 @@
       }
     },
     {
+      "id": "912ce9389b493fc3",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-20T22:00:00+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "六款AI小工具，让你的家庭办公室更智能",
+        "takeaway": "TechCrunch推荐六款AI设备，从笔记到摄像头，帮你升级居家办公体验。",
+        "bullets": [
+          "涵盖笔记工具、网络摄像头等六类AI设备",
+          "旨在提升家庭办公的智能化与效率",
+          "由TechCrunch AI频道精选推荐"
+        ],
+        "detail": "TechCrunch精选了六款AI驱动的办公小工具，包括智能笔记记录器和网络摄像头等，旨在帮助用户升级家庭办公空间，让工作更智能高效。",
+        "generatedAt": "2026-11-21T04:52:07+08:00"
+      }
+    },
+    {
+      "id": "cef6939d7b3165d4",
+      "title": "The week everything fell apart",
+      "url": "https://theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply coll…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-20T22:06:59+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "本周科技大瘫痪：Outlook、航班、银行、iCloud接连宕机",
+        "takeaway": "一周内多项关键服务同时故障，暴露数字基础设施的脆弱性，影响广泛用户。",
+        "bullets": [
+          "Outlook邮箱服务中断持续数天，影响企业及个人用户。",
+          "全美航班地面停飞，为25年来第二次，航空出行受阻。",
+          "银行服务突然无法使用，iCloud也未能幸免，波及日常金融与云存储。"
+        ],
+        "detail": "本周，Outlook邮箱宕机持续数日，全美航班遭遇25年来第二次全国地面停飞，银行服务突然中断，连iCloud也未能保持运行。一系列故障让技术世界仿佛集体崩溃，凸显关键数字服务同时失效的风险。",
+        "generatedAt": "2026-11-21T04:52:08+08:00"
+      }
+    },
+    {
       "id": "58de02849301a677",
       "title": "Kimi的当务之急是赶紧推广自家AI姬",
       "url": "https://tmtpost.com/8211847.html",
@@ -2002,6 +2248,40 @@
         ],
         "detail": "五一视界已启动A股IPO辅导，计划在A股上市。该公司被称为“物理AI第一股”，左手与英伟达合作，右手与摩尔线程联手。若上市成功，将成为A股物理AI领域首个上市公司。",
         "generatedAt": "2026-11-20T21:21:38+08:00"
+      }
+    },
+    {
+      "id": "f4784c30400364a2",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-20T08:00:00+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 发布 MedChemBench，评估 AI 筛选药物候选能力",
+        "takeaway": "新基准测试 AI 在早期药物发现中解读分子结构、推理实验证据和选择化合物的能力。",
+        "bullets": [
+          "MedChemBench 由 OpenAI 推出，用于评估 AI 模型在药物发现早期阶段的表现。",
+          "测试重点包括分子结构解读、基于实验证据的推理以及化合物筛选。",
+          "该基准可能推动 AI 在药物研发中的实际应用与模型优化。"
+        ],
+        "detail": "OpenAI 推出 MedChemBench，专门评估 AI 模型在早期药物发现中的三项核心能力：解读分子结构、根据实验证据进行推理、以及筛选有潜力的化合物。这有助于衡量 AI 在药物研发中的实际效用。",
+        "generatedAt": "2026-11-21T04:52:08+08:00"
       }
     },
     {
@@ -2460,6 +2740,29 @@
       "pushed": false
     },
     {
+      "id": "80d31a6dee298bbd",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-20T08:00:00+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 32,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "0d19d9088ba981bc",
       "title": "AI办公的“入口之战”打完了吗？",
       "url": "https://tmtpost.com/8211777.html",
@@ -2748,6 +3051,32 @@
       "confidence": 1,
       "score": 29,
       "paperRank": 12,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c3ee4aff335398e0",
+      "title": "Google「AI Overviews」让网站的搜索流量下降四成",
+      "url": "https://oschina.net/news/503698",
+      "summary": "Google 搜索引擎「AI Overviews」服务正在抢走网站的流量。根据一项随机实验的测试，AI Overview 导致从 Google 搜索结果指向外部网站的点击量下降了四成。这是随机实验做出来的数字，不是相关性推测。研究者对一部分美国桌面用户隐藏了 AI Overviews，然后和仍能看到的那组做对比。这个数字背后有一个更直观的画面：...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-20T11:57:08+08:00",
+      "fetchedAt": "2026-11-21T04:51:55+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "研究",
+        "实验"
+      ],
+      "confidence": 1,
+      "score": 29,
       "related": [],
       "pushed": false
     },
