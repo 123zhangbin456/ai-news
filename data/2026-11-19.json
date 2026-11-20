@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updatedAt": "2026-11-20T05:06:36+08:00",
+  "updatedAt": "2026-11-20T10:44:04+08:00",
   "items": [
     {
       "id": "b898a1b2127c5756",
@@ -71,7 +71,7 @@
       "confidence": 0.22,
       "score": 62,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "谷歌发布 Gemini Decision 1，正面挑战 Jev 决策模型赛道",
         "takeaway": "谷歌推出不生成文本、只输出候选项概率的决策模型，直接对标估值 75 亿美元的 Jev。",
@@ -83,7 +83,8 @@
         ],
         "detail": "谷歌正式发布 Gemini Decision 1，向两个月前引爆决策模型品类的 TypeSafe Jev 发起挑战。该模型不生成任何文本，只计算供程序直接驱动 Agent 执行的候选项概率和置信度，无需逐 Token 生成答案，也省去输出 Token 费用。在基准测试中五项领先、两项落后。",
         "generatedAt": "2026-11-19T21:58:28+08:00"
-      }
+      },
+      "pushedAt": "2026-11-20T10:44:04+08:00"
     },
     {
       "id": "6687f7be62c34e4a",
@@ -106,7 +107,7 @@
       "confidence": 0,
       "score": 60,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OpenAI 用 Codex 打造性能工厂，让 ChatGPT 保持高速",
         "takeaway": "OpenAI 公开其内部性能优化系统 Performance Factory，用 Codex 自动发现并修复性能问题，保障 ChatGPT 响应速度。",
@@ -117,7 +118,8 @@
         ],
         "detail": "OpenAI 介绍了其内部系统 Performance Factory，它利用 Codex 驱动的工作流来自动查找并修复性能瓶颈，从而帮助 ChatGPT 维持快速响应。这套系统展示了 OpenAI 如何用 AI 工具来优化自身服务。",
         "generatedAt": "2026-11-20T05:06:24+08:00"
-      }
+      },
+      "pushedAt": "2026-11-20T10:44:04+08:00"
     },
     {
       "id": "2f277485244a55e7",
@@ -3280,6 +3282,104 @@
         "Cursor"
       ],
       "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4b08ec50268e04a4",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T08:00:00+08:00",
+      "fetchedAt": "2026-11-20T10:43:42+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "safety"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cb99e2baa62e7866",
+      "title": "See PR scans in action",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T08:00:00+08:00",
+      "fetchedAt": "2026-11-20T10:43:42+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "workflow"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e29ac258c013c12c",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T08:00:00+08:00",
+      "fetchedAt": "2026-11-20T10:43:42+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "workflow"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a2fb00344062975f",
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-19T08:00:00+08:00",
+      "fetchedAt": "2026-11-20T10:43:42+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
       "score": 34,
       "related": [],
       "pushed": false
