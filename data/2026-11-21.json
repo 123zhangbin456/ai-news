@@ -1,7 +1,87 @@
 {
   "date": "2026-11-21",
-  "updatedAt": "2026-11-21T12:21:04+08:00",
+  "updatedAt": "2026-11-21T20:51:15+08:00",
   "items": [
+    {
+      "id": "f48d50c135db3015",
+      "title": "【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地",
+      "url": "https://tmtpost.com/8213535.html",
+      "summary": "（11 月 16 日-21 日）英伟达史上首次单季营收突破1000亿美元，净利润同比翻倍；阿里巴巴：2027财年第二季度营收2715.2亿元，同比增长10%，AI相关产品收入超179亿元，连续13个季度实现三位数增长；腾讯：WorkBuddy近七天年化收入超5亿美元，三季度收入是第二季度的5倍以上；豆包工作日活突破800万，企业客户ARR突破20亿元...",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T19:19:38+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "融资",
+        "轮融资",
+        "IPO",
+        "亿美元",
+        "亿元"
+      ],
+      "confidence": 0.57,
+      "score": 77,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Anthropic创史上最大IPO纪录，DeepSeek二轮融资落地",
+        "takeaway": "AI资本热潮持续：Anthropic登陆纳斯达克创IPO纪录，DeepSeek完成二轮融资，英伟达单季营收首破千亿美元。",
+        "bullets": [
+          "Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录",
+          "美国限制远程获取AI算力，海外数据中心出租算力须许可",
+          "DeepSeek第二轮融资落地，国内AI融资持续推进",
+          "英伟达单季营收首破1000亿美元，净利润同比翻倍"
+        ],
+        "detail": "本周AI领域资本动作密集：Anthropic在纳斯达克上市，创下史上最大规模IPO纪录；美国出台新规，要求海外数据中心出租算力须获许可，限制远程获取AI算力；DeepSeek完成第二轮融资。同时英伟达单季营收首次突破1000亿美元，净利润同比翻倍。",
+        "generatedAt": "2026-11-21T20:51:08+08:00"
+      },
+      "pushedAt": "2026-11-21T20:51:15+08:00"
+    },
+    {
+      "id": "bc49ec0ca91c7155",
+      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "url": "https://qbitai.com/2026/11/511570.html",
+      "summary": "专为本地部署而生",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T14:32:31+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源",
+        "部署"
+      ],
+      "confidence": 0.67,
+      "score": 60,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "DeepSeek V1作者创业项目曝光：开源本地Agent",
+        "takeaway": "DeepSeek V1作者的新创业项目公开，是一款专为本地部署设计的开源Agent，值得关注。",
+        "bullets": [
+          "DeepSeek V1作者创业项目首次曝光",
+          "项目为开源Agent，主打本地部署",
+          "面向需要本地运行AI Agent的用户"
+        ],
+        "detail": "DeepSeek V1作者的新创业项目近日曝光，是一款开源Agent工具。该项目的核心特点是专为本地部署设计，意味着用户可以在自己的设备上运行，而不必依赖云端服务。",
+        "generatedAt": "2026-11-21T20:51:08+08:00"
+      },
+      "pushedAt": "2026-11-21T20:51:15+08:00"
+    },
     {
       "id": "f1b7c64ada916315",
       "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
@@ -78,6 +158,43 @@
       }
     },
     {
+      "id": "3498959e62e63f17",
+      "title": "人类数学家匆忙发布广义黎曼猜想的证明手稿",
+      "url": "https://solidot.org/story?sid=85952",
+      "summary": "今年 9 月 OpenAI 宣布解决 Navier-Stokes 问题时引发了广泛争议，原因是当时有数学家正致力于解决该问题，而且已经取得了突破。现在 Anthropic 数学家发表几十万页的文档声称证明了黎曼猜想。数学家 Alessandro Maria Masullo 在广义黎曼猜想问题上投入了 12 年时间，他也取得了进展，其证明手稿正由另一名数学家 Brian Conrad 审阅，两人计划花一年时间完善手稿然后征求更多人意见后发表。但 Anthropic 的声明促使人…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T19:09:59+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 宣称证明黎曼猜想，数学家匆忙发布手稿",
+        "takeaway": "AI 公司再抛数学大新闻，人类研究者被迫提前公开多年成果，引发优先权与验证争议。",
+        "bullets": [
+          "Anthropic 数学家发布数十万页文档，声称证明黎曼猜想。",
+          "数学家 Masullo 研究广义黎曼猜想 12 年，手稿正由 Conrad 审阅。",
+          "原计划花一年完善后发表，因 Anthropic 声明而提前公开。",
+          "类似 OpenAI 宣称解决 Navier-Stokes 时的争议再次出现。"
+        ],
+        "detail": "Anthropic 的数学家声称证明了黎曼猜想，并发布了数十万页文档。与此同时，投入广义黎曼猜想研究 12 年的 Masullo 已取得进展，其手稿正由 Conrad 审阅，两人原计划用一年完善后再发表，但 Anthropic 的声明促使他们匆忙公开。此前 OpenAI 宣称解决 Navier-Stokes 问题时也引",
+        "generatedAt": "2026-11-21T20:51:08+08:00"
+      }
+    },
+    {
       "id": "8eedfb938eff80ec",
       "title": "华为云开源昇腾原生具身世界模型CloudRobo-WM1.2，两项评测均列第一",
       "url": "https://infoq.cn/article/LCqRiGDSeMBfXo4iktdA",
@@ -111,6 +228,42 @@
         ],
         "detail": "华为云在InfoQ中国发布消息，开源了昇腾原生的具身世界模型CloudRobo-WM1.2。该模型在两项评测中均获得第一，具体评测细节未在摘要中说明。开源将促进具身智能领域的技术交流与应用。",
         "generatedAt": "2026-11-20T21:21:29+08:00"
+      }
+    },
+    {
+      "id": "653957d3038987a9",
+      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "url": "https://qbitai.com/2026/11/511779.html",
+      "summary": "还实现可变形物体操控全球首通",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T14:35:59+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GPT-6.2 Astra 具身任务成功率翻倍，攻克可变形物体操控",
+        "takeaway": "新模型在16项具身任务上成功率较GPT-6 Astra翻倍，并全球首次实现可变形物体操控。",
+        "bullets": [
+          "GPT-6.2 Astra 在16项具身任务中成功率较前代翻倍",
+          "全球首次实现可变形物体操控，属具身智能难点",
+          "成果来自量子位报道，具体任务细节未披露"
+        ],
+        "detail": "据量子位报道，GPT-6.2 Astra 在具身智能测试中表现大幅提升，16项任务成功率比 GPT-6 Astra 翻倍。同时，它全球首次实现可变形物体操控，这类任务对机器人感知与操作要求很高。",
+        "generatedAt": "2026-11-21T20:51:10+08:00"
       }
     },
     {
@@ -258,6 +411,78 @@
       }
     },
     {
+      "id": "5bd3f47db223b52c",
+      "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+      "url": "https://qbitai.com/2026/11/511727.html",
+      "summary": "",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T24:07:39+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "34岁数学家借助Claude宣称用Lean证明黎曼猜想",
+        "takeaway": "数学家借助Claude辅助，在Lean中给出黎曼猜想的证明，但尚未经同行验证，需谨慎看待。",
+        "bullets": [
+          "34岁数学家借助Claude辅助，在Lean中给出黎曼猜想的证明。",
+          "证明尚未经同行评审，真实性有待验证。",
+          "若成立将是数学界重大突破，AI辅助证明受关注。"
+        ],
+        "detail": "一位34岁数学家声称在Claude辅助下，用Lean形式化证明工具完成了黎曼猜想的证明。目前该证明尚未经过同行评审，其正确性有待数学界验证。若最终被确认，将是数学史上的重大突破，也显示AI在辅助数学证明方面的潜力。",
+        "generatedAt": "2026-11-21T20:51:10+08:00"
+      }
+    },
+    {
+      "id": "6afac731c57b427a",
+      "title": "Seedance、MiniMax和Qwen image修改能力测试：3轮连改，谁更好用？",
+      "url": "https://tmtpost.com/8213159.html",
+      "summary": "看看谁更听指挥",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T13:05:03+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Seedance、MiniMax、Qwen图像修改实测：三轮连改谁更听话？",
+        "takeaway": "钛媒体对三款图像修改模型进行三轮连续修改测试，比拼指令遵循能力，为选型提供参考。",
+        "bullets": [
+          "测试对象为Seedance、MiniMax和Qwen的图像修改功能",
+          "采用三轮连续修改任务，考察模型是否准确执行指令",
+          "结果可帮助用户判断哪款模型在复杂修改中更可靠"
+        ],
+        "detail": "钛媒体对Seedance、MiniMax和Qwen的图像修改能力展开实测，通过三轮连续修改任务，观察哪款模型更能准确理解并执行用户指令。测试聚焦于多轮修改中的指令遵循表现，为需要图像编辑工具的用户提供直观对比。",
+        "generatedAt": "2026-11-21T20:51:11+08:00"
+      }
+    },
+    {
       "id": "8bc8fed2fbe62d07",
       "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
       "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
@@ -291,6 +516,43 @@
         ],
         "detail": "Meta表示正在重新评估其2030年实现净零排放的可持续发展目标。由于AI数据中心的快速扩张，公司排放量创下历史新高。这一动向可能促使其他科技公司重新审视自身的气候承诺。",
         "generatedAt": "2026-11-21T09:53:49+08:00"
+      }
+    },
+    {
+      "id": "ea2303306e27d5ad",
+      "title": "当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！",
+      "url": "https://leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html",
+      "summary": "过去几年，AI 生图模型在真实感、分辨率和光影表现上不断刷新人们的认知。但当这些图片真正被用于海报、广告这些商业场景时仍会面临文字能否准确呈现、局部修改是否能保留原有设计等问题。这些看似不起眼的要求，至今仍是图像模型的难题。（雷峰网） 今年 3 月，微软研究院发布了一项名为 BizGenEval 的商业视觉生成评测，用 400 条提示词和 8000 道检查题测试主流模型。结果发现，模型已经能生成颇具美感的海报和网页，但在精确布局、多个对象之间的属性对应等方面，仍然存在明显短板…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T10:59:00+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "研究",
+        "评测"
+      ],
+      "confidence": 0.4,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Kling Image 4.0 自主出方案，AI 生图门槛再降",
+        "takeaway": "Kling Image 4.0 能自己出设计方案，但商业场景的文字与局部修改仍是行业难题。",
+        "bullets": [
+          "Kling Image 4.0 可自主生成设计方案，降低生图使用门槛",
+          "微软 BizGenEval 评测显示模型在精确布局和属性对应上仍有短板",
+          "商业海报广告场景对文字准确性和局部修改保留要求高"
+        ],
+        "detail": "AI 生图在真实感和光影上进步明显，但用于商业海报广告时，文字准确呈现和局部修改保留设计仍是难题。微软 3 月发布的 BizGenEval 用 400 条提示词和 8000 道检查题测试主流模型，发现模型能生成美观海报网页，却在精确布局和多对象属性对应上明显不足。",
+        "generatedAt": "2026-11-21T20:51:12+08:00"
       }
     },
     {
@@ -581,6 +843,40 @@
       }
     },
     {
+      "id": "1dd980bb0ab511e6",
+      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+      "url": "https://qbitai.com/2026/11/511757.html",
+      "summary": "还透露了不少训练背后的秘诀",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T14:30:55+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "姚顺雨与混元团队Reddit答疑：Hy小模型已列入路线图",
+        "takeaway": "混元团队在Reddit回应网友，透露Hy小模型已进入路线图，并分享训练秘诀。",
+        "bullets": [
+          "姚顺雨与混元团队在Reddit进行网友问答",
+          "Hy小模型已列入团队路线图",
+          "问答中透露了不少训练背后的秘诀"
+        ],
+        "detail": "姚顺雨和混元团队在Reddit上回答网友提问，透露Hy小模型已经进入路线图，并分享了一些训练背后的秘诀。",
+        "generatedAt": "2026-11-21T20:51:12+08:00"
+      }
+    },
+    {
       "id": "549b8cd922976a98",
       "title": "Making Grok Bot skills cheaper and more reliable: eight measured tricks, plus what native support could do",
       "url": "https://forum.cursor.com/t/making-grok-bot-skills-cheaper-and-more-reliable-eight-measured-tricks-plus-what-native-support-could-do/178929",
@@ -615,6 +911,42 @@
         ],
         "detail": "一位管理多个机器人的用户分享，他花一周时间精简每个任务加载的技能文本。文中“加载词数”指机器人执行单个任务时从真实文件读取的技能文本词数。他提出八项实测技巧，并讨论若平台原生支持这些优化，效果会如何。对每周使用量的影响是作者基于自身情况的估算。",
         "generatedAt": "2026-11-21T04:52:08+08:00"
+      }
+    },
+    {
+      "id": "5df8984a0961e02f",
+      "title": "刚刚，曝黎曼猜想被证明，Claude 立大功",
+      "url": "https://ifanr.com/1690750",
+      "summary": "AI 恐怖如斯 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T09:29:09+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "曝黎曼猜想被证明，Claude 立大功",
+        "takeaway": "爱范儿报道称黎曼猜想已被证明，AI Claude 在其中发挥关键作用，但细节尚不明确。",
+        "bullets": [
+          "爱范儿发布消息称黎曼猜想被证明",
+          "报道称 AI 模型 Claude 在此过程中立下大功",
+          "消息来源为爱范儿，具体证明细节尚未披露"
+        ],
+        "detail": "爱范儿报道称，黎曼猜想已被证明，AI 模型 Claude 在其中发挥了重要作用。目前报道未提供证明的具体内容或验证情况，消息真实性有待进一步确认。",
+        "generatedAt": "2026-11-21T20:51:13+08:00"
       }
     },
     {
@@ -921,6 +1253,29 @@
       "pushed": false
     },
     {
+      "id": "ed63d428a10ef04f",
+      "title": "马化腾第四次改腾讯AI航道",
+      "url": "https://tmtpost.com/8213477.html",
+      "summary": "老板得付第一责任",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T15:55:05+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "4bed541b20d5957b",
       "title": "做科学家创业路上的“一致行动人”—— 从一间工位到一桌夜话，海淀“接得住”科学家的每一步",
       "url": "https://tmtpost.com/8213414.html",
@@ -942,6 +1297,54 @@
       ],
       "confidence": 0.5,
       "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2861b47b0db61ac0",
+      "title": "阿里云，开始赚AI的钱了",
+      "url": "https://tmtpost.com/8213152.html",
+      "summary": "阿里云，开始赚AI的钱了",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T12:44:45+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "755acd825b385233",
+      "title": "米哈游发了个VLA论文",
+      "url": "https://qbitai.com/2026/11/511740.html",
+      "summary": "8B参数，50小时自主运行",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T24:25:26+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "论文"
+      ],
+      "confidence": 1,
+      "score": 32,
       "related": [],
       "pushed": false
     },
@@ -992,6 +1395,54 @@
       "pushed": false
     },
     {
+      "id": "81593815661eeb82",
+      "title": "2026年了，AI能有什么用？",
+      "url": "https://tmtpost.com/8213527.html",
+      "summary": "AI能批量生成，不等于能出彩",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T19:21:40+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "461356b723e6b8f7",
+      "title": "具身智创·生态共融，2026人形机器人开发者大会将于11月25日举办",
+      "url": "https://oschina.net/news/503716",
+      "summary": "为贯彻落实国务院关于推动人形机器人产业发展的决策部署，汇聚全球开发者协同创新，由北京经济技术开发区管理委员会指导的2026人形机器人开发者大会拟于2026年11月25日在北京亦庄北人亦创国际会展中心会议厅（南）举办。大会以“具身智创·生态共融”为主题，采用“1个主论坛+3场开发者活动”架构，3场开发者活动分别为...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T15:03:13+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "架构"
+      ],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "3e30621eb1a8fdca",
       "title": "Vibecoding an inference chip",
       "url": "https://ankitg.me/blog/vibecoding-inference-chip",
@@ -1013,6 +1464,125 @@
       ],
       "confidence": 1,
       "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "18b4d119ccb8897f",
+      "title": "东南亚AI中间商之死",
+      "url": "https://tmtpost.com/8213274.html",
+      "summary": "算力中间商的淘金时代，结束了。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T13:05:28+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 1,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5043328d9faf1700",
+      "title": "从《权游》到《三体》，从实体模型到AI，这位参与20000个视效镜头的大师，道出特效的终极秘密",
+      "url": "https://tmtpost.com/8213050.html",
+      "summary": "他的职业生涯，就是现代视觉特效史的缩影",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T12:44:43+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7299f6c8f6c03986",
+      "title": "清析智研王欢：大模型学完了人类知识，下一步去哪儿？",
+      "url": "https://tmtpost.com/8213250.html",
+      "summary": "AI能不能不只“掌握已有知识”，而是进入真实世界，创造新知识？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T12:44:41+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d1e7566c5877c6e4",
+      "title": "AI硬件离开手机以后，先遇到了人的限制",
+      "url": "https://tmtpost.com/8213070.html",
+      "summary": "能力边界的变化，让硬件公司开始重新估算人的时间价值。过去产品争夺用户停留，新的设备反而需要证明自己在减少停留。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T12:14:36+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "产品"
+      ],
+      "confidence": 1,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "90f644700256b52b",
+      "title": "美股一夜崩盘，AI 泡沫真要破了？",
+      "url": "https://ifanr.com/1690789",
+      "summary": "AI 泡沫要破了吗 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T11:30:42+08:00",
+      "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 27,
       "related": [],
       "pushed": false
     }
