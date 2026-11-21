@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updatedAt": "2026-11-21T20:51:15+08:00",
+  "updatedAt": "2026-11-22T03:53:51+08:00",
   "items": [
     {
       "id": "f48d50c135db3015",
@@ -43,6 +43,43 @@
         "generatedAt": "2026-11-21T20:51:08+08:00"
       },
       "pushedAt": "2026-11-21T20:51:15+08:00"
+    },
+    {
+      "id": "a2b0b71c81205cd4",
+      "title": "Can Anthropic afford to put safety first?",
+      "url": "https://theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T23:00:00+08:00",
+      "fetchedAt": "2026-11-22T03:53:35+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO",
+        "series"
+      ],
+      "confidence": 0.38,
+      "score": 62,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 上市后，安全优先还能撑多久？",
+        "takeaway": "Claude 背后的 AI 实验室登陆纳斯达克，其“安全优先”的定位面临资本市场的现实考验。",
+        "bullets": [
+          "Anthropic 上周四在纳斯达克上市，成为又一家公开交易的 AI 实验室。",
+          "The Verge 播客讨论其 IPO，聚焦安全理念与商业回报的张力。",
+          "上市后投资者对增长和盈利的期待，可能影响其安全投入节奏。"
+        ],
+        "detail": "The Verge 播客最后一集聊 Anthropic 上市。Claude 背后的实验室上周四在纳斯达克挂牌，节目请来资深 AI 记者 Hayden Field，围绕 IPO 数字和“安全优先”能否在公开市场压力下延续展开讨论。",
+        "generatedAt": "2026-11-22T03:53:50+08:00"
+      }
     },
     {
       "id": "bc49ec0ca91c7155",
@@ -480,6 +517,40 @@
         ],
         "detail": "钛媒体对Seedance、MiniMax和Qwen的图像修改能力展开实测，通过三轮连续修改任务，观察哪款模型更能准确理解并执行用户指令。测试聚焦于多轮修改中的指令遵循表现，为需要图像编辑工具的用户提供直观对比。",
         "generatedAt": "2026-11-21T20:51:11+08:00"
+      }
+    },
+    {
+      "id": "769adf524e573125",
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T22:00:00+08:00",
+      "fetchedAt": "2026-11-22T03:53:35+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Chess.com 拓展经典游戏中心，新增麻将数独等十款游戏",
+        "takeaway": "Chess.com 从国际象棋平台转型为多经典游戏聚合地，值得关注其生态扩张。",
+        "bullets": [
+          "Chess.com 新增十款游戏，包括麻将、数独、围棋等。",
+          "此前已推出无赌博扑克网站 Gambit。",
+          "旨在打造经典游戏中心，扩大用户群体。"
+        ],
+        "detail": "Chess.com 不再局限于国际象棋。继今年早些时候推出无赌博扑克网站 Gambit 后，该公司又新增了十款游戏，包括双陆棋、跳棋、围棋、红心大战、麻将、将棋、数独、纸牌、象棋等。",
+        "generatedAt": "2026-11-22T03:53:49+08:00"
       }
     },
     {
@@ -1316,6 +1387,29 @@
       "topic": "ai",
       "publishedAt": "2026-11-21T12:44:45+08:00",
       "fetchedAt": "2026-11-21T20:51:01+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c6d77569c1742093",
+      "title": "The Outages Are Just Getting Started",
+      "url": "https://wired.com/story/brace-yourself-for-years-of-outage-chaos",
+      "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-21T21:00:00+08:00",
+      "fetchedAt": "2026-11-22T03:53:35+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
