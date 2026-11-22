@@ -1,7 +1,46 @@
 {
   "date": "2026-11-22",
-  "updatedAt": "2026-11-22T20:02:05+08:00",
+  "updatedAt": "2026-11-23T03:52:12+08:00",
   "items": [
+    {
+      "id": "0e1816c3edb221bd",
+      "title": "特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件；OpenAI被曝入局智能手机赛道；DeepSeek第二轮千亿融资落地，31家出资方入局",
+      "url": "https://leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html",
+      "summary": "要闻提示 1.OpenAI被曝入局智能手机赛道，富士康获组装订单 2.特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件 3.DeepSeek千亿融资落地，31家出资方入股梁文锋搭建的持股平台 4.马斯克自称“中国超级粉丝”：首次到访深圳被震撼，特斯拉将继续在华提高产量 5.字节跳动拟追加5亿美元微软云服务合同 6.西祠胡同创始人响马突发心梗：到急诊几分钟后心脏骤停，现已回家静养 7.黄仁勋继任者被曝已有人选！马斯克：英伟达把他赶走，堪比公牛队连胜时踢走乔丹 8.…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-22T18:15:00+08:00",
+      "fetchedAt": "2026-11-23T03:52:00+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "英伟达",
+        "Blackwell"
+      ],
+      "confidence": 0.5,
+      "score": 69,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "特朗普松口：英伟达Blackwell可售华但设条件；OpenAI入局手机；DeepSeek融资落地",
+        "takeaway": "英伟达对华销售现转机但附条件，OpenAI跨界手机，DeepSeek获千亿融资，AI格局生变。",
+        "bullets": [
+          "特朗普称Blackwell芯片可对华销售，但附带条件",
+          "OpenAI被曝入局智能手机，富士康获组装订单",
+          "DeepSeek千亿融资落地，31家出资方入股持股平台",
+          "马斯克自称中国超级粉丝，特斯拉将继续提高在华产量"
+        ],
+        "detail": "特朗普表态允许英伟达Blackwell芯片对华销售，但设有条件；OpenAI被曝进军智能手机赛道，组装订单花落富士康；DeepSeek第二轮千亿融资落地，31家出资方入股梁文锋搭建的持股平台。此外，马斯克称首次到访深圳被震撼，特斯拉将继续在华增产。",
+        "generatedAt": "2026-11-23T03:52:08+08:00"
+      }
+    },
     {
       "id": "95bb40f524aab2b0",
       "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
@@ -72,6 +111,40 @@
         ],
         "detail": "Pinterest 和英特尔合作，把开源性能分析能力扩展到互联网级规模。这意味着大型平台在排查性能问题时，可能有更适用的开源方案，具体细节需查看原文。",
         "generatedAt": "2026-11-22T11:35:05+08:00"
+      }
+    },
+    {
+      "id": "de5cd1a6d51dc917",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-22T08:00:00+08:00",
+      "fetchedAt": "2026-11-23T03:52:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Perplexity：衡量AI模型进展的指标",
+        "takeaway": "OpenAI 探讨困惑度如何衡量 AI 模型进展，并推动开发者建立共享的评估方法。",
+        "bullets": [
+          "困惑度是衡量语言模型预测能力的指标。",
+          "OpenAI 认为它有助于评估新兴能力。",
+          "共享方法可促进开发者间的协作与比较。"
+        ],
+        "detail": "困惑度是评估语言模型预测文本能力的指标。OpenAI 发文解释它如何衡量 AI 模型的进展，并指出这能帮助开发者建立共享的评估方法，以应对不断涌现的新能力。",
+        "generatedAt": "2026-11-23T03:52:08+08:00"
       }
     },
     {
@@ -391,6 +464,78 @@
       }
     },
     {
+      "id": "bdbd2efb2de0dd1f",
+      "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
+      "url": "https://solidot.org/story?sid=85959",
+      "summary": "美国的 AI 数据中心越来越依赖自己的发电设施供电，而这些发电设施基本上绝大多数使用化石燃料。目前规划中的数据中心发电设施装机容量高达 177 GW——足以满足美国 65% 家庭的用电需求。研究人员调查了刚刚上市的 AI 公司 Anthropic 的用电需求。他们发现 Anthropic 未在美国承诺使用任何可再生能源，它近期斥资 34 亿美元承诺采购 1.7 GW 的燃气发电设备。与 Anthropic 签署算力合同的美国数据中心提供商绝大部分将使用化石燃料提供电力。研究人…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-22T23:32:03+08:00",
+      "fetchedAt": "2026-11-23T03:52:00+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力",
+        "数据中心"
+      ],
+      "confidence": 0.13,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 2028年用电98%来自化石燃料",
+        "takeaway": "AI公司Anthropic的算力扩张高度依赖燃气发电，其清洁能源承诺缺位引发关注。",
+        "bullets": [
+          "研究显示Anthropic未在美国承诺使用任何可再生能源。",
+          "其斥资34亿美元采购1.7GW燃气发电设备。",
+          "签约的数据中心提供商绝大部分靠化石燃料供电。",
+          "全美规划中数据中心自建发电装机达177GW。"
+        ],
+        "detail": "美国AI数据中心越来越倾向自建发电设施，且基本烧化石燃料。研究Anthropic发现，它没在美国承诺任何可再生能源，近期还花34亿美元买1.7GW燃气发电设备，合作的数据中心也大多靠化石燃料供电。",
+        "generatedAt": "2026-11-23T03:52:10+08:00"
+      }
+    },
+    {
+      "id": "0c81fa30a9f6ed1d",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in f…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-22T21:00:00+08:00",
+      "fetchedAt": "2026-11-23T03:52:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "氛围编程革命将席卷所有设备",
+        "takeaway": "The Verge 指出，氛围编程正从软件扩展到各类硬件设备，值得关注。",
+        "bullets": [
+          "The Verge  newsletter 探讨氛围编程向所有设备蔓延的趋势。",
+          "该趋势可能改变人们与电子设备的交互方式。",
+          "关注者可通过订阅获取更多相关内容。"
+        ],
+        "detail": "The Verge 的每周通讯 The Stepback 指出，氛围编程（vibe-coding）的革命即将扩展到所有设备。文章由 David Pierce 撰写，探讨这一趋势对科技世界的影响，并邀请读者订阅以了解更多。",
+        "generatedAt": "2026-11-23T03:52:10+08:00"
+      }
+    },
+    {
       "id": "12cbfc43fe0bbccf",
       "title": "全球Meta一家独大，中国AI眼镜为何还在混战？",
       "url": "https://tmtpost.com/8213674.html",
@@ -599,6 +744,54 @@
       "keywords": [],
       "confidence": 0,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "198f35f865a2d413",
+      "title": "从黄仁勋看AI时代的领导力：为什么有些企业能够实现指数级增长？",
+      "url": "https://tmtpost.com/8214129.html",
+      "summary": "领导者的决策边界仍然比较有限。企业能够走多远，很大程度上取决于领导者本人能够看到多大的范围，以及能不能把个人判断变成组织能力。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-22T22:09:45+08:00",
+      "fetchedAt": "2026-11-23T03:52:00+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3c4f4993adcaa465",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 181 # Comments: 46",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-22T21:56:58+08:00",
+      "fetchedAt": "2026-11-23T03:52:00+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 1,
+      "score": 29,
       "related": [],
       "pushed": false
     },
