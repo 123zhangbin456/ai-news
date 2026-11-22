@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updatedAt": "2026-11-21T20:51:13+08:00",
+  "updatedAt": "2026-11-22T08:49:21+08:00",
   "items": [
     {
       "id": "92c2e19464fb3cf6",
@@ -2840,6 +2840,32 @@
       "category": "融资并购",
       "keywords": [
         "IPO"
+      ],
+      "confidence": 1,
+      "score": 31,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "480c7f59bbc97a69",
+      "title": "llm-gemini 0.38.1",
+      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini",
+      "summary": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, whic…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-20T11:01:57+08:00",
+      "fetchedAt": "2026-11-22T08:49:13+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Gemini"
       ],
       "confidence": 1,
       "score": 31,

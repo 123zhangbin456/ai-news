@@ -1,7 +1,43 @@
 {
   "date": "2026-11-22",
-  "updatedAt": "2026-11-22T03:53:51+08:00",
+  "updatedAt": "2026-11-22T08:49:21+08:00",
   "items": [
+    {
+      "id": "a1abc1ba2744afcb",
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-22T05:07:42+08:00",
+      "fetchedAt": "2026-11-22T08:49:13+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达的两副面孔：财报亮眼，高管却喊黄仁勋回归",
+        "takeaway": "英伟达最新财报与科技高管呼吁黄仁勋回归形成反差，折射公司内外不同叙事。",
+        "bullets": [
+          "英伟达最新财报呈现积极图景",
+          "部分科技高管公开呼吁黄仁勋回归",
+          "两种声音展现英伟达的不同侧面"
+        ],
+        "detail": "英伟达最新财报描绘了公司积极的一面，但与此同时，一些科技高管却大声呼吁黄仁勋回归。这两幅截然不同的画面，展现了外界对英伟达现状的不同看法。",
+        "generatedAt": "2026-11-22T08:49:19+08:00"
+      }
+    },
     {
       "id": "6ccebafcdf30c270",
       "title": "Here are the top AI agents that can live in your text messages",
@@ -34,6 +70,112 @@
         ],
         "detail": "TechCrunch整理了一份值得关注的AI代理清单，这些代理能直接在你的短信里运行。清单包括通用助手，以及专为家庭、旅行和工作场景设计的代理。",
         "generatedAt": "2026-11-22T03:53:49+08:00"
+      }
+    },
+    {
+      "id": "21bd1d482ae20679",
+      "title": "Muru",
+      "url": "https://simonwillison.net/2026/Nov/21/muru",
+      "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools …",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-22T07:56:28+08:00",
+      "fetchedAt": "2026-11-22T08:49:13+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tools"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "mod_wsgi 作者新作 Muru：AI 辅助的 Rust 服务器",
+        "takeaway": "Graham Dumpleton 推出 AI 辅助开发的 Rust 服务器 Muru，旨在优化 Python Web 应用生产部署。",
+        "bullets": [
+          "Muru 由 mod_wsgi 创始人 Graham Dumpleton 开发。",
+          "采用 Rust 语言并借助 AI 辅助，目标提供最佳 Python Web 服务工具。",
+          "可能影响 Python Web 应用的生产部署方式。"
+        ],
+        "detail": "Graham Dumpleton 在 20 年前创建了 mod_wsgi，此后一直思考在生产环境中服务 Python Web 应用的理想方式。Muru 是他新开发的 AI 辅助 Rust 服务器，旨在提供尽可能好的工具。",
+        "generatedAt": "2026-11-22T08:49:19+08:00"
+      }
+    },
+    {
+      "id": "f3487ac9886e909d",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-22T05:37:10+08:00",
+      "fetchedAt": "2026-11-22T08:49:13+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Signal 限制手机截图，应对 AI 监控威胁",
+        "takeaway": "Signal 在安卓和 iOS 应用限制截图功能，以应对 AI 监控带来的生存威胁。",
+        "bullets": [
+          "Signal 在安卓和 iOS 应用限制截图功能",
+          "官方称 AI 监控构成‘生存威胁’",
+          "此举可能影响用户日常截图分享习惯"
+        ],
+        "detail": "Signal 正在限制其安卓和 iOS 应用中的截图功能。该公司表示，此举是为了应对 AI 监控带来的‘生存威胁’。这意味着用户在这两个平台上截取聊天界面的能力将受到限制。",
+        "generatedAt": "2026-11-22T08:49:19+08:00"
+      }
+    },
+    {
+      "id": "2cb10b95a79b2615",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://theverge.com/tech/1039554/un-regulations-killer-robots",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start di…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-22T04:03:37+08:00",
+      "fetchedAt": "2026-11-22T08:49:13+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "联合国谈不拢“杀手机器人”监管规则",
+        "takeaway": "联合国就自主武器监管开会，最终仅同意“开始讨论”，未达成实质规则。",
+        "bullets": [
+          "联合国在日内瓦开会讨论自主武器监管",
+          "各国代表仅同意“开始讨论”，未达成规则",
+          "自主武器俗称“杀手机器人”，争议持续"
+        ],
+        "detail": "本周在日内瓦，联合国外交官将自主武器（即“杀手机器人”）的监管规则列入议程。会议结束时，代表们仅同意“开始讨论”，未能就具体规则达成一致。",
+        "generatedAt": "2026-11-22T08:49:21+08:00"
       }
     }
   ],
