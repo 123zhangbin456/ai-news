@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T10:03:28+08:00",
+  "updatedAt": "2026-11-23T10:56:07+08:00",
   "items": [
     {
       "id": "dde7a6178995a8f6",
@@ -326,6 +326,42 @@
       }
     },
     {
+      "id": "33b28a808bfa228a",
+      "title": "Clarification: My login issue was caused by leftover Clash proxy environment variables (not Cursor/IP block)",
+      "url": "https://forum.cursor.com/t/clarification-my-login-issue-was-caused-by-leftover-clash-proxy-environment-variables-not-cursor-ip-block/179033",
+      "summary": "I’m posting this to clarify my earlier report. I was unable to log in to Cursor previously, and I initially assumed the issue was caused by regional restrictions, Cloudflare blocks or account policies on Cursor’s side. After troubleshooting…",
+      "source": {
+        "id": "cursor-guides",
+        "name": "Cursor 论坛指南",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T10:07:56+08:00",
+      "fetchedAt": "2026-11-23T10:55:58+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "用户澄清：Cursor 登录失败源于 Clash 代理残留环境变量",
+        "takeaway": "用户此前误判登录问题为 Cursor 区域封锁，实为本地代理配置残留，值得排查网络环境。",
+        "bullets": [
+          "用户曾无法登录 Cursor，怀疑是区域限制或 Cloudflare 拦截。",
+          "排查后发现是 Clash 代理环境变量未清理导致。",
+          "提醒用户遇到登录问题先检查本地代理设置。"
+        ],
+        "detail": "该用户发帖澄清，之前报告 Cursor 登录问题，最初以为是区域限制、Cloudflare 封锁或账号策略所致。经排查，实际原因是 Clash 代理环境变量残留，清理后问题解决。",
+        "generatedAt": "2026-11-23T10:56:06+08:00"
+      }
+    },
+    {
       "id": "1ba4d31258de505f",
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "url": "https://gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
@@ -607,6 +643,40 @@
         ],
         "detail": "这是一份针对 Alessandro Masullo 手稿的 Lean 形式化进度图，发布在 Hacker News 上并附有讨论链接。帖子获得 125 分和 89 条评论，说明社区对用 Lean 推进手稿形式化的进展较为关注。",
         "generatedAt": "2026-11-23T09:17:07+08:00"
+      }
+    },
+    {
+      "id": "858c453e39ddb43e",
+      "title": "具身智能进入大浪淘沙阶段，企业需要怎样的人才？",
+      "url": "https://infoq.cn/article/a22y9GDY1yHuAJkOIF8z",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T18:48:34+08:00",
+      "fetchedAt": "2026-11-23T10:55:58+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "具身智能进入洗牌期，人才争夺成关键",
+        "takeaway": "具身智能行业进入淘汰阶段，企业竞争焦点转向人才，值得关注人才需求变化。",
+        "bullets": [
+          "具身智能行业进入大浪淘沙阶段，企业面临洗牌。",
+          "人才成为企业竞争的关键因素。",
+          "行业对人才的需求和标准可能发生变化。"
+        ],
+        "detail": "具身智能领域正经历优胜劣汰，企业要在竞争中存活，必须重视人才。文章探讨了在这一阶段企业需要什么样的人才，以及人才策略如何影响企业发展。",
+        "generatedAt": "2026-11-23T10:56:06+08:00"
       }
     }
   ],
