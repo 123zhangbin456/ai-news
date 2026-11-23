@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-25",
+  "updatedAt": "2026-11-23T23:01:51+08:00",
+  "items": [
+    {
+      "id": "fad9f2c61a9cb16f",
+      "title": "Amazon ECS Gateway 正式上线，可以自动生成主机名，但不支持自定义域名",
+      "url": "https://infoq.cn/article/6mOVcKUGjpD1VmxZOGqt",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T24:00:00+08:00",
+      "fetchedAt": "2026-11-23T23:01:15+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "上线"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Amazon ECS Gateway 正式上线：可自动生成主机名，暂不支持自定义域名",
+        "takeaway": "AWS 推出 ECS Gateway，简化容器服务的主机名管理，但自定义域名能力仍缺失。",
+        "bullets": [
+          "Amazon ECS Gateway 正式上线，可自动生成主机名",
+          "面向使用 ECS 的开发者，减少手动配置主机名的工作",
+          "暂不支持自定义域名，灵活性受限"
+        ],
+        "detail": "AWS 正式发布 ECS Gateway，能自动为主机生成主机名，省去手动配置的麻烦。不过该功能目前不支持自定义域名，有相关需求的团队仍需另想办法。",
+        "generatedAt": "2026-11-23T23:01:41+08:00"
+      }
+    }
+  ],
+  "topic": "ai"
+}
