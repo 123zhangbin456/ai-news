@@ -1,7 +1,45 @@
 {
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T09:17:07+08:00",
+  "updatedAt": "2026-11-23T10:03:28+08:00",
   "items": [
+    {
+      "id": "dde7a6178995a8f6",
+      "title": "Anthropic 创纪录 IPO 未能扭转 AI 市场悲观情绪，Claude 上市当天突发性能降级！靠失业焦虑撑起的万亿估值，该踩刹车了",
+      "url": "https://infoq.cn/article/OPbZhT0OHL4IbZz8exvA",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T17:20:56+08:00",
+      "fetchedAt": "2026-11-23T10:03:16+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "估值",
+        "上市",
+        "IPO"
+      ],
+      "confidence": 0.89,
+      "score": 55,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic创纪录IPO遇Claude降级，AI估值引担忧",
+        "takeaway": "Anthropic完成创纪录IPO，但上市当天Claude性能降级，市场悲观情绪未改，万亿估值受质疑。",
+        "bullets": [
+          "Anthropic创纪录IPO未能扭转AI市场悲观情绪",
+          "Claude上市当天突发性能降级，引发用户关注",
+          "报道质疑靠失业焦虑撑起的万亿估值应踩刹车"
+        ],
+        "detail": "Anthropic完成创纪录IPO，但上市当天Claude出现性能降级，市场悲观情绪并未因此缓解。报道认为，这轮万亿估值部分建立在失业焦虑之上，呼吁对AI泡沫保持警惕。",
+        "generatedAt": "2026-11-23T10:03:27+08:00"
+      }
+    },
     {
       "id": "05744626c0d61baf",
       "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
@@ -34,6 +72,42 @@
         ],
         "detail": "OpenAI首席科学家认为，要给AI开发设定速度限制，首先得就如何衡量开发速度达成一致。没有统一的衡量标准，限制措施就无从谈起。这为AI安全治理提供了新思路。",
         "generatedAt": "2026-11-23T09:17:02+08:00"
+      }
+    },
+    {
+      "id": "914bb147d0bf37ce",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T09:25:53+08:00",
+      "fetchedAt": "2026-11-23T10:03:16+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic IPO前获Notable Capital、GIC、Baillie Gifford重金押注",
+        "takeaway": "三家知名投资机构在Anthropic上市前大举投资，分享其投资信心来源。",
+        "bullets": [
+          "Notable Capital、GIC和Baillie Gifford在Anthropic IPO前投入数十亿美元。",
+          "三家投资方分享了他们看好Anthropic的理由。",
+          "这凸显了机构对领先AI公司IPO前的强烈兴趣。"
+        ],
+        "detail": "三家重要投资机构在Anthropic进行首次公开募股前对其进行了大规模投资。他们分享了是什么让他们有信心投入数十亿美元。这反映了投资者对领先人工智能公司上市前的高度关注。",
+        "generatedAt": "2026-11-23T10:03:27+08:00"
       }
     },
     {
@@ -358,6 +432,43 @@
         ],
         "detail": "爱范儿发布了华为OSTA星芒 O1 Pro的评测文章，称这是一台真正为AI而生的鸿蒙手机，并强调其面向AI、面向世界、面向未来。",
         "generatedAt": "2026-11-23T09:17:04+08:00"
+      }
+    },
+    {
+      "id": "580c38d42f8532c0",
+      "title": "XXL-AI v1.7.0 发布｜AI 应用开发平台",
+      "url": "https://oschina.net/news/503728",
+      "summary": "Release Notes： 【本地版（Desk 桌面端）】 1、【架构】Harness模块独立：针对会话Loop，包含模型请求、工具调用、MCP调用、SKILL加载等等，统一闭环在chat模块下独立的 harness 模块中，提升可维护性和可扩展性； 2、【模型】会话模型标准化：针对会话模型进行标准化，会话Loop差异化行为统一通过“会话属性”扩展设置...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T24:53:53+08:00",
+      "fetchedAt": "2026-11-23T10:03:16+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "release"
+      ],
+      "confidence": 0.56,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "XXL-AI v1.7.0 发布：Harness 模块独立，会话模型标准化",
+        "takeaway": "AI 应用开发平台 XXL-AI 更新桌面端，重构会话循环架构并统一模型标准，提升可维护性。",
+        "bullets": [
+          "Harness 模块独立，统一管理模型请求、工具调用、MCP 和 SKILL 加载",
+          "会话模型标准化，差异化行为通过“会话属性”扩展设置",
+          "本次更新针对本地桌面端，旨在提升可维护性和可扩展性"
+        ],
+        "detail": "XXL-AI v1.7.0 本地桌面版将 Harness 模块从聊天模块中独立出来，把模型请求、工具调用、MCP 调用和 SKILL 加载等会话循环逻辑统一闭环管理。同时标准化了会话模型，不同会话的差异化行为改为通过“会话属性”扩展设置，以提升代码可维护性和扩展性。",
+        "generatedAt": "2026-11-23T10:03:28+08:00"
       }
     },
     {
