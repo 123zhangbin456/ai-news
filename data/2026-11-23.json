@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T11:31:16+08:00",
+  "updatedAt": "2026-11-23T12:07:50+08:00",
   "items": [
     {
       "id": "dde7a6178995a8f6",
@@ -435,6 +435,43 @@
       }
     },
     {
+      "id": "35423e40b74fc628",
+      "title": "🔥MakuBoot 5.3 发布，AI 低代码开发平台，快速开发利器",
+      "url": "https://oschina.net/news/503738",
+      "summary": "介绍 maku-boot 是采用 SpringBoot4.0、SpringSecurity7.0、Flowable8.0、Mybatis-Plus、Vue3、Element-plus 等技术开发的低代码开发平台，旨在为开发者提供一个简洁、高效、可扩展的低代码开发平台。使用门槛极低，支持国密加密、达梦数据库等，符合信创需求的低代码开发平台。采用组件模式，扩展不同的业务功能，可以...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T11:48:47+08:00",
+      "fetchedAt": "2026-11-23T12:07:40+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0.67,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "MakuBoot 5.3 发布：AI 低代码开发平台升级",
+        "takeaway": "MakuBoot 5.3 发布，基于 SpringBoot4.0 等新版本技术栈，主打低门槛与信创适配。",
+        "bullets": [
+          "采用 SpringBoot4.0、SpringSecurity7.0、Flowable8.0 等新版本技术栈",
+          "定位低代码开发平台，强调简洁、高效、可扩展",
+          "支持国密加密和达梦数据库，符合信创需求",
+          "采用组件模式，可扩展不同业务功能"
+        ],
+        "detail": "MakuBoot 5.3 是一个低代码开发平台，使用 SpringBoot4.0、SpringSecurity7.0、Flowable8.0、Mybatis-Plus、Vue3、Element-plus 等技术开发。它旨在为开发者提供简洁、高效、可扩展的平台，使用门槛低，并支持国密加密、达梦数据库等信创需求，通过组件模",
+        "generatedAt": "2026-11-23T12:07:50+08:00"
+      }
+    },
+    {
       "id": "33b28a808bfa228a",
       "title": "Clarification: My login issue was caused by leftover Clash proxy environment variables (not Cursor/IP block)",
       "url": "https://forum.cursor.com/t/clarification-my-login-issue-was-caused-by-leftover-clash-proxy-environment-variables-not-cursor-ip-block/179033",
@@ -820,6 +857,74 @@
         ],
         "detail": "InfoQ 中国发文讨论 JDK 24 之后虚拟线程在生产环境中的情况，关注 Java 应用实际发生了哪些变化。原文未提供更多细节，具体结论需查看原文。",
         "generatedAt": "2026-11-23T11:31:16+08:00"
+      }
+    },
+    {
+      "id": "2343a68c0076ad0d",
+      "title": "「AI 圈有局」第 01 期｜5 场活动、12 个社区找到你的同路人",
+      "url": "https://infoq.cn/article/uEfN9kdGsIMGkOgidVG7",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T19:42:34+08:00",
+      "fetchedAt": "2026-11-23T12:07:40+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "InfoQ 推出「AI 圈有局」首期：5 场活动联动 12 个社区",
+        "takeaway": "InfoQ 中国发起 AI 圈线下社群活动，首期联合 12 个社区办 5 场活动，帮从业者找同路人。",
+        "bullets": [
+          "InfoQ 中国推出「AI 圈有局」系列活动，第 01 期已上线",
+          "首期包含 5 场活动，联合 12 个社区共同举办",
+          "定位是帮 AI 从业者在线下找到志同道合的同路人"
+        ],
+        "detail": "InfoQ 中国推出「AI 圈有局」系列活动，第 01 期联合 12 个社区举办 5 场活动，面向 AI 从业者搭建线下交流场景，主打找到同路人。具体活动内容与时间需查看原文。",
+        "generatedAt": "2026-11-23T12:07:50+08:00"
+      }
+    },
+    {
+      "id": "2e3bd750e1cbdce6",
+      "title": "广告风控为何越审越强？轻量基座与审核 Agent 的协同进化实践｜AICon北京",
+      "url": "https://infoq.cn/article/8YT8bJElVYOuK0FvKG4o",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T19:31:44+08:00",
+      "fetchedAt": "2026-11-23T12:07:40+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "广告风控为何越审越强？轻量基座与审核 Agent 协同实践",
+        "takeaway": "InfoQ 中国预告 AICon 北京一场分享，讲轻量基座模型与审核 Agent 如何协同提升广告风控。",
+        "bullets": [
+          "主题是广告风控中轻量基座与审核 Agent 的协同进化",
+          "来源为 InfoQ 中国，属于 AICon 北京相关分享",
+          "摘要仅指向原文，具体技术细节尚未披露"
+        ],
+        "detail": "InfoQ 中国发布一则 AICon 北京相关分享预告，标题聚焦广告风控为何越审越强，提出用轻量基座模型与审核 Agent 协同进化的实践思路。目前摘要只给出原文入口，未展开具体方案与效果数据。",
+        "generatedAt": "2026-11-23T12:07:50+08:00"
       }
     }
   ],
