@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updatedAt": "2026-11-24T08:30:51+08:00",
+  "updatedAt": "2026-11-24T13:40:25+08:00",
   "items": [
     {
       "id": "696eccf2bec589ee",
@@ -2560,6 +2560,32 @@
       "pushed": false
     },
     {
+      "id": "25eee472f0aba029",
+      "title": "Living off the Local Model: Abusing Browser-Embedded Language Models for Post-Exploitation",
+      "url": "https://arxiv.org/abs/2611.25086",
+      "summary": "arXiv:2611.25086v2 Announce Type: replace-cross Abstract: Browsers now ship local language models to ordinary endpoints. Google includes Gemini Nano in Chrome to enable productivity features such as summarization, with inference running ent…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T13:00:00+08:00",
+      "fetchedAt": "2026-11-24T13:39:59+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 23,
+      "paperRank": 7,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "1b99b0ff5e58efb6",
       "title": "Can Vision-Language Models Synthesize Executable Game-Playing Programs?",
       "url": "https://arxiv.org/abs/2611.27741",
@@ -2946,6 +2972,396 @@
       "confidence": 1,
       "score": 22,
       "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "92ffb6f0c87dafd9",
+      "title": "Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models",
+      "url": "https://arxiv.org/abs/2601.18734",
+      "summary": "arXiv:2601.18734v4 Announce Type: replace-cross Abstract: Knowledge distillation improves large language model (LLM) reasoning by compressing the knowledge of a teacher LLM to train smaller LLMs. On-policy distillation advances this approac…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T13:00:00+08:00",
+      "fetchedAt": "2026-11-24T13:39:59+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 15,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3b25238085c2b2a5",
+      "title": "Towards Understanding On-Policy Distillation through the Lens of Test-Time Scaling",
+      "url": "https://arxiv.org/abs/2608.11829",
+      "summary": "arXiv:2608.11829v4 Announce Type: replace-cross Abstract: On-policy distillation (OPD) has emerged as a promising post-training technique for enhancing LLM reasoning. Under the reverse KL objective, the idealized optimum of OPD aligns the s…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T13:00:00+08:00",
+      "fetchedAt": "2026-11-24T13:39:59+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 15,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a25e9fdf4e567606",
+      "title": "Reinforcement Learning Unlearns Corrupted SFT Reasoning",
+      "url": "https://arxiv.org/abs/2611.26756",
+      "summary": "arXiv:2611.26756v1 Announce Type: new Abstract: We show that reinforcement learning (RL) in reasoning tasks can succeed even when the supervised fine-tuning (SFT) data is severely corrupted. In a mathematical reasoning dataset (GSM8K), we s…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T13:00:00+08:00",
+      "fetchedAt": "2026-11-24T13:39:59+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 15,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "162875d27d8688f8",
+      "title": "LLMs Memorize Their Own Hallucinations During Post-Training",
+      "url": "https://arxiv.org/abs/2611.26863",
+      "summary": "arXiv:2611.26863v1 Announce Type: new Abstract: Reasoning domains have shaped the post-training recipes of frontier models even though they are trained and deployed in domains beyond math and code. In this paper, we study the consequences o…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T13:00:00+08:00",
+      "fetchedAt": "2026-11-24T13:39:59+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 15,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5e8196d15fd3697e",
+      "title": "Do Language Models Know Which Words Steer Their Reasoning?",
+      "url": "https://arxiv.org/abs/2611.27317",
+      "summary": "arXiv:2611.27317v1 Announce Type: new Abstract: While chain-of-thought (CoT) prompting elicits intermediate reasoning steps from language models, it is unclear which words in the context actually steer the CoT. We identify Phantom Context I…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T13:00:00+08:00",
+      "fetchedAt": "2026-11-24T13:39:59+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 15,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "43df8b8d1de7ac47",
+      "title": "Reasoning in Fewer Tokens: Concept-Normalized Multilingual Scratchpads and Reversible Model-Adaptive Reasoning Codes",
+      "url": "https://arxiv.org/abs/2611.27326",
+      "summary": "arXiv:2611.27326v1 Announce Type: new Abstract: Chain-of-thought prompting significantly improves the reasoning capabilities of large language models (LLMs) but incurs high inference costs due to lengthy autoregressive decoding. While previ…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T13:00:00+08:00",
+      "fetchedAt": "2026-11-24T13:39:59+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 15,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c6bbb15bd5262086",
+      "title": "ORION: Exact Canonical-State Supervision for Systematic Generalization in Transformers",
+      "url": "https://arxiv.org/abs/2611.27087",
+      "summary": "arXiv:2611.27087v1 Announce Type: cross Abstract: Autoregressive Transformers generally fail on out-of-distribution reasoning due to two primary reasons: positional corruption over long sequences and structural state drift across deep execu…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T13:00:00+08:00",
+      "fetchedAt": "2026-11-24T13:39:59+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 15,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9e4c319f67c0b051",
+      "title": "Reasoning in Two Dimensions: Quantifying Chain-of-Thought Faithfulness and Efficiency",
+      "url": "https://arxiv.org/abs/2611.27100",
+      "summary": "arXiv:2611.27100v1 Announce Type: cross Abstract: Chain-of-thought (CoT) reasoning exposes intermediate steps, but a correct answer does not establish that an LLM relies on the dependence expressed by those steps or reasons efficiently. We …",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T13:00:00+08:00",
+      "fetchedAt": "2026-11-24T13:39:59+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 15,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "199d10928dd3b65f",
+      "title": "Beyond Math, Code, and Logic: Do Reasoning Models Transfer to Scientific Argumentation?",
+      "url": "https://arxiv.org/abs/2611.27722",
+      "summary": "arXiv:2611.27722v1 Announce Type: cross Abstract: Scientific discourse depends on argumentative reasoning: identifying claims, evaluating evidence, and constructing coherent responses. While recent advances in reasoning-capable language mod…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T13:00:00+08:00",
+      "fetchedAt": "2026-11-24T13:39:59+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 15,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b4fe9c5d1482ce32",
+      "title": "SLP-Bench: Evaluating and Improving Acoustic Claims of Reasoning Audio Language Models on Clinical Speech",
+      "url": "https://arxiv.org/abs/2611.27810",
+      "summary": "arXiv:2611.27810v1 Announce Type: cross Abstract: Audio language models (ALMs) can answer clinical questions from speech, outperforming baselines built on handcrafted acoustic features. Reasoning ALMs generate a chain of thought that refers…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T13:00:00+08:00",
+      "fetchedAt": "2026-11-24T13:39:59+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 15,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cd7a381b76c7e564",
+      "title": "Compute Optimal Tokenization",
+      "url": "https://arxiv.org/abs/2605.01188",
+      "summary": "arXiv:2605.01188v3 Announce Type: replace Abstract: Scaling laws enable the optimal selection of data amount and language model size, yet the impact of the data unit, the token, on this relationship remains underexplored. In this work, we s…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T13:00:00+08:00",
+      "fetchedAt": "2026-11-24T13:39:59+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 15,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5abcdeca570c6835",
+      "title": "BODHI: Do LLMs Branch Out and Discover Heterogeneous Inferences?",
+      "url": "https://arxiv.org/abs/2608.02867",
+      "summary": "arXiv:2608.02867v2 Announce Type: replace Abstract: Although reinforcement learning with verifiable rewards (RLVR) has improved the reasoning performance of large language models (LLMs), whether it expands reasoning capabilities or primaril…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T13:00:00+08:00",
+      "fetchedAt": "2026-11-24T13:39:59+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 15,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "028ccf691b65592c",
+      "title": "Deletion Sensitivity Is a Property of the Model: A Three-Condition Measurement over 72 Valid Experimental Cells",
+      "url": "https://arxiv.org/abs/2611.13223",
+      "summary": "arXiv:2611.13223v4 Announce Type: replace Abstract: Reasoning models write a trace at every turn of a multi-turn tool session, and later turns read it. Upstream providers hold different retention constraints, so a request forwarded across i…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T13:00:00+08:00",
+      "fetchedAt": "2026-11-24T13:39:59+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 15,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1b7f257dd905c962",
+      "title": "MemLife: Curating and Reasoning over Long-Term Egocentric Video Memories",
+      "url": "https://arxiv.org/abs/2609.40195",
+      "summary": "arXiv:2609.40195v2 Announce Type: replace-cross Abstract: Long-term egocentric video enables personalized AI assistants to reason about daily life. However, as video histories grow to hundreds of hours spanning months or years, reprocessing…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T13:00:00+08:00",
+      "fetchedAt": "2026-11-24T13:39:59+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 15,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b2db019b953adc6d",
+      "title": "SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills",
+      "url": "https://arxiv.org/abs/2611.26747",
+      "summary": "arXiv:2611.26747v1 Announce Type: new Abstract: Agent skills extend AI assistants through installable instructions and code that can access users' files, accounts, and data. Even when performing their advertised tasks, skills may infer sens…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-23T13:00:00+08:00",
+      "fetchedAt": "2026-11-24T13:39:59+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 15,
+      "paperRank": 5,
       "related": [],
       "pushed": false
     }
