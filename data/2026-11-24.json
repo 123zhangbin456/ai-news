@@ -1,7 +1,944 @@
 {
   "date": "2026-11-24",
-  "updatedAt": "2026-11-23T23:01:51+08:00",
+  "updatedAt": "2026-11-24T08:30:54+08:00",
   "items": [
+    {
+      "id": "43b498f2b7e3dbe0",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T06:05:50+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "launches",
+        "Claude"
+      ],
+      "confidence": 0.4,
+      "score": 71,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Anthropic 推出 Claude Ship，让 AI 代理审查并批准代码变更",
+        "takeaway": "Anthropic 发布新开发者工具，用 AI 代理处理代码审查与批准，旨在解决 AI 生成代码堆积带来的瓶颈。",
+        "bullets": [
+          "Claude Ship 允许 AI 代理审查、修复并批准代码变更",
+          "目标是对付 AI 生成代码大量堆积导致的审核瓶颈",
+          "代理可接管常规审批流程，减少人工介入"
+        ],
+        "detail": "随着 AI 生成的代码越来越多，代码审查和批准成了新的效率瓶颈。Anthropic 推出 Claude Ship 开发者工具，让 AI 代理自动完成审查、修复和批准常规代码变更，从而减少人工审批负担。",
+        "generatedAt": "2026-11-24T08:30:34+08:00"
+      },
+      "pushedAt": "2026-11-24T08:30:54+08:00"
+    },
+    {
+      "id": "1d0c151fefed0dea",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "source": {
+        "id": "openai",
+        "name": "OpenAI",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T05:20:00+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open-source"
+      ],
+      "confidence": 1,
+      "score": 61,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "OpenAI 与思科推出开源 Linux 运行时 Shirudo",
+        "takeaway": "OpenAI 和思科联合发布开源 Linux 运行时 Shirudo，帮助团队在打补丁期间保护运行中的系统。",
+        "bullets": [
+          "Shirudo 是面向 Linux 的开源运行时，由 OpenAI 与思科联合推出。",
+          "目标是在系统打补丁的过渡期提供保护，减少漏洞窗口风险。",
+          "开源形式意味着团队可自行部署和审查，降低采用门槛。"
+        ],
+        "detail": "OpenAI 和思科共同推出了 Shirudo，这是一个开源的 Linux 运行时。它主要用来在团队部署补丁的过程中保护正在运行的系统，避免打补丁期间出现安全空窗。",
+        "generatedAt": "2026-11-24T08:30:35+08:00"
+      },
+      "pushedAt": "2026-11-24T08:30:54+08:00"
+    },
+    {
+      "id": "9d5c4f64f5c79390",
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "url": "https://theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T04:00:00+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "review"
+      ],
+      "confidence": 0.33,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude 新功能：可自主审查、修复并批准代码拉取请求",
+        "takeaway": "Anthropic 推出 Claude Ship，让 Claude 能独立处理代码拉取请求，提升开发效率。",
+        "bullets": [
+          "Claude 现在能审查、修复和批准拉取请求。",
+          "这是 Anthropic 新推出的 Claude Ship 产品的一部分。",
+          "工程师此前已能用 Claude 辅助编程，现在自动化程度更高。"
+        ],
+        "detail": "Anthropic 发布新功能，作为 Claude Ship 产品的一部分，Claude 现在可以自主审查、修复并批准代码拉取请求。此前工程师已能用 Claude 辅助写代码，现在它进一步接管了代码合并流程中的部分工作。",
+        "generatedAt": "2026-11-24T08:30:35+08:00"
+      }
+    },
+    {
+      "id": "639e35eb5350960e",
+      "title": "【钛晨报】英伟达董事会一致同意恢复黄仁勋CEO职务；荣耀CEO李健：荣耀阔折叠明年3月发布｜独家；中汽协：1-10月，销量排名前十位的MPV生产企业共销售64.8万辆",
+      "url": "https://tmtpost.com/8215026.html",
+      "summary": "蚂蚁阿福App新版发布，蚂蚁阿福医生版上线“循证金标准”UpToDate；亚马逊将支付75亿美元获取人工智能初创公司Decart的技术；微软AI首席执行官苏莱曼：支持OpenAI提高透明度的倡议；四部门：鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品；人社部：非法骗取社保基金支出或者社保待遇，拟处骗取金额2倍以上5倍以下的罚款；市场监管总局发布《婴幼儿辅助食品生产许可审查细则（2026版）》；“固态锂电池标准项目组”将成立，正式编制《固态锂离子电池…",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T07:20:00+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "监管",
+        "审查",
+        "罚款"
+      ],
+      "confidence": 0.33,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "四部门鼓励发展养老AI产品，固态电池标准项目组将成立",
+        "takeaway": "政策推动AI与养老、电池标准化结合，同时社保骗保拟重罚，监管趋严。",
+        "bullets": [
+          "四部门发文鼓励养老场景AI体、机器人、穿戴设备等新产品。",
+          "人社部拟对骗取社保基金处2至5倍罚款，监管加码。",
+          "固态锂电池标准项目组将成立，启动标准编制。",
+          "市场监管总局发布婴幼儿辅助食品生产许可审查细则。"
+        ],
+        "detail": "四部门联合发文，鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品。人社部拟规定，非法骗取社保基金支出或待遇的，处骗取金额2倍以上5倍以下罚款。此外，固态锂电池标准项目组将成立，正式编制相关标准。",
+        "generatedAt": "2026-11-24T08:30:36+08:00"
+      }
+    },
+    {
+      "id": "1ee9f5994a817a2b",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient …",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T01:36:08+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "哲学家不买账：Anthropic的AI意识论遭质疑",
+        "takeaway": "Anthropic上市前提及AI可能有意识，哲学家公开质疑这一说法。",
+        "bullets": [
+          "Anthropic在上市前将AI可能具有意识列为风险因素。",
+          "一位知名哲学家对此表示不认同，认为论证不成立。",
+          "争议涉及AI伦理与公司责任，引发行业关注。"
+        ],
+        "detail": "Anthropic上周上市前，在文件中提到AI可能具有意识或感知能力，并将其列为潜在风险。一位传奇哲学家对此提出质疑，认为该论证缺乏说服力。此事引发对AI伦理和公司责任的讨论。",
+        "generatedAt": "2026-11-24T08:30:37+08:00"
+      }
+    },
+    {
+      "id": "588f7b0a1e0d0187",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T03:14:46+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Gemini"
+      ],
+      "confidence": 0,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌AI搜索模式接入Drive和Wallet，实现个性化回答",
+        "takeaway": "谷歌将个人智能引入AI模式，打通Drive、Wallet和Gemini应用，利用生态内用户数据提供更个性化回答。",
+        "bullets": [
+          "谷歌AI搜索模式新增Drive和Wallet数据接入",
+          "个人智能功能扩展至Gemini应用",
+          "利用现有用户数据提升回答个性化程度"
+        ],
+        "detail": "谷歌宣布，其搜索的AI模式现在可以访问Drive和Wallet中的数据，从而提供更个性化的回答。同时，个人智能功能也被引入Gemini应用，谷歌正利用其生态系统内丰富的用户数据来增强服务。",
+        "generatedAt": "2026-11-24T08:30:36+08:00"
+      }
+    },
+    {
+      "id": "b7fc35d5ccf04588",
+      "title": "Ladybird's first alpha release",
+      "url": "https://simonwillison.net/2026/Nov/23/ladybird",
+      "summary": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - th…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T05:46:35+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 1,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Ladybird 浏览器发布首个 Alpha 版",
+        "takeaway": "一个从零自研核心组件的浏览器项目迈出第一步，值得关注其技术野心。",
+        "bullets": [
+          "Ladybird 发布了首个 Alpha 版本，标志项目进入可试用阶段。",
+          "项目自研 HTML 解析、CSS 引擎、布局、JavaScript 甚至 WebAssembly。",
+          "仍依赖少量外部组件，但核心部分自主实现，技术难度极高。"
+        ],
+        "detail": "Ladybird 是一个雄心勃勃的项目：在 2026 年推出全新浏览器，并自行实现了 HTML 解析、CSS 引擎、布局、JavaScript 乃至 WebAssembly 等多数关键组件。它仍使用少量外部组件，但首个 Alpha 版的发布意味着项目已迈出重要一步。",
+        "generatedAt": "2026-11-24T08:30:39+08:00"
+      }
+    },
+    {
+      "id": "b7175444dd039d16",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T05:47:41+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋在丑闻后重返英伟达，马斯克等人欢呼",
+        "takeaway": "黄仁勋在丑闻后恢复英伟达职位，马斯克等公开表示支持，事件引发关注。",
+        "bullets": [
+          "黄仁勋在丑闻后重新执掌英伟达。",
+          "马斯克等科技界人士公开表示欢迎。",
+          "事件可能影响英伟达未来走向。"
+        ],
+        "detail": "黄仁勋在经历丑闻后重新回到英伟达，马斯克等人对此表示欢迎，称错误已得到纠正。这一变动引发外界对英伟达后续发展的关注。",
+        "generatedAt": "2026-11-24T08:30:38+08:00"
+      }
+    },
+    {
+      "id": "1457613dc9f14a1d",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T04:38:53+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.67,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋重返英伟达总部，员工英雄式欢迎",
+        "takeaway": "黄仁勋回归总部受员工热烈欢迎，并承诺二次担任CEO会做得更好。",
+        "bullets": [
+          "黄仁勋返回英伟达总部，员工以英雄式欢迎迎接。",
+          "他向员工表示，第二次担任CEO会做得更好。",
+          "此举或提振内部士气，引发外界对英伟达未来走向的关注。"
+        ],
+        "detail": "英伟达CEO黄仁勋回到公司总部时，受到员工英雄般的欢迎。他对员工说：“第二次担任CEO，我会做得更好。”这番话透露出他对自己领导角色的反思与信心，也显示出员工对他的高度支持。",
+        "generatedAt": "2026-11-24T08:30:39+08:00"
+      }
+    },
+    {
+      "id": "62898b4a825e7ca8",
+      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+      "url": "https://theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely p…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T02:26:47+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "俄勒冈与弗吉尼亚起诉 SpaceX，指 Grok 生成色情深伪",
+        "takeaway": "两州指控 SpaceX 无视行业防护标准，让 Grok 生成色情深伪内容，涉及消费者保护。",
+        "bullets": [
+          "俄勒冈与弗吉尼亚总检察长分别起诉 SpaceX。",
+          "指控其违反州消费者保护法，未设行业标准防护。",
+          "诉讼称 SpaceX 虚假陈述，放任 Grok 生成色情深伪。"
+        ],
+        "detail": "俄勒冈总检察长丹·雷菲尔德和弗吉尼亚总检察长杰伊·琼斯周一分别提起诉讼，指控 SpaceX 违反州消费者保护法。两州称 SpaceX 忽视行业标准防护措施，并虚假陈述，导致 Grok 生成色情深伪内容。",
+        "generatedAt": "2026-11-24T08:30:41+08:00"
+      }
+    },
+    {
+      "id": "e63c50b367bc2496",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo",
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T02:12:22+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.33,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋将赴参议院作证，涉疑似中国间谍案",
+        "takeaway": "黄仁勋复任英伟达CEO后，将就涉疑似中国间谍事件在参议院公开听证会作证。",
+        "bullets": [
+          "听证会由两党共同呼吁召开，聚焦黄仁勋与该事件的关联。",
+          "黄仁勋近期刚恢复英伟达CEO职务，即面临国会公开质询。",
+          "事件涉及疑似中国间谍，可能影响英伟达在华业务与监管环境。"
+        ],
+        "detail": "美国参议院计划下周举行公开听证会，要求英伟达CEO黄仁勋就一起涉及疑似中国间谍的事件作证。这一要求来自民主党和共和党的共同呼吁。黄仁勋不久前刚重新出任CEO，此次作证将使他直接面对国会议员关于该事件的质询。",
+        "generatedAt": "2026-11-24T08:30:41+08:00"
+      }
+    },
+    {
+      "id": "0908ebe9dc863b24",
+      "title": "How Jensen Huang ended up as Nvidia CEO again",
+      "url": "https://theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny a…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T03:57:18+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.33,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋一度卸任英伟达CEO，背后发生了什么",
+        "takeaway": "黄仁勋本月曾辞去英伟达CEO职务，但最终留任，凸显这家AI芯片巨头面临的审视压力。",
+        "bullets": [
+          "黄仁勋于11月12日辞去CEO职务，原因与日益增多的审查有关。",
+          "他三十年前联合创办英伟达，该公司被视为AI领域最重要的企业之一。",
+          "事件最终以黄仁勋继续担任CEO告终，但具体细节尚不明确。"
+        ],
+        "detail": "英伟达CEO黄仁勋本月一度辞去职务，起因是公司面临越来越大的审查压力。他三十年前参与创办了这家如今在AI芯片领域举足轻重的公司，但最终他仍留任CEO。原文摘要未透露审查的具体内容和辞职的详细经过。",
+        "generatedAt": "2026-11-24T08:30:42+08:00"
+      }
+    },
+    {
+      "id": "5dc55a044437ee86",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return",
+      "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T24:39:10+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "特朗普称曾致电英伟达董事会，力挺黄仁勋留任",
+        "takeaway": "特朗普自曝介入英伟达董事会讨论，公开支持黄仁勋，凸显政商关系对芯片巨头的影响。",
+        "bullets": [
+          "特朗普对CNBC称曾致电英伟达董事会，并说服对方。",
+          "他明确表态支持黄仁勋继续领导英伟达。",
+          "事件反映美国政界与AI芯片龙头互动频繁。"
+        ],
+        "detail": "特朗普在接受CNBC采访时透露，他曾致电英伟达董事会，为黄仁勋的留任进行游说，并称“我说服了他们”。此举显示美国政治人物对关键芯片企业领导层变动的直接关注。",
+        "generatedAt": "2026-11-24T08:30:44+08:00"
+      }
+    },
+    {
+      "id": "012a59ac52869d1b",
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "url": "https://theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's rad…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T06:25:12+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.33,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋因涉华间谍传闻辞职，特朗普介入英伟达变局",
+        "takeaway": "英伟达CEO黄仁勋因与所谓中国间谍有染的报道辞职，特朗普对此公开表态，事件牵动AI芯片格局。",
+        "bullets": [
+          "英伟达董事会接受黄仁勋辞去CEO职务",
+          "辞职源于其与一名被指中国间谍者发生关系的报道",
+          "特朗普在节目中对此事作出回应，似接受新现实",
+          "事件可能影响英伟达及AI芯片行业走向"
+        ],
+        "detail": "在有关黄仁勋与一名被指为中国间谍的人有婚外情的报道传出后，英伟达董事会接受了黄仁勋辞去CEO的请求。随后，美国总统特朗普在斯蒂芬·A·史密斯的节目中露面，似乎也接受了这一新现实。此事给英伟达和AI芯片领域带来不确定性。",
+        "generatedAt": "2026-11-24T08:30:46+08:00"
+      }
+    },
+    {
+      "id": "537965d7de454e67",
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "url": "https://theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T06:09:26+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.33,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋再任英伟达CEO，背后有特朗普与万斯撑腰",
+        "takeaway": "黄仁勋在特朗普和万斯支持下重新出任英伟达CEO，引发外界对政商关系的关注。",
+        "bullets": [
+          "黄仁勋重新担任英伟达CEO，出乎多数人意料。",
+          "特朗普和万斯被指确保了这一结果。",
+          "事件凸显科技巨头与政治权力的紧密联系。"
+        ],
+        "detail": "黄仁勋再次出任英伟达CEO，这一结果让大多数人感到意外，但特朗普总统和万斯副总统显然乐见其成。文章以讽刺口吻称这是“精英免责”的体现，暗示政治力量在科技公司高层变动中扮演了关键角色。",
+        "generatedAt": "2026-11-24T08:30:46+08:00"
+      }
+    },
+    {
+      "id": "61dcf1169479ac82",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "source": {
+        "id": "deepmind",
+        "name": "Google DeepMind",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T24:59:40+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepMind用智能体与形式化验证加速量子算法发现",
+        "takeaway": "Google DeepMind结合智能体团队与形式化验证，改进聚变和化学领域的量子算法，为量子计算实用化提速。",
+        "bullets": [
+          "采用智能体团队协作与形式化验证方法",
+          "针对聚变和化学场景优化量子算法",
+          "有望提升量子算法开发效率与可靠性"
+        ],
+        "detail": "Google DeepMind 利用智能体团队和形式化验证技术，改进用于聚变和化学的量子算法。该方法旨在更快找到更优算法，并确保正确性，推动量子计算在能源与材料领域的应用。",
+        "generatedAt": "2026-11-24T08:30:47+08:00"
+      }
+    },
+    {
+      "id": "972640f78a70025d",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn",
+      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T05:30:44+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "多州起诉SpaceX，要求阻止Grok生成儿童性虐待图像",
+        "takeaway": "州总检察长指控Grok仍能生成儿童性虐待材料和报复性色情内容，X的筛查承诺遭质疑。",
+        "bullets": [
+          "多州总检察长联合起诉SpaceX，要求停止Grok生成非法图像。",
+          "X声称每一条Grok输出都经过筛查，但各州认为CSAM仍在产生。",
+          "诉讼聚焦AI生成儿童性虐待材料和报复性色情内容的责任归属。"
+        ],
+        "detail": "多个州的总检察长对SpaceX提起诉讼，要求阻止其AI模型Grok生成儿童性虐待材料和报复性色情图像。X公司表示所有Grok输出都经过筛查，但州检察长们指出Grok仍在产出这类非法内容，双方对筛查效果存在争议。",
+        "generatedAt": "2026-11-24T08:30:48+08:00"
+      }
+    },
+    {
+      "id": "f955d48edeaa52ba",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T01:14:23+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chips"
+      ],
+      "confidence": 0.75,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "亚马逊75亿美元收购Decart AI优化技术，为卖Trainium芯片铺路",
+        "takeaway": "亚马逊以75亿美元拿下Decart的AI优化技术与研究团队，意在提升自研Trainium芯片竞争力。",
+        "bullets": [
+          "亚马逊收购Decart的AI优化技术和研究团队",
+          "交易金额据报道为75亿美元",
+          "此举为亚马逊销售Trainium芯片做准备"
+        ],
+        "detail": "亚马逊宣布收购Decart的AI优化技术及其研究团队，交易金额据报道为75亿美元。此举被视为亚马逊为推广自研Trainium芯片所做的准备，旨在增强其在AI算力市场的竞争力。",
+        "generatedAt": "2026-11-24T08:30:48+08:00"
+      }
+    },
+    {
+      "id": "3943570091f872a7",
+      "title": "黄仁勋杀回英伟达，董事会全票同意！老黄：迫不及待投入工作",
+      "url": "https://infoq.cn/article/4t3EvHtmI11QEgmV23Iz",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T16:00:00+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "英伟达"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋回归英伟达董事会，全票通过",
+        "takeaway": "黄仁勋重返英伟达董事会并获全票同意，本人称迫不及待投入工作，引发关注。",
+        "bullets": [
+          "英伟达董事会全票同意黄仁勋回归",
+          "黄仁勋表示迫不及待投入工作",
+          "消息来自 InfoQ 中国，属算力芯片领域"
+        ],
+        "detail": "据 InfoQ 中国报道，黄仁勋重新回到英伟达董事会，董事会全票通过这一决定。黄仁勋本人表示已迫不及待投入工作。原文未披露更多细节。",
+        "generatedAt": "2026-11-24T08:30:49+08:00"
+      }
+    },
+    {
+      "id": "ea91e3604351f004",
+      "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+      "url": "https://theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+      "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T24:30:11+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.33,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "白宫称特朗普“全程参与”黄仁勋复职英伟达CEO",
+        "takeaway": "白宫公开强调特朗普在黄仁勋复职英伟达CEO一事中发挥了作用，凸显政治与科技巨头人事的交织。",
+        "bullets": [
+          "白宫表示特朗普“全程参与”黄仁勋复职英伟达CEO的决定。",
+          "此前外界已猜测特朗普在其中扮演角色，白宫如今主动证实。",
+          "此事涉及英伟达这一算力芯片巨头的高层人事变动。"
+        ],
+        "detail": "白宫方面称，特朗普总统“全程参与”了黄仁勋重新出任英伟达CEO的过程，并称这是一个“伟大的决定”。此前外界就猜测特朗普在其中发挥了作用，如今白宫主动对外确认了这一点。",
+        "generatedAt": "2026-11-24T08:30:50+08:00"
+      }
+    },
+    {
+      "id": "388f4aa5f277fc66",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T06:02:05+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raises"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Supertake融资2000万美元，用AI代理将市场预测转化为股票组合",
+        "takeaway": "Supertake获2000万美元融资，让用户无需选股，用AI代理把市场观点变成投资组合。",
+        "bullets": [
+          "Supertake完成2000万美元融资，投资方未披露。",
+          "用户可表达市场预测，AI代理自动构建股票组合。",
+          "目标用户是想投资但不愿亲自选股的人。"
+        ],
+        "detail": "Supertake是一家初创公司，它允许用户把自己的市场预测投入真金白银，但不需要自己挑选个股。其AI代理会根据用户对市场走向的判断，自动生成对应的股票投资组合。该公司刚刚完成了2000万美元的融资。",
+        "generatedAt": "2026-11-24T08:30:51+08:00"
+      }
+    },
+    {
+      "id": "7bdc82557174d88c",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T05:25:42+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "卷入黄仁勋丑闻的Megaspeed或将被美国列入黑名单",
+        "takeaway": "曾由Alice Huang领导的Megaspeed可能被美国列入黑名单，美企与其交易需特别许可。",
+        "bullets": [
+          "Megaspeed此前由Alice Huang领导，现处于黄仁勋丑闻中心。",
+          "若被列入黑名单，美国公司将不得与其开展业务。",
+          "除非获得联邦政府特别许可证，否则交易被禁。"
+        ],
+        "detail": "Megaspeed曾由Alice Huang领导，目前处于黄仁勋丑闻的中心。该公司可能被美国列入黑名单，届时美国企业将不得与其做生意，除非获得联邦政府颁发的特别许可证。",
+        "generatedAt": "2026-11-24T08:30:51+08:00"
+      }
+    },
+    {
+      "id": "2dac6f709f49d5f6",
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "url": "https://theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference,…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T05:09:37+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5b1a69d858f9decf",
+      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+      "url": "https://wired.com/story/jensens-back-stocks-up-what-the-hell-sure",
+      "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T01:52:56+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.67,
+      "score": 40,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "932119e2ecf93911",
+      "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+      "url": "https://theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+      "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, si…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T03:04:52+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ca38829e73128713",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T01:20:37+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4fee0c0f21483873",
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet",
+      "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T24:57:40+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cce907208d419513",
+      "title": "Tech leaders are celebrating Jensen Huang’s return",
+      "url": "https://theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+      "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T24:14:04+08:00",
+      "fetchedAt": "2026-11-24T08:30:12+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "series"
+      ],
+      "confidence": 1,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
     {
       "id": "5f3fbc73a97fa1cb",
       "title": "企业 AI 发展新趋势：推动 AI Agent 迈向规模化应用的新阶段",
