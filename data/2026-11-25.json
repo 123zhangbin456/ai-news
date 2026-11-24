@@ -1,7 +1,44 @@
 {
   "date": "2026-11-25",
-  "updatedAt": "2026-11-25T02:58:52+08:00",
+  "updatedAt": "2026-11-25T06:51:28+08:00",
   "items": [
+    {
+      "id": "9134491ec669a372",
+      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+      "url": "https://theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to r…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T04:02:03+08:00",
+      "fetchedAt": "2026-11-25T06:51:12+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.67,
+      "score": 51,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "黄仁勋否认特朗普助其重返英伟达",
+        "takeaway": "黄仁勋在全员大会上澄清，特朗普并未帮助他重回英伟达，并为此向员工道歉。",
+        "bullets": [
+          "黄仁勋首次全员大会道歉，否认特朗普助其复职。",
+          "他试图与白宫和科技领袖帮助他回归的说法保持距离。",
+          "此事涉及英伟达领导层与政治关系的敏感话题。"
+        ],
+        "detail": "英伟达CEO黄仁勋在回归后的首次全员大会上向员工道歉，并否认特朗普帮助他重新获得职位。他试图与白宫和科技领袖协助他回归的说法保持距离。",
+        "generatedAt": "2026-11-25T06:51:20+08:00"
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
+    },
     {
       "id": "9824edc2f485570d",
       "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
@@ -25,7 +62,7 @@
       "confidence": 1,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Anthropic 股价跌破发行价，AI 初创估值承压",
         "takeaway": "Anthropic 上市后股价跌破发行价，或成 AI 初创估值降温信号。",
@@ -36,7 +73,8 @@
         ],
         "detail": "Anthropic 上市后股价跌破了 IPO 发行价。这一疲软表现可能对 AI 初创公司的估值形成压力，被视为 AI 投资热潮降温的警示信号。",
         "generatedAt": "2026-11-25T02:58:39+08:00"
-      }
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
       "id": "a8a55424e5329a89",
@@ -61,7 +99,7 @@
       "confidence": 0.67,
       "score": 50,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "黄仁勋复职后首次全员大会向员工道歉",
         "takeaway": "黄仁勋承认违反公司行为准则并犯下严重个人错误，引发对英伟达治理与领导力的关注。",
@@ -72,7 +110,8 @@
         ],
         "detail": "英伟达CEO黄仁勋在重新上任后的首次全员大会上向员工道歉，承认自己违反了公司行为准则，并称犯下了一些“非常严重的个人错误”。此举发生在公司关键时期，引发外界对其领导力和公司治理的关注。",
         "generatedAt": "2026-11-25T02:58:41+08:00"
-      }
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
       "id": "f796e127a00ba54d",
@@ -97,7 +136,7 @@
       "confidence": 0.5,
       "score": 49,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "GPT 6.2 Astra 自主破解历史谜题",
         "takeaway": "历史教授用 GPT-6.2 Astra 做研究，模型仅凭少量提示就自主识别出历史线索，展示 AI 在学术研究中的潜力。",
@@ -108,7 +147,8 @@
         ],
         "detail": "历史教授 Mark Humphries 分享了一个用 GPT-6.2 Astra 做历史研究的案例。在只给出少量提示的情况下，模型就能自主识别出历史谜题中的关键线索，完成原本需要研究者手动梳理的工作。",
         "generatedAt": "2026-11-25T02:58:40+08:00"
-      }
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
       "id": "03938f50d2248332",
@@ -137,7 +177,7 @@
       "confidence": 1,
       "score": 46,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Meta将Muse AI助手直接整合进Instagram私信",
         "takeaway": "用户无需切换应用即可在Instagram私信中与AI助手交互，提升使用便捷性。",
@@ -148,7 +188,83 @@
         ],
         "detail": "Meta宣布将旗下Muse AI助手直接集成到Instagram的私信功能中。此前用户需要切换至独立的Muse应用才能与AI交互，现在在Instagram内即可完成，省去了跳转步骤。",
         "generatedAt": "2026-11-25T02:58:42+08:00"
-      }
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
+    },
+    {
+      "id": "71615ee1ebfde345",
+      "title": "Even the best AI agents struggle with everyday life",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T05:33:29+08:00",
+      "fetchedAt": "2026-11-25T06:51:12+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing"
+      ],
+      "confidence": 0.25,
+      "score": 46,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "新基准测试：最强AI助手也难可靠完成日常任务",
+        "takeaway": "新基准显示，即便最先进的AI模型在完成日常任务时仍不可靠，甚至可能引入新问题。",
+        "bullets": [
+          "数百万用户开始使用个人AI助手，但实际表现参差不齐。",
+          "新基准测试聚焦日常任务，考察可靠性与安全性。",
+          "结果显示顶尖模型也难以稳定、安全地完成任务。",
+          "这提醒用户和开发者：AI助手落地仍需谨慎。"
+        ],
+        "detail": "随着数百万人开始使用个人AI助手，一项新基准测试发现，即便是最先进的AI模型，在完成日常任务时也往往不够可靠和安全，还可能带来新的问题。这表明AI助手要真正融入日常生活，仍有明显差距。",
+        "generatedAt": "2026-11-25T06:51:20+08:00"
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
+    },
+    {
+      "id": "b1e5839c1dc50666",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T05:32:38+08:00",
+      "fetchedAt": "2026-11-25T06:51:12+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "customers"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "沃尔玛联手 Meta，黑五促销接入 AI 助手 Muse",
+        "takeaway": "沃尔玛黑五优惠可通过 Meta 的 AI 助手 Muse 直接购物，AI 导购进入主流零售场景。",
+        "bullets": [
+          "沃尔玛与 Meta 合作，黑五促销接入 AI 助手 Muse",
+          "用户可通过 Muse 浏览并购买沃尔玛黑五商品",
+          "AI 助手正成为零售促销的新入口"
+        ],
+        "detail": "沃尔玛宣布与 Meta 合作，让顾客通过 Meta 的 AI 助手 Muse 参与黑五促销。用户可在 Muse 内浏览并购买沃尔玛的黑五优惠商品，标志着 AI 助手开始承担实际购物功能。",
+        "generatedAt": "2026-11-25T06:51:22+08:00"
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
       "id": "fad9f2c61a9cb16f",
@@ -209,7 +325,7 @@
       "confidence": 0.33,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "英伟达CEO黄仁勋成AI换脸新素材，伊比萨派对视频疯传",
         "takeaway": "黄仁勋的深度伪造视频在社交平台热传，凸显AI换脸滥用问题，名人形象成流量工具。",
@@ -220,7 +336,8 @@
         ],
         "detail": "一段伪造的黄仁勋在伊比萨夜店狂欢的视频在Instagram上获得近600万次观看。视频中他穿着标志性黑色皮衣、手持香槟跳舞，但实为AI换脸。这类低质量AI生成内容正成为新的网络垃圾。",
         "generatedAt": "2026-11-25T02:58:45+08:00"
-      }
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
       "id": "513d53289dff24fd",
@@ -246,7 +363,7 @@
       "confidence": 0.6,
       "score": 44,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "OceanBase发布AI数据平台OceanLake，押注多模态",
         "takeaway": "数据库厂商OceanBase推出AI数据平台，CEO称押注多模态如同当年押注分布式。",
@@ -257,7 +374,46 @@
         ],
         "detail": "OceanBase推出面向AI的数据平台OceanLake。CEO杨冰表示，公司这次押注多模态，就像当年押注分布式数据库一样。这标志着OceanBase在AI数据基础设施上的新布局。",
         "generatedAt": "2026-11-25T02:58:45+08:00"
-      }
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
+    },
+    {
+      "id": "72fd424c711a4514",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T05:48:27+08:00",
+      "fetchedAt": "2026-11-25T06:51:12+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "founder",
+        "says"
+      ],
+      "confidence": 0.5,
+      "score": 44,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "黄仁勋全员会致谢白宫并自曝接受心理治疗",
+        "takeaway": "英伟达CEO黄仁勋在全员会上道歉并感谢白宫，同时透露自己正在接受心理治疗，引发关注。",
+        "bullets": [
+          "黄仁勋在全员会上向员工道歉，称感激有第二次机会领导公司。",
+          "他公开感谢白宫，但未说明具体原因。",
+          "黄仁勋自曝正在接受心理治疗，罕见谈及个人心理健康。"
+        ],
+        "detail": "英伟达创始人黄仁勋周二召开全员会，向员工道歉，并表示很感激能获得第二次领导公司的机会。他还感谢了白宫，并透露自己正在接受心理治疗。",
+        "generatedAt": "2026-11-25T06:51:22+08:00"
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
       "id": "16565a3f5dc091b0",
@@ -282,7 +438,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Microduck 避障：Isaac Lab 与 Newton 的 Sim2Real 工作流",
         "takeaway": "Hugging Face 展示 Microduck 避障的仿真到现实流程，用 Isaac Lab 和 Newton 打通训练与部署。",
@@ -293,7 +449,8 @@
         ],
         "detail": "Hugging Face 发布 Microduck 避障项目，介绍如何用 Isaac Lab 和 Newton 构建从仿真到现实的工作流。内容聚焦于在仿真环境中训练避障策略，再迁移到真实机器人上执行。",
         "generatedAt": "2026-11-25T02:58:48+08:00"
-      }
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
       "id": "ef2ea07a8f962a95",
@@ -319,7 +476,7 @@
       "confidence": 0.75,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "英国警告：AI驱动网络攻击暴露多年安全短板",
         "takeaway": "英国网络安全机构指出，AI黑客工具正利用基础安全漏洞，企业需重视安全根基建设。",
@@ -330,7 +487,8 @@
         ],
         "detail": "英国网络安全机构表示，AI黑客工具依赖利用简单的安全漏洞，这暴露出多年来安全基础薄弱的问题。该机构强调，构建强大的安全基础比以往任何时候都更加重要。",
         "generatedAt": "2026-11-25T02:58:49+08:00"
-      }
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
       "id": "85ad47dc9b77c65c",
@@ -355,7 +513,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Tidal将清理数百万AI生成曲目，打击AI垃圾内容",
         "takeaway": "Tidal宣布禁止并下架完全由AI生成的音乐，但允许AI辅助创作，以应对流媒体平台上的AI垃圾内容泛滥。",
@@ -366,7 +524,8 @@
         ],
         "detail": "Tidal表示，将禁止并下架数百万首完全由AI生成的音乐，以应对流媒体平台上泛滥的AI垃圾内容。不过，平台仍会接受那些在创作过程中使用AI辅助、而非完全由AI生成的歌曲。",
         "generatedAt": "2026-11-25T02:58:50+08:00"
-      }
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
       "id": "70f3d3a6344923f9",
@@ -391,7 +550,7 @@
       "confidence": 0.63,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Crusoe投资人押注太阳能与储能，为AI数据中心供电",
         "takeaway": "下一代AI数据中心年耗电将达数十吉瓦，投资人认为太阳能加储能是必然选择。",
@@ -402,7 +561,8 @@
         ],
         "detail": "下一代AI数据中心每年耗电将达数十吉瓦。Crusoe的一位投资人认为，太阳能和储能电池是满足这一需求的明显选择，因此押注该方向。",
         "generatedAt": "2026-11-25T02:58:50+08:00"
-      }
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
       "id": "bbaf6332f2bfb4e9",
@@ -425,7 +585,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Pinterest 允许家长限制青少年看到的 AI 生成内容",
         "takeaway": "Pinterest 推出家长控制功能，限制青少年信息流中的 AI 内容，与其他平台管控聊天机器人形成差异。",
@@ -436,7 +596,8 @@
         ],
         "detail": "Pinterest 推出新功能，允许家长限制青少年账户信息流中出现的 AI 生成内容。其他社交平台主要限制青少年使用 AI 聊天机器人，而 Pinterest 则针对填充信息流的 AI 内容进行管控。",
         "generatedAt": "2026-11-25T02:58:50+08:00"
-      }
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
       "id": "428631f9a0709dac",
@@ -461,7 +622,7 @@
       "confidence": 1,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "大卫·芬奇新片被疑用AI，早期放映引争议",
         "takeaway": "芬奇新片《Cliff Booth的进一步不幸遭遇》早期放映后，观众怀疑片中使用了生成式AI，引发讨论。",
@@ -472,7 +633,8 @@
         ],
         "detail": "大卫·芬奇的粉丝原本很期待《Cliff Booth的进一步不幸遭遇》这部《好莱坞往事》续集，但早期放映后，有人开始质疑影片是否使用了生成式AI。目前争议仍在发酵，具体使用情况尚不明确。",
         "generatedAt": "2026-11-25T02:58:51+08:00"
-      }
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
       "id": "f0a03c4829a12f95",
@@ -495,7 +657,7 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Tidal下月起禁止AI生成音乐，将删除2900万首",
         "takeaway": "流媒体平台Tidal首次大规模清理AI音乐，12月9日起删除约2900万首并每日拒收数万首。",
@@ -506,7 +668,8 @@
         ],
         "detail": "Tidal宣布从12月9日起禁止AI生成音乐，届时将删除约2900万首此类歌曲，并每天拒绝约8万至8.5万首AI曲目。这一举措由Tidal音乐负责人Robert透露，旨在清理平台内容。",
         "generatedAt": "2026-11-25T02:58:52+08:00"
-      }
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
       "id": "19f2f984a80db585",
@@ -533,7 +696,8 @@
       "confidence": 0.4,
       "score": 40,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
       "id": "002bc4ff2409ce70",
@@ -556,7 +720,82 @@
       "confidence": 0,
       "score": 40,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-25T06:51:28+08:00"
+    },
+    {
+      "id": "bc426bbbebd762f2",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy",
+      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T06:27:52+08:00",
+      "fetchedAt": "2026-11-25T06:51:12+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "founder"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "黄仁勋：接班人计划会制造不必要的层级",
+        "takeaway": "黄仁勋反对制定接班人计划，认为会制造不必要的层级，此前英伟达刚经历创始人短暂缺席的考验。",
+        "bullets": [
+          "黄仁勋公开表示不认同接班人计划，认为这会带来不必要的层级。",
+          "英伟达过去两周刚体验了创始人缺席的情况。",
+          "这一立场与常规公司治理建议相悖，引发关注。"
+        ],
+        "detail": "黄仁勋在采访中表示，他仍然认为接班人计划会制造不必要的层级。对于英伟达这样一家过去两周刚体会到没有创始人会怎样的公司来说，这一立场引人注目。",
+        "generatedAt": "2026-11-25T06:51:24+08:00"
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
+    },
+    {
+      "id": "4d83f53e63e2d3da",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T05:19:52+08:00",
+      "fetchedAt": "2026-11-25T06:51:12+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raises"
+      ],
+      "confidence": 0.8,
+      "score": 40,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Maple 融资 530 万美元，打造连自己都无法窥探用户数据的 AI",
+        "takeaway": "Maple 获 530 万美元融资，用加密架构让 AI 产品保护用户隐私，连公司自身也无法访问数据。",
+        "bullets": [
+          "Maple 完成 530 万美元融资，专注隐私保护型 AI 产品。",
+          "其加密 AI 架构确保公司自身也无法读取用户私有数据。",
+          "该技术有望缓解用户对 AI 处理敏感信息的隐私担忧。"
+        ],
+        "detail": "Maple 是一家做 AI 产品的初创公司，刚拿到 530 万美元融资。它的核心卖点是加密架构：用户数据在 AI 处理过程中始终加密，连 Maple 公司自己都拿不到明文，从而防止内部或外部滥用。",
+        "generatedAt": "2026-11-25T06:51:24+08:00"
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
       "id": "cb6f8525252b21b1",
@@ -581,7 +820,8 @@
       "confidence": 1,
       "score": 39,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
       "id": "fdd5f51e8fafafb3",
@@ -606,7 +846,43 @@
       "confidence": 0.5,
       "score": 35,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-25T06:51:28+08:00"
+    },
+    {
+      "id": "1479a2d5f1158c80",
+      "title": "What's going on with the Riemann hypothesis?",
+      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis",
+      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T04:34:53+08:00",
+      "fetchedAt": "2026-11-25T06:51:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "AI辅助证明黎曼猜想？新进展仍存疑",
+        "takeaway": "一项AI辅助的数学证明看似可靠，但尚不清楚它究竟证明了什么。",
+        "bullets": [
+          "新证明借助AI完成，初步判断似乎成立。",
+          "但证明的实际意义和结论范围仍不明确。",
+          "黎曼猜想是数学界最著名的未解难题之一。"
+        ],
+        "detail": "Ars Technica报道，一项由AI辅助完成的数学证明看起来是可靠的，但研究者还不确定这个证明到底告诉了我们什么。黎曼猜想是数学领域的核心难题，任何相关进展都备受关注，但这次的新证明可能只是部分推进，其真正价值有待进一步厘清。",
+        "generatedAt": "2026-11-25T06:51:26+08:00"
+      },
+      "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
       "id": "e213ef04a8703146",
@@ -629,7 +905,8 @@
       "confidence": 0,
       "score": 30,
       "related": [],
-      "pushed": false
+      "pushed": true,
+      "pushedAt": "2026-11-25T06:51:28+08:00"
     }
   ],
   "topic": "ai"
