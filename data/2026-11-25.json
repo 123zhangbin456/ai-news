@@ -1,7 +1,155 @@
 {
   "date": "2026-11-25",
-  "updatedAt": "2026-11-23T23:01:51+08:00",
+  "updatedAt": "2026-11-25T02:58:52+08:00",
   "items": [
+    {
+      "id": "9824edc2f485570d",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T02:30:42+08:00",
+      "fetchedAt": "2026-11-25T02:58:32+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "IPO"
+      ],
+      "confidence": 1,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 股价跌破发行价，AI 初创估值承压",
+        "takeaway": "Anthropic 上市后股价跌破发行价，或成 AI 初创估值降温信号。",
+        "bullets": [
+          "Anthropic 上市后股价跌破 IPO 发行价",
+          "这一表现可能给 AI 初创公司估值带来压力",
+          "市场担忧 AI 板块高估值能否持续"
+        ],
+        "detail": "Anthropic 上市后股价跌破了 IPO 发行价。这一疲软表现可能对 AI 初创公司的估值形成压力，被视为 AI 投资热潮降温的警示信号。",
+        "generatedAt": "2026-11-25T02:58:39+08:00"
+      }
+    },
+    {
+      "id": "a8a55424e5329a89",
+      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+      "url": "https://wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return",
+      "summary": "The reinstated Nvidia CEO acknowledged violating the company’s code of conduct and said he had made some “very serious personal mistakes.”",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T01:44:53+08:00",
+      "fetchedAt": "2026-11-25T02:58:32+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.67,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋复职后首次全员大会向员工道歉",
+        "takeaway": "黄仁勋承认违反公司行为准则并犯下严重个人错误，引发对英伟达治理与领导力的关注。",
+        "bullets": [
+          "黄仁勋在复职后首次全员大会上公开道歉",
+          "他承认违反公司行为准则，称犯了严重个人错误",
+          "事件或影响英伟达内部治理与员工信心"
+        ],
+        "detail": "英伟达CEO黄仁勋在重新上任后的首次全员大会上向员工道歉，承认自己违反了公司行为准则，并称犯下了一些“非常严重的个人错误”。此举发生在公司关键时期，引发外界对其领导力和公司治理的关注。",
+        "generatedAt": "2026-11-25T02:58:41+08:00"
+      }
+    },
+    {
+      "id": "f796e127a00ba54d",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
+      "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify t…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T24:53:59+08:00",
+      "fetchedAt": "2026-11-25T02:58:32+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 0.5,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "GPT 6.2 Astra 自主破解历史谜题",
+        "takeaway": "历史教授用 GPT-6.2 Astra 做研究，模型仅凭少量提示就自主识别出历史线索，展示 AI 在学术研究中的潜力。",
+        "bullets": [
+          "历史教授 Mark Humphries 用 GPT-6.2 Astra 做历史研究案例",
+          "仅需少量提示，模型就自主识别出关键历史信息",
+          "案例显示 AI 可辅助历史学者完成自主研究任务"
+        ],
+        "detail": "历史教授 Mark Humphries 分享了一个用 GPT-6.2 Astra 做历史研究的案例。在只给出少量提示的情况下，模型就能自主识别出历史谜题中的关键线索，完成原本需要研究者手动梳理的工作。",
+        "generatedAt": "2026-11-25T02:58:40+08:00"
+      }
+    },
+    {
+      "id": "03938f50d2248332",
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T01:00:00+08:00",
+      "fetchedAt": "2026-11-25T02:58:32+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "integration",
+        "app",
+        "assistant",
+        "users",
+        "brings"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta将Muse AI助手直接整合进Instagram私信",
+        "takeaway": "用户无需切换应用即可在Instagram私信中与AI助手交互，提升使用便捷性。",
+        "bullets": [
+          "Meta把Muse AI助手嵌入Instagram私信功能",
+          "用户不再需要单独打开Muse应用",
+          "此举简化了AI交互流程，可能提升用户活跃度"
+        ],
+        "detail": "Meta宣布将旗下Muse AI助手直接集成到Instagram的私信功能中。此前用户需要切换至独立的Muse应用才能与AI交互，现在在Instagram内即可完成，省去了跳转步骤。",
+        "generatedAt": "2026-11-25T02:58:42+08:00"
+      }
+    },
     {
       "id": "fad9f2c61a9cb16f",
       "title": "Amazon ECS Gateway 正式上线，可以自动生成主机名，但不支持自定义域名",
@@ -37,6 +185,451 @@
         "detail": "AWS 正式发布 ECS Gateway，能自动为主机生成主机名，省去手动配置的麻烦。不过该功能目前不支持自定义域名，有相关需求的团队仍需另想办法。",
         "generatedAt": "2026-11-23T23:01:41+08:00"
       }
+    },
+    {
+      "id": "b6222c5bc341b130",
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "url": "https://theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from b…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T24:30:00+08:00",
+      "fetchedAt": "2026-11-25T02:58:32+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA"
+      ],
+      "confidence": 0.33,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达CEO黄仁勋成AI换脸新素材，伊比萨派对视频疯传",
+        "takeaway": "黄仁勋的深度伪造视频在社交平台热传，凸显AI换脸滥用问题，名人形象成流量工具。",
+        "bullets": [
+          "一段黄仁勋在伊比萨夜店跳舞的换脸视频在Instagram获近600万播放。",
+          "视频中他仍穿标志性皮衣，手持香槟，场景逼真但为伪造。",
+          "此类内容被归为“AI slop”，反映低质AI生成内容泛滥趋势。"
+        ],
+        "detail": "一段伪造的黄仁勋在伊比萨夜店狂欢的视频在Instagram上获得近600万次观看。视频中他穿着标志性黑色皮衣、手持香槟跳舞，但实为AI换脸。这类低质量AI生成内容正成为新的网络垃圾。",
+        "generatedAt": "2026-11-25T02:58:45+08:00"
+      }
+    },
+    {
+      "id": "513d53289dff24fd",
+      "title": "OceanBase发布AI数据平OceanLake！CEO杨冰：我们赌多模态，就像当年赌分布式一样",
+      "url": "https://infoq.cn/article/qEXNRNufkiFkiUEU9aae",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T04:21:09+08:00",
+      "fetchedAt": "2026-11-25T02:58:32+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "多模态"
+      ],
+      "confidence": 0.6,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OceanBase发布AI数据平台OceanLake，押注多模态",
+        "takeaway": "数据库厂商OceanBase推出AI数据平台，CEO称押注多模态如同当年押注分布式。",
+        "bullets": [
+          "OceanBase发布AI数据平台OceanLake",
+          "CEO杨冰称押注多模态，类比当年押注分布式",
+          "这是OceanBase从数据库向AI数据平台的延伸"
+        ],
+        "detail": "OceanBase推出面向AI的数据平台OceanLake。CEO杨冰表示，公司这次押注多模态，就像当年押注分布式数据库一样。这标志着OceanBase在AI数据基础设施上的新布局。",
+        "generatedAt": "2026-11-25T02:58:45+08:00"
+      }
+    },
+    {
+      "id": "16565a3f5dc091b0",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T24:34:13+08:00",
+      "fetchedAt": "2026-11-25T02:58:32+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "workflow"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Microduck 避障：Isaac Lab 与 Newton 的 Sim2Real 工作流",
+        "takeaway": "Hugging Face 展示 Microduck 避障的仿真到现实流程，用 Isaac Lab 和 Newton 打通训练与部署。",
+        "bullets": [
+          "Microduck 避障采用 Sim2Real 工作流",
+          "仿真训练基于 Isaac Lab 和 Newton",
+          "目标是将仿真策略迁移到真实机器人"
+        ],
+        "detail": "Hugging Face 发布 Microduck 避障项目，介绍如何用 Isaac Lab 和 Newton 构建从仿真到现实的工作流。内容聚焦于在仿真环境中训练避障策略，再迁移到真实机器人上执行。",
+        "generatedAt": "2026-11-25T02:58:48+08:00"
+      }
+    },
+    {
+      "id": "ef2ea07a8f962a95",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T02:02:59+08:00",
+      "fetchedAt": "2026-11-25T02:58:32+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says",
+        "warns"
+      ],
+      "confidence": 0.75,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英国警告：AI驱动网络攻击暴露多年安全短板",
+        "takeaway": "英国网络安全机构指出，AI黑客工具正利用基础安全漏洞，企业需重视安全根基建设。",
+        "bullets": [
+          "英国网络安全机构警告，AI驱动的网络攻击正暴露多年积累的安全弱点。",
+          "AI黑客工具主要利用简单安全漏洞发起攻击。",
+          "机构强调，构建强大安全基础比以往任何时候都更重要。"
+        ],
+        "detail": "英国网络安全机构表示，AI黑客工具依赖利用简单的安全漏洞，这暴露出多年来安全基础薄弱的问题。该机构强调，构建强大的安全基础比以往任何时候都更加重要。",
+        "generatedAt": "2026-11-25T02:58:49+08:00"
+      }
+    },
+    {
+      "id": "85ad47dc9b77c65c",
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming",
+      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T24:46:00+08:00",
+      "fetchedAt": "2026-11-25T02:58:32+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "ban"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Tidal将清理数百万AI生成曲目，打击AI垃圾内容",
+        "takeaway": "Tidal宣布禁止并下架完全由AI生成的音乐，但允许AI辅助创作，以应对流媒体平台上的AI垃圾内容泛滥。",
+        "bullets": [
+          "Tidal将禁止并移除数百万首完全由AI生成的曲目。",
+          "平台仍接受使用AI辅助制作的歌曲，但非完全生成。",
+          "此举旨在应对AI垃圾内容对音乐流媒体的冲击。"
+        ],
+        "detail": "Tidal表示，将禁止并下架数百万首完全由AI生成的音乐，以应对流媒体平台上泛滥的AI垃圾内容。不过，平台仍会接受那些在创作过程中使用AI辅助、而非完全由AI生成的歌曲。",
+        "generatedAt": "2026-11-25T02:58:50+08:00"
+      }
+    },
+    {
+      "id": "70f3d3a6344923f9",
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers",
+      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T24:10:00+08:00",
+      "fetchedAt": "2026-11-25T02:58:32+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "data centers"
+      ],
+      "confidence": 0.63,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Crusoe投资人押注太阳能与储能，为AI数据中心供电",
+        "takeaway": "下一代AI数据中心年耗电将达数十吉瓦，投资人认为太阳能加储能是必然选择。",
+        "bullets": [
+          "Crusoe的一位投资人公开看好太阳能与电池储能。",
+          "下一代AI数据中心每年需要数十吉瓦电力。",
+          "该投资人认为太阳能和储能是显而易见的方案。"
+        ],
+        "detail": "下一代AI数据中心每年耗电将达数十吉瓦。Crusoe的一位投资人认为，太阳能和储能电池是满足这一需求的明显选择，因此押注该方向。",
+        "generatedAt": "2026-11-25T02:58:50+08:00"
+      }
+    },
+    {
+      "id": "bbaf6332f2bfb4e9",
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see",
+      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T24:02:37+08:00",
+      "fetchedAt": "2026-11-25T02:58:32+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Pinterest 允许家长限制青少年看到的 AI 生成内容",
+        "takeaway": "Pinterest 推出家长控制功能，限制青少年信息流中的 AI 内容，与其他平台管控聊天机器人形成差异。",
+        "bullets": [
+          "Pinterest 新增家长控制，可限制青少年看到的 AI 生成内容。",
+          "与其他平台限制青少年使用 AI 聊天机器人不同，Pinterest 关注信息流中的 AI 内容。",
+          "该功能旨在回应家长对青少年接触 AI 内容的担忧。"
+        ],
+        "detail": "Pinterest 推出新功能，允许家长限制青少年账户信息流中出现的 AI 生成内容。其他社交平台主要限制青少年使用 AI 聊天机器人，而 Pinterest 则针对填充信息流的 AI 内容进行管控。",
+        "generatedAt": "2026-11-25T02:58:50+08:00"
+      }
+    },
+    {
+      "id": "428631f9a0709dac",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "url": "https://theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T02:15:00+08:00",
+      "fetchedAt": "2026-11-25T02:58:32+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "raised"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "大卫·芬奇新片被疑用AI，早期放映引争议",
+        "takeaway": "芬奇新片《Cliff Booth的进一步不幸遭遇》早期放映后，观众怀疑片中使用了生成式AI，引发讨论。",
+        "bullets": [
+          "影片是《好莱坞往事》续集，由布拉德·皮特主演。",
+          "早期放映后，观众质疑片中部分内容由AI生成。",
+          "争议围绕生成式AI在电影制作中的使用展开。"
+        ],
+        "detail": "大卫·芬奇的粉丝原本很期待《Cliff Booth的进一步不幸遭遇》这部《好莱坞往事》续集，但早期放映后，有人开始质疑影片是否使用了生成式AI。目前争议仍在发酵，具体使用情况尚不明确。",
+        "generatedAt": "2026-11-25T02:58:51+08:00"
+      }
+    },
+    {
+      "id": "f0a03c4829a12f95",
+      "title": "Tidal will start banning AI-generated music next month",
+      "url": "https://theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T01:17:09+08:00",
+      "fetchedAt": "2026-11-25T02:58:32+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Tidal下月起禁止AI生成音乐，将删除2900万首",
+        "takeaway": "流媒体平台Tidal首次大规模清理AI音乐，12月9日起删除约2900万首并每日拒收数万首。",
+        "bullets": [
+          "Tidal将于12月9日正式禁止AI生成音乐。",
+          "平台将删除约2900万首AI生成歌曲。",
+          "预计每天拒绝8万至8.5万首AI曲目。"
+        ],
+        "detail": "Tidal宣布从12月9日起禁止AI生成音乐，届时将删除约2900万首此类歌曲，并每天拒绝约8万至8.5万首AI曲目。这一举措由Tidal音乐负责人Robert透露，旨在清理平台内容。",
+        "generatedAt": "2026-11-25T02:58:52+08:00"
+      }
+    },
+    {
+      "id": "19f2f984a80db585",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Thread…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T24:09:23+08:00",
+      "fetchedAt": "2026-11-25T02:58:32+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "features",
+        "users",
+        "update"
+      ],
+      "confidence": 0.4,
+      "score": 40,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "002bc4ff2409ce70",
+      "title": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+      "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+      "summary": "Article URL: https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/ Comments URL: https://news.ycombinator.com/item?id=50631210 Points: 126 # Comments: 63",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T01:10:45+08:00",
+      "fetchedAt": "2026-11-25T02:58:32+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cb6f8525252b21b1",
+      "title": "FAA opens probe after Amazon delivery drone clips cable, crashes into garage",
+      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage",
+      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T02:47:57+08:00",
+      "fetchedAt": "2026-11-25T02:58:32+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "says"
+      ],
+      "confidence": 1,
+      "score": 39,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "fdd5f51e8fafafb3",
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9",
+      "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T01:34:34+08:00",
+      "fetchedAt": "2026-11-25T02:58:32+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "ban"
+      ],
+      "confidence": 0.5,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e213ef04a8703146",
+      "title": "Tidal bans AI-generated music",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 274 # Comments: 230",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T24:12:38+08:00",
+      "fetchedAt": "2026-11-25T02:58:32+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
