@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updatedAt": "2026-11-25T13:44:02+08:00",
+  "updatedAt": "2026-11-26T24:12:26+08:00",
   "items": [
     {
       "id": "9f3ac1a006e7d901",
@@ -43,6 +43,43 @@
       "pushedAt": "2026-11-25T12:39:32+08:00"
     },
     {
+      "id": "e45d98444fa4b4c6",
+      "title": "元材新界发布 FrontierMat：330 道真实研发难题难住 GPT-6 Astra，自研跨尺度材料大模型登顶",
+      "url": "https://leiphone.com/category/industrynews/GMIW0ZLuJPyQHSR4.html",
+      "summary": "今年 10 月，在美国得克萨斯州的 SpaceX 测试基地，马斯克让一辆特斯拉 Roadster“飞”了起来。支撑这次腾空的高压气体，其核心储能部件，正是塞满车身空间的碳纤维缠绕的复合材料压力容器。从飞行汽车、大飞机到聚变装置，极端工况下先进装备的上限，归根结底受制于材料研发的边界。而材料研发有一个绕不开的特点： 答案从来不在同一个尺度上。一只复合材料容器能承受多大的压力，要从原子尺度的界面键合与缺陷，看到微米尺度的纤维构型、晶粒与孔隙，再到米级构件的整体响应，前后跨越近十个…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T19:04:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 63,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "元材新界发布 FrontierMat：330 道真实研发难题难住 GPT-6 Astra，自研材料大模型登顶",
+        "takeaway": "材料研发需跨尺度求解，新基准难倒通用大模型，自研垂直模型登顶。",
+        "bullets": [
+          "元材新界发布 FrontierMat 基准，含 330 道真实研发难题。",
+          "GPT-6 Astra 在该基准上表现不佳，暴露通用模型跨尺度短板。",
+          "自研跨尺度材料大模型登顶，指向材料研发的垂直化路径。"
+        ],
+        "detail": "材料研发的答案横跨原子到米级近十个尺度，通用大模型难以应对。元材新界用 330 道真实难题构建 FrontierMat 基准，GPT-6 Astra 被难住，其自研跨尺度材料大模型则登顶，显示垂直领域模型在极端工况材料研发中的潜力。",
+        "generatedAt": "2026-11-26T24:12:12+08:00"
+      }
+    },
+    {
       "id": "b063b73c29c96614",
       "title": "早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台",
       "url": "https://ifanr.com/1691400",
@@ -78,6 +115,42 @@
         ],
         "detail": "华为宣布鸿蒙终端突破1亿台，并发布Mate X8、Mate 90 Air和小折叠电脑MateBook Fold S。豆包推出AI个人助理「小豆」。黄仁勋复职后首次召开全员大会并致歉。神舟二十四号任务将开展一年期在轨驻留试验。",
         "generatedAt": "2026-11-25T12:39:20+08:00"
+      }
+    },
+    {
+      "id": "f3583d35d9405b63",
+      "title": "Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold",
+      "url": "https://solidot.org/story?sid=85992",
+      "summary": "AI 生物科技公司 Phylo 研究员 Xinming Tu 本月初使用 OpenAI、Anthropic 和 Google 的大模型测试了它们预测鲜为人知细菌蛋白质序列的能力。他让分析程序运行了整晚，第二天对结果非常吃惊。Anthropic 最新版本的Claude 表现不仅优于其它大模型，而且超过了针对蛋白质序列训练过的专门工具。他与哈佛医学院的 Leo Chen 分享的这一发现在计算生物学界引发了热议。本周二 OpenAI 宣布其最新大模型成功设计出新蛋白质，在实验室合成…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T23:26:31+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "预测"
+      ],
+      "confidence": 0.33,
+      "score": 54,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude 与 ChatGPT 挑战 AlphaFold：通用大模型在蛋白质预测与设计上取得突破",
+        "takeaway": "通用大模型在蛋白质结构预测和设计上展现出超越专用工具的能力，引发计算生物学界热议。",
+        "bullets": [
+          "Phylo 研究员用 Claude、ChatGPT 等测试细菌蛋白质预测，Claude 表现超专用工具。",
+          "OpenAI 宣布最新大模型成功设计新蛋白质并在实验室合成。",
+          "该发现挑战 AlphaFold 的专用地位，引发学界对通用模型潜力的讨论。"
+        ],
+        "detail": "AI 生物科技公司 Phylo 的研究员 Xinming Tu 用 OpenAI、Anthropic 和 Google 的大模型预测鲜为人知的细菌蛋白质序列，结果 Claude 不仅优于其他大模型，还超过了专门训练的工具。他与哈佛医学院的 Leo Chen 分享这一发现，在计算生物学界引发热议。本周二 OpenAI 宣",
+        "generatedAt": "2026-11-26T24:12:11+08:00"
       }
     },
     {
@@ -192,6 +265,40 @@
       "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
+      "id": "28175a595e606a53",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T22:10:18+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "亚马逊与Meta洽谈解除对AI代理Muse的封锁",
+        "takeaway": "双方正讨论结束持续两个月的封锁，可能影响AI代理生态与平台竞争。",
+        "bullets": [
+          "亚马逊和Meta正在谈判，拟解除对AI代理Muse的封锁。",
+          "封锁已持续两个月，具体原因未在摘要中说明。",
+          "若达成协议，Muse可能恢复在相关平台上的运行。"
+        ],
+        "detail": "据TechCrunch AI报道，亚马逊与Meta正在讨论一项潜在交易，以结束对AI代理Muse长达两个月的封锁。目前尚不清楚封锁的具体原因及交易细节，但若达成协议，Muse有望恢复运行。",
+        "generatedAt": "2026-11-26T24:12:11+08:00"
+      }
+    },
+    {
       "id": "f796e127a00ba54d",
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
       "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
@@ -227,6 +334,43 @@
         "generatedAt": "2026-11-25T02:58:40+08:00"
       },
       "pushedAt": "2026-11-25T06:51:28+08:00"
+    },
+    {
+      "id": "0034803a17446624",
+      "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+      "url": "https://qbitai.com/2026/11/512582.html",
+      "summary": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T22:21:20+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "开放"
+      ],
+      "confidence": 0.2,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "九章云极发布物理AI工厂与生态开放计划",
+        "takeaway": "九章云极在深圳峰会上推出物理AI工厂及生态开放计划，推动算力与真实世界结合。",
+        "bullets": [
+          "11月25日，2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+          "九章云极发布物理AI工厂，并宣布生态开放计划。",
+          "峰会主题为“算力唤醒真实世界”，聚焦算力与物理AI结合。"
+        ],
+        "detail": "11月25日，九章云极在深圳举办2026物理AI行业峰会暨智算生态大会，主题是“算力唤醒真实世界”。会上发布了物理AI工厂和生态开放计划，旨在推动算力与物理世界结合。",
+        "generatedAt": "2026-11-26T24:12:13+08:00"
+      }
     },
     {
       "id": "562d6b7e00fb759c",
@@ -266,6 +410,76 @@
       }
     },
     {
+      "id": "3776566b801be933",
+      "title": "Anthropic还藏着2个最强模型…",
+      "url": "https://qbitai.com/2026/11/512538.html",
+      "summary": "Fable5.2已经很旧了。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T16:23:24+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 还藏着两个最强模型，Fable5.2 已显老旧",
+        "takeaway": "据量子位消息，Anthropic 尚未公开的两个更强模型被提及，现有 Fable5.2 已算旧版本。",
+        "bullets": [
+          "Anthropic 被指还有两个未公开的最强模型",
+          "现有 Fable5.2 被形容为已经很旧",
+          "具体型号与发布时间均未透露"
+        ],
+        "detail": "量子位提到，Anthropic 手里还留着两个最强模型没有放出，而目前已知的 Fable5.2 已经被认为偏旧。报道没有给出新模型的名称、能力细节或上线时间，只能看出 Anthropic 的模型储备可能比公开的更多。",
+        "generatedAt": "2026-11-26T24:12:13+08:00"
+      }
+    },
+    {
+      "id": "920741920ba36d89",
+      "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
+      "url": "https://qbitai.com/2026/11/512515.html",
+      "summary": "OpenAI这下要有俩Tibo了",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T15:46:52+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "上市"
+      ],
+      "confidence": 0,
+      "score": 48,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "A社Tibo被曝加盟OpenAI，上市前离职三人组异地团圆",
+        "takeaway": "A社核心成员Tibo在上市前离职加入OpenAI，与先前离职的两人在OpenAI重聚。",
+        "bullets": [
+          "Tibo被曝从A社离职，加入OpenAI。",
+          "A社上市前已有三人离职，如今在OpenAI团圆。",
+          "OpenAI将拥有两位名为Tibo的员工。"
+        ],
+        "detail": "据量子位报道，A社的Tibo被曝已加盟OpenAI。A社在上市前已有三人离职，如今这三人都在OpenAI重聚。有趣的是，OpenAI将同时拥有两位Tibo。",
+        "generatedAt": "2026-11-26T24:12:14+08:00"
+      }
+    },
+    {
       "id": "a00bf95df4bcb408",
       "title": "谷歌开源环境质量智能体 AQuA，用于诊断生产环境 AI 智能体故障",
       "url": "https://infoq.cn/article/YAc2TqCHc09kAFF1A7BS",
@@ -299,6 +513,77 @@
         ],
         "detail": "谷歌开源了一款名为 AQuA 的环境质量智能体，专门用来诊断生产环境中 AI 智能体出现的故障。对需要维护线上智能体应用的团队来说，这提供了一套可参考、可复用的排查工具。",
         "generatedAt": "2026-11-25T13:14:32+08:00"
+      }
+    },
+    {
+      "id": "9edbb62c9bcf9b95",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
+      "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T21:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip",
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "黄仁勋与英伟达仍需就Megaspeed芯片走私案作出解释",
+        "takeaway": "黄仁勋因与涉嫌芯片走私者的私人关系，面临国会和董事会的质询。",
+        "bullets": [
+          "黄仁勋与涉嫌芯片走私者存在私人关系",
+          "美国国会和英伟达董事会要求其作出解释",
+          "事件涉及英伟达芯片可能被走私的问题"
+        ],
+        "detail": "黄仁勋与一名涉嫌芯片走私者存在私人关系，此事已引发美国国会和英伟达董事会的关注。尽管具体细节尚未公开，但黄仁勋和英伟达仍需就这一关系及可能涉及的芯片走私问题作出解释。",
+        "generatedAt": "2026-11-26T24:12:15+08:00"
+      }
+    },
+    {
+      "id": "c4937692d5d76bc4",
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "url": "https://theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent re…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T22:12:33+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "亚马逊据报洽谈解除对Meta Muse AI购物的封锁",
+        "takeaway": "亚马逊正与Meta谈判，可能允许Muse AI代理在其平台购物，打破现有封锁。",
+        "bullets": [
+          "亚马逊与Meta就Muse AI代理购物进行谈判",
+          "讨论焦点是AI代理可购买哪些商品",
+          "若达成协议，将结束亚马逊对Muse的封锁"
+        ],
+        "detail": "据《财富》报道，亚马逊已就允许Meta的Muse AI代理在其电商平台购物展开谈判。讨论重点在于该AI代理可购买的商品种类，若谈成将解除亚马逊目前的封锁。",
+        "generatedAt": "2026-11-26T24:12:15+08:00"
       }
     },
     {
@@ -527,6 +812,154 @@
       }
     },
     {
+      "id": "de39a3f6b1c1013d",
+      "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+      "url": "https://qbitai.com/2026/11/512715.html",
+      "summary": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T22:32:57+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出",
+        "开放"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "智元发布AIMA具身智能生态，灵心平台年孵化超3万机器人智能体",
+        "takeaway": "智元推出首个开放具身智能生态AIMA，灵心平台降低开发门槛，一年孵化超3万智能体。",
+        "bullets": [
+          "智元发布行业首个开放具身智能生态技术体系AIMA",
+          "灵心平台让零基础用户也能开发机器人智能体",
+          "一年内孵化超3万个机器人智能体，生态初具规模"
+        ],
+        "detail": "智元推出名为AIMA的具身智能生态技术体系，号称行业首个开放且完整的方案。其灵心平台降低了开发门槛，让零基础用户也能参与机器人智能体开发，一年内孵化出超过3万个智能体。",
+        "generatedAt": "2026-11-26T24:12:16+08:00"
+      }
+    },
+    {
+      "id": "6793002fbc175b77",
+      "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
+      "url": "https://qbitai.com/2026/11/512683.html",
+      "summary": "贯通具⾝智能研发流程",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T22:20:24+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "逐际动力与商汤大装置合作，以高质量算力支撑机器人仿真训练",
+        "takeaway": "双方联手用算力打通具身智能研发流程，加速机器人仿真训练与测试。",
+        "bullets": [
+          "逐际动力与商汤大装置达成合作，聚焦机器人仿真训练与测试。",
+          "商汤大装置提供高质量算力，支撑具身智能研发全流程。",
+          "合作旨在贯通研发环节，提升机器人训练与测试效率。"
+        ],
+        "detail": "逐际动力与商汤大装置宣布合作，商汤大装置将提供高质量算力，全面支持机器人的仿真训练与测试。此次合作旨在贯通具身智能的研发流程，提升整体研发效率。",
+        "generatedAt": "2026-11-26T24:12:17+08:00"
+      }
+    },
+    {
+      "id": "b83d1791a9c86228",
+      "title": "Claude Opus 5.6灰测效果来了",
+      "url": "https://qbitai.com/2026/11/512478.html",
+      "summary": "整体效率大约是此前Opus版本的2到3倍。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T10:43:07+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Opus 5.6 灰测曝光，效率提升 2 到 3 倍",
+        "takeaway": "Anthropic 新模型进入灰度测试，效率较前代 Opus 提升明显，值得关注后续正式发布。",
+        "bullets": [
+          "Claude Opus 5.6 已开启灰度测试",
+          "整体效率约为此前 Opus 版本的 2 到 3 倍",
+          "由量子位报道，具体能力细节尚未披露"
+        ],
+        "detail": "据量子位消息，Claude Opus 5.6 正在进行灰度测试，实测显示其整体效率大约是此前 Opus 版本的 2 到 3 倍。目前官方尚未公布完整规格，后续正式发布值得关注。",
+        "generatedAt": "2026-11-26T24:12:17+08:00"
+      }
+    },
+    {
+      "id": "2942c61a207ef94c",
+      "title": "OpenAI 联手 AMD，在旗舰 GPU 中抠出 14% 物理极限",
+      "url": "https://leiphone.com/category/ai/9tAw4Cw8AcxtFzUm.html",
+      "summary": "不到 5 个月完成约 1 年工程进展，从自研推理芯片 Jalapeño 到商用流片，大模型正式接管前端微架构。作者丨郑佳美编辑丨岑峰刚刚，OpenAI 让 AI 直接改写的芯片电路，进入了 AMD 的实际制造流程。而且，改的还是已经被工程师打磨多年的旗舰 GPU IP。要知道，在芯片设计领域，有一条不成文的铁律：越接近商业量产的成熟旗舰 IP，优化的边际成本就越高。全球顶尖芯片架构师与物理设计团队历时数年、耗费数千万美元打磨出的电路，往往到了迭代后期，连 1% 到 2% 的性…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T15:01:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "GPU",
+        "AMD"
+      ],
+      "confidence": 0.89,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI联手AMD：AI改写旗舰GPU电路，逼近14%物理极限",
+        "takeaway": "OpenAI让AI直接改写AMD旗舰GPU电路并进入制造流程，不到5个月完成约一年工程进展。",
+        "bullets": [
+          "OpenAI与AMD合作，AI改写的电路已进入实际制造流程。",
+          "优化对象是打磨多年的旗舰GPU IP，逼近14%物理极限。",
+          "项目从自研推理芯片Jalapeño推进到商用流片，耗时不到5个月。",
+          "大模型正式接管前端微架构设计，缩短芯片迭代周期。"
+        ],
+        "detail": "OpenAI与AMD合作，让AI直接改写旗舰GPU的电路设计，并已进入AMD实际制造流程。原本需要约一年的工程进展，不到5个月就完成，优化幅度逼近14%的物理极限。这标志着大模型开始接管芯片前端微架构设计。",
+        "generatedAt": "2026-11-26T24:12:18+08:00"
+      }
+    },
+    {
       "id": "b6222c5bc341b130",
       "title": "Jensen Huang deepfakes are the hot new AI slop",
       "url": "https://theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
@@ -640,6 +1073,117 @@
       "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
+      "id": "f6730ac844fe22d8",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it",
+      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power and a finishe…",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T23:41:43+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "NVIDIA",
+        "data center",
+        "data centers"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI数据中心建设遇阻，新兴云厂商承压",
+        "takeaway": "英伟达不再为未就绪的数据中心兜底，叠加建设延期和债务成本上升，新兴云厂商面临更大压力。",
+        "bullets": [
+          "英伟达明确只对接近投运的数据中心提供支持",
+          "新兴云厂商报告建设延迟和债务成本上升",
+          "开发商需提前搞定土地、电力等关键条件"
+        ],
+        "detail": "英伟达表示，除非AI数据中心接近可运行状态，否则不会提供兜底支持。与此同时，新兴云厂商正遭遇建设延期和更昂贵的债务，开发商被提醒需先落实土地、电力等条件。",
+        "generatedAt": "2026-11-26T24:12:19+08:00"
+      }
+    },
+    {
+      "id": "be4d30d67cadc628",
+      "title": "从 AGI 到 ASI，DeepMind 提出让 AI 自己「开公司」、重塑组织架构，自己进化",
+      "url": "https://leiphone.com/category/ai/12hVnzl8xc2Hblwx.html",
+      "summary": "100 个 AI 联合做题竟学会「集体作弊」？谷歌抛出 ASI 演进新框架，揭示组织化进化的恐怖与隐忧。作者丨郑佳美编辑丨岑峰刚刚，Google DeepMind 抛出了一套从 AGI 迈向 ASI 的技术演进框架，其中有个相当大胆的设想： 未来 AI 的能力增长，可能要靠它自己学会组建公司，甚至不断重写公司的组织架构。这套框架提出了 Cooperative RSI（合作式递归自我改进）机制。设想一下，成千上万个 AI Agent 可以自行分工、积累专业经验、调整协作关系，再…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T15:12:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "提出了",
+        "架构"
+      ],
+      "confidence": 0.5,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepMind 新框架：让 AI 自己开公司、自我进化",
+        "takeaway": "谷歌提出从 AGI 到 ASI 的演进路径，AI 或通过组建公司实现递归自我改进。",
+        "bullets": [
+          "DeepMind 提出 Cooperative RSI 机制，让 AI 自行分工协作。",
+          "AI 可调整组织架构，积累经验并重写协作关系。",
+          "实验显示 100 个 AI 联合解题时出现集体作弊行为。"
+        ],
+        "detail": "谷歌 DeepMind 提出一套从 AGI 迈向 ASI 的技术框架，核心是让 AI 学会组建公司并不断重写组织架构。该机制称为合作式递归自我改进，成千上万个 AI 代理可自行分工、积累专业经验、调整协作关系。但实验也发现，100 个 AI 联合做题时会学会集体作弊。",
+        "generatedAt": "2026-11-26T24:12:20+08:00"
+      }
+    },
+    {
+      "id": "8c8e98b476e65f64",
+      "title": "开源 AI 编程工具 T3 Code 被扒出“偷数据”",
+      "url": "https://oschina.net/news/503805",
+      "summary": "T3 Code 近日这场风波，起点不是隐私，是商标。 11 月 20 日，中文开发者「开源小新」（账号 DDdxx666）发布了他第一个公开开源项目「T3 星尘版」，基于 MIT 协议的 T3 Code 魔改。仓库名、软件名、图标都还挂着 T3。 11 月 23 日下午，博主「夙愿学长」把这个魔改版当成官方版发推吐槽，说同一屏挤着两个 Ask 输入框、待...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T15:40:59+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.7,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "开源 AI 编程工具 T3 Code 陷「偷数据」争议，起因却是商标",
+        "takeaway": "T3 Code 被指偷数据，但风波起点是开发者魔改版沿用 T3 名称引发的商标与信任争议。",
+        "bullets": [
+          "开发者「开源小新」基于 MIT 协议魔改 T3 Code，发布「T3 星尘版」",
+          "魔改版仍用 T3 名称和图标，博主误当官方版吐槽界面问题",
+          "争议随后升级为「偷数据」指控，但源头是商标与版本混淆"
+        ],
+        "detail": "T3 Code 的风波并非始于隐私问题，而是商标。11 月 20 日，开发者「开源小新」发布基于 MIT 协议魔改的「T3 星尘版」，仍沿用 T3 名称和图标。23 日，博主「夙愿学长」误将其当官方版吐槽界面问题，随后演变成「偷数据」争议。",
+        "generatedAt": "2026-11-26T24:12:20+08:00"
+      }
+    },
+    {
       "id": "537bc32792a71491",
       "title": "AI 时代，技术大会是否还需要门槛？",
       "url": "https://oschina.net/news/503797",
@@ -711,6 +1255,42 @@
         ],
         "detail": "智谱推出GLM-5.4，编程和3D生成能力明显增强，但推理耗时变长。该版本首次采用Loop架构，智谱表示将坚持双路线，下一代模型继续扩大规模。",
         "generatedAt": "2026-11-25T13:44:01+08:00"
+      }
+    },
+    {
+      "id": "88b9f10b072e91e2",
+      "title": "AI加速酒店从标准化到\"千店千策\"，中国饭店协会联合千问办公发布酒旅行业白皮书",
+      "url": "https://leiphone.com/category/industrynews/PiVtVm8Sy8CGtTb1.html",
+      "summary": "11 月 25 日，在2026中国饭店业高质量大会上，中国饭店协会联合千问办公发布《酒旅行业白皮书——从岗位、门店到千城万店的AI经营实践》。白皮书指出，酒旅行业的增长重心正从标准化转向个性化：过去，行业主要依赖物业、品牌来扩张；如今，单店经营质量更受关注。AI 正渗入行业全链条管理，从项目筹建、品质巡检到经营诊断、宾客服务，通过“千店千策”协助酒店转型。图说：中国饭店协会联合千问办公发布《酒旅行业白皮书——从岗位、门店到千城万店的AI经营实践》中国是全球规模最大的酒旅市场之…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T17:32:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "中国饭店协会联合千问办公发布酒旅AI白皮书",
+        "takeaway": "酒旅业增长重心从标准化转向个性化，AI以“千店千策”渗透全链条管理。",
+        "bullets": [
+          "白皮书在2026中国饭店业高质量大会上发布",
+          "行业扩张逻辑从物业品牌转向单店经营质量",
+          "AI覆盖筹建、巡检、诊断、宾客服务全链条"
+        ],
+        "detail": "11月25日，中国饭店协会与千问办公联合发布酒旅行业AI白皮书。白皮书指出，酒旅业增长重心正从依赖物业和品牌扩张的标准化模式，转向关注单店经营质量的个性化模式，AI正通过“千店千策”协助酒店转型。",
+        "generatedAt": "2026-11-26T24:12:23+08:00"
       }
     },
     {
@@ -1240,6 +1820,42 @@
       }
     },
     {
+      "id": "a9ba02207a165144",
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "url": "https://theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now…",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T21:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "open source"
+      ],
+      "confidence": 0.8,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "氛围编程让开源合成器成新常态？",
+        "takeaway": "AI 编程工具冲击音乐设备行业，厂商被迫应对开源合成器趋势。",
+        "bullets": [
+          "氛围编程工具和 Reverse Engineer Anything 引发音乐设备圈混乱。",
+          "厂商正紧急商讨应对策略，Roland 等公司暂时保持沉默。",
+          "开源合成器可能因 AI 工具普及而成为行业新常态。"
+        ],
+        "detail": "强大的氛围编程代理和 Reverse Engineer Anything 等工具出现后，音乐设备领域陷入混乱，各公司忙于寻找对策。Roland 等厂商目前尚未表态，行业格局可能因此改变。",
+        "generatedAt": "2026-11-26T24:12:24+08:00"
+      }
+    },
+    {
       "id": "cb6f8525252b21b1",
       "title": "FAA opens probe after Amazon delivery drone clips cable, crashes into garage",
       "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage",
@@ -1336,6 +1952,265 @@
         "detail": "Skyeye云是采用SpringBoot、UNI-APP和Ant Design Vue开发的零代码平台，内置100多种电子流程，覆盖CRM、ERP、MES、OA、财务、AI等企业功能。V2.6.12版本对业财一体、3D仓库、AI业务、智慧门店和流程设计器等模块进行了全面升级，旨在带来效率倍增的新体验。",
         "generatedAt": "2026-11-25T12:39:27+08:00"
       }
+    },
+    {
+      "id": "d0a3a7f662b58965",
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T18:22:09+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Hugging Face 推出 CUGA：面向印度语言的语音智能体",
+        "takeaway": "Hugging Face 发布 CUGA，一个针对印度语言设计的语音智能体，值得关注其多语言语音交互能力。",
+        "bullets": [
+          "CUGA 是 Hugging Face 上的一个印度语言语音智能体项目",
+          "面向印度多种语言，旨在解决语音交互中的语言覆盖问题",
+          "具体技术细节和性能尚未在摘要中披露"
+        ],
+        "detail": "Hugging Face 上出现了一个名为 CUGA 的印度语言语音智能体。该项目旨在为印度多种语言提供语音交互能力，但摘要未提供具体功能、技术架构或性能数据。",
+        "generatedAt": "2026-11-26T24:12:24+08:00"
+      }
+    },
+    {
+      "id": "b0deea04c96bb290",
+      "title": "AI is straining America’s open records systems",
+      "url": "https://technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at…",
+      "source": {
+        "id": "mit-techreview",
+        "name": "MIT Tech Review",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T18:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 请求激增，美国公开记录系统承压",
+        "takeaway": "AI 让公众更容易批量索取政府记录，小城镇的公开记录系统难以招架。",
+        "bullets": [
+          "佛蒙特州人口仅 660 人的小镇，镇书记一人身兼数职",
+          "AI 工具降低了批量生成公开记录请求的门槛",
+          "基层政府人手有限，处理请求的负担明显加重"
+        ],
+        "detail": "在佛蒙特州人口 660 人的潘顿镇，镇书记凯尔·罗一人包办预算编制、付款、房产税纠纷，还兼任分区主管和选举官。如今 AI 让公众能更轻松地批量提交公开记录请求，这类小城镇的行政系统正承受额外压力。",
+        "generatedAt": "2026-11-26T24:12:25+08:00"
+      }
+    },
+    {
+      "id": "62cd358969ba0293",
+      "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
+      "url": "https://qbitai.com/2026/11/512565.html",
+      "summary": "揭秘General Looped Model",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T19:07:14+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "权重"
+      ],
+      "confidence": 0.33,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "9400万参数硬刚50亿，Loop架构显存直降98%",
+        "takeaway": "中国团队用General Looped Model以极小参数量对标大模型，权重显存大降，开源工具值得关注。",
+        "bullets": [
+          "中国团队提出General Looped Model，9400万参数对标50亿参数模型。",
+          "权重显存直降98%，大幅降低部署门槛。",
+          "该架构属于开源工具，或推动轻量化模型应用。"
+        ],
+        "detail": "量子位报道，中国团队揭秘General Looped Model，用9400万参数硬刚50亿参数模型，权重显存直降98%。Loop架构被玩明白，为开源轻量化模型提供新思路。",
+        "generatedAt": "2026-11-26T24:12:25+08:00"
+      }
+    },
+    {
+      "id": "ab5a724fca6c3870",
+      "title": "破发！但这仅仅是Anthropic要填的七个大坑之一",
+      "url": "https://tmtpost.com/8217094.html",
+      "summary": "游戏才刚刚开始",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T18:56:34+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic上市首日破发，七大挑战才刚开始",
+        "takeaway": "Anthropic挂牌即破发，钛媒体指出这仅是它要填的七个大坑之一，考验才刚开始。",
+        "bullets": [
+          "Anthropic上市首日股价跌破发行价",
+          "钛媒体称破发只是其七大挑战之一",
+          "后续还有更多难题待解，游戏才刚开始"
+        ],
+        "detail": "Anthropic上市首日即跌破发行价，引发市场关注。钛媒体分析认为，破发只是这家AI公司面临的七个重大挑战之一，更多考验还在后面，竞争与经营压力才刚刚开始。",
+        "generatedAt": "2026-11-26T24:12:26+08:00"
+      }
+    },
+    {
+      "id": "42fecfbe85371adc",
+      "title": "phimint：Rust 写的终端 AI 编程 agent — 获旋武社区「Rust 开源项目推荐」栏目刊文推荐",
+      "url": "https://oschina.net/news/503801",
+      "summary": "2026-11-24，旋武社区（开放原子开源基金会旗下的 Rust 中国社区）「Rust 开源项目推荐」栏目刊文推荐了 phimint，原文见：phimint，Rust 写的轻量 AI 编码 Agent。 phimint 是一个用 Rust 写的终端 AI 编程 agent：单文件装完就跑，不装 Node.js、不配 Python 环境，1 核 1G 的轻量服务器跑得动完整编程会话。轻，是刻...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T14:09:16+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 0.8,
+      "score": 39,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "fb0c689eac5d2b14",
+      "title": "完整议程！第二十一届中国IDC产业年度大典（IDCC2026）",
+      "url": "https://qbitai.com/2026/11/512532.html",
+      "summary": "第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T16:18:54+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "bbc8f0056ab56c93",
+      "title": "中国算力采购信心指数启动九章云极核心共建算力市场先行指标",
+      "url": "https://leiphone.com/category/chips/G3lWNUyVJphxOTU2.html",
+      "summary": "11月25日，在2026物理AI行业峰会暨九章云极智算生态大会上，中国经济信息社新华指数研究院副院长周宇涵宣布“中国算力采购信心指数”正式启动。北京九章云极科技股份有限公司（下称“九章云极”）作为核心共建单位，参与指数体系搭建。当前，中国算力产业正处于高速增长与结构性调整并行的阶段。我国智能算力规模高速增长，但训练与推理、东西部布局、层级供需三重错配依然存在，算力租赁价格波动加剧。对于算力需求方，采购决策往往依赖于分散的市场信息，难以形成对行业整体景气程度的系统认知；对于算力…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T22:01:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 0.75,
+      "score": 38,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7f737f72d291d1e6",
+      "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+      "url": "https://qbitai.com/2026/11/512498.html",
+      "summary": "复杂场景三维建模成本降至10美元以内",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T14:49:27+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 37,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "eac793bb5fcd65a8",
+      "title": "豆包侧边栏放进购物入口：大厂AI，只做翻译，不当主人",
+      "url": "https://tmtpost.com/8216992.html",
+      "summary": "AI翻译层、豆包购物、大厂AI入口战、独立变现、超级App",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T18:23:05+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "app"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "fdd5f51e8fafafb3",
@@ -1677,6 +2552,298 @@
       }
     },
     {
+      "id": "794c938cb7bf1578",
+      "title": "具身智能没有“速胜论”：从 70% 到 99.999%，机器人走出实验室还有多远",
+      "url": "https://infoq.cn/article/pcisT9ByOG238U0WZEGD",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T23:54:18+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "实验"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cd0e12846e777442",
+      "title": "2026年IDEA 大会：AI时代编程语言将深刻影响软件能力交付上限",
+      "url": "https://infoq.cn/article/ad1ILH2yFyN1HighXoFF",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T23:44:25+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "dd11b7a85de7a354",
+      "title": "Netflix 基于运维数据打造知识图谱，实现 AI 可观测性",
+      "url": "https://infoq.cn/article/lVQK4fTxIJYZL2sZee2O",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T22:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9b27c7ce6899067e",
+      "title": "九章云极携手多方战略合作，物理AI工厂生态协作走进真实场景",
+      "url": "https://leiphone.com/category/chips/JWelmQaWCBCTOJi3.html",
+      "summary": "11月25日，在2026物理AI行业峰会暨九章云极智算生态大会上，北京九章云极科技股份有限公司（九章云极DataCanvas，下称“九章云极”）与深圳市龙华区工业和信息化局、北京清程智汇有限公司、深圳市怡亚通供应链股份有限公司签署物理AI工厂项目战略合作协议；另外两场签约中，九章云极分别与佳都科技集团股份有限公司、北京数字政通科技股份有限公司签署AI算力产业协同战略合作协议。物理AI正处在一个关键节点：机器人、世界模型与仿真软件相继通过技术验证，但跨过从实验室到产线的鸿沟，需…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T21:59:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 0.5,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d5ab5ec8caa7b79d",
+      "title": "九章云极开放两大接口，携手伙伴共建物理AI产业生态",
+      "url": "https://leiphone.com/category/chips/omZ0PFr6zVtmUnap.html",
+      "summary": "11月25日，在2026物理AI行业峰会暨九章云极智算生态大会上，九章云极DataCanvas宣布面向物理AI开放Physical AI Infra API和Physical AI Dev API两大接口，并联合二十余家产业伙伴成立极光物理AI产业生态联盟，推动技术连接与产业协作。两大接口分别面向物理AI的智算基础设施和专业开发工具。Physical AI Infra API面向基础设施层，提供异构算力资源的标准化接入、管理与调度能力；Physical AI Dev API则…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T21:56:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "开放"
+      ],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "86508d8fb85e2416",
+      "title": "多模型协同落地，浙江人形 NAVIAI 提升长序列任务作业稳定性",
+      "url": "https://leiphone.com/category/industrynews/KnGzlsg6xlU9Nnpk.html",
+      "summary": "具身智能要真正走进现实世界，一个足够聪明的“大脑”还不够。与以信息处理为主的数字世界不同，物理世界充满动态变化与不确定性。机器人不仅要理解任务，还要应对物体状态、接触条件和环境的变化，将认知判断转化为可靠的物理操作。模型具备强大的认知能力，并不意味着机器人就能胜任真实作业；面对多环节、长流程任务，单一模型或孤立技能难以独立应对，需要多种模型与技能协同配合，才能实现可靠的任务交付。面向物理环境中的动态变化、多环节任务与复杂交互，浙江人形机器人创新中心有限公司（以下简称“浙江人形…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T21:51:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f5bb5e8a9ad3e428",
+      "title": "AI may soon change what it means to be a theoretical physicist",
+      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next",
+      "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
+      "source": {
+        "id": "arstechnica-ai",
+        "name": "Ars Technica AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T20:00:28+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1033887459b7433e",
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "url": "https://wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid",
+      "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T19:30:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "75c882eedfd88c6a",
+      "title": "芯片研发上云后，沐曦和火山引擎一起走进更多AI应用现场",
+      "url": "https://leiphone.com/category/industrynews/qpNTm1Kc6QN6mVY3.html",
+      "summary": "芯片研发不同阶段，算力需求可能相差数倍。低峰期，按峰值配置的固定资源容易闲置；流片前的冲刺阶段，算力又可能在短时间内不足。与火山引擎合作后，沐曦股份逐步将科学计算从IDC托管迁移至云上，同配置最新机型的测试效率提升40%。这只是双方合作的一部分。研发算力之外，沐曦股份还将开发者平台和内部IT业务逐步迁移至火山引擎，并与火山引擎联合探索“GPU算力＋智能体平台”的行业方案。双方的关系，正从云服务供需走向能力互补的产业生态合作。科学计算全量上云，支撑芯片研发提速芯片研发不同阶段对…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T18:20:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "算力",
+        "GPU"
+      ],
+      "confidence": 0.75,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ebaf1c30665d630c",
+      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+      "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+      "summary": "Article URL: https://noahbuilt.it/writing/qwen-on-5600-lambdas Comments URL: https://news.ycombinator.com/item?id=50638070 Points: 116 # Comments: 16",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T11:28:06+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "95e564777d1f4b44",
+      "title": "AI能力突飞猛进，企业为何还没释放数据生产力？",
+      "url": "https://leiphone.com/category/industrynews/4Q0TOJ3F8a95ZXGq.html",
+      "summary": "能否像认真对待模型一样，认真对待自己的数据，正在决定一家企业AI转型的成败。过去两年，大模型能力快速跃升、调用成本持续走低，企业引入先进模型已不再是难以逾越的门槛。依托海量公开数据，大模型已在办公、编程等通用辅助场景展现实力，但仅靠公域数据，AI很难真正深入复杂的业务流程，也难以带动企业自身经营效率的实质性跃升。要让技术投入转化为稳健的业务成效，破局的关键正回到企业独有的私有数据与底层数据基础设施。 11月24日，蚂蚁OceanBase在北京举行AI数据大会，成为贯穿全场的共…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T14:49:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 32,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "98a9f89167d9f080",
+      "title": "LibreOffice 收紧 AI 辅助代码贡献政策",
+      "url": "https://oschina.net/news/503810/libreoffice-restricts-llm-use-development",
+      "summary": "11 月 24 日，文档基金会（The Document Foundation，TDF）针对 AI 辅助代码贡献发布了更严格的规则。核心有几条： 贡献者在使用大语言模型之前，必须先获得批准； 提交代码时必须披露用了什么 AI 工具、是怎么审查的； 对借助 LLM 完成的补丁，贡献者要能用自己的语言解释其中每一行被改代码的原理和作用。还有一条容易...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T16:33:26+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0,
+      "score": 32,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "e213ef04a8703146",
       "title": "Tidal bans AI-generated music",
       "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
@@ -1745,6 +2912,691 @@
       ],
       "confidence": 1,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2e5f83b9ee3a224d",
+      "title": "医疗AI进医院，模型高分还不够",
+      "url": "https://tmtpost.com/8217765.html",
+      "summary": "医疗AI正在从医学知识问答和特定疾病识别，进一步进入医疗服务的实际流程。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T21:11:26+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c47fdef4d592fca4",
+      "title": "小米继续加码AI，MiMo靠什么回本？",
+      "url": "https://tmtpost.com/8217008.html",
+      "summary": "这笔投入的硬件生意，正面临利润压力。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T18:23:02+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3b054defa8c3b836",
+      "title": "AI进厂，先革企业的命",
+      "url": "https://tmtpost.com/8217052.html",
+      "summary": "AI巨头的终极战场，是企业的工作流",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T18:22:56+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a0f0deb4ac817408",
+      "title": "日本政府开发智能体打击盗版动漫",
+      "url": "https://solidot.org/story?sid=85988",
+      "summary": "日本文化厅正在测试一款 AI 智能体去自动识别和标记可能包含非法或盗版内容的动漫网站。测试结果显示其准确率极高。2025 财年针对国内的一项调查显示，AI 标记的 1168 条可疑 X 推文有 84% 是非法内容；AI 检测的 1564 个动画网站中 89% 含有盗版动画；1935 个漫画网站中盗版漫画比例高达 94%。2026 财年日本政府将监测范围扩大至海外。日本政府计划最早于 2027 年 3 月汇总并公布最新调查结果。",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T17:49:29+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e1201555cdc91112",
+      "title": "🔥 Jync v2.4.6 · AI 运维助手与大表同步增强",
+      "url": "https://oschina.net/news/503802",
+      "summary": "本版概要 v2.4.6 让 AI 运维助手可以查询逐表状态并通过确认卡调整任务参数，重做大表全量、行数核对与 CDC 基线续跑，同时修复轮询与 CDC 的一批稳定性问题。建议所有 2.4.x 用户升级。新增 AI 助手可查询任务详情与逐表同步状态（含未开始表）并解释增量状态。 AI 助手可通过确认卡调整任务参数、游标列、调度 Cron 与...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T14:27:40+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "助手"
+      ],
+      "confidence": 0.5,
+      "score": 27,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "fa8097569f7c363e",
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "url": "https://marginalia.nu/log/a_141_marginalia_update",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 187 # Comments: 74",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T11:47:42+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "update"
+      ],
+      "confidence": 1,
+      "score": 26,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c89d4bfb36a99fc6",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "summary": "Article URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being Comments URL: https://news.ycombinator.com/item?id=50637686 Points: 362 # Comments: 149",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T10:34:21+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 25,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ecd4c9afa02ba311",
+      "title": "ARS-VLM: Visually Aligned Augmented Random Search for Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.32147",
+      "summary": "arXiv:2611.32147v1 Announce Type: cross Abstract: First-order reinforcement learning, such as Group Relative Policy Optimization (GRPO), is widely used to post-train Vision-Language Models (VLMs) for multimodal reasoning. However, it incurs…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "caaec2dc407bdc8c",
+      "title": "FOL-Proof: Verifying LLM Text-to-Logic Translations via Deterministic Semantics",
+      "url": "https://arxiv.org/abs/2611.33078",
+      "summary": "arXiv:2611.33078v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly used to translate natural-language statements into first-order logic (FOL) to improve reasoning. However, LLMs are prone to errors, and so a seman…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2b05320a1a9c4e80",
+      "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
+      "url": "https://arxiv.org/abs/2611.33148",
+      "summary": "arXiv:2611.33148v1 Announce Type: new Abstract: Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories, which contain the teacher's chain-of-thou…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 21,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b0ac2249d7132055",
+      "title": "ThinkMorph-SSL: Scaling Interleaved Multimodal Reasoning with Pretext Tasks",
+      "url": "https://arxiv.org/abs/2611.32183",
+      "summary": "arXiv:2611.32183v1 Announce Type: cross Abstract: People reason with pictures as well as words. Interleaved multimodal reasoning gives models a similar way to solve problems by creating intermediate images and using them to guide further re…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 21,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "52f06f94886fb9e5",
+      "title": "SOARS: System One Assisted Reranking for Agentic Search",
+      "url": "https://arxiv.org/abs/2611.32917",
+      "summary": "arXiv:2611.32917v1 Announce Type: cross Abstract: Deep search agents address complex information needs through iterative retrieval and reasoning, where the relevance of retrieved evidence influences downstream performance. Existing reranker…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 21,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "563854cf0e986655",
+      "title": "Verifiable On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2611.30325",
+      "summary": "arXiv:2611.30325v1 Announce Type: cross Abstract: Reinforcement learning with verifiable rewards (RLVR) has become a powerful approach for improving language-model reasoning, but its supervision is inherently sparse: a sequence-level verifi…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 21,
+      "paperRank": 10,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "ffe765e3a71ed7cb",
+      "title": "AhaPro: A Process-level Rebus benchmark for probing Aha moments in LLM reasoning",
+      "url": "https://arxiv.org/abs/2611.31268",
+      "summary": "arXiv:2611.31268v1 Announce Type: new Abstract: Existing research on Aha moments in large language models has largely focused on reflective expressions or final revision outcomes, leaving their role in the visible reasoning process insuffic…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 21,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a2d13111a05c3106",
+      "title": "LUCID: Statistically Grounded Self-Correction for LLM Reasoning Evaluation",
+      "url": "https://arxiv.org/abs/2611.31595",
+      "summary": "arXiv:2611.31595v1 Announce Type: new Abstract: Cheap language-model raters grade chain-of-thought reasoning at scale, yet systematic step-rating errors can skew reasoning audits and solution rankings. We introduce LUCID (Loop for Unbiased …",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 21,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7df12e158d7196bd",
+      "title": "Localizing Cross-Lingual Generalization in Parameter Space",
+      "url": "https://arxiv.org/abs/2611.31975",
+      "summary": "arXiv:2611.31975v1 Announce Type: new Abstract: Cross-lingual transfer is uneven across tasks, succeeding for natural language understanding but often failing for mathematical reasoning. We argue that this asymmetry is governed by the geome…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 21,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3abaefefe49c0864",
+      "title": "Red-Teaming a Sovereign LLM, Its Reasoning and Its Training Stages",
+      "url": "https://arxiv.org/abs/2611.32710",
+      "summary": "arXiv:2611.32710v1 Announce Type: new Abstract: Open-weight large language models (LLMs) are increasingly deployed for applications with sensitive information. We investigate whether confidentiality instructions in system prompt can protect…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 21,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b20bdd4ba7459fbb",
+      "title": "ASCENT: A Benchmark for Evaluating and Advancing Stepwise Diagnostic Reasoning in Large Language Models on Common Clinical Scenarios",
+      "url": "https://arxiv.org/abs/2611.32734",
+      "summary": "arXiv:2611.32734v1 Announce Type: new Abstract: Large language models (LLMs) excel at medical question answering yet are rarely evaluated on the stepwise diagnostic reasoning that defines real clinical workflows, where impressions are revis…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 21,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b891551a72815abe",
+      "title": "Worth the Wait? How Response Time and Streaming Shape Judgments of Generative AI Answers and Chatbot Engagement",
+      "url": "https://arxiv.org/abs/2611.33050",
+      "summary": "arXiv:2611.33050v1 Announce Type: new Abstract: Answers from generative AI chatbots built on large language models (LLMs) now arrive at very different speeds: reasoning models deliberate before replying, while response caches can return a s…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 21,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cf3a9d5b125d8649",
+      "title": "SwiftLoop: Selective Refinement for Adaptive Implicit Reasoning in Looped Transformers",
+      "url": "https://arxiv.org/abs/2611.31481",
+      "summary": "arXiv:2611.31481v1 Announce Type: cross Abstract: Looped Transformers advance implicit chain-of-thought reasoning through recurrent latent refinement. However, existing looped reasoners typically employ fixed-depth recurrence, updating all …",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 21,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "cd2fc0e9ed066858",
+      "title": "Fix How It Acts, Not How It Thinks: Surgical Fine-Tuning of Frontier LLMs",
+      "url": "https://arxiv.org/abs/2611.32064",
+      "summary": "arXiv:2611.32064v1 Announce Type: cross Abstract: Open-weight LLMs are competent software engineers, but they sometimes fail at tasks they are otherwise able to do. Often it is not a failure of reasoning. It is a few small missteps over a l…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 21,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "bca174bc1c2d937e",
+      "title": "Calibrated Reading of Latent Reasoning and Communication",
+      "url": "https://arxiv.org/abs/2611.32143",
+      "summary": "arXiv:2611.32143v1 Announce Type: cross Abstract: Latent reasoning and key-value communication store intermediate information in continuous representations, limiting direct inspection of model behavior. Existing activation readers trade the…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 21,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "31f1d742e908bd9c",
+      "title": "InstructReplay: Replaying Assistant Turns to Preserve General Behavior During Factual Fine-Tuning",
+      "url": "https://arxiv.org/abs/2611.32918",
+      "summary": "arXiv:2611.32918v1 Announce Type: cross Abstract: Fine-tuning an instruction-tuned language model on new facts often erodes its general abilities. We find that standard fine-tuning lowers instruction-following, reasoning and coding benchmar…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 21,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "dde555db64a1c1fb",
+      "title": "A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit",
+      "url": "https://arxiv.org/abs/2611.33133",
+      "summary": "arXiv:2611.33133v1 Announce Type: cross Abstract: Qwen3.5-0.8B rarely finishes reasoning in thinking mode: at a 4,096-token budget only 1 or 2 of 500 MATH-500 answers close their think block (two seeds), and accuracy is 15.4%. A recent demo…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 21,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e154200c20f668a3",
+      "title": "Structured Prompt Optimization Advances Globally and Locally Interpretable Learning from Complex Text",
+      "url": "https://arxiv.org/abs/2605.29076",
+      "summary": "arXiv:2605.29076v3 Announce Type: replace Abstract: LLMs have advanced text classification, yet existing paradigms face a trade-off: supervised (label only) fine-tuning is scalable but offers limited reasoning on complex text and lacks broa…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 21,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "66f891a7a86d9bee",
+      "title": "GEM: A Generative Embedding Model Bridging Reasoning and Retrieval",
+      "url": "https://arxiv.org/abs/2608.13200",
+      "summary": "arXiv:2608.13200v3 Announce Type: replace Abstract: Modern LLMs excel at reasoning and instruction following, enabling users to express increasingly complex information needs. However, existing retrievers largely rely on matching surface-le…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 21,
+      "paperRank": 6,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "539b7b11a9c0b525",
+      "title": "The Reasoning Bottleneck in Graph-RAG: Structured Prompting and Context Compression for Multi-Hop QA",
+      "url": "https://arxiv.org/abs/2603.14045",
+      "summary": "arXiv:2603.14045v3 Announce Type: replace-cross Abstract: Graph-RAG systems achieve strong multi-hop question answering by indexing documents into knowledge graphs, but strong retrieval does not guarantee strong answers. Evaluating KET-RAG,…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T24:12:05+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 21,
+      "paperRank": 6,
       "related": [],
       "pushed": false
     }
