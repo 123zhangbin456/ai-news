@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updatedAt": "2026-11-26T24:12:26+08:00",
+  "updatedAt": "2026-11-26T06:04:35+08:00",
   "items": [
     {
       "id": "43b498f2b7e3dbe0",
@@ -774,7 +774,7 @@
       "confidence": 0,
       "score": 47,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "Clay 用 Codex 与 ChatGPT 帮销售团队赢单",
         "takeaway": "Clay 集成 ChatGPT 和 Codex，用 GPT-6 做推理，帮销售研究交易并生成市场策略。",
@@ -785,7 +785,8 @@
         ],
         "detail": "Clay 把 ChatGPT 和 Codex 集成进自己的平台，让销售用户能研究交易细节，并把数据转化为市场进入策略。其中推理环节由 GPT-6 模型负责。",
         "generatedAt": "2026-11-25T12:39:21+08:00"
-      }
+      },
+      "pushedAt": "2026-11-26T06:04:35+08:00"
     },
     {
       "id": "e63c50b367bc2496",
@@ -1291,7 +1292,7 @@
       "confidence": 1,
       "score": 43,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "高德发布世界模型ABot-World 0.5，支持实时重塑物理世界",
         "takeaway": "高德推出通用交互式世界模型，能构建音画同步、可实时重塑的AI物理世界，值得关注其落地场景。",
@@ -1302,7 +1303,8 @@
         ],
         "detail": "阿里巴巴旗下高德近日发布通用交互式世界模型ABot-World 0.5。该模型能构建音画同步的AI物理世界，并支持实时重塑，为交互式虚拟环境提供新工具。",
         "generatedAt": "2026-11-26T24:12:21+08:00"
-      }
+      },
+      "pushedAt": "2026-11-26T06:04:35+08:00"
     },
     {
       "id": "f955d48edeaa52ba",
@@ -2358,6 +2360,41 @@
       "pushedAt": "2026-11-25T06:51:28+08:00"
     },
     {
+      "id": "f14a6f6dfd19f4ca",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "source": {
+        "id": "deepmind",
+        "name": "Google DeepMind",
+        "weight": 5,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T21:07:53+08:00",
+      "fetchedAt": "2026-11-26T06:04:22+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 37,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "Google DeepMind 推出 Mass Spec Skills，助力质谱分子鉴定",
+        "takeaway": "DeepMind 发布新工具，让科学家在 Google Antigravity 中解读串联质谱，加速分子结构鉴定。",
+        "bullets": [
+          "Mass Spec Skills 是 Google DeepMind 推出的新工具。",
+          "它帮助使用 Google Antigravity 的科学家解读串联质谱。",
+          "目标是从质谱数据中识别分子结构。"
+        ],
+        "detail": "Google DeepMind 发布了 Mass Spec Skills，这是一个集成在 Google Antigravity 中的工具，旨在帮助科学家解读串联质谱数据。该工具能够从质谱图中推断分子结构，从而简化分子鉴定流程。",
+        "generatedAt": "2026-11-26T06:04:34+08:00"
+      },
+      "pushedAt": "2026-11-26T06:04:35+08:00"
+    },
+    {
       "id": "f234fcde185b523a",
       "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
       "url": "https://qbitai.com/2026/11/512362.html",
@@ -3230,6 +3267,30 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-11-25T06:51:28+08:00"
+    },
+    {
+      "id": "8ee50572f79b5048",
+      "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "summary": "Article URL: https://jayd.ml/2026/11/14/rockbox-on-yp3.html Comments URL: https://news.ycombinator.com/item?id=50624446 Points: 177 # Comments: 74",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-24T14:22:36+08:00",
+      "fetchedAt": "2026-11-26T06:04:22+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 14,
+      "related": [],
+      "pushed": true,
+      "pushedAt": "2026-11-26T06:04:35+08:00"
     }
   ],
   "topic": "ai"
