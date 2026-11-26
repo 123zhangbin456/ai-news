@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updatedAt": "2026-11-26T13:33:35+08:00",
+  "updatedAt": "2026-11-26T23:52:08+08:00",
   "items": [
     {
       "id": "587668722ad0d72c",
@@ -40,6 +40,42 @@
       "pushedAt": "2026-11-26T11:49:48+08:00"
     },
     {
+      "id": "7421e914abf16d07",
+      "title": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
+      "url": "https://infoq.cn/article/z9IwzAY8hP15oDa2VKi6",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T23:35:51+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 60,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Code核心团队被OpenAI挖角，Anthropic编程王座动摇",
+        "takeaway": "Anthropic旗下Claude Code的核心班底遭OpenAI大规模挖角，编程领域优势面临挑战。",
+        "bullets": [
+          "OpenAI正疯狂收割Claude Code核心成员",
+          "Anthropic编程王座因此悬了",
+          "人才流失或影响Claude Code后续发展"
+        ],
+        "detail": "据InfoQ中国报道，Anthropic的编程产品Claude Code核心团队正被OpenAI大规模挖角。这波人才流失让Anthropic在AI编程领域的领先地位面临挑战，编程王座悬了。",
+        "generatedAt": "2026-11-26T23:51:56+08:00"
+      }
+    },
+    {
       "id": "4c44ce30146b120b",
       "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
       "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
@@ -75,6 +111,80 @@
         "generatedAt": "2026-11-26T06:04:28+08:00"
       },
       "pushedAt": "2026-11-26T06:04:35+08:00"
+    },
+    {
+      "id": "02a088434703556c",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T19:37:17+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "introducing",
+        "Llama"
+      ],
+      "confidence": 0.5,
+      "score": 59,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "llama.cpp 推出 AMD Ryzen/Radeon 基准测试面板",
+        "takeaway": "llama.cpp 新增针对 AMD 平台的性能基准面板，方便用户对比不同配置下的推理表现。",
+        "bullets": [
+          "llama.cpp 发布 AMD Ryzen 和 Radeon 基准测试面板",
+          "面板汇总不同 AMD 硬件上的推理性能数据",
+          "帮助用户评估配置并优化本地模型运行"
+        ],
+        "detail": "llama.cpp 在 Hugging Face 上发布了针对 AMD Ryzen 处理器和 Radeon 显卡的基准测试面板。该面板收集并展示在这些硬件上运行 llama.cpp 的性能数据，方便用户比较不同配置的推理效率。",
+        "generatedAt": "2026-11-26T23:51:56+08:00"
+      }
+    },
+    {
+      "id": "80aec041aaa8d680",
+      "title": "直播 25 天训出一个模型，五项登顶，一群 00 后的 Physical AI 实验",
+      "url": "https://leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html",
+      "summary": "聊聊榜单之外的 Motubrain 2.0，和它背后那支不太一样的团队。作者丨齐铖湧编辑丨岑峰近日，行业独角兽企业生数科技正式发布 Motubrain 2.0，并宣布将于近期开源。这次发布包括一个 20B 参数的世界动作模型（WAM），以及一套名为 Motubrain-Harness 的智能体系统。过去一个月里，生数科技把 Motubrain 2.0 的预训练搬上了公开直播：25 天，600 小时，20 万步训练，19 个 Checkpoint 的真机评估，5624 次有效真…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T20:50:00+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "实验",
+        "榜单"
+      ],
+      "confidence": 0.29,
+      "score": 59,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "直播25天训出20B模型，生数科技Motubrain 2.0五项登顶",
+        "takeaway": "生数科技公开直播训练过程，发布20B世界动作模型并宣布开源，展示00后团队实力。",
+        "bullets": [
+          "生数科技发布Motubrain 2.0，含20B世界动作模型和智能体系统。",
+          "预训练全程直播25天，600小时、20万步，完成5624次真机评估。",
+          "模型五项指标登顶，团队以00后为主，近期将开源。"
+        ],
+        "detail": "生数科技发布Motubrain 2.0，包括20B参数的世界动作模型和Motubrain-Harness智能体系统，并宣布近期开源。过去一个月，团队将预训练过程公开直播：25天、600小时、20万步训练，对19个检查点进行真机评估，完成5624次有效真机测试。",
+        "generatedAt": "2026-11-26T23:51:56+08:00"
+      }
     },
     {
       "id": "4d184126ddc41edd",
@@ -188,6 +298,116 @@
       "pushedAt": "2026-11-26T06:04:35+08:00"
     },
     {
+      "id": "c6a092327b3520c2",
+      "title": "qOntology 本体工程平台开源版 V1.1.4 发布：AI 辅助建模与图谱可视化升级",
+      "url": "https://oschina.net/news/503836",
+      "summary": "qOntology 本体工程平台开源版v1.1.4 本次优化： AI 辅助建模和图谱可视化进行升级系统使用问题修复开源地址：https://github.com/qiantongtech/qOntology 升级系统界面本次升级功能一、 AI 辅助建模优化 01 支持直接选取系统文件： 新建或修改建模任务时，可直接选择系统中已有的采购文档，无需重复上传，同时保留本...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T18:21:29+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源",
+        "github"
+      ],
+      "confidence": 0.29,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "qOntology 开源版 V1.1.4 发布：AI 辅助建模与图谱可视化升级",
+        "takeaway": "本体工程平台 qOntology 开源版更新，优化 AI 辅助建模和图谱可视化，并修复系统问题。",
+        "bullets": [
+          "AI 辅助建模支持直接选取系统内已有文档，无需重复上传",
+          "图谱可视化功能得到升级，提升展示效果",
+          "本次更新还修复了系统使用中的问题",
+          "开源地址已公布，用户可获取最新版本"
+        ],
+        "detail": "qOntology 本体工程平台开源版发布 V1.1.4，主要优化 AI 辅助建模和图谱可视化。新建或修改建模任务时，可直接选择系统中已有的采购文档，无需重复上传，同时保留原有功能。此外还修复了系统使用问题，并升级了界面。",
+        "generatedAt": "2026-11-26T23:51:58+08:00"
+      }
+    },
+    {
+      "id": "b46cbcc67ac737a2",
+      "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
+      "url": "https://qbitai.com/2026/11/512916.html",
+      "summary": "30秒一镜到底，可自动编排镜头",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T14:41:23+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "国产开源AI视频模型登顶，每秒仅5毛",
+        "takeaway": "中国开源新势力推出商用级AI视频工具，成本低至每秒5毛，并拿下全球第一。",
+        "bullets": [
+          "该工具支持30秒一镜到底，可自动编排镜头。",
+          "成本仅每秒5毛，远低于商用级AI视频常规价格。",
+          "中国开源新势力凭此拿下全球第一，引发关注。"
+        ],
+        "detail": "一款中国开源AI视频工具实现商用级质量，每秒成本仅5毛，支持30秒一镜到底并自动编排镜头。该工具在全球评测中排名第一，有望降低AI视频创作门槛。",
+        "generatedAt": "2026-11-26T23:51:57+08:00"
+      }
+    },
+    {
+      "id": "3e96eb1da4ed77ae",
+      "title": "Anthropic上市：从Uber的预算看Claude怎么赚钱",
+      "url": "https://tmtpost.com/8218636.html",
+      "summary": "Anthropic 在纳斯达克上市。今年前三季度，它近八成收入来自按使用量计费的业务。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T18:34:24+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "上市"
+      ],
+      "confidence": 0.5,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic登陆纳斯达克，近八成收入靠按量计费",
+        "takeaway": "Anthropic上市，收入结构显示其商业模式高度依赖使用量计费，值得关注AI公司盈利路径。",
+        "bullets": [
+          "Anthropic在纳斯达克上市，成为又一家上市AI公司。",
+          "今年前三季度近八成收入来自按使用量计费业务。",
+          "收入结构反映其商业模式与API调用量紧密相关。"
+        ],
+        "detail": "Anthropic已登陆纳斯达克。今年前三季度，其近80%的收入来自按使用量计费的模式，说明公司业绩与客户调用量直接挂钩。",
+        "generatedAt": "2026-11-26T23:51:58+08:00"
+      }
+    },
+    {
       "id": "e7d7a2ca3b37ef50",
       "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
       "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
@@ -258,6 +478,42 @@
         ],
         "detail": "信用评级机构标普正在考虑将英伟达的信用评级下调至AA-，这是该机构评级体系中的第四高等级。此次评估主要关注英伟达的公司治理结构以及过度依赖关键人物的风险。若评级下调，可能增加英伟达的融资成本并影响市场信心。",
         "generatedAt": "2026-11-26T11:49:38+08:00"
+      }
+    },
+    {
+      "id": "bfe4d2703626e5b0",
+      "title": "一家100人的AI公司，凭什么被英伟达、Anthropic、亚马逊抬到75亿？",
+      "url": "https://tmtpost.com/8218433.html",
+      "summary": "同样一套技术，为什么对亚马逊更值钱。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T17:56:00+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "英伟达"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "百人AI公司估值75亿，英伟达、Anthropic、亚马逊为何争相押注？",
+        "takeaway": "一家仅100人的AI公司被三大巨头抬到75亿美元估值，其技术对亚马逊可能更具战略价值。",
+        "bullets": [
+          "英伟达、Anthropic、亚马逊共同投资，公司估值达75亿美元。",
+          "公司仅100人，技术却获三大巨头青睐。",
+          "同样技术对亚马逊价值更高，或涉云与AI生态整合。"
+        ],
+        "detail": "这家百人规模的AI公司同时获得英伟达、Anthropic和亚马逊的投资，估值高达75亿美元。报道指出，同一套技术对亚马逊而言可能更值钱，暗示其与亚马逊云服务或AI战略存在深度协同。",
+        "generatedAt": "2026-11-26T23:51:59+08:00"
       }
     },
     {
@@ -370,6 +626,78 @@
       "pushedAt": "2026-11-26T06:04:35+08:00"
     },
     {
+      "id": "069f94445fa0f593",
+      "title": "Quoting Jack Despain Zhou",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou",
+      "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles fr…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T23:09:31+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 让表达趋同：我们听到的越来越像 Claude",
+        "takeaway": "Jack Despain Zhou 指出，AI 正在造成“去个体化”，从视频、演讲到邮件，表达风格越来越像 Claude。",
+        "bullets": [
+          "AI 已渗透日常内容：YouTube 视频、会议演讲、邮件都出现 Claude 式表达",
+          "核心问题是“去个体化”：个体独特风格被 AI 统一语气取代",
+          "影响广泛：内容创作者、演讲者和邮件写作者都面临同质化"
+        ],
+        "detail": "Jack Despain Zhou 观察到，AI 的普及带来了一种“去个体化”效应。打开 YouTube、参加线下会议、查看邮箱，都能听到或看到类似 Claude 的表达风格。这意味着个体声音正被 AI 生成的统一语气稀释。",
+        "generatedAt": "2026-11-26T23:52:00+08:00"
+      }
+    },
+    {
+      "id": "244a3e8cb4f170fa",
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 393 # Comments: 217",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T11:36:58+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI 收紧 GPT-6.2 用量：Astra 限额消耗快 40%，Sol 快 25%",
+        "takeaway": "OpenAI 下调 GPT-6.2 各版本的用量额度，用户可用次数将明显减少。",
+        "bullets": [
+          "Astra 版本额度消耗速度提升 40%，Sol 版本提升 25%",
+          "消息来自 OpenAI 员工推文，在 Hacker News 引发热议",
+          "重度用户实际可用调用次数将相应缩水"
+        ],
+        "detail": "OpenAI 调整了 GPT-6.2 的用量限制：Astra 版本达到上限的速度比之前快 40%，Sol 版本快 25%。这意味着同样额度下用户能用的次数变少，该消息在 Hacker News 上获得近 400 点讨论。",
+        "generatedAt": "2026-11-26T23:51:59+08:00"
+      }
+    },
+    {
       "id": "04a9805dfa556873",
       "title": "Quoting Scott Aaronson",
       "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson",
@@ -401,6 +729,81 @@
         ],
         "detail": "Aaronson 表示，AI 带来的不会是对某个复杂性问题的零散解答，而是一整片此前只能透过迷雾隐约看见的数学真理大陆。他用列文虎克第一次打磨镜片作比，暗示新工具将彻底改变人类的观察尺度。",
         "generatedAt": "2026-11-26T11:49:39+08:00"
+      }
+    },
+    {
+      "id": "d735635591862bb8",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "url": "https://theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T17:54:40+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "users"
+      ],
+      "confidence": 0.25,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "42州总检察长联名阻止Character.AI破产中出售用户聊天数据",
+        "takeaway": "Character.AI破产重组之际，42州总检察长联合施压，要求禁止其出售用户聊天记录，用户隐私保护成焦点。",
+        "bullets": [
+          "42州总检察长联合行动，阻止Character.AI在破产程序中出售用户数据。",
+          "总检察长们指控该公司可能侵犯用户隐私，发布大量类似声明。",
+          "事件涉及Character.AI及其用户，可能影响破产资产处置和隐私监管。"
+        ],
+        "detail": "42位州总检察长组成联盟，试图阻止Character.AI在Chapter 11破产程序中出售用户数据。他们通过大量几乎相同的新闻稿指责该公司，但摘要未具体说明指控内容。此举旨在保护用户聊天记录不被交易。",
+        "generatedAt": "2026-11-26T23:52:01+08:00"
+      }
+    },
+    {
+      "id": "9323885d34b49b2f",
+      "title": "深耕核心零部件，钛虎机器人轻量化关节模组Lite-1系列助力整机降本增效",
+      "url": "https://leiphone.com/category/industrynews/hYv4Caentt6byJhj.html",
+      "summary": "近日，钛虎机器人科技（上海）有限公司（以下简称“钛虎机器人”）正式发布面向机器人批量落地场景的轻量化关节模组Lite-1系列。该产品通过结构精简，驱控板与编码器一体化设计，在压缩体积、提升集成度的同时保持控制精度与运行稳定性，为人形机器人整机设计与规模化生产提供了新的核心零部件选择。当前，人形机器人产业正从“能走能动”的样机验证阶段，加速迈向“可批量、可交付、可落地”的产业化阶段。关节模组是机器人的核心运动部件，其体积、集成度、走线方式与装配一致性，直接影响整机结构、成本与量…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T21:45:00+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "产品",
+        "集成",
+        "落地"
+      ],
+      "confidence": 0.63,
+      "score": 43,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "钛虎机器人发布Lite-1轻量化关节模组，助力人形机器人降本增效",
+        "takeaway": "钛虎机器人推出Lite-1系列关节模组，通过一体化设计压缩体积、提升集成度，面向人形机器人批量落地场景。",
+        "bullets": [
+          "钛虎机器人发布Lite-1系列轻量化关节模组，面向批量落地场景。",
+          "采用驱控板与编码器一体化设计，体积更小、集成度更高。",
+          "在压缩体积的同时保持控制精度与运行稳定性。",
+          "为人形机器人整机设计与规模化生产提供新核心零部件选择。"
+        ],
+        "detail": "钛虎机器人科技（上海）有限公司近日发布Lite-1系列轻量化关节模组，面向机器人批量落地场景。该产品通过结构精简和驱控板与编码器一体化设计，在缩小体积、提高集成度的同时，保持控制精度与运行稳定性，为人形机器人整机设计与规模化生产提供了新的核心零部件选择。",
+        "generatedAt": "2026-11-26T23:52:01+08:00"
       }
     },
     {
@@ -441,6 +844,43 @@
       "pushedAt": "2026-11-26T06:04:35+08:00"
     },
     {
+      "id": "b61ac1e595b29384",
+      "title": "Remote MCP with OAuth in Grok Bot: the checklist that made it work for us (+ a template to try)",
+      "url": "https://forum.cursor.com/t/remote-mcp-with-oauth-in-grok-bot-the-checklist-that-made-it-work-for-us-a-template-to-try/179353",
+      "summary": "If your remote MCP server works in the Cursor IDE but the sign-in never starts from Grok Bot or cloud agents, this is what we checked on ours (TraderWAI, a trading MCP) until the Connect card worked: Public HTTPS, reachable from Cursor’s cl…",
+      "source": {
+        "id": "cursor-guides",
+        "name": "Cursor 论坛指南",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T19:36:35+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 42,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "远程 MCP 接入 OAuth 的排查清单：让 Grok Bot 成功连接",
+        "takeaway": "远程 MCP 在 Cursor IDE 能用、但 Grok Bot 或云代理无法发起登录时，可参考这份排查清单。",
+        "bullets": [
+          "问题场景：远程 MCP 在 IDE 正常，Grok Bot 或云代理却无法发起登录",
+          "作者以交易类 MCP 项目 TraderWAI 为例，逐项排查直到 Connect 卡片可用",
+          "排查首项是公网 HTTPS 地址，并确认 Cursor 云端可访问",
+          "附有可试用的模板，方便他人复现配置"
+        ],
+        "detail": "有开发者发现，远程 MCP 服务器在 Cursor IDE 里运行正常，但从 Grok Bot 或云代理发起时，登录流程始终不启动。作者以自家交易 MCP 项目 TraderWAI 为例，逐项检查配置，直到 Connect 卡片正常工作，并公开了排查清单和模板。清单首先要求公网 HTTPS 地址，且 Cursor 云端",
+        "generatedAt": "2026-11-26T23:52:02+08:00"
+      }
+    },
+    {
       "id": "500926209d0cd198",
       "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
       "url": "https://qbitai.com/2026/11/512748.html",
@@ -474,6 +914,42 @@
         "generatedAt": "2026-11-26T06:04:29+08:00"
       },
       "pushedAt": "2026-11-26T06:04:35+08:00"
+    },
+    {
+      "id": "2ec71f51c0d880a1",
+      "title": "不用自建后端，前端页面也能接入云端数据了：Pages Data SDK 正式上线",
+      "url": "https://infoq.cn/article/WXXMTPHLTH0bKV3rc35g",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T21:46:49+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "SDK"
+      ],
+      "confidence": 0.25,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Pages Data SDK 上线：前端页面免后端接入云端数据",
+        "takeaway": "前端开发者无需自建后端，即可在页面中直接接入云端数据，降低开发门槛。",
+        "bullets": [
+          "Pages Data SDK 正式发布，面向前端页面场景",
+          "开发者不用搭建后端服务即可读写云端数据",
+          "简化数据接入流程，适合快速原型和轻量应用"
+        ],
+        "detail": "InfoQ 中国报道，Pages Data SDK 正式上线。它让前端页面无需自建后端，就能接入云端数据，省去搭建和维护服务端的步骤，方便开发者快速实现数据驱动的页面功能。",
+        "generatedAt": "2026-11-26T23:52:02+08:00"
+      }
     },
     {
       "id": "fec44873dc650343",
@@ -792,6 +1268,110 @@
       }
     },
     {
+      "id": "e8640fffdb30ca15",
+      "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
+      "url": "https://qbitai.com/2026/11/513021.html",
+      "summary": "已跑了超过一万次会话，在Lean4里验证通过了2400多条引理",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T21:56:01+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "github"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI直播冲刺证明P=NP，GitHub被挤爆",
+        "takeaway": "开源项目用AI直播尝试证明P=NP，已跑超万次会话，在Lean4中验证2400多条引理，引发关注。",
+        "bullets": [
+          "项目在GitHub开源，直播AI证明P=NP，已进行超一万次会话。",
+          "在Lean4中验证通过2400多条引理，展示形式化验证进展。",
+          "活动导致GitHub访问量激增，一度崩溃，凸显社区热情。"
+        ],
+        "detail": "这个开源项目通过直播形式，让AI持续尝试证明P=NP难题，目前已运行超过一万次会话，并在Lean4证明助手中验证了2400多条引理。由于关注度太高，GitHub一度被挤崩。",
+        "generatedAt": "2026-11-26T23:52:03+08:00"
+      }
+    },
+    {
+      "id": "543b2150cfd8f3b0",
+      "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
+      "url": "https://qbitai.com/2026/11/512981.html",
+      "summary": "还得是科班尖子生",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T20:39:08+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI 3D生成新突破：一图直出可打印巴洛克雕塑",
+        "takeaway": "AI 3D生成技术实现从单张图片直接输出可3D打印的模型，精度与实用性显著提升。",
+        "bullets": [
+          "量子位报道，AI 3D生成工具能凭单张图片生成巴洛克风格雕塑。",
+          "生成结果可直接用于3D打印，无需额外后处理，开箱即用。",
+          "该技术被形容为AI 3D界的“X光”，暗示其具备透视或高精度重建能力。"
+        ],
+        "detail": "量子位介绍了一款AI 3D生成工具，用户只需提供一张图片，就能直接生成巴洛克风格的雕塑模型，且模型可直接用于3D打印，无需额外处理。报道称其为AI 3D界的“X光”，强调其生成精度和实用性。",
+        "generatedAt": "2026-11-26T23:52:04+08:00"
+      }
+    },
+    {
+      "id": "4ba826a45a614982",
+      "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+      "url": "https://wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains",
+      "summary": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T18:51:27+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Meta拒绝共享Muse测试，英国金融监管机构表达不满",
+        "takeaway": "Meta在英推出个人AI代理前拒绝联合测试，FCA警告AI代理可能带来新的攻击风险。",
+        "bullets": [
+          "Meta拒绝英国FCA在Muse上线前联合测试的请求",
+          "FCA警告AI代理可能成为“另一股攻击力量”",
+          "Meta周二在英国推出个人AI代理Muse"
+        ],
+        "detail": "英国金融行为监管局（FCA）抱怨Meta拒绝在Muse于英国上线前进行联合测试。FCA警告称，AI代理可能带来“另一股攻击力量”的风险。Meta于周二在英国推出了这款个人AI代理。",
+        "generatedAt": "2026-11-26T23:52:04+08:00"
+      }
+    },
+    {
       "id": "92419877312e3e17",
       "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
       "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
@@ -900,6 +1480,144 @@
         ],
         "detail": "Anthropic 相关的一个 GRH Lean 形式化验证项目出现了更短的版本，代码托管在 GitHub 上。该帖在 Hacker News 引发讨论，但摘要未透露验证的具体目标或技术细节。",
         "generatedAt": "2026-11-26T11:49:40+08:00"
+      }
+    },
+    {
+      "id": "2871d85f086883c2",
+      "title": "90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守",
+      "url": "https://qbitai.com/2026/11/512972.html",
+      "summary": "全栈方案破解工业机器人连续作业难题",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T18:07:55+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "具微科技推出“潘多拉”机器人，90秒自动换装补能",
+        "takeaway": "具微科技发布全栈方案，让工业机器人能自动换装补能，实现无人化连续作业。",
+        "bullets": [
+          "“潘多拉”机器人可在90秒内完成自动换装和补能",
+          "全栈方案旨在解决工业机器人连续作业的难题",
+          "该方案支撑机器人实现无人化值守"
+        ],
+        "detail": "具微科技推出“潘多拉”机器人，能在90秒内自动完成换装和补能。其全栈方案针对工业机器人连续作业的痛点，支持机器人实现无人化值守，提升作业效率。",
+        "generatedAt": "2026-11-26T23:52:05+08:00"
+      }
+    },
+    {
+      "id": "b12d52cfea96c8b4",
+      "title": "极客公园创新大会 2027 全议程公布！",
+      "url": "https://qbitai.com/2026/11/512952.html",
+      "summary": "今天，IF 2027 全议程揭晓。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T16:19:20+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "极客公园创新大会 2027 全议程公布",
+        "takeaway": "IF 2027 完整议程揭晓，关注科技与创新议题的读者可据此安排参会。",
+        "bullets": [
+          "极客公园公布 IF 2027 全部议程",
+          "大会聚焦创新与科技话题",
+          "具体嘉宾与场次需查看官方议程"
+        ],
+        "detail": "极客公园创新大会（IF 2027）今天公开了完整议程。目前公布的信息只有议程本身，具体嘉宾、议题和举办时间地点还需以官方发布为准。",
+        "generatedAt": "2026-11-26T23:52:05+08:00"
+      }
+    },
+    {
+      "id": "93cd58bba29300e9",
+      "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
+      "url": "https://qbitai.com/2026/11/512942.html",
+      "summary": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T15:36:04+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "WAIC携手海聚英才峰会，12月6日共话AI人才",
+        "takeaway": "WAIC与“海聚英才”峰会合作，12月6日举办活动，聚焦AI浪潮中的创新人才。",
+        "bullets": [
+          "活动由WAIC与第六届“海聚英才”全球创新创业峰会联合举办。",
+          "主题围绕AI浪潮中“人”的讨论，关注创造未来的从业者。",
+          "报名仅剩最后2天，12月6日线下举行。"
+        ],
+        "detail": "12月6日，WAIC将联合第六届“海聚英才”全球创新创业峰会举办活动，把关于“人”的讨论带回现场。活动聚焦AI浪潮中的创新人才，报名只剩最后2天。",
+        "generatedAt": "2026-11-26T23:52:06+08:00"
+      }
+    },
+    {
+      "id": "7fcbebbe6634ec84",
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync",
+      "summary": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only today …",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T14:08:25+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "tool"
+      ],
+      "confidence": 1,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "SQLite 推出 sqlite3_rsync 远程复制工具",
+        "takeaway": "SQLite 新增实验性工具 sqlite3_rsync，可远程复制数据库，简化同步操作。",
+        "bullets": [
+          "sqlite3_rsync 是 SQLite 的附加工具，用于数据库远程复制。",
+          "该工具于 2024 年 10 月随 SQLite 3.47.0 作为实验性功能加入。",
+          "2025 年 5 月 SQLite 3.50.0 对其进行了增强。"
+        ],
+        "detail": "sqlite3_rsync 是一个 SQLite 附加工具，用于远程复制数据库。它最早在 2024 年 10 月的 SQLite 3.47.0 中作为实验性功能加入，并在 2025 年 5 月的 SQLite 3.50.0 中得到增强。",
+        "generatedAt": "2026-11-26T23:52:06+08:00"
       }
     },
     {
@@ -1492,6 +2210,114 @@
       }
     },
     {
+      "id": "e675b1b64ec6de41",
+      "title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
+      "url": "https://infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T22:56:46+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "行业观点",
+      "keywords": [
+        "趋势"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Snowflake CoCo 升级：数据开发进入 Agent 自主执行时代",
+        "takeaway": "Snowflake 的 CoCo 再次进化，主打让数据开发由 Agent 自主执行，值得关注数据开发工作方式的改变。",
+        "bullets": [
+          "Snowflake CoCo 完成再进化，强调 Agent 自主执行",
+          "面向数据开发场景，可能改变传统开发流程",
+          "目前仅有方向性信息，具体能力待原文披露"
+        ],
+        "detail": "InfoQ 中国报道称，Snowflake 的 CoCo 再次进化，主题是让数据开发进入 Agent 自主执行时代。摘要未给出具体功能细节，但释放出的信号是数据开发环节正尝试交给智能体自动完成。",
+        "generatedAt": "2026-11-26T23:52:07+08:00"
+      }
+    },
+    {
+      "id": "845418fa36c55f6d",
+      "title": "Snowflake CoWork ：从受治理业务洞察到主动式业务作业 ｜ 技术趋势",
+      "url": "https://infoq.cn/article/o7KPsR1LxisdOA9aT2Eb",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T22:45:20+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "治理"
+      ],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Snowflake CoWork：从受治理洞察到主动业务作业",
+        "takeaway": "Snowflake 推出 CoWork，让 AI 在受治理数据上主动执行业务任务，而非仅提供洞察。",
+        "bullets": [
+          "CoWork 基于受治理数据，确保业务操作合规可信。",
+          "从被动分析转向主动作业，AI 可自动执行任务。",
+          "面向企业用户，或提升数据驱动决策效率。"
+        ],
+        "detail": "Snowflake 的 CoWork 将受治理的业务洞察转化为主动式业务作业，意味着 AI 不仅能分析数据，还能在合规前提下自动执行任务，推动企业从洞察走向行动。",
+        "generatedAt": "2026-11-26T23:52:07+08:00"
+      }
+    },
+    {
+      "id": "c50cf651def5e6ad",
+      "title": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+      "url": "https://infoq.cn/article/xA3g2i0VtTZIOVePMedY",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T22:00:00+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "推出"
+      ],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Uber 发布安全 AI 框架，全生命周期治理智能体",
+        "takeaway": "Uber 推出面向 AI 智能体的安全治理框架，覆盖从开发到退役的全生命周期。",
+        "bullets": [
+          "Uber 发布安全 AI 框架，聚焦 AI 智能体治理",
+          "治理范围覆盖智能体全生命周期",
+          "面向企业级 AI 智能体安全管控需求"
+        ],
+        "detail": "Uber 推出了一套安全 AI 框架，专门用于对 AI 智能体进行治理。其特点是把管控贯穿智能体的整个生命周期，而不只停留在上线前的检查环节。",
+        "generatedAt": "2026-11-26T23:52:08+08:00"
+      }
+    },
+    {
       "id": "7b7cb44d5be86a31",
       "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
       "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop",
@@ -1516,6 +2342,156 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-11-26T06:04:35+08:00"
+    },
+    {
+      "id": "c01600d4160315a4",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T08:00:00+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "da534e3adf5c4e44",
+      "title": "阿里加速转向国产算力的核心逻辑，被严重误读了",
+      "url": "https://tmtpost.com/8218607.html",
+      "summary": "不仅仅是因为自主可控。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T18:38:49+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0c96fcba11e67e4a",
+      "title": "手表和眼镜，如何成为AI智能体的「随身感官」？",
+      "url": "https://leiphone.com/category/chips/1tx0UpMMROQn9vCW.html",
+      "summary": "去年，Humane关闭了AI Pin的消费者云服务。这款别在衣服上的AI设备一度被寄予厚望，用户只需开口，就能完成许多原本需要掏出手机才能做的事。AI Pin最终没能进入主流市场，却给后来者留下了一道产品定义题 ， 手机已经有了成熟的计算、通信和应用生态， 用户为什么还需要一件戴在身上的AI设备？ 11月25日，在深圳举行的第七届紫光展锐智能穿戴沙龙上，紫光展锐智能穿戴产品线总经理李彬重新提起了AI Pin。在他看来，交互延迟、发热和应用生态都影响了体验，更根本的问题出在定位…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T17:22:00+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "产品",
+        "应用"
+      ],
+      "confidence": 1,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "9527dd371e58cac2",
+      "title": "datasette-charts 0.3a0",
+      "url": "https://simonwillison.net/2026/Nov/25/datasette-charts",
+      "summary": "Release: datasette-charts 0.3a0 I added chart annotations to datasette-charts ! You can now render a chart and then annotate it with lines, shaded areas, labels, or a combination of the three. A chart with annotations looks like this: Here'…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T02:16:50+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 1,
+      "score": 32,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "00ea23be51cdb5d4",
+      "title": "Libreboot 撤掉了自己上个月立的 AI 禁令",
+      "url": "https://oschina.net/news/503832/libreboot-drops-anti-ai-policy-slop-reduction",
+      "summary": "一个上个月刚立下 AI 禁令的项目，这个月自己把它删了。 11 月 20 日，Libreboot 维护者 Leah Rowe 把 lbmk 仓库里的 AGENTS.md 整个删除，同时在 libreboot.org 上发布了一篇《AI Slop Reduction Policy》。那篇文章的署名写的是 Lhehaa Rhoeow。 Libreboot 是一个自由固件项目，给 ThinkPad、MacBook 这类机器提供完全...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T15:26:56+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "禁令",
+        "policy"
+      ],
+      "confidence": 0.75,
+      "score": 32,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a1356d98cece1a51",
+      "title": "Bare Metal Qwen",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "summary": "Article URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os Comments URL: https://news.ycombinator.com/item?id=50648365 Points: 204 # Comments: 43",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T06:15:34+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Qwen"
+      ],
+      "confidence": 0,
+      "score": 32,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "e5fa006d6d35eacd",
@@ -1709,6 +2685,104 @@
       ],
       "confidence": 0.29,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2e0c0f82c3324bcf",
+      "title": "阿莫迪自明本志：我本无意让AI掌权",
+      "url": "https://tmtpost.com/8219202.html",
+      "summary": "天地可鉴啊！",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T18:39:05+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "af50b835f34a9a27",
+      "title": "小米的利润，被AI拖累了？",
+      "url": "https://tmtpost.com/8219233.html",
+      "summary": "手机收缩，汽车爬坡，AI加码。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T18:34:20+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "06e6dbae8ac57581",
+      "title": "图库平台充斥着生成式 AI 图像",
+      "url": "https://solidot.org/story?sid=85999",
+      "summary": "根据发表在《The Quarterly Journal of Economics》期刊上的一项研究，今天的大型图库平台充斥着生成式 AI 图像。研究针对了一个在 2022 年 12 月允许创作者销售 GenAI 生成图像的大型图库。该图库要求 GenAI 图像必须标记，允许特定市场禁止 GenAI。研究人员分析了这一政策产生的影响。结果发现：图像产量增长了 136%，活跃创作者数量增加了 47%；但传统非 GenAI 图像的产量下降了 15%，非 GenAI 活跃创作者数量减…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T16:50:12+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "研究"
+      ],
+      "confidence": 1,
+      "score": 28,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "23d0d9abe8dc1155",
+      "title": "纽约时报警告摄影师不要升级到内置 AI 功能的 Photoshop",
+      "url": "https://solidot.org/story?sid=85994",
+      "summary": "《纽约时报》要求自由摄影师不要升级到内置 AI 功能的最新版本 Adob​​e Photoshop，理由是 AI 可能会以用户难以察觉的方式改变照片。《时报》摄影部门负责人 Meaghan Looram 和 Josh Haner 在邮件里指出，结果就是根据照片的元数据照片可能会被标记为 AI 生成。Adobe 过去几年在 Photoshop 等应用中集成了越来越多的 AI 功能，11 月释出的最新版本提供了 AI Assisted Editor 视图，允许用户通过单一工具栏访…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T14:32:38+08:00",
+      "fetchedAt": "2026-11-26T23:51:44+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "功能",
+        "应用",
+        "集成"
+      ],
+      "confidence": 0.56,
+      "score": 27,
       "related": [],
       "pushed": false
     },
