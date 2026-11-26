@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-27",
+  "updatedAt": "2026-11-27T06:02:43+08:00",
+  "items": [
+    {
+      "id": "c881f1e7111092b0",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T04:03:54+08:00",
+      "fetchedAt": "2026-11-27T06:02:34+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip",
+        "chips",
+        "NVIDIA"
+      ],
+      "confidence": 1,
+      "score": 47,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "英伟达暂停向东南亚四国发货AI芯片",
+        "takeaway": "美国收紧AI芯片对华出口，英伟达暂停向马来西亚、新加坡、泰国和印尼发货服务器。",
+        "bullets": [
+          "英伟达要求制造伙伴暂停向马来西亚、新加坡、泰国和印尼发货服务器。",
+          "此举与美国收紧AI芯片出口、防止芯片流入中国的政策有关。",
+          "东南亚数据中心和AI算力部署可能短期受阻。"
+        ],
+        "detail": "英伟达已通知制造合作伙伴，暂停向马来西亚、新加坡、泰国和印度尼西亚运送服务器。此举正值美国加大力度阻止AI芯片流入中国，东南亚地区成为管控焦点。",
+        "generatedAt": "2026-11-27T06:02:40+08:00"
+      },
+      "pushedAt": "2026-11-27T06:02:43+08:00"
+    },
+    {
+      "id": "1d45997e4997625f",
+      "title": "AMD-specific fork of llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 220 # Comments: 54",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T01:11:29+08:00",
+      "fetchedAt": "2026-11-27T06:02:34+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "AMD"
+      ],
+      "confidence": 0.33,
+      "score": 37,
+      "related": [],
+      "pushed": true,
+      "interpret": {
+        "headline": "开发者推出 AMD 专用 llama.cpp 分支",
+        "takeaway": "有人为 AMD 硬件单独维护 llama.cpp 分支，在 Hacker News 引发讨论，值得关注本地推理的 AMD 用户留意。",
+        "bullets": [
+          "llama.cpp 出现 AMD 专用分支，由开发者自行维护",
+          "该分支在 Hacker News 获 220 分、54 条评论",
+          "或为 AMD 平台本地跑大模型提供更贴合的优化路径"
+        ],
+        "detail": "一位开发者发布了针对 AMD 硬件定制的 llama.cpp 分支，并在 Hacker News 上分享。帖子获得 220 分和 54 条评论，说明社区对在 AMD 平台上运行本地大模型有实际兴趣。",
+        "generatedAt": "2026-11-27T06:02:40+08:00"
+      },
+      "pushedAt": "2026-11-27T06:02:43+08:00"
+    }
+  ],
+  "topic": "ai"
+}
