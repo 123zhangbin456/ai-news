@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updatedAt": "2026-11-26T12:42:37+08:00",
+  "updatedAt": "2026-11-26T13:33:35+08:00",
   "items": [
     {
       "id": "587668722ad0d72c",
@@ -758,6 +758,40 @@
       }
     },
     {
+      "id": "d3aa48daa62df585",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:05:36+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Nemotron 3.5 Parse 开放数据与微调，推理提速",
+        "takeaway": "Hugging Face 发布基于 Nemotron 3.5 Parse 的开放数据、微调方案与更快推理，值得关注。",
+        "bullets": [
+          "Hugging Face 推出 Nemotron 3.5 Parse 相关开放数据",
+          "提供微调方案，方便开发者定制模型",
+          "优化推理速度，提升实际部署效率"
+        ],
+        "detail": "Hugging Face 发布了围绕 Nemotron 3.5 Parse 的新资源，包括开放数据集、微调方法和更快的推理实现。这些内容旨在帮助开发者更高效地使用和适配该模型。",
+        "generatedAt": "2026-11-26T13:33:34+08:00"
+      }
+    },
+    {
       "id": "92419877312e3e17",
       "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
       "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
@@ -1421,6 +1455,43 @@
       }
     },
     {
+      "id": "0f0c454075a9b381",
+      "title": "Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
+      "url": "https://infoq.cn/article/bzWoHP0FGUBSTBuP5xVJ",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T21:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "权重",
+        "开放权重"
+      ],
+      "confidence": 0.75,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Cohere 研究：自托管开放权重模型仍需出站控制",
+        "takeaway": "自托管不等于安全，开放权重模型部署后仍需限制对外网络访问。",
+        "bullets": [
+          "Cohere 研究指出自托管开放权重模型存在出站风险",
+          "部署方需对模型对外网络访问加以控制",
+          "结论对采用开源模型的企业有直接参考价值"
+        ],
+        "detail": "Cohere 的研究表明，把开放权重模型放在自己的环境里运行，并不代表风险已经消除。模型部署后仍需对出站网络访问做控制，避免其对外发起不受约束的连接。",
+        "generatedAt": "2026-11-26T13:33:35+08:00"
+      }
+    },
+    {
       "id": "7b7cb44d5be86a31",
       "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
       "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop",
@@ -1445,6 +1516,32 @@
       "related": [],
       "pushed": true,
       "pushedAt": "2026-11-26T06:04:35+08:00"
+    },
+    {
+      "id": "e5fa006d6d35eacd",
+      "title": "Multi-agent System for Automatic Discovery of Pareto-optimal Meta-solvers for PDEs",
+      "url": "https://arxiv.org/abs/2611.31611",
+      "summary": "arXiv:2611.31611v1 Announce Type: new Abstract: Designing linear solvers for discretized partial differential equations requires problem-specific expertise. We present a multi-agent framework, in which language-model agents propose, critiqu…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 31,
+      "paperRank": 12,
+      "related": [],
+      "pushed": false
     },
     {
       "id": "59a3e514c25e539b",
@@ -1612,6 +1709,474 @@
       ],
       "confidence": 0.29,
       "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "d97bcf0fef09cc95",
+      "title": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
+      "url": "https://arxiv.org/abs/2611.31475",
+      "summary": "arXiv:2611.31475v1 Announce Type: new Abstract: Spatial reasoning agents increasingly rely on external tools, such as 3D reconstruction, segmentation, and geometric computation, to answer questions that a multimodal large language model (ML…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 16,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a8b12218dc5362be",
+      "title": "Boundary-Aware Policy Learning for Agent-Orchestrated Robot Manipulation",
+      "url": "https://arxiv.org/abs/2611.32238",
+      "summary": "arXiv:2611.32238v1 Announce Type: cross Abstract: Agent-orchestrated robot systems combine the general reasoning capability of multimodal agents with the precise physical control of learned visuomotor policies. Yet such systems often fail a…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 16,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "99c45d25d946cfe5",
+      "title": "GDS Agent for Graph Algorithmic Reasoning",
+      "url": "https://arxiv.org/abs/2508.20637",
+      "summary": "arXiv:2508.20637v3 Announce Type: replace-cross Abstract: Large language models (LLMs) have shown remarkable multimodal information processing and reasoning ability. When equipped with tools through function calling and enhanced with retrie…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 16,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "97968efdb1f690aa",
+      "title": "Search-E1: Self-Distillation Drives Self-Evolution in Search-Augmented Reasoning",
+      "url": "https://arxiv.org/abs/2605.22511",
+      "summary": "arXiv:2605.22511v3 Announce Type: replace-cross Abstract: Outcome based reinforcement learning provides a simple and effective recipe for training search augmented reasoning agents. Recent work seeks further improvements through stronger ex…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 15,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b4d1668269dc5edb",
+      "title": "XMind: Thinking Twice via Cross-Memory Reasoning for LLM-Based Autonomous Driving",
+      "url": "https://arxiv.org/abs/2611.32209",
+      "summary": "arXiv:2611.32209v1 Announce Type: new Abstract: Memory-augmented large language model (LLM) driving agents can reuse past experience, yet previously learned corrections often fail to transfer when traffic conditions change. A key limitation…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1f25f7f2d1b60fe9",
+      "title": "GeoSurge: Geometry-Grounded Multimodal Reasoning for Auditable Liver Resection Planning",
+      "url": "https://arxiv.org/abs/2611.32657",
+      "summary": "arXiv:2611.32657v1 Announce Type: new Abstract: Surgical resection planning centers on generating executable resection surfaces from anatomical evidence and operative constraints. Medical multimodal foundation models enable anatomical under…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "590287cd9aacb119",
+      "title": "RubikSQL-HB: Agentic Text-to-SQL with Knowledge in the Loop",
+      "url": "https://arxiv.org/abs/2611.32772",
+      "summary": "arXiv:2611.32772v1 Announce Type: new Abstract: Database agents need more than schema structure: business meanings, stored values and reference queries supply knowledge that becomes relevant at different points in reasoning. We introduce Ru…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "08d3b54c510a2cc9",
+      "title": "Clinical3D-Bench: Evaluating and Improving Spatial Intelligence of Multimodal LLMs in Hospital Environments",
+      "url": "https://arxiv.org/abs/2611.32094",
+      "summary": "arXiv:2611.32094v1 Announce Type: cross Abstract: Spatial reasoning in hospitals requires tracking look-alike equipment, interpreting patient-relative directions, and judging passage widths, yet existing benchmarks provide limited coverage …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "30ca383440bf0816",
+      "title": "See the Answer, Learn to Embed: Learning Universal Multimodal Embeddings from Hindsight",
+      "url": "https://arxiv.org/abs/2611.32439",
+      "summary": "arXiv:2611.32439v1 Announce Type: cross Abstract: Universal Multimodal Embedding (UME) models map heterogeneous multimodal inputs into a shared embedding space, where pairwise similarity supports diverse downstream tasks. Recent reasoning-d…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "0e5470d0604b4d3c",
+      "title": "Next-Manip: On-Demand Agent-Policy Collaboration for Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2611.32533",
+      "summary": "arXiv:2611.32533v1 Announce Type: cross Abstract: General-purpose robotic manipulation requires task reasoning, failure recovery, and precise control, yet limited manipulation data make these abilities difficult to obtain from a single poli…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b53d7a1b07a0518e",
+      "title": "Are We Rewarding the Wrong Module? Module-Specific Policy Optimization for Multimodal Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.32687",
+      "summary": "arXiv:2611.32687v1 Announce Type: cross Abstract: Reinforcement learning with verifiable rewards (RLVR) based on Group Relative Policy Optimization (GRPO) has been widely adopted to enhance the multimodal reasoning of multimodal large langu…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "56e5a61c6e1f9cf5",
+      "title": "MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning",
+      "url": "https://arxiv.org/abs/2511.21460",
+      "summary": "arXiv:2511.21460v2 Announce Type: replace Abstract: Large Language Models (LLMs) exhibit impressive reasoning capabilities but often suffer from \"Embodied Semantic Hallucinations\" - generating plans that are semantically fluent but physical…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3c0625e4b6246b33",
+      "title": "M2A: Synergizing Mathematical and Agentic Reasoning in Large Language Models",
+      "url": "https://arxiv.org/abs/2605.09879",
+      "summary": "arXiv:2605.09879v2 Announce Type: replace Abstract: While reasoning has become a central capability of large language models (LLMs), the reasoning patterns required for different scenarios are often misaligned. Mathematical reasoning typica…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "081b42e7e35750b4",
+      "title": "PEAR: Adaptive Advantage Reshaping for Perception and Exploration in Large Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.32216",
+      "summary": "arXiv:2610.32216v2 Announce Type: replace Abstract: Effective multimodal reasoning requires a model to reliably utilize visual information while sufficiently exploring diverse reasoning paths. To achieve this goal, prior work combines visua…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "413e2ebca999aa6d",
+      "title": "Improving the Improver: Semantic PID Control for Medical Agent Self-Improvement",
+      "url": "https://arxiv.org/abs/2611.28680",
+      "summary": "arXiv:2611.28680v2 Announce Type: replace Abstract: High-stakes vertical medical tasks, such as postoperative pathological staging and long-term survival prediction, demand multi-step clinical reasoning over heterogeneous evidence under wea…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "60c0ba7c7a503449",
+      "title": "Does Latent Planning Survive Point Clouds? Action-Conditioned JEPA World Models for Geometric Observations and Goals",
+      "url": "https://arxiv.org/abs/2608.29434",
+      "summary": "arXiv:2608.29434v3 Announce Type: replace-cross Abstract: Latent action world models let agents plan new behaviors at test time by predicting how actions change the environment, and joint-embedding predictive architectures (JEPAs) do so by …",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "70764e24a95ee22e",
+      "title": "CypherMAS: Benchmarking Routing Reliability in LLM-Based Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2611.33242",
+      "summary": "arXiv:2611.33242v1 Announce Type: cross Abstract: Multi-agent systems (MAS) built on large language models (LLMs) distribute reasoning across specialized agents that must exchange messages and invoke tools reliably. Existing evaluations typ…",
+      "source": {
+        "id": "arxiv-cl",
+        "name": "arXiv cs.CL",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1c2cab2037ee221b",
+      "title": "OmniEVIE: Evidence-Vector-Informed Embedding for Multi-modal Retrieval",
+      "url": "https://arxiv.org/abs/2611.32203",
+      "summary": "arXiv:2611.32203v1 Announce Type: cross Abstract: Multimodal retrieval must match dense pages, fine-grained entities, ordered video, and agent tools and memory. Single-vector embeddings lose local evidence, cross-encoders reread every recal…",
+      "source": {
+        "id": "arxiv-ai",
+        "name": "arXiv cs.AI",
+        "weight": 1,
+        "type": "paper"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T13:00:00+08:00",
+      "fetchedAt": "2026-11-26T13:33:12+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "arXiv"
+      ],
+      "confidence": 1,
+      "score": 25,
+      "paperRank": 10,
       "related": [],
       "pushed": false
     }
