@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updatedAt": "2026-11-26T12:14:25+08:00",
+  "updatedAt": "2026-11-26T12:42:37+08:00",
   "items": [
     {
       "id": "587668722ad0d72c",
@@ -75,6 +75,42 @@
         "generatedAt": "2026-11-26T06:04:28+08:00"
       },
       "pushedAt": "2026-11-26T06:04:35+08:00"
+    },
+    {
+      "id": "4d184126ddc41edd",
+      "title": "国产模型扎进 AI4S 深水区，几毫秒破译尘封18年密码学悬案",
+      "url": "https://leiphone.com/category/yanxishe/T2xmmiMAC6WbuuCM.html",
+      "summary": "作者丨高允毅编辑丨岑峰 11月20日， AI for Science 迎来了一个载入史册的日子：Anthropic 数学家联合 Claude 拿下黎曼猜想的关键突破，同一天，以复杂的数学计算著称的密码学领域，也被AI撼动。据 MiniMax 官方展示， 其最新内部模型 MIM， 接连攻破了多个 NIST 密码候选方案和顶会最新发表的前沿成果。在 TII McEliece 中直接恢复了 94 个私钥，其中 55 个为全球首次攻克。在最受关注的破译效率上，速度直接提升了 4340…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T10:23:00+08:00",
+      "fetchedAt": "2026-11-26T12:42:28+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 53,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "MiniMax 内部模型 MIM 攻破多项密码学难题，效率提升 4340 倍",
+        "takeaway": "国产 AI 模型在密码学领域取得突破，攻破多个 NIST 候选方案和顶会成果，效率惊人。",
+        "bullets": [
+          "MiniMax 内部模型 MIM 攻破多个 NIST 密码候选方案和顶会前沿成果。",
+          "在 TII McEliece 中恢复 94 个私钥，其中 55 个为全球首次攻克。",
+          "破译效率提升 4340 倍，几毫秒破解尘封 18 年的密码学悬案。"
+        ],
+        "detail": "11月20日，AI for Science 迎来重要进展。MiniMax 最新内部模型 MIM 在密码学领域取得突破，接连攻破多个 NIST 密码候选方案和顶会最新成果。在 TII McEliece 中直接恢复 94 个私钥，其中 55 个为全球首次攻克，破译效率提升 4340 倍。",
+        "generatedAt": "2026-11-26T12:42:37+08:00"
+      }
     },
     {
       "id": "6b540a46d07e61ca",
@@ -1547,6 +1583,34 @@
         "架构"
       ],
       "confidence": 0.2,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "c921a3a6efb4faa5",
+      "title": "单卡3小时干翻128张卡7天：伯克利CoRL最佳论文把机器人训练成本砍掉1000倍",
+      "url": "https://tmtpost.com/8218079.html",
+      "summary": "伯克利CoRL 2026最佳论文SuperMimic用一个可微世界模型，单卡GPU训练3小时打败128卡集群跑7天的SOTA，把人形机器人控制的算力成本砍掉1000倍。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-26T09:43:00+08:00",
+      "fetchedAt": "2026-11-26T12:42:28+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力",
+        "集群",
+        "训练成本",
+        "GPU"
+      ],
+      "confidence": 0.29,
       "score": 30,
       "related": [],
       "pushed": false
