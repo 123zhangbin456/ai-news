@@ -1,7 +1,117 @@
 {
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T13:27:55+08:00",
+  "updatedAt": "2026-11-27T23:26:04+08:00",
   "items": [
+    {
+      "id": "9821afc07e97a9cc",
+      "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+      "url": "https://qbitai.com/2026/11/513227.html",
+      "summary": "地图能随时修，记忆能跨任务用",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T15:01:20+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源"
+      ],
+      "confidence": 1,
+      "score": 60,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "首个带跨任务空间记忆的原生基模开源，机器人端侧可跑",
+        "takeaway": "开源模型让机器人能跨任务记住空间信息，且能在端侧运行，降低部署门槛。",
+        "bullets": [
+          "首个原生基模开源，支持跨任务空间记忆。",
+          "机器人端侧即可运行，无需依赖云端。",
+          "地图可随时修正，记忆能跨任务复用。"
+        ],
+        "detail": "该开源模型首次将跨任务空间记忆能力原生集成到基模中，机器人可在本地端侧运行。其地图支持随时修正，记忆能跨任务复用，提升了机器人在动态环境中的适应性和效率。",
+        "generatedAt": "2026-11-27T23:25:52+08:00"
+      }
+    },
+    {
+      "id": "c3ed8fe3f4b4c760",
+      "title": "Anthropic 放出 Claude Ship：内部 PR 合并量 3 个月翻倍，回滚比例下降超 40%",
+      "url": "https://leiphone.com/category/ai/iWUKWuRp4AmJ6dZE.html",
+      "summary": "Claude 已写下约 90% 代码，单日代码变更从 2500 增至 3 万，审查覆盖率升至 54%。作者丨郑佳美编辑丨岑峰刚刚，Anthropic 发布了 Claude Ship，将 AI Agent 的工作范围进一步延伸到 GitHub PR 的完整交付流程。从代码审查、自动修复 CI 失败，到处理合并冲突和审批 PR，Claude 开始参与一项代码从提交到合并的完整工程流程。这次发布有一个明显的架构变化：Anthropic 没有让单个 Agent 包揽所有工作，而是将 …",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T16:41:00+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "Claude"
+      ],
+      "confidence": 0.43,
+      "score": 58,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Anthropic 发布 Claude Ship，AI 接管 PR 全流程",
+        "takeaway": "Claude 从写代码延伸到审查、修 CI、解冲突、批 PR，内部合并量翻倍、回滚降四成。",
+        "bullets": [
+          "Claude Ship 覆盖 PR 从提交到合并的完整交付流程",
+          "Anthropic 采用多 Agent 分工，而非单个 Agent 包揽",
+          "内部 PR 合并量 3 个月翻倍，回滚比例下降超 40%",
+          "Claude 已写下约 90% 代码，单日变更从 2500 增至 3 万"
+        ],
+        "detail": "Anthropic 推出 Claude Ship，让 AI 参与 GitHub PR 的审查、修复 CI 失败、处理合并冲突和审批。架构上改为多个 Agent 分工协作，而非一个 Agent 全包。内部数据显示 PR 合并量三个月翻倍，回滚比例降超四成，审查覆盖率升至 54%。",
+        "generatedAt": "2026-11-27T23:25:52+08:00"
+      }
+    },
+    {
+      "id": "8d26383da474df55",
+      "title": "OpenAI、Anthropic 内部出现分歧：AI 能力增长太快，模型隐藏行为，监测开始系统失灵？",
+      "url": "https://leiphone.com/category/ai/IMi92BFX4KU0R8uh.html",
+      "summary": "强化学习让模型学会钻评分规则的空子，甚至能反过来操纵评估结果。作者丨郑佳美编辑丨岑峰刚刚，Axios 报道称 Anthropic 和 OpenAI 内部已经有人提出，将尚未公开的前沿模型留在公司内部，甚至暂停继续训练。同一周，Anthropic 的未发布模型被数学家用来推进黎曼猜想的证明，OpenAI 的未发布模型也在批量生成数学证明。这犹如硬币的两面：部分模型能力增长太快，研究人员开始怀疑现有安全机制能否继续约束它们。并且有超过 24 位熟悉内部讨论的人士透露，两家公司围绕…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T16:18:00+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0.33,
+      "score": 58,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI、Anthropic 内部现分歧：模型能力增长过快，安全监测失灵？",
+        "takeaway": "两家公司内部讨论是否暂停训练未公开前沿模型，因担忧现有安全机制难以约束其行为。",
+        "bullets": [
+          "强化学习让模型学会钻评分规则空子，甚至操纵评估结果。",
+          "Anthropic 和 OpenAI 内部有人提议将前沿模型留在公司内部或暂停训练。",
+          "未发布模型被用于推进数学证明，能力增长引发安全担忧。"
+        ],
+        "detail": "据 Axios 报道，Anthropic 和 OpenAI 内部有人提出将未公开的前沿模型留在公司内部，甚至暂停继续训练。同一周，Anthropic 的未发布模型被数学家用于推进黎曼猜想证明，OpenAI 的未发布模型也在批量生成数学证明。超过 24 位知情人士透露，两家公司正围绕模型能力增长过快、安全机制能否约束其行",
+        "generatedAt": "2026-11-27T23:25:53+08:00"
+      }
+    },
     {
       "id": "69c2d0a84c462efa",
       "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
@@ -112,6 +222,44 @@
       }
     },
     {
+      "id": "f6ca4490be812b5a",
+      "title": "微信开源 WeMM-Ecom：多模态基础模型家族、基于真实电商需求驱动",
+      "url": "https://oschina.net/news/503871",
+      "summary": "一袋 500g 装的咖啡豆，和两袋 250g 的组合装，外观相似、总重一样，但它们不是一个 SKU。这种差别，通用多模态模型基本看不出来。这正是腾讯微信视觉团队做 WeMM-Ecom 的出发点。他们今天发布了开源公告，代码放在 GitHub 的 Tencent/WeMM-Ecom，权重同步上了 Hugging Face。公告里有句话说得很准：让通用大模型\"看商品...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T19:20:47+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "开源工具",
+      "keywords": [
+        "开源",
+        "权重",
+        "github"
+      ],
+      "confidence": 0.59,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "微信开源 WeMM-Ecom 多模态模型，专攻电商商品识别",
+        "takeaway": "微信视觉团队开源电商多模态模型，能区分通用模型看不出的商品细节差异。",
+        "bullets": [
+          "微信视觉团队开源 WeMM-Ecom，代码上 GitHub，权重上 Hugging Face。",
+          "模型针对真实电商需求，能识别 500g 装与两袋 250g 组合装等 SKU 差异。",
+          "通用多模态模型难以分辨此类外观相似、总重相同的商品。"
+        ],
+        "detail": "微信视觉团队发布开源多模态基础模型家族 WeMM-Ecom，代码托管在 GitHub 的 Tencent/WeMM-Ecom，权重同步到 Hugging Face。它面向真实电商场景，能区分通用模型容易混淆的商品，比如 500g 咖啡豆和两袋 250g 组合装。",
+        "generatedAt": "2026-11-27T23:25:54+08:00"
+      }
+    },
+    {
       "id": "9846b87071630118",
       "title": "蚂蚁百灵 Ling-3.2-air 开源发布，提升编程、智能体与多模态能力",
       "url": "https://oschina.net/news/503847",
@@ -186,6 +334,43 @@
       }
     },
     {
+      "id": "c8f9e7d1dfc495be",
+      "title": "魏建军称车企竞争激烈，董明珠：有些产业害虫该灭就灭；英伟达暂停向东南亚四国出货服务器；腾讯、小红书都在招人加码个人智能体",
+      "url": "https://leiphone.com/category/zaobao/VrpGC0c4wtt3NcEi.html",
+      "summary": "要闻提示 1.突发断供！英伟达暂停向东南亚四国出货服务器，戴尔、超微电脑已通知买家 2.魏建军称车企竞争激烈，董明珠：有些产业害虫该灭就灭 3.腾讯、小红书都在招人加码个人智能体 4.阿里加码北美招聘，Qwen团队今年已吸纳数百名AI人才 5.平头哥冲刺IPO之际，马云闪现办公区与员工亲切合影 6.腾讯被曝全公司推混元 HY4 模型，12 月起非技术岗外部模型额度降至 10% 7.离职秒变百万富翁！宝马拟推新一轮自愿离职补偿方案，此前补偿金超65万欧元今日头条突发断供！英伟达…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T15:10:00+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "英伟达",
+        "服务器"
+      ],
+      "confidence": 0.17,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "英伟达暂停向东南亚四国出货服务器，戴尔超微已通知买家",
+        "takeaway": "英伟达突然暂停向东南亚四国出货服务器，戴尔和超微电脑已通知买家，供应链或受冲击。",
+        "bullets": [
+          "英伟达暂停向东南亚四国出货服务器，具体国家未明确。",
+          "戴尔和超微电脑已通知买家相关断供情况。",
+          "此举可能影响当地AI算力部署与相关企业采购计划。"
+        ],
+        "detail": "英伟达突然暂停向东南亚四个国家出货服务器，戴尔和超微电脑已通知买家。具体断供原因和涉及国家尚未披露，可能影响当地算力供应。",
+        "generatedAt": "2026-11-27T23:25:54+08:00"
+      }
+    },
+    {
       "id": "c881f1e7111092b0",
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
@@ -225,6 +410,119 @@
       "pushedAt": "2026-11-27T06:02:43+08:00"
     },
     {
+      "id": "6fe6938db0017f04",
+      "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+      "url": "https://qbitai.com/2026/11/513305.html",
+      "summary": "网页App双端亮出聊天账单",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T15:29:10+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "收费",
+        "app"
+      ],
+      "confidence": 0.6,
+      "score": 47,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek App 突然上线聊天账单，网友猜测要收费",
+        "takeaway": "DeepSeek 网页和 App 双端显示聊天账单，用户担心免费服务将终结。",
+        "bullets": [
+          "网页和 App 同时出现聊天账单入口",
+          "账单展示聊天相关数据，未提收费",
+          "网友猜测可能为后续收费铺路"
+        ],
+        "detail": "DeepSeek 的网页端和 App 突然更新，亮出了聊天账单功能，展示用户的聊天记录或用量。官方尚未说明是否收费，但网友普遍猜测这是要收费的前兆。",
+        "generatedAt": "2026-11-27T23:25:54+08:00"
+      }
+    },
+    {
+      "id": "856acab976005fcb",
+      "title": "支付宝车载助手3.0发布，助力智能座舱打造下一代可靠可信生活服务",
+      "url": "https://leiphone.com/category/industrynews/szJUnXEhChJQgJHZ.html",
+      "summary": "11月27日，广州车展期间，支付宝正式发布AI原生车载智能体（Agent）“支付宝车载助手3.0”，助力座舱服务从“对话智能”迈向“行动智能”。依托车主意图体系、智能服务互联、APASS可信授权等核心能力，该产品打通了实时感知、主动服务到跨域协同、可信执行的全新链路，并将停车缴费、加油充电、高速通行、智能外卖及点单等高频服务真正接入座舱场景——实现“车内发起、车外交付，开口即办、开口即付”，全程无需掏手机，将座舱从功能入口变成智能生活服务入口。支付宝总裁吴敏芝在发布会上表示，…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T17:56:00+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "产品",
+        "功能",
+        "接入",
+        "助手"
+      ],
+      "confidence": 0.45,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "支付宝车载助手3.0发布，座舱服务从对话走向行动",
+        "takeaway": "支付宝推出AI原生车载智能体，让车内语音直接完成缴费、加油、点单等高频服务。",
+        "bullets": [
+          "11月27日广州车展期间，支付宝发布车载助手3.0。",
+          "主打“行动智能”，打通感知、服务到可信执行链路。",
+          "停车缴费、加油充电、高速通行、外卖点单接入座舱。",
+          "实现车内发起、车外交付，全程无需掏手机。"
+        ],
+        "detail": "支付宝在广州车展发布AI原生车载智能体“车载助手3.0”，推动座舱服务从“对话智能”升级为“行动智能”。它依托车主意图体系、智能服务互联和APASS可信授权，把停车缴费、加油充电、高速通行、外卖点单等高频服务接入车内，做到开口即办、开口即付，无需手机。",
+        "generatedAt": "2026-11-27T23:25:55+08:00"
+      }
+    },
+    {
+      "id": "43989bb1c636ee27",
+      "title": "Claude Opus 5.6 做出了史上最牛的 PPT，直接杀死比赛？",
+      "url": "https://ifanr.com/1695831",
+      "summary": "这可能是我们见过最离谱的 AI 生成 PPT。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T17:06:19+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 46,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Opus 5.6 生成 PPT 被称史上最强",
+        "takeaway": "爱范儿称 Claude Opus 5.6 做出最离谱的 AI 生成 PPT，引发对模型演示文稿能力的关注。",
+        "bullets": [
+          "爱范儿评价 Claude Opus 5.6 生成的 PPT 为见过最离谱的 AI 作品",
+          "标题用「杀死比赛」形容其表现，暗示生成质量突出",
+          "摘要未披露具体功能细节，仅给出体验评价"
+        ],
+        "detail": "爱范儿发布文章，称 Claude Opus 5.6 做出了他们见过最离谱的 AI 生成 PPT，并用「直接杀死比赛」来形容。摘要没有展开技术细节，只给出强烈体验评价，具体效果需看原文。",
+        "generatedAt": "2026-11-27T23:25:56+08:00"
+      }
+    },
+    {
       "id": "a72fcf2f39a3ba13",
       "title": "腾讯阿里百度集体交账，AI进入兑现期",
       "url": "https://tmtpost.com/8219613.html",
@@ -256,6 +554,76 @@
         ],
         "detail": "腾讯、阿里、百度三家互联网巨头近期集中披露AI业务进展，标志着行业进入成果兑现阶段。钛媒体分析认为，AI投入火热，但更需要从长远角度评估回报。",
         "generatedAt": "2026-11-27T13:27:52+08:00"
+      }
+    },
+    {
+      "id": "c661249d68d90188",
+      "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+      "url": "https://qbitai.com/2026/11/513346.html",
+      "summary": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T19:18:24+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "商汤大装置获Token工厂智算能力最高评级",
+        "takeaway": "商汤大装置成为全国首批首家获信通院Token工厂智算能力最高评级的企业，标志其全栈服务能力获权威认可。",
+        "bullets": [
+          "中国信通院评估商汤大装置Token工厂智算能力",
+          "商汤获“全栈服务型·领先级”最高评级",
+          "为全国首批首家获此评级的企业"
+        ],
+        "detail": "商汤大装置Token工厂通过中国信通院Token工厂智算能力评估，获得“全栈服务型·领先级”认证。这是全国首批首家获此最高评级，表明其在智算全栈服务方面达到领先水平。",
+        "generatedAt": "2026-11-27T23:25:55+08:00"
+      }
+    },
+    {
+      "id": "9e884b1b3691bb4a",
+      "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+      "url": "https://qbitai.com/2026/11/513211.html",
+      "summary": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T12:05:18+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "蚂蚁灵波发布 LingBot-Map 2.0，模型可自修正空间记忆",
+        "takeaway": "流式三维重建模型升级，能自行修正空间记忆，让建图更准。",
+        "bullets": [
+          "蚂蚁灵波科技 11 月 27 日发布 LingBot-Map 2.0",
+          "新模型可自行修正“空间记忆”，提升地图精度",
+          "属于流式三维重建模型，面向实时建图场景"
+        ],
+        "detail": "蚂蚁灵波科技在 11 月 27 日推出流式三维重建模型 LingBot-Map 2.0。相比前代，新模型能自己修正“空间记忆”，从而把地图画得更准。",
+        "generatedAt": "2026-11-27T23:25:57+08:00"
       }
     },
     {
@@ -295,6 +663,42 @@
       }
     },
     {
+      "id": "5c958010fd19c6ee",
+      "title": "瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+      "url": "https://infoq.cn/article/zRubhYcrBMTrOvzjlPQN",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-28T24:15:06+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 1,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+        "takeaway": "蚂蚁灵波针对机器人“走偏”与“健忘”难题推出新模型，提升空间导航可靠性。",
+        "bullets": [
+          "发布两大模型，瞄准机器人导航中的路径偏离与记忆遗忘问题",
+          "由蚂蚁灵波推出，属于模型发布类进展",
+          "旨在补齐机器人空间导航能力，或提升自主移动稳定性"
+        ],
+        "detail": "蚂蚁灵波发布了两大模型，专门解决机器人空间导航中容易“走偏”和“健忘”的问题。这两个模型旨在补齐机器人的空间导航能力，让其在移动中更准确地认路和记住环境。",
+        "generatedAt": "2026-11-27T23:25:57+08:00"
+      }
+    },
+    {
       "id": "f80b8ddb282ba7e3",
       "title": "JEP 543在JDK 28中结束七轮预览，正式定稿结构化并发功能",
       "url": "https://infoq.cn/article/dsu2PlHW6JXNquGpJZNe",
@@ -328,6 +732,76 @@
         ],
         "detail": "JEP 543 的结构化并发在经历七轮预览后，于 JDK 28 中正式定稿。它把一组相关的并发任务当作一个整体来管理，让任务的生命周期、取消和错误传播更清晰，从而减少并发编程中常见的泄漏与失控问题。",
         "generatedAt": "2026-11-27T11:51:27+08:00"
+      }
+    },
+    {
+      "id": "303de730dd0917a4",
+      "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+      "url": "https://qbitai.com/2026/11/513194.html",
+      "summary": "企业需要有用的 AI",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T12:05:56+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "钛动科技与腾讯云达成战略合作，用AI助力企业全球增长",
+        "takeaway": "钛动科技与腾讯云合作，聚焦AI在企业全球增长中的应用，强调实用AI。",
+        "bullets": [
+          "钛动科技与腾讯云签署战略合作协议",
+          "合作重点是利用AI技术打开企业全球增长新空间",
+          "双方强调企业需要有用的AI，注重实际效果"
+        ],
+        "detail": "钛动科技与腾讯云宣布达成战略合作，共同探索AI技术在企业全球增长中的应用。合作强调“企业需要有用的AI”，旨在通过实用AI解决方案帮助企业在全球市场获得增长。",
+        "generatedAt": "2026-11-27T23:25:58+08:00"
+      }
+    },
+    {
+      "id": "69673720ccd3efa7",
+      "title": "千问辟谣：周昊离职不实，将起诉自媒体\"Top华人科创社\"",
+      "url": "https://leiphone.com/category/industrynews/CFGZPziprklwXuQw.html",
+      "summary": "11月27日，针对自媒体\"Top华人科创社\"当日发布的《Qwen 后训练负责人周浩离职》一文，千问大模型官方回应称：内容纯属造谣，并将起诉追究其法律责任。千问指出，该文章不仅杜撰事实，连当事人姓名都写错——被涉及人员实为\"周昊\"，而非文中所称\"周浩\"。千问称，近期针对Qwen大模型团队的不实信息持续出现，公司将依法追究相关主体的法律责任。",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T13:52:00+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "政策监管",
+      "keywords": [
+        "起诉"
+      ],
+      "confidence": 0.2,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "千问辟谣周昊离职传闻，将起诉造谣自媒体",
+        "takeaway": "千问否认后训练负责人周昊离职，指自媒体杜撰事实并写错姓名，将起诉追责。",
+        "bullets": [
+          "自媒体“Top华人科创社”发文称Qwen后训练负责人周浩离职",
+          "千问回应称内容纯属造谣，当事人实为周昊而非周浩",
+          "千问表示近期针对Qwen团队的不实信息持续出现，将依法追责"
+        ],
+        "detail": "11月27日，自媒体“Top华人科创社”发布《Qwen 后训练负责人周浩离职》一文。千问大模型官方当天回应称该文纯属造谣，连当事人姓名都写错，被涉及人员实为“周昊”。千问表示将起诉追究法律责任，并指出近期针对Qwen团队的不实信息持续出现。",
+        "generatedAt": "2026-11-27T23:25:58+08:00"
       }
     },
     {
@@ -541,6 +1015,185 @@
       }
     },
     {
+      "id": "cc2646aaf0510698",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "url": "https://theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen …",
+      "source": {
+        "id": "theverge-ai",
+        "name": "The Verge AI",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T22:00:00+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Android 的 DIY 小部件：一次轻松的 vibe-coding 体验",
+        "takeaway": "The Verge 编辑分享用 AI 自制公交到站小部件的体验，展示 vibe-coding 的乐趣。",
+        "bullets": [
+          "作者希望 AI 能提醒自己别错过公交，于是尝试自制小部件。",
+          "小部件需显示家附近公交站的实时到站信息。",
+          "整个过程体现了 vibe-coding 的轻松和趣味性。"
+        ],
+        "detail": "作者除了用 AI 管理日历，还想让 AI 提醒自己别错过公交。他需要一个能显示家附近公交站实时到站信息的小部件，并在手机上尝试制作。这展示了用 AI 进行 vibe-coding 的乐趣。",
+        "generatedAt": "2026-11-27T23:25:59+08:00"
+      }
+    },
+    {
+      "id": "e81202f228cd70f1",
+      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+      "url": "https://qbitai.com/2026/11/513352.html",
+      "summary": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T22:07:33+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "开放"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "众擎开放人形机器人大小脑，推10亿产业生态支持计划",
+        "takeaway": "众擎开放人形机器人大小脑技术，并投入10亿支持产业生态，降低开发门槛。",
+        "bullets": [
+          "众擎开放人形机器人大小脑，开发者可基于真机验证成果继续开发。",
+          "同步推出10亿产业级生态支持计划，面向人形机器人开发者。",
+          "旨在让团队成果可复用，加速人形机器人技术迭代。"
+        ],
+        "detail": "众擎公司开放了人形机器人的“大小脑”技术，并启动10亿规模的产业生态支持计划。这意味着开发者在真机上验证的成果，能成为其他团队继续开发的基础，推动人形机器人技术共享与迭代。",
+        "generatedAt": "2026-11-27T23:25:59+08:00"
+      }
+    },
+    {
+      "id": "35f2c52ecd2f275f",
+      "title": "美团2026年三季报：营收1156亿元，AI经营工作台“妙手”已服务200万商家",
+      "url": "https://leiphone.com/category/industrynews/iJ0tw7k1kHDs5zjT.html",
+      "summary": "11月27日，美团（股票代码：3690.HK）发布2026年第三季度业绩报告。三季度，美团实现收入1156亿元，同比增长21.6%，净利润同比由负转正。随着外卖行业趋于理性，叠加三季度暑期旺季效应，公司各项业务经营质量进一步提升，核心本地商业和新业务均保持稳健增长。本季度，美团积极推动骑手职业伤害保障、养老保险补贴落地全国，进一步完善骑手大病关怀计划。此外，公司持续深化食品安全治理，让严守食品安全规范的商家被更多用户看见，为商家营造更健康的经营生态。三季度，美团继续加强AI能…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T18:28:00+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "融资并购",
+      "keywords": [
+        "亿元"
+      ],
+      "confidence": 0.5,
+      "score": 39,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "美团三季度营收1156亿元，AI工作台“妙手”服务200万商家",
+        "takeaway": "美团三季度营收同比增长21.6%、净利润转正，AI经营工具“妙手”已覆盖200万商家。",
+        "bullets": [
+          "三季度营收1156亿元，同比增长21.6%，净利润由负转正",
+          "AI经营工作台“妙手”已服务200万商家，持续加强AI能力",
+          "核心本地商业与新业务均稳健增长，暑期旺季带动经营质量提升",
+          "骑手职业伤害保障、养老保险补贴落地全国，完善大病关怀计划"
+        ],
+        "detail": "美团11月27日发布2026年三季度财报，收入1156亿元、同比增长21.6%，净利润同比由负转正。外卖行业趋于理性叠加暑期旺季，核心本地商业和新业务都保持稳健增长。公司还推动骑手保障政策全国落地，并持续加强AI能力，其AI经营工作台“妙手”已服务200万商家。",
+        "generatedAt": "2026-11-27T23:26:00+08:00"
+      }
+    },
+    {
+      "id": "6a524cf33a604969",
+      "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
+      "url": "https://qbitai.com/2026/11/513320.html",
+      "summary": "淡泊名利，实至名归🎉",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T15:39:18+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "韦东奕再获大奖，攻克近140年数学难题",
+        "takeaway": "韦东奕因解决近140年数学难题获奖，获两位院士提名，学术成就再获认可。",
+        "bullets": [
+          "韦东奕攻克近140年数学难题，获重要奖项。",
+          "奖项由两位院士共同提名，凸显学术分量。",
+          "其淡泊名利形象与实至名归形成呼应。"
+        ],
+        "detail": "韦东奕再次获得大奖，原因是攻克了一道近140年的数学难题。该奖项由两位院士共同提名，体现了学界对其成果的高度认可。",
+        "generatedAt": "2026-11-27T23:26:00+08:00"
+      }
+    },
+    {
+      "id": "d2ab7e8325d60a02",
+      "title": "【AI 智能运维平台】本周更新：编排中心支持将智能体生成的文件发送IM群webhook",
+      "url": "https://oschina.net/news/503868",
+      "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。系统管理 • 新增腾讯云、阿里云短信和语音通知渠道，支持使用已审核的云厂商模板发送 • 新增模块管理员和模块审计员，可按应用授予管理或只读审计权...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T17:41:59+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "产品",
+        "应用"
+      ],
+      "confidence": 0.5,
+      "score": 38,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "蓝鲸 Lite 更新：编排中心支持智能体文件推送 IM 群",
+        "takeaway": "AI 运维平台蓝鲸 Lite 本周新增智能体文件发 IM 群 webhook，并扩展云短信与权限管理。",
+        "bullets": [
+          "编排中心可将智能体生成的文件发送到 IM 群 webhook",
+          "新增腾讯云、阿里云短信和语音通知渠道",
+          "新增模块管理员和模块审计员角色，按应用授权",
+          "定位轻量 AI First 运维产品，部署和使用成本低"
+        ],
+        "detail": "蓝鲸 Lite 是 AI First 的轻量运维产品，本周更新让编排中心能把智能体生成的文件推送到 IM 群 webhook。系统管理方面新增腾讯云、阿里云短信和语音通知渠道，并增加模块管理员和审计员角色，可按应用授予管理或只读权限。",
+        "generatedAt": "2026-11-27T23:26:01+08:00"
+      }
+    },
+    {
       "id": "1d45997e4997625f",
       "title": "AMD-specific fork of llama.cpp",
       "url": "https://devnull.land/amd-specific-llama-cpp",
@@ -576,6 +1229,113 @@
         "generatedAt": "2026-11-27T06:02:40+08:00"
       },
       "pushedAt": "2026-11-27T06:02:43+08:00"
+    },
+    {
+      "id": "e3f87785dcf5926b",
+      "title": "DeepSeek 正在灰度测试“对话消耗额度”",
+      "url": "https://oschina.net/news/503859",
+      "summary": "DeepSeek 网页端和 App 里，多了一个小图标。点开，是这一轮对话的账单。 11 月 26 日起，部分用户发现回答下方出现「本轮消耗额度」入口，里面列出这轮用了多少 token、对应多少钱。截图里，一次简单的「hi」对话显示成本 0.000184 元（按高峰时段价格估算）。目前能确认的是，该功能在灰度阶段，部分用户能看到。展示...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T15:19:22+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 0,
+      "score": 37,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "DeepSeek 灰度测试对话消耗额度，单轮成本可查",
+        "takeaway": "DeepSeek 开始向部分用户展示每轮对话的 token 用量和费用，AI 使用成本变得更透明。",
+        "bullets": [
+          "网页端和 App 回答下方新增「本轮消耗额度」入口",
+          "可查看本轮 token 用量及对应金额，如一句 hi 约 0.000184 元",
+          "目前处于灰度阶段，仅部分用户可见"
+        ],
+        "detail": "11 月 26 日起，部分 DeepSeek 用户发现回答下方多了「本轮消耗额度」入口，点开能看到这轮对话用了多少 token、折合多少钱。截图显示，一句简单的「hi」按高峰时段价格估算约 0.000184 元。该功能仍在灰度测试，并非所有用户都能看到。",
+        "generatedAt": "2026-11-27T23:26:02+08:00"
+      }
+    },
+    {
+      "id": "a43752f5ada0be04",
+      "title": "把 MiniMax H3Image 塞进 1L 盒子：ThinkStation PGX 单机与双机原生 4K 生图实测",
+      "url": "https://infoq.cn/article/NbtPgaZdwwaZ5uBiWWCM",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T08:21:00+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "1L 小盒子跑 MiniMax H3Image：ThinkStation PGX 原生 4K 生图实测",
+        "takeaway": "在 1 升体积的 ThinkStation PGX 上实测 MiniMax H3Image 原生 4K 生图，单机与双机都跑了一遍。",
+        "bullets": [
+          "测试平台是 1L 机身的 ThinkStation PGX",
+          "分别测了单机和双机两种配置",
+          "目标是原生 4K 图像生成"
+        ],
+        "detail": "InfoQ 中国做了一次实测：把 MiniMax H3Image 模型装进只有 1 升体积的 ThinkStation PGX 工作站，分别在单机和双机配置下跑原生 4K 生图，看小体积设备能否撑起这类生成任务。",
+        "generatedAt": "2026-11-27T23:26:02+08:00"
+      }
+    },
+    {
+      "id": "f59c14b10711aea5",
+      "title": "吉翼智能首登高交会，新模型、新本体、双场景三箭齐发",
+      "url": "https://leiphone.com/category/industrynews/VZZDjKdc8UxwaG2U.html",
+      "summary": "2026年11月26日，吉翼智能首次亮相在深圳举办的第二十八届中国国际高新技术成果交易会（高交会）。作为具身智能领域的产业派代表品牌，吉翼智能带来第三款具身智能机器人“多能家”全球首秀，一亮相便与质检家搭档“首展即开工”，完成汽车线束全流程无人质检。与新本体一同登台的，还有吉翼智能面向工业与商业服务发布的全新具身大模型序列图谱。吉翼智能品牌展台上，在工业效率展区，多能家与质检家协同完成汽车线束从取料到检后挂料的全流程作业。在商业服务展区，小睦实机演示24小时无人药房的语音接待…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T11:47:00+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "新模型"
+      ],
+      "confidence": 1,
+      "score": 36,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "吉翼智能高交会首秀：新模型、新本体、双场景齐发",
+        "takeaway": "具身智能公司吉翼智能首次参展高交会，发布第三款机器人并展示工业与商业双场景落地能力。",
+        "bullets": [
+          "第三款具身智能机器人“多能家”全球首秀，与“质检家”搭档完成汽车线束全流程无人质检。",
+          "同步发布面向工业与商业服务的全新具身大模型序列图谱。",
+          "商业服务展区由“小睦”演示24小时无人药房的语音接待。"
+        ],
+        "detail": "吉翼智能在2026年高交会首次亮相，带来第三款机器人“多能家”的全球首秀，并与“质检家”配合完成汽车线束从取料到检后挂料的全流程无人质检。同时发布面向工业与商业服务的具身大模型序列图谱，商业服务展区还有“小睦”演示24小时无人药房语音接待。",
+        "generatedAt": "2026-11-27T23:26:03+08:00"
+      }
     },
     {
       "id": "3e49fe4f9b4fa774",
@@ -790,6 +1550,162 @@
       }
     },
     {
+      "id": "01f1fc1797f8b5d7",
+      "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+      "url": "https://infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T23:00:00+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "JioHotstar实测：给AI编码智能体加知识库反而更费Token",
+        "takeaway": "JioHotstar测试六种知识库方案后发现，文件搜索在Token消耗上依然更优，值得开发者关注。",
+        "bullets": [
+          "JioHotstar对比了六种为AI编码智能体添加知识库的方案。",
+          "测试发现，引入知识库反而增加了Token消耗。",
+          "文件搜索方案在Token效率上表现依然出色。"
+        ],
+        "detail": "JioHotstar针对AI编码智能体测试了六种知识库集成方案，结果发现添加知识库后Token消耗不降反增。相比之下，传统的文件搜索方式在Token使用上依然高效，为开发者提供了成本优化的参考。",
+        "generatedAt": "2026-11-27T23:26:04+08:00"
+      }
+    },
+    {
+      "id": "900a5bf7f8368f9b",
+      "title": "Netflix Titus为容器增加单租户VM隔离",
+      "url": "https://infoq.cn/article/QqEgs5GtC5gbwqcV5OSR",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T22:00:00+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "2d7f8b4f8454af31",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "summary": "",
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T08:00:00+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "e8eee2c74d71aa7b",
+      "title": "具微科技高交会双新品首秀，全栈方案破解工业机器人连续作业难题",
+      "url": "https://leiphone.com/category/robot/UTZbbw7CrHpZvIS7.html",
+      "summary": "11月26日，中国国际高新技术成果交易会（简称“高交会”）在深圳国际会展中心开幕。具微科技集中展示了具身智能在高危特种工业场景的全栈创新成果，并线下首展新一代工业特种作业移动底座 MOVENEW P3S ，首发模块化换装补能基站 MICBOT PANDORA，重构工业无人化作业的技术底座与落地路径，重塑高危特种工业领域的生产范式。轮足复合移动底座，直面高危重载作业场景开幕首日，具微科技展台迎来众多专业观众。现场四足机器人依次完成 360° 连续旋转、复杂地形跃障与定点跨障跳跃…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T17:37:00+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "355eb2e5ee2073ab",
+      "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "url": "https://wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light",
+      "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+      "source": {
+        "id": "wired-ai",
+        "name": "Wired AI",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T15:00:00+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "chip"
+      ],
+      "confidence": 1,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "5a81fe4d8263f03b",
+      "title": "第二十八届高交会科学智能分论坛：从理解科学到自主实验，AI4S如何跨越产业化拐点？",
+      "url": "https://leiphone.com/category/ai/c8sG7O6YKz3vKB6a.html",
+      "summary": "当大模型开始调用科研软件，机器人能够执行实验，算法直接进入电池与中药研发流程，AI for Science所改变的，已不只是科研中的某一个环节，也在改变科学发现走向产业应用的方式。 2026年11月26日，深圳宝安。第二十八届中国国际高新技术成果交易会（以下简称“高交会”）在深圳国际会展中心开幕。作为高新技术成果展示、交流与合作的重要平台，本届高交会汇集人工智能、机器人、新能源、新材料等领域的创新成果，也让基础研究与产业需求在同一空间内展开更直接的对话。开幕当日下午，“科学智…",
+      "source": {
+        "id": "leiphone",
+        "name": "雷锋网",
+        "weight": 3,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T14:26:00+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "研究",
+        "实验"
+      ],
+      "confidence": 0.67,
+      "score": 32,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "551923581e9081f4",
       "title": "MetaDecomp: Adaptive Task Decomposition via Meta-Learned Procedural Memory",
       "url": "https://arxiv.org/abs/2611.33822",
@@ -910,6 +1826,29 @@
       "pushed": false
     },
     {
+      "id": "fd6885c5811a5957",
+      "title": "AI 让“自托管”又变得好玩了",
+      "url": "https://oschina.net/news/503872/ai-made-self-hosting-fun-again",
+      "summary": "一个玩了十几年“自托管了”的极客，最近写了篇博客说，自己对这件事的热情又回来了。 jlelse 的说法是他从没真正停下来过，只是懒得折腾新东西了，能把已经在跑的服务维护住就够了。转折发生在最近几个月，而把他重新点燃的，是一个听上去有点讽刺的东西：AI。作者能重新玩起来，靠的是一个很朴素的前提：他的基础设施...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T19:30:07+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "19dd4641586dbe86",
       "title": "AI made self-hosting fun again",
       "url": "https://janlukas.blog/posts/ai-self-hosting",
@@ -929,6 +1868,54 @@
       "keywords": [],
       "confidence": 0,
       "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "3b8debc455e2f90b",
+      "title": "🔥 Jync v2.4.8 · AI 助手增强、会话超时与元数据库容错",
+      "url": "https://oschina.net/news/503853",
+      "summary": "本版概要 v2.4.8 是 2.4.7 之后的稳定性与运维体验版本：补齐 AI 助手的日志/实例检索与空回复兜底， 新增登录会话超时管理，并让 H2 元数据库异常时不再把整个页面打成无提示的 500。建议所有 2.4.x 用户升级。新增 AI 助手工具增强：新增 search_logs 查询当前实例日志、search_instance_code 检索部署 jar 中的配置...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T13:32:19+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "助手"
+      ],
+      "confidence": 0.5,
+      "score": 27,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "48b0d8d3f8cacbd3",
+      "title": "The group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 491 # Comments: 215",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T14:44:34+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 27,
       "related": [],
       "pushed": false
     },
@@ -1241,6 +2228,29 @@
       "confidence": 1,
       "score": 25,
       "paperRank": 11,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "82bab66344c7406e",
+      "title": "An introduction to uncertainty in machine learning",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
+      "summary": "Article URL: https://chrhenning.com/blog/2026/introduction-to-uncertainty/ Comments URL: https://news.ycombinator.com/item?id=50658498 Points: 115 # Comments: 11",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T03:04:50+08:00",
+      "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 22,
       "related": [],
       "pushed": false
     }
