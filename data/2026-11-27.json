@@ -1,7 +1,117 @@
 {
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T06:02:43+08:00",
+  "updatedAt": "2026-11-27T11:51:30+08:00",
   "items": [
+    {
+      "id": "3abc5e39ac8a9f87",
+      "title": "乾崑共创者计划发布：加入乾崑生态，共创出行未来！",
+      "url": "https://qbitai.com/2026/11/513087.html",
+      "summary": "11月26日，“乾崑生态共赴热爱”华为乾崑生态大会在广州南沙体育馆举行。",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T10:19:12+08:00",
+      "fetchedAt": "2026-11-27T11:51:10+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布"
+      ],
+      "confidence": 0,
+      "score": 52,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "华为乾崑生态大会发布共创者计划",
+        "takeaway": "华为乾崑在广州发布共创者计划，邀请伙伴加入出行生态，值得关注其生态布局。",
+        "bullets": [
+          "11月26日华为乾崑生态大会在广州南沙体育馆举行。",
+          "大会主题为“乾崑生态共赴热爱”。",
+          "会上发布乾崑共创者计划，面向生态伙伴开放。"
+        ],
+        "detail": "11月26日，华为乾崑生态大会在广州南沙体育馆举办，主题是“乾崑生态共赴热爱”。会上发布了“乾崑共创者计划”，邀请各方加入乾崑生态，共同探索出行领域的合作机会。",
+        "generatedAt": "2026-11-27T11:51:25+08:00"
+      }
+    },
+    {
+      "id": "9846b87071630118",
+      "title": "蚂蚁百灵 Ling-3.2-air 开源发布，提升编程、智能体与多模态能力",
+      "url": "https://oschina.net/news/503847",
+      "summary": "蚂蚁百灵发布并开源了新一代大模型：Ling-3.2-air，1240 亿总参数，每个 token 只激活 55 亿。先看这个稀疏度：124B 里只激活 5.5B，约 4.4%。也就是说，它的推理成本对标的是一个 5.5B 的小模型，但参数池有 124B。这个比例比很多 MoE 模型都要激进。架构细节在模型卡里写得很全：属于 Hybrid-linear MoE，35 层 KDA ...",
+      "source": {
+        "id": "oschina",
+        "name": "开源中国",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T10:54:52+08:00",
+      "fetchedAt": "2026-11-27T11:51:10+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "发布",
+        "多模态"
+      ],
+      "confidence": 0,
+      "score": 51,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "蚂蚁百灵开源 Ling-3.2-air：1240 亿参数仅激活 55 亿",
+        "takeaway": "蚂蚁开源新一代 MoE 大模型，以极低激活比例兼顾大参数池与低推理成本。",
+        "bullets": [
+          "总参数 1240 亿，每 token 仅激活 55 亿，稀疏度约 4.4%",
+          "推理成本对标 5.5B 小模型，参数池却达 124B",
+          "采用 Hybrid-linear MoE 架构，共 35 层 KDA",
+          "官方称提升编程、智能体与多模态能力"
+        ],
+        "detail": "蚂蚁百灵发布并开源 Ling-3.2-air，总参数 1240 亿，但每个 token 只激活 55 亿，激活比例约 4.4%，比不少 MoE 模型更激进。这意味着推理开销接近 5.5B 小模型，却拥有 124B 的参数容量。模型卡还给出了 Hybrid-linear MoE、35 层 KDA 等架构细节。",
+        "generatedAt": "2026-11-27T11:51:25+08:00"
+      }
+    },
+    {
+      "id": "84a3c1e49792593f",
+      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+      "url": "https://qbitai.com/2026/11/513053.html",
+      "summary": "Quickwit查询总耗时降31%，最高降87%",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T09:16:10+08:00",
+      "fetchedAt": "2026-11-27T11:51:10+08:00",
+      "category": "研究论文",
+      "keywords": [
+        "实验"
+      ],
+      "confidence": 1,
+      "score": 49,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "20个AI智能体组队，4天跑350次实验，刷新ClickBench最佳成绩",
+        "takeaway": "AI智能体集群自动做实验，把Quickwit查询总耗时降31%，最高降87%，超越公开最佳。",
+        "bullets": [
+          "20个AI智能体组队，4天自动跑350次实验",
+          "Quickwit查询总耗时降31%，最高降87%",
+          "超越ClickBench最佳公开成绩，展示AI自动科研潜力"
+        ],
+        "detail": "量子位报道，20个AI智能体组成团队，在4天内自动完成350次实验，优化了Quickwit的查询性能。结果查询总耗时降低31%，最高降幅达87%，并超越了ClickBench的最佳公开成绩。",
+        "generatedAt": "2026-11-27T11:51:25+08:00"
+      }
+    },
     {
       "id": "c881f1e7111092b0",
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
@@ -42,6 +152,182 @@
       "pushedAt": "2026-11-27T06:02:43+08:00"
     },
     {
+      "id": "f80b8ddb282ba7e3",
+      "title": "JEP 543在JDK 28中结束七轮预览，正式定稿结构化并发功能",
+      "url": "https://infoq.cn/article/dsu2PlHW6JXNquGpJZNe",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T19:00:00+08:00",
+      "fetchedAt": "2026-11-27T11:51:10+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "功能"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "结构化并发功能定稿，将随 JDK 28 正式发布",
+        "takeaway": "历经七轮预览的 JEP 543 终于定稿，Java 并发编程迎来更安全的写法。",
+        "bullets": [
+          "JEP 543 结束七轮预览，在 JDK 28 中正式定稿",
+          "结构化并发把相关任务当作一个整体管理",
+          "有助于简化错误处理与任务取消，降低并发 bug"
+        ],
+        "detail": "JEP 543 的结构化并发在经历七轮预览后，于 JDK 28 中正式定稿。它把一组相关的并发任务当作一个整体来管理，让任务的生命周期、取消和错误传播更清晰，从而减少并发编程中常见的泄漏与失控问题。",
+        "generatedAt": "2026-11-27T11:51:27+08:00"
+      }
+    },
+    {
+      "id": "3d4c6dc224abb5a0",
+      "title": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+      "url": "https://qbitai.com/2026/11/513091.html",
+      "summary": "倒计时两周，报名从速！",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T10:56:03+08:00",
+      "fetchedAt": "2026-11-27T11:51:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "MEET2027 第三批嘉宾公布，报名进入两周倒计时",
+        "takeaway": "量子位主办的 MEET2027 大会公布第三批嘉宾，报名只剩两周，关注 AI 行业共识的人值得留意。",
+        "bullets": [
+          "MEET2027 公布第三批嘉宾名单",
+          "大会由量子位主办，聚焦 AI 新共识",
+          "距开幕两周，报名从速"
+        ],
+        "detail": "量子位主办的 MEET2027 大会公布了第三批嘉宾，活动主题是探讨 AI 领域的新共识。目前距离开幕还有两周，主办方提醒有意参会者尽快报名。",
+        "generatedAt": "2026-11-27T11:51:27+08:00"
+      }
+    },
+    {
+      "id": "11b2a332f7ff054f",
+      "title": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
+      "url": "https://qbitai.com/2026/11/513075.html",
+      "summary": "担心课题被AI抢先，该怎么办？",
+      "source": {
+        "id": "qbitai",
+        "name": "量子位",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T10:03:10+08:00",
+      "fetchedAt": "2026-11-27T11:51:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "陶哲轩验证黎曼猜想，警示AI证明如核废料",
+        "takeaway": "陶哲轩亲自验证黎曼猜想相关证明，并警告AI批量生成证明可能带来信息过载与质量风险。",
+        "bullets": [
+          "陶哲轩下场验证黎曼猜想相关证明，引发关注。",
+          "他比喻AI批量吐证明像发电厂排核废料，警示质量风险。",
+          "提出担忧：课题可能被AI抢先，研究者该如何应对。"
+        ],
+        "detail": "陶哲轩亲自验证了黎曼猜想的一项证明，并针对AI批量生成证明的现象发出警告。他将AI产出的海量证明比作发电厂排放的核废料，暗示其可能带来信息过载与质量隐患。同时，他也抛出问题：研究者担心课题被AI抢先，该怎么办？",
+        "generatedAt": "2026-11-27T11:51:27+08:00"
+      }
+    },
+    {
+      "id": "10c44d08deb930dd",
+      "title": "iOS 应用诡异崩溃始终无法复现！连测近 10 个版本，Apple 一个隐藏的线程约束坑了开发者",
+      "url": "https://infoq.cn/article/dgyrhBUSBtDo85O5cXiU",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T18:00:00+08:00",
+      "fetchedAt": "2026-11-27T11:51:10+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "应用"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "iOS 应用诡异崩溃难复现，Apple 隐藏线程约束坑了开发者",
+        "takeaway": "开发者连测近 10 个版本才定位到 Apple 隐藏的线程约束，提醒 iOS 开发注意并发陷阱。",
+        "bullets": [
+          "应用崩溃无法稳定复现，排查耗时近 10 个版本",
+          "根因是 Apple 平台一个未公开的线程约束",
+          "事件由 InfoQ 中国报道，涉及 iOS 开发者"
+        ],
+        "detail": "有开发者遇到 iOS 应用诡异崩溃，反复测试近 10 个版本仍无法复现。最终发现是 Apple 一个隐藏的线程约束导致，属于平台层面的坑，给 iOS 并发开发敲响警钟。",
+        "generatedAt": "2026-11-27T11:51:29+08:00"
+      }
+    },
+    {
+      "id": "771b987ac681bee5",
+      "title": "Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了",
+      "url": "https://ifanr.com/1695671",
+      "summary": "AI 既是一场工业革命，也是一场文艺复兴。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T11:49:58+08:00",
+      "fetchedAt": "2026-11-27T11:51:10+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 40,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude Code 核心人物反思 Vibe Coding 未来",
+        "takeaway": "Claude Code 灵魂人物对 Vibe Coding 的未来提出反思，值得关注 AI 编程走向。",
+        "bullets": [
+          "Claude Code 灵魂人物公开反思 Vibe Coding 的未来",
+          "Vibe Coding 指凭感觉用 AI 写代码的编程方式",
+          "反思或影响 AI 编程工具的发展方向"
+        ],
+        "detail": "爱范儿报道，Claude Code 的灵魂人物开始反思 Vibe Coding 的未来。文章将 AI 比作工业革命与文艺复兴，但未展开具体反思内容。",
+        "generatedAt": "2026-11-27T11:51:28+08:00"
+      }
+    },
+    {
       "id": "1d45997e4997625f",
       "title": "AMD-specific fork of llama.cpp",
       "url": "https://devnull.land/amd-specific-llama-cpp",
@@ -77,6 +363,168 @@
         "generatedAt": "2026-11-27T06:02:40+08:00"
       },
       "pushedAt": "2026-11-27T06:02:43+08:00"
+    },
+    {
+      "id": "3e49fe4f9b4fa774",
+      "title": "如何在Postgres上实现无需外部编排器的持久化工作流",
+      "url": "https://infoq.cn/article/ASHxIY37Q9IFf52OWmo3",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T18:00:00+08:00",
+      "fetchedAt": "2026-11-27T11:51:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Postgres 原生持久化工作流，无需外部编排器",
+        "takeaway": "InfoQ 分享在 Postgres 上直接实现持久化工作流的方法，省去额外编排器。",
+        "bullets": [
+          "核心思路：利用 Postgres 自身能力实现工作流持久化",
+          "无需引入外部编排器，降低架构复杂度",
+          "面向开发者，提供可落地的技术方案"
+        ],
+        "detail": "InfoQ 中国发文探讨如何仅依靠 Postgres 实现持久化工作流，而不依赖外部编排器。文章聚焦于利用数据库自身特性来管理工作流状态，为开发者提供一种简化技术栈的思路。",
+        "generatedAt": "2026-11-27T11:51:29+08:00"
+      }
+    },
+    {
+      "id": "abf4ca22c21d1327",
+      "title": "淘天集团 AI 研发负责人吕承飞（吕行）已确认出席 AICon北京，分享淘宝 AI 原生研发系统实战",
+      "url": "https://infoq.cn/article/Y6xTPR1bRWqmNNakCtXm",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T18:00:00+08:00",
+      "fetchedAt": "2026-11-27T11:51:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "淘天AI研发负责人吕承飞将出席AICon北京，分享淘宝AI原生研发实战",
+        "takeaway": "淘宝AI原生研发系统实战经验将在AICon北京分享，值得关注。",
+        "bullets": [
+          "吕承飞（吕行）确认出席AICon北京。",
+          "他将分享淘宝AI原生研发系统实战。",
+          "活动由InfoQ中国主办，聚焦AI研发。"
+        ],
+        "detail": "淘天集团AI研发负责人吕承飞（吕行）已确认出席AICon北京，将分享淘宝AI原生研发系统的实战经验。活动由InfoQ中国主办，具体议程和内容尚未公布。",
+        "generatedAt": "2026-11-27T11:51:30+08:00"
+      }
+    },
+    {
+      "id": "f1a431de50a259ec",
+      "title": "一场物理AI闭门会里的三层“温差”",
+      "url": "https://tmtpost.com/8218564.html",
+      "summary": "一份调研、四道考题，和“一手托两方”的答案",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T11:27:53+08:00",
+      "fetchedAt": "2026-11-27T11:51:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "1bafab41ee71b975",
+      "title": "光伏2026这一年：亏损周期里继续“反内卷”，集体押注储能、技术和AI",
+      "url": "https://tmtpost.com/8219738.html",
+      "summary": "真能突围吗？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T10:37:16+08:00",
+      "fetchedAt": "2026-11-27T11:51:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "4eeede226d5b7554",
+      "title": "AI制药2026：科技巨头集体下注，研发从“工具外挂”奔赴临床大考",
+      "url": "https://tmtpost.com/8219609.html",
+      "summary": "这是一场缓慢而务实的范式迁移，算力、模型、数据、实验能力、临床证据，缺一不可。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T09:08:00+08:00",
+      "fetchedAt": "2026-11-27T11:51:10+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "算力"
+      ],
+      "confidence": 0.5,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "19dd4641586dbe86",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 394 # Comments: 213",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T05:47:45+08:00",
+      "fetchedAt": "2026-11-27T11:51:10+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
