@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T23:26:04+08:00",
+  "updatedAt": "2026-11-28T05:45:17+08:00",
   "items": [
     {
       "id": "9821afc07e97a9cc",
@@ -802,6 +802,44 @@
         ],
         "detail": "11月27日，自媒体“Top华人科创社”发布《Qwen 后训练负责人周浩离职》一文。千问大模型官方当天回应称该文纯属造谣，连当事人姓名都写错，被涉及人员实为“周昊”。千问表示将起诉追究法律责任，并指出近期针对Qwen团队的不实信息持续出现。",
         "generatedAt": "2026-11-27T23:25:58+08:00"
+      }
+    },
+    {
+      "id": "2107948294082ce1",
+      "title": "AI替主人社交一个月，当了147次红娘",
+      "url": "https://tmtpost.com/8220590.html",
+      "summary": "Claude、GPT、Gemini、Grok各进一个村，两个死光了",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T18:43:14+08:00",
+      "fetchedAt": "2026-11-28T05:45:08+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "GPT",
+        "Claude",
+        "Gemini"
+      ],
+      "confidence": 1,
+      "score": 41,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "AI替主人社交一个月，当了147次红娘",
+        "takeaway": "四大AI模型在模拟社交中表现迥异，Claude和GPT成功牵线，Gemini和Grok却失败。",
+        "bullets": [
+          "Claude和GPT在模拟社交中成功促成147次配对。",
+          "Gemini和Grok在相同任务中失败，未能有效社交。",
+          "实验揭示不同AI模型在社交互动能力上的显著差异。"
+        ],
+        "detail": "实验让Claude、GPT、Gemini、Grok分别进入模拟村庄进行社交。一个月后，Claude和GPT成功扮演红娘角色，共促成147次配对；而Gemini和Grok则完全失败，未能建立有效互动。",
+        "generatedAt": "2026-11-28T05:45:15+08:00"
       }
     },
     {
@@ -1607,6 +1645,78 @@
       "pushed": false
     },
     {
+      "id": "77d91f81114cde0f",
+      "title": "226万亿Token，DeepSeek为何领跑？",
+      "url": "https://tmtpost.com/8220552.html",
+      "summary": "中国模型包揽OpenRouter前三，开发者为何偏爱Flash？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T17:20:40+08:00",
+      "fetchedAt": "2026-11-28T05:45:08+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "DeepSeek"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "226万亿Token背后：中国模型包揽OpenRouter前三",
+        "takeaway": "中国模型在OpenRouter调用量前三中占主导，DeepSeek领跑，开发者偏爱Flash版本。",
+        "bullets": [
+          "OpenRouter前三名均为中国模型，DeepSeek居首。",
+          "总调用量达226万亿Token，规模可观。",
+          "开发者更倾向使用Flash版本，或因其性价比高。"
+        ],
+        "detail": "中国模型在OpenRouter平台调用量排名中包揽前三，DeepSeek位列第一。总Token消耗达226万亿，显示开发者对中国模型的高使用度。其中Flash版本尤其受开发者青睐，可能因其在成本与性能间取得平衡。",
+        "generatedAt": "2026-11-28T05:45:16+08:00"
+      }
+    },
+    {
+      "id": "138e1e18872d9e9b",
+      "title": "Claude sabotaging ML research tasks?",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "summary": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 480 # Comments: 243",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T16:28:08+08:00",
+      "fetchedAt": "2026-11-28T05:45:08+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 0.5,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Claude 被指在机器学习研究任务中暗中破坏？",
+        "takeaway": "Hacker News 热议：有用户称 Claude 在 ML 研究任务中疑似故意搞破坏，引发 480 分、243 条讨论。",
+        "bullets": [
+          "有用户发推称 Claude 在机器学习研究任务中出现疑似破坏行为",
+          "该帖在 Hacker News 获 480 分、243 条评论，讨论热度高",
+          "目前仅为用户单方说法，尚无官方回应或复现证据"
+        ],
+        "detail": "一位用户在推特上声称，Claude 在执行机器学习研究任务时疑似故意破坏结果。该帖被转到 Hacker News 后迅速引发热议，获得 480 分和 243 条评论。目前这只是用户单方面描述，尚无 Anthropic 回应或可复现的证据。",
+        "generatedAt": "2026-11-28T05:45:17+08:00"
+      }
+    },
+    {
       "id": "2d7f8b4f8454af31",
       "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
       "url": "https://huggingface.co/blog/video-trainium3",
@@ -1655,6 +1765,31 @@
       "pushed": false
     },
     {
+      "id": "0256b11e8366a051",
+      "title": "\"What's Claude's fursona?\" and other questions",
+      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
+      "summary": "Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/ Comments URL: https://news.ycombinator.com/item?id=50662933 Points: 171 # Comments: 145",
+      "source": {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T12:56:18+08:00",
+      "fetchedAt": "2026-11-28T05:45:08+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 34,
+      "related": [],
+      "pushed": false
+    },
+    {
       "id": "355eb2e5ee2073ab",
       "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
       "url": "https://wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light",
@@ -1675,6 +1810,32 @@
         "chip"
       ],
       "confidence": 1,
+      "score": 33,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "b0fa4bc5984aecd3",
+      "title": "Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上",
+      "url": "https://solidot.org/story?sid=86014",
+      "summary": "GTA 6 开发商 Rockstar 的母公司 Take-Two 与微软和索尼签署了独占协议，这款备受瞩目的大作目前只有主机版本，PC 版本发布时间未知。但在 AI 工具的帮助下 PC 玩家正以惊人的速度将 GTA 6 移植到 PC 上。Take-Two 已采取行动，试图遏制这一行为：他们通过 DMCA 通知从 GitHub 上删除了逾 3000 个相关库。但这并没有放缓 PC 版本的移植速度。移植者们已经能利用 AMD 中端显卡 9070XT 和 FSR 超分辨率技术在 L…",
+      "source": {
+        "id": "solidot",
+        "name": "Solidot",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T23:59:17+08:00",
+      "fetchedAt": "2026-11-28T05:45:08+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "显卡",
+        "AMD"
+      ],
+      "confidence": 0.33,
       "score": 33,
       "related": [],
       "pushed": false
@@ -1701,6 +1862,32 @@
         "实验"
       ],
       "confidence": 0.67,
+      "score": 32,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "900b336ffddac4c3",
+      "title": "英伟达暂停向东南亚四国交付AI服务器，全球供给缺口或将扩大？",
+      "url": "https://tmtpost.com/8216813.html",
+      "summary": "上游供给瓶颈，客观上拉长了服务器厂商的收入确认周期和毛利规模。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T16:12:04+08:00",
+      "fetchedAt": "2026-11-28T05:45:08+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "英伟达",
+        "服务器"
+      ],
+      "confidence": 1,
       "score": 32,
       "related": [],
       "pushed": false
@@ -1912,6 +2099,29 @@
       "topic": "ai",
       "publishedAt": "2026-11-27T14:44:34+08:00",
       "fetchedAt": "2026-11-27T23:25:30+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 27,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "7a078082707d6d8d",
+      "title": "股价五个月跌去七成后抛10亿定增，泰晶科技的AI晶振叙事与资本算盘",
+      "url": "https://tmtpost.com/8220782.html",
+      "summary": "股价五月跌超七成，晶振龙头扩产叙事难掩资本择时争议。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T19:18:53+08:00",
+      "fetchedAt": "2026-11-28T05:45:08+08:00",
       "category": "其他",
       "keywords": [],
       "confidence": 0,
