@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updatedAt": "2026-11-28T05:45:17+08:00",
+  "updatedAt": "2026-11-28T11:37:24+08:00",
   "items": [
     {
       "id": "9821afc07e97a9cc",
@@ -25,7 +25,7 @@
       "confidence": 1,
       "score": 60,
       "related": [],
-      "pushed": false,
+      "pushed": true,
       "interpret": {
         "headline": "首个带跨任务空间记忆的原生基模开源，机器人端侧可跑",
         "takeaway": "开源模型让机器人能跨任务记住空间信息，且能在端侧运行，降低部署门槛。",
@@ -36,7 +36,8 @@
         ],
         "detail": "该开源模型首次将跨任务空间记忆能力原生集成到基模中，机器人可在本地端侧运行。其地图支持随时修正，记忆能跨任务复用，提升了机器人在动态环境中的适应性和效率。",
         "generatedAt": "2026-11-27T23:25:52+08:00"
-      }
+      },
+      "pushedAt": "2026-11-28T11:37:24+08:00"
     },
     {
       "id": "c3ed8fe3f4b4c760",
@@ -2054,6 +2055,31 @@
       "category": "其他",
       "keywords": [],
       "confidence": 0,
+      "score": 29,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "a628d534a141df3f",
+      "title": "datasette-mcp 0.4",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp",
+      "summary": "Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44 . Tags: model-context-protocol , datasette",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-27T08:26:17+08:00",
+      "fetchedAt": "2026-11-28T11:37:17+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release"
+      ],
+      "confidence": 1,
       "score": 29,
       "related": [],
       "pushed": false

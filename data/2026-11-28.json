@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updatedAt": "2026-11-28T05:45:17+08:00",
+  "updatedAt": "2026-11-28T11:37:23+08:00",
   "items": [
     {
       "id": "852861c31c6aa05e",
@@ -79,6 +79,40 @@
       }
     },
     {
+      "id": "e5a22d8c05032d8c",
+      "title": "OpenAI 和 Anthropic 在招什么样的营销人才？",
+      "url": "https://tmtpost.com/8221003.html",
+      "summary": "三家公司招聘要求背后，有五种共同能力。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-28T10:53:00+08:00",
+      "fetchedAt": "2026-11-28T11:37:17+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 50,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "OpenAI与Anthropic营销岗位看重哪些能力？",
+        "takeaway": "从三家AI公司招聘要求中，可归纳出营销人才需具备的五种共同能力。",
+        "bullets": [
+          "OpenAI和Anthropic等公司招聘营销人才，要求体现五种共同能力。",
+          "招聘信息来自三家公司，具体岗位与能力细节未在摘要中展开。",
+          "对求职者而言，可对照这些能力评估自身匹配度。"
+        ],
+        "detail": "钛媒体报道，通过分析OpenAI、Anthropic等三家公司的招聘要求，发现营销岗位候选人需具备五种共同能力。原文未具体列出这些能力，但指出招聘标准反映AI公司对营销人才的核心期待。",
+        "generatedAt": "2026-11-28T11:37:21+08:00"
+      }
+    },
+    {
       "id": "ec74e9ba21876128",
       "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
       "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
@@ -152,6 +186,80 @@
       }
     },
     {
+      "id": "68cfb35a007a7c13",
+      "title": "datasette-charts 0.4a0",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-charts",
+      "summary": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins ju…",
+      "source": {
+        "id": "simonwillison",
+        "name": "Simon Willison",
+        "weight": 4,
+        "type": "ai"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-28T07:57:17+08:00",
+      "fetchedAt": "2026-11-28T11:37:17+08:00",
+      "category": "模型发布",
+      "keywords": [
+        "release",
+        "Claude"
+      ],
+      "confidence": 1,
+      "score": 45,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "datasette-charts 0.4a0 发布：新增图表类型插件钩子",
+        "takeaway": "Datasette 图表插件开放扩展钩子，并用 Claude Opus 5.5 构建实验插件验证。",
+        "bullets": [
+          "datasette-charts 0.4a0 引入插件钩子，允许其他插件定义新图表类型",
+          "作者此前未实际使用该钩子，本次用 Claude Opus 5.5 构建实验插件",
+          "实验插件用于验证钩子可用性，为生态扩展图表类型铺路"
+        ],
+        "detail": "datasette-charts 0.4a0 版本为插件增加了自定义图表类型的钩子，其他插件可借此扩展图表种类。作者此前一直没实际用过这个钩子，这次让 Claude Opus 5.5 构建了一个实验性插件来测试它。",
+        "generatedAt": "2026-11-28T11:37:21+08:00"
+      }
+    },
+    {
+      "id": "a9eb2ae5ce125487",
+      "title": "谷歌发布新一代 TPU，开发者：真正重要的不是芯片",
+      "url": "https://infoq.cn/article/MrxlyksI1KxvEKLuCg5P",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-28T16:00:00+08:00",
+      "fetchedAt": "2026-11-28T11:37:17+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "芯片",
+        "TPU"
+      ],
+      "confidence": 0.63,
+      "score": 44,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌发布新一代 TPU，开发者却说重点不在芯片",
+        "takeaway": "谷歌推出新 TPU，但开发者认为真正关键的是配套软件与生态，而非硬件本身。",
+        "bullets": [
+          "谷歌发布新一代 TPU 芯片，属于算力芯片领域。",
+          "开发者指出，真正重要的不是芯片，暗示软件生态更关键。",
+          "事件涉及谷歌与开发者群体，可能影响 AI 算力竞争格局。"
+        ],
+        "detail": "谷歌发布了新一代 TPU 芯片。但开发者认为，真正重要的不是芯片本身，而是与之配套的软件和生态。这暗示硬件之外的竞争同样关键。",
+        "generatedAt": "2026-11-28T11:37:21+08:00"
+      }
+    },
+    {
       "id": "d5b56d63a4a47fb6",
       "title": "“观测未来大会”前瞻 | AI 时代，可观测性将迎来怎样的进化？",
       "url": "https://infoq.cn/article/deKZOTSuqBy0T3VYMpTE",
@@ -218,6 +326,188 @@
         "detail": "InfoQ 中国发文探讨 AI Agent 的记忆管理问题，提出三个关键挑战：如何让 Agent 记住信息、准确检索信息、正确修改记忆。文章面向开发者，可能提供相关技术思路或方案。",
         "generatedAt": "2026-11-27T23:26:03+08:00"
       }
+    },
+    {
+      "id": "07a1250560bc6c04",
+      "title": "十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+      "url": "https://infoq.cn/article/vD2gdB9ER7QgjD0W5wds",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-28T19:00:00+08:00",
+      "fetchedAt": "2026-11-28T11:37:17+08:00",
+      "category": "其他",
+      "keywords": [],
+      "confidence": 0,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "谷歌更新 SRE 著作，十年后拥抱 AI 时代",
+        "takeaway": "谷歌更新其 SRE 经典著作，反映 AI 时代运维理念的演进，值得运维和 AI 从业者关注。",
+        "bullets": [
+          "谷歌更新了 SRE 著作，距初版已十年。",
+          "新版内容将融入 AI 时代的相关实践。",
+          "对运维和 AI 从业者具有参考价值。"
+        ],
+        "detail": "谷歌更新了其 SRE 经典著作，距离初版已过去十年。新版将结合 AI 时代背景，更新运维理念和实践。",
+        "generatedAt": "2026-11-28T11:37:23+08:00"
+      }
+    },
+    {
+      "id": "b4be1e96818ceb5f",
+      "title": "华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+      "url": "https://infoq.cn/article/SfAOlgtjHYikEQUKrRVT",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-28T18:00:00+08:00",
+      "fetchedAt": "2026-11-28T11:37:17+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "华映资本李岩将出席AICon北京，分享AI落地能力积累",
+        "takeaway": "华映资本董事总经理李岩确认出席AICon北京，将分享AI落地中值得持续积累的能力，为从业者提供实践参考。",
+        "bullets": [
+          "华映资本董事总经理李岩确认出席AICon北京。",
+          "他将分享AI落地中值得持续积累的能力。",
+          "该分享面向AI落地实践，为从业者提供参考。"
+        ],
+        "detail": "华映资本董事总经理李岩已确认出席AICon北京。届时，他将围绕AI落地过程中值得持续积累的能力进行分享，为关注AI应用落地的从业者提供经验参考。",
+        "generatedAt": "2026-11-28T11:37:23+08:00"
+      }
+    },
+    {
+      "id": "2a1a87485f159e9d",
+      "title": "Netflix将GPU可靠性视为分布式系统的问题",
+      "url": "https://infoq.cn/article/PdhfyXFhNVWNK5055l2H",
+      "summary": "点击查看原文>",
+      "source": {
+        "id": "infoq-ai",
+        "name": "InfoQ 中国",
+        "weight": 3,
+        "type": "ai"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-28T18:00:00+08:00",
+      "fetchedAt": "2026-11-28T11:37:17+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "GPU"
+      ],
+      "confidence": 1,
+      "score": 35,
+      "related": [],
+      "pushed": false,
+      "interpret": {
+        "headline": "Netflix 将 GPU 可靠性视为分布式系统问题",
+        "takeaway": "Netflix 把 GPU 故障当作分布式系统问题处理，为大规模 AI 基础设施稳定性提供新思路。",
+        "bullets": [
+          "Netflix 提出 GPU 可靠性应像分布式系统一样管理",
+          "强调从系统层面应对 GPU 故障而非单卡修复",
+          "对大规模 AI 训练和推理的稳定性有参考价值"
+        ],
+        "detail": "Netflix 认为 GPU 可靠性问题不能只靠硬件本身解决，而应纳入分布式系统框架来设计。这意味着把 GPU 故障视为常态，通过系统级容错和调度来保障整体服务稳定。这一思路对运行大规模 AI 负载的团队有借鉴意义。",
+        "generatedAt": "2026-11-28T11:37:23+08:00"
+      }
+    },
+    {
+      "id": "e0aaf92858bc9fb3",
+      "title": "AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么",
+      "url": "https://tmtpost.com/8221273.html",
+      "summary": "一场还没有完全出现在报表里的利润挤压。",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-28T11:17:25+08:00",
+      "fetchedAt": "2026-11-28T11:37:17+08:00",
+      "category": "算力芯片",
+      "keywords": [
+        "服务器"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "f6bbe53fc638ffea",
+      "title": "客户不买单，具身智能的“第一”还值几个钱？",
+      "url": "https://tmtpost.com/8220898.html",
+      "summary": "一份对机器人落地能力的测评成绩，能说明什么？",
+      "source": {
+        "id": "tmtpost",
+        "name": "钛媒体",
+        "weight": 2,
+        "type": "general"
+      },
+      "lang": "zh",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-28T10:33:00+08:00",
+      "fetchedAt": "2026-11-28T11:37:17+08:00",
+      "category": "产品应用",
+      "keywords": [
+        "落地",
+        "客户"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
+    },
+    {
+      "id": "042a3442cc91d736",
+      "title": "4 ways to catch what your agent broke (collected from this forum)",
+      "url": "https://forum.cursor.com/t/4-ways-to-catch-what-your-agent-broke-collected-from-this-forum/179442",
+      "summary": "A few days ago I asked how people know whether the agent broke something. The answers were so good I turned them into a checklist. Credit to Jake, Igor, Michael, Tyson and VibeNow from the original thread. 1. Baseline before the agent start…",
+      "source": {
+        "id": "cursor-guides",
+        "name": "Cursor 论坛指南",
+        "weight": 2,
+        "type": "cursor"
+      },
+      "lang": "en",
+      "domain": "tech",
+      "topic": "ai",
+      "publishedAt": "2026-11-28T07:19:00+08:00",
+      "fetchedAt": "2026-11-28T11:37:17+08:00",
+      "category": "Cursor",
+      "keywords": [
+        "Cursor"
+      ],
+      "confidence": 1,
+      "score": 30,
+      "related": [],
+      "pushed": false
     }
   ],
   "topic": "ai"
